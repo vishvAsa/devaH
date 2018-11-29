@@ -1,0 +1,24 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+title: भागाः
+contents:
+  - title: मन्त्राः
+    url: /mantra/
+  - title: कल्पः आपस्तम्बोक्तः
+    url: /kalpa/Apastamba/
+  - title: कल्पः बोधयनोक्तः
+    url: /kalpa/bodhAyana/
+  - title: वंशाः
+    url: /bloodlines/
+  - title: काव्यम्
+    url: /kaavya/videos.html
+  - title: ज्यौतिषम्
+    url: /jyotisha.html
+  - title: संस्कृतम्
+    url: /sanskrit/index.html
+  - title: Notes Home
+    url: /../notes/index.html
+  - title: Vishvas's home page
+    url: /../index.html
+  - title: Blog
+    url: /assets/blog/index.html

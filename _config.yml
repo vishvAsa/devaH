@@ -58,7 +58,7 @@ defaults:
       comments: true
       search: true
       sidebar: saMskAra_sidebar
-      topnav: saMskAra_sidebar
+      topnav: home_sidebar
   -
     scope:
       path: ""
@@ -68,7 +68,7 @@ defaults:
       comments: true
       search: true
       sidebar: saMskAra_sidebar
-      topnav: saMskAra_sidebar
+      topnav: home_sidebar
       permalink: /posts/:slug:output_ext
 # these are defaults used for the frontmatter for these file types
 
