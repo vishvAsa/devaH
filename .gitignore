@@ -1,0 +1,13 @@
+_site
+docs
+.sass-cache
+.jekyll-metadata
+Gemfile.lock
+
+# Intellij files.
+*.iml
+
+# latex stuff
+*.log
+*.aux
+*.out

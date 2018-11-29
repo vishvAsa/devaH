@@ -1,0 +1,122 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+title: भागाः
+contents:
+  - title: मन्त्राः
+    contents:
+        - title: अग्निः
+          contents:
+            - title: ऋचः
+              contents:
+                - url: dir://mantra/agni/Rk/
+            - title: सामानि
+              contents:
+                - url: dir://mantra/agni/paravastu-saama/
+            - title: यजूंषि
+              contents:
+                - url: dir://mantra/agni/Rk/
+        - title: इन्द्रः
+          contents:
+            - title: सामानि
+              contents:
+                - url: dir://mantra/indra/paravastu-saama/
+            - title: ऋचः
+              contents:
+                - url: dir://mantra/indra/Rk
+            - title: यजूंषि
+              contents:
+                - url: dir://mantra/indra/yajus
+        - title: सोमः
+          contents:
+            - title: सामानि
+              contents:
+                - url: dir://mantra/soma/paravastu-saama/
+        - title: परिशिष्टम्
+          contents:
+            - title: सामानि
+              contents:
+                - url: dir://mantra/misc-devas/paravastu-saama/
+            - title: ऋचः
+              contents:
+                - url: dir://mantra/misc-devas/Rk
+            - title: यजूंषि
+              contents:
+                - url: dir://mantra/misc-devas/yajus
+            - title: ब्राह्मणानि
+              contents:
+                - url: dir://mantra/misc-devas/brAhmaNa
+        - title: सङ्ग्रहाः
+          contents:
+            - title: सामानि
+              contents:
+                - url: dir://mantra/sangrahAH/paravastu-saama/
+            - title: शिष्टम्
+              contents:
+                - url: dir://mantra/sangrahAH/
+  - title: कल्पः आपस्तम्बोक्तः
+    contents:
+      - title: संस्काराः
+        contents:
+          - url: dir://kalpa/Apastamba/saMskAra
+      - title: परिशिष्टकर्माणि
+        contents:
+          - url: dir://kalpa/Apastamba/
+      - title: सूत्राणि
+        contents:
+          - title: धर्मसूत्राणि
+            contents:
+              - title: क्रियाः
+                contents:
+                  - url: dir://kalpa/Apastamba/pramANAni/dharma-sUtra/kriyAH
+              - title: आश्रमः
+                contents:
+                    - url: dir://kalpa/Apastamba/pramANAni/dharma-sUtra/pAtra/Ashrama
+              - title: पात्राणि
+                contents:
+                  - url: dir://kalpa/Apastamba/pramANAni/dharma-sUtra/pAtra
+              - title: तत्त्वानि
+                contents:
+                  - url: dir://kalpa/Apastamba/pramANAni/dharma-sUtra/tattvAni
+  - title: कल्पः बोधयनोक्तः
+    contents:
+        - url: dir://kalpa/bodhAyana
+  - title: वंशाः
+    contents:
+      - title: Pics
+        url: /bloodlines/pics.html
+      - title: भार्गवाः
+        url: /bloodlines/bhaargava.html
+      - title: आङ्गीरसाः
+        url: /bloodlines/aangiirasa.html
+      - title: कौशिकाः
+        url: /bloodlines/kaushika.html
+      - title: Misc info
+        url: /bloodlines/
+  - title: काव्यम्
+    contents:
+      - title: Videos
+        url: /kaavya/videos.html
+  - title: ज्यौतिषम्
+    url: /jyotisha.html
+  - title: संस्कृतम्
+    contents:
+      - title: संस्कृताभ्यासाय योगदानम्
+        url: /sanskrit/index.html
+      - title: Why?
+        url: /sanskrit/why.html
+      - title: Misconceptions
+        url: /sanskrit/misconceptions.html
+      - title: Miscellaneous questions
+        url: /sanskrit/misc-faq.html
+      - title: शिक्षा
+        contents:
+          - title: परिचयः
+            url: /sanskrit/shixaa/
+          - title: Reciting and Recording
+            url: "https://sanskrit.github.io/projects/audio/tips.html"
+  - title: Notes Home
+    url: /index.html
+  - title: Vishvas's home page
+    url: /../index.html
+  - title: Blog
+    url: /assets/blog/index.html
