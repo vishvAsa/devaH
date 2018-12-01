@@ -45,8 +45,7 @@ emphasis_as_inline_comments: true
 <div class="js_include" url="../../indra/paravastu-saama/tvAvataH.md"  newLevelForH1="2" includeTitle="true"> </div> 
 
  
-ग्रामेगेयं ।  इ०,*([])*द्र०, नारोओ । ने,*([])*मा, धाइताअ । हा,*([])*व०ता, इ । य*([])*त्, पारा, याअ । यू,*([])*ना, जाताइ । धि*([])*यास्ता: आह । शू,*([])*रो, नार्षाअ । ता,*([])*श्रा, वासा: । चा,*([])*का, मा,इ । आ,*([])*गो, मा, तिइ । व्र*([])*जाइ 
-भाजाअ  । त्व०*([])*न्ना,*([])*आआउवाअ । ए,*([])*ए, आ*([])*यू: ॥
+<div class="js_include" url="../../indra/paravastu-saama/indran-naro-grAma-geyam"  newLevelForH1="2" includeTitle="true"> </div>
 
    
 त्य*([])*मूषुउ ।  वा,*([])*आजिना*([])*अ० । दे*([])*वजू, उताअ० । स*([])*होवा, 
