@@ -22,6 +22,9 @@ emphasis_as_inline_comments: true
 - गोपालार्यः 2015  
 <div class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/hari-shrI-nidhanam.mp3"></div>
+- गोपालपवनयोर् अनुवचनम् 2015  
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/hari-shrI-nidhanam.mp3"></div>
 
 हरिश्रीनिधनम्*(३)*।
 

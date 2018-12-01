@@ -23,6 +23,9 @@ emphasis_as_inline_comments: true
 - गोपालार्यः 2015  
 <div class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/namas-te-agne.mp3"></div>
+- गोपालपवनयोर् अनुवचनम् 2015  
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/namas-te-agne.mp3"></div>
 
 ना*([क])*मस्तौ हो*([का]%"%)*ग्नाइ। ओ*([तः]")*ओजसा*(३)*अइ।
 

@@ -20,6 +20,9 @@ emphasis_as_inline_comments: true
 - गोपालार्यः 2015  
 <div class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/nAnadam.mp3"></div>
+- गोपालपवनयोर् अनुवचनम् 2015  
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/nAnadam.mp3"></div>
 
 नानदम्*(३)*॥  
 प्र*([ठू])*त्या*(३)*स्मै*(["])* पीपिइषा*([टि]--"३)*ता*(--"३)*इ।

@@ -21,6 +21,9 @@ SV.1.92b; AV;S.12.2.12b; 18.1.61b.
 - गोपालार्यः 2015  
 <div class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/Aruhan-divaH.mp3"></div>
+- गोपालपवनयोर् अनुवचनम् 2015  
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/Aruhan-divaH.mp3"></div>
 
 {आ*([फृ]%)*रो*("३)*,ऒ*([?])*हन्।}*([त्रिः])*
 

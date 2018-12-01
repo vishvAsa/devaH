@@ -22,6 +22,9 @@ RV.9.106.10a; SV.1.572a; 2.290a; JB.3.78a;
 - गोपालार्यः 2015  
 <div class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/AdiShAdiyyam.mp3"></div>
+- गोपालपवनयोर् अनुवचनम् 2015  
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/AdiShAdiyyam.mp3"></div>
 
 आदीषादिय्यम्।
 

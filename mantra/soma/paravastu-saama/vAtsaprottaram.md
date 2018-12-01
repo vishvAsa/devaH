@@ -28,6 +28,9 @@ RV 9 97_*(809)* 40 a
 - गोपालार्यः 2015  
 <div class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/vAtsaprottaram.mp3"></div>
+- गोपालपवनयोर् अनुवचनम् 2015  
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/vAtsaprottaram.mp3"></div>
 
 वात्सप्रोत्तरम्।
 

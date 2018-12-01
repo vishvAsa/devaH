@@ -21,6 +21,9 @@ emphasis_as_inline_comments: true
 - गोपालार्यः 2015  
 <div class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/varuNa-sUktam-1.mp3"></div>
+- गोपालपवनयोर् अनुवचनम् 2015  
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/varuNa-sUktam-1.mp3"></div>
 
 वरुण सूक्तम्*(३)*।
 

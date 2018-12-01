@@ -29,6 +29,9 @@ RV.2.22.4b; SV.1.466b.
 - गोपालार्यः 2015  
 <div class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/tava-tyan-naryam.mp3"></div>
+- गोपालपवनयोर् अनुवचनम् 2015  
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/tava-tyan-naryam.mp3"></div>
 
 ता*([फा]"३)*आव त्यन् ना*(%%३)*अर्यन् नृता*(")*उ।
 

@@ -23,6 +23,9 @@ RV.8.23.13b; SV.1.114b.
 - गोपालार्यः 2015  
 <div class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/yadvA.mp3"></div>
+- गोपालपवनयोर् अनुवचनम् 2015  
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/yadvA.mp3"></div>
 
 य*([पि])*द्वा*(["]%)* ऊउ, विश्पा, अतश् शि*(~~चि~~)*तह*(v)*।
 

@@ -23,6 +23,9 @@ RV.9.108.13a; SV.1.582a; 2.446a; JB.3.161
 - गोपालार्यः 2015  
 <div class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/dIrgham.mp3"></div>
+- गोपालपवनयोर् अनुवचनम् 2015  
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/dIrgham.mp3"></div>
 
 दीर्घम्। सा*([ता]"३)* सु। न्वे*([तः])* यो*(["]%)* वसू*("३)*ऊनाम्।
 

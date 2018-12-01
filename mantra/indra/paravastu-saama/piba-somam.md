@@ -25,6 +25,9 @@ RV.7.22.1a; AV;S.20.117.1a; SV.1.398a; 2.277a; TS.2.4.14.3a; AB.3.22.11; 5.4.19;
 - गोपालार्यः 2015  
 <div class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/piba-somam.mp3"></div>
+- गोपालपवनयोर् अनुवचनम् 2015  
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/piba-somam.mp3"></div>
 
 पि*([फ])*बा*(%")*अ। सो*(["ता])*मम् +इन्द्र मन्दतु त्वा*([प्रे])*अ।
 

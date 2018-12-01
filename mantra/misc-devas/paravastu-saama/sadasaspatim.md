@@ -18,6 +18,9 @@ RV.1.18.6a; RVKh.10.151.7a; SV.1.171a; VS.32.13a; TA.10.1.4a; MahAnU.2.8a; ;S;S.
 - गोपालार्यः 2015  
 <div class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/sadas.mp3"></div>
+- गोपालपवनयोर् अनुवचनम् 2015  
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/sadas.mp3"></div>
 
 सा*([का]३)*द*(")*अ । स*([घि])*स्पता*(--"३)*इमा*(["?])*द्भू*(३)*,ताओ*([लू]"३)*वाआ ।
 

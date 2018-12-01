@@ -23,6 +23,9 @@ RV.9.61.10b; SV.1.467b; 2.22b; VS.26.16b; JB.1.81,116; 3.40.
 - गोपालार्यः 2015  
 <div class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/uchchA-te.mp3"></div>
+- गोपालपवनयोर् अनुवचनम् 2015  
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/uchchA-te.mp3"></div>
 
 उ*([प])*च्चा*(--%)*आ। ते*(["ट]-)*जा*(["]३)*आ*([रॄ?ण])*,,ता*(vv-v३)*म् आ*(vv-v३)*न्,धा*(vv-v३)*सा*([प्रे])*अह।
 

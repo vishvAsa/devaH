@@ -25,6 +25,9 @@ AV;S.4.1.1a; 5.6.1a; AVP.5.2.2a; 6.11.1a; SV.1.321a; VS.13.3a; TS.4.2.8.2a; MS.2
 - गोपालार्यः 2015  
 <div class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/brahma-jajJNAnam-1.mp3"></div>
+- गोपालपवनयोर् अनुवचनम् 2015  
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/brahma-jajJNAnam-1.mp3"></div>
 
 ब्र*([त])*ह्मा*(%)* ब्रा*([तः]"३)*अह्मा, ज*([पो])*ज्ञा*(")*आनम्।
 
@@ -48,6 +51,9 @@ AV;S.4.1.1a; 5.6.1a; AVP.5.2.2a; 6.11.1a; SV.1.321a; VS.13.3a; TS.4.2.8.2a; MS.2
 - गोपालार्यः 2015  
 <div class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/brahma-jajJNAnam-2.mp3"></div>
+- गोपालपवनयोर् अनुवचनम् 2015  
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/brahma-jajJNAnam-2.mp3"></div>
 
 {हु*([घॄ])*वे*([रॄ]"३)*हा*(३)*{अ}इ।}*([द्विः])*। ही*([घू]%)*षा*([रॄ]"३)*अया*(३)*।
 

@@ -20,6 +20,9 @@ emphasis_as_inline_comments: true
 - गोपालार्यः 2015  
 <div class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/vAstoShpate-dhruva.mp3"></div>
+- गोपालपवनयोर् अनुवचनम् 2015  
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/vAstoShpate-dhruva.mp3"></div>
 
 वा*(["प])*स्तो*(["]३)*ओष्पताइ। ध्रू*([र])*वा*("३)*। स्थू*([पॄ]"%३)*,णा*(%)*ओ*("३)*वाअ  
 अम्*([घि])*सत्*(२)*रं सो*(["])*ऒम्या*(["])*अ*([पि])*न्*(२)*आ*([प्रे])*अम्।
