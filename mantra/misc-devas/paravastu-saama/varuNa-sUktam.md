@@ -21,6 +21,9 @@ emphasis_as_inline_comments: true
 - गोपालार्यः 2015  
 <div class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/varuNa-sUktam-1.mp3"></div>
+- गोपाल-विश्वासयोर् अनुवचनम् 2018  
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018/varuNa-sUktam-1.mp3"></div>
 - गोपालपवनयोर् अनुवचनम् 2015  
 <div class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/varuNa-sUktam-1.mp3"></div>
@@ -45,6 +48,9 @@ emphasis_as_inline_comments: true
 - गोपालार्यः 2015  
 <div class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/varuNa-sUktam-2.mp3"></div>
+- गोपाल-विश्वासयोर् अनुवचनम् 2018  
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018/varuNa-sUktam-2.mp3"></div>
 
 प्र*([पो])*मित्राय प्रौ*(["]%३)* उहो*(%)*वाअ।
 
@@ -60,6 +66,9 @@ emphasis_as_inline_comments: true
 - गोपालार्यः 2015  
 <div class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/varuNa-sUktam-3.mp3"></div>
+- गोपाल-विश्वासयोर् अनुवचनम् 2018  
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018/varuNa-sUktam-3.mp3"></div>
 
 प्र*([प्रै])*मित्रा*(["])*य प्रा*(["]३)*अ,,र्यम्णो*(%३)*वा*(३)* +ओ*([का]%३)*वाअ।
 

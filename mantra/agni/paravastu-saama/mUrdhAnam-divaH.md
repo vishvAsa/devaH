@@ -20,6 +20,9 @@ emphasis_as_inline_comments: true
 - गोपालार्यः 2015  
 <div class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/mUrdhAnam-divaH-1.mp3"></div>
+- गोपाल-विश्वासयोर् अनुवचनम् 2018  
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018/mUrdhAnam-divaH-1.mp3"></div>
 
 मू*(["पो])*र्धो*("%३)*,हाइ,,नन्*([गे])*दा*(%)*इवा*(३)*ह*(v)*।  
 अ*([त])*रताइम्, पॄ*([तः]"२)*थीव्याह*(")* ।  
@@ -34,6 +37,9 @@ emphasis_as_inline_comments: true
 - गोपालार्यः 2015  
 <div class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/mUrdhAnam-divaH-2.mp3"></div>
+- गोपाल-विश्वासयोर् अनुवचनम् 2018  
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018/mUrdhAnam-divaH-2.mp3"></div>
 
 हो*(["को]%%३)*,ऒवा*(-"३)*,[अ]इ, मू*(["पै])*र्धो*(")*,हाइ,,  
 नन्*([र])*दा*(--%३)*इ,वा*([रा])*+[अ*(v)*]आरा*(")*,,तिम्*([पि]२)*पॄथिव्याह*(v)* ।  

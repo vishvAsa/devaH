@@ -59,6 +59,9 @@ RV.7.32.22a; AV;S.20.121.1a; SV.1.233a; 2.30a; VS.27.35a; TS.2.4.14.2a; MS.2.13.
 - गोपालार्यः 2015  
 <div class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/rathantaram-short-with-error.mp3"></div>
+- गोपाल-विश्वासयोर् अनुवचनम् 2018  
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018/rathantaram-1rk.mp3"></div>
 
 रथन्*(२)*तरम्*(३)*।  
 आ*([र]०)*भि त्वा*(["]३ ०)*। शू*(["])*रनो*(["]३)*ओ, नूमो*(%)*वा*(३)*।  

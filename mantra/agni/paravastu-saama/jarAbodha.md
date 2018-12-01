@@ -20,6 +20,9 @@ emphasis_as_inline_comments: true
 - गोपालार्यः 2015  
 <div class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/jarAbodha.mp3"></div>
+- गोपाल-विश्वासयोर् अनुवचनम् 2018  
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018/jarAbodha.mp3"></div>
 
 जराबोधिय्यं । ज*([])*रा, बोऒ, धोवाअ । ता*([])*द्वि, विड्ढाइ । वी*([])*शाइवा, इशॆ ।  
 य*([])*ज्ञी , याया । स्तो*([])*मां, ०रुऊद्रा, याआ, द्री*([])*इ ।  शि*([])*इ,को,इ । 

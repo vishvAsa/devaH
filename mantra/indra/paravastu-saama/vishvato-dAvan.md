@@ -40,6 +40,9 @@ emphasis_as_inline_comments: true
 - गोपालार्यः 2015  
 <div class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/vishvato-dAvan-2.mp3"></div>
+- गोपाल-विश्वासयोर् अनुवचनम् 2018  
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018/vishvato-dAvan-2.mp3"></div>
 
 वी*([गो])*श्व, तो*(["])*दा*(["])* अवन्, विश्वातो*(["]%३)* नाआ*(["]३)*।  
 भा*([टि])*रा*(["])*, ओ*(["])*वा*(["]३)*। भा*([टि])*रा*(["])*, ओ*(["])*वा*(["]३)*। भा*([टि])*रा*(["])*, ओ*(["])*वा*(["]३)*अ ।  

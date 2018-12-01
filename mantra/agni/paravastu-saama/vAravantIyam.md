@@ -18,6 +18,9 @@ emphasis_as_inline_comments: true
 - गोपालार्यः 2015  
 <div class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/vAravantIyam.mp3"></div>
+- गोपाल-विश्वासयोर् अनुवचनम् 2018  
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018/vAravantIyam.mp3"></div>
 
 वारवन्ती*(३ ~~न्ति~~)*यम् ।  
 अ*([पै])*श्वन् न त्वा*(["]३)*, औ*(["])*हॊहो*(%)*हाइ ।  
