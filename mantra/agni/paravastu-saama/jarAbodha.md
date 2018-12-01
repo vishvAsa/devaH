@@ -1,5 +1,5 @@
 ---
-title: जाराबोधीयम् 
+title: जराबोधीयम् 
 unicode_script: devanagari  
 emphasis_as_inline_comments: true
 ---   
@@ -24,6 +24,10 @@ emphasis_as_inline_comments: true
 <div class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018/jarAbodha.mp3"></div>
 
-जराबोधिय्यं । ज*([])*रा, बोऒ, धोवाअ । ता*([])*द्वि, विड्ढाइ । वी*([])*शाइवा, इशॆ ।  
-य*([])*ज्ञी , याया । स्तो*([])*मां, ०रुऊद्रा, याआ, द्री*([])*इ ।  शि*([])*इ,को,इ । 
-डा*([])*अ ॥
+जराबोधिय्यं । ज*([पै])*रा*(["])*, बो*(["])*ऒ, धोवाअ ।  
+ता*([तै])*द्वि, विड्ढाइ ।  
+वी*([का])*शाइवा, इशॆ ।  
+य*([र])*ज्ञी,या*(["])*या।  
+स्तो*(["घृ])*माम्*(२)*, रुऊद्रा,याआ,  
+द्री*([प])*इ,,शि*([टि])*इ,,  
+को,इ,डा*([प])*अ ॥

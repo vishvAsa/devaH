@@ -26,7 +26,7 @@ emphasis_as_inline_comments: true
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018/varuNa-sUktam-1.mp3"></div>
 - गोपालपवनयोर् अनुवचनम् 2015  
 <div class="audioEmbed" src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/varuNa-sUktam-1.mp3"></div>
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/varuNa-sUktam.mp3"></div>
 
 वरुण सूक्तम्*(३)*।
 
