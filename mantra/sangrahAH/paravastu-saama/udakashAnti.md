@@ -43,20 +43,10 @@ emphasis_as_inline_comments: true
 <div class="js_include" url="../../misc-devas/paravastu-saama/mahi-trINAm.md"  newLevelForH1="2" includeTitle="true"> </div>
  
 <div class="js_include" url="../../indra/paravastu-saama/tvAvataH.md"  newLevelForH1="2" includeTitle="true"> </div> 
-
  
 <div class="js_include" url="../../indra/paravastu-saama/indran-naro-grAma-geyam"  newLevelForH1="2" includeTitle="true"> </div>
 
-   
-त्य*([])*मूषुउ ।  वा,*([])*आजिना*([])*अ० । दे*([])*वजू, उताअ० । स*([])*होवा, 
-न०ता । रु*([])*ता । र०,*([])*राधानाअ० । अ*([])*रिष्टानाइ, मिइ० । प्र*([])*तना, अआ, जेमा, शूउ० । स्व*([])*स्ता । या*([])*इ । ता*([])*र्ष्यामि, हाअअ । हू*([])*उवाइ, मा०
-ङङाअ ॥
-
-
-ई*([])*य, इया, हाइ ।  त्य*([])*मूषुउ, वा, अजिनाअ०, दे, वा, जूतअ० । ई,*([])*इयाया । हा,*([])*अहाइ । स*([])*होवान०ता । रु*([])*ताअ  । र०,*([])*रा, धा, ना, 
-अ० । ई*([])*य, इया, हाइ ।  अ*([])*रिष्टा,*([])*ना*([])*इ । मी, ०*([])*इ०प्रीता । 
-ना,*([])*जेमाशू० । ई,*([])*इया, इया । हा,*([])*अहाइ । स्व*([])*स्ता । या*([])*इ । ता,*([])*र्क्ष्यामि । हअआ । हू*([])*उवाइमा०ङङाअ ॥
-
+<div class="js_include" url="../../misc-devas/paravastu-saama/tyamU-Shu.md"  newLevelForH1="2" includeTitle="true"> </div> 
 
 त्रा,*([])*तारमिंद्र , मविता । रा,*([])*आ, मी, इ०द्रा० । ह*([])*वे, हवे, सुहव०शू । 
 रा,*([])*आ, मी, इ०द्रा० ।  हू*([])*वाइनशक्र० पुरुहू । ता,*([])*आमी, इ०द्रा० ।
