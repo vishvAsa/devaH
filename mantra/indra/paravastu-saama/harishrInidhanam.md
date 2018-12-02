@@ -8,7 +8,7 @@ emphasis_as_inline_comments: true
 
 ३.०४०.०६
 
-*([सायणो [ऽत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart2/rv_sayanabhasya_part2#page/n444/mode/1up&sa=D&ust=1542406658546000)। वैश्वामित्रम्, गायत्रम्, ऐन्द्रम्।])*
+*([सायणो [ऽत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart2/rv_sayanabhasya_part2#page/n444/mode/1up&sa=D&ust=1542406658546000), कौथुमभाष्ये [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis/page/n477)। वैश्वामित्रम्, गायत्रम्, ऐन्द्रम्।])*
 
 गिर्व॑णः पा॒हि *(=पिब।)* नः॑ सु॒तं मधो॒र्धारा॑भिरज्यसे ।
 
