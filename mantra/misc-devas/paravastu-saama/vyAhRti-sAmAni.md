@@ -16,6 +16,9 @@ emphasis_as_inline_comments: true
 ## साम
 
 - पारम्परिक-गान-मूलम् [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n1/mode/1up&sa=D&ust=1542425956425000)।
+- रामानुजार्यः 1974 
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/vyAhRti-sAmAni.mp3"></div>
 - गोपालार्यः 2015  
 <div class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/vyAhRti-sAmAni.mp3"></div>

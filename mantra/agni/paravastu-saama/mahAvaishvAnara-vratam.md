@@ -40,6 +40,9 @@ RV.3.9.2a; SV.1.53a; N.4.14a; M;S.3.8.1a.
 ## साम
 
 - पारम्परिक-गान-मूलम् [अत्र](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/AASHEERVACHANA%20SAAMAANI#page/n7/mode/1up&sa=D&ust=1542425956368000)। कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume2SatyavrataSamasrami1876bis_201804/page/n521&sa=D&ust=1542425956368000)।
+- रामानुजार्यः 1974 
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/mahAvaishvAnaravratam.mp3"></div>
 - गोपालार्यः 2015  
 <div class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/mahAvaishvAnaravratam.mp3"></div>

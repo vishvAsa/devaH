@@ -17,6 +17,9 @@ emphasis_as_inline_comments: true
 
 ## साम १
 - पारम्परिकगानमूलम् - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n2/mode/1up&sa=D&ust=1542425956390000)।]
+- रामानुजार्यः 1974 
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/sakhAya-A-ni-ShIdata-1-shrI-sUktam.mp3"></div>
 - गोपालार्यः 2015  
 <div class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/sakhAya-A-ni-ShIdata-1-shrI-sUktam.mp3"></div>
@@ -35,6 +38,9 @@ emphasis_as_inline_comments: true
 
   
 ## साम २
+- रामानुजार्यः 1974 
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/sakhAya-A-ni-ShIdata-2.mp3"></div>
 - गोपालार्यः 2015  
 <div class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/sakhAya-A-ni-ShIdata-2.mp3"></div>
@@ -51,6 +57,9 @@ emphasis_as_inline_comments: true
 श्रि*([])*येए*(३)* ॥
 
 ## साम ३
+- रामानुजार्यः 1974 
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/sakhAya-A-ni-ShIdata-3.mp3"></div>
 - गोपालार्यः 2015  
 <div class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/sakhAya-A-ni-ShIdata-3.mp3"></div>
@@ -68,6 +77,9 @@ emphasis_as_inline_comments: true
 
   
 ## साम ४
+- रामानुजार्यः 1974 
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/sakhAya-A-ni-ShIdata-4.mp3"></div>
 - गोपालार्यः 2015  
 <div class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/sakhAya-A-ni-ShIdata-4.mp3"></div>
@@ -88,6 +100,9 @@ emphasis_as_inline_comments: true
 
 
 ## साम ५
+- रामानुजार्यः 1974 
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/sakhAya-A-ni-ShIdata-5-shauktam.mp3"></div>
 - गोपालार्यः 2015  
 <div class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/sakhAya-A-ni-ShIdata-5-shauktam.mp3"></div>

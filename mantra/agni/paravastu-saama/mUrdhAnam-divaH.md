@@ -17,6 +17,9 @@ emphasis_as_inline_comments: true
 
 ## साम १
 
+- रामानुजार्यः 1974 
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/mUrdhAnam-divaH-1.mp3"></div>
 - गोपालार्यः 2015  
 <div class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/mUrdhAnam-divaH-1.mp3"></div>
@@ -34,6 +37,9 @@ emphasis_as_inline_comments: true
 अञ् जना,,या*([पै]-%-%-४)*,,न्ता*([पॄ]")*अ दा*(")*इ,वाङ*(")*,ङाहा*(v)* ॥
 
 ## साम २
+- रामानुजार्यः 1974 
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/mUrdhAnam-divaH-2.mp3"></div>
 - गोपालार्यः 2015  
 <div class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/mUrdhAnam-divaH-2.mp3"></div>

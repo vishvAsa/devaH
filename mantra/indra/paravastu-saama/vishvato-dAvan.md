@@ -20,6 +20,9 @@ emphasis_as_inline_comments: true
 ## साम १
 
 - [पारम्परिकगानमूलम् - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n2/mode/1up&sa=D&ust=1542425956390000)।]
+- रामानुजार्यः 1974 
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/vishvato-dAvan-1.mp3"></div>
 - गोपालार्यः 2015  
 <div class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/vishvato-dAvan-1.mp3"></div>
@@ -37,6 +40,9 @@ emphasis_as_inline_comments: true
 ई*([टू])*इइइ ई*(३)* ॥
 
 ## साम २
+- रामानुजार्यः 1974 
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/vishvato-dAvan-2.mp3"></div>
 - गोपालार्यः 2015  
 <div class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/vishvato-dAvan-2.mp3"></div>

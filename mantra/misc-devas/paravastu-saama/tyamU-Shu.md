@@ -20,12 +20,15 @@ emphasis_as_inline_comments: true
 
 ## साम १
 - पारम्परिकगानमूलम् - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n2/mode/1up&sa=D&ust=1542425956390000)।]
+- रामानुजार्यः 1974 
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/tyamU-Shu-1.mp3"></div>
 - गोपालार्यः 2015  
 <div class="audioEmbed" src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/tyamu-Shu.mp3"></div>
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/tyamU-Shu-1.mp3"></div>
 - गोपाल-विश्वासयोर् अनुवचनम् 2018  
 <div class="audioEmbed" src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018/tyamu-Shu.mp3"></div>
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018/tyamU-Shu-1.mp3"></div>
 
 त्य*([])*मूषुउ ।  
 वा,*([])*आजिना*([])*अम्।  
@@ -38,6 +41,15 @@ emphasis_as_inline_comments: true
 हू*([])*उवाइ, माङङाअ ॥
 
 ##‌ साम २
+- रामानुजार्यः 1974 
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/tyamU-Shu-2.mp3"></div>
+- गोपालार्यः 2015  
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/tyamU-Shu-2.mp3"></div>
+- गोपाल-विश्वासयोर् अनुवचनम् 2018  
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018/tyamU-Shu-2.mp3"></div>
 
 ई([])य, इया, हाइ ।  
 त्य([])मूषुउ, वा,अजिनाअम्,  

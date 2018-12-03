@@ -19,6 +19,9 @@ RV.9.61.16a; SV.1.484a; 2.239a; JB.3.59; PB.12.7.5.
 ## साम - जनित्रे द्वे १
 
 - पारम्परिक-गान-मूलम् [अत्र](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/VIVAAHA%20UPANAYANA%20SAAMAANI#page/n1/mode/1up&sa=D&ust=1542425956328000)।
+- रामानुजार्यः 1974 
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/pavamAna.mp3"></div>
 - गोपालार्यः 2015  
 <div class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/pavamAna.mp3"></div>

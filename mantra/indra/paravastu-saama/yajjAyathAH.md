@@ -25,6 +25,9 @@ RV.8.89.5a; SV.2.779a; ArS.2.7a; KB.24.5; A;S.8.5.12; 10.2.22; ;S;S.11.11.14; 18
 ## साम
 
 - पारम्परिक-गान-मूलम् [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/VIVAAHA%20UPANAYANA%20SAAMAANI#page/n3/mode/1up&sa=D&ust=1542425956271000)। [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n8/mode/1up&sa=D&ust=1542425956271000)। कौथुमगाना[न्यत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume2SatyavrataSamasrami1876bis_201804/page/n291&sa=D&ust=1542425956272000)।
+- रामानुजार्यः 1974 
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/yaj-jAyathA-apUrvya.mp3"></div>
 - गोपालार्यः 2015  
 <div class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/yaj-jAyathA-apUrvya.mp3"></div>

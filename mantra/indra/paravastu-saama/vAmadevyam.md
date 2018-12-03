@@ -28,6 +28,9 @@ RV.4.31.1a; AV;S.20.124.1a; SV.1.169a; 2.32a; VS.27.39a; 36.4a; TS.4.2.11.2a; 4.
 ## साम - वामदेव्यम्।
 
 - पारम्परिक-गान-मूलम् [अत्र](https://sanskritdocuments.org/sites/pssramanujaswamy/VIVAAHA%20UPANAYANA%20SAAMAANI.pdf&sa=D&ust=1542425956221000)।
+- रामानुजार्यः 1974 
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/vAmadevyam.mp3"></div>
 - गोपालार्यः 2015  
 <div class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/vAmadevyam.mp3"></div>

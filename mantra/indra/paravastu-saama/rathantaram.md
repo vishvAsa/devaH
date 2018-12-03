@@ -26,6 +26,9 @@ RV.7.32.22a; AV;S.20.121.1a; SV.1.233a; 2.30a; VS.27.35a; TS.2.4.14.2a; MS.2.13.
 ## साम - त्र्यर्चम्
 
 - पारम्परिक-गान-मूलम् [अत्र](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/AASHEERVACHANA%20SAAMAANI#page/n3/mode/1up)। 
+- रामानुजार्यः 1974 
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/rathantaram.mp3"></div>
 - गोपालार्यः 2015  
 <div class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/rathantaram.mp3"></div>
@@ -56,6 +59,9 @@ RV.7.32.22a; AV;S.20.121.1a; SV.1.233a; 2.30a; VS.27.35a; TS.2.4.14.2a; MS.2.13.
 ## साम - एकर्चम्
 - कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis/page/n533)।
 - पारम्परिक-गान-मूलम् [अत्र](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n2/mode/1up)। 
+- रामानुजार्यः 1974 
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/rathantaram-1Rk.mp3"></div>
 - गोपालार्यः 2015  
 <div class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/rathantaram-short-with-error.mp3"></div>

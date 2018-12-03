@@ -18,6 +18,9 @@ emphasis_as_inline_comments: true
 ## साम १
 
 - पारम्परिक-गान-मूलम् [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n1/mode/1up&sa=D&ust=1542425956431000)। कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis/page/n581&sa=D&ust=1542425956432000)।
+- रामानुजार्यः 1974 
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/varuNa-sUktam-1.mp3"></div>
 - गोपालार्यः 2015  
 <div class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/varuNa-sUktam-1.mp3"></div>
@@ -45,6 +48,9 @@ emphasis_as_inline_comments: true
 ऊ*([टि])*उपा*(")*अ*(v३)* ॥
 
 ## साम २
+- रामानुजार्यः 1974 
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/varuNa-sUktam-2.mp3"></div>
 - गोपालार्यः 2015  
 <div class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/varuNa-sUktam-2.mp3"></div>
@@ -63,6 +69,9 @@ emphasis_as_inline_comments: true
 ओ*([ति]"”)*इडा*([प]")*अ॥
 
 ## साम ३
+- रामानुजार्यः 1974 
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/varuNa-sUktam-3.mp3"></div>
 - गोपालार्यः 2015  
 <div class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/varuNa-sUktam-3.mp3"></div>
