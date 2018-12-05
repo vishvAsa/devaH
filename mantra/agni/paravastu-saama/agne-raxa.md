@@ -20,14 +20,11 @@ emphasis_as_inline_comments: true
 ## साम
 
 - पारम्परिकगानमूलम् - [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n15/mode/1up), [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n2/mode/1up&sa=D&ust=1542425956390000)।
-- रामानुजार्यः 1974 
-<div class="audioEmbed" src="https://archive
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/agne-raxa.mp3"></div>
-- गोपालार्यः 2015  
-<div class="audioEmbed" src="https://archive
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/agne-raxa.mp3"></div>
-- गोपाल-विश्वासयोर् अनुवचनम् 2018  
-<div class="audioEmbed" src="https://archive
+<div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018  " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018/agne-raxa.mp3"></div>
 
 {ऊ*([ता]"%"३)*उर्क्। {हा*([प])*उ।}*([त्रिः])* हो*([पे]३)*वाक्।}*([त्रिः])*  

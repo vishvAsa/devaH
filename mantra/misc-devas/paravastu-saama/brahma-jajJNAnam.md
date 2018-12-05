@@ -22,17 +22,13 @@ AV;S.4.1.1a; 5.6.1a; AVP.5.2.2a; 6.11.1a; SV.1.321a; VS.13.3a; TS.4.2.8.2a; MS.2
 ## साम १
 
 - पारम्परिक-गान-मूलम् [अत्र](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI%23mode/1up&sa=D&ust=1542425956412000)।
-- रामानुजार्यः 1974 
-<div class="audioEmbed" src="https://archive
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/brahma-jajJNAnam-1.mp3"></div>
-- गोपालार्यः 2015  
-<div class="audioEmbed" src="https://archive
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/brahma-jajJNAnam-1.mp3"></div>
-- गोपाल-विश्वासयोर् अनुवचनम् 2018  
-<div class="audioEmbed" src="https://archive
+<div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018  " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018/brahma-jajJNAnam-1.mp3"></div>
-- गोपालपवनयोर् अनुवचनम् 2015  
-<div class="audioEmbed" src="https://archive
+<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015  " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/brahma-jajJNAnam-1.mp3"></div>
 
 ब्र*([त])*ह्मा*(%)* ब्रा*([तः]"३)*अह्मा, ज*([पो])*ज्ञा*(")*आनम्।
@@ -54,17 +50,13 @@ AV;S.4.1.1a; 5.6.1a; AVP.5.2.2a; 6.11.1a; SV.1.321a; VS.13.3a; TS.4.2.8.2a; MS.2
 ओ*([ति]"३)*इ,डा*([प]--"३)*अ॥
 
 ## साम २
-- रामानुजार्यः 1974 
-<div class="audioEmbed" src="https://archive
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/brahma-jajJNAnam-2.mp3"></div>
-- गोपालार्यः 2015  
-<div class="audioEmbed" src="https://archive
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/brahma-jajJNAnam-2.mp3"></div>
-- गोपाल-विश्वासयोर् अनुवचनम् 2018  
-<div class="audioEmbed" src="https://archive
+<div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018  " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018/brahma-jajJNAnam-2.mp3"></div>
-- गोपालपवनयोर् अनुवचनम् 2015  
-<div class="audioEmbed" src="https://archive
+<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015  " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/brahma-jajJNAnam-2.mp3"></div>
 
 {हु*([घॄ])*वे*([रॄ]"३)*हा*(३)*{अ}इ।}*([द्विः])*। ही*([घू]%)*षा*([रॄ]"३)*अया*(३)*।

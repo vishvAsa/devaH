@@ -17,14 +17,11 @@ emphasis_as_inline_comments: true
 
 ## साम - यौक्ताश्वाद्यम्
 - पारम्परिक-लेखाः - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n4/mode/1up)।
-- रामानुजार्यः 1974 
-<div class="audioEmbed" src="https://archive
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/yauktAshvAdyam.mp3"></div>
-- गोपालार्यः 2015  
-<div class="audioEmbed" src="https://archive
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/yauktAshvAdyam.mp3"></div>
-- गोपाल-विश्वासयोर् अनुवचनम् 2018  
-<div class="audioEmbed" src="https://archive
+<div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018  " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018/yauktAshvAdyam.mp3"></div>
 
 यौक्ता*("३)*श्वाद्यम्।  
@@ -40,14 +37,11 @@ emphasis_as_inline_comments: true
 
 ## साम - यौक्ताश्वोत्तरम्
 - पारम्परिक-लेखाः - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n4/mode/1up)।
-- रामानुजार्यः 1974 
-<div class="audioEmbed" src="https://archive
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/yauktAshvottaram.mp3"></div>
-- गोपालार्यः 2015  
-<div class="audioEmbed" src="https://archive
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/yauktAshvottaram.mp3"></div>
-- गोपाल-विश्वासयोर् अनुवचनम् 2018  
-<div class="audioEmbed" src="https://archive
+<div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018  " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018/yauktAshvottaram.mp3"></div>
 
 यौक्ता*("३)*श्वोत्तरम् ।  

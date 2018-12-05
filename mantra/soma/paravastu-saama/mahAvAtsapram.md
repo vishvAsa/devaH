@@ -41,14 +41,11 @@ RV.9.101.1a; SV.1.545a; 2.47a; JB.1.116,161a,163a; 2.195,425; 3.79,195; PB.8.5.7
 ## साम
 
 - पारम्परिक-गान-मूलम् [अत्र](https://sanskritdocuments.org/sites/pssramanujaswamy/AASHEERVACHANA%20SAAMAANI.pdf&sa=D&ust=1542425956296000)।
-- रामानुजार्यः 1974 
-<div class="audioEmbed" src="https://archive
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/mahAvAtsapram.mp3"></div>
-- गोपालार्यः 2015  
-<div class="audioEmbed" src="https://archive
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/mahAvAtsapram.mp3"></div>
-- गोपालपवनयोर् अनुवचनम् 2015  
-<div class="audioEmbed" src="https://archive
+<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015  " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/mahAvAtsapram.mp3"></div>
 
 

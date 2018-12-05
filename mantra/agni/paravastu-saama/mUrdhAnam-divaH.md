@@ -17,14 +17,11 @@ emphasis_as_inline_comments: true
 
 ## साम १
 
-- रामानुजार्यः 1974 
-<div class="audioEmbed" src="https://archive
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/mUrdhAnam-divaH-1.mp3"></div>
-- गोपालार्यः 2015  
-<div class="audioEmbed" src="https://archive
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/mUrdhAnam-divaH-1.mp3"></div>
-- गोपाल-विश्वासयोर् अनुवचनम् 2018  
-<div class="audioEmbed" src="https://archive
+<div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018  " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018/mUrdhAnam-divaH-1.mp3"></div>
 
 मू*(["पो])*र्धो*("%३)*,हाइ,,नन्*([गे])*दा*(%)*इवा*(३)*ह*(v)*।  
@@ -37,14 +34,11 @@ emphasis_as_inline_comments: true
 अञ् जना,,या*([पै]-%-%-४)*,,न्ता*([पॄ]")*अ दा*(")*इ,वाङ*(")*,ङाहा*(v)* ॥
 
 ## साम २
-- रामानुजार्यः 1974 
-<div class="audioEmbed" src="https://archive
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/mUrdhAnam-divaH-2.mp3"></div>
-- गोपालार्यः 2015  
-<div class="audioEmbed" src="https://archive
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/mUrdhAnam-divaH-2.mp3"></div>
-- गोपाल-विश्वासयोर् अनुवचनम् 2018  
-<div class="audioEmbed" src="https://archive
+<div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018  " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018/mUrdhAnam-divaH-2.mp3"></div>
 
 हो*(["को]%%३)*,ऒवा*(-"३)*,[अ]इ, मू*(["पै])*र्धो*(")*,हाइ,,  

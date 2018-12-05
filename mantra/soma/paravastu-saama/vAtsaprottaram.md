@@ -25,14 +25,11 @@ RV 9 97_*(809)* 40 a
 ## साम
 
 - पारम्परिक-गान-मूलम् [अत्र](https://sanskritdocuments.org/sites/pssramanujaswamy/AASHEERVACHANA%20SAAMAANI.pdf&sa=D&ust=1542425956310000)।
-- रामानुजार्यः 1974 
-<div class="audioEmbed" src="https://archive
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/vAtsaprottaram.mp3"></div>
-- गोपालार्यः 2015  
-<div class="audioEmbed" src="https://archive
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/vAtsaprottaram.mp3"></div>
-- गोपालपवनयोर् अनुवचनम् 2015  
-<div class="audioEmbed" src="https://archive
+<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015  " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/vAtsaprottaram.mp3"></div>
 
 वात्सप्रोत्तरम्।

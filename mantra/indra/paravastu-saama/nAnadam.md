@@ -17,17 +17,13 @@ emphasis_as_inline_comments: true
 ## साम
 
 *([गानमूलम् - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI%23mode/1up&sa=D&ust=1542425956286000)।])*
-- रामानुजार्यः 1974 
-<div class="audioEmbed" src="https://archive
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/nAnadam.mp3"></div>
-- गोपालार्यः 2015  
-<div class="audioEmbed" src="https://archive
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/nAnadam.mp3"></div>
-- गोपाल-विश्वासयोर् अनुवचनम् 2018  
-<div class="audioEmbed" src="https://archive
+<div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018  " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018/nAnadam.mp3"></div>
-- गोपालपवनयोर् अनुवचनम् 2015  
-<div class="audioEmbed" src="https://archive
+<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015  " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/nAnadam.mp3"></div>
 
 नानदम्*(३)*॥  

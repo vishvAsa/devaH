@@ -17,14 +17,11 @@ emphasis_as_inline_comments: true
 ## साम १
 
 - पारम्परिक-गान-मूलम् [१९३७-लेखा](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n9/mode/1up&sa=D&ust=1542425956279000)। [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n9/mode/1up&sa=D&ust=1542425956279000)। [२०१५-लेखा](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/VIVAAHA%20UPANAYANA%20SAAMAANI#page/n4/mode/1up&sa=D&ust=1542425956280000)। कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis/page/n623&sa=D&ust=1542425956280000)।
-- रामानुजार्यः 1974 
-<div class="audioEmbed" src="https://archive
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/vAstoShpate-dhruva.mp3"></div>
-- गोपालार्यः 2015  
-<div class="audioEmbed" src="https://archive
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/vAstoShpate-dhruva.mp3"></div>
-- गोपालपवनयोर् अनुवचनम् 2015  
-<div class="audioEmbed" src="https://archive
+<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015  " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/vAstoShpate-1.mp3"></div>
 
 वा*(["प])*स्तो*(["]३)*ओष्पताइ। ध्रू*([र])*वा*("३)*। स्थू*([पॄ]"%३)*,णा*(%)*ओ*("३)*वाअ  
@@ -37,8 +34,7 @@ emphasis_as_inline_comments: true
 
 
 ## साम २
-- गोपालपवनयोर् अनुवचनम् 2015  
-<div class="audioEmbed" src="https://archive
+<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015  " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/vAstoShpate-2.mp3"></div>
 
 वा*(["टा])*स्तोष्प*(["])*ते *(%%)*ए, ध्रू*(%)*वा*(")*अ। स्थू*([टू]~~स्तू~~)*,णा*(")*अ।  

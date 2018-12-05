@@ -19,14 +19,11 @@ RV.9.61.16a; SV.1.484a; 2.239a; JB.3.59; PB.12.7.5.
 ## साम - जनित्रे द्वे १
 
 - पारम्परिक-गान-मूलम् [अत्र](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/VIVAAHA%20UPANAYANA%20SAAMAANI#page/n1/mode/1up&sa=D&ust=1542425956328000)।
-- रामानुजार्यः 1974 
-<div class="audioEmbed" src="https://archive
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/pavamAna.mp3"></div>
-- गोपालार्यः 2015  
-<div class="audioEmbed" src="https://archive
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/pavamAna.mp3"></div>
-- गोपालपवनयोर् अनुवचनम् 2015  
-<div class="audioEmbed" src="https://archive
+<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015  " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/pavamAna-p1.mp3"></div>
 
 पा*([का]३)*वा*(३-")*अ। मा*([त]%)*नो*(३")*। अ*([ठौ])*जीजा*(%)*नात् ।  
@@ -35,8 +32,7 @@ RV.9.61.16a; SV.1.484a; 2.239a; JB.3.59; PB.12.7.5.
 औ*(["])*हो*(["]%३)*वा*(३-”)*आ। बॄ*([टू]२%)*हात् ॥
 
 ## साम - जनित्रे द्वे २
-- गोपालपवनयोर् अनुवचनम् 2015  
-<div class="audioEmbed" src="https://archive
+<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015  " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/pavamAna-p2.mp3"></div>
 
 प*([प])*वमा*(%)*नह*(v)* । अ*([तः])*जा*(%)*इ,जा*(")*अना*(")*त*(v)*।  
