@@ -31,6 +31,9 @@ RV.8.89.5a; SV.2.779a; ArS.2.7a; KB.24.5; A;S.8.5.12; 10.2.22; ;S;S.11.11.14; 18
 - गोपालार्यः 2015  
 <div class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/yaj-jAyathA-apUrvya.mp3"></div>
+- गोपालपवनयोर् अनुवचनम् 2015  
+<div class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/yaj-jAyathA-apUrvya.mp3"></div>
 
 {हा*([तैप्रे])*,अहू*(%३)*वा*(--"३)*अक्}*([त्रिः])*।
 
