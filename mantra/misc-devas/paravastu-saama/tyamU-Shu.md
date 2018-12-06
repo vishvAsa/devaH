@@ -19,6 +19,7 @@ emphasis_as_inline_comments: true
 
 
 ## साम १
+
 - पारम्परिकगानमूलम् - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n2/mode/1up&sa=D&ust=1542425956390000)।]
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/tyamU-Shu-1.mp3"></div>
@@ -40,6 +41,7 @@ emphasis_as_inline_comments: true
 हू*([])*उवाइ, माङङाअ ॥
 
 ##‌ साम २
+
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/tyamU-Shu-2.mp3"></div>
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive

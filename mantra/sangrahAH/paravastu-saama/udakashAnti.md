@@ -44,13 +44,11 @@ emphasis_as_inline_comments: true
  
 <div class="js_include" url="../../indra/paravastu-saama/tvAvataH.md"  newLevelForH1="2" includeTitle="true"> </div> 
  
-<div class="js_include" url="../../indra/paravastu-saama/indran-naro-grAma-geyam"  newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="../../indra/paravastu-saama/indran-naro-grAma-geyam.md"  newLevelForH1="2" includeTitle="true"> </div>
 
 <div class="js_include" url="../../misc-devas/paravastu-saama/tyamU-Shu.md"  newLevelForH1="2" includeTitle="true"> </div> 
 
-त्रा,*([])*तारमिंद्र , मविता । रा,*([])*आ, मी, इ०द्रा० । ह*([])*वे, हवे, सुहव०शू । 
-रा,*([])*आ, मी, इ०द्रा० ।  हू*([])*वाइनशक्र० पुरुहू । ता,*([])*आमी, इ०द्रा० ।
-इ*([])*द०, मघव, स्वस्तीनो । मा*([])*घावा । वा,*([])*अअइ । तू,*([])*उ, वाइ ,    द्राङङाह ॥
+<div class="js_include" url="../../indra/paravastu-saama/trAtAram-indram.md"  newLevelForH1="2" includeTitle="true"> </div>
 
  
 <div class="js_include" url="../../soma/paravastu-saama/AdIShAdiyyam.md"  newLevelForH1="2" includeTitle="true"> </div> ॥
