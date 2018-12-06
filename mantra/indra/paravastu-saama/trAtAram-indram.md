@@ -8,15 +8,15 @@ emphasis_as_inline_comments: true
 
 *([सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis/page/n737) कौथुमभाष्ये। वारुणिः सत्यधृतिः, वत्सः च। मित्रः वरुणः अर्यमा इन्द्रः।])*
 
-१ ४ १ ०५०२  
+१ ४ १ म्५म्२  
 त्रातारमिन्द्रमवितारमिन्द्रं हवेहवे*(=ह्वाने ह्वाने)* सुहवं*(=स्वाह्वेयं)* शूरमिन्द्रम्।  
-हुवे*(=ह्वयामि)* नु शक्रं पुरुहूतमिन्द्रमिदं हविर् मघवा वेत्व्*(=वैतु =भक्षयतु)* इ्द्रः॥
+हुवे*(=ह्वयामि)* नु शक्रं पुरुहूतमिन्द्रमिदं [+मघवस् स्वस्ति नो] हविर् मघवा वेत्व्*(=वैतु =भक्षयतु)* इ्द्रः॥
 
 ![](../images/indra-rising-to-protect-charriots-of-army.jpg)
 
 
 ## साम १
-- पारम्परिकगानमूलम् - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n2/mode/1up&sa=D&ust=1542425956390000)।]
+- पारम्परिकगानमूलम् - [२म्१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n2/mode/1up&sa=D&ust=1542425956390000)।]
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/trAtAram-indram.mp3"></div>
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
@@ -26,4 +26,9 @@ emphasis_as_inline_comments: true
 <div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1.5x" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018-150p-speed/trAtAram-indram.mp3"></div>
 
-त्रा,([])तारमिन्द्रम्,अविता । रा,([])आ, मी, इ०द्रा० । ह([])वे, हवे, सुहव०शू । रा,([])आ, मी, इ०द्रा० । हू([])वाइनशक्र० पुरुहू । ता,([])आमी, इ०द्रा० । इ([])द०, मघव, स्वस्तीनो । मा([])घावा । वा,([])अअइ । तू,([])उ, वाइ , द्राङङाह ॥
+त्रा,([])तारमिन्द्रम् अविता,,रा,([])आ,मी,इन्द्राम् ।  
+ह([])वे, हवे, सुहवम् शू,,रा,([])आ,मी, इन्द्राम्।  
+हू([])वाइनशक्रम् पुरुहू,,ता([])आमी,इन्द्राम् ।  
+इ([])दम्, मघव, स्वस्ती नो।  
+मा([])घावा।  
+वा,([])अअइ,,तू,([])उ, वा इ,न्द्राङङाह ॥
