@@ -31,6 +31,9 @@ contents:
             - title: सामानि
               contents:
                 - url: dir://mantra/soma/paravastu-saama/
+            - title: ऋचः
+              contents:
+                - url: dir://mantra/soma/Rk
         - title: परिशिष्टम्
           contents:
             - title: सामानि
