@@ -20,10 +20,14 @@ emphasis_as_inline_comments: true
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/vyAhRti-sAmAni.mp3"></div>
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/vyAhRti-sAmAni.mp3"></div>
-<div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018  " src="https://archive
+<div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1x" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018/vyAhRti-sAmAni.mp3"></div>
-<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015  " src="https://archive
+<div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1.5x" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018-150p-speed/vyAhRti-sAmAni.mp3"></div>
+<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1x" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/vyAhRti-sAmAni.mp3"></div>
+<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1.5x" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015-150p-speed/vyAhRti-sAmAni.mp3"></div>
 
 भू*([प]३)*हु*(v)*,  भू*([त]३)*हु*(v)*,  {हो*([त]")*इ, भू*([त])*हु*(v)*,}*([द्विः])*। ह*([पौ])*आ*(३)*उवा*(-"३)*अ।
 

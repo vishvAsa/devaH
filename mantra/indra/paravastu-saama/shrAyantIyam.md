@@ -28,10 +28,14 @@ RV.8.99.3a; AV;S.20.58.1a; SV.1.267a; 2.669a; VS.33.41a; JB.3.261a; KB.25.6; A;S
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/shrAyantIyam.mp3"></div>
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/shrAyantIyam.mp3"></div>
-<div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018  " src="https://archive
+<div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1x" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018/shrAyantIyam.mp3"></div>
-<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015  " src="https://archive
+<div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1.5x" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018-150p-speed/shrAyantIyam.mp3"></div>
+<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1x" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/shrAyantIyam.mp3"></div>
+<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1.5x" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015-150p-speed/shrAyantIyam.mp3"></div>
 
 श्रा*(३)*यन्ती*(३)*यम्।  
 

@@ -25,8 +25,10 @@ RV.8.23.1b; SV.1.103b.
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/IDiShva.mp3"></div>
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/IDiShva.mp3"></div>
-<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015  " src="https://archive
+<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1x" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/IDiShva.mp3"></div>
+<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1.5x" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015-150p-speed/IDiShva.mp3"></div>
 
 ई*(["पी])*+डाइष्वा*(३)*अ +हि प्राती*(%)*व्या*(")*अम्।
 

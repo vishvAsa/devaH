@@ -23,8 +23,10 @@ emphasis_as_inline_comments: true
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/abodhyagniH.mp3"></div>
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/abodhyagniH.mp3"></div>
-<div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018  " src="https://archive
+<div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1x" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018/abodhyagniH.mp3"></div>
+<div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1.5x" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018-150p-speed/abodhyagniH.mp3"></div>
 
 आ*([])*बॊओ, धिय्याअअ ।  ग्ना*([])*इसामिधाअ, जा ना, अ*([])*ना, अं । प्र*([])*ताइ । 
 धे,*([])*एनुं । इ*([])*वायतीमुषासं । य*([])*: ह्वा, ई, इवा । प्रा०*([])*वा,*([])*आया, मुज्जी, हाना :  आह । प्रा*([])*भा, ना, अवा: । स*([])*सृतेना, कामाच्छा । इ*([])*डा, अभा, अअ । ओ*([])*इ । डा*([])*अ ॥

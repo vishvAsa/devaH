@@ -25,8 +25,10 @@ SV.1.445b; 2.464b; AA.5.2.2.11; ;S;S.18.15.5b.
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/archantyarkam.mp3"></div>
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/archantyarkam.mp3"></div>
-<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015  " src="https://archive
+<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1x" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/archantyarkam.mp3"></div>
+<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1.5x" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015-150p-speed/archantyarkam.mp3"></div>
 
 अ*([की])*र्चन्तिया*(--%३)*अर्।  कम्*([घै]२)* मरुतस् सूवा*("३)*आर्का*(३)*ह*(v)*।
 

@@ -23,8 +23,10 @@ RV.9.61.16a; SV.1.484a; 2.239a; JB.3.59; PB.12.7.5.
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/pavamAna.mp3"></div>
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/pavamAna.mp3"></div>
-<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015  " src="https://archive
+<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1x" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/pavamAna-p1.mp3"></div>
+<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1.5x" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015-150p-speed/pavamAna-p1.mp3"></div>
 
 पा*([का]३)*वा*(३-")*अ। मा*([त]%)*नो*(३")*। अ*([ठौ])*जीजा*(%)*नात् ।  
 दि*([र])*वश्चित्राम्*(२)* न तन्यतू*(३)*म् ।  
@@ -32,8 +34,10 @@ RV.9.61.16a; SV.1.484a; 2.239a; JB.3.59; PB.12.7.5.
 औ*(["])*हो*(["]%३)*वा*(३-”)*आ। बॄ*([टू]२%)*हात् ॥
 
 ## साम - जनित्रे द्वे २
-<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015  " src="https://archive
+<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1x" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/pavamAna-p2.mp3"></div>
+<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1.5x" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015-150p-speed/pavamAna-p2.mp3"></div>
 
 प*([प])*वमा*(%)*नह*(v)* । अ*([तः])*जा*(%)*इ,जा*(")*अना*(")*त*(v)*।  
 दि*([जि])*वश्चित्रा*(-"३)*म्। हा*(-"३)*अइ।  

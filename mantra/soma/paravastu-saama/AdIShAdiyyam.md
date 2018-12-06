@@ -23,8 +23,10 @@ RV.9.106.10a; SV.1.572a; 2.290a; JB.3.78a;
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/AdiShAdiyyam.mp3"></div>
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/AdiShAdiyyam.mp3"></div>
-<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015  " src="https://archive
+<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1x" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/AdiShAdiyyam.mp3"></div>
+<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1.5x" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015-150p-speed/AdiShAdiyyam.mp3"></div>
 
 आदीषादिय्यम्।
 

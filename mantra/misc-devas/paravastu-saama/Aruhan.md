@@ -22,8 +22,10 @@ SV.1.92b; AV;S.12.2.12b; 18.1.61b.
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/Aruhan-divaH.mp3"></div>
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/Aruhan-divaH.mp3"></div>
-<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015  " src="https://archive
+<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1x" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/Aruhan-divaH.mp3"></div>
+<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1.5x" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015-150p-speed/Aruhan-divaH.mp3"></div>
 
 {आ*([फृ]%)*रो*("३)*,ऒ*([?])*हन्।}*([त्रिः])*
 

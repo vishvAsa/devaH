@@ -44,8 +44,10 @@ RV.3.9.2a; SV.1.53a; N.4.14a; M;S.3.8.1a.
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/mahAvaishvAnaravratam.mp3"></div>
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/mahAvaishvAnaravratam.mp3"></div>
-<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015  " src="https://archive
+<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1x" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/mahAvaishvAnaravratam.mp3"></div>
+<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1.5x" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015-150p-speed/mahAvaishvAnaravratam.mp3"></div>
 
 महावैश्वानरव्रतम्।
 

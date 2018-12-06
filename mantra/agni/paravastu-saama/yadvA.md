@@ -24,8 +24,10 @@ RV.8.23.13b; SV.1.114b.
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/yadvA.mp3"></div>
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/yadvA.mp3"></div>
-<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015  " src="https://archive
+<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1x" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/yadvA.mp3"></div>
+<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1.5x" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015-150p-speed/yadvA.mp3"></div>
 
 य*([पि])*द्वा*(["]%)* ऊउ, विश्पा, अतश् शि*(~~चि~~)*तह*(v)*।
 

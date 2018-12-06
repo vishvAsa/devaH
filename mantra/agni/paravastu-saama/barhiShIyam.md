@@ -26,8 +26,10 @@ RV.6.16.10
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/barhiShIyam.mp3"></div>
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/barhiShIyam.mp3"></div>
-<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015  " src="https://archive
+<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1x" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/barhiShIyam.mp3"></div>
+<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1.5x" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015-150p-speed/barhiShIyam.mp3"></div>
 
 ओ*([का]३--%)*ग्ना*(३)*इ। आ*(["पो])*या*(["]--%३)*ही*(३)*इ ।
 

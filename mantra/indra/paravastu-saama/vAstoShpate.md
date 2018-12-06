@@ -21,8 +21,10 @@ emphasis_as_inline_comments: true
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/vAstoShpate-dhruva.mp3"></div>
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/vAstoShpate-dhruva.mp3"></div>
-<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015  " src="https://archive
+<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1x" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/vAstoShpate-1.mp3"></div>
+<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1.5x" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015-150p-speed/vAstoShpate-1.mp3"></div>
 
 वा*(["प])*स्तो*(["]३)*ओष्पताइ। ध्रू*([र])*वा*("३)*। स्थू*([पॄ]"%३)*,णा*(%)*ओ*("३)*वाअ  
 अम्*([घि])*सत्*(२)*रं सो*(["])*ऒम्या*(["])*अ*([पि])*न्*(२)*आ*([प्रे])*अम्।
@@ -34,8 +36,10 @@ emphasis_as_inline_comments: true
 
 
 ## साम २
-<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015  " src="https://archive
+<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1x" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/vAstoShpate-2.mp3"></div>
+<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1.5x" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015-150p-speed/vAstoShpate-2.mp3"></div>
 
 वा*(["टा])*स्तोष्प*(["])*ते *(%%)*ए, ध्रू*(%)*वा*(")*अ। स्थू*([टू]~~स्तू~~)*,णा*(")*अ।  
 आ*([ति]-""३)*अँ*(~~आ~~)*,स*([का]v)*त्रं*(v)* +सो*("३)*ओम्या*([का])*आ*(%)*न्ना*("३)*अम्।
