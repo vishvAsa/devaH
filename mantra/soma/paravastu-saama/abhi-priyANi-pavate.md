@@ -1,8 +1,8 @@
 ---
-title: अपि प्रियाणि पवते 
+title: अभि प्रियाणि पवते 
 unicode_script: devanagari  
-emphasis_as_inline_comments: true
----   
+emphasis_as_inline_comments:true
+---
 
 ## ऋक्
 

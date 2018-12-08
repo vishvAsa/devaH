@@ -1,5 +1,5 @@
 ---
-title: सखाय आ निषीदत 
+title: अबोध्यग्निः 
 unicode_script: devanagari  
 emphasis_as_inline_comments: true
 ---   
