@@ -87,10 +87,12 @@ contents:
     contents:
         - title: प्रवेशः
           url: /kalpa/general/index.md
-        - title: मनः-संस्कारः
+        - title: अङ्गानि
           contents:
-            - url: dir://kalpa/general/manaH/
-        - url: dir://kalpa/general
+            - title: मनः-संस्कारः
+              contents:
+                - url: dir://kalpa/general/angAni/manaH/
+            - url: dir://kalpa/general/angAni/
 
   - title: वंशाः
     contents:
