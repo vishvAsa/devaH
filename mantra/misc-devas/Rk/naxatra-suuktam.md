@@ -55,7 +55,7 @@ emphasis_as_inline_comments: true
   
 रु॒द्राय॒ स्वाहा॒ऽऽर्द्रायै॒ स्वहा॑।पिन्व॑मानायै॒ स्वाहा॒ प॒शुभ्यः॒ स्वाहा॑।  
   
-##‌ पुनर्वसू  
+## पुनर्वसू  
   
 ![पुन॒र्वसू](../images/worlds/naxatra/punarvasU.png)  
   
@@ -80,7 +80,7 @@ emphasis_as_inline_comments: true
 बृह॒स्पत॑ये॒ स्वाहा॑ ति॒ष्या॑य॒ स्वाहा॑।  
 ब्र॒ह्म॒व॒र्च॒साय॒ स्वाहा॑।  
   
-## ‌आश्रेषाः  
+## आश्रेषाः  
   
 ![आश्रेषाः](../images/worlds/naxatra/AshreShA.png)  
   
@@ -95,7 +95,7 @@ emphasis_as_inline_comments: true
 द॒न्द॒शूके॑भ्यः॒ स्वाहा॑॥  
   
   
-##‌ मघा  
+## मघा  
   
 ![मघा](../images/worlds/naxatra/maghA.png)  
   
@@ -119,7 +119,7 @@ emphasis_as_inline_comments: true
 अ॒र्य॒म्णे स्वाहा॒ फल्गु॑नीभ्या॒ꣳ॒ स्वाहा॑।  
 प॒शुभ्यः॒ स्वाहा॑।  
   
-##‌ फल्गुन्यः
+## फल्गुन्यः
   
 ![फल्गुन्यः](../images/worlds/naxatra/maghA.png)  
   
@@ -145,7 +145,7 @@ emphasis_as_inline_comments: true
 ऽऽदद॒ते स्वाहा॑ पृण॒ते स्वाहा॑  
 प्र॒यच्छ॑ते॒ स्वाहा॑ प्रतिगृभ्ण॒ते स्वाहा॑।  
   
-##‌ चित्रा
+## चित्रा
   
 ![चित्रा](../images/worlds/naxatra/chitrA.png)  
   

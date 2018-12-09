@@ -81,7 +81,7 @@ title: शिक्षा
 
 ## उच्चारण-प्रदर्शनानि सूचनाश्च।
 - धनञ्जयो वैद्यः \- [अकारे](http://deejayvaidya.tumblr.com/post/42275194921/sanskrit-pronunciation-podcast-1-introduction)। [स्पर्शवर्ण](http://deejayvaidya.tumblr.com/post/42275304138/sanskrit-pronunciation-podcast-2-the-stop)। [इच्](http://deejayvaidya.tumblr.com/post/42275475669/sanskrit-pronunciation-podcast-3-the-vowels)।  [य र ल व श ष स ह](http://deejayvaidya.tumblr.com/post/42427396743/sanskrit-pronunciation-podcast-4-the-semivowels)। [अनुस्वारः](http://deejayvaidya.tumblr.com/post/42427477788/sanskrit-pronunciation-podcast-5-anusvara-the)। रवर्णोच्चारणे [चर्चा](https://www.facebook.com/vishvas.vasuki/posts/10153080380537989?pnref=story)।
-- विश्वासः‌ [अत्र](https://goo.gl/htvxdN)। सूचनान्तराण्य् [अत्र](https://sanskrit.github.io/projects/audio/mbh-audio/how.html#expected-recording-quality)।
+- विश्वासः [अत्र](https://goo.gl/htvxdN)। सूचनान्तराण्य् [अत्र](https://sanskrit.github.io/projects/audio/mbh-audio/how.html#expected-recording-quality)।
 - नरसिंहरायः \- [अत्र](https://www.youtube.com/watch?v=cMhe2QgDm28), मुखपुस्तकचर्चा [अत्र](https://www.facebook.com/pvr108/posts/10153038114188284?pnref=story)। 
 - श्रीरमणशर्मणः शिक्षाप्रथमक्लृप्तिः [अत्र](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxqYW1hZGFnbml8Z3g6MjQ2OTU1MTg0YTUwOTFkMg)।
 - वेदपाठे  
@@ -116,8 +116,8 @@ title: शिक्षा
 - गद्य-लेखने सन्धिनियमपालने च रिक्तस्थानयोजने [अत्र](https://groups.google.com/d/msg/padyadhaaraa/ZY406Vm81I4/bfTFd1omfJUJ), [अत्र](https://groups.google.com/d/msg/bvparishat/69maR5wwmKw/6Fcm5fL2BgAJ) च। "गतानुगतिको लोकः न कश्चित् पारमार्थिकः"। "पुराणमित्येव न साधु सर्वम्"।
 
 ## छन्दः
-###‌ चर्चास्पदानि
+### चर्चास्पदानि
 - यतौ च पादान्ते विसन्धि-दोषे [अत्र](https://groups.google.com/forum/#!msg/padyadhaaraa/fSRcKGdmw0o/HaeNz448RRcJ)।
-- "प्रह्रे वा" इति लघुत्व-विकल्पे च विषमपादान्ते लघोः‌ गुर्वीकरणे [अत्र](https://groups.google.com/forum/#!searchin/padyadhaaraa/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A5%8D%E0%A4%B0%E0%A5%87$20%E0%A4%B5%E0%A4%BE/padyadhaaraa/xcadHtGrzME/vptW0L0-IOIJ), [अत्र](https://groups.google.com/forum/#!topic/bvparishat/XJ6vc-d61Rk) च।
+- "प्रह्रे वा" इति लघुत्व-विकल्पे च विषमपादान्ते लघोः गुर्वीकरणे [अत्र](https://groups.google.com/forum/#!searchin/padyadhaaraa/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A5%8D%E0%A4%B0%E0%A5%87$20%E0%A4%B5%E0%A4%BE/padyadhaaraa/xcadHtGrzME/vptW0L0-IOIJ), [अत्र](https://groups.google.com/forum/#!topic/bvparishat/XJ6vc-d61Rk) च।
 - वैदिक\-प्रयोगेषु च्छन्दसाम् अक्षराधिक्यं न्यूनता वा, तत्संज्ञाश्च \- [चर्चा](https://groups.google.com/forum/#!topic/bvparishat/Sb1uRem4fHE), छन्दःशास्त्रे [ऽत्र](https://archive.org/stream/chandahsutram00pinguoft#page/n51/mode/2up)।  
 - अन्याश् चर्चास्पद-विषया व्याकरण-आर्षप्रयोगादि-विषयका [अत्र](https://sites.google.com/site/samskrtamsfo/an-ya/vyakaranam)।

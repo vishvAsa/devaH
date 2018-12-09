@@ -5,7 +5,7 @@ emphasis_as_inline_comments: true
 ---
 
 
-##‌ हेतवः
+## हेतवः
 
 - अनायासतायै
 

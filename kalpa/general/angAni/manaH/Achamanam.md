@@ -36,7 +36,7 @@ emphasis_as_inline_comments: true
 (मध्यमा-भुज-स्पर्शं।) ॐ श्रीधराय नमः। ॐ हृषीकेशाय नमः।  
 (चतुरङ्गुल्यैः नभ-शिर-स्पर्शं।) ॐ पद्म-नाभाय नमः। ॐ दामोदराय नमः।
 
-###‌ सौरम्
+### सौरम्
 
 - oM aM keshava dhAtR^ibhyAm namaH (forehead)
 - oM AM nArAyaNAryamobhyAm namaH (stomach)

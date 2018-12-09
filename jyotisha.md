@@ -54,7 +54,7 @@ title: ज्यौतिषम् Star Time
     -  यत्पुण्य॒न्नक्ष॑त्रम् । तद्बट्कु॑र्वीतोपव्यु॒षम् । य॒दा वै सूर्य॑ उ॒देति॑ । अथ॒ नक्ष॑त्र॒न्नैति॑ । याव॑ति॒ तत्र॒ सूर्यो॒ गच्छे॑त् । यत्र॑ जघ॒न्यं॑ पश्ये॑त् । ताव॑ति कुर्वीत यत्का॒री स्यात् । पु॒ण्या॒ह ए॒व कु॑रुते । ए॒वं ह॒ वै य॒ज्ञेषु॑ञ्च श॒तद्यु॑म्नञ्च मा॒थ्स्यो नि॑रवसाय॒याञ्च॑कार ।। 6 ।।    2.1.5.2.1
     - सम्प्रति चान्द्रनक्षत्रम् एव स्वीक्रियत इति श्रीरमणः \- [अत्र](https://twitter.com/kashcit/status/961087719483981824)।
     - अस्यानुसरणम्
-        - "यावति काले चिह्निते प्रदेशे सूर्यो गच्छेत् … ततः‌ प्रभृति कर्म कुर्याद् … यावति काले पुण्यं नक्षत्रम् अस्तं गच्छेत् ततः प्राक्" इति भट्टभास्करभाष्येऽन्तिमः पक्षो युक्तो भाति।
+        - "यावति काले चिह्निते प्रदेशे सूर्यो गच्छेत् … ततः प्रभृति कर्म कुर्याद् … यावति काले पुण्यं नक्षत्रम् अस्तं गच्छेत् ततः प्राक्" इति भट्टभास्करभाष्येऽन्तिमः पक्षो युक्तो भाति।
         - उदाहरणम् \- चौले निश्चिते पुनर्वस्वोः \- "कृत्तिकानक्षत्रं सदा विषुवसूर्योदयस्थाने स्याद् इति निश्चिनुमश्चेत् (यथा तैत्तिरीयब्राह्मणाविर्भाववेलायाम् आसीत्), तर्हि पुनर्वसुनक्षत्रं 53-60 = -7 deg equinoctial longitude इति रेखायाम् आपतति।
             निश्चिते दिने (Mar 25 2018) सूर्योदयाद् ईषत् प्रागेव परिष्कृतनक्षत्रस्थानमेतद् (0deg latitude, -7 deg equinoctial longitude) उदेति।"
 - चान्द्रनक्षत्रस्य प्रयोजनम् सूत्रकाले
@@ -168,7 +168,7 @@ title: ज्यौतिषम् Star Time
         - True mUlA
         - True pushya
     - यन्त्रम् [अत्र](http://www.prokerala.com/astrology/nakshatra-finder/)।
-    - उत्तरनारायणः‌ पुरुषो वा यस्य "नक्षत्राणि रूपम्, अश्विनौ व्यात्तम्" ([MT](https://manasataramgini.wordpress.com/2013/11/08/anatomy-and-heavens-in-the-boomorphic-universe/), आरण्यके [ऽत्र](https://archive.org/stream/taittiriya/taittiriya_aranyaka_bhaskara_01#page/n309/mode/2up))
+    - उत्तरनारायणः पुरुषो वा यस्य "नक्षत्राणि रूपम्, अश्विनौ व्यात्तम्" ([MT](https://manasataramgini.wordpress.com/2013/11/08/anatomy-and-heavens-in-the-boomorphic-universe/), आरण्यके [ऽत्र](https://archive.org/stream/taittiriya/taittiriya_aranyaka_bhaskara_01#page/n309/mode/2up))
         - " This tradition of stellar puruSha continued down to the purANa-s (e.g agnipurANa chapter 196) and is also specified in detail in the 105th chapter of the bR^ihat-saMhitA of the great naturalist varAhamihira. In this later version the nakShatra puruSha is also invoked as viShNu (shAmbhavAyanIya ritual) during every month of the year. ...In the parallel later bAdarAyaNIya ritual, the stellar prajApati is comprised of rAshI-s instead of nakShatra-s. "
         - [sauchIka agni mantra](https://manasataramgini.wordpress.com/2006/11/21/the-path-of-fire/)
 - मास-नामानि
@@ -208,7 +208,7 @@ title: ज्यौतिषम् Star Time
     -
 
 - रुद्रः, आर्द्रा मृगशीर्षे, प्रजापतिः च।
-    - मृगशीर्ष\-सम्बन्धे \- "प्रजापतेर् यत् सहजम् पुरस्तात्" इत्यस्मिन् मृगशीर्षे ऽव्यङ्गस्योल्लेखः (~‌Apr 26 Julian 4500 BCE  [TW](https://twitter.com/blog_supplement/status/664525633217830915))
+    - मृगशीर्ष\-सम्बन्धे \- "प्रजापतेर् यत् सहजम् पुरस्तात्" इत्यस्मिन् मृगशीर्षे ऽव्यङ्गस्योल्लेखः (~Apr 26 Julian 4500 BCE  [TW](https://twitter.com/blog_supplement/status/664525633217830915))
     - रोहिणी।
     - चित्रा शिरः, अनूराधा पादौ, …  (taittirIya brAhmaNa [1.5.2.2](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_037_Taittiriya_Brahmanam_with_Sayanabhashya_Part_1_-_Narayanasastri_Godbole_1934#page/n235/mode/2up))
 - सप्तर्षिमण्डलम्

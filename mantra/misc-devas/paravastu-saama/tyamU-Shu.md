@@ -40,7 +40,7 @@ emphasis_as_inline_comments: true
 ता*([])*र्क्ष्यामि,हाअअ ।  
 हू*([])*उवाइ, माङङाअ ॥
 
-##‌ साम २
+## साम २
 
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/tyamU-Shu-2.mp3"></div>
