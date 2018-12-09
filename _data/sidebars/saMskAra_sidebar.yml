@@ -85,7 +85,11 @@ contents:
         - url: dir://kalpa/bodhAyana
   - title: कल्पे ऽस्मन्निश्चयः
     contents:
+        - title: मनः-संस्कारः
+          contents:
+            - url: dir://kalpa/general
         - url: dir://kalpa/general
+
   - title: वंशाः
     contents:
       - title: Pics
