@@ -96,6 +96,10 @@ contents:
         - title: आराधनम्
           contents:
             - url: dir://kalpa/general/ArAdhanam/
+            - title: होमः
+              contents:
+                - url: /kalpa/general/ArAdhanam/homa/index.md
+                - url: dir://kalpa/general/ArAdhanam/homa/
   - title: वंशाः
     contents:
       - title: Pics
