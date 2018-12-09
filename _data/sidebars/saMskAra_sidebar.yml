@@ -83,9 +83,9 @@ contents:
   - title: कल्पः बोधयनोक्तः
     contents:
         - url: dir://kalpa/bodhAyana
-  - title: कल्पः- प्रकीर्णांशाः
+  - title: कल्पे ऽस्मन्निश्चयः
     contents:
-        - url: /kalpa/general/motivation.md
+        - url: dir://kalpa/general
   - title: वंशाः
     contents:
       - title: Pics
