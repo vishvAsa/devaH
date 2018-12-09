@@ -1,7 +1,5 @@
-
-
 ---
-title: अपि प्रियाणि पवते 
+title: तरत् स मन्दी
 unicode_script: devanagari  
 emphasis_as_inline_comments: true
 ---   
@@ -34,7 +32,7 @@ emphasis_as_inline_comments: true
 ## साम १
 - पारम्परिकगानमूलम् - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n2/mode/1up&sa=D&ust=1542425956390000)।]
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/tarat-sa-mandI.mp3"></div>
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/tarat-sa-mandIत.mp3"></div>
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/tarat-sa-mandI.mp3"></div>
 <div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1x" src="https://archive
