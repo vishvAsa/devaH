@@ -6,6 +6,9 @@ unicode_script: devanagari
 emphasis_as_inline_comments: true
 ---
 
+हरदत्तो [ऽत्र](https://archive.org/stream/EKAGNIKANDABHASHYAMSAMSKRUTHAM/EKAGNIKANDA%20BHASHYAM%20SAMSKRUTHAM#page/n173/mode/2up)।
+
+
 स॒मीची॒ नामा॑सि॒ प्राची॒दिक्तस्या॑स्ते॒ऽग्निरधि॑पतिरसि॒तो र॑क्षि॒ता  
 यश्चाधि॑पति॒र्यश्च॑ गो॒प्ता ताभ्यां॒ नम॒स्तौ नो॑ मृडयतां॒  
 ते यं द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तं वां॒ जंभे॑ दधामि ।

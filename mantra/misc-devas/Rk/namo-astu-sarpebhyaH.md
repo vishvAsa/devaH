@@ -2,6 +2,9 @@
 title: नमो ऽस्तु सर्पेभ्यः
 devatAH: सर्पाः
 ---
+
+हरदत्तो [ऽत्र](https://archive.org/stream/EKAGNIKANDABHASHYAMSAMSKRUTHAM/EKAGNIKANDA%20BHASHYAM%20SAMSKRUTHAM#page/n173/mode/2up)।
+
 नमो॑ अस्तु स॒र्पेभ्यो॒ ये के च॑ पृथि॒वीमनु॑ ।  
 ये अ॒न्तरि॑क्षे॒ ये दि॒वि  तेभ्यः॑ स॒र्पेभ्यो॒ नमः॑ ॥
 
