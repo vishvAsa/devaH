@@ -21,7 +21,7 @@ title: ज्यौतिषम् Star Time
         - Finding and using the celestial equatorial (and diurnal) planes- [KV18](https://kashcidvipashcit.wordpress.com/2018/02/09/solar-plane-of-the-day/).
         - अस्य प्राचीनः प्रयोगः
             -  shukla-yajurvedasya shatapathabrAhmaNe: "एता ह वै प्राच्यै दिशो न च्यवन्ते | सर्वाणि ह वा अन्यानि नक्षत्राणि प्राच्यै
-                दिशश्च्यवन्ते तत्प्राच्यामेवास्यैतद्दिश्याहितौ भवतस्तस्मात्कृत्तिकास्वादधीत"। Proper East. 90deg from north. Possible only if the star is on the celestial equator. Then the star will rise exactly at east. Krttikas on celestial equator around 2900BCE (two centuries before and after can be considered as acceptable)। \[[TW](https://twitter.com/kashcit/status/984433779967082496)\]
+                दिशश्च्यवन्ते तत्प्राच्यामेवास्यैतद्दिश्याहितौ भवतस्तस्मात्कृत्तिकास्वादधीत"। Proper East. 90deg from north. Possible only if the star is on the celestial equator. Then the star will rise exactly at east. Krttikas on celestial equator around 2900BCE (two centuries before and after can be considered as acceptable)। \[[TW](https://twitter.com/agnimaan/status/984433779967082496)\]
 
 - परिचयलेखाः
     - श्रीरमणशर्मा [ऽत्र](https://sites.google.com/site/jamadagni/pages/hindu-calendars)।
@@ -52,7 +52,7 @@ title: ज्यौतिषम् Star Time
 
 - पूण्यनक्षत्रावधेर् ज्ञानस्य विधानम् \- तैत्तिरीयब्राह्मणे सायणभाष्ये [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_037_Taittiriya_Brahmanam_with_Sayanabhashya_Part_1_-_Narayanasastri_Godbole_1934#page/n233/mode/2up), भट्टभास्करभाष्ये [ऽत्र](https://archive.org/stream/taittiriya/taittiriya_brahmana_bhaskara_01#page/n259/mode/2up)
     -  यत्पुण्य॒न्नक्ष॑त्रम् । तद्बट्कु॑र्वीतोपव्यु॒षम् । य॒दा वै सूर्य॑ उ॒देति॑ । अथ॒ नक्ष॑त्र॒न्नैति॑ । याव॑ति॒ तत्र॒ सूर्यो॒ गच्छे॑त् । यत्र॑ जघ॒न्यं॑ पश्ये॑त् । ताव॑ति कुर्वीत यत्का॒री स्यात् । पु॒ण्या॒ह ए॒व कु॑रुते । ए॒वं ह॒ वै य॒ज्ञेषु॑ञ्च श॒तद्यु॑म्नञ्च मा॒थ्स्यो नि॑रवसाय॒याञ्च॑कार ।। 6 ।।    2.1.5.2.1
-    - सम्प्रति चान्द्रनक्षत्रम् एव स्वीक्रियत इति श्रीरमणः \- [अत्र](https://twitter.com/kashcit/status/961087719483981824)।
+    - सम्प्रति चान्द्रनक्षत्रम् एव स्वीक्रियत इति श्रीरमणः \- [अत्र](https://twitter.com/agnimaan/status/961087719483981824)।
     - अस्यानुसरणम्
         - "यावति काले चिह्निते प्रदेशे सूर्यो गच्छेत् … ततः प्रभृति कर्म कुर्याद् … यावति काले पुण्यं नक्षत्रम् अस्तं गच्छेत् ततः प्राक्" इति भट्टभास्करभाष्येऽन्तिमः पक्षो युक्तो भाति।
         - उदाहरणम् \- चौले निश्चिते पुनर्वस्वोः \- "कृत्तिकानक्षत्रं सदा विषुवसूर्योदयस्थाने स्याद् इति निश्चिनुमश्चेत् (यथा तैत्तिरीयब्राह्मणाविर्भाववेलायाम् आसीत्), तर्हि पुनर्वसुनक्षत्रं 53-60 = -7 deg equinoctial longitude इति रेखायाम् आपतति।
@@ -173,7 +173,7 @@ title: ज्यौतिषम् Star Time
         - [sauchIka agni mantra](https://manasataramgini.wordpress.com/2006/11/21/the-path-of-fire/)
 - मास-नामानि
     - "साऽस्मिन् पौर्णमासीति सञ्ज्ञायाम् " इति पाणिनिः। eclpitic longitude द्रष्टव्यम्। किञ्च, तथैव यथार्थं स्थास्यन्तीति न - सौरायनदृष्ट्या समीकरणम् अपेक्ष्यते।
-    - कौण्डिन्य\-वैदिक\-गणना ऽत्र यथार्था \- \[[TW](https://twitter.com/kashcit/status/896077303842611200)\]। 
+    - कौण्डिन्य\-वैदिक\-गणना ऽत्र यथार्था \- \[[TW](https://twitter.com/agnimaan/status/896077303842611200)\]। 
 - वैदिक-कर्मस्व् एतद् एवाश्रयणीयम् मानम्।
     - परिचयः [१](http://indiafacts.org/vedic-system-of-chronology/), [२](http://indiafacts.org/of-vedic-system/)। 
     - सौर-चान्द्रम् उत्तरायणम्, विषुवादिकञ्च।
