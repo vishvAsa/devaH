@@ -17,7 +17,7 @@ emphasis_as_inline_comments: true
 
 
 ## साम
-- पारम्परिकगानमूलम् - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n2/mode/1up&sa=D&ust=1542425956390000)।]
+- पारम्परिकगानमूलम् - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n8/mode/1up)।]
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/mahi-trINAm-1.mp3"></div>
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
@@ -28,10 +28,10 @@ emphasis_as_inline_comments: true
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018-150p-speed/mahi-trINAm-1.mp3"></div>
 
 म*([])*हाइ त्राइणाअम्।  
-अ*([])*वा,अ*([])*अरस्तू।  
-द्यु*([])*क्षं माइत्राअ,,स्या*([])*अर्यम्णाः।  
-दू*([])*राधार्षाअं।  
-वा*([])*रौहोवा,,णा*([])*स्यों, हाइ ॥
+अ*([तै])*वा,अ*([प्रे])*अरस्तू।  
+द्यु*([ठौ])*क्षं माइत्राअ,,स्या*([तैप्रे])*अर्यम्णाः।  
+दू*([पी])*राधार्षाअं।  
+वा*([ठौ])*रौहोवा,,णा*([कि])*स्यों, हाइ ॥
 
 ## साम २
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
@@ -43,6 +43,8 @@ emphasis_as_inline_comments: true
 <div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1.5x" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018-150p-speed/mahi-trINAm-2.mp3"></div>
 
-म*([])*हित्रीणा, मवरस्तू००एऎ । द्यु*([])*क्षं, मित्रस्यार्यम्णा : । दू*([])*राधा, अर्षा० ।   
-वा*([])*रौहो,*([])*ओ । हिं*([])*म्मा*([])*अ । णा*([])*। स्यो ,*([])*ओया,
-औ*([])*हो, वाअ । ह*([])*ओ, वाओ,*([])*वा अ ॥
+म*([])*हित्रीणा, मवरस्तू मेऎ ।  
+द्यु*([])*क्षं, मित्रस्यार्यम्णा : ।  
+दू*([])*राधा, अर्षा० ।  
+वा*([])*रौहो,*([प्रे])*ओ । हिं*([ता])*म्मा*([प्रे])*अ । णा*([प])*। स्यो ,*([ता])*ओया*([टू])*,
+औ*([प])*हो, वाअ । ह*([पो])*ओ, वाओ,*([ग])*वा अ ॥
