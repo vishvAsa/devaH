@@ -45,9 +45,6 @@ contents:
             - title: यजूंषि
               contents:
                 - url: dir://mantra/misc-devas/yajus
-            - title: ब्राह्मणानि
-              contents:
-                - url: dir://mantra/misc-devas/brAhmaNa
         - title: सङ्ग्रहाः
           contents:
             - title: सामानि
@@ -83,6 +80,9 @@ contents:
   - title: कल्पः बोधयनोक्तः
     contents:
         - url: dir://kalpa/bodhAyana
+  - title: ब्राह्मणानि
+    contents:
+      - url: dir://mantra/misc-devas/brAhmaNa
   - title: कल्पे ऽस्मन्निश्चयः
     contents:
         - title: प्रवेशः

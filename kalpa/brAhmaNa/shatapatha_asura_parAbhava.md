@@ -3,7 +3,7 @@ title: असुर-पराभवः
 unicode_script: devanagari
 emphasis_as_inline_comments: true
 ---
-*(शतपथब्राह्मणात्)*
+*(शतपथब्राहणटीकायाम् सायणो [ऽत्र](https://archive.org/details/SatapathaBrhamanaMadhyandinaEd.SridharSharmaVol11NagPublications/page/n27)।)*
 
 अथ योऽयमवाङ्प्राणः। तेनासुरानसृजत। त इमामेव पृथिवीमभिपद्यासृज्यन्त। तस्मै ससृजानाय तम इवास। - ११.१.६.[८]
 
