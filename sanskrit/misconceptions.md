@@ -67,7 +67,7 @@ title: Misconceptions
     - Chinese, Japanese, Israelis and Germans do science in their own languages. Among them, Hebrew is a revived language.
     - That said, we can still concede that we can expediently use English for such subjects while retaining sanskrit for the soft sciences.
 - It is impractical to switch to using sanskrit as the link language of India.
-    - Hebrew example: [WP15](https://vishvasvasuki.wordpress.com/2015/09/12/link-language-question-hebrew-revival-and-sanskrit-revival/).
+    - Hebrew example: [WP15](https://agnimaan.wordpress.com/2015/09/12/link-language-question-hebrew-revival-and-sanskrit-revival/).
 - Other analyses:
     - \[Rajiv Malhotra does a [more thorough job](http://rajivmalhotra.com/library/articles/geopolitics-sanskrit-phobia/).\]
 
