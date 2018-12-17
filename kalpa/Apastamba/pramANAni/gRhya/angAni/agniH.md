@@ -1,5 +1,7 @@
 ---
 title: अग्नौ चर्या
+unicode_script: devanagari
+emphasis_as_inline_comments: true
 tags: अग्नौ चर्या, होम-द्रव्यम्
 ---
 

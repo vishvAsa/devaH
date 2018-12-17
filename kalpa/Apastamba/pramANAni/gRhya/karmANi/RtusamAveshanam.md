@@ -1,5 +1,7 @@
 ---
 title: मैथुनम्
+unicode_script: devanagari
+emphasis_as_inline_comments: true
 tags: मैथुनम्, रतिः, संवेशनम्, ऊर्ध्वरेतः, अधोरेतः, ऋतुसमावेशनम्
 ---
 

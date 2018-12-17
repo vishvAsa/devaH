@@ -1,5 +1,7 @@
 ---
 title: सीमन्तोन्नयनम्
+unicode_script: devanagari
+emphasis_as_inline_comments: true
 ---
 
 

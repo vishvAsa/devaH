@@ -1,5 +1,7 @@
 ---
 title: पाकयज्ञः
+unicode_script: devanagari
+emphasis_as_inline_comments: true
 ---
 
 लौकिकानां पाकयज्ञशब्दः ॥  (लोकशब्देन शिष्टा उच्यन्ते ।

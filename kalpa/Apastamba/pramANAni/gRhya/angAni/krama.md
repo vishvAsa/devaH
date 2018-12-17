@@ -1,5 +1,7 @@
 ---
 title: क्रमः
+unicode_script: devanagari
+emphasis_as_inline_comments: true
 ---
 
 *(देवकर्मसु)* पुरस्तादुदग्वोपक्रमः ५ तथाऽपवर्गः ६

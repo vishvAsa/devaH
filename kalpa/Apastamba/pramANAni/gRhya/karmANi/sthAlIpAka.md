@@ -1,5 +1,7 @@
 ---
 title: स्थालीपाकः
+unicode_script: devanagari
+emphasis_as_inline_comments: true
 ---
 
 ## विधिः

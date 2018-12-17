@@ -1,5 +1,7 @@
 ---
 title: औपासनम्
+unicode_script: devanagari
+emphasis_as_inline_comments: true
 tags: औपासनम्, विच्छिन्नाग्निसन्धानम्
 ---
 
