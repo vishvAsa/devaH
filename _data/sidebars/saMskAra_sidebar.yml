@@ -67,6 +67,12 @@ contents:
             contents:
               - title: क्रियाः
                 contents:
+                  - title: अर्हणम्
+                    contents:
+                      - url: dir://kalpa/Apastamba/pramANAni/dharma-sUtra/kriyAH/arhaNam
+                  - title: शौचम्
+                    contents:
+                      - url: dir://kalpa/Apastamba/pramANAni/dharma-sUtra/kriyAH/shaucham
                   - url: dir://kalpa/Apastamba/pramANAni/dharma-sUtra/kriyAH
               - title: आश्रमः
                 contents:
@@ -77,6 +83,9 @@ contents:
               - title: तत्त्वानि
                 contents:
                   - url: dir://kalpa/Apastamba/pramANAni/dharma-sUtra/tattvAni
+          - title: गृह्यसूत्राणि
+            contents:
+                  - url: dir://kalpa/Apastamba/pramANAni/gRhya/
   - title: कल्पः बोधयनोक्तः
     contents:
         - url: dir://kalpa/bodhAyana
