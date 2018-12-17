@@ -85,7 +85,12 @@ contents:
                   - url: dir://kalpa/Apastamba/pramANAni/dharma-sUtra/tattvAni
           - title: गृह्यसूत्राणि
             contents:
-                  - url: dir://kalpa/Apastamba/pramANAni/gRhya/
+              - title: अङ्गानि
+                contents:
+                  - url: dir://kalpa/Apastamba/pramANAni/gRhya/angAni
+              - title: कर्माणि
+                contents:
+                  - url: dir://kalpa/Apastamba/pramANAni/gRhya/karmANi
   - title: कल्पः बोधयनोक्तः
     contents:
         - url: dir://kalpa/bodhAyana
