@@ -4,8 +4,9 @@ unicode_script: devanagari
 emphasis_as_inline_comments: true
 ---
 
-- नक्षत्र-मण्डलान्य् उपरि दर्शितानि।
-- ध्रुवमण्डलम् शिंशुमारपुच्छस्थं सुविख्यातम् च। (3000BC thuban) \[[ऽत्र](https://kashcidvipashcit.wordpress.com/2018/02/04/salute-the-dolphin-ursa-minor-every-night-after-sandhyavandanam/)\]
+## ध्रुवमण्डलम् शिंशुमारपुच्छस्थं सुविख्यातम् च।
+
+(3000BC thuban) \[[ऽत्र](../mantra/misc-devas/yajus/dhruva.md)\]
 
 -  "Starting from Tilak, it has been proposed the that dogs (Canis Major and Canis Minor), Bear, Draco, Hunter (in Hindu world moved to Canis Major on occassions); mR^iga and other constellations were known and figured distinctly from the ecliptic divisions in the form of the nakShatra-s." \[[MT](https://manasataramgini.wordpress.com/2013/11/08/anatomy-and-heavens-in-the-boomorphic-universe/)\]
 

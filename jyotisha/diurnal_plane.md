@@ -20,6 +20,8 @@ Certain objections were raised, among which were (I paraphrase and correct misst
     - Response: This objection is addressed with this note. We will show that without needing to stare at the sun, and no fancy instruments, we get the Diurnal plane accurately.
 - “The ancestors at that point in time were not known to calculate.”
     - Response: Since a device for measuring time and ability to multiply and divide is all that is required, this we dismiss.
+    - Further, as per BG Tilak's (very plausible) interpretation (in contrast with [sAyaNa](https://archive.org/stream/RgVedaWithSayanasCommentaryPart2/rv_sayanabhasya_part2#page/n891/mode/2up)) - " स्व॑र्भानो॒रध॒ यदि॑न्द्र मा॒या अ॒वो दि॒वो वर्त॑माना अ॒वाह॑न् ।  गू॒ऴं सूर्यं॒ तम॒साप॑व्रतेन तु॒रीये॑ण॒ ब्रह्म॑णा (=device or axial division) ऽविन्द॒दत्रिः॑ ।।" refers to a quadrant (तुरीयम्) like the one pictured below (from 19th century bulhomallavarman), or some such as that.
+    ![](../jyotisha/images/bulhomalla-quadrant.jpg)
 - “It’s not as easy as you say. Try it.”
     - Response: Challenge accepted. See below.
 
