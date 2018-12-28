@@ -143,17 +143,11 @@ contents:
       - title: Videos
         url: /kaavya/videos.html
   - title: ज्यौतिषम्
-    url: /jyotisha.html
+    contents:
+      - url: dir://jyotisha
   - title: संस्कृतम्
     contents:
-      - title: संस्कृताभ्यासाय योगदानम्
-        url: /sanskrit/index.html
-      - title: Why?
-        url: /sanskrit/why.html
-      - title: Misconceptions
-        url: /sanskrit/misconceptions.html
-      - title: Miscellaneous questions
-        url: /sanskrit/misc-faq.html
+      - url: dir://sanskrit/
       - title: शिक्षा
         contents:
           - url: dir://sanskrit/shixaa/
