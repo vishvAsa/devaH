@@ -2,7 +2,6 @@
   let baseURL = "{{.Site.BaseURL}}";
   let basePath = baseURL.split("/").slice(2).join("/");
   let siteParams = JSON.parse("{{.Site.Params | jsonify}}");
-  let pageParams = JSON.parse("{{.Page.Params | jsonify}}");
   let pageDefaultsList = JSON.parse({{.Site.Data.page_defaults | jsonify}});
   let sidebarsData = JSON.parse("{{$.Site.Data.sidebars | jsonify}}");
   let autocompletePageUrl = "{{ "data/pages.tsv" | relURL }}";

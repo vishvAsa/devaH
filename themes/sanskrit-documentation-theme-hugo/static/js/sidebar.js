@@ -24,7 +24,7 @@ function getSidebarItemHtml(sidebarItem) {
         var title = sidebarItem.title || pageUrlToTitle[item_url_stripped];
         var itemHtml = `<li><a href="${item_url_stripped}" class="${anchorClasses}"> ${title}</a>\n<ul>${contentHtml}\n</ul>\n</li>\n`;
     } else if (sidebarItem.url.startsWith("dir://")) {
-        var dirUrl = sidebarItem.url.replace("dir://", "/");
+        var dirUrl = sidebarItem.url.replace("dir://", "/").toLowerCase();
         if (dirUrl.endsWith("/")) {
             dirUrl = dirUrl.slice(0,-1);
         }
