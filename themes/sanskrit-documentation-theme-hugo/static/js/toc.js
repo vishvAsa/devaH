@@ -9,8 +9,7 @@ function updateToc(options) {
       noBackToTopLinks: false,
       title: '',
       minimumHeaders: 2,
-      headers: 'h2,h3,h4,h5,h6',
-      listType: 'ul', // values: [ol|ul]
+      headers: 'h2,h3,h4,h5,h6'
     },
     settings = $.extend(defaults, options);
 
@@ -24,10 +23,11 @@ function updateToc(options) {
 
     var get_level = function(ele) { return parseInt(ele.nodeName.replace("H", ""), 10); }
     var highest_level = headers.map(function(_, ele) { return get_level(ele); }).get().sort()[0];
-
+    let liClass = "list-group-item-primary"; // list-group-item-primary is a bootstrap class.
+    let ulClass = "list pl2";
     var level = get_level(headers[0]),
       this_level,
-      html = settings.title + " <"+settings.listType+" class='list-unstyled components'>";
+      html = settings.title + `<ul class='${ulClass}'>`;
     headers.on('click', function() {
       if (!settings.noBackToTopLinks) {
         window.location.hash = this.id;
@@ -41,27 +41,27 @@ function updateToc(options) {
       }
       var toc_item_id = get_toc_item_id(header.id);
       if (this_level === level) // same level as before; same indenting
-        html += "<li id='" + toc_item_id + "'><a href='#" + header.id + "'>" + header.innerText + "</a>";
+        html += `<li id='${toc_item_id}' class="${liClass}"><a href='#${header.id}'>${header.innerText}</a>`;
       else if (this_level <= level){ // higher level than before; end parent ol
         for(i = this_level; i < level; i++) {
-          html += "</li></"+settings.listType+">"
+          html += `</li></ul>`
         }
-        html += "<li  id='" + toc_item_id + "'><a href='#" + header.id + "'>" + header.innerText + "</a>";
+        html += `<li id='${toc_item_id}' class="${liClass}"><a href='#${header.id}'>${header.innerText}</a>`;
       }
       else if (this_level > level) { // lower level than before; expand the previous to contain a ol
         for(i = this_level; i > level; i--) {
-          html += "<"+settings.listType+">";
+          html += `<ul class='${ulClass}'>`;
           if(i == level + 1) {
-              html +=  "<li id='" + toc_item_id + "'>";
+              html +=  `<li id='${toc_item_id}' class="${liClass}">`;
           } else {
-              html += "<li>";
+              html += `<li class="${liClass}">`;
           }
         }
-        html += "<a href='#" + header.id + "'>" + header.innerText + "</a>";
+        html += `<a href='#${header.id}'>${header.innerText}</a>`;
       }
       level = this_level; // update for the next one
     });
-    html += "</"+settings.listType+">";
+    html += "</ul>";
 
     headers.each(function () {
       var header = $(this);

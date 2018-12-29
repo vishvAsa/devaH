@@ -3,14 +3,15 @@
     <h1>{{.Params.title}}</h1>
   </header>
   <aside>
-  <div class="toc_card">
+  <div id="toc_card" class="card border ">
     <div id="toc_header" class="card-title border d-flex justify-content-between">
         <a data-toggle="collapse" href="#toc_body" role="button" aria-expanded="true" aria-controls="toc_body">
-          What's in this page?</a>
+          What's in this page? <i class="fas fa-caret-down"></i> </a>
         <a id="editLink" class="btn btn-primary"  href="{{print .Site.Params.githubEditMePathBase .File.Path }}"><i class="fas fa-edit"></i></a>
     </div>
-    <div id="toc_body" class="card-body collapse">
-      <ul id="toc_ul" class="list-unstyled components">
+    <div id="toc_body" class="card-body collapse p-0">
+      <!-- list and pl1 are tachyon style classes. p-0 is a boostrap style class for 0 padding. -->
+      <ul id="toc_ul" class="list p-0">
       </ul>
     </div>
   </div>
