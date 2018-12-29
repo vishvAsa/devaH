@@ -45,7 +45,19 @@
     <script src="{{ relURL "node_modules/bootstrap/dist/js/bootstrap.min.js" }}"></script>
     <script src="{{ relURL "node_modules/@sanskrit-coders/sanscript/sanscript.js" }}"></script>
 
-    {{ partial "hugo-vars-to-js.html" .}}
+    {{ partialCached "hugo-vars-to-js-general.html" .}}
+    <script>
+    let pageSource = "{{.File.Path}}";
+    console.log(pageSource);
+    var pageDefaults;
+    for (let possiblePageDefaults of pageDefaultsList) {
+      if (pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+        pageDefaults = possiblePageDefaults.values
+      }
+    }
+    var sidebarId = pageParams.sidebar || pageDefaults.sidebar;
+    // console.debug(pageParams);
+    </script>
     <script src="{{ relURL "js/handleIncludes.js" }}"></script>
     <script src="{{ relURL "js/audio_embed.js" }}"></script>
     <script src="{{ relURL "js/video_embed.js" }}"></script>
@@ -65,11 +77,13 @@
        See https://getbootstrap.com/docs/3.3/css/ for exmplanation of values such as col-md-3.
        -->
       <div class="col-md-3" id="tg-sb-sidebar">
-        <ul id="displayed_sidebar" class="nav">
-            <li class="sidebarTitle"></li>
-            <!--fa below stands for a font awesome icon.-->
-            <li><a id="hide-sb-link" href="#"><i id="tg-sb-icon" class="fa fa-toggle-on"></i>Hide?</a></li>
+        <nav>
+          <div id="sidebarTitle"></div>
+          <!--fa below stands for a font awesome icon.-->
+          <div><a id="hide-sb-link" href="#"><i id="tg-sb-icon" class="fa fa-toggle-on"></i>Hide?</a></div>
+        <ul id="displayed_sidebar" class="list-unstyled components">
         </ul>
+        </nav>
       </div>
       <main class="col p-3" role="main">
         {{ block "main" . }}{{ end }}

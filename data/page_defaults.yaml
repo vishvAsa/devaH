@@ -2,5 +2,8 @@
   scope:
     pathPrefix: ""
   values:
-    sidebar: home_sidebar
-    topnav: top_bar
+    layout: "page"
+    comments: true
+    search: true
+    sidebar: saMskAra_sidebar
+    topnav: home_sidebar

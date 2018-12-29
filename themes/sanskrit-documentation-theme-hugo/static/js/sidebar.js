@@ -1,5 +1,3 @@
-$('#displayed_sidebar').height($(".nav").height());
-
 function getSidebarItemHtml(sidebarItem) {
     var item_url_stripped = sidebarItem.url || "#";
     item_url_stripped = item_url_stripped.replace("index.html", "").replace("index.md", "").replace(".md", "/");
@@ -12,6 +10,7 @@ function getSidebarItemHtml(sidebarItem) {
         urlTarget = "_newTab";
     }
     // console.debug(item_url_stripped);
+    let anchorClasses = "";
     var list_item_css_class = "inactive";
     if (document.location.toString().replace("#[^/]*$", "") == item_url_stripped) {
         list_item_css_class = "active";
@@ -23,7 +22,7 @@ function getSidebarItemHtml(sidebarItem) {
             contentHtml = `${contentHtml}\n ${getSidebarItemHtml(subitem)}`;
         }
         var title = sidebarItem.title || pageUrlToTitle[item_url_stripped];
-        var itemHtml = `<li><a href="${item_url_stripped}"> ${title}</a>\n<ul>${contentHtml}\n</ul>\n</li>\n`;
+        var itemHtml = `<li><a href="${item_url_stripped}" class="${anchorClasses}"> ${title}</a>\n<ul>${contentHtml}\n</ul>\n</li>\n`;
     } else if (sidebarItem.url.startsWith("dir://")) {
         var dirUrl = sidebarItem.url.replace("dir://", "/");
         if (dirUrl.endsWith("/")) {
@@ -43,14 +42,14 @@ function getSidebarItemHtml(sidebarItem) {
     }
     else {
         var title = sidebarItem.title || pageUrlToTitle[item_url_stripped];
-        var itemHtml = `<li class="${list_item_css_class}"><a href="${baseURL + item_url_stripped }" target="">${title}</a></li>`;
+        var itemHtml = `<li class="${list_item_css_class}"><a href="${baseURL + item_url_stripped }"  class="${anchorClasses}" target="">${title}</a></li>`;
     }
     return itemHtml;
 }
 
 function insertSidebarItems() {
     var sidebar = sidebarsData[sidebarId];
-    $("#displayed_sidebar .sidebarTitle").html(sidebar.title);
+    $("#sidebarTitle").html(sidebar.title);
     // console.debug(sidebar);
     for (let sidebarItem of sidebar.contents) {
         $("#displayed_sidebar").append(getSidebarItemHtml(sidebarItem));
@@ -75,21 +74,21 @@ $(document).ready(function() {
     insertSidebarItems();
     // insertTopnavDropdownItems();
     // Initialize navgoco sidebar with default options
-    $("#displayed_sidebar").navgoco({
-        caretHtml: '',
-        accordion: true,
-        openClass: 'active', // open
-        save: true,
-        cookie: {
-            name: 'navgoco_sidebar',
-            expires: false,
-            path: '/'
-        },
-        slide: {
-            duration: 400,
-            easing: 'swing'
-        }
-    });
+    // $("#displayed_sidebar").navgoco({
+    //     caretHtml: '',
+    //     accordion: true,
+    //     openClass: 'active', // open
+    //     save: true,
+    //     cookie: {
+    //         name: 'navgoco_sidebar',
+    //         expires: false,
+    //         path: '/'
+    //     },
+    //     slide: {
+    //         duration: 400,
+    //         easing: 'swing'
+    //     }
+    // });
 });
 
 // Code to make the "Nav" button, which toggles the sidebar.

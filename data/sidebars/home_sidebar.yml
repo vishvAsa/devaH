@@ -4,16 +4,14 @@ title: भागाः
 contents:
   - title: मन्त्राः
     url: /mantra/
-  - title: कल्पः आपस्तम्बोक्तः
-    url: /kalpa/Apastamba/
-  - title: कल्पः बोधयनोक्तः
-    url: /kalpa/bodhAyana/
+  - title: कल्पः
+    url: /kalpa/
   - title: वंशाः
     url: /bloodlines/
   - title: काव्यम्
-    url: /kaavya/videos.html
+    url: /kaavya/videos/
   - title: ज्यौतिषम्
-    url: /jyotisha.html
+    url: /jyotisha/
   - title: संस्कृतम्
     url: /sanskrit/
   - title: Notes Home
@@ -21,4 +19,4 @@ contents:
   - title: Vishvas's home page
     url: /../
   - title: Blog
-    url: /assets/blog/index.html
+    url: /assets/blog/
