@@ -14,11 +14,11 @@ $.fn.toc = function(options) {
       listType: 'ol', // values: [ol|ul]
     },
     settings = $.extend(defaults, options);
-    
+
     // console.debug($(settings.headers));
     var headers = $(settings.headers).filter(function() {
       // get all headers with an ID
-      var previousSiblingName = $(this).prev().attr( "name" );
+      var previousSiblingName = $(this).prev().attr( "id" );
       if (!this.id && previousSiblingName) {
         this.id = $(this).attr( "id", previousSiblingName.replace(/\./g, "-") );
       }
@@ -27,11 +27,11 @@ $.fn.toc = function(options) {
     if (!headers.length || headers.length < settings.minimumHeaders || !output.length) {
       return;
     }
-    // console.debug(headers);
-    
+    console.debug(headers);
+
     var get_level = function(ele) { return parseInt(ele.nodeName.replace("H", ""), 10); }
     var highest_level = headers.map(function(_, ele) { return get_level(ele); }).get().sort()[0];
-    
+
     var level = get_level(headers[0]),
       this_level,
       html = settings.title + " <"+settings.listType+" id=\"toc_ul\" class=\"nav\">";
@@ -69,7 +69,7 @@ $.fn.toc = function(options) {
       level = this_level; // update for the next one
     });
     html += "</"+settings.listType+">";
-    
+
     headers.each(function () {
       var header = $(this);
       if (!header.next().hasClass("back-to-top")){
@@ -91,7 +91,7 @@ $.fn.toc = function(options) {
               });
               itemToActivate.addClass("active");
               itemToActivate.parents("li").addClass("active"); // This call is ineffective for some reason.
-              
+
               // Now scroll up.
               $([document.documentElement, document.body]).animate({
                   scrollTop: $("[id='" + toc_item_id + "']").offset().top
@@ -100,9 +100,9 @@ $.fn.toc = function(options) {
           header.after(return_to_top);
       }
     })
-    
+
     output.html(html);
-    resetNavgocoMenu();
+    // resetNavgocoMenu();
     // Finally, set up navgoco options.
 };
 

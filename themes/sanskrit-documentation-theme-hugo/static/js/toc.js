@@ -2,10 +2,9 @@ function get_toc_item_id(header_id) {
     return "toc_item_" + header_id;
 }
 
-// https://github.com/ghiculescu/jekyll-table-of-contents
-// This is how a jquery plugin is defined - https://stackoverflow.com/questions/2937227/what-does-function-jquery-mean .
-$.fn.toc = function(options) {
-    console.debug("Setting up TOC for " + document.location);
+
+function updateToc(options) {
+    console.info("Setting up TOC for " + document.location);
     var defaults = {
       noBackToTopLinks: false,
       title: '',
@@ -14,24 +13,18 @@ $.fn.toc = function(options) {
       listType: 'ol', // values: [ol|ul]
     },
     settings = $.extend(defaults, options);
-    
-    // console.debug($(settings.headers));
-    var headers = $(settings.headers).filter(function() {
-      // get all headers with an ID
-      var previousSiblingName = $(this).prev().attr( "name" );
-      if (!this.id && previousSiblingName) {
-        this.id = $(this).attr( "id", previousSiblingName.replace(/\./g, "-") );
-      }
-      return this.id;
-    }), output = $(this);
-    if (!headers.length || headers.length < settings.minimumHeaders || !output.length) {
+
+    // console.debug(settings);
+    var headers = $(settings.headers);
+    console.debug(headers.length);
+    if (headers.length < settings.minimumHeaders) {
+      console.debug("Too few headers. Returning");
       return;
     }
-    // console.debug(headers);
-    
+
     var get_level = function(ele) { return parseInt(ele.nodeName.replace("H", ""), 10); }
     var highest_level = headers.map(function(_, ele) { return get_level(ele); }).get().sort()[0];
-    
+
     var level = get_level(headers[0]),
       this_level,
       html = settings.title + " <"+settings.listType+" id=\"toc_ul\" class=\"nav\">";
@@ -69,7 +62,7 @@ $.fn.toc = function(options) {
       level = this_level; // update for the next one
     });
     html += "</"+settings.listType+">";
-    
+
     headers.each(function () {
       var header = $(this);
       if (!header.next().hasClass("back-to-top")){
@@ -91,7 +84,7 @@ $.fn.toc = function(options) {
               });
               itemToActivate.addClass("active");
               itemToActivate.parents("li").addClass("active"); // This call is ineffective for some reason.
-              
+
               // Now scroll up.
               $([document.documentElement, document.body]).animate({
                   scrollTop: $("[id='" + toc_item_id + "']").offset().top
@@ -100,9 +93,10 @@ $.fn.toc = function(options) {
           header.after(return_to_top);
       }
     })
-    
-    output.html(html);
-    resetNavgocoMenu();
+
+    $("#toc_ul").html(html);
+    console.log($("#toc_ul"));
+    // resetNavgocoMenu();
     // Finally, set up navgoco options.
 };
 
@@ -126,12 +120,9 @@ function resetNavgocoMenu() {
     $("#toc_ul").navgoco('toggle', false);
 }
 
-function updateToc() {
-    $('#toc').toc({minimumHeaders: 0, listType: 'ul', headers: 'h2,h3,h4,h5,h6'});
-}
 
 // Update table of contents (To be called whenever page contents are updated).
-$( document ).ready(updateToc);
+$( document ).ready(updateToc({minimumHeaders: 0, listType: 'ul', headers: 'h2,h3,h4,h5,h6'}));
 
 
 
