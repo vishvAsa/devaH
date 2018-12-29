@@ -1,0 +1,6 @@
+-
+  scope:
+    pathPrefix: ""
+  values:
+    sidebar: home_sidebar
+    topnav: top_bar

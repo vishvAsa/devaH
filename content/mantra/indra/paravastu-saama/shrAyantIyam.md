@@ -1,0 +1,63 @@
+---
+title: श्रायन्तीयम्  
+unicode_script: devanagari  
+emphasis_as_inline_comments: true
+---   
+
+## ऋक्
+
+RV.8.99.3a; AV;S.20.58.1a; SV.1.267a; 2.669a; VS.33.41a; JB.3.261a; KB.25.6; A;S.7.4.3; ;S;S.11.13.21; 12.4.19; 16.21.19; Vait.33.6; 40.5; 41.9,10,19; 42.5; L;S.4.6.23; N.6.8a. Cf. Svidh.3.1.12.
+
+*([सायणो [ऽत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart3/rv_sayanabhasya_part3#page/n1039/mode/1up&sa=D&ust=1542425956252000)। नृमेधः। इन्द्रः।])*
+
+श्राय॑न्त *(=श्रयन्तः)* *(रश्मयः)* इव सूर्य॑म् विश्वा इत् इन्द्र॑स्य भक्षत।
+
+वसू॑नि जा॒ते जन॑माने *(=जनिष्यमाणे)* ओज॑सा प्रति *(पित्र्यं)* भा॒गं न दी॑धिम *(=धारयेम)* ।।
+
+अन॑र्शरातिं *(=अपापकदानम्)* वसु॒दाम् *(इन्द्रम्)* उप स्तुहि भ॒द्रा इन्द्र॑स्य रा॒तयः *(=दानानि)* ।
+
+सो*(~~यो~~)* अ॑स्य॒ कामं॑ विध॒तो *(=परिचरतो)* न रो॑षति॒ मनो॑ दा॒नाय॑ चो॒दय॑न् ।।
+
+![](../images/indra-as-maghavAn-followed-by-people-bearing-wealth-moving-towards-a-yajamAna.png)
+
+
+## साम
+
+- पारम्परिक-गान-मूलम् [अत्र](https://sanskritdocuments.org/sites/pssramanujaswamy/AASHEERVACHANA%20SAAMAANI.pdf&sa=D&ust=1542425956253000)।
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/shrAyantIyam.mp3"></div>
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/shrAyantIyam.mp3"></div>
+<div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1x" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018/shrAyantIyam.mp3"></div>
+<div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1.5x" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018-150p-speed/shrAyantIyam.mp3"></div>
+<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1x" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/shrAyantIyam.mp3"></div>
+<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1.5x" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015-150p-speed/shrAyantIyam.mp3"></div>
+
+श्रा*(३)*यन्ती*(३)*यम्।  
+
+श्रा*(["पो]-"”३)*आयन्त इव, सूऊ*(%)*रा*("३)*याम्।  
+वि*([पि])*श्वा*([प्रे])*यदी*(%)*न्द्रा*([प्रे])*अ,,स्य*([तै])*भा*([प्रे])*अक्षा*(-”)*ता*(-”)*ह।  
+वा*([पि]%)*सू*(["]-%-%३)*नि जा*(")*आतो*(%” ~~ते~~)*,,जानि*(v)*मा*(")*अ,,नि*([पृ])*य्यो*([ऽ]"३)*,ऒजाआ*(%)*सा*([प्रे])*अ।
+
+प्र*([पि])*ति भा*(["]३)*,आगन्ना*(%)* +दी*(३”)*,इधिमा*(३)*ह*(v)*।  
+प्रा*([तः]"३)*आति। भा*([तः]%)*गा*("३)*न् ना*(३")*अ दा,,हिं*([त])*धी*([टि]३--”)*मा*(३)* अहाओ*([तु]%३)*वाअ।  
+प्र*([पो])*ति भा*(["]-- "३)*,,आगन्न +दाआ*(%)*इ,धा*(%३)*इ,मा*(३)*अ*(v)*ह*(v)* ।  
+प्र*([पि])*ता*([प्रे])*अइ भा*(["]%)*गा*([प्रे])*अम्, न*([तै])*दा*([प्रे])*अइधाइमा*(३)*ह*(v)*।
+
+आ*([पि]v-%३)*नर्शी*(~~लल्षी~~)* रा*(["])*,आतिव्ँ*(%२)* वासुदा*(["])*अम्।  
+ऊ*([पृ])*पा*("३)*अ +स्तुऊ*(%)*हा*([प्रे])*अइ।
+
+भद्रा*([पृ]v-%३)* इन्द्रस्य रा*(["]३")*आता*(")*याह*(v)*।  
+भा*([तः]"३)*अद्रा।  इन्*([तः]२)*द्रा*(३)*स्या*(३)*अ रा,,हिं*([त])*ता*([टि]"३)*या*(३)*अहाओ*([तू]%३)*वाअ।  
+भ*([पो])*द्रा*(["]३--%”)*,अ इन्द्रस्य +राआ*(%)*ता*(३”)*,,या*(३)*ह*(v)*।  
+भ*([घे])*द्रा*([प्रे])*अ, इन्*(%)*द्रा*([प्रे])*अस्य*([तै])* +रा*([प्रे])*आता*(%)*या*(%३)*ह*(v)*।  
+
+यो*([पि]v-%३)*स्या का*(["]३)*,आमव्ँ*(%२)* विधाता*(३)*ह*(v)*।  
+ना*([पृ])*रो*("३)*,ओ*(["])*षाआ*(%)*ता*([प्रे])*अइ।  
+मा*([पि])*नो*(["]३)*ओ, दा*(["]%)*ना*(["]-”३)*,या +चो*(["])*ऒ,दा*(")*यन् ।  
+मा*([तः]"३)*अना*(३)*ह*(v)*,, दा*([तः]%)*ना*(३”)*या*(३)*आ चो,, हिं*([त])*दा*([टि]"३)*याअ*(v)*न् ।  
+ ओ*([तू]%%३)*वाअ। श्रियेए*("३ %)*॥

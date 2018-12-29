@@ -1,0 +1,12 @@
+{{ define "main" }}
+<article>
+  <!-- toggle sidebar button -->
+  <a id="tg-sb-link" href="#"><i id="tg-sb-icon-content-pane" class="fa fa-toggle-on"></i>Sidebar</a>
+  <header>
+    <h1>{{.Params.title}}</h1>
+  </header>
+  <a id="tg-sb-link" href="#"><i id="tg-sb-icon-content-pane" class="fa fa-toggle-on"></i>Sidebar</a>
+  {{ .Content }}
+</article>
+
+{{ end }}

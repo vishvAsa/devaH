@@ -1,0 +1,9 @@
+baseURL = "https://vvasuki.github.io/saMskAra/"
+languageCode = "en-us"
+title = "संस्कारे विश्वासटिप्पणयः"
+theme = "sanskrit-documentation-theme-hugo"
+publishDir = "docs"
+[params]
+  githubEditMePathBase = "https://github.com/vvasuki/saMskAra/edit/master/"
+  contactLink = "https://github.com/vvasuki/saMskAra/issues/new"
+  env = "production"
