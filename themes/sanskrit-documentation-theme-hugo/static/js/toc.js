@@ -27,7 +27,7 @@ function updateToc(options) {
 
     var level = get_level(headers[0]),
       this_level,
-      html = settings.title + " <"+settings.listType+">";
+      html = settings.title + " <"+settings.listType+" class='list-unstyled components'>";
     headers.on('click', function() {
       if (!settings.noBackToTopLinks) {
         window.location.hash = this.id;
@@ -124,25 +124,6 @@ function resetNavgocoMenu() {
 // Update table of contents (To be called whenever page contents are updated).
 $( window ).on( "load", updateToc());
 
-
-
-// Code to make the "Nav" button, which toggles the table of contents.
-// Not to be confused with toggling sub-items in that menu.
-var toggleToc = function() {
-    $("#toc").toggle();
-    $("#toggle-toc-icon").toggleClass('fa-toggle-on');
-    $("#toggle-toc-icon").toggleClass('fa-toggle-off');
-};
-
-function toggleTocExpansion() {
-    $("#toggle-toc-expansion-icon").toggleClass('fa-toggle-on');
-    $("#toggle-toc-expansion-icon").toggleClass('fa-toggle-off');
-    if($("#toggle-toc-expansion-icon").hasClass('fa-toggle-on')) {
-        $("#toc_ul").navgoco('toggle', true);
-    } else {
-        $("#toc_ul").navgoco('toggle', false);
-    }
-}
 
 $(document).ready(function() {
     $("#toggle-toc-icon").click(toggleToc);

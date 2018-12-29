@@ -2,14 +2,21 @@
   <header>
     <h1>{{.Params.title}}</h1>
   </header>
-  <aside id="toc">
-    <a id="tg-sb-link" href="#"><i id="tg-sb-icon-content-pane" class="fa fa-toggle-on"></i>Sidebar</a>
-    <div id="toc_header">
-            <i id="toggle-toc-icon" class="fa fa-toggle-on"></i> What's in this page? <i class="fa fa-space-shuttle"></i>
-            <span style="font-size: smaller">Expand? <i id="toggle-toc-expansion-icon" class="fa fa-toggle-off"></i></span>
+  <aside>
+  <div class="toc_card">
+    <div id="toc_header" class="card-title border d-flex justify-content-between">
+        <a data-toggle="collapse" href="#toc_body" role="button" aria-expanded="true" aria-controls="toc_body">
+          What's in this page?</a>
     </div>
-    <ul id="toc_ul" class="list-unstyled components">
-    </ul>
+    <div id="toc_body" class="card-body collapse">
+      <ul id="toc_ul" class="list-unstyled components">
+      </ul>
+    </div>
+  </div>
+  <span style="font-size: smaller">Expand? <i id="toggle-toc-expansion-icon" class="fa fa-toggle-off"></i></span>
+  </div>
+  <div  id="toc">
+  </div>
    </aside>
   {{ .Content }}
 </article>

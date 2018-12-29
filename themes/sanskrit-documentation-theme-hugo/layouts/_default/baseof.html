@@ -77,15 +77,16 @@
       <!-- Sidebar Column.
        See https://getbootstrap.com/docs/3.3/css/ for exmplanation of values such as col-md-3.
        -->
-      <div class="col-md-3" id="tg-sb-sidebar">
-        <nav>
-          <div id="sidebarTitle"></div>
-          <!--fa below stands for a font awesome icon.-->
-          <div><a id="hide-sb-link" href="#"><i id="tg-sb-icon" class="fa fa-toggle-on"></i>Hide?</a></div>
+      <aside class="col-md-3 card" id="sidebar">
+        <div id="sidebarTitle" class="card-title border d-flex justify-content-between">
+          <a data-toggle="collapse" href="#sidebar_body" role="button" aria-expanded="true" aria-controls="sidebar_body">
+            Proximal pages</a>
+        </div>
+        <nav class="card-body" id="sidebar_body">
         <ul id="displayed_sidebar" class="list-unstyled components">
         </ul>
         </nav>
-      </div>
+      </aside>
       <main class="col p-3" role="main">
         {{ block "main" . }}{{ end }}
       </main>
