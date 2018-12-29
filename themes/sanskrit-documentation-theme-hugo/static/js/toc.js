@@ -8,9 +8,9 @@ function updateToc(options) {
     var defaults = {
       noBackToTopLinks: false,
       title: '',
-      minimumHeaders: 3,
-      headers: 'h1, h2, h3, h4',
-      listType: 'ol', // values: [ol|ul]
+      minimumHeaders: 2,
+      headers: 'h2,h3,h4,h5,h6',
+      listType: 'ul', // values: [ol|ul]
     },
     settings = $.extend(defaults, options);
 
@@ -27,7 +27,7 @@ function updateToc(options) {
 
     var level = get_level(headers[0]),
       this_level,
-      html = settings.title + " <"+settings.listType+" id=\"toc_ul\" class=\"nav\">";
+      html = settings.title + " <"+settings.listType+">";
     headers.on('click', function() {
       if (!settings.noBackToTopLinks) {
         window.location.hash = this.id;
@@ -122,7 +122,7 @@ function resetNavgocoMenu() {
 
 
 // Update table of contents (To be called whenever page contents are updated).
-$( document ).ready(updateToc({minimumHeaders: 0, listType: 'ul', headers: 'h2,h3,h4,h5,h6'}));
+$( window ).on( "load", updateToc());
 
 
 

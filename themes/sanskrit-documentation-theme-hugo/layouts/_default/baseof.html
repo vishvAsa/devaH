@@ -92,4 +92,8 @@
     </div>
     {{ block "footer" . }}{{ partialCached "site-footer.html" . }}{{ end }}
   </body>
+  <script type='text/javascript'>
+    // Somehow $(document).ready() and $(window).on(load, ..) did not seem to get all the headers!
+    updateToc();
+  </script>
 </html>
