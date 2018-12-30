@@ -2,39 +2,32 @@ function get_toc_item_id(header_id) {
     return "toc_item_" + header_id;
 }
 
-// https://github.com/ghiculescu/jekyll-table-of-contents
-// This is how a jquery plugin is defined - https://stackoverflow.com/questions/2937227/what-does-function-jquery-mean .
-$.fn.toc = function(options) {
-    console.debug("Setting up TOC for " + document.location);
+
+function updateToc(options) {
+    console.info("Setting up TOC for " + document.location);
     var defaults = {
       noBackToTopLinks: false,
       title: '',
-      minimumHeaders: 3,
-      headers: 'h1, h2, h3, h4',
-      listType: 'ol', // values: [ol|ul]
+      minimumHeaders: 2,
+      headers: 'h2,h3,h4,h5,h6'
     },
     settings = $.extend(defaults, options);
 
-    // console.debug($(settings.headers));
-    var headers = $(settings.headers).filter(function() {
-      // get all headers with an ID
-      var previousSiblingName = $(this).prev().attr( "id" );
-      if (!this.id && previousSiblingName) {
-        this.id = $(this).attr( "id", previousSiblingName.replace(/\./g, "-") );
-      }
-      return this.id;
-    }), output = $(this);
-    if (!headers.length || headers.length < settings.minimumHeaders || !output.length) {
+    // console.debug(settings);
+    var headers = $(settings.headers);
+    console.debug(headers.length);
+    if (headers.length < settings.minimumHeaders) {
+      console.debug("Too few headers. Returning");
       return;
     }
-    console.debug(headers);
 
     var get_level = function(ele) { return parseInt(ele.nodeName.replace("H", ""), 10); }
     var highest_level = headers.map(function(_, ele) { return get_level(ele); }).get().sort()[0];
-
+    let liClass = "list-group-item-primary"; // list-group-item-primary is a bootstrap class.
+    let ulClass = "list pl2";
     var level = get_level(headers[0]),
       this_level,
-      html = settings.title + " <"+settings.listType+" id=\"toc_ul\" class=\"nav\">";
+      html = settings.title + `<ul class='${ulClass}'>`;
     headers.on('click', function() {
       if (!settings.noBackToTopLinks) {
         window.location.hash = this.id;
@@ -48,27 +41,27 @@ $.fn.toc = function(options) {
       }
       var toc_item_id = get_toc_item_id(header.id);
       if (this_level === level) // same level as before; same indenting
-        html += "<li id='" + toc_item_id + "'><a href='#" + header.id + "'>" + header.innerText + "</a>";
+        html += `<li id='${toc_item_id}' class="${liClass}"><a href='#${header.id}'>${header.innerText}</a>`;
       else if (this_level <= level){ // higher level than before; end parent ol
         for(i = this_level; i < level; i++) {
-          html += "</li></"+settings.listType+">"
+          html += `</li></ul>`
         }
-        html += "<li  id='" + toc_item_id + "'><a href='#" + header.id + "'>" + header.innerText + "</a>";
+        html += `<li id='${toc_item_id}' class="${liClass}"><a href='#${header.id}'>${header.innerText}</a>`;
       }
       else if (this_level > level) { // lower level than before; expand the previous to contain a ol
         for(i = this_level; i > level; i--) {
-          html += "<"+settings.listType+">";
+          html += `<ul class='${ulClass}'>`;
           if(i == level + 1) {
-              html +=  "<li id='" + toc_item_id + "'>";
+              html +=  `<li id='${toc_item_id}' class="${liClass}">`;
           } else {
-              html += "<li>";
+              html += `<li class="${liClass}">`;
           }
         }
-        html += "<a href='#" + header.id + "'>" + header.innerText + "</a>";
+        html += `<a href='#${header.id}'>${header.innerText}</a>`;
       }
       level = this_level; // update for the next one
     });
-    html += "</"+settings.listType+">";
+    html += "</ul>";
 
     headers.each(function () {
       var header = $(this);
@@ -101,7 +94,8 @@ $.fn.toc = function(options) {
       }
     })
 
-    output.html(html);
+    $("#toc_ul").html(html);
+    console.log($("#toc_ul"));
     // resetNavgocoMenu();
     // Finally, set up navgoco options.
 };
@@ -126,34 +120,6 @@ function resetNavgocoMenu() {
     $("#toc_ul").navgoco('toggle', false);
 }
 
-function updateToc() {
-    $('#toc').toc({minimumHeaders: 0, listType: 'ul', headers: 'h2,h3,h4,h5,h6'});
-}
 
 // Update table of contents (To be called whenever page contents are updated).
-$( document ).ready(updateToc);
-
-
-
-// Code to make the "Nav" button, which toggles the table of contents.
-// Not to be confused with toggling sub-items in that menu.
-var toggleToc = function() {
-    $("#toc").toggle();
-    $("#toggle-toc-icon").toggleClass('fa-toggle-on');
-    $("#toggle-toc-icon").toggleClass('fa-toggle-off');
-};
-
-function toggleTocExpansion() {
-    $("#toggle-toc-expansion-icon").toggleClass('fa-toggle-on');
-    $("#toggle-toc-expansion-icon").toggleClass('fa-toggle-off');
-    if($("#toggle-toc-expansion-icon").hasClass('fa-toggle-on')) {
-        $("#toc_ul").navgoco('toggle', true);
-    } else {
-        $("#toc_ul").navgoco('toggle', false);
-    }
-}
-
-$(document).ready(function() {
-    $("#toggle-toc-icon").click(toggleToc);
-    $("#toggle-toc-expansion-icon").click(toggleTocExpansion);
-});
+$( window ).on( "load", updateToc());

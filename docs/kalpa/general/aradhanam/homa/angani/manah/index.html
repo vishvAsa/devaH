@@ -52,30 +52,25 @@
     <script src="/saMskAra/node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
     <script src="/saMskAra/node_modules/@sanskrit-coders/sanscript/sanscript.js"></script>
 
+    <script>
+    let pageParams = JSON.parse("{\x22draft\x22:false,\x22emphasis_as_inline_comments\x22:true,\x22iscjklanguage\x22:false,\x22title\x22:\x22मनःसंस्कारः\x22,\x22unicode_script\x22:\x22devanagari\x22}");
+    let pageSource = "kalpa\/general\/ArAdhanam\/homa\/angAni\/manaH.md";
+    console.log(pageSource);
+    var pageDefaults;
+    for (let possiblePageDefaults of pageDefaultsList) {
+      if (pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+        pageDefaults = possiblePageDefaults.values
+      }
+    }
+    var sidebarId = pageParams.sidebar || pageDefaults.sidebar;
+    
+    </script>
     <script src="/saMskAra/js/handleIncludes.js"></script>
     <script src="/saMskAra/js/audio_embed.js"></script>
     <script src="/saMskAra/js/video_embed.js"></script>
     <script src="/saMskAra/js/unmanaged_external/navgoco.js"></script>
     <script src="/saMskAra/js/sidebar.js"></script>
     <script src="/saMskAra/js/toc.js"></script>
-    <script type="text/javascript">
-      let pageSource = "kalpa\/general\/ArAdhanam\/homa\/angAni\/manaH.md";
-      console.log(pageSource);
-      let baseURL = "https:\/\/vvasuki.github.io\/saMskAra\/";
-      let siteParams = JSON.parse("{\x22contactlink\x22:\x22https:\/\/github.com\/vvasuki\/saMskAra\/issues\/new\x22,\x22env\x22:\x22production\x22,\x22githubeditmepathbase\x22:\x22https:\/\/github.com\/vvasuki\/saMskAra\/edit\/master\/\x22,\x22mainSections\x22:[\x22mantra\x22],\x22mainsections\x22:[\x22mantra\x22]}");
-      let pageParams = JSON.parse("{\x22draft\x22:false,\x22emphasis_as_inline_comments\x22:true,\x22iscjklanguage\x22:false,\x22title\x22:\x22मनःसंस्कारः\x22,\x22unicode_script\x22:\x22devanagari\x22}");
-      let pageDefaultsList = JSON.parse("[{\"scope\":{\"pathPrefix\":\"\"},\"values\":{\"sidebar\":\"home_sidebar\",\"topnav\":\"top_bar\"}}]");
-      let sidebarsData = JSON.parse("{\x22home_sidebar\x22:{\x22contents\x22:[{\x22title\x22:\x22मन्त्राः\x22,\x22url\x22:\x22\/mantra\/\x22},{\x22title\x22:\x22कल्पः आपस्तम्बोक्तः\x22,\x22url\x22:\x22\/kalpa\/Apastamba\/\x22},{\x22title\x22:\x22कल्पः बोधयनोक्तः\x22,\x22url\x22:\x22\/kalpa\/bodhAyana\/\x22},{\x22title\x22:\x22वंशाः\x22,\x22url\x22:\x22\/bloodlines\/\x22},{\x22title\x22:\x22काव्यम्\x22,\x22url\x22:\x22\/kaavya\/videos.html\x22},{\x22title\x22:\x22ज्यौतिषम्\x22,\x22url\x22:\x22\/jyotisha.html\x22},{\x22title\x22:\x22संस्कृतम्\x22,\x22url\x22:\x22\/sanskrit\/index.html\x22},{\x22title\x22:\x22Notes Home\x22,\x22url\x22:\x22\/..\/notes\/index.html\x22},{\x22title\x22:\x22Vishvas\x27s home page\x22,\x22url\x22:\x22\/..\/index.html\x22},{\x22title\x22:\x22Blog\x22,\x22url\x22:\x22\/assets\/blog\/index.html\x22}],\x22title\x22:\x22भागाः\x22},\x22saMskAra_sidebar\x22:{\x22contents\x22:[{\x22contents\x22:[{\x22contents\x22:[{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/mantra\/agni\/Rk\/\x22}],\x22title\x22:\x22ऋचः\x22},{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/mantra\/agni\/paravastu-saama\/\x22}],\x22title\x22:\x22सामानि\x22},{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/mantra\/agni\/yajus\/\x22}],\x22title\x22:\x22यजूंषि\x22}],\x22title\x22:\x22अग्निः\x22},{\x22contents\x22:[{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/mantra\/indra\/paravastu-saama\/\x22}],\x22title\x22:\x22सामानि\x22},{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/mantra\/indra\/Rk\x22}],\x22title\x22:\x22ऋचः\x22},{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/mantra\/indra\/yajus\x22}],\x22title\x22:\x22यजूंषि\x22}],\x22title\x22:\x22इन्द्रः\x22},{\x22contents\x22:[{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/mantra\/soma\/paravastu-saama\/\x22}],\x22title\x22:\x22सामानि\x22},{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/mantra\/soma\/Rk\x22}],\x22title\x22:\x22ऋचः\x22}],\x22title\x22:\x22सोमः\x22},{\x22contents\x22:[{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/mantra\/misc-devas\/paravastu-saama\/\x22}],\x22title\x22:\x22सामानि\x22},{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/mantra\/misc-devas\/Rk\x22}],\x22title\x22:\x22ऋचः\x22},{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/mantra\/misc-devas\/yajus\x22}],\x22title\x22:\x22यजूंषि\x22}],\x22title\x22:\x22परिशिष्टम्\x22},{\x22contents\x22:[{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/mantra\/sangrahAH\/paravastu-saama\/\x22}],\x22title\x22:\x22सामानि\x22},{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/mantra\/sangrahAH\/\x22}],\x22title\x22:\x22शिष्टम्\x22}],\x22title\x22:\x22सङ्ग्रहाः\x22}],\x22title\x22:\x22मन्त्राः\x22},{\x22contents\x22:[{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/kalpa\/Apastamba\/saMskAra\x22}],\x22title\x22:\x22संस्काराः\x22},{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/kalpa\/Apastamba\/\x22}],\x22title\x22:\x22परिशिष्टकर्माणि\x22},{\x22contents\x22:[{\x22contents\x22:[{\x22contents\x22:[{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/kalpa\/Apastamba\/pramANAni\/dharma-sUtra\/kriyAH\/arhaNam\x22}],\x22title\x22:\x22अर्हणम्\x22},{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/kalpa\/Apastamba\/pramANAni\/dharma-sUtra\/kriyAH\/shaucham\x22}],\x22title\x22:\x22शौचम्\x22},{\x22url\x22:\x22dir:\/\/kalpa\/Apastamba\/pramANAni\/dharma-sUtra\/kriyAH\x22}],\x22title\x22:\x22क्रियाः\x22},{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/kalpa\/Apastamba\/pramANAni\/dharma-sUtra\/pAtra\/Ashrama\x22}],\x22title\x22:\x22आश्रमः\x22},{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/kalpa\/Apastamba\/pramANAni\/dharma-sUtra\/pAtra\x22}],\x22title\x22:\x22पात्राणि\x22},{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/kalpa\/Apastamba\/pramANAni\/dharma-sUtra\/tattvAni\x22}],\x22title\x22:\x22तत्त्वानि\x22}],\x22title\x22:\x22धर्मसूत्राणि\x22},{\x22contents\x22:[{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/kalpa\/Apastamba\/pramANAni\/gRhya\/angAni\x22}],\x22title\x22:\x22अङ्गानि\x22},{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/kalpa\/Apastamba\/pramANAni\/gRhya\/karmANi\x22}],\x22title\x22:\x22कर्माणि\x22}],\x22title\x22:\x22गृह्यसूत्राणि\x22}],\x22title\x22:\x22सूत्राणि\x22}],\x22title\x22:\x22कल्पः आपस्तम्बोक्तः\x22},{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/kalpa\/bodhAyana\x22}],\x22title\x22:\x22कल्पः बोधयनोक्तः\x22},{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/kalpa\/brAhmaNa\x22}],\x22title\x22:\x22ब्राह्मणानि\x22},{\x22contents\x22:[{\x22title\x22:\x22प्रवेशः\x22,\x22url\x22:\x22\/kalpa\/general\/index.md\x22},{\x22contents\x22:[{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/kalpa\/general\/angAni\/manaH\/\x22}],\x22title\x22:\x22मनः-संस्कारः\x22},{\x22url\x22:\x22dir:\/\/kalpa\/general\/angAni\/\x22}],\x22title\x22:\x22अङ्गानि\x22},{\x22contents\x22:[{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/kalpa\/general\/ArAdhanam\/bali\/\x22}],\x22title\x22:\x22बलिः\x22},{\x22contents\x22:[{\x22url\x22:\x22\/kalpa\/general\/ArAdhanam\/homa\/index.md\x22},{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/kalpa\/general\/ArAdhanam\/homa\/angAni\/\x22}],\x22title\x22:\x22अङ्गानि\x22},{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/kalpa\/general\/ArAdhanam\/homa\/visheShaH\/\x22}],\x22title\x22:\x22विशेषाः\x22}],\x22title\x22:\x22होमः\x22},{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/kalpa\/general\/ArAdhanam\/shrAddham\/\x22}],\x22title\x22:\x22श्राद्धम्\x22},{\x22url\x22:\x22dir:\/\/kalpa\/general\/ArAdhanam\/\x22}],\x22title\x22:\x22आराधनम्\x22},{\x22url\x22:\x22dir:\/\/kalpa\/general\/\x22}],\x22title\x22:\x22कल्पे ऽस्मन्निश्चयः\x22},{\x22contents\x22:[{\x22title\x22:\x22Pics\x22,\x22url\x22:\x22\/bloodlines\/pics.html\x22},{\x22title\x22:\x22भार्गवाः\x22,\x22url\x22:\x22\/bloodlines\/bhaargava.html\x22},{\x22title\x22:\x22आङ्गीरसाः\x22,\x22url\x22:\x22\/bloodlines\/aangiirasa.html\x22},{\x22title\x22:\x22कौशिकाः\x22,\x22url\x22:\x22\/bloodlines\/kaushika.html\x22},{\x22title\x22:\x22Misc info\x22,\x22url\x22:\x22\/bloodlines\/\x22}],\x22title\x22:\x22वंशाः\x22},{\x22contents\x22:[{\x22title\x22:\x22Videos\x22,\x22url\x22:\x22\/kaavya\/videos.html\x22}],\x22title\x22:\x22काव्यम्\x22},{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/jyotisha\x22}],\x22title\x22:\x22ज्यौतिषम्\x22},{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/sanskrit\/\x22},{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/sanskrit\/shixaa\/\x22},{\x22title\x22:\x22Reciting and Recording\x22,\x22url\x22:\x22https:\/\/sanskrit.github.io\/projects\/audio\/tips.html\x22}],\x22title\x22:\x22शिक्षा\x22}],\x22title\x22:\x22संस्कृतम्\x22},{\x22title\x22:\x22Notes Home\x22,\x22url\x22:\x22\/..\/notes\/index.html\x22},{\x22title\x22:\x22Vishvas\x27s home page\x22,\x22url\x22:\x22\/..\/index.html\x22},{\x22title\x22:\x22Blog\x22,\x22url\x22:\x22\/assets\/blog\/index.html\x22}],\x22title\x22:\x22भागाः\x22}}");
-      var pageDefaults;
-      for (let possiblePageDefaults of pageDefaultsList) {
-        if (pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
-          pageDefaults = possiblePageDefaults.values
-        }
-      }
-      var sidebarId = pageParams.sidebar || pageDefaults.sidebar;
-      
-      let autocompletePageUrl = "\/saMskAra\/data\/pages.tsv";
-    </script>
     <script src="/saMskAra/js/onDocumentReady.js"></script>
     <script src="/saMskAra/js/autocomplete.js"></script>
   </head>
@@ -89,9 +84,6 @@
         <a  href="/saMskAra/" class="btn btn-default col">
           <i class="fas fa-gopuram ">संस्कारे विश्वासटिप्पणयः</i>
         </a>
-        <div class="col justify-content-center">
-          <a id="editLink" class="btn btn-primary"  href="https://github.com/vvasuki/saMskAra/edit/master/kalpa/general/ArAdhanam/homa/angAni/manaH.md"><i class="fas fa-edit"></i></a>
-        </div>
         <div class="col-md-auto d-flex justify-content-center">
           <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम् + Enter"><i class="btn fas fa-search "></i>
           <a href="/saMskAra/google_site_search/"  class="btn btn-default">Google</a>
@@ -104,20 +96,39 @@
     
     <div class="row">
       
-      <div class="col-md-3" id="tg-sb-sidebar">
-        <ul id="displayed_sidebar" class="nav">
-            <li class="sidebarTitle"></li>
-            
-            <li><a id="hide-sb-link" href="#"><i id="tg-sb-icon" class="fa fa-toggle-on"></i>Hide?</a></li>
+      <aside class="col-md-3 card border " id="sidebar">
+        <div id="sidebarTitle" class="card-title bg-yellow border d-flex justify-content-between">
+          <a data-toggle="collapse" href="#sidebar_body" role="button" aria-expanded="true" aria-controls="sidebar_body">
+            Proximal pages <i class="fas fa-caret-down"></i></a>
+        </div>
+        <nav class="card-body p-0" id="sidebar_body">
+        <ul id="displayed_sidebar" class="list pl2 p-0 bg-yellow">
         </ul>
-      </div>
-      
-      <main class="col-xs-9 p-3" role="main">
+        </nav>
+      </aside>
+      <main class="col p-3" role="main">
         
 <article>
   <header>
     <h1>मनःसंस्कारः</h1>
   </header>
+  <aside>
+  <div id="toc_card" class="card border ">
+    <a id="tg-sb-link" href="#"><i id="tg-sb-icon-content-pane" class="fa fa-toggle-on"></i>Sidebar</a>
+    <div id="toc_header" class="card-title border d-flex justify-content-between">
+        <a data-toggle="collapse" href="#toc_body" role="button" aria-expanded="true" aria-controls="toc_body">
+          What's in this page? <i class="fas fa-caret-down"></i> </a>
+        <a id="editLink" class="btn btn-primary"  href="https://github.com/vvasuki/saMskAra/edit/master/kalpa/general/ArAdhanam/homa/angAni/manaH.md"><i class="fas fa-edit"></i></a>
+    </div>
+    <div id="toc_body" class="card-body collapse p-0">
+      
+      <ul id="toc_ul" class="list p-0">
+      </ul>
+    </div>
+  </div>
+  <div  id="toc">
+  </div>
+   </aside>
   
 
 <ul>
@@ -160,4 +171,8 @@
 </footer>
 
   </body>
+  <script type='text/javascript'>
+    
+    updateToc();
+  </script>
 </html>
