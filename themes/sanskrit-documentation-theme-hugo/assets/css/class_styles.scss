@@ -1,0 +1,26 @@
+figure.thumbnail {
+  width: 250px;
+  height: 250px;
+}
+
+*[unicode_script="devanagari"] {
+  font-family: 'siddhanta-cakravat1', 'Noto Sans Devanagari From Github Hinted', serif;
+  font-size: 130%;
+}
+
+.inline_comment {
+  font-size: 70%;
+  color: firebrick;
+  display: inline;
+  vertical-align: sub;
+}
+
+*[emphasis_as_inline_comments=true] {
+  em {
+    // Copied from inline_comments class above.
+    font-size: 80%;
+    color: firebrick;
+    display: inline;
+    vertical-align: sub;
+  }
+}

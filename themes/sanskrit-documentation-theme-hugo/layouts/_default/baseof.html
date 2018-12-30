@@ -39,7 +39,8 @@
     <link rel="stylesheet" href="{{ relURL "node_modules/@fortawesome/fontawesome-free/css/solid.min.css" }}">
     <link rel="stylesheet" href="{{ relURL "node_modules/@fortawesome/fontawesome-free/css/fontawesome.min.css" }}">
     <link rel="stylesheet" href="{{ relURL "css/fonts.css" }}">
-    <link rel="stylesheet" href="{{ relURL "css/class_styles.css" }}">
+    {{ $style := resources.Get "css/class_styles.scss" | toCSS | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $style.Permalink }}">
     <script src="{{ relURL "node_modules/jquery/dist/jquery.min.js" }}"></script>
     <script src="{{ relURL "node_modules/jquery-csv/src/jquery.csv.min.js" }}"></script>
     <script src="{{ relURL "node_modules/jquery-ui-dist/jquery-ui.min.js" }}"></script>

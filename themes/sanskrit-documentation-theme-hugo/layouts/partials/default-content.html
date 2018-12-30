@@ -19,7 +19,7 @@
   <div  id="toc">
   </div>
   </aside>
-  <div id="post_content">
+  <div id="post_content" unicode_script="{{ .Params.unicode_script }}" emphasis_as_inline_comments = "{{.Params.emphasis_as_inline_comments | default "false"}}">
   {{ .Content }}
   </div>
 </article>
