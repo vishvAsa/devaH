@@ -123,9 +123,3 @@ function resetNavgocoMenu() {
 
 // Update table of contents (To be called whenever page contents are updated).
 $( window ).on( "load", updateToc());
-
-
-$(document).ready(function() {
-    $("#toggle-toc-icon").click(toggleToc);
-    $("#toggle-toc-expansion-icon").click(toggleTocExpansion);
-});

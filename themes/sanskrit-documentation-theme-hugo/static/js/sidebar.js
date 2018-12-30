@@ -1,4 +1,5 @@
-function getSidebarItemHtml(sidebarItem) {
+function getSidebarItemHtml(sidebarItem, parentListIdIn) {
+    var parentListId = parentListIdIn || "sb";
     var item_url_stripped = sidebarItem.url || "#";
     item_url_stripped = item_url_stripped.replace("index.html", "").replace("index.md", "").replace(".md", "/");
     if (item_url_stripped.startsWith("/")) {
@@ -19,11 +20,17 @@ function getSidebarItemHtml(sidebarItem) {
     // console.debug(sidebarItem);
     if(sidebarItem.hasOwnProperty("contents")) {
         var contentHtml = "";
-        for(let subitem of sidebarItem.contents) {
-            contentHtml = `${contentHtml}\n ${getSidebarItemHtml(subitem)}`;
-        }
         var title = sidebarItem.title || pageUrlToTitle[item_url_stripped];
-        var itemHtml = `<li class="${liClass}"><a href="${item_url_stripped}" class="${anchorClasses}"> ${title} <i class="fas fa-caret-down"></i></a>\n<ul class='${ulClass}'>${contentHtml}\n</ul>\n</li>\n`;
+        var listId = `${parentListId}_${title.replace(" ", "_")}`;
+        for(let subitem of sidebarItem.contents) {
+            contentHtml = `${contentHtml}\n ${getSidebarItemHtml(subitem, listId)}`;
+        }
+        var itemHtml =
+        `<li class="${liClass}"><span class="d-flex justify-content-between">` +
+        `<a href="${item_url_stripped}" class="${anchorClasses}"> ${title}</a> ` +
+        `<a  data-toggle="collapse" href="#${listId}" role="button" aria-expanded="false" aria-controls="${listId}"> <i class="fas fa-caret-down"></i></a></span>\n` +
+        `<ul id='${listId}' class='${ulClass} collapse'>${contentHtml}\n</ul>\n` +
+        `</li>\n`;
     } else if (sidebarItem.url.startsWith("dir://")) {
         var dirUrl = sidebarItem.url.replace("dir://", "/").toLowerCase();
         if (dirUrl.endsWith("/")) {
