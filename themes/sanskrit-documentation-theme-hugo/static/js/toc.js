@@ -15,7 +15,7 @@ function updateToc(options) {
 
     // console.debug(settings);
     var headers = $(settings.headers);
-    console.debug(headers.length);
+    // console.debug(headers.length);
     if (headers.length < settings.minimumHeaders) {
       console.debug("Too few headers. Returning");
       return;
@@ -95,7 +95,7 @@ function updateToc(options) {
     })
 
     $("#toc_ul").html(html);
-    console.log($("#toc_ul"));
+    // console.log($("#toc_ul"));
     // resetNavgocoMenu();
     // Finally, set up navgoco options.
 };

@@ -1,6 +1,6 @@
 <script type="text/javascript">
   let baseURL = "{{.Site.BaseURL}}";
-  let basePath = baseURL.split("/").slice(2).join("/");
+  let basePath = "/" + baseURL.split("/").slice(3).join("/");
   let siteParams = JSON.parse("{{.Site.Params | jsonify}}");
   let pageDefaultsList = JSON.parse({{.Site.Data.page_defaults | jsonify}});
   let sidebarsData = JSON.parse("{{$.Site.Data.sidebars | jsonify}}");
@@ -18,13 +18,13 @@
 
   // For directory listing:
   var pageDirectoryToUrl = {};
-  for (var pageUrl in pageUrlToTitle) {
-      if(pageUrlToTitle.hasOwnProperty(pageUrl)) {
-          var dirPath = pageUrl.split("/").slice(0,-2).join("/");
+  for (let pageUrlTmp in pageUrlToTitle) {
+      if(pageUrlToTitle.hasOwnProperty(pageUrlTmp)) {
+          var dirPath = pageUrlTmp.split("/").slice(0,-2).join("/");
           if (pageDirectoryToUrl.hasOwnProperty(dirPath)) {
-              pageDirectoryToUrl[dirPath].push(pageUrl);
+              pageDirectoryToUrl[dirPath].push(pageUrlTmp);
           } else {
-              pageDirectoryToUrl[dirPath] = [pageUrl];
+              pageDirectoryToUrl[dirPath] = [pageUrlTmp];
           }
       }
   }

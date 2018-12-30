@@ -1,33 +1,33 @@
 function getSidebarItemHtml(sidebarItem, parentListIdIn) {
     var parentListId = parentListIdIn || "sb";
-    var item_url_stripped = sidebarItem.url || "#";
-    item_url_stripped = item_url_stripped.replace("index.html", "").replace("index.md", "").replace(".md", "/");
-    if (item_url_stripped.startsWith("/")) {
-      item_url_stripped = item_url_stripped.toLowerCase();
+    var itemUrlStripped = sidebarItem.url || "#";
+    itemUrlStripped = itemUrlStripped.replace("index.html", "").replace("index.md", "").replace(".md", "/");
+    if (itemUrlStripped.startsWith("/")) {
+      itemUrlStripped = itemUrlStripped.toLowerCase();
     }
 
     var urlTarget = "";
-    if (item_url_stripped.startsWith("http://") || item_url_stripped.startsWith("https://") || item_url_stripped.startsWith("ftp://")) {
+    if (itemUrlStripped.startsWith("http://") || itemUrlStripped.startsWith("https://") || itemUrlStripped.startsWith("ftp://")) {
         urlTarget = "_newTab";
     }
-    // console.debug(item_url_stripped);
+    // console.debug(itemUrlStripped);
     let anchorClasses = "";
     let ulClass = "list pl2";
     var liClass = "inactive";  // list-group-item-* is a bootstrap class.
-    if (document.location.toString().replace("#[^/]*$", "") == item_url_stripped) {
-        liClass = "active";
+    if (pageUrl.replace(basePath, "/") == itemUrlStripped) {
+        liClass = "active underline";
     }
     // console.debug(sidebarItem);
     if(sidebarItem.hasOwnProperty("contents")) {
         var contentHtml = "";
-        var title = sidebarItem.title || pageUrlToTitle[item_url_stripped];
+        var title = sidebarItem.title || pageUrlToTitle[itemUrlStripped];
         var listId = `${parentListId}_${title.replace(" ", "_")}`;
         for(let subitem of sidebarItem.contents) {
             contentHtml = `${contentHtml}\n ${getSidebarItemHtml(subitem, listId)}`;
         }
         var itemHtml =
         `<li class="${liClass}"><span class="d-flex justify-content-between">` +
-        `<a href="${item_url_stripped}" class="${anchorClasses}"> ${title}</a> ` +
+        `<a href="${itemUrlStripped}" class="${anchorClasses}"> ${title}</a> ` +
         `<a  data-toggle="collapse" href="#${listId}" role="button" aria-expanded="false" aria-controls="${listId}"> <i class="fas fa-caret-down"></i></a></span>\n` +
         `<ul id='${listId}' class='${ulClass} collapse'>${contentHtml}\n</ul>\n` +
         `</li>\n`;
@@ -49,8 +49,8 @@ function getSidebarItemHtml(sidebarItem, parentListIdIn) {
         }
     }
     else {
-        var title = sidebarItem.title || pageUrlToTitle[item_url_stripped];
-        var itemHtml = `<li class="${liClass}"><a href="${baseURL + item_url_stripped }"  class="${anchorClasses}" target="">${title}</a></li>`;
+        var title = sidebarItem.title || pageUrlToTitle[itemUrlStripped];
+        var itemHtml = `<li class="${liClass}"><a href="${baseURL + itemUrlStripped }"  class="${anchorClasses}" target="">${title}</a></li>`;
     }
     return itemHtml;
 }
@@ -65,6 +65,8 @@ function insertSidebarItems() {
     // this highlights the active parent class in the navgoco sidebar. this is critical so that the parent expands when you're viewing a page.
     $("li.active").parents('li').addClass("active");
     $("li.active").parents('li').removeClass("inactive");
+    console.debug($("li.active").parents('ul'));
+    $("li.active").parents('ul').removeClass("collapse");
 }
 
 function insertTopnavDropdownItems() {
