@@ -140,7 +140,7 @@ function fillJsInclude(jsIncludeJqueryElement, includedPageNewLevelForH1) {
                 var editLinkElements = $(responseHtml, virtualDocument).find("#editLink");
                 var editLinkHtml = "";
                 if (editLinkElements.length > 0) {
-                  console.debug(editLinkElements);
+                  // console.debug(editLinkElements);
                   editLinkHtml = `<a class="btn btn-secondary" href="${editLinkElements.attr("href")}"><i class="fas fa-edit"></i></a>`
                 }
                 var titleHtml = "";
