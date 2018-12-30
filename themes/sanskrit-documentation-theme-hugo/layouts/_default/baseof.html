@@ -49,7 +49,7 @@
 
     {{ partialCached "hugo-vars-to-js-general.html" .}}
     <script>
-    let pageParams = JSON.parse("{{.Page.Params | jsonify}}");
+    let pageParams = JSON.parse("{{.Page.Params | jsonify }}") || {};
     let pageUrl = "{{.URL}}";
     let pageSource = "{{.File.Path}}";
     console.log(pageSource);
