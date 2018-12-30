@@ -20,7 +20,7 @@ RV.2.22.4b; SV.1.466b.
 
 वि॒दाद् *(=लभताम्)* ऊर्जं श॒तक्र॑तुर् वि॒दाद् इष॑म् ।।
 
-![](../images/Indra-kills-vRtra-snake-with-vajra.jpg)
+![](../../images/Indra-kills-vRtra-snake-with-vajra.jpg)
 
 
 ## साम

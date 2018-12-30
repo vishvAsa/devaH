@@ -18,7 +18,7 @@ RV.8.63.1a; SV.1.355a; AB.5.12.6; KB.23.6; A;S.8.1.14; Svidh.1.4.14; 3.1.10. P: 
 
 दे॒वेषु॒ धिय॑ *(=कर्माणि)* आन॒जे *(=प्राप)*।।
 
-![](../images/worlds/venus_morning_star.jpg)
+![](../../images/worlds/venus_morning_star.jpg)
 
 ## साम
 

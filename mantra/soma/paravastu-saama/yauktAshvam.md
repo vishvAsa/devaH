@@ -13,7 +13,7 @@ emphasis_as_inline_comments: true
 वृषा *(=वर्षकः)* पवस्व धारया मरुत्वते *(इन्द्रा)* च मत्सरः *(=मदकरः)*।  
 विश्वा दधान ओजसा  ।
 
-![](../images/soma-purification.png)
+![](../../images/soma-purification.png)
 
 ## साम - यौक्ताश्वाद्यम्
 - पारम्परिक-लेखाः - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n4/mode/1up)।

@@ -12,7 +12,7 @@ emphasis_as_inline_comments: true
 अग्निर्मूर्धा दिवः ककुत्पतिः पृथिव्या अयम्  ।  
 अपां रेतांसि*(=अबुद्भवानि भूतानि)* जिन्वति*(=प्रीणयति)*  । । २७
 
-![](../images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png)
+![](../../images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png)
 
 
 ## साम

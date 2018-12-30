@@ -12,7 +12,7 @@ emphasis_as_inline_comments: true
 अग्न आयूंषि प*(प्ल)*वस आसुव +ऊर्जमिषं च नः ।  
 आरे*(=दूरे)* बाधस्व दुच्छुनाम्*(=रक्षसाम्)*  ।
 
-![](../images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png)
+![](../../images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png)
 
 
 ## साम

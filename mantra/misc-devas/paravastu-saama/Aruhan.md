@@ -12,7 +12,7 @@ SV.1.92b; AV;S.12.2.12b; 18.1.61b.
 
 इत एत उदारुहन् दिवः पृष्ठान्यारुहन्। प्र भूर् *(=भुवः)* जयो यथा पथो द्यामङ्गिरसो ययुः॥
 
-![](../images/worlds/rocket_takeoff.jpg)
+![](../../images/worlds/rocket_takeoff.jpg)
 
 
 ## साम

@@ -12,7 +12,7 @@ emphasis_as_inline_comments: true
 त्वावतः*(=त्वादृशस्य)* पुरूवसो वयमिन्द्र प्रणेतः  ।  
 स्मसि*(=स्मः)* स्थातर् हरीणाम् *(=अश्वानां हिरण्यकेशानाम् वा!)*  ।
 
-![](../images/indra-rising-to-protect-charriots-of-army.jpg)
+![](../../images/indra-rising-to-protect-charriots-of-army.jpg)
 
 
 ## साम १

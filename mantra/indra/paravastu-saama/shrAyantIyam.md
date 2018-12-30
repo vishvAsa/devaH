@@ -18,7 +18,7 @@ RV.8.99.3a; AV;S.20.58.1a; SV.1.267a; 2.669a; VS.33.41a; JB.3.261a; KB.25.6; A;S
 
 सो*(~~यो~~)* अ॑स्य॒ कामं॑ विध॒तो *(=परिचरतो)* न रो॑षति॒ मनो॑ दा॒नाय॑ चो॒दय॑न् ।।
 
-![](../images/indra-as-maghavAn-followed-by-people-bearing-wealth-moving-towards-a-yajamAna.png)
+![](../../images/indra-as-maghavAn-followed-by-people-bearing-wealth-moving-towards-a-yajamAna.png)
 
 
 ## साम

@@ -11,7 +11,7 @@ emphasis_as_inline_comments: true
 
 धियो॒ यो नः॑ प्रचो॒दया॑त् ।।
 
-![](../images/worlds/surya.png)
+![](../../images/worlds/surya.png)
 
 ## साम
 

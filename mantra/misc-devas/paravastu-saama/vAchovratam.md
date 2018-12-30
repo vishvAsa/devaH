@@ -8,7 +8,7 @@ emphasis_as_inline_comments: true
 
 स्वयम् अस्कुन्वे *(=अकूर्दम्)*॥
 
-![](../../images/mood/skipping-happy.jpg)
+![](../../../images/mood/skipping-happy.jpg)
 
 ## साम
 

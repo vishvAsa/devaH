@@ -14,7 +14,7 @@ emphasis_as_inline_comments: true
 
 तपिष्ठैर् अजरो दह  ।
 
-![](../images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png)
+![](../../images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png)
 
 
 ## साम

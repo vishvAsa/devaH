@@ -12,7 +12,7 @@ emphasis_as_inline_comments: true
 सखाय आ नि षीदत पुनानाय प्र गायत।  
 शिशुं न यज्ञैः परि भूषत श्रिये ॥
 
-![](../images/soma-purification.png)
+![](../../images/soma-purification.png)
 
 
 ## साम १

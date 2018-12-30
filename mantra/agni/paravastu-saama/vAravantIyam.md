@@ -11,7 +11,7 @@ emphasis_as_inline_comments: true
 अश्वं न त्वा वार*(=ल)*वन्तं वन्दध्यै *(=वन्दितुम्)* +अग्निं नमोभिः।  
 सम्राजन् तम् अध्वराणाम् *(प्रवृत्ताः)*।
 
-![](../images/agni-on-a-ram-drawn-charriot-speeding-towards-the-vedI.jpg)
+![](../../images/agni-on-a-ram-drawn-charriot-speeding-towards-the-vedI.jpg)
 
 
 ## साम १

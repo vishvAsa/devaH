@@ -11,7 +11,7 @@ emphasis_as_inline_comments: true
 १ ५ १ ०५०७  
 क*(य्)* ईं व्यक्ता नरः*(=नेतारः)* सनीडा रुद्रस्य मर्या*(=मर्त्येभ्यो [हिताः])* अथ स्वश्वाः॥
 
-![](../images/marut-group-on-a-horse-drawn-charriot-in-the-sky.png)
+![](../../images/marut-group-on-a-horse-drawn-charriot-in-the-sky.png)
 
 ## साम १
 - पारम्परिकगानमूलम् - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n2/mode/1up&sa=D&ust=1542425956390000)।]

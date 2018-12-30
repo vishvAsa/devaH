@@ -14,7 +14,7 @@ emphasis_as_inline_comments: true
 
 इन्द्र॒ त्वादा॑त॒मिद्यशः॑ ॥
 
-![](../images/indra-squeezing-soma-into-mouth.jpg)
+![](../../images/indra-squeezing-soma-into-mouth.jpg)
 
 ## साम
 

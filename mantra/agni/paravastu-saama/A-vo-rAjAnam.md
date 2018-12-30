@@ -13,7 +13,7 @@ emphasis_as_inline_comments: true
 आ वो राजानमध्वरस्य रुद्रं होतारं सत्ययजं रोदस्योः  ।  
 अग्निं पुरा *(आकस्मिकात्)* तनयित्नोर् *(=विद्युतः)* अचित्ताद् *(मरणात्)* +हिरण्यरूपम् अवसे कृणुध्वम्  ।
 
-![](../images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png)
+![](../../images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png)
 
 ## साम
 
