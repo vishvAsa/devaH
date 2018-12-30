@@ -29,7 +29,7 @@ figure.thumbnail {
   li {
     background-color: antiquewhite;
     .active {
-      background-color: bisque;
+      >a, >span {background-color: wheat;}
     }
   }
 }
