@@ -65,7 +65,7 @@ function insertSidebarItems() {
     // this highlights the active parent class in the navgoco sidebar. this is critical so that the parent expands when you're viewing a page.
     $("li.active").parents('li').addClass("active");
     $("li.active").parents('li').removeClass("inactive");
-    console.debug($("li.active").parents('ul'));
+    // console.debug($("li.active").parents('ul'));
     $("li.active").parents('ul').removeClass("collapse");
 }
 
