@@ -2,12 +2,14 @@
 <header class="p-1 {{.Site.Params.background_color_class | default "bg-yellow" }}">
     <nav role="navigation">
       <div class="row">
-        <a  href="{{ "/" | relURL }}" class="btn btn-default col">
-          <i class="fas fa-gopuram ">{{.Site.Title}}</i>
-        </a>
+        <div class="col-md-3 justify-content-start">
+          <a  href="{{ "/" | relURL }}" class="btn col border">
+            <i class="fas fa-gopuram ">{{.Site.Title}}</i>
+          </a>
+        </div>
         <div class="col-md-auto d-flex justify-content-center">
-          <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम् + Enter"><i class="btn fas fa-search "></i>
-          <a href="{{ "google_site_search/" | relURL }}"  class="btn btn-default">Google</a>
+          <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्"><i class="btn fas fa-search "></i>
+          <a href="{{ "custom_site_search/" | relURL }}"  class="btn btn-default">Full search</a>
         </div>
           {{ if .Site.Menus.main }}
           <div >

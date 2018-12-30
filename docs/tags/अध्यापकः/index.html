@@ -48,8 +48,2036 @@
     <script src="/saMskAra/node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
     <script src="/saMskAra/node_modules/@sanskrit-coders/sanscript/sanscript.js"></script>
 
+    <script type="text/javascript">
+  let baseURL = "https:\/\/vvasuki.github.io\/saMskAra\/";
+  let basePath = "/" + baseURL.split("/").slice(3).join("/");
+  let siteParams = JSON.parse("{\x22contactlink\x22:\x22https:\/\/github.com\/vvasuki\/saMskAra\/issues\/new\x22,\x22env\x22:\x22production\x22,\x22githubeditmepathbase\x22:\x22https:\/\/github.com\/vvasuki\/saMskAra\/edit\/master\/\x22,\x22mainSections\x22:[\x22mantra\x22],\x22mainsections\x22:[\x22mantra\x22]}");
+  let pageDefaultsList = JSON.parse("[{\"scope\":{\"pathPrefix\":\"\"},\"values\":{\"comments\":true,\"layout\":\"page\",\"search\":true,\"sidebar\":\"saMskAra_sidebar\",\"topnav\":\"home_sidebar\"}}]");
+  let sidebarsData = JSON.parse("{\x22home_sidebar\x22:{\x22contents\x22:[{\x22title\x22:\x22मन्त्राः\x22,\x22url\x22:\x22\/mantra\/\x22},{\x22title\x22:\x22कल्पः\x22,\x22url\x22:\x22\/kalpa\/\x22},{\x22title\x22:\x22वंशाः\x22,\x22url\x22:\x22\/bloodlines\/\x22},{\x22title\x22:\x22काव्यम्\x22,\x22url\x22:\x22\/kaavya\/videos\/\x22},{\x22title\x22:\x22ज्यौतिषम्\x22,\x22url\x22:\x22\/jyotisha\/\x22},{\x22title\x22:\x22संस्कृतम्\x22,\x22url\x22:\x22\/sanskrit\/\x22},{\x22title\x22:\x22Notes Home\x22,\x22url\x22:\x22\/..\/notes\/\x22},{\x22title\x22:\x22Vishvas\x27s home page\x22,\x22url\x22:\x22\/..\/\x22},{\x22title\x22:\x22Blog\x22,\x22url\x22:\x22\/assets\/blog\/\x22}],\x22title\x22:\x22भागाः\x22},\x22saMskAra_sidebar\x22:{\x22contents\x22:[{\x22contents\x22:[{\x22contents\x22:[{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/mantra\/agni\/Rk\/\x22}],\x22title\x22:\x22ऋचः\x22},{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/mantra\/agni\/paravastu-saama\/\x22}],\x22title\x22:\x22सामानि\x22},{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/mantra\/agni\/yajus\/\x22}],\x22title\x22:\x22यजूंषि\x22}],\x22title\x22:\x22अग्निः\x22},{\x22contents\x22:[{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/mantra\/indra\/paravastu-saama\/\x22}],\x22title\x22:\x22सामानि\x22},{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/mantra\/indra\/Rk\x22}],\x22title\x22:\x22ऋचः\x22},{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/mantra\/indra\/yajus\x22}],\x22title\x22:\x22यजूंषि\x22}],\x22title\x22:\x22इन्द्रः\x22},{\x22contents\x22:[{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/mantra\/soma\/paravastu-saama\/\x22}],\x22title\x22:\x22सामानि\x22},{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/mantra\/soma\/Rk\x22}],\x22title\x22:\x22ऋचः\x22}],\x22title\x22:\x22सोमः\x22},{\x22contents\x22:[{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/mantra\/misc-devas\/paravastu-saama\/\x22}],\x22title\x22:\x22सामानि\x22},{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/mantra\/misc-devas\/Rk\x22}],\x22title\x22:\x22ऋचः\x22},{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/mantra\/misc-devas\/yajus\x22}],\x22title\x22:\x22यजूंषि\x22}],\x22title\x22:\x22परिशिष्टम्\x22},{\x22contents\x22:[{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/mantra\/sangrahAH\/paravastu-saama\/\x22}],\x22title\x22:\x22सामानि\x22},{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/mantra\/sangrahAH\/\x22}],\x22title\x22:\x22शिष्टम्\x22}],\x22title\x22:\x22सङ्ग्रहाः\x22}],\x22title\x22:\x22मन्त्राः\x22},{\x22contents\x22:[{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/kalpa\/Apastamba\/saMskAra\x22}],\x22title\x22:\x22संस्काराः\x22},{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/kalpa\/Apastamba\/\x22}],\x22title\x22:\x22परिशिष्टकर्माणि\x22},{\x22contents\x22:[{\x22contents\x22:[{\x22contents\x22:[{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/kalpa\/Apastamba\/pramANAni\/dharma-sUtra\/kriyAH\/arhaNam\x22}],\x22title\x22:\x22अर्हणम्\x22},{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/kalpa\/Apastamba\/pramANAni\/dharma-sUtra\/kriyAH\/shaucham\x22}],\x22title\x22:\x22शौचम्\x22},{\x22url\x22:\x22dir:\/\/kalpa\/Apastamba\/pramANAni\/dharma-sUtra\/kriyAH\x22}],\x22title\x22:\x22क्रियाः\x22},{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/kalpa\/Apastamba\/pramANAni\/dharma-sUtra\/pAtra\/Ashrama\x22}],\x22title\x22:\x22आश्रमः\x22},{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/kalpa\/Apastamba\/pramANAni\/dharma-sUtra\/pAtra\x22}],\x22title\x22:\x22पात्राणि\x22},{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/kalpa\/Apastamba\/pramANAni\/dharma-sUtra\/tattvAni\x22}],\x22title\x22:\x22तत्त्वानि\x22}],\x22title\x22:\x22धर्मसूत्राणि\x22},{\x22contents\x22:[{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/kalpa\/Apastamba\/pramANAni\/gRhya\/angAni\x22}],\x22title\x22:\x22अङ्गानि\x22},{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/kalpa\/Apastamba\/pramANAni\/gRhya\/karmANi\x22}],\x22title\x22:\x22कर्माणि\x22}],\x22title\x22:\x22गृह्यसूत्राणि\x22}],\x22title\x22:\x22सूत्राणि\x22}],\x22title\x22:\x22कल्पः आपस्तम्बोक्तः\x22},{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/kalpa\/bodhAyana\x22}],\x22title\x22:\x22कल्पः बोधयनोक्तः\x22},{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/kalpa\/brAhmaNa\x22}],\x22title\x22:\x22ब्राह्मणानि\x22},{\x22contents\x22:[{\x22title\x22:\x22प्रवेशः\x22,\x22url\x22:\x22\/kalpa\/general\/index.md\x22},{\x22contents\x22:[{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/kalpa\/general\/angAni\/manaH\/\x22}],\x22title\x22:\x22मनः-संस्कारः\x22},{\x22url\x22:\x22dir:\/\/kalpa\/general\/angAni\/\x22}],\x22title\x22:\x22अङ्गानि\x22},{\x22contents\x22:[{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/kalpa\/general\/ArAdhanam\/bali\/\x22}],\x22title\x22:\x22बलिः\x22},{\x22contents\x22:[{\x22url\x22:\x22\/kalpa\/general\/ArAdhanam\/homa\/index.md\x22},{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/kalpa\/general\/ArAdhanam\/homa\/angAni\/\x22}],\x22title\x22:\x22अङ्गानि\x22},{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/kalpa\/general\/ArAdhanam\/homa\/visheShaH\/\x22}],\x22title\x22:\x22विशेषाः\x22}],\x22title\x22:\x22होमः\x22},{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/kalpa\/general\/ArAdhanam\/shrAddham\/\x22}],\x22title\x22:\x22श्राद्धम्\x22},{\x22url\x22:\x22dir:\/\/kalpa\/general\/ArAdhanam\/\x22}],\x22title\x22:\x22आराधनम्\x22},{\x22url\x22:\x22dir:\/\/kalpa\/general\/\x22}],\x22title\x22:\x22कल्पे ऽस्मन्निश्चयः\x22},{\x22contents\x22:[{\x22title\x22:\x22Pics\x22,\x22url\x22:\x22\/bloodlines\/pics\/\x22},{\x22title\x22:\x22भार्गवाः\x22,\x22url\x22:\x22\/bloodlines\/bhaargava\/\x22},{\x22title\x22:\x22आङ्गीरसाः\x22,\x22url\x22:\x22\/bloodlines\/aangiirasa\/\x22},{\x22title\x22:\x22कौशिकाः\x22,\x22url\x22:\x22\/bloodlines\/kaushika\/\x22},{\x22title\x22:\x22Misc info\x22,\x22url\x22:\x22\/bloodlines\/\x22}],\x22title\x22:\x22वंशाः\x22},{\x22contents\x22:[{\x22title\x22:\x22Videos\x22,\x22url\x22:\x22\/kaavya\/videos\/\x22}],\x22title\x22:\x22काव्यम्\x22},{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/jyotisha\x22}],\x22title\x22:\x22ज्यौतिषम्\x22},{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/sanskrit\/\x22},{\x22contents\x22:[{\x22url\x22:\x22dir:\/\/sanskrit\/shixaa\/\x22},{\x22title\x22:\x22Reciting and Recording\x22,\x22url\x22:\x22https:\/\/sanskrit.github.io\/projects\/audio\/tips\/\x22}],\x22title\x22:\x22शिक्षा\x22}],\x22title\x22:\x22संस्कृतम्\x22},{\x22title\x22:\x22Notes Home\x22,\x22url\x22:\x22\/..\/notes\/\x22},{\x22title\x22:\x22Vishvas\x27s home page\x22,\x22url\x22:\x22\/..\/\x22},{\x22title\x22:\x22Blog\x22,\x22url\x22:\x22\/assets\/blog\/\x22}],\x22title\x22:\x22भागाः\x22}}");
+  let autocompletePageUrl = "\/saMskAra\/data\/pages.tsv";
+
+  var pageUrlToTitle = {};
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/jyotisha\/diurnal_plane\/"] = "Diurnal plane and apps";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/sanskrit\/misc-faq\/"] = "Miscellaneous questions";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/sanskrit\/misconceptions\/"] = "Misconceptions";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kaavya\/videos\/"] = "Videos चलच्चित्राणि";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/agni\/paravastu-saama\/agna-ayumshi\/"] = "अग्न आयूंषि";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/general\/aradhanam\/homa\/angani\/agni\/"] = "अग्निः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/misc-devas\/rk\/agnirayushman\/"] = "अग्निरायुष्मान्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/agni\/rk\/agne-naya-supatha\/"] = "अग्ने नय सुपथाः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/agni\/paravastu-saama\/agne-raxa\/"] = "अग्ने रक्ष";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/agni\/paravastu-saama\/agnir-murdha\/"] = "अग्ने रक्ष";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/agni\/rk\/mrgaram\/"] = "अग्नेर्मन्वे";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/kriyah\/arhanam\/agnau-charya\/"] = "अग्नौ चर्या";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/grhya\/angani\/agnih\/"] = "अग्नौ चर्या";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/indra\/paravastu-saama\/anjo-vairupam\/"] = "अञ्जो वैरूपम्";
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/sangrahah\/paravastu-saama\/adhishravana\/"] = "अधिश्रवण-सामानि";
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/kriyah\/adhyayanam\/"] = "अध्ययनम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/grhya\/karmani\/adhyayanam\/"] = "अध्ययनम्";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/general\/aradhanam\/homa\/visheshah\/upakarma\/"] = "अध्याय-उपाकर्म";
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/general\/aradhanam\/homa\/angani\/anujjna\/"] = "अनुज्ञाङ्गम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/grhya\/karmani\/anna-prashanam\/"] = "अन्न-प्राशनम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/brahmana\/apah-prayanayati\/"] = "अपः प्रणयति";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/general\/angani\/manah\/apam-upasparshah\/"] = "अपाम् उपस्पर्शः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/indra\/rk\/apratiratham\/"] = "अप्रतिरथम्";
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/agni\/paravastu-saama\/abodhyagnih\/"] = "अबोध्यग्निः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/soma\/paravastu-saama\/abhi-priyani-pavate\/"] = "अभि प्रियाणि पवते";
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/kriyah\/arhanam\/abhivadanam\/"] = "अभिवादनम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/general\/aradhanam\/abhivadanam\/"] = "अभिवादनम् आशीर्वादश्च";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/misc-devas\/yajus\/abhyatanah\/"] = "अभ्यातानाः";
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/kriyah\/shaucham\/parva\/"] = "अमावास्या";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/agni\/rk\/ayashcha\/"] = "अयाश्चाग्ने";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/indra\/paravastu-saama\/archata-prarchata\/"] = "अर्चत प्रार्चत";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/indra\/paravastu-saama\/archantyarkam\/"] = "अर्चन्तीयम्";
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/tattvani\/ashaucham\/"] = "अशौचम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/general\/aradhanam\/shraddham\/ashtaka\/"] = "अष्टका श्राद्धम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/brahmana\/shatapatha_asura_parabhava\/"] = "असुर-पराभवः";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/misc-devas\/rk\/aham-rudrebhih\/"] = "अहं रुद्रेभिः";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/misc-devas\/rk\/ahamasmi-prathamaja\/"] = "अहमस्मि प्रत्यमजाः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/agni\/paravastu-saama\/a-vo-rajanam\/"] = "आ वो राजानम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/general\/aradhanam\/homa\/visheshah\/agrayanam\/"] = "आग्रयणम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/bloodlines\/aangiirasa\/"] = "आङ्गीरसाः";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/general\/angani\/manah\/achamanam\/"] = "आचमनम्";
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/patra\/acharya\/"] = "आचार्यः";
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/kriyah\/arhanam\/atithyam\/"] = "आतिथ्यम्";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/kriyah\/shaucham\/ananda\/"] = "आत्मा";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/soma\/paravastu-saama\/adishadiyyam\/"] = "आदीषादिय्यम्";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/"] = "आपस्तम्ब-कल्पः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/brahmana\/apo-va-idam\/"] = "आपो वा इदं सर्वम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/misc-devas\/rk\/apo-hi-shtha\/"] = "आपो हि ष्ठा";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/misc-devas\/paravastu-saama\/aruhan\/"] = "आरुहन् दिवः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/misc-devas\/rk\/arohorum\/"] = "आरोहोरुम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/grhya\/angani\/alambha\/"] = "आलम्भः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/sangrahah\/paravastu-saama\/ashirvachana\/"] = "आशीर्वचन-सामानि";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/indra\/paravastu-saama\/ashva-suktam\/"] = "आश्वसूक्तं";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/general\/aradhanam\/homa\/angani\/ahuti\/"] = "आहुति-तन्त्रम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/indra\/paravastu-saama\/indran-naro-grama-geyam\/"] = "इन्द्रन्नरो- ग्रामगेयम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/indra\/paravastu-saama\/indran-naro-nishvaset\/"] = "इन्द्रन्नरो- निश्वसेत्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/indra\/yajus\/indraya-tva\/"] = "इन्द्राय त्वा";
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/kriyah\/shaucham\/indriya-nigrahah\/"] = "इन्द्रिय-नियमनम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/agni\/paravastu-saama\/idishva\/"] = "ईळिष्व जातवेदसम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/general\/aradhanam\/bali\/ishana-bali\/"] = "ईशानबलिः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/soma\/paravastu-saama\/uchcha-te\/"] = "उच्चा ते";
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/sangrahah\/paravastu-saama\/udakashanti\/"] = "उदकशान्ति-सामानि";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/bodhayana\/udakashaanti\/"] = "उदकशान्त्यर्थः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/misc-devas\/paravastu-saama\/unnayami\/"] = "उन्नयामि";
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/patra\/ashrama\/upanayanam\/"] = "उपनयनम्";
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/sangrahah\/paravastu-saama\/rtu-shanti\/"] = "ऋतुशान्ति-सामानि";
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/indra\/paravastu-saama\/eto-nvindram\/"] = "एतो न्विन्द्रम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/soma\/paravastu-saama\/eshasya-dharaya\/"] = "एष स्य धारया सुतः";
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/grhya\/karmani\/aupasanam\/"] = "औपासनम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/general\/aradhanam\/homa\/visheshah\/aupasanam\/"] = "औपासनम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/misc-devas\/paravastu-saama\/ka-im-vyaktah\/"] = "क ईं व्यक्ताः";
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/"] = "कल्पः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/bodhayana\/"] = "कल्पः";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/tattvani\/kama\/"] = "कामः";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/grhya\/angani\/kaala\/"] = "काल-निश्चयः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/general\/angani\/kaala\/"] = "कालः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/agni\/rk\/krnushva-pajah\/"] = "कृणुष्व पाजः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/bloodlines\/kaushika\/"] = "कौशिकाः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/grhya\/angani\/krama\/"] = "क्रमः";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/indra\/paravastu-saama\/krosham\/"] = "क्रोशम्";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/grhya\/karmani\/xipra-suvanam\/"] = "क्षिप्रसुवनम्";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/indra\/paravastu-saama\/garam\/"] = "गारम्";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/patra\/ashrama\/grhastha\/"] = "गृहस्थ-धर्मः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/bloodlines\/pics\/"] = "गोत्र-चित्राणि";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/kriyah\/arhanam\/gaurava-darshanam\/"] = "गौरव-दर्शनम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/indra\/paravastu-saama\/gaushuktam\/"] = "गौषूक्तम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/agni\/rk\/chaxusho-hete\/"] = "चक्षुषो हेते";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/grhya\/karmani\/chaulam\/"] = "चौलम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/sanskrit\/shixaa\/chandas\/"] = "छन्दः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/misc-devas\/yajus\/jayadi\/"] = "जयादयः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/agni\/paravastu-saama\/jarabodha\/"] = "जराबोधीयम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/grhya\/karmani\/jatakarma\/"] = "जातकर्म";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/samskara\/jaatakarma-naamakarana\/"] = "जातकर्म, नामकरणञ्च";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/agni\/rk\/jatavedase-sunavama\/"] = "जातवेदसे सुनवाम";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/custom_site_search\/"] = "जालक्षेत्रमिदमन्विष्यताम्";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/soma\/paravastu-saama\/tarat-sa-mandi\/"] = "तरत् स मन्दी";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/general\/aradhanam\/tarpanam\/"] = "तर्पणम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/indra\/paravastu-saama\/tava-tyan-naryam\/"] = "तव त्यन्नर्यत्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/soma\/paravastu-saama\/tavaham-mahavairajam\/"] = "तवाहम् - महावैराजम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/jyotisha\/taramandala\/"] = "तारामण्डलानि";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/misc-devas\/paravastu-saama\/tyamu-shu\/"] = "त्यमू षु";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/indra\/paravastu-saama\/trataram-indram\/"] = "त्रातारम् इन्द्रम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/sanskrit\/shixaa\/ekashruti\/"] = "त्रैस्वर्याद् एकश्रुतिः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/indra\/paravastu-saama\/tvavatah\/"] = "त्वावतः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/indra\/rk\/tve-suputra\/"] = "त्वे सु पुत्र";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/kriyah\/shaucham\/dandanam\/"] = "दण्डनम्";
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/kriyah\/arhanam\/danam\/"] = "दानम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/grhya\/angani\/daanam\/"] = "दानम्";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/tattvani\/dayabhaga\/"] = "दायभागः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/samskara\/digvapanam\/"] = "दिग्वपनम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/agni\/rk\/divaspari\/"] = "दिवस्परि";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/soma\/paravastu-saama\/dirgham\/"] = "दीर्घम्";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/kriyah\/divanam\/"] = "दीवनम्";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/misc-devas\/rk\/devim-vacham\/"] = "देवीं वाचम्";
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/general\/angani\/dravya\/"] = "द्रव्य-संस्कारः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/misc-devas\/rk\/druho-munchami\/"] = "द्रुहो मुञ्चामि";
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/tattvani\/dharmah\/"] = "धर्मः";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/tattvani\/dharme-pramanam\/"] = "धर्मे प्रमाणम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/misc-devas\/rk\/dhata-dadatu\/"] = "धाता ददातु";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/general\/aradhanam\/dhyana\/"] = "ध्यानम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/misc-devas\/yajus\/dhruva\/"] = "ध्रुव-वन्दनम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/misc-devas\/rk\/naxatra-suuktam\/"] = "नक्षत्रसूक्तम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/agni\/paravastu-saama\/namas-te-agne\/"] = "नमस्ते ऽग्ने";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/misc-devas\/rk\/namo-brahmane\/"] = "नमो ब्रह्मणे";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/misc-devas\/rk\/namo-astu-sarpebhyah\/"] = "नमो ऽस्तु सर्पेभ्यः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/indra\/paravastu-saama\/nanadam\/"] = "नानदम्";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/grhya\/karmani\/namakarana\/"] = "नाम";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/misc-devas\/rk\/nasadiyam\/"] = "नासदासीत्";
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/kriyah\/nidra\/"] = "निद्रा";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/kriyah\/shaucham\/niyama\/"] = "नियमाः";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/general\/angani\/manah\/nyasa\/"] = "न्यासः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/misc-devas\/yajus\/pancha-chodah\/"] = "पञ्चचोडाः";
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/patra\/ashrama\/patni\/"] = "पत्नी";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/jyotisha\/"] = "परिचयः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/general\/aradhanam\/bali\/"] = "परिचयः";
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/soma\/paravastu-saama\/pavamana\/"] = "पवमानः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/misc-devas\/rk\/pashyema-sharadah\/"] = "पश्येम शरदः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/grhya\/karmani\/pakayajjna\/"] = "पाकयज्ञः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/paaka-yajjna-agnihotra-riitih\/"] = "पाकयज्ञेष्वग्निहोत्राधारितो विधिः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/general\/aradhanam\/homa\/angani\/patra\/"] = "पात्र-प्रयोगः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/general\/angani\/manah\/papa-nashanam\/"] = "पापनाशनम्";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/tattvani\/paapam\/"] = "पापम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/indra\/paravastu-saama\/piba-somam-mahavairajam\/"] = "पिब मत्स्व - महावैराजम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/indra\/paravastu-saama\/piba-somam\/"] = "पिब सोमम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/grhya\/karmani\/pumsavanam\/"] = "पुंसुवनम्";
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/patra\/praja\/"] = "पुत्रः";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/general\/angani\/purohita-prayoga\/"] = "पुरोहित-प्रयोगः";
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/misc-devas\/rk\/prthivi-shantih\/"] = "पृथिवी शान्तिः";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/general\/aradhanam\/homa\/angani\/paushtika-homah\/"] = "पौष्टीक-कर्माणि";
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/sanskrit\/supremacy\/"] = "प्रभुत्वम् Dominance";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/kriyah\/shaucham\/prayatata\/"] = "प्रयतता";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/kriyah\/prayana\/"] = "प्रयाणम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/jyotisha\/prayojana\/"] = "प्रयोजनम्";
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/kriyah\/shaucham\/pranayama\/"] = "प्राणायामः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/general\/angani\/manah\/pranayamah\/"] = "प्राणायामः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/misc-devas\/rk\/pratar-agnim\/"] = "प्रातरग्निम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/sangrahah\/paravastu-saama\/pratarabhyasah\/"] = "प्रातरभ्यासो विश्वासस्य";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/kriyah\/shaucham\/prayashchittam\/"] = "प्रायश्चित्तम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/general\/aradhanam\/homa\/angani\/prayashcittam\/"] = "प्रायश्चित्तानि";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/sangrahah\/paravastu-saama\/proxana\/"] = "प्रोक्षण-सामानि";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/agni\/paravastu-saama\/barhishiyam\/"] = "बर्हिषीयम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/grhya\/angani\/bali\/"] = "बलिः";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/misc-devas\/paravastu-saama\/brahma-jajjnanam\/"] = "ब्रह्म जज्ञानम्";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/patra\/ashrama\/brahmacharyam\/"] = "ब्रह्मचर्यम्";
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/kriyah\/brahmayajjna\/"] = "ब्रह्मयज्ञः";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/general\/aradhanam\/brahmana-bhojanam\/"] = "ब्राह्मण-भोजनम्";
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/bloodlines\/bhaargava\/"] = "भार्गवाः";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/kriyah\/bhixa\/"] = "भिक्षा";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/misc-devas\/yajus\/bhutam-bhavyam-bhavishyat\/"] = "भूतं भव्यं भविष्यत्";
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/general\/achara\/bhojanam\/"] = "भोजनम्";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/kriyah\/bhojana\/"] = "भोजनविधिः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/misc-devas\/paravastu-saama\/madhushchunidhanam\/"] = "मधुश्चुनिधनम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/general\/aradhanam\/homa\/angani\/manah\/"] = "मनःसंस्कारः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/grhya\/angani\/mantra\/"] = "मन्त्रः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/"] = "मन्त्राः";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/soma\/paravastu-saama\/mahavatsapram\/"] = "महावात्सप्रम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/agni\/paravastu-saama\/mahavaishvanara-vratam\/"] = "महावैश्वानरव्रतम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/agni\/paravastu-saama\/mahavaishvamitram\/"] = "महावैश्वामित्रम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/misc-devas\/paravastu-saama\/mahi-trinam\/"] = "महि त्रीणाम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/indra\/paravastu-saama\/margiyavam\/"] = "मार्गीयवम्";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/general\/aradhanam\/shraddham\/masi\/"] = "मासि श्राद्धम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/misc-devas\/rk\/sandhya-mitra-vandanam\/"] = "मित्रवन्दनम् सन्ध्यायाम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/general\/angani\/mudrah\/"] = "मुद्राः";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/kriyah\/shaucham\/mala-mutram\/"] = "मूत्र-निष्कासनम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/general\/aradhanam\/murti-puja\/"] = "मूर्तौ पूजा";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/agni\/paravastu-saama\/murdhanam-divah\/"] = "मूर्धानं दिवः";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/misc-devas\/rk\/medhan-te-devas\/"] = "मेधान्ते देवः";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/kriyah\/maithuna\/"] = "मैथुनम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/grhya\/karmani\/rtusamaveshanam\/"] = "मैथुनम्";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/samskara\/adhyayana-vrataani\/"] = "यजुर्वेद-व्रतानि";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/indra\/paravastu-saama\/yajjayathah\/"] = "यज्जयथा अपूर्वः";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/kriyah\/arhanam\/yajjna\/"] = "यज्ञः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/grhya\/angani\/yajjnopavita\/"] = "यज्ञोपवीतम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/indra\/paravastu-saama\/yata-indra\/"] = "यत इन्द्र भयामहे";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/agni\/yajus\/yatte-agne-tejas\/"] = "यत्ते अग्ने तेजः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/agni\/paravastu-saama\/yadva\/"] = "यद्वा";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/soma\/paravastu-saama\/yashas\/"] = "यशस्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/agni\/rk\/yas-tva-hrda\/"] = "यस् त्वा हृदा";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/misc-devas\/yajus\/ya-vam-indravaruna\/"] = "या वामिन्द्रावरुणा";
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/kriyah\/yuddham\/"] = "युद्धम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/brahmana\/brahmana-vandanam\/"] = "ये अर्वाङुत वा पुराणे";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/misc-devas\/yajus\/ye-devah-puras\/"] = "ये देवाः पुरस्सदः";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/soma\/paravastu-saama\/yauktashvam\/"] = "यौक्ताश्वम्";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/grhya\/angani\/rajasvala\/"] = "रजस्वला";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/indra\/paravastu-saama\/rathantaram\/"] = "रथन्तरम्";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/patra\/raja\/"] = "राजा";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/misc-devas\/yajus\/rashtrabhrtah\/"] = "राष्ट्रभृतः";
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/kriyah\/lokasangrahah\/"] = "लोकसङ्ग्रहः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/misc-devas\/paravastu-saama\/varuna-suktam\/"] = "वरुण-सूक्तम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/misc-devas\/paravastu-saama\/varuna-pasham\/"] = "वरुणपाशम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/misc-devas\/rk\/sandhya-varuna-vandanam\/"] = "वरुणवन्धनं सन्ध्यायाम्";
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/kriyah\/vastra\/"] = "वस्त्राणि";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/kriyah\/vaak\/"] = "वाक्-नियमनम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/misc-devas\/paravastu-saama\/vachovratam\/"] = "वाचोव्रतम्";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/kriyah\/vanijyam\/"] = "वाणिज्यम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/soma\/paravastu-saama\/vatsaprottaram\/"] = "वात्सप्रोत्तरम्";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/patra\/ashrama\/vanaprastha\/"] = "वानप्रस्थः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/indra\/paravastu-saama\/vamadevyam\/"] = "वामदेव्यम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/agni\/paravastu-saama\/varavantiyam\/"] = "वारवन्तीयम्";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/kriyah\/vasa\/"] = "वासः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/indra\/paravastu-saama\/vastoshpate\/"] = "वास्तोष्पते";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/general\/angani\/vighnopashamanam\/"] = "विघ्नोपशमनादिकम्";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/general\/aradhanam\/shraddham\/apadi\/"] = "विध्यन्तराणि";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/kriyah\/vivada\/"] = "विवादः";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/patra\/ashrama\/vivahah\/"] = "विवाहः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/grhya\/karmani\/vivahah\/"] = "विवाहः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/sangrahah\/paravastu-saama\/vivahopanayana\/"] = "विवाहोपनयन-सामानि";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/indra\/paravastu-saama\/vishvato-davan\/"] = "विश्वतोदावन्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/misc-devas\/rk\/vishnur-yonim\/"] = "विष्णुर् योनिम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/sanskrit\/shixaa\/visarga\/"] = "विसर्गः";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/tattvani\/veda\/"] = "वेदः";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/sangrahah\/vedadayah\/"] = "वेदादयः";
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/kriyah\/arhanam\/vaishvadevam\/"] = "वैश्वदेवम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/grhya\/karmani\/vaishvadevam\/"] = "वैश्वदेवम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/general\/aradhanam\/bali\/vaishvadevam\/"] = "वैश्वदेवम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pancha-mahaa-yajjna\/"] = "वैश्वदेवम्, पञ्चमहायज्ञाः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/misc-devas\/paravastu-saama\/vyahrti-samani\/"] = "व्याहृतिसामानि";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/misc-devas\/rk\/sham-no-devih\/"] = "शन्नो देवीः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/general\/angani\/shariram\/"] = "शरीर-संस्कारः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/misc-devas\/yajus\/shimshumara\/"] = "शिंशुमार-वन्दनम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/sanskrit\/shixaa\/"] = "शिक्षा";
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/misc-devas\/rk\/shraddha\/"] = "श्रद्धा-सूक्तम्";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/kriyah\/arhanam\/shraddham\/"] = "श्राद्धम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/indra\/paravastu-saama\/shrayantiyam\/"] = "श्रायन्तीयम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/misc-devas\/rk\/shri-suktam\/"] = "श्री-सूक्तम्";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/"] = "संस्कारः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/sanskrit\/"] = "संस्कृताभ्यासाय योगदानम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/soma\/paravastu-saama\/sakhaya-a-ni-shidata\/"] = "सखाय आ निषीदत";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/general\/angani\/manah\/sankalpah\/"] = "सङ्कल्पः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/misc-devas\/paravastu-saama\/sadasaspatim\/"] = "सदसस्पतिम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/misc-devas\/rk\/sandhya-papa-lumpanam\/"] = "सन्ध्या-पाप-लुम्पनम्";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/kriyah\/arhanam\/sandhyavandanam\/"] = "सन्ध्यावन्दनम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/general\/aradhanam\/sandhyavandanam\/"] = "सन्ध्यावन्दनम्";
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/patra\/ashrama\/samavrtta\/"] = "समावृत्तः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/misc-devas\/yajus\/samichi-namasi\/"] = "समीची नामासि";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/soma\/paravastu-saama\/sampa\/"] = "सम्पा";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/general\/aradhanam\/bali\/sarpa-balih\/"] = "सर्पबलिः";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/general\/angani\/manah\/sattvika-tyagah\/"] = "सात्त्विकत्यागः";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/grhya\/karmani\/simantonnayanam\/"] = "सीमन्तोन्नयनम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/general\/aradhanam\/mangalaratih\/"] = "सुमङ्गलीभिर् मङ्गलारतिः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/grhya\/karmani\/sutakam\/"] = "सूतकम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/misc-devas\/paravastu-saama\/setums-tara\/"] = "सेतुषाम";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/jyotisha\/saura-chaandra-maana\/"] = "सौरचान्द्रमानम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/jyotisha\/sauramaana\/"] = "सौरमानम्";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/general\/angani\/sthalam\/"] = "स्थलम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/general\/aradhanam\/homa\/angani\/sthana\/"] = "स्थान-संस्कारः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/grhya\/karmani\/sthalipaka\/"] = "स्थालीपाकः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/general\/aradhanam\/homa\/visheshah\/sthalipakah\/"] = "स्थालीपाकः";
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/kriyah\/snana\/"] = "स्नानम्";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/sanskrit\/shixaa\/svarita\/"] = "स्वरितवचनम्";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/general\/achara\/anushthanam\/"] = "स्वानुष्ठानम्";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/indra\/paravastu-saama\/harishrinidhanam\/"] = "हरिश्रीनिधनम्";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/mantra\/misc-devas\/yajus\/hetayo-nama\/"] = "हेतयो नाम स्थ";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/general\/"] = "हेतुभावादिः";
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/grhya\/angani\/homa\/"] = "होमः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/general\/aradhanam\/homa\/"] = "होमः -परिचयः";
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/general\/aradhanam\/homa\/angani\/dravya\/"] = "होमे द्रव्याणि";
+  
+  
+  
+  
+  
+  
+  
+  pageUrlToTitle["\/kalpa\/apastamba\/pramanani\/dharma-sutra\/tattvani\/om\/"] = "ॐकारः";
+  
+  
+
+  
+  var pageDirectoryToUrl = {};
+  for (let pageUrlTmp in pageUrlToTitle) {
+      if(pageUrlToTitle.hasOwnProperty(pageUrlTmp)) {
+          var dirPath = pageUrlTmp.split("/").slice(0,-2).join("/");
+          if (pageDirectoryToUrl.hasOwnProperty(dirPath)) {
+              pageDirectoryToUrl[dirPath].push(pageUrlTmp);
+          } else {
+              pageDirectoryToUrl[dirPath] = [pageUrlTmp];
+          }
+      }
+  }
+
+</script>
+
     <script>
     let pageParams = JSON.parse("null");
+    let pageUrl = "\/saMskAra\/tags\/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AA%E0%A4%95%E0%A4%83\/";
     let pageSource = "";
     console.log(pageSource);
     var pageDefaults;
@@ -77,12 +2105,14 @@
 <header class="p-1 bg-yellow">
     <nav role="navigation">
       <div class="row">
-        <a  href="/saMskAra/" class="btn btn-default col">
-          <i class="fas fa-gopuram ">संस्कारे विश्वासटिप्पणयः</i>
-        </a>
+        <div class="col-md-3 justify-content-start">
+          <a  href="/saMskAra/" class="btn col border">
+            <i class="fas fa-gopuram ">संस्कारे विश्वासटिप्पणयः</i>
+          </a>
+        </div>
         <div class="col-md-auto d-flex justify-content-center">
           <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम् + Enter"><i class="btn fas fa-search "></i>
-          <a href="/saMskAra/google_site_search/"  class="btn btn-default">Google</a>
+          <a href="/saMskAra/custom_site_search/"  class="btn btn-default">Site search</a>
         </div>
           
       </div>
