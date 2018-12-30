@@ -1,6 +1,9 @@
 figure.thumbnail {
   width: 250px;
   height: 250px;
+  border-style: solid;
+  border-width: thick;
+  object-fit: contain;
 }
 
 *[unicode_script="devanagari"] {
