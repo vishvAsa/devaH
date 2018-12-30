@@ -14,7 +14,7 @@ emphasis_as_inline_comments: true
 
 {भर! महः! ईडा। सुवः। ज्योतिः।}
 
-![](../images/indra-or-someone-on-an-arial-charriot-attacking-an-army-with-arrows.jpg)
+![](../../images/indra-or-someone-on-an-arial-charriot-attacking-an-army-with-arrows.jpg)
 
 
 ## साम १

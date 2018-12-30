@@ -11,7 +11,7 @@ emphasis_as_inline_comments: true
 वास्तोष्पते *(=गृहपते)* ध्रुवा स्थूणा *(=गृहाधारभूतस्तम्भाः)* अंसत्रं सोम्यानाम्  *(=सोमार्हानाम्)*।  
 द्रप्सः *(=द्रवणशीलः)* पुरां भेत्ता शश्वतीनामिन्द्रो मुनीनां सखा  । । २७५
 
-![](../images/Indra-kills-vRtra-snake-with-vajra.jpg)
+![](../../images/Indra-kills-vRtra-snake-with-vajra.jpg)
 
 
 ## साम १

@@ -12,7 +12,7 @@ emphasis_as_inline_comments: true
 त्रातारमिन्द्रमवितारमिन्द्रं हवेहवे*(=ह्वाने ह्वाने)* सुहवं*(=स्वाह्वेयं)* शूरमिन्द्रम्।  
 हुवे*(=ह्वयामि)* नु शक्रं पुरुहूतमिन्द्रमिदं [+मघवस् स्वस्ति नो] हविर् मघवा वेत्व्*(=वैतु =भक्षयतु)* इ्द्रः॥
 
-![](../images/indra-rising-to-protect-charriots-of-army.jpg)
+![](../../images/indra-rising-to-protect-charriots-of-army.jpg)
 
 
 ## साम १

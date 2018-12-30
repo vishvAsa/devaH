@@ -12,7 +12,7 @@ emphasis_as_inline_comments: true
 अभि प्रियाणि *(उदकानि)* पवते चनो*(=अन्न)*हितो नामानि*(=नमनशीलानि)* यह्वो*(=महान्)* अधि येषु वर्धते *(अन्तरिक्षस्थः)* ।  
 आ सूर्यस्य बृहतो बृहन्नधि रथं विष्वञ्चम्*(=विष्वग्गमनं)* अरुहद् विचक्षणः॥
 
-![](../images/soma_moon_chandra.jpg)
+![](../../images/soma_moon_chandra.jpg)
 
 ## साम
 - पारम्परिकगानमूलम् - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n2/mode/1up&sa=D&ust=1542425956390000)।]

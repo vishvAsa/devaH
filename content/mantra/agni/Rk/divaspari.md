@@ -8,16 +8,16 @@ emphasis_as_inline_comments: true
 
 ## त्रेधा जन्म  
 
-![](../images/lightning.jpg){:.thumbnail}  
+![](../../images/lightning.jpg){:.thumbnail}  
 दि॒वस् परि॑ प्रथ॒मं ज॑ज्ञे अ॒ग्निर्  
-![](../images/agni-rising-from-a-vedI-giving-bearing-gifts.jpg){:.thumbnail}  
+![](../../images/agni-rising-from-a-vedI-giving-bearing-gifts.jpg){:.thumbnail}  
 अ॒स्मद् द्वि॒तीय॒म् परि॑ जा॒तवे॑दाः ।  
-![](../images/baku-fire-spring.jpg){:.thumbnail}
+![](../../images/baku-fire-spring.jpg){:.thumbnail}
 तृ॒तीय॑म॒प्सु नृ॒मणा॒ अज॑स्र॒म्  
 इन्धा॑न एनं जरते *(=स्तौति)* स्वा॒धीः ।  
 
 ## त्रेधा रूपाणि  
-![](../images/lightning.jpg){:.thumbnail}  
+![](../../images/lightning.jpg){:.thumbnail}  
 *(प्रतिज्ञा+ऋक्। अग्रिमायाम् उत्तरम्।)*  
 वि॒द्मा ते॑ अग्ने त्रे॒धा *{रूपाणि अग्नि-विद्युत्-सूर्यास्}* त्र॒याणि॑  
 वि॒द्मा ते॒ सद्म॒ *{नानाकुण्डेषु}* विभृ॑तम् पुरु॒त्रा *(=बहुधा)*।  
@@ -32,21 +32,21 @@ emphasis_as_inline_comments: true
 
 ## लोके क्व दृश्यते?
 ### दवानलः  
-![](../images/forest-fire.jpg){:.thumbnail}  
+![](../../images/forest-fire.jpg){:.thumbnail}  
 अक्र॑न्दद् अ॒ग्निः स्त॒नय॑न्निव॒ द्यौः  
 क्षामा॒ *(=पृथिवीं)* रेरि॑हद् *(=आस्वादयन्)* वी॒रुधः॑ *(={वृक्ष}गुल्मान्)* सम॒ञ्जन्न् ।  
 स॒द्यो ज॑ज्ञा॒नो *{दावानलः}* वि हीम् इ॒द्धो  
 अख्य॒दा रोद॑सी भा॒नुना॑ भात्य॒न्तः ।  
 
 ### कुण्डस्थः
-![](../images/agni-with-pillar-of-smoke-above.jpg){:.thumbnail}  
+![](../../images/agni-with-pillar-of-smoke-above.jpg){:.thumbnail}  
 उ॒शिक् *(=कामयिता)* पा॑व॒को अ॑र॒तिः *(=गन्ता)* सु॑मे॒धा  
 मर्ते॑ष्व॒ग्निर॒मृतो॒ निधा॑यि ।  
 इय॑र्ति *(=गमयति)* धू॒मम॑रु॒षम् *(=महत्)* भरि॑भ्र॒द्  
 उच्छु॒क्रेण॑ शो॒चिषा॒ द्यामिन॑क्षत् *(=दीपयत्)*।  
 
 ### ज्वालामुखी  
-![Mud volcanoes](../images/mud-volcano.jpg){:.thumbnail}[!](https://en.wikipedia.org/wiki/Mud_volcanoes_in_Azerbaijan)
+![Mud volcanoes](../../images/mud-volcano.jpg){:.thumbnail}[!](https://en.wikipedia.org/wiki/Mud_volcanoes_in_Azerbaijan)
 विश्व॑स्य के॒तुर् भुव॑नस्य॒ गर्भ॒  
 आ रोद॑सी अपृणा॒ज् *(=अपूरयत्)* जाय॑मानः ।  
 वी॒डुं *(=दृढं)* चि॒दद्रि॑मभिनत् परा॒यञ् *(=परागच्छन्)*  
@@ -76,7 +76,7 @@ emphasis_as_inline_comments: true
 
 ## तेजोविभूतिर् जन्म च  
 
-![](../images/lightning.jpg){:.thumbnail}  
+![](../../images/lightning.jpg){:.thumbnail}  
 दृ॒शा॒नो रु॒क्म *(=रोचमानः)* उ॒र्व्या *(=महत्या)* व्य॑द्यौद्,  
 दु॒र्मर्ष॒मायुः॑ श्रि॒ये रु॑चा॒नः ।  
 अ॒ग्निर॒मृतो॑ अभव॒द्वयो॑भि॒र्  

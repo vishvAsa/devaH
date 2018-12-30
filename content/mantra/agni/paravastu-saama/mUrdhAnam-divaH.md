@@ -12,7 +12,7 @@ emphasis_as_inline_comments: true
 मूर्धानं दिवो अरतिं *(=गन्तारम्)* पृथिव्या वैश्वानरमृत*(य्)* आ जातमग्निम्  ।   
 कविं सम्राजमतिथिं जनानामासन् *(=आस्यं)* नः पात्रं जनयन्त देवाः॥
 
-![](../images/agni-bellied-sun-lighting-up-the-bottom-of-the-clouds.jpg)
+![](../../images/agni-bellied-sun-lighting-up-the-bottom-of-the-clouds.jpg)
 
 
 ## साम १

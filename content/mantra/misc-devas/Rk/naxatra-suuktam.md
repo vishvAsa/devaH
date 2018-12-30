@@ -6,7 +6,7 @@ emphasis_as_inline_comments: true
   
 ## कृत्तिकाः
   
-![कृत्ति॑काः](../images/worlds/naxatra/kRttikA.png)  
+![कृत्ति॑काः](../../images/worlds/naxatra/kRttikA.png)  
   
 अ॒ग्निर् नᳶ॑ पातु॒ कृत्ति॑काः। नक्ष॑त्रन् दे॒वम् *(=द्योतमानम्)* इ॑न्द्रि॒यम्।  
 इ॒दमा॑साव्ँ विचक्ष॒णम्। ह॒विरा॒सञ् जु॑होत न।  
@@ -20,7 +20,7 @@ emphasis_as_inline_comments: true
   
 ## रोहिणी  
   
-![रोहि॒णी](../images/worlds/naxatra/kRttikA.png)  
+![रोहि॒णी](../../images/worlds/naxatra/kRttikA.png)  
 *(ब्रह्महृदयं = capella = beta taurii खलु रोहिणीशकटे (Taurus-मुखम्) वर्तते।)*
 
 प्र॒जाप॑ते*(ः)* रोहि॒णी वे॑तु॒ *(=भुङ्क्ताम्)* पत्नी॑। वि॒श्वरू॑पा बृह॒ती चि॒त्रभा॑नुः।  
@@ -33,7 +33,7 @@ emphasis_as_inline_comments: true
   
 ## मृगशीर्षम्
   
-![मृगशीर्षम्](../images/worlds/naxatra/mRgashIrSha.png)  
+![मृगशीर्षम्](../../images/worlds/naxatra/mRgashIrSha.png)  
   
 सोमो॒ राजा॑ मृगशी॒र्॒षेण॒ आगन्न्॑ *(=आयातु)*। शि॒वन् नक्ष॑त्रम् प्रि॒यम॑स्य॒ धाम॑।  
 आ॒प्याय॑मानो बहु॒धा जने॑षु। रेतᳶ॑ प्र॒जाय्ँ यज॑माने दधातु।  
@@ -46,7 +46,7 @@ emphasis_as_inline_comments: true
   
 ## आर्द्रा
   
-![आ॒र्द्रा](../images/worlds/naxatra/kRttikA.png)  
+![आ॒र्द्रा](../../images/worlds/naxatra/kRttikA.png)  
   
 आ॒र्द्रया॑ रु॒द्रᳶ प्रथ॑मान *(=प्रसिद्ध)* एति। श्रेष्ठो॑ दे॒वाना॒म् पति॑र् अघ्नि॒याना॑म् *(=गवाम्)*।  
 नक्ष॑त्रमस्य ह॒विषा॑ विधेम *(=परिचरेम)*। मा नᳶ॑ प्र॒जाꣳ री॑रिष॒न् मोत वी॒रान्।  
@@ -57,7 +57,7 @@ emphasis_as_inline_comments: true
   
 ## पुनर्वसू  
   
-![पुन॒र्वसू](../images/worlds/naxatra/punarvasU.png)  
+![पुन॒र्वसू](../../images/worlds/naxatra/punarvasU.png)  
   
 पुन॑र्नो दे॒व्यदि॑तिस् स्पृणोतु *(=प्रीणयतु)*। पुन॒र्वसू नᳶ॒ पुन॒रेता॑य्ँ य॒ज्ञम्।  
 पुन॑र्नो दे॒वा अ॒भिय॑न्तु॒ सर्वे॑। पुनᳶ॑ पुनर्वो ह॒विषा॑ यजामः।  
@@ -70,7 +70,7 @@ emphasis_as_inline_comments: true
   
 ## तिष्यम्
   
-![तिष्यम्](../images/worlds/naxatra/tiShya.png)  
+![तिष्यम्](../../images/worlds/naxatra/tiShya.png)  
   
 बृह॒स्पति॑ᳶ प्रथ॒मञ्जाय॑मानः। ति॒ष्य॑न्नक्ष॑त्रम् अ॒भि सम्ब॑भूव।  
 श्रेष्ठो॑ दे॒वाना॒म् पृत॑नासु जि॒ष्णुः। दिशोऽनु॒ सर्वा॒ अभ॑यन्नो अस्तु।  
@@ -82,7 +82,7 @@ emphasis_as_inline_comments: true
   
 ## आश्रेषाः  
   
-![आश्रेषाः](../images/worlds/naxatra/AshreShA.png)  
+![आश्रेषाः](../../images/worlds/naxatra/AshreShA.png)  
   
 (δ, ε, η, ρ, and σ Hydrae)  
   
@@ -97,7 +97,7 @@ emphasis_as_inline_comments: true
   
 ## मघा  
   
-![मघा](../images/worlds/naxatra/maghA.png)  
+![मघा](../../images/worlds/naxatra/maghA.png)  
   
 उप॑हूताᳶ पि॒तरो॒ ये म॒घासु॑ *(=Regulus)*। मनो॑जवसस् सु॒कृत॑स् सुकृ॒त्याः।  
 ते नो॒ नक्ष॑त्रे॒ हव॒माग॑मिष्ठाः। स्व॒धाभिर् यज्ञम् प्रय॑तञ् जुषन्ताम्।  
@@ -109,7 +109,7 @@ emphasis_as_inline_comments: true
   
 ---  
   
-![फल्गु॑न्यः](../images/worlds/naxatra/maghA.png)  
+![फल्गु॑न्यः](../../images/worlds/naxatra/maghA.png)  
   
 गवा॒म् पतिः॒ फल्गु॑नीनामसि॒ *(=δ+ Leonis)* त्वम्। तद॑र्यमन् वरुणमित्र॒ चारु॑।  
 तन् त्वा॑ व॒यꣳ स॑नि॒तारꣳ॑ *(=दातारं)* सनी॒नाम् *(=दातव्यानाम्)*। जी॒वा जीव॑न्त॒मुप॒ सव्ँवि॑शेम।  
@@ -121,7 +121,7 @@ emphasis_as_inline_comments: true
   
 ## फल्गुन्यः
   
-![फल्गुन्यः](../images/worlds/naxatra/maghA.png)  
+![फल्गुन्यः](../../images/worlds/naxatra/maghA.png)  
   
 श्रेष्ठो॑ दे॒वाना॑म् भगवो भगासि।  तत् त्वा॑ विदु॒ᳶ फल्गु॑नी॒स् *(=Denebola)*, तस्य॑ वित्तात् *(=विद्धि)*।  
 अ॒स्मभ्य॑ङ् क्ष॒त्रम् अ॒जरꣳ॑ सु॒वीर्यम्॑। गोम॒द् अश्व॑व॒द् उप॒सन्नु॑दे॒ह।  
@@ -134,7 +134,7 @@ emphasis_as_inline_comments: true
   
 ## हस्तः
   
-![हस्तः](../images/worlds/naxatra/hasta.png)  
+![हस्तः](../../images/worlds/naxatra/hasta.png)  
   
 आया॒तु दे॒वस् स॑वि॒तोप॑यातु। हि॒र॒ण्यये॑न सु॒वृता॒ रथे॒न।  
 वह॒न्॒ हस्तꣳ सु॒भग॑व्ँ विद्म॒नाप॑सम् *(=विदितकर्मणा युक्तम्)*। प्रयच्छ॑न्त॒म् पपु॑रि॒म् *(=पूरयितारम्)* पुण्य॒म् अच्छ॑ *(=अभिमुखं वर्तमानम्)*।  
@@ -147,7 +147,7 @@ emphasis_as_inline_comments: true
   
 ## चित्रा
   
-![चित्रा](../images/worlds/naxatra/chitrA.png)  
+![चित्रा](../../images/worlds/naxatra/chitrA.png)  
   
 त्वष्टा॒ नक्ष॑त्रम् अ॒भ्ये॑ति चि॒त्राम् *(=Spica)*। सु॒भꣳस॑सय्ँ *(=सुजघनां)* युव॒तिꣳ रोच॑मानाम्।  
 नि॒वे॒शय॑न्न् अ॒मृता॒न् मर्त्याꣳ॑श् च। रू॒पाणि॑ पि॒ꣳ॒शन् *(=निरूपयन्)* भुव॑नानि॒ विश्वा॑।  
@@ -159,7 +159,7 @@ emphasis_as_inline_comments: true
   
 ## निष्ट्या
   
-![निष्ट्या॑](../images/worlds/naxatra/niShTyA.png)  
+![निष्ट्या॑](../../images/worlds/naxatra/niShTyA.png)  
   
 वा॒युर् नक्ष॑त्रम् अ॒भ्ये॑ति॒ निष्ट्या॑म्*(=Arctrus)*। ति॒ग्मशृ॑ङ्गो वृष॒भो रोरु॑वाणः।  
 स॒मी॒रय॒न् भुव॑ना मात॒रिश्वा॑। अप॒ द्वेषाꣳ॑सि नुदता॒म् अरा॑तीः।  
@@ -172,7 +172,7 @@ emphasis_as_inline_comments: true
   
 ## विशाखे
   
-![विशा॑खे](../images/worlds/naxatra/vishAkhA.png)  
+![विशा॑खे](../../images/worlds/naxatra/vishAkhA.png)  
   
 दू॒रम् अ॒स्मच्छत्र॑वो यन्तु भी॒ताः। तद् इ॑न्द्रा॒ग्नी कृ॑णुता॒म् तद् विशा॑खे।  
 तन् नो॑ दे॒वा अनु॑मदन्तु य॒ज्ञम्। प॒श्चात् पु॒रस्ता॒द् अभ॑यन्नो अस्तु।  
@@ -193,7 +193,7 @@ emphasis_as_inline_comments: true
   
 ## अनूराधाः
   
-![अ॒नू॒रा॒धाः](../images/worlds/naxatra/anUrAdhAH.png)  
+![अ॒नू॒रा॒धाः](../../images/worlds/naxatra/anUrAdhAH.png)  
   
 ऋ॒द्ध्यास्म॑ ह॒व्यैर्न॑मसो॒पसद्य॑। मि॒त्रन् दे॒वं, मि॑त्र॒धेय॑न् *(=मित्रेण सम्पाद्यन्)* नो अस्तु।  
 अ॒नू॒रा॒धान् ह॒विषा॑ व॒र्धय॑न्तः। श॒तञ् जी॑वेम॒ श॒रदः॒ सवी॑राः।  
@@ -205,7 +205,7 @@ emphasis_as_inline_comments: true
   
 ## ज्येष्ठा
   
-![ज्येष्ठा](../images/worlds/naxatra/anUrAdhAH.png)  
+![ज्येष्ठा](../../images/worlds/naxatra/anUrAdhAH.png)  
   
 इन्द्रो॑ ज्ये॒ष्ठामनु॒ नक्ष॑त्रमेति। यस्मि॑न् वृ॒त्रव्ँ वृ॑त्र॒तूरर्ये॑ *(=वृत्रवधे)* त॒तार॑।  
 तस्मि॑न् व॒यम् अ॒मृत॒न् दुहा॑नाः। क्षुध॑न् तरेम॒ दुरि॑ति॒न् दुरि॑ष्टिम्।  
@@ -217,7 +217,7 @@ emphasis_as_inline_comments: true
   
 ## अनूराधाः
   
-![](../images/worlds/naxatra/anUrAdhAH.png)  
+![](../../images/worlds/naxatra/anUrAdhAH.png)  
 *(मूलायाङ्खल्व् आकाशगङ्गाकेन्द्रम् अपि वर्तते!)*
 
 मूल॑म् प्र॒जाव्ँ वी॒रव॑तीव्ँ विदेय। परा॑च्येतु॒ निरृ॑तिᳶ परा॒चा।  
@@ -230,7 +230,7 @@ emphasis_as_inline_comments: true
   
 ## अषाढाः पूर्वाः
   
-![](../images/worlds/naxatra/aShADhAH.png)  
+![](../../images/worlds/naxatra/aShADhAH.png)  
   
 या दि॒व्या आपᳶ॒ पय॑सा सम्बभू॒वुः। या अ॒न्तरि॑क्ष उ॒त पार्थि॑वी॒र्याः।  
 यासा॑मषा॒ढा अ॑नु॒यन्ति॒ कामम्॑। ता न॒ आपः॒ शꣳ स्यो॒ना भ॑वन्तु।  
@@ -242,7 +242,7 @@ emphasis_as_inline_comments: true
   
 ## अषाढाः उत्तराः
   
-![](../images/worlds/naxatra/aShADhAH.png)  
+![](../../images/worlds/naxatra/aShADhAH.png)  
   
 तन् नो॒ विश्वे॒ उप॑ शृण्वन्तु दे॒वाः। तद॑षा॒ढा अ॒भिसंय॑न्तु य॒ज्ञम्।  
 तन्नक्ष॑त्रम् प्रथताम् प॒शुभ्यः॑। कृ॒षिर् वृ॒ष्टिर् यज॑मानाय कल्पताम्।  
@@ -255,7 +255,7 @@ emphasis_as_inline_comments: true
 ## अभिजित्
 
   
-![](../images/worlds/naxatra/abhijit.png)  
+![](../../images/worlds/naxatra/abhijit.png)  
   
 यस्मि॒न् ब्रह्मा॒भ्यज॑य॒त् सर्व॑मे॒तत्। अ॒मुञ्च॑ लो॒कमि॒दमू॑ च॒ सर्वम्॑।  
 तन् नो॒ नक्ष॑त्रमभि॒जिद्वि॒जित्य॑। श्रिय॑न् दधा॒त्वहृ॑णीयमानम्।  
@@ -267,7 +267,7 @@ emphasis_as_inline_comments: true
   
 ## श्रोणा
   
-![](../images/worlds/naxatra/shroNA.png)  
+![](../../images/worlds/naxatra/shroNA.png)  
   
 शृ॒ण्वन्ति॑ श्रो॒णाम॒मृत॑स्य गो॒पाम्। पुण्या॑मस्या॒ उप॑शृणोमि॒ वाचम्॑।  
 म॒हीन् दे॒वीव्ँ विष्णु॑पत्नीमजू॒र्याम्। प्र॒तीची॑ मेनाꣳ ह॒विषा॑ यजामः।  
@@ -279,7 +279,7 @@ emphasis_as_inline_comments: true
   
 ## धनिष्ठाः/ श्रविष्ठाः
   
-![](../images/worlds/naxatra/dhaniShThA.svg)  
+![](../../images/worlds/naxatra/dhaniShThA.svg)  
   
 अ॒ष्टौ दे॒वा वस॑वस्सो॒म्यासः॑। चत॑स्रो दे॒वीर॒जराः॒ श्रवि॑ष्ठाः।  
 ते य॒ज्ञम् पा॑न्तु॒ रज॑सᳶ पु॒रस्ता॑त्। सव्ँव॒त्स॒रीण॑म॒मृतꣳ॑ स्व॒स्ति।  
@@ -291,7 +291,7 @@ emphasis_as_inline_comments: true
   
 ## शतभिषग्
   
-![](../images/worlds/naxatra/shatabhiShaj.png)  
+![](../../images/worlds/naxatra/shatabhiShaj.png)  
   
 क्ष॒त्रस्य॒ राजा॒ वरु॑णोऽधिरा॒जः। नक्ष॑त्राणाꣳ श॒तभि॑ष॒ग् वसि॑ष्ठः।  
 तौ दे॒वेभ्यᳵ॑ कृणुतो दी॒र्घमायुः॑। श॒तꣳ स॒हस्रा॑ भेष॒जानि॑ धत्तः।  
@@ -303,7 +303,7 @@ emphasis_as_inline_comments: true
   
 ## प्रोष्ठपदाः पूर्वाः
   
-![](../images/worlds/naxatra/proShThapada.png)  
+![](../../images/worlds/naxatra/proShThapada.png)  
   
 अ॒ज एक॑पा॒दुद॑गात्पु॒रस्ता॑त्। विश्वा॑ भू॒तानि॑ प्रति॒ मोद॑मानः।  
 तस्य॑ दे॒वाᳶ प्र॑स॒वय्ँ य॑न्ति॒ सर्वे॑। प्रो॒ष्ठ॒प॒दासो॑ अ॒मृत॑स्य गो॒पाः।  
@@ -315,7 +315,7 @@ emphasis_as_inline_comments: true
   
 ## प्रोष्ठपदाः उत्तराः  
   
-![](../images/worlds/naxatra/proShThapada.png)  
+![](../../images/worlds/naxatra/proShThapada.png)  
   
 अहि॑र् बु॒ध्नियᳶ॒ प्रथ॑मान एति। श्रेष्ठो॑ दे॒वाना॑मु॒त मानु॑षाणाम्।  
 तम् ब्रा॑ह्म॒णास् सो॑म॒पास् सो॒म्यासः॑। प्रो॒ष्ठ॒प॒दासो॑ अ॒भिर॑क्षन्ति॒ सर्वे॑।  
@@ -326,7 +326,7 @@ emphasis_as_inline_comments: true
   
 ## रेवती
   
-![](../images/worlds/naxatra/revatI.png)  
+![](../../images/worlds/naxatra/revatI.png)  
   
 पू॒षा रे॒वत्यन्वे॑ति॒ पन्था॑म्। पु॒ष्टि॒पती॑ पशु॒पा वाज॑बस्त्यौ।  
 इ॒मानि॑ ह॒व्या प्रय॑ता जुषा॒णा। सु॒गैर्नो॒ यानै॒रुप॑याताय्ँ य॒ज्ञम्।  
@@ -338,7 +338,7 @@ emphasis_as_inline_comments: true
   
 ## अश्विनौ
   
-![](../images/worlds/naxatra/ashvinau.png)  
+![](../../images/worlds/naxatra/ashvinau.png)  
   
 तद॒श्विना॑वश्व॒युजोप॑याताम्। शुभ॒ङ्गमि॑ष्ठौ सु॒यमे॑भि॒रश्वैः॑।  
 स्वन् नक्ष॑त्रꣳ ह॒विषा॒ यज॑न्तौ। मध्वा॒ सम्पृ॑क्तौ॒ यजु॑षा॒ सम॑क्तौ।  
@@ -350,7 +350,7 @@ emphasis_as_inline_comments: true
   
 ## भरणी
   
-![](../images/worlds/naxatra/bharaNI.png)  
+![](../../images/worlds/naxatra/bharaNI.png)  
   
 अप॑ पा॒प्मान॒म् भर॑णीर् *(=35, 39, 41 Arietis)* भरन्तु। तद्य॒मो राजा॒ भग॑वा॒न्॒ विच॑ष्टाम्।  
 लो॒कस्य॒ राजा॑ मह॒तो म॒हान् हि। सु॒गन् नᳶ॒ पन्था॒मभ॑यङ् कृणोतु।  

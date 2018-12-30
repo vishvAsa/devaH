@@ -10,7 +10,7 @@ RV 8 14_*(634)* 1 a *([सायणो [ऽत्र।](https://archive.org/str
 
 यदि॑न्द्रा॒हं यथा॒ त्वमीशी॑य॒ वस्व॒ एक॒ इत् । स्तो॒ता मे॒ गोष॑खा स्यात् १
 
-![](../images/indra-rising-to-protect-charriots-of-army.jpg)
+![](../../images/indra-rising-to-protect-charriots-of-army.jpg)
 
 
 ## साम

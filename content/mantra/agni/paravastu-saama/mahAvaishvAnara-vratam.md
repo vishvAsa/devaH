@@ -33,8 +33,8 @@ RV.3.9.2a; SV.1.53a; N.4.14a; M;S.3.8.1a.
 
 *(घर्मो मरुद्भिर्भुवनेषु चक्रदात्।)*
 
-![](../images/forest-fire.jpg)
-![](../images/lightning.jpg)
+![](../../images/forest-fire.jpg)
+![](../../images/lightning.jpg)
 
 
 ## साम

@@ -18,7 +18,7 @@ RV.8.2.1a
 
 इन्द्र॑ त्वा॒स्मिन् त्स॑ध॒मादे॑ *(=सहमदने यज्ञे ([आह्वयामि])*) ३
 
-![](../images/indra-squeezing-soma-into-mouth.jpg)
+![](../../images/indra-squeezing-soma-into-mouth.jpg)
 
 
 ## साम

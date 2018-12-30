@@ -14,7 +14,7 @@ emphasis_as_inline_comments: true
 
 अमै॑र् *(=बलैर्)* अ॒मित्र॑म् अर्दय *(=नाशय)* ।
 
-![](../images/tall-agni-in-vedI-surrounded-by-lots-of-Rtvik-s-with-folded-hands-in-many-many-yAga-s-namaskAra-.png)
+![](../../images/tall-agni-in-vedI-surrounded-by-lots-of-Rtvik-s-with-folded-hands-in-many-many-yAga-s-namaskAra-.png)
 
 
 ## साम

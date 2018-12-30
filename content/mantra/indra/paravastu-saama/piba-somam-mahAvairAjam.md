@@ -21,7 +21,7 @@ RV.7.22.1a; AV;S.20.117.1a; SV.1.398a; 2.277a; TS.2.4.14.3a; AB.3.22.11; 5.4.19;
 मत्स्व! ओजो सहो बलम् इन्द्रो बृहद् ऋतं स्वर् दधे।  
 सधं मे। ऋतं मे। पिब मत्स्व!
 
-![](../images/indra-squeezing-soma-into-mouth.jpg)
+![](../../images/indra-squeezing-soma-into-mouth.jpg)
 
 
 ## साम

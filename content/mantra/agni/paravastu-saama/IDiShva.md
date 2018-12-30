@@ -16,7 +16,7 @@ RV.8.23.1b; SV.1.103b.
 
  च॑रि॒ष्णुधू॑मम् अगृ॑भीत-शोचिषम् ।।
 
-![](../images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png)
+![](../../images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png)
 
 ## साम
 

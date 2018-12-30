@@ -33,7 +33,7 @@ RV.9.107.19a; SV.1.516a; 2.272a; JB.3.67a; PB.12.9.3a; Svidh.1.5.8.
 
 *(दुह मत्स्व इति साम्नि)*।
 
-![](../images/soma-enthroned.png)
+![](../../images/soma-enthroned.png)
 
 
 ## साम

@@ -31,7 +31,7 @@ emphasis_as_inline_comments: true
 अप्य॑भूद् भ॒द्रे सु॑कृ॒तस्य॑ लो॒के ।  
 
 ## सूर्यग्रहणमोक्षनिदर्शनम्  
-![](../images/worlds/solar_eclipse_receeding.jpg){:.thumbnail}
+![](../../images/worlds/solar_eclipse_receeding.jpg){:.thumbnail}
 सूर्य॑म् ऋ॒तन् *(=प्राप्तम्)* तम॑सो॒ ग्राह्या॒  
 यद्दे॒वा अमु॑ञ्च॒न्नसृ॑ज॒न् व्ये॑नसः *(=व्यसृजन् एनसः)* ।  
 

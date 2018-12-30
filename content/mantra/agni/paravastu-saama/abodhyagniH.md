@@ -14,7 +14,7 @@ emphasis_as_inline_comments: true
 यह्वा *(=महान्तः)* *(वृक्षा)* इव प्र वयाम्*(=शाखाम्)* उज्जिहानाः  
 प्र भानवः सस्रते*(=सरन्ति)* नाकमच्छ ॥ ७३
 
-![](../images/Strengthening-brightening-agni.png)
+![](../../images/Strengthening-brightening-agni.png)
 
 
 ## साम

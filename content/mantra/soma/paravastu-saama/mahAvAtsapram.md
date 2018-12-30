@@ -34,8 +34,8 @@ RV.9.101.1a; SV.1.545a; 2.47a; JB.1.116,161a,163a; 2.195,425; 3.79,195; PB.8.5.7
 
 य॒ज्ञं हि॑न्व॒न्त्य् *(=प्रेरयन्ति)* अद्रि॑भिः *(=अश्मभिः)* ३ *(ज्ञाय सन्त्वद्रय इति साम्नि।)*
 
-![](../images/soma_moon_chandra.jpg)
-![](../images/soma-enthroned.png)
+![](../../images/soma_moon_chandra.jpg)
+![](../../images/soma-enthroned.png)
 
 
 ## साम

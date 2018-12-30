@@ -19,7 +19,7 @@ RV.8.89.5a; SV.2.779a; ArS.2.7a; KB.24.5; A;S.8.5.12; 10.2.22; ;S;S.11.11.14; 18
 
 तेजो घर्मः सङ्क्रीडन्ते। शिशुमतीर् वायुगोपास् तेजस्वतीर् मरुद्भिर् भुवनानि चक्रतुः।
 
-![](../images/Indra-kills-vRtra-snake-with-vajra.jpg)
+![](../../images/Indra-kills-vRtra-snake-with-vajra.jpg)
 
 
 ## साम

@@ -15,7 +15,7 @@ SV.1.445b; 2.464b; AA.5.2.2.11; ;S;S.18.15.5b.
 
 श्रुतो युवा स इन्द्रः।
 
-![](../images/Great-indra-on-airAvata-with-vajra-surrounded-by-other-smaller-deva-s-agni-on-ram-yama-on-buffalo-brahma-on-swan-sUrya-and-chandra.jpg)
+![](../../images/Great-indra-on-airAvata-with-vajra-surrounded-by-other-smaller-deva-s-agni-on-ram-yama-on-buffalo-brahma-on-swan-sUrya-and-chandra.jpg)
 
 
 ## साम

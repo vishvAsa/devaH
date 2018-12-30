@@ -12,7 +12,7 @@ emphasis_as_inline_comments: true
 जरा*(=स्तुति)*बोध तद् विविड्ढि*(=प्रविश)* विशेविशे यज्ञियाय।  
 स्तोमं*(=स्तोत्रं)* रुद्राय *(ते)* दृशीकम्*(=दर्शनीयम्)*॥
 
-![](../images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png)
+![](../../images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png)
 
 
 ## साम
