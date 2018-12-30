@@ -24,3 +24,12 @@ figure.thumbnail {
     vertical-align: sub;
   }
 }
+
+#sidebar {
+  li {
+    background-color: antiquewhite;
+    .active {
+      background-color: bisque;
+    }
+  }
+}
