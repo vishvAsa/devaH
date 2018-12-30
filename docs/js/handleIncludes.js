@@ -58,7 +58,7 @@ function fixIncludedHtml(url, html, newLevelForH1) {
     });
 
     /*
-    Fix headers in the included html so as to not mess up the table of contents 
+    Fix headers in the included html so as to not mess up the table of contents
     of the including page.
     Adjusting the heading levels to retain substructure seems more complicated -
     getting the heading "under" which jsIncludeJqueryElement falls seems non-trivial.
@@ -109,7 +109,7 @@ function fixIncludedHtml(url, html, newLevelForH1) {
 }
 
 function fillJsInclude(jsIncludeJqueryElement, includedPageNewLevelForH1) {
-    var includedPageUrl = jsIncludeJqueryElement.attr("url").replace(".md", ".html");
+    var includedPageUrl = "../" + jsIncludeJqueryElement.attr("url").replace(".md", "/").toLowerCase();
     if (includedPageNewLevelForH1 == undefined) {
         includedPageNewLevelForH1 = parseInt(jsIncludeJqueryElement.attr("newLevelForH1"));
     }
@@ -122,27 +122,37 @@ function fillJsInclude(jsIncludeJqueryElement, includedPageNewLevelForH1) {
             // Tip from: https://stackoverflow.com/questions/15113910/jquery-parse-html-without-loading-images
             var virtualDocument = document.implementation.createHTMLDocument('virtual');
 
-            var titleElements = $(responseHtml, virtualDocument).find(".post-title-main");
+            var titleElements = $(responseHtml, virtualDocument).find("h1");
             var title = "";
             if (titleElements.length > 0) {
                 // console.debug(titleElements[0]);
                 title = titleElements[0].textContent;
             }
 
-            var contentElements = $(responseHtml, virtualDocument).find(".post-content");
+            var contentElements = $(responseHtml, virtualDocument).find("#post_content");
             // console.log(contentElements);
             if (contentElements.length == 0) {
                 console.warn("Could not get \"post-content\" class element.");
                 console.log(responseHtml);
             } else {
                 // We don't want multiple post-content divs, hence we replace with an included-post-content div.
-                var elementToInclude = $("<div class='included-post-content'/>")
+                var elementToInclude = $("<div class='included-post-content card border'/>")
+                var editLinkElements = $(responseHtml, virtualDocument).find("#editLink");
+                var editLinkHtml = "";
+                if (editLinkElements.length > 0) {
+                  // console.debug(editLinkElements);
+                  editLinkHtml = `<a class="btn btn-secondary" href="${editLinkElements.attr("href")}"><i class="fas fa-edit"></i></a>`
+                }
                 var titleHtml = "";
                 if (jsIncludeJqueryElement.attr("includeTitle")) {
-                    titleHtml = "<h1 id='" + title + "'>" + title + "</h1>" +
-                    "<a class='btn btn-default' href='" + absoluteUrl(document.location, includedPageUrl) + "'>See separately</a>";
+                    titleHtml = "<div class='card-title border d-flex justify-content-between'>" +
+                    "<h1 id='" + title + "'>" + title + "</h1>" +
+                    "<div><a class='btn btn-secondary' href='" + absoluteUrl(document.location, includedPageUrl) + "'><i class=\"fas fa-external-link-square-alt\"></i></a>" +
+                    editLinkHtml + "</div>" +
+                    "</div>";
                 }
-                elementToInclude.html(titleHtml + contentElements[0].innerHTML);
+                var contentHtml = `<div class='card-body'>${contentElements[0].innerHTML}</div>`;
+                elementToInclude.html(titleHtml + contentHtml);
                 var contentElement = fixIncludedHtml(includedPageUrl, elementToInclude, includedPageNewLevelForH1);
                 jsIncludeJqueryElement.html(contentElement);
                 fillAudioEmbeds();
@@ -163,7 +173,7 @@ function fillJsInclude(jsIncludeJqueryElement, includedPageNewLevelForH1) {
 }
 
 // Process includes of the form:
-// <div class="js_include" url="index.md"/> 
+// <div class="js_include" url="index.md"/>
 $( document ).ready(function() {
     $('.js_include').each(function() {
         console.debug("Inserting include for " + $(this).html());
@@ -172,4 +182,3 @@ $( document ).ready(function() {
         fillJsInclude(jsIncludeJqueryElement);
     });
 });
-
