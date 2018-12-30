@@ -136,13 +136,23 @@ function fillJsInclude(jsIncludeJqueryElement, includedPageNewLevelForH1) {
                 console.log(responseHtml);
             } else {
                 // We don't want multiple post-content divs, hence we replace with an included-post-content div.
-                var elementToInclude = $("<div class='included-post-content'/>")
+                var elementToInclude = $("<div class='included-post-content card border'/>")
+                var editLinkElements = $(responseHtml, virtualDocument).find("#editLink");
+                var editLinkHtml = "";
+                if (editLinkElements.length > 0) {
+                  console.debug(editLinkElements);
+                  editLinkHtml = `<a class="btn btn-secondary" href="${editLinkElements.attr("href")}"><i class="fas fa-edit"></i></a>`
+                }
                 var titleHtml = "";
                 if (jsIncludeJqueryElement.attr("includeTitle")) {
-                    titleHtml = "<h1 id='" + title + "'>" + title + "</h1>" +
-                    "<a class='btn btn-default' href='" + absoluteUrl(document.location, includedPageUrl) + "'>See separately</a>";
+                    titleHtml = "<div class='card-title border d-flex justify-content-between'>" +
+                    "<h1 id='" + title + "'>" + title + "</h1>" +
+                    "<div><a class='btn btn-secondary' href='" + absoluteUrl(document.location, includedPageUrl) + "'><i class=\"fas fa-external-link-square-alt\"></i></a>" +
+                    editLinkHtml + "</div>" +
+                    "</div>";
                 }
-                elementToInclude.html(titleHtml + contentElements[0].innerHTML);
+                var contentHtml = `<div class='card-body'>${contentElements[0].innerHTML}</div>`;
+                elementToInclude.html(titleHtml + contentHtml);
                 var contentElement = fixIncludedHtml(includedPageUrl, elementToInclude, includedPageNewLevelForH1);
                 jsIncludeJqueryElement.html(contentElement);
                 fillAudioEmbeds();
