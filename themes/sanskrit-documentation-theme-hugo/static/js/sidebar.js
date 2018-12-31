@@ -25,10 +25,18 @@ function getSidebarItemHtml(sidebarItem, parentListIdIn) {
         for(let subitem of sidebarItem.contents) {
             contentHtml = `${contentHtml}\n ${getSidebarItemHtml(subitem, listId)}`;
         }
+        // console.debug(title, itemUrlStripped);
+        var itemTitleHtml;
+        if (itemUrlStripped != "#") {
+          itemTitleHtml  = `<a href="${itemUrlStripped}" class="${anchorClasses}"> ${title}</a>`;
+        } else {
+          itemTitleHtml  = `<a data-toggle="collapse" href="#${listId}" role="button" aria-expanded="false" aria-controls="${listId}"  class="${anchorClasses}"> ${title}</a>`;
+        }
         var itemHtml =
         `<li class="${liClass}"><span class="d-flex justify-content-between">` +
-        `<a href="${itemUrlStripped}" class="${anchorClasses}"> ${title}</a> ` +
-        `<a  data-toggle="collapse" href="#${listId}" role="button" aria-expanded="false" aria-controls="${listId}"> <i class="fas fa-caret-down"></i></a></span>\n` +
+        itemTitleHtml + "\n" +
+        `<a data-toggle="collapse" href="#${listId}" role="button" aria-expanded="false" aria-controls="${listId}"> <i class="fas fa-caret-down"></i></a>` +
+        "</span>\n" +
         `<ul id='${listId}' class='${ulClass} collapse'>${contentHtml}\n</ul>\n` +
         `</li>\n`;
     } else if (sidebarItem.url.startsWith("dir://")) {
