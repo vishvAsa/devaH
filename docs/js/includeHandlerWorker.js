@@ -1,4 +1,3 @@
-
 /*
 Example: absoluteUrl("../subfolder1/divaspari.md", "images/forest-fire.jpg") == "../subfolder1/images/forest-fire.jpg"
  */
@@ -24,6 +23,7 @@ function absoluteUrl(base, relative) {
     }
     return stack.join("/");
 }
+
 
 // WHen you include html from one page within another, you need to fix image urls, anchor urls etc..
 function fixIncludedHtml(url, html, newLevelForH1) {
@@ -154,35 +154,22 @@ function fillJsInclude(jsIncludeJqueryElement, includedPageNewLevelForH1) {
                 var contentHtml = `<div class=''>${contentElements[0].innerHTML}</div>`;
                 elementToInclude.html(titleHtml + contentHtml);
                 var contentElement = fixIncludedHtml(includedPageUrl, elementToInclude, includedPageNewLevelForH1);
-                jsIncludeJqueryElement.html(contentElement);
-                // TODO: The following calls lead to major UI delays and problems on pages such as saMskAra/mantra/sangrahah/paravastu-saama/udakashanti/#. Must use worker instead.
-                fillAudioEmbeds();
-                fillVideoEmbeds();
-                updateToc();
+                postMessage([jsIncludeJqueryElement, contentElemen]t);
             }
         },
         error: function(xhr, error){
+            console.debug(xhr); console.debug(error);
             var titleHtml = "";
             var title = "Missing page.";
             if (jsIncludeJqueryElement.attr("includeTitle")) {
                 titleHtml = "<h1 id='" + title + "'>" + title + "</h1>";
             }
-            jsIncludeJqueryElement.html(titleHtml + "Could not get: " + includedPageUrl + " See debug messages in console for details.");
-            console.debug(xhr); console.debug(error);
+            postMessage([jsIncludeJqueryElement, titleHtml + "Could not get: " + includedPageUrl + " See debug messages in console for details."]);
         }
     });
 }
 
-// Process includes of the form:
-// <div class="js_include" url="index.md"/>
-// can't easily use a worker - workers cannot access DOM (workaround: pass strings back and forth), cannot access jquery library.
-$( document ).ready(function() {
-    $.when.apply($, $('.js_include').each(function() {
-        console.debug("Inserting include for " + $(this).html());
-        var jsIncludeJqueryElement = $(this);
-        // The actual filling happens in a separate thread!
-        fillJsInclude(jsIncludeJqueryElement);
-    })).done(function() {
-      console.log("All includes processed. Now fixing elements.");
-    });
-});
+onmessage = function(e) {
+  console.debug('Message received from main script', e.data);
+  var workerResult = fillJsInclude(e.data);
+}
