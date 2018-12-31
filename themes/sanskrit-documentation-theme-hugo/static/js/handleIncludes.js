@@ -177,12 +177,10 @@ function fillJsInclude(jsIncludeJqueryElement, includedPageNewLevelForH1) {
 // <div class="js_include" url="index.md"/>
 // can't easily use a worker - workers cannot access DOM (workaround: pass strings back and forth), cannot access jquery library.
 $( document ).ready(function() {
-    $.when.apply($, $('.js_include').each(function() {
+    $('.js_include').each(function() {
         console.debug("Inserting include for " + $(this).html());
         var jsIncludeJqueryElement = $(this);
         // The actual filling happens in a separate thread!
         fillJsInclude(jsIncludeJqueryElement);
-    })).done(function() {
-      console.log("All includes processed. Now fixing elements.");
     });
 });
