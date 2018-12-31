@@ -116,7 +116,7 @@ function fillJsInclude(jsIncludeJqueryElement, includedPageNewLevelForH1) {
     if (includedPageNewLevelForH1 == undefined) {
         includedPageNewLevelForH1 = 6;
     }
-    $.ajax(includedPageUrl,{
+    $.ajax(includedPageUrl, {
         success: function(responseHtml) {
             // We want to use jquery to parse html, but without loading images. Hence this.
             // Tip from: https://stackoverflow.com/questions/15113910/jquery-parse-html-without-loading-images
@@ -136,7 +136,7 @@ function fillJsInclude(jsIncludeJqueryElement, includedPageNewLevelForH1) {
                 console.log(responseHtml);
             } else {
                 // We don't want multiple post-content divs, hence we replace with an included-post-content div.
-                var elementToInclude = $("<div class='included-post-content card border'/>")
+                var elementToInclude = $("<div class='included-post-content border'/>")
                 var editLinkElements = $(responseHtml, virtualDocument).find("#editLink");
                 var editLinkHtml = "";
                 if (editLinkElements.length > 0) {
@@ -145,16 +145,17 @@ function fillJsInclude(jsIncludeJqueryElement, includedPageNewLevelForH1) {
                 }
                 var titleHtml = "";
                 if (jsIncludeJqueryElement.attr("includeTitle")) {
-                    titleHtml = "<div class='card-title border d-flex justify-content-between'>" +
+                    titleHtml = "<div class='border d-flex justify-content-between'>" +
                     "<h1 id='" + title + "'>" + title + "</h1>" +
                     "<div><a class='btn btn-secondary' href='" + absoluteUrl(document.location, includedPageUrl) + "'><i class=\"fas fa-external-link-square-alt\"></i></a>" +
                     editLinkHtml + "</div>" +
                     "</div>";
                 }
-                var contentHtml = `<div class='card-body'>${contentElements[0].innerHTML}</div>`;
+                var contentHtml = `<div class=''>${contentElements[0].innerHTML}</div>`;
                 elementToInclude.html(titleHtml + contentHtml);
                 var contentElement = fixIncludedHtml(includedPageUrl, elementToInclude, includedPageNewLevelForH1);
                 jsIncludeJqueryElement.html(contentElement);
+                // TODO: The following calls lead to major UI delays and problems on pages such as saMskAra/mantra/sangrahah/paravastu-saama/udakashanti/#. Must use worker instead.
                 fillAudioEmbeds();
                 fillVideoEmbeds();
                 updateToc();
@@ -175,10 +176,12 @@ function fillJsInclude(jsIncludeJqueryElement, includedPageNewLevelForH1) {
 // Process includes of the form:
 // <div class="js_include" url="index.md"/>
 $( document ).ready(function() {
-    $('.js_include').each(function() {
+    $.when.apply($, $('.js_include').each(function() {
         console.debug("Inserting include for " + $(this).html());
         var jsIncludeJqueryElement = $(this);
         // The actual filling happens in a separate thread!
         fillJsInclude(jsIncludeJqueryElement);
+    })).done(function() {
+      console.log("All includes processed. Now fixing elements.");
     });
 });
