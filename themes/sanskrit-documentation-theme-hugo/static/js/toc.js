@@ -82,7 +82,7 @@ function setUpNavigationLinks(headers) {
                   $("#toc_body").removeClass("collapse");
                   // console.debug(toc_item_id, $("#toc_ul").find("li"));
                   $("#toc_ul").find("li").each(function (liIndex, liElement) {
-                      console.debug(liIndex, liElement, toc_item_id);
+                      // console.debug(liIndex, liElement, toc_item_id);
                       if (liElement.id == toc_item_id) {
                           itemToActivate = $(this);
                       } else {

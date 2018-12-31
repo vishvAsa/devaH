@@ -91,22 +91,7 @@ function insertTopnavDropdownItems() {
 $(document).ready(function() {
     insertSidebarItems();
     // insertTopnavDropdownItems();
-    // Initialize navgoco sidebar with default options
-    // $("#displayed_sidebar").navgoco({
-    //     caretHtml: '',
-    //     accordion: true,
-    //     openClass: 'active', // open
-    //     save: true,
-    //     cookie: {
-    //         name: 'navgoco_sidebar',
-    //         expires: false,
-    //         path: '/'
-    //     },
-    //     slide: {
-    //         duration: 400,
-    //         easing: 'swing'
-    //     }
-    // });
+
 });
 
 // Code to make the "Nav" button, which toggles the sidebar.
