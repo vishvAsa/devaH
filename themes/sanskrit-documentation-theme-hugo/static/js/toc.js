@@ -2,28 +2,6 @@ function get_toc_item_id(header_id) {
     return "toc_item_" + header_id;
 }
 
-function returnToTop() {
-    // First, set up the right selections in the table-of-contents menu.
-    // So, the user can follow the trail of highlights menu items and expand the menu items till he reaches the appropriate level.
-    // On 20181119, I spent close to a working day messing with the menu getting it to expand to the right spot; but on realizing that the above is good enough, gave up.
-    var itemToActivate = undefined;
-    $("#toc_ul").find("li").each(function (liIndex, liElement) {
-        // console.debug(liIndex, liElement);
-        if (liElement.id == toc_item_id) {
-            itemToActivate = $(this);
-        } else {
-            $(this).removeClass("active");
-        }
-    });
-    itemToActivate.addClass("active");
-    itemToActivate.parents("li").addClass("active"); // This call is ineffective for some reason.
-
-    // Now scroll up.
-    $([document.documentElement, document.body]).animate({
-        scrollTop: $("[id='" + toc_item_id + "']").offset().top
-    }, 100);
-}
-
 function updateToc(options) {
     console.info("Setting up TOC for " + document.location);
     var defaults = {
@@ -83,44 +61,47 @@ function updateToc(options) {
       level = this_level; // update for the next one
     });
     html += "</ul>";
-
-    headers.each(function () {
-      var header = $(this);
-      if (!header.next().hasClass("back-to-top")){
-          // There is a javascript click listener (defined later in this file) for the below to scroll up.
-          var return_to_top = $('<div id="toc_up_' + header.attr('id') + '" class="icon-arrow-up back-to-top" style="text-align:right;">Up↑</div>');
-          var toc_item_id = get_toc_item_id(header.attr('id'));
-          return_to_top.click(returnToTop);
-          header.after(return_to_top);
-      }
-    })
-
+    setUpNavigationLinks(headers);
     $("#toc_ul").html(html);
     // console.log($("#toc_ul"));
     // resetNavgocoMenu();
     // Finally, set up navgoco options.
 };
 
-function resetNavgocoMenu() {
-    $('#toc_ul').navgoco({
-        accordion: true,
-        openClass: 'active', // open
-        save: false,
-        caretHtml: '...', // Make it easier to expand the drawers by increasing click-capture area.
-        cookie: {
-            name: 'navgoco_toc',
-            expires: false,
-            path: '/'
-        },
-        slide: {
-            duration: 0, // 400ms was causing screen shakes with scrolling to the top by pressing the Up bottons.
-            easing: 'swing'
-        }
-    });
-    // console.debug("Set up navgoco.");
-    $("#toc_ul").navgoco('toggle', false);
-}
+function setUpNavigationLinks(headers) {
+  headers.each(function () {
+    var header = $(this);
+    if (!header.next().hasClass("back-to-top")){
+        // There is a javascript click listener (defined later in this file) for the below to scroll up.
+        var returnToTopLink = $('<div id="toc_up_' + header.attr('id') + '" class="icon-arrow-up back-to-top" style="text-align:right;">Up↑</div>');
+        var toc_item_id = get_toc_item_id(header.attr('id'));
+        returnToTopLink.click(function () {
+                  // First, set up the right selections in the table-of-contents menu.
+                  // So, the user can follow the trail of highlights menu items and expand the menu items till he reaches the appropriate level.
+                  var itemToActivate = undefined;
+                  $("#toc_body").removeClass("collapse");
+                  // console.debug(toc_item_id, $("#toc_ul").find("li"));
+                  $("#toc_ul").find("li").each(function (liIndex, liElement) {
+                      console.debug(liIndex, liElement, toc_item_id);
+                      if (liElement.id == toc_item_id) {
+                          itemToActivate = $(this);
+                      } else {
+                          $(this).removeClass("active");
+                      }
+                  });
+                  itemToActivate.addClass("active");
+                  itemToActivate.parents("li").addClass("active"); // This call is ineffective for some reason.
 
+                  // Now scroll up.
+                  $([document.documentElement, document.body]).animate({
+                      scrollTop: $("[id='" + toc_item_id + "']").offset().top
+                  }, 100);
+              });
+          }
+        header.after(returnToTopLink);
+        });
+
+}
 
 // Update table of contents (To be called whenever page contents are updated).
 $( window ).on( "load", updateToc());
