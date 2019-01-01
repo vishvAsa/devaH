@@ -4,6 +4,7 @@ figure.thumbnail {
   border-style: solid;
   border-width: thick;
   object-fit: contain;
+  contain: content;
 }
 
 *[unicode_script="devanagari"] {
