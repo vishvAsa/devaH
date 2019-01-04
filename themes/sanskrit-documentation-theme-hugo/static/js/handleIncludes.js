@@ -30,7 +30,7 @@ function fixIncludedHtml(url, html, newLevelForH1) {
     // We want to use jquery to parse html, but without loading images. Hence this.
     // Tip from: https://stackoverflow.com/questions/15113910/jquery-parse-html-without-loading-images
     var virtualDocument = document.implementation.createHTMLDocument('virtual');
-    var jqueryElement = $(html, virtualDocument);
+    var jqueryElement = $(setInlineComments(html), virtualDocument);
 
     // console.debug(jqueryElement.html());
     // Remove some tags.
@@ -147,7 +147,7 @@ async function processAjaxResponseHtml(responseHtml, addTitle, includedPageNewLe
       }
       var contentHtml = `<div class=''>${contentElements[0].innerHTML}</div>`;
       elementToInclude.html(titleHtml + contentHtml);
-      var contentElement = fixIncludedHtml(includedPageUrl, elementToInclude, includedPageNewLevelForH1);
+      var contentElement = fixIncludedHtml(includedPageUrl, elementToInclude.html(), includedPageNewLevelForH1);
       return contentElement;
   }
 }
@@ -203,6 +203,7 @@ $( window ).on( "load", function() {
     console.log("Done including.", values);
     // The below lines do not having any effect if not called without the timeout.
     setTimeout(function(){
+      setInlineCommentsInPostContent();
       fillAudioEmbeds();
       fillVideoEmbeds();
       updateToc();
