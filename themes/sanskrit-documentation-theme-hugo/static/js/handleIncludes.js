@@ -189,6 +189,7 @@ async function fillJsInclude(jsIncludeJqueryElement, includedPageNewLevelForH1) 
 // <div class="js_include" url="index.md"/>
 // can't easily use a worker - workers cannot access DOM (workaround: pass strings back and forth), cannot access jquery library.
 $( window ).on( "load", function() {
+  if ($('.js_include').length == 0) { return; }
   Promise.all($('.js_include').map(function() {
       console.debug("Inserting include for " + $(this).html());
       var jsIncludeJqueryElement = $(this);
