@@ -15,7 +15,7 @@ emphasis_as_inline_comments: true
 
 ## समित्-लक्षणम्
 
-###‌ प्रमाण-स्रोतः
+### प्रमाण-स्रोतः
 - संस्काररत्नमालायाम् [अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_039_Samskara_Ratnamala_of_Bhatta_Gopinatha_Dikshita_Part_1_-_KS_Agase_1899#page/n68/mode/1up)।
 - स्मृतिमुक्ताफले [ऽत्र](https://archive.org/stream/smRti-muktA-phalam/SMP2_aahnika#page/n156/mode/1up)।
 - काणेग्रन्थे [ऽत्र]( https://archive.org/stream/HistoryOfDharmasastraancientAndMediaevalReligiousAndCivilLawV.2.1/Kane_A-History-of-Dharmasastra-v2-1_1941#page/n365/mode/1up)।
@@ -35,7 +35,7 @@ emphasis_as_inline_comments: true
 - २-प्रादेश-मात्रम् इति कात्यायनः। प्रादेश-मात्रम् इति बोधायनः।
   - प्रादेशात् नाधिका नोना न तथा स्याद्विशाखिका । न सपत्रा न निर्वीर्य्या होमेषु च विजानता ॥” इति संस्कारतत्त्वम् ॥
 
-####‌ अत्र दोषो यथा
+#### अत्र दोषो यथा
 
 - “विशीर्णायुःक्षयं कुर्य्याद्बिदला पुत्त्रनाशिनी । ह्स्वा नाशयते पत्नीं वक्रा बन्धुविनाशिनी ॥   
 कृमिदष्टा रोगकरी विद्वेषकरणी द्विधा । पशून् मारयते दीर्घा स्थूला चार्थविनाशिनी ॥” इति तन्त्रम् ॥

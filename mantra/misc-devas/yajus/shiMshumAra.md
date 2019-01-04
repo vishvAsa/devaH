@@ -37,7 +37,7 @@ emphasis_as_inline_comments: true
 नाफ्सु प्रमी॑यते॒ नाग्नौ प्रमी॑यते॒ नान॒पत्यः॑ प्रमी॒यते॑। ल॒घ्वान्नो॑ भवति।
 
 
-##‌ कल्पः
+## कल्पः
 
 आरण्यके तैत्तिरीये सायणभाष्यान्विते [ऽत्रोक्तः](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_036_Taittiriya_Aranyakam_With_Sayana_Bhashya_Part_1_-_Babasastri_Phadke_1898#page/n161/mode/2up)। [भट्टभास्करटीकायान्तु](https://archive.org/stream/taittiriya/taittiriya_aranyaka_bhaskara_01#page/n255/mode/2up) स्पष्टं विनियोगकाल्पोऽनुक्तः \- किञ्च "दिवि भवो दिव्य" इति शिशुमारविवरणान् नक्षत्रमण्डलविशेषग्रहणं युज्यते। मन्त्रेऽपि शिशुमारम् उद्दिश्य ध्रुवस्य क्षितिर् असीत्युक्तम् अवधेयम। ध्रुवमण्डलं शिशुमारं कल्पयेत्, अथवा प्राचीनध्रुवं thuban-तारां तथा।
 
