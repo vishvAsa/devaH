@@ -108,6 +108,7 @@ function fixIncludedHtml(url, html, newLevelForH1) {
     return jqueryElement;
 }
 
+// An async function returns results wrapped in Promise objects.
 async function processAjaxResponseHtml(responseHtml, addTitle, includedPageNewLevelForH1, includedPageUrl) {
   // We want to use jquery to parse html, but without loading images. Hence this.
   // Tip from: https://stackoverflow.com/questions/15113910/jquery-parse-html-without-loading-images
@@ -151,7 +152,7 @@ async function processAjaxResponseHtml(responseHtml, addTitle, includedPageNewLe
   }
 }
 
-function fillJsInclude(jsIncludeJqueryElement, includedPageNewLevelForH1) {
+async function fillJsInclude(jsIncludeJqueryElement, includedPageNewLevelForH1) {
     var includedPageUrl = "../" + jsIncludeJqueryElement.attr("url").replace(".md", "/").toLowerCase();
     if (includedPageNewLevelForH1 == undefined) {
         includedPageNewLevelForH1 = parseInt(jsIncludeJqueryElement.attr("newLevelForH1"));
@@ -163,32 +164,47 @@ function fillJsInclude(jsIncludeJqueryElement, includedPageNewLevelForH1) {
     function processingFn(responseHtml) {
       return processAjaxResponseHtml(responseHtml, jsIncludeJqueryElement.attr("includeTitle"), includedPageNewLevelForH1, includedPageUrl);
     }
-    getAjaxResponsePromise.then(processingFn).then(function(contentElement) {
+    return getAjaxResponsePromise.then(processingFn).then(function(contentElement) {
       // console.log(contentElement);
       jsIncludeJqueryElement.html(contentElement);
       // TODO: The following calls lead to major UI delays and problems on pages such as saMskAra/mantra/sangrahah/paravastu-saama/udakashanti/#. Must use worker instead.
-      fillAudioEmbeds();
-      fillVideoEmbeds();
-      updateToc();
     }).catch(function(error){
         var titleHtml = "";
         var title = "Missing page.";
         if (jsIncludeJqueryElement.attr("includeTitle")) {
             titleHtml = "<h1 id='" + title + "'>" + title + "</h1>";
         }
-        jsIncludeJqueryElement.html(titleHtml + "Could not get: " + includedPageUrl + " See debug messages in console for details.");
+        var elementToInclude = titleHtml + "Could not get: " + includedPageUrl + " See debug messages in console for details.";
+        fixIncludedHtml(includedPageUrl, elementToInclude, includedPageNewLevelForH1)
+        jsIncludeJqueryElement.html(elementToInclude);
         console.debug(error);
+    }).then(function(v) {
+      // fillAudioEmbeds();
+      // fillVideoEmbeds();
+      // updateToc();
     });
 }
 
 // Process includes of the form:
 // <div class="js_include" url="index.md"/>
 // can't easily use a worker - workers cannot access DOM (workaround: pass strings back and forth), cannot access jquery library.
-$( document ).ready(function() {
-    $('.js_include').each(function() {
-        console.debug("Inserting include for " + $(this).html());
-        var jsIncludeJqueryElement = $(this);
-        // The actual filling happens in a separate thread!
-        fillJsInclude(jsIncludeJqueryElement);
-    });
+$( window ).on( "load", function() {
+  Promise.all($('.js_include').map(function() {
+      console.debug("Inserting include for " + $(this).html());
+      var jsIncludeJqueryElement = $(this);
+      // The actual filling happens in a separate thread!
+      fillJsInclude(jsIncludeJqueryElement);
+  }))
+  // The below did not help.
+  .then(function() { console.debug("Waiting")
+    new Promise(res => setTimeout(res, 5000));})
+  .then(function(values) {
+    console.log("Done including.", values);
+    // The below lines do not having any effect if not called without the timeout.
+    setTimeout(function(){
+      fillAudioEmbeds();
+      fillVideoEmbeds();
+      updateToc();
+    }, 5000);
+  });
 });
