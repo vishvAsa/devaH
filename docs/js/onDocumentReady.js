@@ -1,9 +1,12 @@
+function setInlineComments(htmlIn) {
+  return htmlIn.replace(/\+\+\+(.+?)\+\+\+/g, "<span class=\"inline_comment\">$1</span>");
+}
 
-$( document ).ready(function() {
-    $('.js_include').each(function() {
-        // console.debug("Inserting include for " + $(this).html());
-        var jsIncludeJqueryElement = $(this);
-        // The actual filling happens in a separate thread!
-        fillJsInclude(jsIncludeJqueryElement);
-    });
-});
+function setInlineCommentsInPostContent() {
+  if ($("#post_content").length > 0) {
+    // console.debug( $("#post_content").html);
+    // console.log(setInlineComments($("#post_content").html()));
+    $("#post_content").html(setInlineComments($("#post_content").html()));
+  }
+}
+$(document).ready(setInlineCommentsInPostContent);

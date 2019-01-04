@@ -3,8 +3,10 @@ function setInlineComments(htmlIn) {
 }
 
 function setInlineCommentsInPostContent() {
-  // console.debug( $("#post_content").html);
-  // console.log(setInlineComments($("#post_content").html()));
-  $("#post_content").html(setInlineComments($("#post_content").html()));
+  if ($("#post_content").length > 0) {
+    // console.debug( $("#post_content").html);
+    // console.log(setInlineComments($("#post_content").html()));
+    $("#post_content").html(setInlineComments($("#post_content").html()));
+  }
 }
 $(document).ready(setInlineCommentsInPostContent);

@@ -12,11 +12,12 @@ function updateToc(options) {
     },
     settings = $.extend(defaults, options);
 
+    console.log(`Table of contents for ${document.location}`)
     // console.debug(settings);
     var headers = $(settings.headers);
     // console.debug(headers.length);
     if (headers.length < settings.minimumHeaders) {
-      console.debug("Too few headers. Returning");
+      console.log(`Too few headers ${headers.length} < ${settings.minimumHeaders}. Returning.`);
       return;
     }
 

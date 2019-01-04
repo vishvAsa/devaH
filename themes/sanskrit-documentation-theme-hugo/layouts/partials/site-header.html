@@ -8,7 +8,9 @@
           </a>
         </div>
         <div class="col-md-auto d-flex justify-content-center">
-          <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्"><i class="btn fas fa-search "></i>
+          <form action="{{ "search" | absURL }}">
+            <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
+          </form>
           <a href="{{ "custom_site_search/" | relURL }}"  class="btn btn-default">Full search</a>
         </div>
           {{ if .Site.Menus.main }}

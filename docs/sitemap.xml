@@ -7,10 +7,6 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/soma/rk/yah-pavamanih/</loc>
-  </url>
-  
-  <url>
     <loc>https://vvasuki.github.io/saMskAra/sanskrit/vocabularybuilder/readme/</loc>
   </url>
   
@@ -43,6 +39,11 @@
   
   <url>
     <loc>https://vvasuki.github.io/saMskAra/sanskrit/misconceptions/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vvasuki.github.io/saMskAra/search/</loc>
+    <priority>0.1</priority>
   </url>
   
   <url>
@@ -1347,6 +1348,10 @@
   
   <url>
     <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/grhya/karmani/rtusamaveshanam/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vvasuki.github.io/saMskAra/mantra/soma/rk/yah-pavamanih/</loc>
   </url>
   
   <url>
