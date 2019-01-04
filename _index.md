@@ -2,6 +2,10 @@
 title: संस्कारः  
 unicode_script: devanagari  
 emphasis_as_inline_comments: true  
+outputs:
+  - html
+  - rss
+  - json
 ---    
 
 Welcome, if you are an Arya! I am deeply interested and invested in Hindu conservativism, via the practice of Sanskrit, mantra-s, tantra-s, kalpa-s and kAvya-s.
