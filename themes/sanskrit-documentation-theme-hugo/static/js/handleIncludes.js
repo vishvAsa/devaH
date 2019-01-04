@@ -108,6 +108,49 @@ function fixIncludedHtml(url, html, newLevelForH1) {
     return jqueryElement;
 }
 
+async function processAjaxResponseHtml(responseHtml, addTitle, includedPageNewLevelForH1, includedPageUrl) {
+  // We want to use jquery to parse html, but without loading images. Hence this.
+  // Tip from: https://stackoverflow.com/questions/15113910/jquery-parse-html-without-loading-images
+  var virtualDocument = document.implementation.createHTMLDocument('virtual');
+
+  var titleElements = $(responseHtml, virtualDocument).find("h1");
+  var title = "";
+  if (titleElements.length > 0) {
+      // console.debug(titleElements[0]);
+      title = titleElements[0].textContent;
+  }
+
+  var contentElements = $(responseHtml, virtualDocument).find("#post_content");
+  // console.log(contentElements);
+  if (contentElements.length == 0) {
+      let message = "Could not get \"post-content\" class element.";
+      console.warn(message);
+      console.log(responseHtml);
+      throw Error(message);
+  } else {
+      // We don't want multiple post-content divs, hence we replace with an included-post-content div.
+      var elementToInclude = $("<div class='included-post-content border'/>")
+      var editLinkElements = $(responseHtml, virtualDocument).find("#editLink");
+      var editLinkHtml = "";
+      if (editLinkElements.length > 0) {
+        // console.debug(editLinkElements);
+        editLinkHtml = `<a class="btn btn-secondary" href="${editLinkElements.attr("href")}"><i class="fas fa-edit"></i></a>`
+      }
+      var titleHtml = "";
+      if (addTitle) {
+          titleHtml = "<div class='border d-flex justify-content-between'>" +
+          "<h1 id='" + title + "'>" + title + "</h1>" +
+          "<div><a class='btn btn-secondary' href='" + absoluteUrl(document.location, includedPageUrl) + "'><i class=\"fas fa-external-link-square-alt\"></i></a>" +
+          editLinkHtml + "</div>" +
+          "</div>";
+      }
+      var contentHtml = `<div class=''>${contentElements[0].innerHTML}</div>`;
+      elementToInclude.html(titleHtml + contentHtml);
+      var contentElement = fixIncludedHtml(includedPageUrl, elementToInclude, includedPageNewLevelForH1);
+      return contentElement;
+  }
+}
+
 function fillJsInclude(jsIncludeJqueryElement, includedPageNewLevelForH1) {
     var includedPageUrl = "../" + jsIncludeJqueryElement.attr("url").replace(".md", "/").toLowerCase();
     if (includedPageNewLevelForH1 == undefined) {
@@ -116,60 +159,25 @@ function fillJsInclude(jsIncludeJqueryElement, includedPageNewLevelForH1) {
     if (includedPageNewLevelForH1 == undefined) {
         includedPageNewLevelForH1 = 6;
     }
-    $.ajax(includedPageUrl, {
-        success: function(responseHtml) {
-            // We want to use jquery to parse html, but without loading images. Hence this.
-            // Tip from: https://stackoverflow.com/questions/15113910/jquery-parse-html-without-loading-images
-            var virtualDocument = document.implementation.createHTMLDocument('virtual');
-
-            var titleElements = $(responseHtml, virtualDocument).find("h1");
-            var title = "";
-            if (titleElements.length > 0) {
-                // console.debug(titleElements[0]);
-                title = titleElements[0].textContent;
-            }
-
-            var contentElements = $(responseHtml, virtualDocument).find("#post_content");
-            // console.log(contentElements);
-            if (contentElements.length == 0) {
-                console.warn("Could not get \"post-content\" class element.");
-                console.log(responseHtml);
-            } else {
-                // We don't want multiple post-content divs, hence we replace with an included-post-content div.
-                var elementToInclude = $("<div class='included-post-content border'/>")
-                var editLinkElements = $(responseHtml, virtualDocument).find("#editLink");
-                var editLinkHtml = "";
-                if (editLinkElements.length > 0) {
-                  // console.debug(editLinkElements);
-                  editLinkHtml = `<a class="btn btn-secondary" href="${editLinkElements.attr("href")}"><i class="fas fa-edit"></i></a>`
-                }
-                var titleHtml = "";
-                if (jsIncludeJqueryElement.attr("includeTitle")) {
-                    titleHtml = "<div class='border d-flex justify-content-between'>" +
-                    "<h1 id='" + title + "'>" + title + "</h1>" +
-                    "<div><a class='btn btn-secondary' href='" + absoluteUrl(document.location, includedPageUrl) + "'><i class=\"fas fa-external-link-square-alt\"></i></a>" +
-                    editLinkHtml + "</div>" +
-                    "</div>";
-                }
-                var contentHtml = `<div class=''>${contentElements[0].innerHTML}</div>`;
-                elementToInclude.html(titleHtml + contentHtml);
-                var contentElement = fixIncludedHtml(includedPageUrl, elementToInclude, includedPageNewLevelForH1);
-                jsIncludeJqueryElement.html(contentElement);
-                // TODO: The following calls lead to major UI delays and problems on pages such as saMskAra/mantra/sangrahah/paravastu-saama/udakashanti/#. Must use worker instead.
-                fillAudioEmbeds();
-                fillVideoEmbeds();
-                updateToc();
-            }
-        },
-        error: function(xhr, error){
-            var titleHtml = "";
-            var title = "Missing page.";
-            if (jsIncludeJqueryElement.attr("includeTitle")) {
-                titleHtml = "<h1 id='" + title + "'>" + title + "</h1>";
-            }
-            jsIncludeJqueryElement.html(titleHtml + "Could not get: " + includedPageUrl + " See debug messages in console for details.");
-            console.debug(xhr); console.debug(error);
+    let getAjaxResponsePromise = $.ajax(includedPageUrl);
+    function processingFn(responseHtml) {
+      return processAjaxResponseHtml(responseHtml, jsIncludeJqueryElement.attr("includeTitle"), includedPageNewLevelForH1, includedPageUrl);
+    }
+    getAjaxResponsePromise.then(processingFn).then(function(contentElement) {
+      // console.log(contentElement);
+      jsIncludeJqueryElement.html(contentElement);
+      // TODO: The following calls lead to major UI delays and problems on pages such as saMskAra/mantra/sangrahah/paravastu-saama/udakashanti/#. Must use worker instead.
+      fillAudioEmbeds();
+      fillVideoEmbeds();
+      updateToc();
+    }).catch(function(error){
+        var titleHtml = "";
+        var title = "Missing page.";
+        if (jsIncludeJqueryElement.attr("includeTitle")) {
+            titleHtml = "<h1 id='" + title + "'>" + title + "</h1>";
         }
+        jsIncludeJqueryElement.html(titleHtml + "Could not get: " + includedPageUrl + " See debug messages in console for details.");
+        console.debug(error);
     });
 }
 
