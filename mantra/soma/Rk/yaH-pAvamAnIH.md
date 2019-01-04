@@ -1,8 +1,13 @@
+---
+title: यः पावमानीः
+unicode_script: devanagari
+emphasis_as_inline_comments: true
+---
 
 
-*([सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume4SatyavrataSamasrami1877bis_201803/page/n315) कौथुमभाष्ये। सोमः।])*
++++([सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume4SatyavrataSamasrami1877bis_201803/page/n315) कौथुमभाष्ये। सोमः।])+++
 
-यः पा॑वमा॒नीर्*(=पवमान-ऋचः)* अ॒ध्येत्य्  
+यः पा॑वमा॒नीर्+++(=पवमान-ऋचः)+++ अ॒ध्येत्य्  
 ऋषि॑भिः॒ सम्भृ॑तं॒ रस॑म् ।  
 सर्वं॒ स पू॒तम॑श्नाति  
 स्व॑दि॒तम् मात॒रिश्व॑ना ।।
@@ -10,10 +15,10 @@
 पावमा॒नीर्यो अ॒ध्येत्य्  
 ऋषि॑भिः॒ सम्भृ॑तं॒ रस॑म् ।  
 तस्मै॒ सर॑स्वती दुहे  
-क्षी॒रं स॒र्पिर्मधू॑द॒कम् ।। 
+क्षी॒रं स॒र्पिर्मधू॑द॒कम् ।।
 
 RvKh_3,10.1a [अत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart4/rv_sayanabhasya_part4#page/n1051/mode/1up)।  
-सामवेदे कौथुमसंहितायाम् ४ ५ २ ०८ ०३ 
+सामवेदे कौथुमसंहितायाम् ४ ५ २ ०८ ०३
 
 पावमा॒नीः स्वस्त्य॑यनीः  
 सुदुघा हि घृतश्चुतः  ।  
