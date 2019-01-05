@@ -16,7 +16,8 @@ emphasis_as_inline_comments: true
 
 
 ## साम १
-- पारम्परिकगानमूलम् - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n2/mode/1up&sa=D&ust=1542425956390000)।]
+- पारम्परिकगानमूलम् - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n2/mode/1up&sa=D&ust=1542425956390000)।
+
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/tvAvataH.mp3"></div>
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
@@ -27,9 +28,9 @@ emphasis_as_inline_comments: true
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018-150p-speed/tvAvataH.mp3"></div>
 
 धुरांसाकमश्वम्।  
-त्वा+++([])+++वतो, ओहौ+++([])+++, उहॊओइ ।  
-पु+++([])+++रूवसो, ओहौ+++([])+++, उहॊओइ+++()+++ ।  
-वयमिन्+++(२)+++द्रा, अहौ+++([])+++, उहॊओइ ।  
-प्र+++([])+++णेता,अह हौ+++([])+++, उहॊओइ ।  
-स्म+++([])+++सि स्थाता,अह हौ+++([])+++उहॊओइ ।  
-ह+++([])+++रीणा,अं हौ+++([])+++, उहॊ,ओ+++(")+++इडा+++([])+++अ  ॥
+त्वा+++([])+++वतो+++(३--%)+++ ओहौ+++([]३--%)+++, उहॊओइ ।  
+पु+++([])+++रूवसो+++(३--%)+++ ओहौ+++([]३--%)+++, उहॊओइ+++()+++ ।  
+वयमिन्+++(२)+++द्रा+++(३-v)+++ अहौ+++([]३--%)+++, उहॊओइ ।  
+प्र+++([])+++णेता+++(३--%)+++अह हौ+++([]३--%)+++, उहॊओइ ।  
+स्म+++([])+++सि स्थाता+++(३--%)+++अह हौ+++([]३--%)+++उहॊओइ ।  
+ह+++([])+++रीणा+++(३--%)+++अं हौ+++([]३--%)+++, उहॊ,ओ+++(")+++इडा+++([])+++अ  ॥
