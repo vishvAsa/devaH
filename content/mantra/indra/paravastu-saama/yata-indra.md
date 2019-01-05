@@ -18,10 +18,7 @@ emphasis_as_inline_comments: true
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/yata-indra.mp3"></div>
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/yata-indra.mp3"></div>
-<div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1x" src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018/yata-indra.mp3"></div>
-<div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1.5x" src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018-150p-speed/yata-indra.mp3"></div>
+
 
 
 य+++([])+++: ताआ, अइ०द्राअ, भायामहाइ । त+++([])+++तो, नो, आ, भायंका, अर्धि । म+++([])+++घवन्,  चग्धि, तवत०, नऊता, अयाइ । वि+++([])+++द्वाइषो, ओवि । मा+++([])+++र्धो, जहि । इ+++([])+++डा, अभाअअ । 
