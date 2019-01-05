@@ -138,10 +138,6 @@ contents:
         url: /bloodlines/kaushika/
       - title: Misc info
         url: /bloodlines/
-  - title: काव्यम्
-    contents:
-      - title: Videos
-        url: /kaavya/videos/
   - title: ज्यौतिषम्
     contents:
       - url: dir://jyotisha
@@ -155,6 +151,8 @@ contents:
             url: "https://sanskrit.github.io/projects/audio/tips/"
   - title: Notes Home
     url: /../notes/
+  - title: काव्यम्
+    url: /../kAvya/
   - title: Vishvas's home page
     url: /../
   - title: Blog
