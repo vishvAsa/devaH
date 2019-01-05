@@ -16,7 +16,8 @@ emphasis_as_inline_comments: true
 
 
 ## साम
-- पारम्परिकगानमूलम् - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n2/mode/1up&sa=D&ust=1542425956390000)।]
+- पारम्परिकगानमूलम् - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n7/mode/1up)।
+
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/jarAbodha.mp3"></div>
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
@@ -27,8 +28,8 @@ emphasis_as_inline_comments: true
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018-150p-speed/jarAbodha.mp3"></div>
 
 जराबोधिय्यम् । ज+++([पै])+++रा+++(["])+++, बो+++(["])+++ऒ, धो+++(%)+++वाअ ।  
-ता+++([तै])+++द् विविड्ढाइ ।  
-वी+++([का])+++शाइवा, इशॆ ।  
-य+++([र])+++ज्ञी,या+++(["])+++या।  
-स्तो+++(["घृ])+++माम्+++(२)+++, रुऊद्रा,याआ,  
-द्री+++([प])+++इ,,शि+++([टि]")+++इको+++(")+++,इ,डा+++([प]")+++अ ॥
+ता+++([तै]%)+++द् विविड्ढा+++(३--%)+++इ ।  
+वी+++([का])+++शाइवा+++(३--%)+++इशे ।  
+य+++([र])+++ज्ञी+++(%)+++या+++(["])+++या+++(३--%)+++।  
+स्तो+++(["घृ])+++माम्+++(२)+++, रुऊद्रा+++(३--%)+++या+++(")+++आ,  
+द्री+++([प]")+++इ,,शि+++([टि]")+++इको+++(")+++,इ,डा+++([प]")+++अ ॥
