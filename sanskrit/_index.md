@@ -8,7 +8,8 @@ title: संस्कृताभ्यासाय योगदानम्
     - sanskrit [code](https://sanskrit-coders.github.io/site/index.html).
 - saMskRta spreadsheets Copying encouraged :).
 
-- पाणिनीय[-व्याकरणे अत्र।](https://sites.google.com/site/vishvasvasuki/adhunikasastrani/sanskrtabhyasaya-yogadanam/paniniyam)
+- पाणिनीय[-व्याकरणे अत्र।](vyAkaraNa/)
+- [अष्टाध्यायी-मूलस्रोतः](https://ashtadhyayi.github.io/ui/)।
 - [kosha](https://docs.google.com/spreadsheet/pub?key=0Al_QBT-hoqqVdEZuaS1GOFVSMjBSblFSbUVsczZyYWc&gid=4) (containing amarakosha, as explored in Shivaja Nair's thesis) \[as [spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0Al_QBT-hoqqVdE9faHc2eWlvaGFaUjFoc1JMT25ySlE#gid=10)\].
 - [काव्यार्थः, अर्थालङ्काराश्च](https://docs.google.com/spreadsheet/ccc?key=0Al_QBT-hoqqVdEdoc19BN0NESFlQSTh3QWMzMXRpSFE#gid=16)
 - [छन्दः शब्दालङ्कारः](https://docs.google.com/spreadsheet/ccc?key=0Al_QBT-hoqqVdDhjNVRMTXdsdDVTZG9kcDIwVnhhN0E#gid=1)[ च](https://docs.google.com/spreadsheet/ccc?key=0Al_QBT-hoqqVdDhjNVRMTXdsdDVTZG9kcDIwVnhhN0E#gid=1)
