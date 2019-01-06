@@ -4,6 +4,8 @@ unicode_script: devanagari
 emphasis_as_inline_comments: true
 ---
 
+हरदत्तो [ऽत्र](https://archive.org/stream/EKAGNIKANDABHASHYAMSAMSKRUTHAM/EKAGNIKANDA%20BHASHYAM%20SAMSKRUTHAM#page/n89/mode/2up)।
+
 - +++(उष्णा आपः शीतास्वानयति)+++ उ॒ष्णेन॑ वायवुद॒केनेह्य्, अदि॑तिः॒ केशान्॑ वपतु ।
 - +++(शिरस उन्दनम् = आर्द्रीकरणम्)+++ आप॑ उन्दन्तु जी॒वसे॑ दीर्घायु॒त्वाय॒ वर्च॑से । ज्योक्च॒ सूर्यं॑ दृ॒शे ।  
 - +++(प्राच्यान्दिशि)+++ येनाव॑पत् सवि॒ता क्षु॒रेण॒  
