@@ -91,13 +91,21 @@ contents:
               - title: कर्माणि
                 contents:
                   - url: dir://kalpa/Apastamba/pramANAni/gRhya/karmANi
+          - title: श्रौतसूत्राणि
+            contents:
+              - title: अङ्गानि
+                contents:
+                  - url: dir://kalpa/Apastamba/pramANAni/shrauta/angAni
+              - title: तत्त्वानि
+                contents:
+                  - url: dir://kalpa/Apastamba/pramANAni/tattvAni/angAni
   - title: कल्पः बोधयनोक्तः
     contents:
         - url: dir://kalpa/bodhAyana
         - title: गृह्यसूत्राणि
           contents:
-            - url: dir://kalpa/bodhAyana/pramANAni/gRhya/angAni
-            - url: dir://kalpa/bodhAyana/pramANAni/gRhya/kriyAH
+            - url: dir://kalpa/bodhAyana/pramANAni/gRhya/tattvAni
+            - url: dir://kalpa/bodhAyana/pramANAni/gRhya/karmANi
         - title: श्रौतसूत्राणि
           contents:
             - title: अङ्गानि
@@ -105,7 +113,8 @@ contents:
                 - url: dir://kalpa/bodhAyana/pramANAni/shrauta/angAni
   - title: ब्राह्मणानि
     contents:
-      - url: dir://kalpa/brAhmaNa
+      - url: dir://kalpa/brAhmaNa/kriyA
+      - url: dir://kalpa/brAhmaNa/tattva
   - title: कल्पे ऽस्मन्निश्चयः
     contents:
         - title: प्रवेशः
