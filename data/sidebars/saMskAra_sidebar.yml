@@ -94,6 +94,15 @@ contents:
   - title: कल्पः बोधयनोक्तः
     contents:
         - url: dir://kalpa/bodhAyana
+        - title: गृह्यसूत्राणि
+          contents:
+            - url: dir://kalpa/bodhAyana/pramANAni/gRhya/angAni
+            - url: dir://kalpa/bodhAyana/pramANAni/gRhya/kriyAH
+        - title: श्रौतसूत्राणि
+          contents:
+            - title: अङ्गानि
+              contents:
+                - url: dir://kalpa/bodhAyana/pramANAni/shrauta/angAni
   - title: ब्राह्मणानि
     contents:
       - url: dir://kalpa/brAhmaNa
