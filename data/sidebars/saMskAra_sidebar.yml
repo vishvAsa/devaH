@@ -57,10 +57,10 @@ contents:
     contents:
       - title: संस्काराः
         contents:
-          - url: dir://kalpa/Apastamba/saMskAra
+          - url: dir://kalpa/sUtra/Apastamba/saMskAra
       - title: परिशिष्टकर्माणि
         contents:
-          - url: dir://kalpa/Apastamba/
+          - url: dir://kalpa/sUtra/Apastamba/
       - title: सूत्राणि
         contents:
           - title: धर्मसूत्राणि
@@ -69,52 +69,56 @@ contents:
                 contents:
                   - title: अर्हणम्
                     contents:
-                      - url: dir://kalpa/Apastamba/pramANAni/dharma-sUtra/kriyAH/arhaNam
+                      - url: dir://kalpa/sUtra/Apastamba/pramANAni/dharma-sUtra/kriyAH/arhaNam
                   - title: शौचम्
                     contents:
-                      - url: dir://kalpa/Apastamba/pramANAni/dharma-sUtra/kriyAH/shaucham
-                  - url: dir://kalpa/Apastamba/pramANAni/dharma-sUtra/kriyAH
+                      - url: dir://kalpa/sUtra/Apastamba/pramANAni/dharma-sUtra/kriyAH/shaucham
+                  - url: dir://kalpa/sUtra/Apastamba/pramANAni/dharma-sUtra/kriyAH
               - title: आश्रमः
                 contents:
-                    - url: dir://kalpa/Apastamba/pramANAni/dharma-sUtra/pAtra/Ashrama
+                    - url: dir://kalpa/sUtra/Apastamba/pramANAni/dharma-sUtra/pAtra/Ashrama
               - title: पात्राणि
                 contents:
-                  - url: dir://kalpa/Apastamba/pramANAni/dharma-sUtra/pAtra
+                  - url: dir://kalpa/sUtra/Apastamba/pramANAni/dharma-sUtra/pAtra
               - title: तत्त्वानि
                 contents:
-                  - url: dir://kalpa/Apastamba/pramANAni/dharma-sUtra/tattvAni
+                  - url: dir://kalpa/sUtra/Apastamba/pramANAni/dharma-sUtra/tattvAni
           - title: गृह्यसूत्राणि
             contents:
               - title: अङ्गानि
                 contents:
-                  - url: dir://kalpa/Apastamba/pramANAni/gRhya/angAni
+                  - url: dir://kalpa/sUtra/Apastamba/pramANAni/gRhya/angAni
               - title: कर्माणि
                 contents:
-                  - url: dir://kalpa/Apastamba/pramANAni/gRhya/karmANi
+                  - url: dir://kalpa/sUtra/Apastamba/pramANAni/gRhya/karmANi
           - title: श्रौतसूत्राणि
             contents:
               - title: अङ्गानि
                 contents:
-                  - url: dir://kalpa/Apastamba/pramANAni/shrauta/angAni
+                  - url: dir://kalpa/sUtra/Apastamba/pramANAni/shrauta/angAni
               - title: तत्त्वानि
                 contents:
-                  - url: dir://kalpa/Apastamba/pramANAni/tattvAni/angAni
+                  - url: dir://kalpa/sUtra/Apastamba/pramANAni/tattvAni/angAni
   - title: कल्पः बोधयनोक्तः
     contents:
-        - url: dir://kalpa/bodhAyana
+        - url: dir://kalpa/sUtra/bodhAyana
         - title: गृह्यसूत्राणि
           contents:
-            - url: dir://kalpa/bodhAyana/pramANAni/gRhya/tattvAni
-            - url: dir://kalpa/bodhAyana/pramANAni/gRhya/karmANi
+            - url: dir://kalpa/sUtra/bodhAyana/pramANAni/gRhya/tattvAni
+            - url: dir://kalpa/sUtra/bodhAyana/pramANAni/gRhya/karmANi
         - title: श्रौतसूत्राणि
           contents:
             - title: अङ्गानि
               contents:
-                - url: dir://kalpa/bodhAyana/pramANAni/shrauta/angAni
-  - title: ब्राह्मणानि
+                - url: dir://kalpa/sUtra/bodhAyana/pramANAni/shrauta/angAni
+  - title: तैत्तिरीयब्राह्मणम्
     contents:
-      - url: dir://kalpa/brAhmaNa/kriyA
-      - url: dir://kalpa/brAhmaNa/tattva
+      - url: dir://kalpa/brAhmaNa/taittirIya/kriyA
+      - url: dir://kalpa/brAhmaNa/taittirIya/tattva
+  - title: वाजसनेयब्राह्मणम्
+    contents:
+      - url: dir://kalpa/brAhmaNa/vAjasaneya/kriyA
+      - url: dir://kalpa/brAhmaNa/vAjasaneya/tattva
   - title: कल्पे ऽस्मन्निश्चयः
     contents:
         - title: प्रवेशः
