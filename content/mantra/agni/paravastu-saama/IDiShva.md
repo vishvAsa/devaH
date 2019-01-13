@@ -21,6 +21,9 @@ RV.8.23.1b; SV.1.103b.
 ## साम
 
 - पारम्परिक-गान-मूलम् [अत्र](https://sanskritdocuments.org/sites/pssramanujaswamy/VIVAAHA%20UPANAYANA%20SAAMAANI.pdf&sa=D&ust=1542425956349000)।
+
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/IDiShva-correct.mp3"></div>
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/IDiShva.mp3"></div>
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
@@ -34,6 +37,6 @@ RV.8.23.1b; SV.1.103b.
 
 या+++([तै]३%)+++जस्+++(२)+++ वा+++(३)+++, जा+++(३")+++,ता+++([घै])+++वे+++(३)+++,दासा+++(३")+++अम् ।
 
-चा+++([पी])+++रीष्णु+++(~~ष्म~~)+++धूमा+++([टू]%)+++म् +आ+++(")+++अ,,ग्री+++([टी] ~~ग्नी~~)+++भा+++(३")+++अइ,,ता+++([पे]""३)+++अशोऒऒ।
+चा+++([पी])+++रीष्णु+++(~~ष्म~~)+++धूमा+++([टू]%)+++म् +आ+++(")+++अ,,गॄ+++([टी] ~~ग्नी~~)+++भा+++(३")+++अइ,,ता+++([पे]""३)+++अशोऒऒ।
 
 औ+++(["])+++हो+++(["]%३)+++वा+++(३-")+++आ। ची+++([टू]३%)+++षा+++(")+++अम्।
