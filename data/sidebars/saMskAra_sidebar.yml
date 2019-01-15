@@ -53,6 +53,8 @@ contents:
             - title: शिष्टम्
               contents:
                 - url: dir://mantra/sangrahAH/
+        - url: dir://mantra/
+        - url: dir://mantra/meta/
   - title: कल्पः आपस्तम्बोक्तः
     contents:
       - title: संस्काराः
