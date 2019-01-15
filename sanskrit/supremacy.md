@@ -7,8 +7,8 @@ emphasis_as_inline_comments: true
 
 सङ्क्षेपेण वक्तव्यं चेद् एवं मन्यमानैर् ब्राह्मणप्रधानैर् दक्षैर् भाषाशिक्षकैस् तद्रक्षणं प्रचारश्च –
 
-- “वेदोऽखिलो धर्ममूलम्।” इत्यादिः।
-- वेदादीनां रक्षा, पोषणञ्च संस्कृतेनेति\- “भाषां वाऽपि जनं वाऽपि धर्मो रक्षिति रक्षितः।”
+- "वेदोऽखिलो धर्ममूलम्।" इत्यादिः।
+- वेदादीनां रक्षा, पोषणञ्च संस्कृतेनेति\- "भाषां वाऽपि जनं वाऽपि धर्मो रक्षिति रक्षितः।"
 - संस्कारेणार्ष-मार्ग-ग्रहणं श्रेयस इति। तत्र पद्यम् कुतश्चिदुद्धृतम्-
 
 चलनाद् वलनान् नृत्यं गानं  
@@ -18,7 +18,7 @@ emphasis_as_inline_comments: true
 
 [![](https://i1.wp.com/i.imgur.com/3cld8L9.jpg)](http://i.imgur.com/3cld8L9.jpg)
 
-“Sanskrit as a supreme language” by Ashok Aklujkar \[[Arch](https://archive.org/stream/paNDit-papers/AklujkarAEarlyHistorySktSuprem#page/n9/mode/2up)\] is a very pertinent read. Some excerpts follow, with some added formatting. My notes are marked in bold like this: (**KV: …**). The most important section is the one titled: “Emergence of dominance”.
+"Sanskrit as a supreme language" by Ashok Aklujkar \[[Arch](https://archive.org/stream/paNDit-papers/AklujkarAEarlyHistorySktSuprem#page/n9/mode/2up)\] is a very pertinent read. Some excerpts follow, with some added formatting. My notes are marked in bold like this: (**KV: …**). The most important section is the one titled: "Emergence of dominance".
 
 ## Phases of Sanskrit
 
