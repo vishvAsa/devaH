@@ -12,7 +12,7 @@ emphasis_as_inline_comments: true
 - यथाश्रुतानुकरणम् प्रधानम्। लिखितपाठो गौणः, किञ्च कदाचिद् ग्राह्यतरः (सम्प्रदाये कदाचित् सन्देहास्पदा वर्णव्यत्ययास् तत्र तत्र विद्यन्ते)।
   - स्वरचिह्नानि किमर्थानीति सम्प्रदाये ज्ञानं नष्टप्रायम्। स्वरचिह्नानि कानीत्यवगन्तुं प्रयत्नो [ऽत्र](https://docs.google.com/document/d/1dHkElOzXoAue48_xVgP-LAlSSpmMQ9QKjUrnSazEG1M/edit#heading=h.xyzfui7ansvz)। 
 - वर्णालङ्काराः मुख्यतमाः। यथा - प्रेङ्खास्वरः, गमकस्य विविधनिवेशनानि, मात्राः। 
-
+- सम्बद्धटिप्पणयो [ऽत्र](/notes/artha/skills/singing.html)।
 
 ### santhA recordings
 I practiced a few saamans using our santhA recordings. It was a wonderful experience - as if the guru were right here teaching me. This made me very excited - because not only will my apasvaras decrease as a result, it also opened the possibility of recording such santhA-s for all the sAman-s, so that even after I move away, I can use them to continue my practice and master them in due course, before occasionally scheduling an online zoom session with the teacher so that he can test and refine!
