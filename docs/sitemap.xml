@@ -3,1946 +3,2064 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/bloodlines/</loc>
+    <loc>file:///android_asset/docs/bloodlines/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/sanskrit/vocabularybuilder/readme/</loc>
+    <loc>file:///android_asset/docs/mantra/misc-devas/paravastu-saama/somam-rajanam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/sanskrit/why/</loc>
+    <loc>file:///android_asset/docs/sanskrit/vocabularybuilder/readme/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/general/aradhanam/</loc>
+    <loc>file:///android_asset/docs/sanskrit/why/</loc>
+  </url>
+  
+  <url>
+    <loc>file:///android_asset/docs/kalpa/general/aradhanam/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/categories/</loc>
+    <loc>file:///android_asset/docs/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/jyotisha/diurnal_plane/</loc>
+    <loc>file:///android_asset/docs/jyotisha/diurnal_plane/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kaavya/</loc>
+    <loc>file:///android_asset/docs/sanskrit/misc-faq/</loc>
+  </url>
+  
+  <url>
+    <loc>file:///android_asset/docs/sanskrit/misconceptions/</loc>
+  </url>
+  
+  <url>
+    <loc>file:///android_asset/docs/kalpa/sutra/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/sanskrit/misc-faq/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vvasuki.github.io/saMskAra/sanskrit/misconceptions/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vvasuki.github.io/saMskAra/search/</loc>
+    <loc>file:///android_asset/docs/search/</loc>
     <priority>0.1</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/</loc>
+    <loc>file:///android_asset/docs/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kaavya/videos/</loc>
+    <loc>file:///android_asset/docs/mantra/agni/paravastu-saama/barhishiyam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/agni/paravastu-saama/agna-ayumshi/</loc>
+    <loc>file:///android_asset/docs/mantra/agni/paravastu-saama/agna-ayumshi/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/general/aradhanam/homa/angani/agni/</loc>
+    <loc>file:///android_asset/docs/kalpa/general/aradhanam/homa/angani/agni/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/agnirayushman/</loc>
+    <loc>file:///android_asset/docs/mantra/misc-devas/rk/agnirayushman/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/agni/rk/agne-naya-supatha/</loc>
+    <loc>file:///android_asset/docs/mantra/agni/paravastu-saama/agnir-murdha/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/agni/paravastu-saama/agne-raxa/</loc>
+    <loc>file:///android_asset/docs/mantra/agni/rk/agne-naya-supatha/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/agni/paravastu-saama/agnir-murdha/</loc>
+    <loc>file:///android_asset/docs/mantra/agni/paravastu-saama/agne-raxa/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/agni/rk/mrgaram/</loc>
+    <loc>file:///android_asset/docs/mantra/agni/rk/mrgaram/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%85%E0%A4%97%E0%A5%8D%E0%A4%A8%E0%A5%8C-%E0%A4%9A%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%85%E0%A4%97%E0%A5%8D%E0%A4%A8%E0%A5%8C-%E0%A4%9A%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/kriyah/arhanam/agnau-charya/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/kriyah/arhanam/agnau-charya/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/grhya/angani/agnih/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/grhya/angani/agnih/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/anjo-vairupam/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/shrauta/angani/agni-charya/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%85%E0%A4%A4%E0%A4%BF%E0%A4%A5%E0%A4%BF%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/mantra/indra/paravastu-saama/anjo-vairupam/</loc>
+  </url>
+  
+  <url>
+    <loc>file:///android_asset/docs/tags/%E0%A4%85%E0%A4%A4%E0%A4%BF%E0%A4%A5%E0%A4%BF%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%85%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B6%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%85%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B6%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/sangrahah/paravastu-saama/adhishravana/</loc>
+    <loc>file:///android_asset/docs/mantra/sangrahah/paravastu-saama/adhishravana/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%85%E0%A4%A7%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%A4%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%85%E0%A4%A7%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%A4%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%AF%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%AF%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/kriyah/adhyayanam/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/kriyah/adhyayanam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/grhya/karmani/adhyayanam/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/shrauta/angani/adhyayanam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AA%E0%A4%95%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AA%E0%A4%95%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/general/aradhanam/homa/visheshah/upakarma/</loc>
+    <loc>file:///android_asset/docs/kalpa/general/aradhanam/homa/visheshah/upakarma/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%85%E0%A4%A8%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%85%E0%A4%A8%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>file:///android_asset/docs/mantra/agni/rk/anajjnata-prayashcitta/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/general/aradhanam/homa/angani/anujjna/</loc>
+    <loc>file:///android_asset/docs/kalpa/general/aradhanam/homa/angani/anujjna/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/grhya/karmani/anna-prashanam/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/grhya/karmani/anna-prashanam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/brahmana/apah-prayanayati/</loc>
+    <loc>file:///android_asset/docs/kalpa/brahmana/taittiriya/kriya/apah-prayanayati/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/general/angani/manah/apam-upasparshah/</loc>
+    <loc>file:///android_asset/docs/kalpa/general/angani/manah/apam-upasparshah/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/indra/rk/apratiratham/</loc>
+    <loc>file:///android_asset/docs/mantra/indra/rk/apratiratham/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%85%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8D-%E0%A4%90%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%85%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A5%8D-%E0%A4%90%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%85%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AF%E0%A4%A4%E0%A4%A4%E0%A4%BE/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%85%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AF%E0%A4%A4%E0%A4%A4%E0%A4%BE/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/agni/paravastu-saama/abodhyagnih/</loc>
+    <loc>file:///android_asset/docs/mantra/agni/paravastu-saama/abodhyagnih/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/soma/paravastu-saama/abhi-priyani-pavate/</loc>
+    <loc>file:///android_asset/docs/mantra/soma/paravastu-saama/abhi-priyani-pavate/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AE%E0%A5%83%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AE%E0%A5%83%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%A6%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%A6%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/kriyah/arhanam/abhivadanam/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/kriyah/arhanam/abhivadanam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/general/aradhanam/abhivadanam/</loc>
+    <loc>file:///android_asset/docs/kalpa/general/aradhanam/abhivadanam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/misc-devas/yajus/abhyatanah/</loc>
+    <loc>file:///android_asset/docs/mantra/misc-devas/yajus/abhyatanah/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%85%E0%A4%AD%E0%A5%8D%E0%A4%AF%E0%A5%81%E0%A4%A6%E0%A4%BF%E0%A4%A4%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%85%E0%A4%AD%E0%A5%8D%E0%A4%AF%E0%A5%81%E0%A4%A6%E0%A4%BF%E0%A4%A4%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%85%E0%A4%AE%E0%A4%BE%E0%A4%B5%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%BE/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%85%E0%A4%AE%E0%A4%BE%E0%A4%B5%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%BE/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/kriyah/shaucham/parva/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/kriyah/shaucham/parva/</loc>
+    <loc>file:///android_asset/docs/mantra/agni/rk/ayashcha/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/agni/rk/ayashcha/</loc>
+    <loc>file:///android_asset/docs/mantra/indra/paravastu-saama/archata-prarchata/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/archata-prarchata/</loc>
+    <loc>file:///android_asset/docs/mantra/indra/paravastu-saama/archantyarkam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/archantyarkam/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/grhya/karmani/artha-siddhi/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%85%E0%A4%B5%E0%A4%AE%E0%A5%87%E0%A4%B9%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%85%E0%A4%B5%E0%A4%AE%E0%A5%87%E0%A4%B9%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%85%E0%A4%B6%E0%A5%8C%E0%A4%9A%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%85%E0%A4%B6%E0%A5%8C%E0%A4%9A%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/tattvani/ashaucham/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/tattvani/ashaucham/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/general/aradhanam/shraddham/ashtaka/</loc>
+    <loc>file:///android_asset/docs/kalpa/general/aradhanam/shraddham/ashtaka/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/brahmana/shatapatha_asura_parabhava/</loc>
+    <loc>file:///android_asset/docs/kalpa/brahmana/vajasaneya/tattva/shatapatha_asura_parabhava/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%85%E0%A4%B8%E0%A5%82%E0%A4%AF%E0%A4%BE/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%85%E0%A4%B8%E0%A5%82%E0%A4%AF%E0%A4%BE/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/aham-rudrebhih/</loc>
+    <loc>file:///android_asset/docs/mantra/misc-devas/rk/aham-rudrebhih/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%85%E0%A4%B9%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A4%BF-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%AE%E0%A4%9C%E0%A4%BE%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%85%E0%A4%B9%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A4%BF-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%AE%E0%A4%9C%E0%A4%BE%E0%A4%83/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>file:///android_asset/docs/mantra/misc-devas/rk/ahamasmi-prathamaja/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/ahamasmi-prathamaja/</loc>
+    <loc>file:///android_asset/docs/mantra/agni/paravastu-saama/a-vo-rajanam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/agni/paravastu-saama/a-vo-rajanam/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/shrauta/angani/shulba/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/general/aradhanam/homa/visheshah/agrayanam/</loc>
+    <loc>file:///android_asset/docs/kalpa/general/aradhanam/homa/visheshah/agrayanam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/bloodlines/aangiirasa/</loc>
+    <loc>file:///android_asset/docs/bloodlines/aangiirasa/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%86%E0%A4%9A%E0%A4%AE%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%86%E0%A4%9A%E0%A4%AE%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/general/angani/manah/achamanam/</loc>
+    <loc>file:///android_asset/docs/kalpa/general/angani/manah/achamanam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0-%E0%A4%97%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0-%E0%A4%97%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/patra/acharya/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/patra/acharya/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%86%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A4%B9%E0%A5%8B%E0%A4%AE%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%86%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A4%B9%E0%A5%8B%E0%A4%AE%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%86%E0%A4%A4%E0%A4%BF%E0%A4%A5%E0%A5%8D%E0%A4%AF%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%86%E0%A4%A4%E0%A4%BF%E0%A4%A5%E0%A5%8D%E0%A4%AF%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/kriyah/arhanam/atithyam/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/kriyah/arhanam/atithyam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%86%E0%A4%A4%E0%A5%8D%E0%A4%AE%E0%A4%BE/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%86%E0%A4%A4%E0%A5%8D%E0%A4%AE%E0%A4%BE/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/kriyah/shaucham/ananda/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/kriyah/shaucham/ananda/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/soma/paravastu-saama/adishadiyyam/</loc>
+    <loc>file:///android_asset/docs/mantra/soma/paravastu-saama/adishadiyyam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%86%E0%A4%A8%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%86%E0%A4%A8%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A4%83/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/</loc>
+    <loc>file:///android_asset/docs/kalpa/brahmana/taittiriya/tattva/apo-va-idam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/brahmana/apo-va-idam/</loc>
+    <loc>file:///android_asset/docs/mantra/misc-devas/rk/apo-hi-shtha/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/apo-hi-shtha/</loc>
+    <loc>file:///android_asset/docs/mantra/indra/rk/abhir-girbhih/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/misc-devas/paravastu-saama/aruhan/</loc>
+    <loc>file:///android_asset/docs/mantra/misc-devas/paravastu-saama/aruhan/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/arohorum/</loc>
+    <loc>file:///android_asset/docs/mantra/misc-devas/rk/arohorum/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/grhya/angani/alambha/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/grhya/angani/alambha/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/sangrahah/paravastu-saama/ashirvachana/</loc>
+    <loc>file:///android_asset/docs/mantra/sangrahah/paravastu-saama/ashirvachana/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%86%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%86%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/ashva-suktam/</loc>
+    <loc>file:///android_asset/docs/mantra/indra/paravastu-saama/ashva-suktam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/general/aradhanam/homa/angani/ahuti/</loc>
+    <loc>file:///android_asset/docs/kalpa/general/aradhanam/homa/angani/ahuti/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/indran-naro-grama-geyam/</loc>
+    <loc>file:///android_asset/docs/mantra/indra/paravastu-saama/indran-naro-grama-geyam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/indran-naro-nishvaset/</loc>
+    <loc>file:///android_asset/docs/mantra/indra/paravastu-saama/indran-naro-nishvaset/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/indra/yajus/indraya-tva/</loc>
+    <loc>file:///android_asset/docs/mantra/indra/yajus/indraya-tva/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%87%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AF-%E0%A4%A8%E0%A4%BF%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%87%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AF-%E0%A4%A8%E0%A4%BF%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%87%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AF-%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%87%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AF-%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/kriyah/shaucham/indriya-nigrahah/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/kriyah/shaucham/indriya-nigrahah/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/agni/paravastu-saama/idishva/</loc>
+    <loc>file:///android_asset/docs/mantra/agni/paravastu-saama/idishva/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/general/aradhanam/bali/ishana-bali/</loc>
+    <loc>file:///android_asset/docs/kalpa/general/aradhanam/bali/ishana-bali/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/soma/paravastu-saama/uchcha-te/</loc>
+    <loc>file:///android_asset/docs/mantra/soma/paravastu-saama/uchcha-te/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%89%E0%A4%9A%E0%A5%8D%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%89%E0%A4%9A%E0%A5%8D%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%89%E0%A4%9E%E0%A5%8D%E0%A4%9B%E0%A4%B5%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%89%E0%A4%9E%E0%A5%8D%E0%A4%9B%E0%A4%B5%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%95%E0%A5%8B%E0%A4%9A%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%95%E0%A5%8B%E0%A4%9A%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/sangrahah/paravastu-saama/udakashanti/</loc>
+    <loc>file:///android_asset/docs/mantra/sangrahah/paravastu-saama/udakashanti/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/bodhayana/udakashaanti/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/bodhayana/udakashanti/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/misc-devas/paravastu-saama/unnayami/</loc>
+    <loc>file:///android_asset/docs/mantra/misc-devas/paravastu-saama/unnayami/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%89%E0%A4%AA%E0%A4%9C%E0%A5%80%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BE/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%89%E0%A4%AA%E0%A4%9C%E0%A5%80%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BE/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A4%AF%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A4%AF%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/patra/ashrama/upanayanam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/patra/ashrama/upanayanam/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/grhya/karmani/upanayana/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%87%E0%A4%A4%E0%A4%BE/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%87%E0%A4%A4%E0%A4%BE/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%89%E0%A4%AA%E0%A4%B5%E0%A4%BE%E0%A4%B8-%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%B2%E0%A5%8D%E0%A4%AA%E0%A4%BE%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%89%E0%A4%AA%E0%A4%B5%E0%A4%BE%E0%A4%B8-%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%B2%E0%A5%8D%E0%A4%AA%E0%A4%BE%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%89%E0%A4%AA%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%AE/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%89%E0%A4%AA%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%AE/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%8A%E0%A4%B0%E0%A5%8D%E0%A4%A7%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A5%87%E0%A4%A4%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%8A%E0%A4%B0%E0%A5%8D%E0%A4%A7%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A5%87%E0%A4%A4%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/sangrahah/paravastu-saama/rtu-shanti/</loc>
+    <loc>file:///android_asset/docs/mantra/sangrahah/paravastu-saama/rtu-shanti/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%8B%E0%A4%A4%E0%A5%81%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%B5%E0%A5%87%E0%A4%B6%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%8B%E0%A4%A4%E0%A5%81%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%B5%E0%A5%87%E0%A4%B6%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%8B%E0%A4%B7%E0%A4%AF%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%8B%E0%A4%B7%E0%A4%AF%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/eto-nvindram/</loc>
+    <loc>file:///android_asset/docs/mantra/indra/paravastu-saama/eto-nvindram/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/soma/paravastu-saama/eshasya-dharaya/</loc>
+    <loc>file:///android_asset/docs/mantra/soma/paravastu-saama/eshasya-dharaya/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%93%E0%A4%AE%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%93%E0%A4%AE%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%94%E0%A4%AA%E0%A4%BE%E0%A4%B8%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%94%E0%A4%AA%E0%A4%BE%E0%A4%B8%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/grhya/karmani/aupasanam/</loc>
+    <loc>file:///android_asset/docs/kalpa/general/aradhanam/homa/visheshah/aupasanam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/general/aradhanam/homa/visheshah/aupasanam/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/grhya/karmani/aupasanam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/misc-devas/paravastu-saama/ka-im-vyaktah/</loc>
+    <loc>file:///android_asset/docs/mantra/misc-devas/paravastu-saama/ka-im-vyaktah/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%AE-%E0%A4%AB%E0%A4%B2%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%AE-%E0%A4%AB%E0%A4%B2%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%AE-%E0%A4%B5%E0%A4%BF%E0%A4%AA%E0%A4%BE%E0%A4%95%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%AE-%E0%A4%B5%E0%A4%BF%E0%A4%AA%E0%A4%BE%E0%A4%95%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/</loc>
+    <loc>file:///android_asset/docs/kalpa/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/bodhayana/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/bodhayana/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%95%E0%A4%BE%E0%A4%AE%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%95%E0%A4%BE%E0%A4%AE%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/tattvani/kama/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/tattvani/kama/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%95%E0%A4%BE%E0%A4%AE%E0%A5%8D%E0%A4%AF-%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%95%E0%A4%BE%E0%A4%AE%E0%A5%8D%E0%A4%AF-%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/grhya/angani/kaala/</loc>
+  </url>
+  
+  <url>
+    <loc>file:///android_asset/docs/kalpa/general/angani/kaala/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/grhya/angani/kaala/</loc>
+    <loc>file:///android_asset/docs/mantra/agni/rk/krnushva-pajah/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/general/angani/kaala/</loc>
+    <loc>file:///android_asset/docs/bloodlines/kaushika/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/agni/rk/krnushva-pajah/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/grhya/angani/krama/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/bloodlines/kaushika/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/shrauta/angani/krama/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/grhya/angani/krama/</loc>
+    <loc>file:///android_asset/docs/kalpa/brahmana/vajasaneya/kriya/krama/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%A7%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%A7%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/krosham/</loc>
+    <loc>file:///android_asset/docs/mantra/indra/paravastu-saama/krosham/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/grhya/karmani/xipra-suvanam/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/grhya/karmani/xipra-suvanam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%97%E0%A4%A8%E0%A5%8D%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B9%E0%A5%81%E0%A4%A4%E0%A4%AF%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%97%E0%A4%A8%E0%A5%8D%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B9%E0%A5%81%E0%A4%A4%E0%A4%AF%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/garam/</loc>
+    <loc>file:///android_asset/docs/mantra/indra/paravastu-saama/garam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A4%B8%E0%A5%8D%E0%A4%A5-%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A4%B8%E0%A5%8D%E0%A4%A5-%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/patra/ashrama/grhastha/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/patra/ashrama/grhastha/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/bloodlines/pics/</loc>
+    <loc>file:///android_asset/docs/bloodlines/pics/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%97%E0%A5%8C%E0%A4%B0%E0%A4%B5-%E0%A4%A6%E0%A4%B0%E0%A5%8D%E0%A4%B6%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%97%E0%A5%8C%E0%A4%B0%E0%A4%B5-%E0%A4%A6%E0%A4%B0%E0%A5%8D%E0%A4%B6%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/kriyah/arhanam/gaurava-darshanam/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/kriyah/arhanam/gaurava-darshanam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/gaushuktam/</loc>
+    <loc>file:///android_asset/docs/mantra/indra/paravastu-saama/gaushuktam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/agni/rk/chaxusho-hete/</loc>
+    <loc>file:///android_asset/docs/mantra/agni/rk/chaxusho-hete/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%9A%E0%A5%8C%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A4%E0%A4%BE/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%9A%E0%A5%8C%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A4%E0%A4%BE/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/grhya/karmani/chaulam/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/grhya/karmani/chaulam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/sanskrit/shixaa/chandas/</loc>
+    <loc>file:///android_asset/docs/sanskrit/shixaa/chandas/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/misc-devas/yajus/jayadi/</loc>
+    <loc>file:///android_asset/docs/mantra/misc-devas/yajus/jayadi/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/agni/paravastu-saama/jarabodha/</loc>
+    <loc>file:///android_asset/docs/mantra/agni/paravastu-saama/jarabodha/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/grhya/karmani/jatakarma/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/grhya/karmani/jatakarma/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/samskara/jaatakarma-naamakarana/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/samskara/jatakarma-namakarana/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/agni/rk/jatavedase-sunavama/</loc>
+    <loc>file:///android_asset/docs/mantra/agni/rk/jatavedase-sunavama/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/custom_site_search/</loc>
+    <loc>file:///android_asset/docs/custom_site_search/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%A4%E0%A4%AA%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%A4%E0%A4%AA%E0%A4%83/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>file:///android_asset/docs/mantra/soma/paravastu-saama/tarat-sa-mandi/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/soma/paravastu-saama/tarat-sa-mandi/</loc>
+    <loc>file:///android_asset/docs/kalpa/general/aradhanam/tarpanam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/general/aradhanam/tarpanam/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/grhya/karmani/tarpanam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/tava-tyan-naryam/</loc>
+    <loc>file:///android_asset/docs/mantra/indra/paravastu-saama/tava-tyan-naryam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/soma/paravastu-saama/tavaham-mahavairajam/</loc>
+    <loc>file:///android_asset/docs/mantra/soma/paravastu-saama/tavaham-mahavairajam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/jyotisha/taramandala/</loc>
+    <loc>file:///android_asset/docs/jyotisha/taramandala/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/misc-devas/paravastu-saama/tyamu-shu/</loc>
+    <loc>file:///android_asset/docs/mantra/misc-devas/paravastu-saama/tyamu-shu/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/trataram-indram/</loc>
+    <loc>file:///android_asset/docs/mantra/indra/paravastu-saama/trataram-indram/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/sanskrit/shixaa/ekashruti/</loc>
+    <loc>file:///android_asset/docs/sanskrit/shixaa/ekashruti/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/tvavatah/</loc>
+    <loc>file:///android_asset/docs/mantra/indra/paravastu-saama/tvavatah/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/indra/rk/tve-suputra/</loc>
+    <loc>file:///android_asset/docs/mantra/indra/rk/tve-suputra/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%A6%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%A6%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/kriyah/shaucham/dandanam/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/kriyah/shaucham/dandanam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%A6%E0%A4%AE%E0%A5%8D%E0%A4%AD%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%A6%E0%A4%AE%E0%A5%8D%E0%A4%AD%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%A6%E0%A4%BE%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%A6%E0%A4%BE%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/kriyah/arhanam/danam/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/kriyah/arhanam/danam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/grhya/angani/daanam/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/grhya/angani/daanam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%A6%E0%A4%BE%E0%A4%AF%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%A6%E0%A4%BE%E0%A4%AF%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/tattvani/dayabhaga/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/tattvani/dayabhaga/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/samskara/digvapanam/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/grhya/karmani/digvapanam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/agni/rk/divaspari/</loc>
+    <loc>file:///android_asset/docs/mantra/agni/rk/divaspari/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/soma/paravastu-saama/dirgham/</loc>
+    <loc>file:///android_asset/docs/mantra/soma/paravastu-saama/dirgham/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%A6%E0%A5%80%E0%A4%B5%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%A6%E0%A5%80%E0%A4%B5%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/kriyah/divanam/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/kriyah/divanam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%A6%E0%A5%87%E0%A4%B5%E0%A5%80-%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%A6%E0%A5%87%E0%A4%B5%E0%A5%80-%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/devim-vacham/</loc>
+    <loc>file:///android_asset/docs/mantra/misc-devas/rk/devim-vacham/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%A6%E0%A5%8B%E0%A4%B7%E0%A4%BE%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%A6%E0%A5%8B%E0%A4%B7%E0%A4%BE%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%A4%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%A4%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/general/angani/dravya/</loc>
+    <loc>file:///android_asset/docs/kalpa/general/angani/dravya/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/druho-munchami/</loc>
+    <loc>file:///android_asset/docs/mantra/misc-devas/rk/druho-munchami/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%A3%E0%A4%BF/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%A3%E0%A4%BF/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/tattvani/dharmah/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/tattvani/dharmah/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A5%87-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A5%87-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/tattvani/dharme-pramanam/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/tattvani/dharme-pramanam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/dhata-dadatu/</loc>
+    <loc>file:///android_asset/docs/mantra/misc-devas/rk/dhata-dadatu/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/general/aradhanam/dhyana/</loc>
+    <loc>file:///android_asset/docs/kalpa/general/aradhanam/dhyana/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/misc-devas/yajus/dhruva/</loc>
+    <loc>file:///android_asset/docs/mantra/misc-devas/yajus/dhruva/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/naxatra-suuktam/</loc>
+    <loc>file:///android_asset/docs/mantra/misc-devas/rk/naxatra-suuktam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/agni/paravastu-saama/namas-te-agne/</loc>
+    <loc>file:///android_asset/docs/mantra/agni/paravastu-saama/namas-te-agne/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/namo-brahmane/</loc>
+    <loc>file:///android_asset/docs/mantra/misc-devas/rk/namo-brahmane/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/namo-astu-sarpebhyah/</loc>
+    <loc>file:///android_asset/docs/mantra/misc-devas/rk/namo-astu-sarpebhyah/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/nanadam/</loc>
+    <loc>file:///android_asset/docs/mantra/indra/paravastu-saama/nanadam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%A8%E0%A4%BE%E0%A4%AE/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%A8%E0%A4%BE%E0%A4%AE/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/grhya/karmani/namakarana/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/grhya/karmani/namakarana/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%A8%E0%A4%BE%E0%A4%AE%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%A8%E0%A4%BE%E0%A4%AE%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>file:///android_asset/docs/kalpa/sutra/bodhayana/pramanani/grhya/karmani/namakarana/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/nasadiyam/</loc>
+    <loc>file:///android_asset/docs/mantra/misc-devas/rk/nasadiyam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%A8%E0%A4%BE%E0%A4%B8%E0%A4%A6%E0%A5%80%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%A8%E0%A4%BE%E0%A4%B8%E0%A4%A6%E0%A5%80%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%A8%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%AF-%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%A8%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%AF-%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%A8%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A4%BE/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%A8%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A4%BE/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/kriyah/nidra/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/kriyah/nidra/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%E0%A4%BE%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%E0%A4%BE%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/kriyah/shaucham/niyama/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/kriyah/shaucham/niyama/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%BE%E0%A4%B2%E0%A4%AF%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%BE%E0%A4%B2%E0%A4%AF%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/general/angani/manah/nyasa/</loc>
+    <loc>file:///android_asset/docs/kalpa/general/angani/manah/nyasa/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/misc-devas/yajus/pancha-chodah/</loc>
+    <loc>file:///android_asset/docs/mantra/misc-devas/yajus/pancha-chodah/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%AA%E0%A4%A4%E0%A4%BF%E0%A4%A4-%E0%A4%AA%E0%A5%81%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%AA%E0%A4%A4%E0%A4%BF%E0%A4%A4-%E0%A4%AA%E0%A5%81%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%AA%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%AA%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A5%80/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A5%80/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/patra/ashrama/patni/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/patra/ashrama/patni/</loc>
+    <loc>file:///android_asset/docs/mantra/meta/paravastu-sama/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/jyotisha/</loc>
+    <loc>file:///android_asset/docs/jyotisha/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/general/aradhanam/bali/</loc>
+    <loc>file:///android_asset/docs/kalpa/general/aradhanam/bali/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%AA%E0%A4%B0%E0%A5%80%E0%A4%B5%E0%A4%BE%E0%A4%A6%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%AA%E0%A4%B0%E0%A5%80%E0%A4%B5%E0%A4%BE%E0%A4%A6%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%B5/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%B5/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/shrauta/tattvani/parva/</loc>
+  </url>
+  
+  <url>
+    <loc>file:///android_asset/docs/mantra/soma/paravastu-saama/pavamana/</loc>
+  </url>
+  
+  <url>
+    <loc>file:///android_asset/docs/mantra/misc-devas/paravastu-saama/pavitran-te/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/soma/paravastu-saama/pavamana/</loc>
+    <loc>file:///android_asset/docs/mantra/misc-devas/rk/pashyema-sharadah/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/pashyema-sharadah/</loc>
+    <loc>file:///android_asset/docs/mantra/agni/rk/pakatra/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/grhya/karmani/pakayajjna/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/grhya/karmani/pakayajjna/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/paaka-yajjna-agnihotra-riitih/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/paaka-yajjna-agnihotra-riitih/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/general/aradhanam/homa/angani/patra/</loc>
+    <loc>file:///android_asset/docs/kalpa/general/aradhanam/homa/angani/patra/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/general/angani/manah/papa-nashanam/</loc>
+    <loc>file:///android_asset/docs/kalpa/general/angani/manah/papa-nashanam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%AA%E0%A4%BE%E0%A4%AA%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%AA%E0%A4%BE%E0%A4%AA%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/tattvani/paapam/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/tattvani/paapam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/piba-somam-mahavairajam/</loc>
+    <loc>file:///android_asset/docs/mantra/indra/paravastu-saama/piba-somam-mahavairajam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/piba-somam/</loc>
+    <loc>file:///android_asset/docs/mantra/indra/paravastu-saama/piba-somam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/grhya/karmani/pumsavanam/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/grhya/karmani/pumsavanam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%AA%E0%A5%81%E0%A4%A3%E0%A5%8D%E0%A4%AF%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%AA%E0%A5%81%E0%A4%A3%E0%A5%8D%E0%A4%AF%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%AA%E0%A5%81%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%AA%E0%A5%81%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%83/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/patra/praja/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/patra/praja/</loc>
+    <loc>file:///android_asset/docs/mantra/agni/rk/punas-tva-adityah/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BF%E0%A4%B7-%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B8%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BF%E0%A4%B7-%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B8%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/general/angani/purohita-prayoga/</loc>
+    <loc>file:///android_asset/docs/kalpa/general/angani/purohita-prayoga/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%A3%E0%A4%BF%E0%A4%AE%E0%A4%BE/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%A3%E0%A4%BF%E0%A4%AE%E0%A4%BE/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%9C-%E0%A4%B8%E0%A4%BE%E0%A4%B9%E0%A4%B8%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%9C-%E0%A4%B8%E0%A4%BE%E0%A4%B9%E0%A4%B8%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/prthivi-shantih/</loc>
+    <loc>file:///android_asset/docs/mantra/misc-devas/rk/prthivi-shantih/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%AA%E0%A5%8C%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%95-%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%AA%E0%A5%8C%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%95-%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/general/aradhanam/homa/angani/paushtika-homah/</loc>
+    <loc>file:///android_asset/docs/kalpa/general/aradhanam/homa/angani/paushtika-homah/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%9C%E0%A4%BE/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%9C%E0%A4%BE/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%99%E0%A5%8D%E0%A4%97%E0%A5%80%E0%A4%B0%E0%A4%B8%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%99%E0%A5%8D%E0%A4%97%E0%A5%80%E0%A4%B0%E0%A4%B8%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/sanskrit/supremacy/</loc>
+    <loc>file:///android_asset/docs/sanskrit/supremacy/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AF%E0%A4%A4%E0%A4%A4%E0%A4%BE/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AF%E0%A4%A4%E0%A4%A4%E0%A4%BE/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/kriyah/shaucham/prayatata/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/kriyah/shaucham/prayatata/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AF%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/</loc>
-    <priority>0</priority>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/shrauta/angani/prayatata/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/kriyah/prayana/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AF%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/jyotisha/prayojana/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/kriyah/prayana/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B5%E0%A4%BE%E0%A4%B8%E0%A4%83/</loc>
-    <priority>0</priority>
+    <loc>file:///android_asset/docs/jyotisha/prayojana/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%BE%E0%A4%AF%E0%A4%BE%E0%A4%AE%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B5%E0%A4%BE%E0%A4%B8%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/kriyah/shaucham/pranayama/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%BE%E0%A4%AF%E0%A4%BE%E0%A4%AE%E0%A4%83/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/general/angani/manah/pranayamah/</loc>
+    <loc>file:///android_asset/docs/kalpa/general/angani/manah/pranayamah/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/pratar-agnim/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/kriyah/shaucham/pranayama/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/sangrahah/paravastu-saama/pratarabhyasah/</loc>
+    <loc>file:///android_asset/docs/mantra/misc-devas/rk/pratar-agnim/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%AF%E0%A4%B6%E0%A5%8D%E0%A4%9A%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8D/</loc>
-    <priority>0</priority>
+    <loc>file:///android_asset/docs/mantra/sangrahah/paravastu-saama/pratarabhyasah/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/kriyah/shaucham/prayashchittam/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%AF%E0%A4%B6%E0%A5%8D%E0%A4%9A%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8D/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/general/aradhanam/homa/angani/prayashcittam/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/kriyah/shaucham/prayashchittam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/sangrahah/paravastu-saama/proxana/</loc>
+    <loc>file:///android_asset/docs/kalpa/general/aradhanam/homa/angani/prayashcittam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/agni/paravastu-saama/barhishiyam/</loc>
+    <loc>file:///android_asset/docs/mantra/sangrahah/paravastu-saama/proxana/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/grhya/angani/bali/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/grhya/angani/bali/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%AC%E0%A4%B9%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%AC%E0%A4%B9%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/misc-devas/paravastu-saama/brahma-jajjnanam/</loc>
+    <loc>file:///android_asset/docs/mantra/misc-devas/paravastu-saama/brahma-jajjnanam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A5%8D%E0%A4%AE%E0%A4%9A%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A5%8D%E0%A4%AE%E0%A4%9A%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/patra/ashrama/brahmacharyam/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/patra/ashrama/brahmacharyam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A5%8D%E0%A4%AE%E0%A4%9A%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A5%87-%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%A6%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A5%8D%E0%A4%AE%E0%A4%9A%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A5%87-%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%A6%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A5%8D%E0%A4%AE%E0%A4%AF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A5%8D%E0%A4%AE%E0%A4%AF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/kriyah/brahmayajjna/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/kriyah/brahmayajjna/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B9%E0%A5%8D%E0%A4%AE%E0%A4%A3-%E0%A4%AD%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B9%E0%A5%8D%E0%A4%AE%E0%A4%A3-%E0%A4%AD%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/general/aradhanam/brahmana-bhojanam/</loc>
+    <loc>file:///android_asset/docs/kalpa/general/aradhanam/brahmana-bhojanam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%AD%E0%A4%97-%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B9%E0%A5%8D%E0%A4%AE%E0%A4%A3%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A5%8D%E0%A4%AF-%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%AD%E0%A4%97-%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/bloodlines/bhaargava/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A5%8D%E0%A4%AF-%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8D/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>file:///android_asset/docs/bloodlines/bhaargava/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%AD%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%AD%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/kriyah/bhixa/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/kriyah/bhixa/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/misc-devas/yajus/bhutam-bhavyam-bhavishyat/</loc>
+    <loc>file:///android_asset/docs/mantra/misc-devas/yajus/bhutam-bhavyam-bhavishyat/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%AD%E0%A5%82%E0%A4%A4%E0%A4%A6%E0%A4%BE%E0%A4%B9%E0%A4%BF-%E0%A4%A6%E0%A5%8B%E0%A4%B7%E0%A4%BE%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%AD%E0%A5%82%E0%A4%A4%E0%A4%A6%E0%A4%BE%E0%A4%B9%E0%A4%BF-%E0%A4%A6%E0%A5%8B%E0%A4%B7%E0%A4%BE%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%AD%E0%A5%8B%E0%A4%97%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%AD%E0%A5%8B%E0%A4%97%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%AD%E0%A5%8B%E0%A4%9C%E0%A4%A8-%E0%A4%AE%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BE/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%AD%E0%A5%8B%E0%A4%9C%E0%A4%A8-%E0%A4%AE%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BE/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%AD%E0%A5%8B%E0%A4%9C%E0%A4%A8-%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%AD%E0%A5%8B%E0%A4%9C%E0%A4%A8-%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%AD%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%AD%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/general/achara/bhojanam/</loc>
+    <loc>file:///android_asset/docs/kalpa/general/achara/bhojanam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%AD%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BF%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%AD%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BF%E0%A4%83/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/kriyah/bhojana/</loc>
+  </url>
+  
+  <url>
+    <loc>file:///android_asset/docs/mantra/misc-devas/paravastu-saama/madhushchunidhanam/</loc>
+  </url>
+  
+  <url>
+    <loc>file:///android_asset/docs/kalpa/general/aradhanam/homa/angani/manah/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/kriyah/bhojana/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%AE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%83/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/misc-devas/paravastu-saama/madhushchunidhanam/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/grhya/angani/mantra/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/general/aradhanam/homa/angani/manah/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/shrauta/tattvani/mantra/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/grhya/angani/mantra/</loc>
+    <loc>file:///android_asset/docs/kalpa/general/angani/mantra/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/</loc>
+    <loc>file:///android_asset/docs/mantra/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%AF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%AF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/soma/paravastu-saama/mahavatsapram/</loc>
+    <loc>file:///android_asset/docs/mantra/soma/paravastu-saama/mahavatsapram/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/agni/paravastu-saama/mahavaishvanara-vratam/</loc>
+    <loc>file:///android_asset/docs/mantra/agni/paravastu-saama/mahavaishvanara-vratam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/agni/paravastu-saama/mahavaishvamitram/</loc>
+    <loc>file:///android_asset/docs/mantra/agni/paravastu-saama/mahavaishvamitram/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/misc-devas/paravastu-saama/mahi-trinam/</loc>
+    <loc>file:///android_asset/docs/mantra/misc-devas/paravastu-saama/mahi-trinam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/margiyavam/</loc>
+    <loc>file:///android_asset/docs/mantra/indra/paravastu-saama/margiyavam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%AE%E0%A4%BE%E0%A4%B8%E0%A4%BF-%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%AE%E0%A4%BE%E0%A4%B8%E0%A4%BF-%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>file:///android_asset/docs/kalpa/general/aradhanam/shraddham/masi/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/general/aradhanam/shraddham/masi/</loc>
+    <loc>file:///android_asset/docs/mantra/misc-devas/rk/sandhya-mitra-vandanam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/sandhya-mitra-vandanam/</loc>
+    <loc>file:///android_asset/docs/mantra/agni/rk/yan-ma-atmano-minabhut/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/general/angani/mudrah/</loc>
+    <loc>file:///android_asset/docs/kalpa/general/angani/mudrah/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%AE%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0-%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B8%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%AE%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0-%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B8%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/kriyah/shaucham/mala-mutram/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/kriyah/shaucham/mala-mutram/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/general/aradhanam/murti-puja/</loc>
+    <loc>file:///android_asset/docs/kalpa/general/aradhanam/murti-puja/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/agni/paravastu-saama/murdhanam-divah/</loc>
+    <loc>file:///android_asset/docs/mantra/agni/paravastu-saama/murdhanam-divah/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%AE%E0%A5%83%E0%A4%97%E0%A4%BE%E0%A4%B0%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%AE%E0%A5%83%E0%A4%97%E0%A4%BE%E0%A4%B0%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/medhan-te-devas/</loc>
+    <loc>file:///android_asset/docs/mantra/misc-devas/rk/medhan-te-devas/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%AE%E0%A5%88%E0%A4%A5%E0%A5%81%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%AE%E0%A5%88%E0%A4%A5%E0%A5%81%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/kriyah/maithuna/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/kriyah/maithuna/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/grhya/karmani/rtusamaveshanam/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/grhya/karmani/rtusamaveshanam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/soma/rk/yah-pavamanih/</loc>
+    <loc>file:///android_asset/docs/mantra/soma/rk/yah-pavamanih/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%AF%E0%A4%9C%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%AF%E0%A4%9C%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/samskara/adhyayana-vrataani/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/grhya/karmani/adhyayana-vrataani/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/yajjayathah/</loc>
+    <loc>file:///android_asset/docs/mantra/indra/paravastu-saama/yajjayathah/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%AF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%AF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%83/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/kriyah/arhanam/yajjna/</loc>
+  </url>
+  
+  <url>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/shrauta/angani/yajjjna/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/kriyah/arhanam/yajjna/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/grhya/angani/yajjnopavita/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/grhya/angani/yajjnopavita/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/shrauta/angani/yajjnopavita/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/yata-indra/</loc>
+    <loc>file:///android_asset/docs/mantra/indra/paravastu-saama/yata-indra/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/agni/yajus/yatte-agne-tejas/</loc>
+    <loc>file:///android_asset/docs/mantra/agni/yajus/yatte-agne-tejas/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/agni/paravastu-saama/yadva/</loc>
+    <loc>file:///android_asset/docs/mantra/agni/paravastu-saama/yadva/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/soma/paravastu-saama/yashas/</loc>
+    <loc>file:///android_asset/docs/mantra/soma/paravastu-saama/yashas/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/agni/rk/yas-tva-hrda/</loc>
+    <loc>file:///android_asset/docs/mantra/agni/rk/yas-tva-hrda/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/misc-devas/yajus/ya-vam-indravaruna/</loc>
+    <loc>file:///android_asset/docs/mantra/misc-devas/yajus/ya-vam-indravaruna/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%AF%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BE/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%AF%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BE/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%AF%E0%A5%81%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%AF%E0%A5%81%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/kriyah/yuddham/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/kriyah/yuddham/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/brahmana/brahmana-vandanam/</loc>
+    <loc>file:///android_asset/docs/kalpa/brahmana/taittiriya/kriya/brahmana-vandanam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/misc-devas/yajus/ye-devah-puras/</loc>
+    <loc>file:///android_asset/docs/mantra/misc-devas/yajus/ye-devah-puras/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/soma/paravastu-saama/yauktashvam/</loc>
+    <loc>file:///android_asset/docs/mantra/soma/paravastu-saama/yauktashvam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%8B%E0%A4%98%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%8B%E0%A4%98%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/grhya/angani/rajasvala/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/grhya/angani/rajasvala/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/kalpa/brahmana/taittiriya/kriya/rajasvala/</loc>
+  </url>
+  
+  <url>
+    <loc>file:///android_asset/docs/tags/%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/rathantaram/</loc>
+    <loc>file:///android_asset/docs/mantra/indra/paravastu-saama/rathantaram/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%BE/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%BE/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/patra/raja/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/patra/raja/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/misc-devas/yajus/rashtrabhrtah/</loc>
+    <loc>file:///android_asset/docs/mantra/misc-devas/yajus/rashtrabhrtah/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%B0%E0%A5%8B%E0%A4%B7%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%B0%E0%A5%8B%E0%A4%B7%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%B2%E0%A5%8B%E0%A4%95%E0%A4%B8%E0%A4%99%E0%A5%8D%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%B2%E0%A5%8B%E0%A4%95%E0%A4%B8%E0%A4%99%E0%A5%8D%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/kriyah/lokasangrahah/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/kriyah/lokasangrahah/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/misc-devas/paravastu-saama/varuna-suktam/</loc>
+    <loc>file:///android_asset/docs/mantra/misc-devas/paravastu-saama/varuna-suktam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/misc-devas/paravastu-saama/varuna-pasham/</loc>
+    <loc>file:///android_asset/docs/mantra/misc-devas/paravastu-saama/varuna-pasham/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/sandhya-varuna-vandanam/</loc>
+    <loc>file:///android_asset/docs/mantra/misc-devas/rk/sandhya-varuna-vandanam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A3%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A3%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%B5%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%BF/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%B5%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%BF/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/kriyah/vastra/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/kriyah/vastra/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%B5%E0%A4%BE%E0%A4%95%E0%A5%8D-%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%B5%E0%A4%BE%E0%A4%95%E0%A5%8D-%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/kriyah/vaak/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/kriyah/vaak/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/misc-devas/paravastu-saama/vachovratam/</loc>
+    <loc>file:///android_asset/docs/mantra/misc-devas/paravastu-saama/vachovratam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%B5%E0%A4%BE%E0%A4%A3%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%B5%E0%A4%BE%E0%A4%A3%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/kriyah/vanijyam/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/kriyah/vanijyam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/soma/paravastu-saama/vatsaprottaram/</loc>
+    <loc>file:///android_asset/docs/mantra/soma/paravastu-saama/vatsaprottaram/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%B5%E0%A4%BE%E0%A4%A8%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%B5%E0%A4%BE%E0%A4%A8%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/patra/ashrama/vanaprastha/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/patra/ashrama/vanaprastha/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/vamadevyam/</loc>
+    <loc>file:///android_asset/docs/mantra/indra/paravastu-saama/vamadevyam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/agni/paravastu-saama/varavantiyam/</loc>
+    <loc>file:///android_asset/docs/mantra/agni/paravastu-saama/varavantiyam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%B5%E0%A4%BE%E0%A4%B8%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%B5%E0%A4%BE%E0%A4%B8%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/kriyah/vasa/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/kriyah/vasa/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/vastoshpate/</loc>
+    <loc>file:///android_asset/docs/mantra/indra/paravastu-saama/vastoshpate/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/general/angani/vighnopashamanam/</loc>
+    <loc>file:///android_asset/docs/kalpa/general/angani/vighnopashamanam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%B5%E0%A4%BF%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A8%E0%A4%BE%E0%A4%97%E0%A5%8D%E0%A4%A8%E0%A4%BF%E0%A4%B8%E0%A4%A8%E0%A5%8D%E0%A4%A7%E0%A4%BE%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%B5%E0%A4%BF%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A8%E0%A4%BE%E0%A4%97%E0%A5%8D%E0%A4%A8%E0%A4%BF%E0%A4%B8%E0%A4%A8%E0%A5%8D%E0%A4%A7%E0%A4%BE%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/general/aradhanam/shraddham/apadi/</loc>
+    <loc>file:///android_asset/docs/kalpa/general/aradhanam/shraddham/apadi/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%A6%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%A6%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/kriyah/vivada/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/kriyah/vivada/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/patra/ashrama/vivahah/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/patra/ashrama/vivahah/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/grhya/karmani/vivahah/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/grhya/karmani/vivahah/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/sangrahah/paravastu-saama/vivahopanayana/</loc>
+    <loc>file:///android_asset/docs/mantra/sangrahah/paravastu-saama/vivahopanayana/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/vishvato-davan/</loc>
+    <loc>file:///android_asset/docs/mantra/indra/paravastu-saama/vishvato-davan/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/vishnur-yonim/</loc>
+    <loc>file:///android_asset/docs/mantra/misc-devas/rk/vishnur-yonim/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/sanskrit/shixaa/visarga/</loc>
+    <loc>file:///android_asset/docs/sanskrit/shixaa/visarga/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/tattvani/veda/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/tattvani/veda/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/shrauta/tattvani/veda/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%B5%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%B5%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/sangrahah/vedadayah/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/bodhayana/pramanani/grhya/tattvani/veda/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%BE%E0%A4%A7%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/mantra/sangrahah/vedadayah/</loc>
+  </url>
+  
+  <url>
+    <loc>file:///android_asset/docs/tags/%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%BE%E0%A4%A7%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%B5%E0%A5%88%E0%A4%A6%E0%A4%BF%E0%A4%95%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%A3%E0%A5%8D%E0%A4%AF%E0%A5%8D-%E0%A4%85%E0%A4%A7%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%B5%E0%A5%88%E0%A4%A6%E0%A4%BF%E0%A4%95%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%A3%E0%A5%8D%E0%A4%AF%E0%A5%8D-%E0%A4%85%E0%A4%A7%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%B5%E0%A5%88%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%A6%E0%A5%87%E0%A4%B5%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%B5%E0%A5%88%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%A6%E0%A5%87%E0%A4%B5%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>file:///android_asset/docs/kalpa/general/aradhanam/bali/vaishvadevam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/kriyah/arhanam/vaishvadevam/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/kriyah/arhanam/vaishvadevam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/grhya/karmani/vaishvadevam/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/grhya/karmani/vaishvadevam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/general/aradhanam/bali/vaishvadevam/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pancha-mahaa-yajjna/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pancha-mahaa-yajjna/</loc>
+    <loc>file:///android_asset/docs/sanskrit/vyakarana/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/misc-devas/paravastu-saama/vyahrti-samani/</loc>
+    <loc>file:///android_asset/docs/mantra/misc-devas/paravastu-saama/vyahrti-samani/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%B5%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%B5%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/sham-no-devih/</loc>
+    <loc>file:///android_asset/docs/mantra/misc-devas/rk/sham-no-devih/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/general/angani/shariram/</loc>
+    <loc>file:///android_asset/docs/kalpa/general/angani/shariram/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/misc-devas/yajus/shimshumara/</loc>
+    <loc>file:///android_asset/docs/mantra/misc-devas/yajus/shimshumara/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/sanskrit/shixaa/</loc>
+    <loc>file:///android_asset/docs/sanskrit/shixaa/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%B6%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%BE%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%B6%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%BE%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%B6%E0%A5%81%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%BF%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%B6%E0%A5%81%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%BF%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%B6%E0%A5%82%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%B6%E0%A5%82%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/shraddha/</loc>
+    <loc>file:///android_asset/docs/mantra/misc-devas/rk/shraddha/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/kriyah/arhanam/shraddham/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/kriyah/arhanam/shraddham/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/shrayantiyam/</loc>
+    <loc>file:///android_asset/docs/mantra/indra/paravastu-saama/shrayantiyam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/shri-suktam/</loc>
+    <loc>file:///android_asset/docs/mantra/misc-devas/rk/shri-suktam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%B8%E0%A4%82%E0%A4%B5%E0%A5%87%E0%A4%B6%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%B8%E0%A4%82%E0%A4%B5%E0%A5%87%E0%A4%B6%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/</loc>
+    <loc>file:///android_asset/docs/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/sanskrit/</loc>
+    <loc>file:///android_asset/docs/sanskrit/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/soma/paravastu-saama/sakhaya-a-ni-shidata/</loc>
+    <loc>file:///android_asset/docs/mantra/soma/paravastu-saama/sakhaya-a-ni-shidata/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%B8%E0%A4%99%E0%A5%8D%E0%A4%95%E0%A4%B2%E0%A5%8D%E0%A4%AA%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%B8%E0%A4%99%E0%A5%8D%E0%A4%95%E0%A4%B2%E0%A5%8D%E0%A4%AA%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/general/angani/manah/sankalpah/</loc>
+    <loc>file:///android_asset/docs/kalpa/general/angani/manah/sankalpah/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/misc-devas/paravastu-saama/sadasaspatim/</loc>
+    <loc>file:///android_asset/docs/mantra/misc-devas/paravastu-saama/sadasaspatim/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/sandhya-papa-lumpanam/</loc>
+    <loc>file:///android_asset/docs/mantra/misc-devas/rk/sandhya-papa-lumpanam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%B8%E0%A4%A8%E0%A5%8D%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B5%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%B8%E0%A4%A8%E0%A5%8D%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B5%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/kriyah/arhanam/sandhyavandanam/</loc>
+    <loc>file:///android_asset/docs/kalpa/general/aradhanam/sandhyavandanam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/general/aradhanam/sandhyavandanam/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/kriyah/arhanam/sandhyavandanam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%B8%E0%A4%A8%E0%A5%8D%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%B8%E0%A4%A8%E0%A5%8D%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%B8%E0%A4%AD%E0%A4%BE/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%B8%E0%A4%AD%E0%A4%BE/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%B5%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%B5%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/patra/ashrama/samavrtta/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/patra/ashrama/samavrtta/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/misc-devas/yajus/samichi-namasi/</loc>
+    <loc>file:///android_asset/docs/mantra/misc-devas/yajus/samichi-namasi/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/soma/paravastu-saama/sampa/</loc>
+    <loc>file:///android_asset/docs/mantra/soma/paravastu-saama/sampa/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/general/aradhanam/bali/sarpa-balih/</loc>
+    <loc>file:///android_asset/docs/kalpa/general/aradhanam/bali/sarpa-balih/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A4%BE%E0%A4%B9%E0%A5%81%E0%A4%A4%E0%A4%AF%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A4%BE%E0%A4%B9%E0%A5%81%E0%A4%A4%E0%A4%AF%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/general/angani/manah/sattvika-tyagah/</loc>
+    <loc>file:///android_asset/docs/kalpa/general/angani/manah/sattvika-tyagah/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%B8%E0%A4%BE%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A4%A3%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%B8%E0%A4%BE%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A4%A3%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/grhya/karmani/simantonnayanam/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/grhya/karmani/simantonnayanam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/general/aradhanam/mangalaratih/</loc>
+    <loc>file:///android_asset/docs/kalpa/general/aradhanam/mangalaratih/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/grhya/karmani/sutakam/</loc>
+    <loc>file:///android_asset/docs/mantra/misc-devas/yajus/sutaka-homa-mantra-ap/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/misc-devas/paravastu-saama/setums-tara/</loc>
+    <loc>file:///android_asset/docs/mantra/misc-devas/paravastu-saama/setums-tara/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%B8%E0%A5%88%E0%A4%A8%E0%A4%BF%E0%A4%95%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%B8%E0%A5%88%E0%A4%A8%E0%A4%BF%E0%A4%95%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/jyotisha/saura-chaandra-maana/</loc>
+    <loc>file:///android_asset/docs/jyotisha/saura-chaandra-maana/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/jyotisha/sauramaana/</loc>
+    <loc>file:///android_asset/docs/jyotisha/sauramaana/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%E0%A4%A8%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%E0%A4%A8%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/general/angani/sthalam/</loc>
+    <loc>file:///android_asset/docs/kalpa/general/angani/sthalam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/general/aradhanam/homa/angani/sthana/</loc>
+    <loc>file:///android_asset/docs/kalpa/general/aradhanam/homa/angani/sthana/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/grhya/karmani/sthalipaka/</loc>
+    <loc>file:///android_asset/docs/kalpa/general/aradhanam/homa/visheshah/sthalipakah/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/general/aradhanam/homa/visheshah/sthalipakah/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/grhya/karmani/sthalipaka/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%B8%E0%A5%8D%E0%A4%A8%E0%A4%BE%E0%A4%A4%E0%A4%95%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%B8%E0%A5%8D%E0%A4%A8%E0%A4%BE%E0%A4%A4%E0%A4%95%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%B8%E0%A5%8D%E0%A4%A8%E0%A4%BE%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/grhya/karmani/snataka/</loc>
+  </url>
+  
+  <url>
+    <loc>file:///android_asset/docs/tags/%E0%A4%B8%E0%A5%8D%E0%A4%A8%E0%A4%BE%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/kriyah/snana/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/kriyah/snana/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/sanskrit/shixaa/svarita/</loc>
+    <loc>file:///android_asset/docs/sanskrit/shixaa/svarita/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/general/achara/anushthanam/</loc>
+    <loc>file:///android_asset/docs/kalpa/general/achara/anushthanam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/harishrinidhanam/</loc>
+    <loc>file:///android_asset/docs/mantra/indra/paravastu-saama/harishrinidhanam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%B9%E0%A4%B0%E0%A5%8D%E0%A4%B7%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%B9%E0%A4%B0%E0%A5%8D%E0%A4%B7%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantra/misc-devas/yajus/hetayo-nama/</loc>
+    <loc>file:///android_asset/docs/mantra/misc-devas/yajus/hetayo-nama/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/general/</loc>
+    <loc>file:///android_asset/docs/kalpa/general/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%B9%E0%A5%8B%E0%A4%AE-%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%AE%E0%A5%8D/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%B9%E0%A5%8B%E0%A4%AE-%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%AE%E0%A5%8D/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%B9%E0%A5%8B%E0%A4%AE%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A4%B9%E0%A5%8B%E0%A4%AE%E0%A4%83/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/grhya/angani/homa/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/grhya/angani/homa/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/bodhayana/pramanani/shrauta/angani/homa/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/general/aradhanam/homa/</loc>
+    <loc>file:///android_asset/docs/kalpa/general/aradhanam/homa/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/general/aradhanam/homa/angani/dravya/</loc>
+    <loc>file:///android_asset/docs/kalpa/general/aradhanam/homa/angani/dravya/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A5%90%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%83/</loc>
+    <loc>file:///android_asset/docs/tags/%E0%A5%90%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%83/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/tattvani/om/</loc>
+    <loc>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/tattvani/om/</loc>
   </url>
   
 </urlset>

@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>कामः on संस्कारे विश्वासटिप्पणयः</title>
-    <link>https://vvasuki.github.io/saMskAra/tags/%E0%A4%95%E0%A4%BE%E0%A4%AE%E0%A4%83/</link>
+    <link>file:///android_asset/docs/tags/%E0%A4%95%E0%A4%BE%E0%A4%AE%E0%A4%83/</link>
     <description>Recent content in कामः on संस्कारे विश्वासटिप्पणयः</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://vvasuki.github.io/saMskAra/tags/%E0%A4%95%E0%A4%BE%E0%A4%AE%E0%A4%83/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="file:///android_asset/docs/tags/%E0%A4%95%E0%A4%BE%E0%A4%AE%E0%A4%83/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>कामः</title>
-      <link>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/tattvani/kama/</link>
+      <link>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/tattvani/kama/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/tattvani/kama/</guid>
+      <guid>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/tattvani/kama/</guid>
       <description>कामासक्तौ पापसम्भवो ऽन्यत्रोक्तः।
 भोक्ता च धर्माविप्रतिषिद्धान्भोगान् २२ एवमुभौ लोका वभिजयति २३</description>
     </item>

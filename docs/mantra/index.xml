@@ -2,56 +2,107 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>मन्त्राः on संस्कारे विश्वासटिप्पणयः</title>
-    <link>https://vvasuki.github.io/saMskAra/mantra/</link>
+    <link>file:///android_asset/docs/mantra/</link>
     <description>Recent content in मन्त्राः on संस्कारे विश्वासटिप्पणयः</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://vvasuki.github.io/saMskAra/mantra/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="file:///android_asset/docs/mantra/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>अग्न आयूंषि</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/agni/paravastu-saama/agna-ayumshi/</link>
+      <title></title>
+      <link>file:///android_asset/docs/mantra/misc-devas/paravastu-saama/somam-rajanam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/agni/paravastu-saama/agna-ayumshi/</guid>
+      <guid>file:///android_asset/docs/mantra/misc-devas/paravastu-saama/somam-rajanam/</guid>
+      <description>ऋक् सोमं राजानं वरुणं । अग्निमन्वारभामहे । आदित्यं विष्णुं सूर्यं । ब्रह्माणं च बृहस्पतिम् ।
+साम   सो+++([])+++मङ्, राजान०, वारूणा० । अ+++([])+++ग्निमन्वारभा, महे, ऎ । हो,+++([])+++: वा, अहाइ । आ,+++([])+++दित्य०, ०विष्णु००सू, रिय० । हो,+++([])+++: , वाअहाइ । ब्र+++([])+++ह्माणा०, चाअ । हो,+++([])+++: वाअहाइ । बॄ+++([])+++हा,+++([])+++अआउवाअ । पा+++([])+++तिइ० ॥</description>
+    </item>
+    
+    <item>
+      <title>अग्न आयाहि</title>
+      <link>file:///android_asset/docs/mantra/agni/paravastu-saama/barhishiyam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///android_asset/docs/mantra/agni/paravastu-saama/barhishiyam/</guid>
+      <description>ऋक् RV.6.16.10
++++([सायणो ऽत्र। भरद्वाजः। गायत्री। अग्निः।])+++
+अग्न आ या॑हि वी॒तये +++(=हविर्भक्षणाय)+++
+गृणा॒नो +++(=स्तूयमानः)+++ ह॒व्यदा॑तये +++(देवेभ्यः)+++ ।
+नि होता॑ सत्सि ब॒र्हिषि॑ ।।
+साम १ +++(गौतमस्य पर्कः)+++
+ पारम्परिक-गान-मूलम् अत्र।      ओ+++([का]३&amp;ndash;%)+++ग्ना+++(३)+++इ। आ+++([&amp;ldquo;पो])+++या+++([&amp;ldquo;]&amp;ndash;%३)+++ही+++(३)+++इ ।
+वो+++(%)+++इ,तो+++(%)+++या+++([प्रे])+++अइ । तो+++([ता]%)+++या+++([प्रे])+++अइ ।
+गृ+++([ता])+++णा+++([ऽ])+++नो+++([&amp;ldquo;]३)+++ओ हा+++(३)+++व्या+++([पृ])+++दा+++(३)+++तो+++(%)+++या+++([प्रे])+++अइ । तो+++([ता]%)+++या+++([प्रे])+++अइ ।
+ना+++([घि])+++इ हो+++(&amp;ldquo;३)+++ओता+++(%)+++ सा+++(&amp;ldquo;३)+++अ। त्सा+++([पे]&amp;ldquo;&amp;ldquo;३)+++,अइ
++बाआअअर्, औ+++([&amp;ldquo;])+++हो+++([&amp;ldquo;]%)+++वा+++(३)+++अ। ही+++([टू]-&amp;ldquo;)+++षी+++(३)+++इ॥
+साम २ आ+++([])+++ग्ना, आ, आयाअ, हिवीइ, त+++([])+++या, इ । गृ+++([])+++: णानो हव्यदाता, अयाइ । नि+++([])+++होता सत्सि बर्हा, इषि । बर्हा, इषाअअ । औहोवाअ । ब+++([])+++र्हीषीइ ॥</description>
+    </item>
+    
+    <item>
+      <title>अग्न आयूंषि</title>
+      <link>file:///android_asset/docs/mantra/agni/paravastu-saama/agna-ayumshi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///android_asset/docs/mantra/agni/paravastu-saama/agna-ayumshi/</guid>
       <description>ऋक् ([सायणो ऽत्र कौथुमभाष्ये। वसिष्ठः। अग्निः])+++
 २ ० ० ०५०१
 अग्न आयूंषि प+++(प्ल)+++वस आसुव +ऊर्जमिषं च नः ।
 आरे+++(=दूरे)+++ बाधस्व दुच्छुनाम्+++(=रक्षसाम्)+++ ।
-साम  पारम्परिकगानमूलम् - १९३७, २०१५।      भ्रा+++([])+++जा । भ्रा+++([])+++जा । भ्रा,+++([])+++जाआउवा+++([])+++अ ।
-आ+++([])+++ग्न, आ,यूंषि, पवसॆ,ऎ।
-आ,+++([])+++सू,वोर्ज+++(~र्जि~)+++मि, ष+++(षि)+++ञ् चा, नाह+++(v)+++।
-आ,+++([])+++रे, बाध,स्व+++(स्सु)+++ दुच्छूनाम्।
-भ्रा+++([])+++जा । भ्रा+++([])+++जा । भ्रा,+++([])+++जाआउवा+++([])+++अ ।
-{ए+++([])+++ए । भ्रा+++([])+++जा}+++([त्रिः])+++॥</description>
+साम  पारम्परिकगानमूलम् - १९३७, २०१५।    {भ्रा+++([])+++जा+++(३&amp;ndash;%)+++}+++(द्विः)+++। भ्रा+++([])+++जाआउवा+++([प्रे])+++अ ।
+आ+++([])+++ग्न, आयूं+++(३&amp;ndash;%)+++षि, पवसे+++(&amp;ldquo;)+++ऎ।
+आ+++([]&amp;ndash;%)+++सू,वो+++(&amp;ldquo;%)+++र्ज+++(~र्जि~)+++म् इ+++(&amp;ldquo;)+++ष+++(&amp;rdquo;षि)+++ञ् चा+++(&amp;ldquo;)+++ नाह+++(v)+++।
+आ+++([]%)+++रे+++(%)+++ बा+++(&amp;ndash;%३)+++ध,स्व+++(स्सु)+++ दुच्छूना+++(&amp;ndash;%३)+++म्।
+{भ्रा+++([])+++जा+++(३&amp;ndash;%)+++}+++(द्विः)+++। भ्रा+++([])+++जाआउवा+++([प्रे])+++अ ।
+{ए+++([]&amp;ldquo;)+++ऎ, भ्रा+++([])+++जा+++(-&amp;ldquo;)+++}+++([त्रिः])+++॥</description>
     </item>
     
     <item>
       <title>अग्निरायुष्मान्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/agnirayushman/</link>
+      <link>file:///android_asset/docs/mantra/misc-devas/rk/agnirayushman/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/agnirayushman/</guid>
+      <guid>file:///android_asset/docs/mantra/misc-devas/rk/agnirayushman/</guid>
       <description>अ॒ग्निरायु॑ष्मा॒न्त्स वन॒स्पति॑भि॒रायु॑ष्मा॒न्तेन॒ त्वाऽऽयु॒षाऽऽयु॑ष्मन्तं करोमि॒ । सोम॒ आयु॑ष्मा॒न्त्स ओष॑धीभि॒रायु॑ष्मा॒न्तेन॒ …। य॒ज्ञ आयु॑ष्मा॒न्त्स दक्षि॑णाभि॒रायु॑ष्मा॒न्तेन॒ …। ब्रह्मायु॑ष्मत्तद् ब्रा॑ह्म॒णैरायु॑ष्म॒त्तेन॒ …। दे॒वा आयु॑ष्मंत॒स्ते॑ऽमृते॒नायु॑ष्मं॒तस्तेन॒ …।</description>
     </item>
     
     <item>
-      <title>अग्ने नय सुपथाः</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/agni/rk/agne-naya-supatha/</link>
+      <title>अग्निर् मूर्धा</title>
+      <link>file:///android_asset/docs/mantra/agni/paravastu-saama/agnir-murdha/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/agni/rk/agne-naya-supatha/</guid>
+      <guid>file:///android_asset/docs/mantra/agni/paravastu-saama/agnir-murdha/</guid>
+      <description>ऋक् ([सायणो ऽत्र कौथुमभाष्ये। वसिष्ठः।अग्निः])+++
+१ १ १ ०३०७
+अग्निर्मूर्धा दिवः ककुत्पतिः पृथिव्या अयम् ।
+अपां रेतांसि+++(=अबुद्भवानि भूतानि)+++ जिन्वति+++(=प्रीणयति)+++ । । २७
+साम  पारम्परिकगानमूलम् - १९३७, २०१५।      {हा+++([ऽ&amp;rdquo;प])+++उ}+++([त्रिः])+++।
+{भ्रा+++([&amp;ldquo;टि])+++जा +++([&amp;ldquo;])+++, ओवा}+++([द्विः])+++॥ भ्रा+++([])+++जा, ओवा+++(&amp;ldquo;)+++अ ।
+अ+++([])+++ग्निर्मूर्धा+++([]३-%-)+++ दी+++([]३&amp;rdquo;)+++ईवाᳵ, कआ+++(%)+++कू+++([प्रे])+++उत् ।
+प+++([])+++तिः पृथी+++(३-%-)+++वी+++(३&amp;rdquo;)+++इ,,+++([])+++या+++(३&amp;ndash;%)+++अआ+++(%)+++या+++([प्रे])+++अम्।
+अ+++([])+++पां, रे+++(v)+++ताँ+++([]३&amp;rdquo;)+++सी+++(३&amp;rdquo;)+++इ+++([])+++,, जा+++(३&amp;ndash;%)+++इन्,वआ+++(%)+++ती+++(३&amp;ndash;%)+++इ।
+{हा+++([प])+++उ}+++([त्रिः])+++।
+{भ्रा+++([&amp;ldquo;टि])+++जा+++([&amp;ldquo;])+++, ओवा}+++([द्विः])+++॥
+भ्रा+++([&amp;ldquo;टि])+++जा+++([&amp;ldquo;])+++, ओओ,, वा,ङ,ङा+++(&amp;rdquo;)+++अ।
+ए+++([प]&amp;ldquo;)+++ए । वि+++([त्प])+++श्व+++(&amp;ldquo;)+++स्य, जगतो+++([&amp;ldquo;])+++ओ, ज्यो+++([&amp;ldquo;]&amp;ndash;%३)+++ती+++(३)+++हि+++(v)+++॥</description>
+    </item>
+    
+    <item>
+      <title>अग्ने नय सुपथाः</title>
+      <link>file:///android_asset/docs/mantra/agni/rk/agne-naya-supatha/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///android_asset/docs/mantra/agni/rk/agne-naya-supatha/</guid>
       <description>अग्ने नय सु॒पथा रा॒ये अ॒स्मान् विश्वा॑नि देव व॒युना॑नि वि॒द्वान् । युयो॒धि+अ॒स्मज् जुहुरा॒णम् एनो भूयि॑ष्ठां ते॒ नम॑उक्तिं विधेम ।।</description>
     </item>
     
     <item>
       <title>अग्ने रक्ष</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/agni/paravastu-saama/agne-raxa/</link>
+      <link>file:///android_asset/docs/mantra/agni/paravastu-saama/agne-raxa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/agni/paravastu-saama/agne-raxa/</guid>
+      <guid>file:///android_asset/docs/mantra/agni/paravastu-saama/agne-raxa/</guid>
       <description>ऋक् १ १ १ ०३०४ +++([सायणो ऽत्र कौथुमभाष्ये। वसिष्ठः।अग्निः])+++
 धर्मः अधर्मः विधर्मः सत्यं गाय। ऋतं वद।
 अग्ने रक्षा णो अंहसः प्रति स्म देव रीषतः +++(=हिंसतः)+++ ।
@@ -67,32 +118,11 @@
     </item>
     
     <item>
-      <title>अग्ने रक्ष</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/agni/paravastu-saama/agnir-murdha/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vvasuki.github.io/saMskAra/mantra/agni/paravastu-saama/agnir-murdha/</guid>
-      <description>ऋक् ([सायणो ऽत्र कौथुमभाष्ये। वसिष्ठः।अग्निः])+++
-१ १ १ ०३०७
-अग्निर्मूर्धा दिवः ककुत्पतिः पृथिव्या अयम् ।
-अपां रेतांसि+++(=अबुद्भवानि भूतानि)+++ जिन्वति+++(=प्रीणयति)+++ । । २७
-साम  पारम्परिकगानमूलम् - १९३७, २०१५।      {हा+++([])+++उ}+++([त्रिः])+++।
-{भ्रा+++([])+++जा, ओवा}+++([द्विः])+++॥ भ्रा+++([])+++जा, ओवाअ ।
-अ+++([])+++ग्निर्मूर्धा,+++([])+++दी,+++([])+++ईवाᳵ, कआ, कू,+++([])+++उत् ।
-प+++([])+++तिः पृथी,वीइ,,+++([])+++या,अ आया+++([])+++अम्।
-अ+++([])+++पां, रेताँ+++([])+++सीइ+++([])+++ जाइन्वआती,इ।
-{हा+++([])+++उ}+++([त्रिः])+++।
-{भ्रा+++([])+++जा, ओवा}+++([द्विः])+++॥
-भ्रा+++([])+++जा, ओ, ओ, वाङङाअ।
-ए+++([])+++ए । वि+++([])+++श्वस्य, जगतोओ, ज्यो+++(३)+++ती+++(३)+++हि+++(v)+++॥</description>
-    </item>
-    
-    <item>
       <title>अग्नेर्मन्वे</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/agni/rk/mrgaram/</link>
+      <link>file:///android_asset/docs/mantra/agni/rk/mrgaram/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/agni/rk/mrgaram/</guid>
+      <guid>file:///android_asset/docs/mantra/agni/rk/mrgaram/</guid>
       <description>अग्निः अ॒ग्नेर्म॑न्वे प्रथ॒मस्य॒ प्रचे॑तसो॒
 यं पाञ्च॑जन्यं +++(=पञ्चभ्यो जनेभ्यो हितं)+++ ब॒हव॑स्समि॒न्धते॑।
 विश्व॑स्यां वि॒शि प्र॑विविशि॒वाꣳस॑म् ईमहे॒
@@ -112,10 +142,10 @@
     
     <item>
       <title>अञ्जो वैरूपम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/anjo-vairupam/</link>
+      <link>file:///android_asset/docs/mantra/indra/paravastu-saama/anjo-vairupam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/anjo-vairupam/</guid>
+      <guid>file:///android_asset/docs/mantra/indra/paravastu-saama/anjo-vairupam/</guid>
       <description>ऋक् RV.8.70.5b; AV;S.20.81.1b; 92.20b; SV.1.278b; 2.212b; TS.2.4.14.3b; KS.12.15b; JB.3.48b; KB.22.4; JUB.1.32.1b,2; N.13.2b.
 +++([सायणो ऽत्र। पुरुहन्मा। बृहती। इन्द्रः।])+++
 यद् द्याव +++(=द्यौर्लोकाः)+++ इन्द्र ते +++(प्रतिमानाय)+++ श॒तं श॒तम् भूमीः उ॒त स्युः ।
@@ -123,26 +153,40 @@
 साम  पारम्परिक-गान-मूलम् २०१५। १९३७। कौथुमगानम् अत्र।      अञ्जो+++(३)+++ वैरूपम्+++(२)+++।
 य+++([प])+++द्द्या+++([&amp;ldquo;]%३)+++ अवै+++(३)+++,,
 +न्द्र+++([पौ]द्र)+++ ता+++(३)+++ आउवा+++(-&amp;ldquo;&amp;ldquo;३)+++अ, शा+++([टृ]%)+++ता+++(&amp;ldquo;)+++अम्।
-हा+++([पौ]३”)+++अहाअउ वा+++(-&amp;ldquo;”३)+++अ, ई+++([टृ]%)+++डा+++(&amp;ldquo;)+++अ।
+हा+++([पौ]३&amp;rdquo;)+++अहाअउ वा+++(-&amp;ldquo;&amp;ldquo;३)+++अ, ई+++([टृ]%)+++डा+++(&amp;ldquo;)+++अ।
 शा+++([र])+++तम् भू+++([&amp;ldquo;]%)+++मी+++(%)+++हि+++(v)+++।
-उ+++([पौ])+++ता+++(३)+++ आउवा+++(-&amp;ldquo;”३)+++अ, सी+++([टृ]%)+++यू+++(&amp;ldquo;)+++हु ।</description>
+उ+++([पौ])+++ता+++(३)+++ आउवा+++(-&amp;ldquo;&amp;ldquo;३)+++अ, सी+++([टृ]%)+++यू+++(&amp;ldquo;)+++हु ।</description>
     </item>
     
     <item>
       <title>अधिश्रवण-सामानि</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/sangrahah/paravastu-saama/adhishravana/</link>
+      <link>file:///android_asset/docs/mantra/sangrahah/paravastu-saama/adhishravana/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/sangrahah/paravastu-saama/adhishravana/</guid>
+      <guid>file:///android_asset/docs/mantra/sangrahah/paravastu-saama/adhishravana/</guid>
       <description> पारम्परिक-मूलानि  १९३७ १९७५ २०१५  </description>
     </item>
     
     <item>
-      <title>अप्रतिरथम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/indra/rk/apratiratham/</link>
+      <title>अनाज्ञातप्रायश्चित्तम्</title>
+      <link>file:///android_asset/docs/mantra/agni/rk/anajjnata-prayashcitta/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/indra/rk/apratiratham/</guid>
+      <guid>file:///android_asset/docs/mantra/agni/rk/anajjnata-prayashcitta/</guid>
+      <description> भट्टभास्करो ऽत्र।
+अना॑ज्ञात॒य्ँ यदाज्ञा॑तम् । य॒ज्ञस्य॑ क्रि॒यते॒ मिथु॑ ।
+अग्ने॒ तद॑स्य कल्पय । त्वꣳ हि वेत्थ॑ यथात॒थम् ।
+पुरु॑षसम्मितो य॒ज्ञः । य॒ज्ञᳶ पुरु॑षसम्मितः ।
+अग्ने॒ तद॑स्य कल्पय । त्वꣳ हि वेत्थ॑ यथात॒थम् ।
+विनियोगः  बोधायनः - सर्वत्रानाज्ञातप्रायश्चित्तेष्व् &amp;ldquo;अनाज्ञातम्पुरुषसंमित इत्येता&amp;rdquo;भ्याँ स्रुवाहुती जुहुयात्।  </description>
+    </item>
+    
+    <item>
+      <title>अप्रतिरथम्</title>
+      <link>file:///android_asset/docs/mantra/indra/rk/apratiratham/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///android_asset/docs/mantra/indra/rk/apratiratham/</guid>
       <description>आ॒शुः शिशा॑नो+++(=तीक्ष्णो)+++ वृष॒भो न यु॒ध्मो+++(=योधा)+++ घ॑नाघ॒नः+++(=घातकः)+++ क्षोभ॑णश्चर्षणी॒नाम्+++(=पदातीनाम्)+++।
 सं॒क्रन्द॑नोऽनिमि॒ष ए॑कवी॒रः श॒तꣳ सेना॑ अजयत्सा॒कामिन्द्रः॑ ॥
 सं॒क्रन्द॑नेनानिमि॒षेण॑ जि॒ष्णुना॑ युत्का॒रेण॑+++(=युद्धकारिणा)+++ दुश्च्य॒वनेन॑ धृ॒ष्णुना॑+++(=निर्भयेन)+++।
@@ -157,10 +201,10 @@
     
     <item>
       <title>अबोध्यग्निः</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/agni/paravastu-saama/abodhyagnih/</link>
+      <link>file:///android_asset/docs/mantra/agni/paravastu-saama/abodhyagnih/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/agni/paravastu-saama/abodhyagnih/</guid>
+      <guid>file:///android_asset/docs/mantra/agni/paravastu-saama/abodhyagnih/</guid>
       <description>ऋक् +++([सायणो ऽत्र कौथुमभाष्ये। बुधश्च गविष्टिरश्च। अग्निः।])+++
 १ १ २ ०८०१
 अबोध्यग्निः समिधा जनानां प्रति
@@ -172,10 +216,10 @@
     
     <item>
       <title>अभि प्रियाणि पवते</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/soma/paravastu-saama/abhi-priyani-pavate/</link>
+      <link>file:///android_asset/docs/mantra/soma/paravastu-saama/abhi-priyani-pavate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/soma/paravastu-saama/abhi-priyani-pavate/</guid>
+      <guid>file:///android_asset/docs/mantra/soma/paravastu-saama/abhi-priyani-pavate/</guid>
       <description>ऋक् +++([सायणो ऽत्र कौथुमभाष्ये। कविः। जगती। सोमः।])+++
 १ ६ २ ०७०१
 अभि प्रियाणि +++(उदकानि)+++ पवते चनो+++(=अन्न)+++हितो नामानि+++(=नमनशीलानि)+++ यह्वो+++(=महान्)+++ अधि येषु वर्धते +++(अन्तरिक्षस्थः)+++ ।
@@ -188,16 +232,16 @@
 यह्वो+++([&amp;ldquo;])+++, +++(अ)+++धि या+++(३)+++इ,,षु+++([पो])+++वर्धा+++(%)+++ता+++([प्रे])+++[अ]इ।
 आ+++([&amp;ldquo;त]&amp;ndash;&amp;ldquo;३)+++ सू+++([&amp;ldquo;]&amp;ndash;&amp;ldquo;३)+++,र्यस्य,
 बृहतो+++(-&amp;ldquo;%३)+++, बृ+++([पौ])+++हन्ना+++(%)+++धी+++(३&amp;rdquo;)+++इ।
-रा+++([ति]&amp;ldquo;३)+++थाम्, वाइष्वा+++(&amp;rdquo;)+++अँ,,च+++([पौ])+++मरू+++(%)+++हा+++(&amp;ldquo;३)+++अत्अ+++(v)+++।
-वा+++([पै]%३)+++इ,चा+++(&amp;ldquo;)+++अक्षा+++(&amp;rdquo;)+++अणा+++(&amp;ldquo;)+++ङ+++(&amp;rdquo;)+++ङाहा+++(v)+++॥</description>
+रा+++([ति]&amp;ldquo;३)+++थाम्, वाइष्वा+++(&amp;rdquo;)+++अँ,,च+++([पौ])+++मरू+++(%)+++हा+++(&amp;ndash;%३)+++अत्अ+++(v)+++।
+वा+++([पै]%३)+++इ,चा+++(&amp;ldquo;)+++अक्षा+++(&amp;rdquo;)+++अणा+++(&amp;ldquo;)+++ङ+++(&amp;rdquo;)+++ङाह+++(v)+++॥</description>
     </item>
     
     <item>
       <title>अभ्यातानाः</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/misc-devas/yajus/abhyatanah/</link>
+      <link>file:///android_asset/docs/mantra/misc-devas/yajus/abhyatanah/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/misc-devas/yajus/abhyatanah/</guid>
+      <guid>file:///android_asset/docs/mantra/misc-devas/yajus/abhyatanah/</guid>
       <description>अ॒ग्निर्भू॒ताना॒म् [अधि॑पतिः॒ स मा॑व॒तु अ॒स्मिन्ब्रह्म॑न्न् अ॒स्मिन्क्ष॒त्रे॑ ऽस्यामा॒शिष्य॒स्याम्पु॑रो॒धाया॑म् अ॒स्मिन्कर्म॑न्न॒स्यां दे॒वहू॑त्याम् [स्वाहा]]…।
 इन्द्रो॑ ज्ये॒ष्ठानांम् ……। य॒मः पृ॑थि॒व्या…। वा॒युर॒न्तरि॑ख्षस्य॒…।
 सूर्यो॑ दि॒वः…। च॒न्द्रमा॒ नख्ष॑त्राणा॒म्…। बृह॒स्पति॒र्ब्रह्म॑णः…।
@@ -213,10 +257,10 @@
     
     <item>
       <title>अयाश्चाग्ने</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/agni/rk/ayashcha/</link>
+      <link>file:///android_asset/docs/mantra/agni/rk/ayashcha/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/agni/rk/ayashcha/</guid>
+      <guid>file:///android_asset/docs/mantra/agni/rk/ayashcha/</guid>
       <description>अ॒याश्+++(=एतुम् योग्यः, गमनशीलो वा)+++ चा॒ग्ने ऽसय्
 अ॑नभिश॒स्तीश्च॑+++(=अनवद्यः)+++ स॒त्यमि॑त्त्वम॒या अ॑सि ।
 अय॑सा॒+++(=प्रतिगन्त्रा)+++ मन॑सा धृ॒तो॑ऽयसा॑ ह॒व्यम्
@@ -225,10 +269,10 @@
     
     <item>
       <title>अर्चत प्रार्चत</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/archata-prarchata/</link>
+      <link>file:///android_asset/docs/mantra/indra/paravastu-saama/archata-prarchata/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/archata-prarchata/</guid>
+      <guid>file:///android_asset/docs/mantra/indra/paravastu-saama/archata-prarchata/</guid>
       <description>ऋक् RV.8.69.8a; AV;S.20.92.5a; SV.1.362a; AB.4.4.4; A;S.6.2.9.
 +++([सायणो ऽत्र। आङ्गीरसः प्रियमेधस्य। अनुष्टुभ्। इन्द्रः।])+++
 अर्च॑त॒ प्रार्च॑त +++(नराः)+++
@@ -243,10 +287,10 @@
     
     <item>
       <title>अर्चन्तीयम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/archantyarkam/</link>
+      <link>file:///android_asset/docs/mantra/indra/paravastu-saama/archantyarkam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/archantyarkam/</guid>
+      <guid>file:///android_asset/docs/mantra/indra/paravastu-saama/archantyarkam/</guid>
       <description>ऋक् SV.1.445b; 2.464b; AA.5.2.2.11; ;S;S.18.15.5b.
 +++(विकाव् अत्र। कौथुमभाष्ये सायणो ऽत्र। सम्पातः ऋषिः। इन्द्रः।)+++
 अर्चन्त्यर्कं +++(=अर्चनीयम्)+++ +++(इन्द्रम्)+++ मरुतस्
@@ -254,31 +298,32 @@
 श्रुतो युवा स इन्द्रः।
 साम  पारम्परिक-गान-मूलम् १९३७-लेखा। १९७५। २०१५-लेखा। कौथुमगानम् अत्र      अ+++([की])+++र्चन्तिया+++(&amp;ndash;%३)+++अर्। कम्+++([घै]२)+++ मरुतस् सूवा+++(&amp;ldquo;३)+++आर्का+++(३)+++ह+++(v)+++।
 आ+++([ऽतै]%)+++स्तो+++([ऽ]%)+++ओ,भा+++([ऽ]v)+++ता+++(३)+++इ।
-श्रू+++([ऽजि])+++तो+++([&amp;ldquo;])+++युवा सआ इन्द्रा+++(&amp;ldquo;३)+++आ, आ,आउ+++(v)+++वा+++(&amp;ndash;&amp;ldquo;३)+++आ। ऊ+++([पि]%%३)+++पाअ ॥</description>
+श्रू+++([ऽजि])+++तो+++([&amp;ldquo;])+++युवा सआ इन्द्रा+++(&amp;ldquo;३)+++ह+++(आ)+++,, आ,आउ+++(v)+++वा+++(&amp;ndash;&amp;ldquo;३)+++आ। ऊ+++([पि]%%३)+++पाअ ॥</description>
     </item>
     
     <item>
       <title>अहं रुद्रेभिः</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/aham-rudrebhih/</link>
+      <link>file:///android_asset/docs/mantra/misc-devas/rk/aham-rudrebhih/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/aham-rudrebhih/</guid>
+      <guid>file:///android_asset/docs/mantra/misc-devas/rk/aham-rudrebhih/</guid>
       <description>अ॒हं रु॒द्रेभि॒र्वसु॑भिश्चराम्य॒हमा॑दि॒त्यैरु॒त वि॒श्वदे॑वैः ।
 अ॒हं मि॒त्रावरु॑णो॒भा बि॑भर्म्य॒हमि॑न्द्रा॒ग्नी अ॒हम॒श्विनो॒भा ॥ १॥
 अ॒हं सोम॑माह॒नसं॑ +++(=मर्दयित्वोत्पादितं)+++ बिभर्म्य॒हं त्वष्टा॑रमु॒त पू॒षणं॒ भगम्॑ ।
-अ॒हं द॑धामि॒ द्रवि॑णं ह॒विष्म॑ते सुप्रा॒व्ये॒ ए॒ ३॒॑ यज॑मानाय सुन्व॒ते+++(=याजकाय)+++ ॥ २॥
+अ॒हं द॑धामि॒ द्रवि॑णं ह॒विष्म॑ते सुप्रा॒व्ये॒३॒॑ यज॑मानाय सुन्व॒ते+++(=याजकाय)+++ ॥ २॥
 अ॒हं राष्ट्री॑+++(=राज्ञी)+++ सं॒गम॑नी॒ वसू॑नां चिकि॒तुषी॑ +++(=ज्ञात्री)+++ प्रथ॒मा य॒ज्ञिया॑नाम् ।
 तां मा॑ दे॒वा व्य॑दधुः पुरु॒त्रा +++(=बहुविधं)+++ भूरि॑स्थात्रां॒ भूर्या॑ वे॒शयन्॑तीम् ॥ ३॥
 मया॒ सो अन्न॑मत्ति॒ यो वि॒पश्य॑ति॒ यः प्राणि॑ति॒ य ईं॑ शृ॒णोत्यु॒क्तम् ।
-अ॒म॒न्तवो॒मान्त उप॑क्षियन्ति +++(=उपवसन्ति)+++ श्रु॒धि श्रु॑त श्रद्धि॒वं ते॑ वदामि ॥ ४॥</description>
+अ॒म॒न्तवो॒मान्त उप॑क्षियन्ति +++(=उपवसन्ति)+++ श्रु॒धि श्रु॑त श्रद्धि॒वं ते॑ वदामि ॥ ४॥
+अ॒हमे॒व स्व॒यमि॒दं व॑दामि॒ जुष्टं॑ दे॒वेभि॑रु॒त मानु॑षेभिः ।</description>
     </item>
     
     <item>
       <title>अहमस्मि प्रत्यमजाः</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/ahamasmi-prathamaja/</link>
+      <link>file:///android_asset/docs/mantra/misc-devas/rk/ahamasmi-prathamaja/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/ahamasmi-prathamaja/</guid>
+      <guid>file:///android_asset/docs/mantra/misc-devas/rk/ahamasmi-prathamaja/</guid>
       <description>अ॒हम॑स्मि प्रथम॒जा +++(=प्रथमजनयिता)+++ ऋ॒तस्य॑ +++(=यज्ञस्य)+++ । पूर्वं॑ दे॒वेभ्यो॑ अ॒मृत॑स्य॒ नाभिः॑ ।
 यो मा॒ ददा॑ति॒ स इदे॒व माऽऽवाः॑ +++(=आवृणोति)+++। अ॒हमन्न॒मन्न॑म॒दन्त॑मद्मि {=अदातारम् अन्नीभूतम्}।
 पूर्व॑म॒ग्नेरपि॑ दह॒त्यन्न॑म् {अदातारम्}। य॒त्तो +++(=तौ ऽदाता, दाता च)+++ हा॑सते अहमुत्त॒रेषु॑ ।
@@ -290,28 +335,28 @@
     
     <item>
       <title>आ वो राजानम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/agni/paravastu-saama/a-vo-rajanam/</link>
+      <link>file:///android_asset/docs/mantra/agni/paravastu-saama/a-vo-rajanam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/agni/paravastu-saama/a-vo-rajanam/</guid>
+      <guid>file:///android_asset/docs/mantra/agni/paravastu-saama/a-vo-rajanam/</guid>
       <description>ऋक् १ १ २ ०७०७
 +++([सायणो ऽत्र कौथुमभाष्ये। वामदेवः।अग्निः])+++
 आ वो राजानमध्वरस्य रुद्रं होतारं सत्ययजं रोदस्योः ।
 अग्निं पुरा +++(आकस्मिकात्)+++ तनयित्नोर् +++(=विद्युतः)+++ अचित्ताद् +++(मरणात्)+++ +हिरण्यरूपम् अवसे कृणुध्वम् ।
 साम  [पारम्परिकगानमूलम् - १९३७, २०१५।]      आ+++([क्पै]-%-३)+++ वो रा+++([&amp;ldquo;])+++अ,जा+++(&amp;ndash;&amp;rdquo;%३)+++अ,,ना+++([टि])+++मध्वा+++(&amp;ndash;&amp;ldquo;३)+++आर+++([पि])+++स्या+++(&amp;ndash;&amp;ldquo;३)+++ रुद्रा+++(&amp;rdquo;)+++अम्।
-हो+++([ता]&amp;ldquo;%&amp;rdquo;)+++ता+++([&amp;ldquo;प])+++,आ+++(v)+++रा+++([त]&amp;ldquo;३)+++म्,
-स+++([प])+++त्य+++([पा])+++य+++(v)+++जा+++(&amp;ldquo;३)+++अम्। रो+++([पि]३)+++दा+++(३)+++सियोहो+++(v)+++ ।
-अ+++([र])+++ग्निम् पुरा+++([त]&amp;ndash;३)+++, त+++([पा])+++ना+++(v३)+++ऐ,,त्नो+++([पि]३)+++र् आ+++(३)+++चित्ता+++(&amp;ldquo;)+++त+++(v)+++ ।
-हि+++([ता])+++रण्+++(%)+++यारू+++([त]&amp;ldquo;३)+++पा+++([रा]३)+++,आम् +आवा,,सा+++([पै]-&amp;ldquo;-&amp;rdquo;-५)+++ऐ,
+हो+++([ता]&amp;ldquo;%&amp;rdquo;)+++ता+++([&amp;ldquo;प])+++,आ+++(v)+++रा+++([त]&amp;ndash;%३)+++म्,
+स+++([प])+++त्य+++([पा])+++य+++(v)+++जा+++(-&amp;ldquo;३)+++अम्। रो+++([पि]३)+++दा+++(३)+++सियोहो+++(v)+++ ।
+अ+++([र])+++ग्निम् पुरा+++([त]&amp;ndash;%३)+++, त+++([पा])+++ना+++(v३)+++ऐ,,त्नो+++([पि]३)+++र् आ+++(३)+++चित्ता+++(&amp;ldquo;)+++त+++(v)+++ ।
+हि+++([ता])+++रण्+++(%)+++यारू+++([त]&amp;ndash;%३)+++पा+++([रा]३)+++आम् +आवा,,सा+++([पै]-&amp;ldquo;-&amp;rdquo;-५)+++ऐ,
 का+++([पॄ]&amp;ldquo;)+++अर्णू+++(&amp;rdquo;)+++ऊ,ध्वाङ+++(&amp;ldquo;)+++ङा+++(&amp;rdquo;)+++अम् ।</description>
     </item>
     
     <item>
       <title>आदीषादिय्यम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/soma/paravastu-saama/adishadiyyam/</link>
+      <link>file:///android_asset/docs/mantra/soma/paravastu-saama/adishadiyyam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/soma/paravastu-saama/adishadiyyam/</guid>
+      <guid>file:///android_asset/docs/mantra/soma/paravastu-saama/adishadiyyam/</guid>
       <description>ऋक् RV.9.106.10a; SV.1.572a; 2.290a; JB.3.78a;
 +++([सायणो ऽत्र। चक्षुराख्यपुत्रो ऽग्निर् ऋषिः। उष्णिक्। सोमः।])+++
 सोम॑ः पुना॒न ऊ॒र्मिणा ऽव्यो॒ +++(=मेषस्य)+++ वारं॒ +++(=वालम्)+++ वि धा॑वति +++(पवनार्थम्)+++।
@@ -322,15 +367,15 @@
 अ+++([घै])+++व्यवँ+++(२)+++ वा+++([&amp;ldquo;]३)+++आरं-विधा+++(दा)+++, आआ+++(&amp;ndash;&amp;ldquo;३)+++, वाआति।
 अग्रे+++([ले])+++ए+++(&amp;ldquo;)+++, वा+++(&amp;rdquo;)+++अ, चा+++([टू]&amp;ldquo;)+++ह। पा+++([जि])+++वमा+++(&amp;ldquo;)+++ना,आ+++(&amp;rdquo;)+++हा।
 का+++([पे]&amp;ldquo;&amp;rdquo;)+++आनाअअ, औ+++([&amp;ldquo;])+++हो+++([&amp;ldquo;]%३)+++वा+++(३-&amp;rdquo;)+++आ।। क्रा+++([ले])+++दादे+++(&amp;ldquo;)+++ए।
-आदीषादिय्यम्। भवत्यायुरायुर्वै। आदीषादिय्य,म्आयुषो+++(३”)+++वृद्ध्यै+++(३v)+++।</description>
+आदीषादिय्यम्। भवत्यायुरायुर्वै। आदीषादिय्य,म्आयुषो+++(३&amp;rdquo;)+++वृद्ध्यै+++(३v)+++।</description>
     </item>
     
     <item>
       <title>आपो हि ष्ठा</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/apo-hi-shtha/</link>
+      <link>file:///android_asset/docs/mantra/misc-devas/rk/apo-hi-shtha/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/apo-hi-shtha/</guid>
+      <guid>file:///android_asset/docs/mantra/misc-devas/rk/apo-hi-shtha/</guid>
       <description>सिन्धूद्वीप ऋषिः। गायत्री। आपः।
 आपो॒ हि ष्ठा म॑यो॒भुव॑स्
 ता न॑ ऊ॒र्जे+++(जाः)+++ द॑धातन ।
@@ -344,11 +389,24 @@
     </item>
     
     <item>
-      <title>आरुहन् दिवः</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/misc-devas/paravastu-saama/aruhan/</link>
+      <title>आभिर् गीर्भिः</title>
+      <link>file:///android_asset/docs/mantra/indra/rk/abhir-girbhih/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/misc-devas/paravastu-saama/aruhan/</guid>
+      <guid>file:///android_asset/docs/mantra/indra/rk/abhir-girbhih/</guid>
+      <description>भट्टभास्करो ऽत्र।
+आ॒भिर्गी॒र्भिर् यद् अतो॑ न ऊ॒नम् ।
+आप्या॑यय हरिवो॒ +++(=अश्ववान्, स्वर्णवान् वा [इन्द्रः])+++ वर्द्ध॑मानः।
+य॒दा स्तो॒तृभ्यो॒ महि॑ गो॒त्रा +++(=मेघान्)+++ रु॒जासि॑ +++(=भिनक्षि)+++।
+भू॒यि॒ष्ठ॒भाजो॒ अध॑+++(=अत)+++ ते स्याम।</description>
+    </item>
+    
+    <item>
+      <title>आरुहन् दिवः</title>
+      <link>file:///android_asset/docs/mantra/misc-devas/paravastu-saama/aruhan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///android_asset/docs/mantra/misc-devas/paravastu-saama/aruhan/</guid>
       <description>ऋक् SV.1.92b; AV;S.12.2.12b; 18.1.61b.
 +++([रामनाथ-वेदालङ्कारो ऽत्र।])+++
 इत एत उदारुहन् दिवः पृष्ठान्यारुहन्। प्र भूर् +++(=भुवः)+++ जयो यथा पथो द्यामङ्गिरसो ययुः॥
@@ -363,11 +421,11 @@
     
     <item>
       <title>आरोहोरुम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/arohorum/</link>
+      <link>file:///android_asset/docs/mantra/misc-devas/rk/arohorum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/arohorum/</guid>
-      <description>आरो॑हो॒रुमुप॑बर्‌हस्व बा॒हुं
+      <guid>file:///android_asset/docs/mantra/misc-devas/rk/arohorum/</guid>
+      <description>आरो॑हो॒रुमुप॑बर्हस्व बा॒हुं
 परि॑ष्वजस्व जा॒याꣳ सु॑मन॒स्यमा॑नः +++(=प्रीयमाणः)+++ ।
 तस्यां॑ पुष्यतं मिथु॒नौ सयो॑नी (=सङ्गतोपस्थौ)
 ब॒ह्वीं प्र॒जां ज॒नय॑न्तौ॒ सरे॑तसा ।
@@ -387,19 +445,19 @@
     
     <item>
       <title>आशीर्वचन-सामानि</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/sangrahah/paravastu-saama/ashirvachana/</link>
+      <link>file:///android_asset/docs/mantra/sangrahah/paravastu-saama/ashirvachana/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/sangrahah/paravastu-saama/ashirvachana/</guid>
+      <guid>file:///android_asset/docs/mantra/sangrahah/paravastu-saama/ashirvachana/</guid>
       <description> पारम्परिक-मूलानि  १९३७ १९७५ २०१५               </description>
     </item>
     
     <item>
       <title>आश्वसूक्तं</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/ashva-suktam/</link>
+      <link>file:///android_asset/docs/mantra/indra/paravastu-saama/ashva-suktam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/ashva-suktam/</guid>
+      <guid>file:///android_asset/docs/mantra/indra/paravastu-saama/ashva-suktam/</guid>
       <description>ऋक् RV 8 14_+++(634)+++ 1 a +++([सायणो ऽत्र। ऋषिः - आश्वसूक्तिः काण्वगोत्रः। गायत्री। इन्द्रः।])+++
 यदि॑न्द्रा॒हं यथा॒ त्वमीशी॑य॒ वस्व॒ एक॒ इत् । स्तो॒ता मे॒ गोष॑खा स्यात् १
 साम  पारम्परिक-गान-मूलम् अत्र। कौथुमगानम् अत्र।        आ+++(३)+++श्व+++(&amp;ldquo;)+++-सूक्तम् ।
@@ -416,39 +474,39 @@
     
     <item>
       <title>इन्द्रन्नरो- ग्रामगेयम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/indran-naro-grama-geyam/</link>
+      <link>file:///android_asset/docs/mantra/indra/paravastu-saama/indran-naro-grama-geyam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/indran-naro-grama-geyam/</guid>
+      <guid>file:///android_asset/docs/mantra/indra/paravastu-saama/indran-naro-grama-geyam/</guid>
       <description>ऋक् RV.7.27.1a; SV.1.318a; TS.1.6.12.1a; MS.4.12.3a: 184.17; 4.14.5: 221.11; KB.26.15; A;S.3.7.11. P: indraM naraH TS.2.1.11.1; 3.14.1; 3.1.11.4; 4.3.13.8; TB.2.8.2.5; ;S;S.6.10.7; 10.11.5; M;S.5.1.10.49; Svidh.2.1.5.
 +++([सायणो ऽत्र। वसिष्ठः। त्रिष्टुभ्। इन्द्रः।])+++
 इन्द्रं नरो ने॒मधि॑ता +++(=सङ्ग्रामे)+++ हवन्ते +++(=ह्वयन्ति)+++
 यत् पारि॑या +++(=युद्धनिमित्ताः)+++ यु॒नज॑ते +++(=प्रयुज्यन्ते)+++ धिय॑स् ताः ।
 शूरो नृषा॑ता +++(=नृणां सम्भक्ता)+++ शव॑सश् चका॒न +++(कामयमानः)+++ आ गोम॑ति व्र॒जे भ॑जा॒ त्वं नः॑ ।।
 साम  पारम्परिक-गान-मूलम् २०१५। १९३७। कौथुम-गानम् अत्र।      ग्रामेगेयम्।
-इन्,+++([])+++द्रन्, नारोओ ।</description>
+इन्,+++([]%)+++द्रन्+++(%)+++ ना+++(%)+++रोओ ।</description>
     </item>
     
     <item>
       <title>इन्द्रन्नरो- निश्वसेत्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/indran-naro-nishvaset/</link>
+      <link>file:///android_asset/docs/mantra/indra/paravastu-saama/indran-naro-nishvaset/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/indran-naro-nishvaset/</guid>
+      <guid>file:///android_asset/docs/mantra/indra/paravastu-saama/indran-naro-nishvaset/</guid>
       <description>ऋक् RV.7.27.1a; SV.1.318a; TS.1.6.12.1a; MS.4.12.3a: 184.17; 4.14.5: 221.11; KB.26.15; A;S.3.7.11. P: indraM naraH TS.2.1.11.1; 3.14.1; 3.1.11.4; 4.3.13.8; TB.2.8.2.5; ;S;S.6.10.7; 10.11.5; M;S.5.1.10.49; Svidh.2.1.5.
 +++([सायणो ऽत्र। वसिष्ठः। त्रिष्टुभ्। इन्द्रः।])+++
 इन्द्रं नरो ने॒मधि॑ता +++(=सङ्ग्रामे)+++ हवन्ते +++(=ह्वयन्ति)+++
 यत् पारि॑या +++(=युद्धनिमित्ताः)+++ यु॒नज॑ते +++(=प्रयुज्यन्ते)+++ धिय॑स् ताः ।
 शूरो नृषा॑ता +++(=नृणां सम्भक्ता)+++ शव॑सश् चका॒न +++(कामयमानः)+++ आ गोम॑ति व्र॒जे भ॑जा॒ त्वं नः॑ ।।
-साम  पारम्परिक-गान-मूलम् २०१५। १९३७। कौथुम-गानम् अत्र।        {हा+++([&amp;ldquo;प]३)+++ उ}+++([त्रिः])+++। {नि+++([त])+++,श्वसे+++(३&amp;rdquo;)+++त्}+++([त्रिः])+++।</description>
+साम  पारम्परिक-गान-मूलम् २०१५। १९३७। कौथुम-गानम् अत्र।      {हा+++([&amp;ldquo;प]३)+++ उ}+++([त्रिः])+++। {नि+++([त])+++,श्वसे+++(३&amp;rdquo;)+++त्}+++([त्रिः])+++।</description>
     </item>
     
     <item>
       <title>इन्द्राय त्वा</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/indra/yajus/indraya-tva/</link>
+      <link>file:///android_asset/docs/mantra/indra/yajus/indraya-tva/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/indra/yajus/indraya-tva/</guid>
+      <guid>file:///android_asset/docs/mantra/indra/yajus/indraya-tva/</guid>
       <description>इन्द्रा॑य त्वा॒ तेज॑स्वते॒ तेज॑स्वन्तꣳ श्रीणामि ।
 इन्द्रा॑य॒ त्वौज॑स्वत॒ ओज॑स्वन्तꣳ श्रीणामि ।
 इन्द्रा॑य त्वा॒ पय॑स्वते॒ पय॑स्वन्तꣳ श्रीणामि ।
@@ -464,27 +522,27 @@
     
     <item>
       <title>ईळिष्व जातवेदसम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/agni/paravastu-saama/idishva/</link>
+      <link>file:///android_asset/docs/mantra/agni/paravastu-saama/idishva/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/agni/paravastu-saama/idishva/</guid>
+      <guid>file:///android_asset/docs/mantra/agni/paravastu-saama/idishva/</guid>
       <description>ऋक् RV.8.23.1b; SV.1.103b.
 +++([सायणो ऽत्र। व्यश्वपुत्रो विश्वमना ऋषिः। उष्णिक्। अग्निः।])+++
 ईळि॑ष्व+ हि प्र॑ती॒व्य॑म् +++(=प्रतिगन्तारम्)+++
 यज॑स्व जा॒तवे॑दसम् ।
 च॑रि॒ष्णुधू॑मम् अगृ॑भीत-शोचिषम् ।।
-साम  पारम्परिक-गान-मूलम् अत्र।      ई+++([&amp;ldquo;पी])++++डाइष्वा+++(३)+++अ +हि प्राती+++(%)+++व्या+++(&amp;rdquo;)+++अम्।
+साम  पारम्परिक-गान-मूलम् अत्र।       ई+++([&amp;ldquo;पी])++++डाइष्वा+++(३)+++अ +हि प्राती+++(%)+++व्या+++(&amp;rdquo;)+++अम्।
 या+++([तै]३%)+++जस्+++(२)+++ वा+++(३)+++, जा+++(३&amp;rdquo;)+++,ता+++([घै])+++वे+++(३)+++,दासा+++(३&amp;rdquo;)+++अम् ।
-चा+++([पी])+++रीष्णु+++(ष्म)+++धूमा+++([टू]%)+++म् +आ+++(&amp;ldquo;)+++अ,,ग्री+++([टी] ग्नी)+++भा+++(३&amp;rdquo;)+++अइ,,ता+++([पे]&amp;ldquo;&amp;ldquo;३)+++अशोऒऒ।
+चा+++([पी])+++रीष्णु+++(ष्म)+++धूमा+++([टू]%)+++म् +आ+++(&amp;ldquo;)+++अ,,गॄ+++([टी] ग्नी)+++भा+++(३&amp;rdquo;)+++अइ,,ता+++([पे]&amp;ldquo;&amp;ldquo;३)+++अशोऒऒ।
 औ+++([&amp;ldquo;])+++हो+++([&amp;ldquo;]%३)+++वा+++(३-&amp;rdquo;)+++आ। ची+++([टू]३%)+++षा+++(&amp;ldquo;)+++अम्।</description>
     </item>
     
     <item>
       <title>उच्चा ते</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/soma/paravastu-saama/uchcha-te/</link>
+      <link>file:///android_asset/docs/mantra/soma/paravastu-saama/uchcha-te/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/soma/paravastu-saama/uchcha-te/</guid>
+      <guid>file:///android_asset/docs/mantra/soma/paravastu-saama/uchcha-te/</guid>
       <description>ऋक् RV.9.61.10b; SV.1.467b; 2.22b; VS.26.16b; JB.1.81,116; 3.40.
 +++([सायणो ऽत्र। सामभाष्ये ऽत्र। आङ्गीरसो अमहीयुः। गायत्री। सोमः।])+++
 उ॒च्चा ते जा॒तम् +++(=जन्म)+++ अन्ध॑सो +++(=रसस्य)+++
@@ -498,20 +556,19 @@
     
     <item>
       <title>उदकशान्ति-सामानि</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/sangrahah/paravastu-saama/udakashanti/</link>
+      <link>file:///android_asset/docs/mantra/sangrahah/paravastu-saama/udakashanti/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/sangrahah/paravastu-saama/udakashanti/</guid>
-      <description>पारम्परिक-मूलानि  १९३७ १९७५ २०१५                      अरिष्टवर्गः ।        ॥  ॥    पवित्रवर्गः     इंद्र शुद्धोहिनोरयं । शुद्धो रत्नानि दाशुषे । शुद्धो वृत्राणि जघ्नसे । शुद्धो वाजं शिषासती ।
-सोमं राजानं वरुणं । अग्नि मन्वारभा महे । आदित्यं विष्णुं सूर्यं । ब्रह्माण० च बृहस्पतिं ।</description>
+      <guid>file:///android_asset/docs/mantra/sangrahah/paravastu-saama/udakashanti/</guid>
+      <description>पारम्परिक-मूलानि  १९३७ १९७५ २०१५                      अरिष्टवर्गः ।        ॥  ॥    पवित्रवर्गः          हारिवर्णं । तं+++([])+++ते, मदाअं, गृणीईमसाइ । वा+++([])+++र्षाणंपॄउ । क्षु+++([])+++सासा, हीइ० । हो,+++([])+++: वाअहाइ । उ+++([])+++लोका, कॄउ । हो,+++([])+++: वाअहा । त्नू,+++([])+++मा अ । द्रा,+++([])+++इवाअअ, औहोवाअ । ह+++([])+++रि, श्रियाअ० ॥</description>
     </item>
     
     <item>
       <title>उन्नयामि</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/misc-devas/paravastu-saama/unnayami/</link>
+      <link>file:///android_asset/docs/mantra/misc-devas/paravastu-saama/unnayami/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/misc-devas/paravastu-saama/unnayami/</guid>
+      <guid>file:///android_asset/docs/mantra/misc-devas/paravastu-saama/unnayami/</guid>
       <description>ऋक् KS.11.8; K;S.4.15.6; M;S.1.6.1.26? &amp;ldquo;आदित्यस्योन्नयादित्यात्मा ४१० उन्नयामि महानाम्नी साम ४११&amp;rdquo; इत्यरण्यगानसूचौ दृश्यते। कौथुमगानम् अत्र।
 +++(अरित्रम्)+++ उन्नयामि! आदित्यम् प्राञ्चय्ँ यन्त।
 अहोरात्राणि+अरित्राणि +++(=नौचालनदण्डानि)+++। द्यौर् नौः।
@@ -525,19 +582,19 @@
     
     <item>
       <title>ऋतुशान्ति-सामानि</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/sangrahah/paravastu-saama/rtu-shanti/</link>
+      <link>file:///android_asset/docs/mantra/sangrahah/paravastu-saama/rtu-shanti/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/sangrahah/paravastu-saama/rtu-shanti/</guid>
+      <guid>file:///android_asset/docs/mantra/sangrahah/paravastu-saama/rtu-shanti/</guid>
       <description> पारम्परिक-मूलानि  १९३७ १९७५ २०१५  </description>
     </item>
     
     <item>
       <title>एतो न्विन्द्रम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/eto-nvindram/</link>
+      <link>file:///android_asset/docs/mantra/indra/paravastu-saama/eto-nvindram/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/eto-nvindram/</guid>
+      <guid>file:///android_asset/docs/mantra/indra/paravastu-saama/eto-nvindram/</guid>
       <description>४ ६ २ ०९०१
 एतो॒ न्विन्द्रं॒ स्तवा॑म
 शु॒द्धं शु॒द्धेन॒ साम्ना॑ ।
@@ -547,27 +604,25 @@
 शु॒द्धः शु॒द्धाभिः ऊ॒तिभिः ।
 शु॒द्धो र॒यिं नि धा॑रय
 शु॒द्धो म॑मद्धि सो॒म्यः ।।
-साम १ ए,+++([])+++ऎतोओ, न्विंद्रं+++(२)+++ स्तावाअ,माअअ ।
+साम १   ए,+++([])+++ऎतोओ, न्विंद्रं+++(२)+++ स्तावाअ,माअअ ।
 शु+++([])+++द्धं शुद्धे,,ना सा,आम्ना।
 शु+++([])+++द्धैर् रुक्थै+++(ध्धै)+++र् वा,वृध्वा,अङ्साम्।
 शु+++([])+++ध्धैरा,शीइ,,र्वा,+++([])+++अन्
 म+++([])+++माअअ,औहोवाअ। तू+++([])+++उ ॥
-साम २ ए+++([])+++तो,ओ, न्विंद्रं स्तवाम्मअ।
+साम २   ए+++([])+++तो,ओ, न्विंद्रं स्तवाम्मअ।
 शु+++([])+++द्धं, शुद्धॆ,,ना+++([])+++।
 सा+++([])+++म्ना+++([])+++अ।
 शु+++([])+++द्धाइर् ऊ,उक्था+++(ध्धा)+++इहि+++(v)+++।
 वा,+++([])+++वा,अर्ध्वांसाअम्।
-शु+++([])+++द्धैरा, आशी,,र्वा+++([])+++न् मामत्तु ।
-इ+++([])+++डा,अभाअअ।
-ओ+++([])+++इ । डा+++([])+++अ ॥</description>
+शु+++([])+++द्धैरा, आशी,,र्वा+++([])+++न् मामत्तु ।</description>
     </item>
     
     <item>
       <title>एष स्य धारया सुतः</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/soma/paravastu-saama/eshasya-dharaya/</link>
+      <link>file:///android_asset/docs/mantra/soma/paravastu-saama/eshasya-dharaya/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/soma/paravastu-saama/eshasya-dharaya/</guid>
+      <guid>file:///android_asset/docs/mantra/soma/paravastu-saama/eshasya-dharaya/</guid>
       <description>ऋक् RV.9.108.5a; SV.1.584a; JB.3.192a; PB.14.5.2.
 +++([सायणो ऽत्र। आङ्गीरस ऊरुः। गायत्री। सोमः।])+++
 ए॒ष स्य +++(=स)+++ धार॑या +++(पवते)+++ सु॒तो
@@ -580,32 +635,32 @@
     
     <item>
       <title>क ईं व्यक्ताः</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/misc-devas/paravastu-saama/ka-im-vyaktah/</link>
+      <link>file:///android_asset/docs/mantra/misc-devas/paravastu-saama/ka-im-vyaktah/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/misc-devas/paravastu-saama/ka-im-vyaktah/</guid>
+      <guid>file:///android_asset/docs/mantra/misc-devas/paravastu-saama/ka-im-vyaktah/</guid>
       <description>ऋक् +++([सायणो ऽत्र कौथुमभाष्ये। वसिष्ठः। द्विपदा। मरुतः।])+++
 १ ५ १ ०५०७
 क+++(य्)+++ ईं व्यक्ता नरः+++(=नेतारः)+++ सनीडा रुद्रस्य मर्या+++(=मर्त्येभ्यो [हिताः])+++ अथ स्वश्वाः॥
-साम १  पारम्परिकगानमूलम् - २०१५।]      का+++([के])+++ई, इव्ँ व्या, अक्ताह+++(v)+++।
-न+++([पो])+++रस् सा,अ+++([णॣ])+++नाइडा+++(प्रे)+++ह+++(v)+++ ।
-रु+++([पौ])+++द्रस्य+++(स)+++मर्या,अह+++(v)+++ ।
-आ,+++([पे])+++अथाअअ, औहो+++([&amp;ldquo;])+++वाअ।
-सु+++([ज])+++वा,आश्वाह+++(v)+++ ॥
-साम २     क+++([पा])+++ई, इइम्, विया,क्ता+++([&amp;ldquo;])+++ह+++(v)+++।
-न+++([पा])+++रा, अस् सा,नी+++([&amp;ldquo;])+++डाह+++(v)+++।
-रु+++([पॄ])+++द्र, स्या+++(सा)+++ माआर्या,अह+++(v)+++।
-आ,+++([पे])+++अथाअअ, औ+++([&amp;ldquo;])+++हो+++([&amp;ldquo;])+++वाअ ।
-सु+++([ज])+++वाआश्वाह+++(v)+++ ॥
-साम ३     का+++([का])+++ई, इम् ।</description>
+साम १  पारम्परिकगानमूलम् - २०१५।      का+++([के])+++ ई+++(३%&amp;ndash;)+++इव्ँ व्या+++(३%&amp;ndash;)+++अक्ता+++(३%&amp;ndash;)+++ह+++(v)+++।
+न+++([पो])+++रस् सा+++(&amp;ldquo;)+++अ+++([णॣ])+++नाइडा+++(प्रे)+++[अ]ह+++(v)+++ ।
+रु+++([पौ])+++द्रस्य+++(स)+++मर्या+++(३&amp;ndash;%)+++अह+++(v)+++ ।
+आ+++([पे]३&amp;rdquo;),+++अथाअअ, औहो+++([&amp;ldquo;])+++वाअ।
+सु+++([ज])+++वा+++(३)+++,आश्वा+++(३&amp;ndash;&amp;ldquo;)+++ह+++(v)+++ ॥
+साम २     क+++([पा])+++ ई+++(&amp;ldquo;)+++इइम्+++(२)+++ विया+++(%)+++क्ता+++([&amp;ldquo;])+++ह+++(v)+++।
+न+++([पा])+++रा+++(&amp;ldquo;)+++अस् सानी+++([&amp;ldquo;])+++डाह+++(v)+++।
+रु+++([पॄ])+++द्र, स्या+++(सा)+++ माआ+++(%)+++र्या+++(३&amp;ndash;%)+++अह+++(v)+++।
+आ+++([पे]३&amp;rdquo;)+++,अथाअअ, औ+++([&amp;ldquo;])+++हो+++([&amp;ldquo;]३%)+++वा+++(&amp;rdquo;)+++अ ।
+सु+++([ज])+++वाआश्वा+++(&amp;ndash;&amp;ldquo;३)+++ह+++(v)+++ ॥
+साम ३     का+++([का]%)+++ ई+++(&amp;ldquo;)+++इम् ।</description>
     </item>
     
     <item>
       <title>कृणुष्व पाजः</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/agni/rk/krnushva-pajah/</link>
+      <link>file:///android_asset/docs/mantra/agni/rk/krnushva-pajah/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/agni/rk/krnushva-pajah/</guid>
+      <guid>file:///android_asset/docs/mantra/agni/rk/krnushva-pajah/</guid>
       <description>कृ॒णु॒ष्व पाजः॒ +++(=तेजः)+++ प्रसि॑ति॒न् +++(=जालं)+++ न पृ॒थ्वीं
 या॒हि राजे॒वाम॑वा॒ꣳ॒ +++(=सहवान्)+++ इभे॑न ।
 तृ॒ष्वीम् +++(=वेगम्)+++ अनु॒ प्रसि॑तिं +++(=सैन्यं)+++ द्रूणा॒नो
@@ -621,10 +676,10 @@
     
     <item>
       <title>क्रोशम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/krosham/</link>
+      <link>file:///android_asset/docs/mantra/indra/paravastu-saama/krosham/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/krosham/</guid>
+      <guid>file:///android_asset/docs/mantra/indra/paravastu-saama/krosham/</guid>
       <description>ऋक् SV.1.381a; 2.96a; JB.1.227,228; PB.9.2.21. RV.8.13.1a; A;S.6.4.10; ;S;S.9.18.1; 18.12.1.
 +++([सायणो ऽत्र। काण्वो नारदः। उष्णिक्। इन्द्रः।])+++
 इन्द्रः सु॒तेषु सोमे॑षु
@@ -643,10 +698,10 @@
     
     <item>
       <title>गारम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/garam/</link>
+      <link>file:///android_asset/docs/mantra/indra/paravastu-saama/garam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/garam/</guid>
+      <guid>file:///android_asset/docs/mantra/indra/paravastu-saama/garam/</guid>
       <description>ऋक् RV.8.2.1a
 +++(सायणो ऽत्र। काण्वः, मेधातिथिः, आङ्गीरसः प्रियमेधः। गायत्री। इन्द्रो देवः।)+++
 इ॒दं व॑सो सु॒तमन्धः॒ +++(=अशनीयम्)+++ पिबा॒ सुपू॑र्णमु॒दर॑म् । .अना॑भयिन्ररि॒मा +++(=दद्मः)+++ ते॑ ।।
@@ -660,10 +715,10 @@
     
     <item>
       <title>गौषूक्तम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/gaushuktam/</link>
+      <link>file:///android_asset/docs/mantra/indra/paravastu-saama/gaushuktam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/gaushuktam/</guid>
+      <guid>file:///android_asset/docs/mantra/indra/paravastu-saama/gaushuktam/</guid>
       <description>ऋक् RV 8 14_+++(634)+++ 1 a
 यदि॑न्द्रा॒हं यथा॒ त्वमीशी॑य॒ +++(=ईश्वरस्स्याम्)+++ वस्व॒ +++(=धनस्य)+++ एक॒ इत् । स्तो॒ता मे॒ गोष॑खा स्यात् १ स्वर् महः +++(=यज्ञः)+++।
 +++([सायणो ऽत्र। ऋषिः - गोषूक्तिः काण्वगोत्रः। गायत्री। इन्द्रः।])+++
@@ -679,10 +734,10 @@
     
     <item>
       <title>चक्षुषो हेते</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/agni/rk/chaxusho-hete/</link>
+      <link>file:///android_asset/docs/mantra/agni/rk/chaxusho-hete/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/agni/rk/chaxusho-hete/</guid>
+      <guid>file:///android_asset/docs/mantra/agni/rk/chaxusho-hete/</guid>
       <description>चक्षु॑षो हेते॒ मन॑सो हेते । वाचो॑हेते॒ ब्रह्म॑णो हेते ।
 योमा॑ऽघा॒युर॑भिदास॑ति+++(=अभिचरति)+++ । तम॑ग्ने मे॒न्या+++(=मन्युना)+++ ऽमे॒निं कृ॑णु ।
 यो मा॒ चक्षु॑षा॒ यो मन॑स । यो वा॒चा ब्रह्म॑णाघा॒युर॑भि॒दास॑ति ।
@@ -695,10 +750,10 @@
     
     <item>
       <title>जयादयः</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/misc-devas/yajus/jayadi/</link>
+      <link>file:///android_asset/docs/mantra/misc-devas/yajus/jayadi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/misc-devas/yajus/jayadi/</guid>
+      <guid>file:///android_asset/docs/mantra/misc-devas/yajus/jayadi/</guid>
       <description>चि॒त्तं च॒ [स्वाहा] चित्ति॒श् च [स्वाहा] आकू॑तं॒ च [स्वाहा] आकू॑तिश्च॒ [स्वाहा] विज्ञा॑तं च [स्वाहा] वि॒ज्ञानं॑ च॒ [स्वाहा] मन॑श्च॒ [स्वाहा] शक्व॑रीश्च॒ [स्वाहा] दर््श॑श्च [स्वाहा] पू॒र्णमा॑सश्च [स्वाहा] बृ॒हच्च॑ [स्वाहा] रथंत॒रं च॑ [स्वाहा]॥ प्र॒जाप॑ति॒र्जया॒निन्द्रा॑य॒ वृष्णे॒ प्राय॑च्छदु॒ग्रः पृ॑त॒नाज्ये॑षु॒। तस्मै॒ विशः॒ सम॑नमन्त॒ सर्वाः॒ स उ॒ग्रः स हि हव्यो॑ ब॒भूव॑ [स्वाहा] ॥
 ब्राह्मणम् आस॒न्थ्स इन्द्रः॑ प्र॒जाप॑ति॒मुपा॑धाव॒त्। तस्मा॑ ए॒ताञ्जया॒न्प्राय॑च्छ॒त्।
 तान॑जुहो॒त्। ततो॒ वै दे॒वा असु॑रानजय॒न्। यदज॑य॒न्तज्जया॑नां जय॒त्वम्।
@@ -709,28 +764,28 @@
     
     <item>
       <title>जराबोधीयम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/agni/paravastu-saama/jarabodha/</link>
+      <link>file:///android_asset/docs/mantra/agni/paravastu-saama/jarabodha/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/agni/paravastu-saama/jarabodha/</guid>
+      <guid>file:///android_asset/docs/mantra/agni/paravastu-saama/jarabodha/</guid>
       <description>ऋक् +++([सायणो ऽत्र कौथुमभाष्ये। शुनशेपः। अग्निः।])+++
 १ १ १ ०२०५
 जरा+++(=स्तुति)+++बोध तद् विविड्ढि+++(=प्रविश)+++ विशेविशे यज्ञियाय।
 स्तोमं+++(=स्तोत्रं)+++ रुद्राय +++(ते)+++ दृशीकम्+++(=दर्शनीयम्)+++॥
-साम  पारम्परिकगानमूलम् - २०१५।]      जराबोधिय्यम् । ज+++([पै])+++रा+++([&amp;ldquo;])+++, बो+++([&amp;ldquo;])+++ऒ, धो+++(%)+++वाअ ।
-ता+++([तै])+++द् विविड्ढाइ ।
-वी+++([का])+++शाइवा, इशॆ ।
-य+++([र])+++ज्ञी,या+++([&amp;ldquo;])+++या।
-स्तो+++([&amp;ldquo;घृ])+++माम्+++(२)+++, रुऊद्रा,याआ,
-द्री+++([प])+++इ,,शि+++([टि]&amp;ldquo;)+++इको+++(&amp;rdquo;)+++,इ,डा+++([प]&amp;ldquo;)+++अ ॥</description>
+साम  पारम्परिकगानमूलम् - २०१५।      जराबोधिय्यम् । ज+++([पै])+++रा+++([&amp;ldquo;])+++, बो+++([&amp;ldquo;])+++ऒ, धो+++(%)+++वा+++(&amp;rdquo;)+++अ ।
+ता+++([तै]%)+++द् विविड्ढा+++(३&amp;ndash;%)+++इ ।
+वी+++([का])+++शाइवा+++(३&amp;ndash;%)+++इशे ।
+य+++([र])+++ज्ञी+++(%)+++या+++([&amp;ldquo;]%)+++या+++(३&amp;ndash;%)+++।
+स्तो+++([&amp;ldquo;घृ])+++माम्+++(२)+++, रुऊ+++(%)+++द्रा+++(३&amp;ndash;%)+++या+++(&amp;rdquo;)+++आ,
+द्री+++([प]&amp;ldquo;)+++इ,,शि+++([टि]&amp;ldquo;)+++इको+++(&amp;rdquo;)+++,इ,डा+++([प]&amp;ldquo;)+++अ ॥</description>
     </item>
     
     <item>
       <title>जातवेदसे सुनवाम</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/agni/rk/jatavedase-sunavama/</link>
+      <link>file:///android_asset/docs/mantra/agni/rk/jatavedase-sunavama/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/agni/rk/jatavedase-sunavama/</guid>
+      <guid>file:///android_asset/docs/mantra/agni/rk/jatavedase-sunavama/</guid>
       <description>जा॒तवे॑दसे सुनवाम॒ सोम॑मरातीय॒तो निद॑हाति॒ वेदः॑। स नः॑ पर्ष॒दति॑ दु॒र्गाणि॒ विश्वा॑ ना॒वेव॒ सिन्धुं॑ दुरि॒ताऽत्य॒ग्निः॥
 ताम॒ग्निव॑र्णां॒ तप॑सा ज्वल॒न्तीं वै॑रोच॒नीं क॑र्मफ॒लेषु॒ जुष्टा॑॑म्। दु॒र्गां दे॒वीꣳ शर॑णम॒हं प्रप॑द्ये सु॒तर॑सि तरसे॒ नमः॑॥
 अग्ने॒ त्वं पा॑रया॒ नव्यो॑ अ॒स्मान् स्व॒स्तिभि॒रति॑ दु॒र्गाणि॒ विश्वा॑॑। पूश्च॑ पृ॒थ्वी ब॑हु॒ला न॑ उ॒र्वी भवा॑ तो॒काय॒ तन॑याय॒ शंयोः॥
@@ -741,10 +796,10 @@
     
     <item>
       <title>तरत् स मन्दी</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/soma/paravastu-saama/tarat-sa-mandi/</link>
+      <link>file:///android_asset/docs/mantra/soma/paravastu-saama/tarat-sa-mandi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/soma/paravastu-saama/tarat-sa-mandi/</guid>
+      <guid>file:///android_asset/docs/mantra/soma/paravastu-saama/tarat-sa-mandi/</guid>
       <description>ऋक् +++([सायणो ऽत्र कौथुमभाष्ये। कविः। जगती। सोमः।])+++
 ४ ४ १ ०५ ०१
 +++(पापभ्यो)+++ तर॑त्+++(=तारयन्)+++ स म॒न्दी+++(=हर्षकरः [सोमः])+++ धा॑वति
@@ -757,15 +812,15 @@
 +++(अशिवनानुग्रहपात्रौ प्रसिद्धौ दातारौ यजमानौ प्राचीनौ, सोमसोमधारानिभौ, तयोः)+++
 आ स॒हस्रा॑णि दद्महे । तर॑त् स म॒न्दी धा॑वति॥
 आ ययो॑स्+++(=ध्वस्रपुरुषन्त्योः)+++ त्रिं॒शतं॒ तना+++(=वस्त्राणि)+++ स॒हस्रा॑णि च॒ दद्म॑हे । तर॑त् स म॒न्दी धा॑वति॥
-साम १  पारम्परिकगानमूलम् - २०१५।]      ओं,</description>
+साम १  पारम्परिकगानमूलम् - २०१५।]    ओं,</description>
     </item>
     
     <item>
       <title>तव त्यन्नर्यत्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/tava-tyan-naryam/</link>
+      <link>file:///android_asset/docs/mantra/indra/paravastu-saama/tava-tyan-naryam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/tava-tyan-naryam/</guid>
+      <guid>file:///android_asset/docs/mantra/indra/paravastu-saama/tava-tyan-naryam/</guid>
       <description>ऋक् RV.2.22.4b; SV.1.466b.
 +++([सायणो ऽत्र। गृत्स्नमदः। अतिशक्वरी। इन्द्रः।])+++
 तव त्यन् +++(=तत्)+++ नर्यं॑ +++(= नराणाम्)+++ नृतो +++(=नर्तयितः)+++
@@ -780,10 +835,10 @@
     
     <item>
       <title>तवाहम् - महावैराजम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/soma/paravastu-saama/tavaham-mahavairajam/</link>
+      <link>file:///android_asset/docs/mantra/soma/paravastu-saama/tavaham-mahavairajam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/soma/paravastu-saama/tavaham-mahavairajam/</guid>
+      <guid>file:///android_asset/docs/mantra/soma/paravastu-saama/tavaham-mahavairajam/</guid>
       <description>ऋक् RV.9.107.19a; SV.1.516a; 2.272a; JB.3.67a; PB.12.9.3a; Svidh.1.5.8.
 +++([सायणो ऽत्र। ७ ऋषयः। सोमः।])+++
 तवा॒हं सो॑म रारण +++(=सन्तुष्टवान्)+++
@@ -802,70 +857,70 @@
     
     <item>
       <title>त्यमू षु</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/misc-devas/paravastu-saama/tyamu-shu/</link>
+      <link>file:///android_asset/docs/mantra/misc-devas/paravastu-saama/tyamu-shu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/misc-devas/paravastu-saama/tyamu-shu/</guid>
+      <guid>file:///android_asset/docs/mantra/misc-devas/paravastu-saama/tyamu-shu/</guid>
       <description>ऋक् +++([सायणो ऽत्र कौथुमभाष्ये। तार्क्ष्यपुत्रो ऽरिष्टनेमिः। ।])+++
 १ ४ १ ०५०१
 त्यमू+++(=तं)+++ षु वाजिनं+++(=अन्नवन्तं बलवन्तं वा)+++ देव-जूतं+++(प्रेरितम् प्रीतं वा [सोमाहरणाय])+++
 सहो+++(हा +ऋग्वेदे)+++वानं+++(=सहस्वन्तं)+++ तरुतारं+++(=तारकम्)+++ +++(पर)+++रथानाम् । अरिष्ट-नेमिं+++(=नमनशीलायुधं)+++ पृतना+++(=[पर]सेना)++++ऽजम्+++(अज गति-क्षेपणयोः)+++ आशुं
 स्वस्तये तार्क्ष्यम्+++(=तृक्षजम्)+++ इहा +हुवेम ।। ३३२
-साम १  पारम्परिकगानमूलम् - २०१५।]      त्य+++([])+++मूषुउ ।
-वा,+++([])+++आजिना+++([])+++अम्।
-दे+++([])+++वजू, उताअम्।
-स+++([])+++होवा,नन् ता,,रु+++([])+++ता,,रम्+++([])+++,
-राथानाअम्। अ+++([])+++रिष्टानाइ, मिइम् ।
-प्र+++([]पृ)+++तना,अआ,जेमा,शूउम्।
-स्व+++([])+++स्ता,,या+++([])+++इ ।
-ता+++([])+++र्क्ष्यामि,हाअअ ।
-हू+++([])+++उवाइ, माङङाअ ॥
-साम २     ई([])य, इया, हाइ ।</description>
+साम १  पारम्परिकगानमूलम् - २०१५।      त्य+++([])+++मू+++(%)+++षु+++(&amp;ldquo;)+++उ ।
+वा+++([]&amp;ldquo;३)+++आजिना+++([]३-%-)+++अम्।
+दे+++([])+++वजू+++([]%&amp;ndash;३)+++ उता+++(३-%-)+++अम्।
+स+++([])+++हो+++(३)+++वा,नन् ता+++(३&amp;ndash;%)+++,रु+++([])+++ता[अ]रम्+++([])+++,
+रा+++(%)+++था+++(%)+++ना+++(&amp;ldquo;)+++अम्।
+अ+++([])+++रिष्टा+++(%)+++ना+++(%)+++इमि+++(&amp;ldquo;)+++इम् ।
+पृ+++([]प्र)+++तना+++(&amp;ndash;%-%&amp;ndash;)+++,ज+++(जे)+++मा+++(%)+++शू+++(&amp;ldquo;)+++उम्।
+स्व+++([])+++स्ता+++(%)+++या+++([]&amp;ndash;%३)+++इ ।
+ता+++([&amp;ldquo;पृ]%)+++र्क्ष्यामि,हा+++(&amp;ndash;%-%&amp;ndash;)+++ ।
+हू+++([]&amp;ldquo;)+++उ,वा+++(&amp;rdquo;)+++इ,मा+++(&amp;ldquo;)+++ङ्,अ+++(&amp;rdquo;)+++ङ्,आ+++(&amp;ldquo;)+++अ ॥
+साम २     ई+++([]३)+++य, इया+++(३)+++हाइ ।</description>
     </item>
     
     <item>
       <title>त्रातारम् इन्द्रम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/trataram-indram/</link>
+      <link>file:///android_asset/docs/mantra/indra/paravastu-saama/trataram-indram/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/trataram-indram/</guid>
+      <guid>file:///android_asset/docs/mantra/indra/paravastu-saama/trataram-indram/</guid>
       <description>ऋक् +++([सायणो ऽत्र कौथुमभाष्ये। वारुणिः सत्यधृतिः, वत्सः च। मित्रः वरुणः अर्यमा इन्द्रः।])+++
 १ ४ १ म्५म्२
 त्रातारमिन्द्रमवितारमिन्द्रं हवेहवे+++(=ह्वाने ह्वाने)+++ सुहवं+++(=स्वाह्वेयं)+++ शूरमिन्द्रम्।
 हुवे+++(=ह्वयामि)+++ नु शक्रं पुरुहूतमिन्द्रमिदं [+मघवस् स्वस्ति नो] हविर् मघवा वेत्व्+++(=वैतु =भक्षयतु)+++ इ्द्रः॥
-साम १  पारम्परिकगानमूलम् - २म्१५।]      त्रा,([])तारमिन्द्रम् अविता,,रा,([])आ,मी,इन्द्राम् ।
-ह([])वे, हवे, सुहवम् शू,,रा,([])आ,मी, इन्द्राम्।
-हू([])वाइनशक्रम् पुरुहू,,ता([])आमी,इन्द्राम् ।
-इ([])दम्, मघव, स्वस्ती नो।
-मा([])घावा।
-वा,([])अअइ,,तू,([])उ, वा इ,न्द्राङङाह ॥</description>
+साम १  पारम्परिकगानमूलम् - २म्१५।]      त्रा+++([]%)+++तारमिन्द्रम् अविता+++(३&amp;ndash;%)+++,,रा,+++([])+++आ+++(%)+++मी+++(३&amp;ndash;%)+++इन्द्राम् ।
+ह+++([])+++वे, हवे, सुहवम् शू+++(३&amp;ndash;%)+++रा+++([])+++आ+++(%)+++मी+++(३&amp;ndash;%)+++इन्द्राम्।
+हू+++([])+++वाइ नु+++(न)+++ शक्रम् पुरुहू+++(३&amp;ndash;%)+++ता+++([])+++आ+++(%)+++मी+++(३&amp;ndash;%)+++इन्द्राम् ।
+इ+++([])+++दम्, मघव, स्वस्ती+++(%)+++ नो+++(३&amp;ndash;%)+++ मा+++([])+++घा+++(%)+++वा+++(३&amp;ndash;%)+++
+वा+++([]-%)+++आ+++(%)+++अइ,तू+++([])+++उ,वा इ,न्द्राङङाह ॥</description>
     </item>
     
     <item>
       <title>त्वावतः</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/tvavatah/</link>
+      <link>file:///android_asset/docs/mantra/indra/paravastu-saama/tvavatah/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/tvavatah/</guid>
+      <guid>file:///android_asset/docs/mantra/indra/paravastu-saama/tvavatah/</guid>
       <description>ऋक् +++([सायणो ऽत्र कौथुमभाष्ये। वारुणिः सत्यधृतिः, वत्सः च। मित्रः वरुणः अर्यमा इन्द्रः।])+++
 १ २ २ १००९
 त्वावतः+++(=त्वादृशस्य)+++ पुरूवसो वयमिन्द्र प्रणेतः ।
 स्मसि+++(=स्मः)+++ स्थातर् हरीणाम् +++(=अश्वानां हिरण्यकेशानाम् वा!)+++ ।
-साम १  पारम्परिकगानमूलम् - २०१५।]      धुरांसाकमश्वम्।
-त्वा+++([])+++वतो, ओहौ+++([])+++, उहॊओइ ।
-पु+++([])+++रूवसो, ओहौ+++([])+++, उहॊओइ+++()+++ ।
-वयमिन्+++(२)+++द्रा, अहौ+++([])+++, उहॊओइ ।
-प्र+++([])+++णेता,अह हौ+++([])+++, उहॊओइ ।
-स्म+++([])+++सि स्थाता,अह हौ+++([])+++उहॊओइ ।
-ह+++([])+++रीणा,अं हौ+++([])+++, उहॊ,ओ+++(&amp;ldquo;)+++इडा+++([])+++अ ॥</description>
+साम १  पारम्परिकगानमूलम् - २०१५।      धुरांसाकमश्वम्।
+त्वा+++([])+++वतो+++(३&amp;ndash;%)+++ ओहौ+++([]३&amp;ndash;%)+++, उहॊओ+++(३&amp;rdquo;)+++इ ।
+पु+++([])+++रू+++(%)+++वसो+++(३&amp;ndash;%)+++ ओहौ+++([]३&amp;ndash;%)+++, उहॊओ+++(३&amp;rdquo;)+++इ ।
+वयमिन्+++(२)+++द्रा+++(३-v)+++ अहौ+++([]३&amp;ndash;%)+++, उहॊओ+++(३&amp;rdquo;)+++इ ।
+प्र+++([])+++णे+++(%)+++ता+++(३&amp;ndash;%)+++अह हौ+++([]३&amp;ndash;%)+++, उहॊओ+++(३&amp;rdquo;)+++इ ।
+स्म+++([])+++सि स्था+++(%)+++ता+++(३&amp;ndash;%)+++अह हौ+++([]३&amp;ndash;%)+++उहॊओ+++(३&amp;rdquo;)+++इ ।
+ह+++([])+++री+++(%)+++णा+++(३&amp;ndash;%)+++अं हौ+++([]३&amp;ndash;%)+++, उहॊ,ओ+++(&amp;ldquo;)+++इडा+++([])+++अ ॥</description>
     </item>
     
     <item>
       <title>त्वे सु पुत्र</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/indra/rk/tve-suputra/</link>
+      <link>file:///android_asset/docs/mantra/indra/rk/tve-suputra/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/indra/rk/tve-suputra/</guid>
+      <guid>file:///android_asset/docs/mantra/indra/rk/tve-suputra/</guid>
       <description>त्वे सु पु॑त्त्र शव॒सो
 ऽवृ॑त्र॒न् +++(=अवर्तन्त)+++ काम॑-कातयः +++(=कामकामनाः)+++ ।
 न त्वामि॒न्द्राति॑ रिच्यते ।।
@@ -877,10 +932,10 @@
     
     <item>
       <title>दिवस्परि</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/agni/rk/divaspari/</link>
+      <link>file:///android_asset/docs/mantra/agni/rk/divaspari/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/agni/rk/divaspari/</guid>
+      <guid>file:///android_asset/docs/mantra/agni/rk/divaspari/</guid>
       <description>इह +ऋतयोनेः खल्वग्नेर् जन्मानि ध्यायन्ते।
 त्रेधा जन्म   दि॒वस् परि॑ प्रथ॒मं ज॑ज्ञे अ॒ग्निर्
  अ॒स्मद् द्वि॒तीय॒म् परि॑ जा॒तवे॑दाः ।
@@ -897,10 +952,10 @@
     
     <item>
       <title>दीर्घम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/soma/paravastu-saama/dirgham/</link>
+      <link>file:///android_asset/docs/mantra/soma/paravastu-saama/dirgham/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/soma/paravastu-saama/dirgham/</guid>
+      <guid>file:///android_asset/docs/mantra/soma/paravastu-saama/dirgham/</guid>
       <description>ऋक् RV.9.108.13a; SV.1.582a; 2.446a; JB.3.161
 +++([सायणो ऽत्र। ऋणञ्चयो नाम राजऋषिः। गायत्री। सोमः।])+++
 स सु॑न्वे॒ +++(=अभिसुषुवे)+++ यो वसू॑नां॒ यो रा॒याम् +++(=गवाम् क्षीरादिरातॄणाम्)+++
@@ -915,10 +970,10 @@
     
     <item>
       <title>देवीं वाचम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/devim-vacham/</link>
+      <link>file:///android_asset/docs/mantra/misc-devas/rk/devim-vacham/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/devim-vacham/</guid>
+      <guid>file:///android_asset/docs/mantra/misc-devas/rk/devim-vacham/</guid>
       <description>दे॒वीं वाच॑मजनयन्त दे॒वाः । तां वि॒श्वरू॑पाः प॒शवो॑ वदन्ति ।
 सा नो॑ म॒न्द्रेष॒मूर्जं॒ दुहा॑ना । धे॒नुर्वाग॒स्मानुप॒सुष्टु॒तैतु॑ ।
 यद्वाग्वद॑न्त्यविचेत॒नानि॑ । राष्ट्री॑दे॒वानां॑ निष॒साद॑ म॒न्द्रा +++(अस्मत्कर्मणि)+++।
@@ -931,10 +986,10 @@
     
     <item>
       <title>द्रुहो मुञ्चामि</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/druho-munchami/</link>
+      <link>file:///android_asset/docs/mantra/misc-devas/rk/druho-munchami/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/druho-munchami/</guid>
+      <guid>file:///android_asset/docs/mantra/misc-devas/rk/druho-munchami/</guid>
       <description>प्रतिज्ञा क्षे॒त्रि॒यै +++(=अचिकित्स्यव्याधेः)+++ त्वा॒ निर्ऋ॑त्यै त्वा..
 द्रु॒हो मु॑ञ्चामि॒ वरु॑णस्य॒ पाशा॑त् ।
 अ॒ना॒गसं॒ ब्रह्म॑णे त्वा करोमि
@@ -954,10 +1009,10 @@
     
     <item>
       <title>धाता ददातु</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/dhata-dadatu/</link>
+      <link>file:///android_asset/docs/mantra/misc-devas/rk/dhata-dadatu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/dhata-dadatu/</guid>
+      <guid>file:///android_asset/docs/mantra/misc-devas/rk/dhata-dadatu/</guid>
       <description>धा॒ता द॑दातु नो र॒यिम्
 ईशा॑नो॒ जग॑त॒स्पतिः॑ ।
 स नः॑ पू॒र्णेन॑ वावनत् ।
@@ -977,10 +1032,10 @@
     
     <item>
       <title>ध्रुव-वन्दनम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/misc-devas/yajus/dhruva/</link>
+      <link>file:///android_asset/docs/mantra/misc-devas/yajus/dhruva/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/misc-devas/yajus/dhruva/</guid>
+      <guid>file:///android_asset/docs/mantra/misc-devas/yajus/dhruva/</guid>
       <description>ध्रु॒वस्त्वम॑सि। ध्रु॒वस्य क्षि॑तमसि।
 त्वं भू॒ताना॒मधि॑पतिरसि॒। त्वं भू॒ताना॒ँ श्रेष्ठो॑ऽसि॒।
 त्वां भू॒तान्युप॑ प॒र्याव॑र्तन्ते॒। नम॑स्ते॒ नम॒स्सर्व॑न्ते॒ नमः॑ । (22) ।। 19 ।</description>
@@ -988,54 +1043,52 @@
     
     <item>
       <title>नक्षत्रसूक्तम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/naxatra-suuktam/</link>
+      <link>file:///android_asset/docs/mantra/misc-devas/rk/naxatra-suuktam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/naxatra-suuktam/</guid>
-      <description>कृत्तिकाः अ॒ग्निर् नᳶ॑ पातु॒ कृत्ति॑काः। नक्ष॑त्रन् दे॒वम् +++(=द्योतमानम्)+++ इ॑न्द्रि॒यम्।
+      <guid>file:///android_asset/docs/mantra/misc-devas/rk/naxatra-suuktam/</guid>
+      <description>परिचयः  टीकाः - तैत्तिरीयब्राह्मणभाष्ये सायणीय अत्र। सर्वस्मिन् भागय् आदिमा ऋक् पुरोनुवाक्या होत्रा ऽध्वर्युणा चोदितेन वाच्या। अपरा याज्या ऽध्वर्युणा।   कृत्तिकाः +++(Pleiades)+++
+अ॒ग्निर् नᳶ॑ पातु॒ कृत्ति॑काः। नक्ष॑त्रन् दे॒वम् +++(=द्योतमानम्)+++ इ॑न्द्रि॒यम्।
 इ॒दमा॑साव्ँ विचक्ष॒णम्। ह॒विरा॒सञ् जु॑होत न।
 यस्य॒ भान्ति॑ र॒श्मयो॒ यस्य॑ के॒तवः॑। यस्ये॒मा विश्वा॒ भुव॑नानि॒ सर्वा॑।
 स कृत्ति॑काभिर॒भिसव्ँवसा॑नः। अ॒ग्निर् नो॑ +++(=अस्मान्)+++ दे॒वस् सु॑वि॒ते +++(=सुप्राप्ते {कर्मफले})+++ द॑धातु॥
 अ॒ग्नये॒ स्वाहा॒ कृत्ति॑काभ्यः॒ स्वाहा॑।
 अ॒म्बायै॒ स्वाहा॑ दु॒लायै॒ स्वाहा॑।
 नि॒त॒न्त्यै स्वाहा॒ऽभ्रय॑न्तै॒ स्वाहा॑।
-मे॒घय॑न्त्यै॒ स्वाहा॑ व॒र्ष॒य॑न्त्यै॒ स्वाहा॑।चु॒पु॒णिका॑यै॒ स्वाहा॑।
-रोहिणी +++(ब्रह्महृदयं = capella = beta taurii खलु रोहिणीशकटे (Taurus-मुखम्) वर्तते।)+++
-प्र॒जाप॑ते+++(ः)+++ रोहि॒णी वे॑तु॒ +++(=भुङ्क्ताम्)+++ पत्नी॑। वि॒श्वरू॑पा बृह॒ती चि॒त्रभा॑नुः।
-सा नो॑ य॒ज्ञस्य॑ सुवि॒ते द॑धातु। यथा॒ जीवे॑म श॒रद॒स् सवीराः॑।</description>
+मे॒घय॑न्त्यै॒ स्वाहा॑ व॒र्ष॒य॑न्त्यै॒ स्वाहा॑।चु॒पु॒णिका॑यै॒ स्वाहा॑।</description>
     </item>
     
     <item>
       <title>नमस्ते ऽग्ने</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/agni/paravastu-saama/namas-te-agne/</link>
+      <link>file:///android_asset/docs/mantra/agni/paravastu-saama/namas-te-agne/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/agni/paravastu-saama/namas-te-agne/</guid>
+      <guid>file:///android_asset/docs/mantra/agni/paravastu-saama/namas-te-agne/</guid>
       <description>ऋक् 8 75_+++(684)+++ 10 a
 +++([सायणो ऽत्र। विश्वामित्रः। अग्निः।])+++
 नम॑स्ते अग्न॒ ओज॑से गृ॒णन्ति॑ +++(=वदन्ति)+++ देव कृ॒ष्टयः॑ +++(=मनुष्याः)+++।
 अमै॑र् +++(=बलैर्)+++ अ॒मित्र॑म् अर्दय +++(=नाशय)+++ ।
 साम  पारम्परिक-गान-मूलम् १९३७-लेखा। १९७५। २०१५-लेखा।      ना+++([क])+++मस्तौ हो+++([का]%&amp;ldquo;%)+++ग्नाइ। ओ+++([तः]&amp;ldquo;)+++ओजसा+++(३)+++अइ।
 गृ+++([पॄ])+++णा+++(&amp;ldquo;३)+++अन्ता+++(%)+++इ दे+++(&amp;rdquo;)+++एवा+++([घि]%)+++ कृ+++(%)+++ष्टया+++([प्रे])+++अ+++([ति])+++ह+++(v)+++।
-अमा+++(&amp;ldquo;”३)+++यॆ+++(&amp;rdquo;)+++ऎहे+++(v)+++।
-आ+++([पे]&amp;ldquo;३)+++अमाआआ, औ+++([&amp;ldquo;प])+++हो+++([&amp;ldquo;]%३)+++वा+++(३-”)+++आ, त्र+++([ले])+++मर्दे+++(&amp;ldquo;३)+++या+++(३)+++अ+++(३v)+++॥</description>
+अमा+++(&amp;ldquo;&amp;ldquo;३)+++यॆ+++(&amp;rdquo;)+++ऎहे+++(v)+++।
+आ+++([पे]&amp;ldquo;३)+++अमाआआ, औ+++([&amp;ldquo;प])+++हो+++([&amp;ldquo;]%३)+++वा+++(३-&amp;rdquo;)+++आ, त्र+++([ले])+++मर्दे+++(&amp;ldquo;३)+++या+++(३)+++अ+++(३v)+++॥</description>
     </item>
     
     <item>
       <title>नमो ब्रह्मणे</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/namo-brahmane/</link>
+      <link>file:///android_asset/docs/mantra/misc-devas/rk/namo-brahmane/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/namo-brahmane/</guid>
+      <guid>file:///android_asset/docs/mantra/misc-devas/rk/namo-brahmane/</guid>
       <description>नमो॒ ब्रह्म॑णे॒ नमो॑ अस्त्व॒ग्नये॒ नमः॑ पृथि॒व्यै नम॒ ओष॑धीभ्यः । नमो॑ वा॒चे नमो॑ वा॒चस्पत॑ये॒ विष्ण॑वे बृह॒ते क॑रोमि ॥</description>
     </item>
     
     <item>
       <title>नमो ऽस्तु सर्पेभ्यः</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/namo-astu-sarpebhyah/</link>
+      <link>file:///android_asset/docs/mantra/misc-devas/rk/namo-astu-sarpebhyah/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/namo-astu-sarpebhyah/</guid>
+      <guid>file:///android_asset/docs/mantra/misc-devas/rk/namo-astu-sarpebhyah/</guid>
       <description>हरदत्तो ऽत्र।
 नमो॑ अस्तु स॒र्पेभ्यो॒ ये के च॑ पृथि॒वीमनु॑ ।
 ये अ॒न्तरि॑क्षे॒ ये दि॒वि तेभ्यः॑ स॒र्पेभ्यो॒ नमः॑ ॥
@@ -1047,10 +1100,10 @@
     
     <item>
       <title>नानदम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/nanadam/</link>
+      <link>file:///android_asset/docs/mantra/indra/paravastu-saama/nanadam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/nanadam/</guid>
+      <guid>file:///android_asset/docs/mantra/indra/paravastu-saama/nanadam/</guid>
       <description>ऋक् +++([कौथुमभाष्ये सायणो ऽत्र। भरद्वाजः। इन्द्रः।])+++
 +++(अध्वर्यो!)+++ प्रत्यस्मै पिपीषते विश्वानि विदुषे भर ।
 अरङ् +++(=अलं)+++ गमाय जग्मये +++(=गमनशीलाय)+++ ऽपश्चादध्वने +++(=पुरोगाय)+++ नरः।
@@ -1064,10 +1117,10 @@
     
     <item>
       <title>नासदासीत्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/nasadiyam/</link>
+      <link>file:///android_asset/docs/mantra/misc-devas/rk/nasadiyam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/nasadiyam/</guid>
+      <guid>file:///android_asset/docs/mantra/misc-devas/rk/nasadiyam/</guid>
       <description>नास॑दासी॒न्नो सदा॑सीत्त॒दानी॑म् । नासी॒द्रजो॒ नो व्यो॑मा प॒रो यत् ।
 किमाव॑रिवः॒+++(?)+++ कुह॒ कस्य॒ शर्मन्॑ । अम्भः॒ किमा॑सी॒द्गह॑नं गभी॒रम् ।
 न मृ॒त्युर॒मृतं॒ तर्हि॒ न । रात्रि॑या॒ अह्न॑ आसीत् प्रके॒तः+++(=सङ्केतः [ज्योतींषि])+++ ।
@@ -1080,10 +1133,10 @@
     
     <item>
       <title>पञ्चचोडाः</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/misc-devas/yajus/pancha-chodah/</link>
+      <link>file:///android_asset/docs/mantra/misc-devas/yajus/pancha-chodah/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/misc-devas/yajus/pancha-chodah/</guid>
+      <guid>file:///android_asset/docs/mantra/misc-devas/yajus/pancha-chodah/</guid>
       <description>अ॒यंपु॒रो हरि॑केशः॒ सूर्य॑रश्मि॒स्
 तस्य॑ रथगृ॒त्सश्च॒ रथौ॑जाश्च सेनानिग्राम॒ण्यौ॑
 पुञ्जिकस्थ॒ला च कृतस्थ॒ला चा᳚प्सरस॒रसौ॑
@@ -1105,11 +1158,20 @@
     </item>
     
     <item>
-      <title>पवमानः</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/soma/paravastu-saama/pavamana/</link>
+      <title>परवस्तुसामाभ्यासः</title>
+      <link>file:///android_asset/docs/mantra/meta/paravastu-sama/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/soma/paravastu-saama/pavamana/</guid>
+      <guid>file:///android_asset/docs/mantra/meta/paravastu-sama/</guid>
+      <description>पारम्परिकविधिः  गुरुर् एकदा वदति। शिष्यो द्विरनुवदति - पुस्तकमदृष्ट्वा। एवं १०+वारम् अभ्यस्य ततः परं पुस्तकं दृष्ट्व्याऽभ्यस्यति। गुरुः परीक्ष्य शोधयति।  स्वानुभवः मुख्यांशाः  यथाश्रुतानुकरणम् प्रधानम्। लिखितपाठो गौणः, किञ्च कदाचिद् ग्राह्यतरः (सम्प्रदाये कदाचित् सन्देहास्पदा वर्णव्यत्ययास् तत्र तत्र विद्यन्ते)।  स्वरचिह्नानि किमर्थानीति सम्प्रदाये ज्ञानं नष्टप्रायम्। स्वरचिह्नानि कानीत्यवगन्तुं प्रयत्नो ऽत्र।  वर्णालङ्काराः मुख्यतमाः। यथा - प्रेङ्खास्वरः, गमकस्य विविधनिवेशनानि, मात्राः। सम्बद्धटिप्पणयो ऽत्र।  santhA recordings I practiced a few saamans using our santhA recordings.</description>
+    </item>
+    
+    <item>
+      <title>पवमानः</title>
+      <link>file:///android_asset/docs/mantra/soma/paravastu-saama/pavamana/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///android_asset/docs/mantra/soma/paravastu-saama/pavamana/</guid>
       <description>ऋक् RV.9.61.16a; SV.1.484a; 2.239a; JB.3.59; PB.12.7.5.
 +++([सायणो ऽत्र। सामभाष्ये ऽत्र। आङ्गीरसो ऽंहीयुः। गायत्री। सोमः।])+++
 पव॑मानो अजीजनद्
@@ -1118,7 +1180,7 @@
 साम - जनित्रे द्वे १  पारम्परिक-गान-मूलम् अत्र।      पा+++([का]३)+++वा+++(३-&amp;ldquo;)+++अ। मा+++([त]%)+++नो+++(३&amp;rdquo;)+++। अ+++([ठौ])+++जीजा+++(%)+++नात् ।
 दि+++([र])+++वश्चित्राम्+++(२)+++ न तन्यतू+++(३)+++म् ।
 ज्यो+++([&amp;ldquo;घि]%)+++तिर्+++(२)++++वैश्+++(२)+++श्वा+++(&amp;ldquo;३)+++अ, ना+++([पे]३&amp;rdquo;&amp;ldquo;)+++अराअअअ।
-औ+++([&amp;ldquo;])+++हो+++([&amp;ldquo;]%३)+++वा+++(३-”)+++आ। बॄ+++([टू]२%)+++हात् ॥
+औ+++([&amp;ldquo;])+++हो+++([&amp;ldquo;]%३)+++वा+++(३-&amp;rdquo;)+++आ। बॄ+++([टू]२%)+++हात् ॥
 साम - जनित्रे द्वे २   प+++([प])+++वमा+++(%)+++नह+++(v)+++ । अ+++([तः])+++जा+++(%)+++इ,जा+++(&amp;ldquo;)+++अना+++(&amp;rdquo;)+++त+++(v)+++।
 दि+++([जि])+++वश्चित्रा+++(-&amp;ldquo;३)+++म्। हा+++(-&amp;ldquo;३)+++अइ।
 ना+++([पॄ]&amp;ldquo;३)+++।तन्या+++(%)+++तूउम् ।
@@ -1126,11 +1188,23 @@
     </item>
     
     <item>
-      <title>पश्येम शरदः</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/pashyema-sharadah/</link>
+      <title>पवित्रन्ते विततम्</title>
+      <link>file:///android_asset/docs/mantra/misc-devas/paravastu-saama/pavitran-te/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/pashyema-sharadah/</guid>
+      <guid>file:///android_asset/docs/mantra/misc-devas/paravastu-saama/pavitran-te/</guid>
+      <description>ऋक् पवित्रंतॆ, विततं ब्रह्मणस्पते । प्रभुर्गात्राणि, पर्येषि , विश्वत : । अतप्त तनू र्नतधामोश्नुते । श्रितास, यिद्वहंत स्संतदा शत ॥
+साम १   अर्कपुष्पाद्यं ।
+प+++([])+++: वित्रंते, ऎवितातं, ब्रह्मणस्पते, ऎ ।
+हु+++([])+++वे, ऎ ।। द्वि:।। हो+++([])+++वा, हाअहा+++([])+++इ । प्र+++([])+++: भुर्गात्राणि, पर्ये, एषि , विश्वता: । हु+++([])+++वे, ऎ ।। द्वि:।। हो+++([])+++वा, हा अहा+++([])+++इ । अ+++([])+++तप्ततनुर्नतादा, अमोश्नुते, ए । हु+++([])+++वे, ऎ ।। द्वि:।। हो+++([])+++वा, हाअहा+++([])+++इ । श्री+++([])+++ता, साइद्वहंत, स्स०तादा,+++([])+++आशता । हु+++([])+++वे, ऎ ।। द्वि:।। हो+++([])+++वा, हा अहा+++([])+++आअ । औ+++([])+++हो, वाअ । अ+++([])+++र्को देवान्नाअ०, परमेव्यो,+++([])+++ओमाअअन् ॥</description>
+    </item>
+    
+    <item>
+      <title>पश्येम शरदः</title>
+      <link>file:///android_asset/docs/mantra/misc-devas/rk/pashyema-sharadah/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///android_asset/docs/mantra/misc-devas/rk/pashyema-sharadah/</guid>
       <description>पश्ये॑म श॒रदः॑ श॒तं, जीवे॑म श॒रदः॑ श॒तं,
 नन्दा॑म श॒रदः॑ श॒तं, मोदा॑म श॒रदः॑ श॒तं,
 भवा॑म श॒रदः॑ श॒तंँ, शृणवा॑म श॒रदः॑ श॒तं,
@@ -1138,11 +1212,25 @@
     </item>
     
     <item>
-      <title>पिब मत्स्व - महावैराजम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/piba-somam-mahavairajam/</link>
+      <title>पाकत्रा</title>
+      <link>file:///android_asset/docs/mantra/agni/rk/pakatra/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/piba-somam-mahavairajam/</guid>
+      <guid>file:///android_asset/docs/mantra/agni/rk/pakatra/</guid>
+      <description> भट्टभास्करो ऽत्र।
+यत्पा॑क॒त्रा +++(=पाकेन)+++ मन॑सा {सततयज्ञैः}
+दी॒नद॑क्षा॒ +++(=दीनबलाः)+++ न ।
+य॒ज्ञस्य॑ म॒न्वते॒ मर्ता॑सः । अ॒ग्निष्टद् धोता॑ क्रतु॒विद् वि॑जा॒नन्न् ।
+यजि॑ष्ठो दे॒वाꣳ ऋ॑तु॒शो य॑जाति +++(=यजतु)+++ ।।
+विनियोगः  बोधायङ्गृह्ये - सर्वत्रेध्माबर्हिषः प्रयाजानूयाजानां पाकत्राकर्मसु &amp;ldquo;यत्पाकत्रा मनसे&amp;rdquo;त्येतया स्रुवाहुतिं जुहुयात्।  </description>
+    </item>
+    
+    <item>
+      <title>पिब मत्स्व - महावैराजम्</title>
+      <link>file:///android_asset/docs/mantra/indra/paravastu-saama/piba-somam-mahavairajam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///android_asset/docs/mantra/indra/paravastu-saama/piba-somam-mahavairajam/</guid>
       <description>ऋक् आ याहि पिब मत्स्व। ओजः सहो बलम् इन्द्रो वयो बृहद् ऋतं स्वर् ज्योतिर् दधे।
 RV.7.22.1a; AV;S.20.117.1a; SV.1.398a; 2.277a; TS.2.4.14.3a; AB.3.22.11; 5.4.19; KB.15.5; PB.12.10.1a; AA.5.3.1.2; A;S.5.15.23; 7.11.27; ;S;S.7.20.11; 10.5.9; Vait.40.8; 42.9; Svidh.2.1.11.
 +++([सायणो ऽत्र। वसिष्ठः। विराट्। इन्द्रः।])+++
@@ -1155,10 +1243,10 @@ RV.7.22.1a; AV;S.20.117.1a; SV.1.398a; 2.277a; TS.2.4.14.3a; AB.3.22.11; 5.4.19;
     
     <item>
       <title>पिब सोमम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/piba-somam/</link>
+      <link>file:///android_asset/docs/mantra/indra/paravastu-saama/piba-somam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/piba-somam/</guid>
+      <guid>file:///android_asset/docs/mantra/indra/paravastu-saama/piba-somam/</guid>
       <description>ऋक् RV.7.22.1a; AV;S.20.117.1a; SV.1.398a; 2.277a; TS.2.4.14.3a; AB.3.22.11; 5.4.19; KB.15.5; PB.12.10.1a; AA.5.3.1.2; A;S.5.15.23; 7.11.27; ;S;S.7.20.11; 10.5.9; Vait.40.8; 42.9; Svidh.2.1.11.
 +++([सायणो ऽत्र। वसिष्ठः। विराट्। इन्द्रः।])+++
 पिबा॒ सोम॑मिन्द्र॒ मन्द॑तु +++(=मादयतु)+++ त्वा
@@ -1173,11 +1261,23 @@ RV.7.22.1a; AV;S.20.117.1a; SV.1.398a; 2.277a; TS.2.4.14.3a; AB.3.22.11; 5.4.19;
     </item>
     
     <item>
-      <title>पृथिवी शान्तिः</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/prthivi-shantih/</link>
+      <title>पुनस्त्वादित्या</title>
+      <link>file:///android_asset/docs/mantra/agni/rk/punas-tva-adityah/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/prthivi-shantih/</guid>
+      <guid>file:///android_asset/docs/mantra/agni/rk/punas-tva-adityah/</guid>
+      <description>पुन॑स् त्वा ऽऽदि॒त्या रु॒द्रा वस॑वः॒ समि॑न्धतां॒,
+पुन॑र् ब्र॒ह्माणो॑ वसुनीथ +++(=?)+++ य॒ज्ञैः ।
+घृ॒तेन॒ त्वं त॒नुवो॑ वर्धयस्व,
+स॒त्याः स॑न्तु॒ यज॑मानस्य॒ कामाः᳚ ॥</description>
+    </item>
+    
+    <item>
+      <title>पृथिवी शान्तिः</title>
+      <link>file:///android_asset/docs/mantra/misc-devas/rk/prthivi-shantih/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///android_asset/docs/mantra/misc-devas/rk/prthivi-shantih/</guid>
       <description>पृ॒थि॒वी शान्ति॑र् अ॒न्तरि॑क्ष॒ँ शान्ति॒र् द्यौश् शान्ति॒र्।
 दिश॒श् शान्ति॑र् अवान्तरदि॒शश् शान्ति॑र्
 अ॒ग्निश् शान्ति॑र् वा॒युश् शान्ति॑र्
@@ -1190,10 +1290,10 @@ RV.7.22.1a; AV;S.20.117.1a; SV.1.398a; 2.277a; TS.2.4.14.3a; AB.3.22.11; 5.4.19;
     
     <item>
       <title>प्रातरग्निम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/pratar-agnim/</link>
+      <link>file:///android_asset/docs/mantra/misc-devas/rk/pratar-agnim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/pratar-agnim/</guid>
+      <guid>file:///android_asset/docs/mantra/misc-devas/rk/pratar-agnim/</guid>
       <description>प्रा॒तर॒ग्निं प्रा॒तरिन्द्रं॑ हवामहे प्रा॒तर् मि॒त्रावरु॑णा प्रा॒तर॒श्विना॑ ।
 प्रा॒तर् भगं॑ पू॒षणं॒ ब्रह्म॑ण॒स्पतिं॑ प्रा॒तः सोम॑मु॒त रु॒द्रं हु॑वेम ॥१॥
 प्रा॒त॒र्जितं॒ +++(=जयशीलं)+++ भग॑मु॒ग्रं हु॑वेम व॒यं पु॒त्रमदि॑ते॒र्यो वि॑ध॒र्ता +++(=विश्वधारकः)+++।
@@ -1206,57 +1306,38 @@ RV.7.22.1a; AV;S.20.117.1a; SV.1.398a; 2.277a; TS.2.4.14.3a; AB.3.22.11; 5.4.19;
     
     <item>
       <title>प्रातरभ्यासो विश्वासस्य</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/sangrahah/paravastu-saama/pratarabhyasah/</link>
+      <link>file:///android_asset/docs/mantra/sangrahah/paravastu-saama/pratarabhyasah/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/sangrahah/paravastu-saama/pratarabhyasah/</guid>
+      <guid>file:///android_asset/docs/mantra/sangrahah/paravastu-saama/pratarabhyasah/</guid>
       <description>     </description>
     </item>
     
     <item>
       <title>प्रोक्षण-सामानि</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/sangrahah/paravastu-saama/proxana/</link>
+      <link>file:///android_asset/docs/mantra/sangrahah/paravastu-saama/proxana/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/sangrahah/paravastu-saama/proxana/</guid>
+      <guid>file:///android_asset/docs/mantra/sangrahah/paravastu-saama/proxana/</guid>
       <description> पारम्परिक-मूलानि  १९३७ १९७५ २०१५  </description>
     </item>
     
     <item>
-      <title>बर्हिषीयम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/agni/paravastu-saama/barhishiyam/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vvasuki.github.io/saMskAra/mantra/agni/paravastu-saama/barhishiyam/</guid>
-      <description>ऋक् RV.6.16.10
-+++([सायणो ऽत्र। भरद्वाजः। गायत्री। अग्निः।])+++
-अग्न आ या॑हि वी॒तये +++(=हविर्भक्षणाय)+++
-गृणा॒नो +++(=स्तूयमानः)+++ ह॒व्यदा॑तये +++(देवेभ्यः)+++ ।
-नि होता॑ सत्सि ब॒र्हिषि॑ ।।
-साम +++(गौतमस्य पर्कः)+++  पारम्परिक-गान-मूलम् अत्र।      ओ+++([का]३&amp;ndash;%)+++ग्ना+++(३)+++इ। आ+++([&amp;ldquo;पो])+++या+++([&amp;ldquo;]&amp;ndash;%३)+++ही+++(३)+++इ ।
-वो+++(%)+++इ,तो+++(%)+++या+++([प्रे])+++अइ । तो+++([ता]%)+++या+++([प्रे])+++अइ ।
-गृ+++([ता])+++णा+++([ऽ])+++नो+++([&amp;ldquo;]३)+++ओ हा+++(३)+++व्या+++([पृ])+++दा+++(३)+++तो+++(%)+++या+++([प्रे])+++अइ । तो+++([ता]%)+++या+++([प्रे])+++अइ ।
-ना+++([घि])+++इ हो+++(&amp;ldquo;३)+++ओता+++(%)+++ सा+++(&amp;ldquo;३)+++अ। त्सा+++([पे]&amp;ldquo;&amp;ldquo;३)+++,अइ
-+बाआअअर्, औ+++([&amp;ldquo;])+++हो+++([&amp;ldquo;]%)+++वा+++(३)+++अ। ही+++([टू]-&amp;ldquo;)+++षी+++(३)+++इ॥
-आ+++([])+++ग्ना, आ, आयाअ, हिवीइ, त+++([])+++या, इ । गृ+++([])+++: णानो हव्यदाता, अयाइ । नि+++([])+++होता सत्सि बर्हा, इषि । बर्हा, इषाअअ । औहोवाअ । ब+++([])+++र्हीषीइ ॥</description>
-    </item>
-    
-    <item>
       <title>ब्रह्म जज्ञानम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/misc-devas/paravastu-saama/brahma-jajjnanam/</link>
+      <link>file:///android_asset/docs/mantra/misc-devas/paravastu-saama/brahma-jajjnanam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/misc-devas/paravastu-saama/brahma-jajjnanam/</guid>
+      <guid>file:///android_asset/docs/mantra/misc-devas/paravastu-saama/brahma-jajjnanam/</guid>
       <description>ऋक् AV;S.4.1.1a; 5.6.1a; AVP.5.2.2a; 6.11.1a; SV.1.321a; VS.13.3a; TS.4.2.8.2a; MS.2.7.15a: 96.11; 3.2.6: 23.8; KS.16.15a; 20.5; 38.14a; AB.1.19.1; KB.8.4; ;SB.7.4.1.14; 14.1.3.3; TB.2.8.8.8a; TA.10.1.10a; A;S.4.6.3a; 9.9.12; ;S;S.5.9.5a; 15.3.6; 18.1.2. P: brahma jaj~nAnam TS.5.2.7.1 +++(bis)+++; GB.2.2.6; TB.3.12.1.1; TA.1.13.3; SaMnyAsaU.1; M;S.6.1.7.2; 11.7.3.2; Vait.14.1; 28.33; K;S.17.4.2; Ap;S.16.18.7; 22.3; Kaush.9.1; 15.12; 18.25; 19.1; 28.15; 38.23; 51.7; 79.11; 139.10; JG.2.8,9; BDh.2.10.18.7; BR^ihPDh.9.62,314
 +++([कौथुमभाष्ये सायणो ऽत्र। तैत्तिरीयब्राह्मणे अत्र, अत्र। मानसतरङ्गिणीकारो अत्र। शुक्रग्रह इत्यन्ये केचित्, वेनो गन्धर्वःकश्चिद् इति आदित्यो वेति सायणः।])+++</description>
     </item>
     
     <item>
       <title>भूतं भव्यं भविष्यत्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/misc-devas/yajus/bhutam-bhavyam-bhavishyat/</link>
+      <link>file:///android_asset/docs/mantra/misc-devas/yajus/bhutam-bhavyam-bhavishyat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/misc-devas/yajus/bhutam-bhavyam-bhavishyat/</guid>
+      <guid>file:///android_asset/docs/mantra/misc-devas/yajus/bhutam-bhavyam-bhavishyat/</guid>
       <description>भू॒तं भव्यं॑ भवि॒ष्यद्वष॒ट्स्वाहा॒ नम॒
 ऋक्साम॒यजु॒र्वष॒ट्स्वाहा॒ नमो॑
 गाय॒त्रीत्रि॒ष्टुप्जग॑ती॒वष॒ट्स्वाहा॒ नमः॑
@@ -1270,10 +1351,10 @@ RV.7.22.1a; AV;S.20.117.1a; SV.1.398a; 2.277a; TS.2.4.14.3a; AB.3.22.11; 5.4.19;
     
     <item>
       <title>मधुश्चुनिधनम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/misc-devas/paravastu-saama/madhushchunidhanam/</link>
+      <link>file:///android_asset/docs/mantra/misc-devas/paravastu-saama/madhushchunidhanam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/misc-devas/paravastu-saama/madhushchunidhanam/</guid>
+      <guid>file:///android_asset/docs/mantra/misc-devas/paravastu-saama/madhushchunidhanam/</guid>
       <description>ऋक् RV.8.63.1a; SV.1.355a; AB.5.12.6; KB.23.6; A;S.8.1.14; Svidh.1.4.14; 3.1.10. P: sa pUrvyaH ;S;S.10.8.5.
 +++([सायणो ऽत्र। आङ्गीरस ऊरुः। अनुष्टुभ्। इन्द्र इति सायणः, शुक्रग्रह इत्यन्ये केचित्।])+++
 स पू॒र्व्यो म॒हानां॑
@@ -1282,19 +1363,19 @@ RV.7.22.1a; AV;S.20.117.1a; SV.1.398a; 2.277a; TS.2.4.14.3a; AB.3.22.11; 5.4.19;
 दे॒वेषु॒ धिय॑ +++(=कर्माणि)+++ आन॒जे +++(=प्राप)+++।।
 साम  पारम्परिक-गान-मूलम् अत्र।      मधुश्चुनिधनम्+++(३)+++॥
 स+++([पा])+++ पू+++([&amp;ldquo;])+++र्व्यो+++([&amp;ldquo;])+++ महो+++([&amp;ldquo;]%%३ हा)+++नाङ्मे+++(&amp;ldquo;)+++ऎ।
-वे+++([पा?]%%३)+++,नः क्रतू+++(३&amp;rdquo;)+++उ,,भाइर् +आ+++([ऽ])+++नजे+++(३”)+++ऎ ।
-हा+++([पे]३)+++अहाऔ+++([पे]३&amp;ndash;”)+++उ। हॊ+++([&amp;ldquo;])+++ओवआ+++([ता])+++इ ही+++(३”)+++इ।
+वे+++([पा?]%%३)+++,नः क्रतू+++(३&amp;rdquo;)+++उ,,भाइर् +आ+++([ऽ])+++नजे+++(३&amp;rdquo;)+++ऎ ।
+हा+++([पे]३)+++अहाऔ+++([पे]३&amp;ndash;&amp;ldquo;)+++उ। हॊ+++([&amp;ldquo;])+++ओवआ+++([ता])+++इ ही+++(३&amp;rdquo;)+++इ।
 य+++([??])+++स्य द्वा+++([&amp;ldquo;])+++ररा+++([&amp;ldquo;]३)+++अ, मानुः पिता+++(&amp;ldquo;३)+++अ ।
-हा+++([पे]३)+++अहाऔ+++([पे]३&amp;ndash;”)+++उ। हॊ+++([&amp;ldquo;])+++ओवआ+++([ता])+++इही+++([प्रे])+++इ।
-दा+++([ती])+++इवेषु, धा+++(३”)+++अ,, हा+++([पे]३)+++अहाऔ+++([पे]३”)+++उ। हॊ+++([&amp;ldquo;])+++ओवआ+++([ता])+++इही+++([प्रे])+++इ।</description>
+हा+++([पे]३)+++अहाऔ+++([पे]३&amp;ndash;&amp;ldquo;)+++उ। हॊ+++([&amp;ldquo;])+++ओवआ+++([ता])+++इही+++([प्रे])+++इ।
+दा+++([ती])+++इवेषु, धा+++(३&amp;rdquo;)+++अ,, हा+++([पे]३)+++अहाऔ+++([पे]३&amp;rdquo;)+++उ। हॊ+++([&amp;ldquo;])+++ओवआ+++([ता])+++इही+++([प्रे])+++इ।</description>
     </item>
     
     <item>
       <title>महावात्सप्रम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/soma/paravastu-saama/mahavatsapram/</link>
+      <link>file:///android_asset/docs/mantra/soma/paravastu-saama/mahavatsapram/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/soma/paravastu-saama/mahavatsapram/</guid>
+      <guid>file:///android_asset/docs/mantra/soma/paravastu-saama/mahavatsapram/</guid>
       <description>ऋक् RV.9.96.5a; SV.1.527a; 2.293a; JB.3.80a; PB.12.11.6; Svidh.1.4.8; 2.8.1; N.14.12a.
 +++(सायणो ऽत्र। दिवोदासपुत्रः प्रतर्दनो राजर्षिः। त्रिष्टुभ्। सोमः।)+++
 सोम॑ः पवते +++(=पात्रेषु क्षरति)+++ जनि॒ता म॑ती॒नां ज॑नि॒ता दि॒वो ज॑नि॒ता पृ॑थि॒व्याः ।
@@ -1307,10 +1388,10 @@ RV.7.22.1a; AV;S.20.117.1a; SV.1.398a; 2.277a; TS.2.4.14.3a; AB.3.22.11; 5.4.19;
     
     <item>
       <title>महावैश्वानरव्रतम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/agni/paravastu-saama/mahavaishvanara-vratam/</link>
+      <link>file:///android_asset/docs/mantra/agni/paravastu-saama/mahavaishvanara-vratam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/agni/paravastu-saama/mahavaishvanara-vratam/</guid>
+      <guid>file:///android_asset/docs/mantra/agni/paravastu-saama/mahavaishvanara-vratam/</guid>
       <description>ऋक् +++(ओम् आयुर् ज्योतिः)+++
 ईहस्व+++(?)+++ वैश्वानराय प्रदिशो ज्योत्रिर् बृहत्
 RV.3.9.2a; SV.1.53a; N.4.14a; M;S.3.8.1a.
@@ -1330,10 +1411,10 @@ RV.3.9.2a; SV.1.53a; N.4.14a; M;S.3.8.1a.
     
     <item>
       <title>महावैश्वामित्रम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/agni/paravastu-saama/mahavaishvamitram/</link>
+      <link>file:///android_asset/docs/mantra/agni/paravastu-saama/mahavaishvamitram/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/agni/paravastu-saama/mahavaishvamitram/</guid>
+      <guid>file:///android_asset/docs/mantra/agni/paravastu-saama/mahavaishvamitram/</guid>
       <description>ऋक् RV.1.11.1a; SV.1.343a; 2.177a; VS.12.56a; 13.58a; 14.10a,22a,31a; 15.61a; 17.61a; TS.4.6.3.4a; 5.4.6.5; MS.2.10.5a: 137.9; 3.3.8: 41.3; KS.18.3a; 36.15a; 37.9a; AB.5.7.5; JB.3.34; KB.24.8; PB.11.11.4; ;SB.8.7.3.7; 9.2.3.20; TB.2.7.15.5a; 16.3a; AA.1.5.2.10; 5.3.1.2; A;S.7.8.3; 12.15; ;S;S.18.18.3; Ap;S.16.21.12; 17.14.9. P: indraM vishvAH ;S;S.11.11.12; 12.26.1; K;S.17.1.18; 18.3.21.
 +++([सायणो ऽत्र। मधुच्छन्दःपुत्रो जेता। अनुष्टुभ्। इन्द्रः।])+++
 इन्द्रं॒ विश्वा॑ अवीवृधन्त् +++(=अवर्धयन्)+++ समु॒द्रव्य॑चसं॒ +++(=समुद्रवद् व्याप्तवन्तम्)+++ गिर॑ः ।
@@ -1343,31 +1424,34 @@ RV.6.48.2d; SV.2.54d; VS.27.44d; MS.2.13.9d: 159.13; KS.39.12d; JB.1.177; 2.</de
     
     <item>
       <title>महि त्रीणाम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/misc-devas/paravastu-saama/mahi-trinam/</link>
+      <link>file:///android_asset/docs/mantra/misc-devas/paravastu-saama/mahi-trinam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/misc-devas/paravastu-saama/mahi-trinam/</guid>
+      <guid>file:///android_asset/docs/mantra/misc-devas/paravastu-saama/mahi-trinam/</guid>
       <description>ऋक् +++([सायणो ऽत्र कौथुमभाष्ये। वारुणिः सत्यधृतिः, वत्सः च। मित्रः वरुणः अर्यमा इन्द्रः।])+++
 १ २ २ १००८
 महि त्रीणाम् अवर्+++(=रक्षणम्)+++ अस्तु द्युक्षं+++(=दीप्तम्)+++ मित्रस्यार्यम्णः।
 दुराधर्षं वरुणस्य ।। १९२
-साम  पारम्परिकगानमूलम् - २०१५।]      म+++([])+++हाइ त्राइणाअम्।
-अ+++([तै])+++वा,अ+++([प्रे])+++अरस्तू।
-द्यु+++([ठौ])+++क्षं माइत्राअ,,स्या+++([तैप्रे])+++अर्यम्णाः।
-दू+++([पी])+++राधार्षाअं।
-वा+++([ठौ])+++रौहोवा,,णा+++([कि])+++स्यों, हाइ ॥
-साम २     म+++([])+++हित्रीणा, मवरस्तू मेऎ ।
-द्यु+++([])+++क्षं, मित्रस्यार्यम्णा : ।
-दू+++([])+++राधा, अर्षा० ।
-वा+++([])+++रौहो,+++([प्रे])+++ओ । हिं+++([ता])+++म्मा+++([प्रे])+++अ । णा+++([प])+++। स्यो ,+++([ता])+++ओया+++([टू])+++, औ+++([प])+++हो, वाअ । ह+++([पो])+++ओ, वाओ,+++([ग])+++वा अ ॥</description>
+साम  पारम्परिकगानमूलम् - २०१५।]      म+++([])+++हा+++(%)+++इ त्रा+++(%)+++इणा+++(&amp;ldquo;)+++अम्।
+अ+++([तै])+++वा+++([प्रे])+++अरस्तू+++(३&amp;ndash;%)+++।
+द्यु+++([ठौ])+++क्षम् मा+++(%)+++इत्रा+++(&amp;ldquo;)+++अ,,
+स्या+++([तैप्रे])+++अर्यम्णा+++(%३)+++ह+++(v)+++।
+दू+++([पी])+++रा+++(%)+++,धा+++(%)+++र्षा+++(%)+++अम्।
+वा+++([ठौ])+++रौहोवा,,णा+++([कि])+++स्यो+++(&amp;ldquo;)+++म्, हाइ+++(&amp;rdquo;)+++ ॥
+साम २     म+++([])+++हित्रीणा+++(%)+++मवरस्तू+++(%)+++ मे+++(&amp;ldquo;)+++ऎ ।
+द्यु+++([])+++क्षम्+++(२)+++ मित्रस्या+++(%)+++र्यम्णा+++(%३)+++ह+++(v)+++।
+दू+++([])+++रा+++(%)+++धा+++(३&amp;ndash;%)+++अर्षाम् ।
+वा+++([])+++रौहो+++([प्रे])+++ओ, हिं+++([ता])+++म्मा+++([प्रे])+++अ
++णा+++([प]%)+++स्यो+++([ता]३&amp;rdquo;)+++ओया+++([टू]%%%)+++, औ+++([प])+++हो, वाअ ।
+ह+++([पो])+++ओ+++(३&amp;ndash;%)+++, वाओ+++([ग])+++वा+++(३)+++अ ॥</description>
     </item>
     
     <item>
       <title>मार्गीयवम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/margiyavam/</link>
+      <link>file:///android_asset/docs/mantra/indra/paravastu-saama/margiyavam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/margiyavam/</guid>
+      <guid>file:///android_asset/docs/mantra/indra/paravastu-saama/margiyavam/</guid>
       <description>ऋक् RV.6.45.22a; SV.1.115a; 2.1016a; AV;S.20.78.1a; A;S.9.11.21; Vait.39.3,18. Ps: tad vo gAya ;S;S.15.8.10; Vait.27.10; tad vaH Svidh.1.4.16.
 +++([सायणो ऽत्र। बृहस्पतिपुत्रः शंयुः। गायत्री। इन्द्रः।])+++
 तद् वो +++(स्तोतारः)+++ गाय सु॒ते सचा +++(=सह)+++,
@@ -1377,10 +1461,10 @@ RV.6.48.2d; SV.2.54d; VS.27.44d; MS.2.13.9d: 159.13; KS.39.12d; JB.1.177; 2.</de
     
     <item>
       <title>मित्रवन्दनम् सन्ध्यायाम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/sandhya-mitra-vandanam/</link>
+      <link>file:///android_asset/docs/mantra/misc-devas/rk/sandhya-mitra-vandanam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/sandhya-mitra-vandanam/</guid>
+      <guid>file:///android_asset/docs/mantra/misc-devas/rk/sandhya-mitra-vandanam/</guid>
       <description>TS.3.4.11.5a. सायणो [ऽत्र]+++(https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_5_-_Kasinath_Sastri_Agase_1946#page/n311/mode/2up)+++।
 ![]+++(../images/mitra.png &amp;ldquo;&amp;rdquo;)+++
 मि॒त्रस्य॑ चर्षणी॒+++(मनुष्य)+++धृतः॒
@@ -1393,37 +1477,51 @@ RV.6.48.2d; SV.2.54d; VS.27.44d; MS.2.13.9d: 159.13; KS.39.12d; JB.1.177; 2.</de
     </item>
     
     <item>
-      <title>मूर्धानं दिवः</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/agni/paravastu-saama/murdhanam-divah/</link>
+      <title>मिन्दाहुतिः</title>
+      <link>file:///android_asset/docs/mantra/agni/rk/yan-ma-atmano-minabhut/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/agni/paravastu-saama/murdhanam-divah/</guid>
+      <guid>file:///android_asset/docs/mantra/agni/rk/yan-ma-atmano-minabhut/</guid>
+      <description> सायणो ऽत्र।
+यन् म॑ आ॒त्मनो॑ मि॒न्दा+++(=हिंसा)+++ ऽऽभू॑द्,
+अ॒ग्निस् तत् पुन॒र् आहा॑र् +++(=आहर)+++ जा॒तवे॑दा॒ विच॑र्षणिः+++(विचक्षणः)+++। पुन॑र॒ग्निश् चक्षु॑र् अदा॒त् पुन॒रिन्द्रो॒ बृह॒स्पतिः॑,
+पुन॑र् मे अश्विना यु॒वं चक्षु॑र् आ धत्तम् अ॒क्ष्योः ।।
+विनियोगः  बोधायन-गृह्ये - सर्वत्र स्कन्ने भिन्ने छिन्ने भग्ने नष्टे क्षामे विपर्यास उद्दाह ऊनातिरिक्ते वा &amp;ldquo;यन्म आत्मनो मिन्दाभूत्, पुनरग्निश्चक्षुरदाद्&amp;rdquo; इत्येताभ्याँ स्रुवाहुती जुहुयात्सर्वेष्वग्न्युपघातेषु पुनस्त्वादित्या रुद्रा वसवः समिन्धतामित्येतया समिधमादध्यादेतयैव स्रुवाहुतिं जुहुयात्।  </description>
+    </item>
+    
+    <item>
+      <title>मूर्धानं दिवः</title>
+      <link>file:///android_asset/docs/mantra/agni/paravastu-saama/murdhanam-divah/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///android_asset/docs/mantra/agni/paravastu-saama/murdhanam-divah/</guid>
       <description>ऋक् १ १ २ ०७०५
 कौथुमभाष्ये सायणो ऽर्त। भारद्वाजः। अग्निः।
 मूर्धानं दिवो अरतिं +++(=गन्तारम्)+++ पृथिव्या वैश्वानरमृत+++(य्)+++ आ जातमग्निम् ।
 कविं सम्राजमतिथिं जनानामासन् +++(=आस्यं)+++ नः पात्रं जनयन्त देवाः॥
 साम १     मू+++([&amp;ldquo;पो])+++र्धो+++(&amp;rdquo;%३)+++,हाइ,,नन्+++([गे])+++दा+++(%)+++इवा+++(३)+++ह+++(v)+++।
 अ+++([त])+++रताइम्, पॄ+++([तः]&amp;ldquo;२)+++थीव्याह+++(&amp;rdquo;)+++ ।
-वै+++(%[&amp;ldquo;र])+++श्,वा+++([&amp;ldquo;])+++नरा+++(३)+++म्। ऋ+++([र])+++ता+++(%)+++ आ+++([&amp;ldquo;]&amp;ndash;&amp;ldquo;३)+++।
+वै+++(%[&amp;ldquo;र])+++श्,वा+++([&amp;ldquo;])+++नरा+++(&amp;ndash;%३)+++म्। ऋ+++([र])+++ता+++(%)+++ आ+++([&amp;ldquo;]&amp;ndash;%३)+++।
 जा+++([&amp;ldquo;प]३)+++ता+++(३)+++मग्नि+++(%)+++म्।
 का+++([र])+++विंसम्रा+++(%)+++जम् +अतिथा+++([&amp;ldquo;]%३)+++इम्।
-जा+++([पॣः]१जॆ)+++आ+++(%)+++ना+++(-&amp;ldquo;३)+++,अनाम्।
+जा+++([पॣः]१जॆ)+++आ+++(%)+++ना+++(&amp;ndash;%३)+++,अनाम्।
 आ+++([&amp;ldquo;र]v)+++सन् नः पा+++(-&amp;ldquo;३)+++त्रा+++([रा]&amp;ldquo;)+++, अञ् जना,,या+++([पै]-%-%-४)+++,,न्ता+++([पॄ]&amp;ldquo;)+++अ दा+++(&amp;rdquo;)+++इ,वाङ+++(&amp;ldquo;)+++,ङाहा+++(v)+++ ॥
-साम २     हो+++([&amp;ldquo;को]%%३)+++,ऒवा+++(-&amp;ldquo;३)+++,[अ]इ, मू+++([&amp;ldquo;पै])+++र्धो+++(&amp;rdquo;)+++,हाइ,,
-नन्+++([र])+++दा+++(&amp;ndash;%३)+++इ,वा+++([रा])++++[अ+++(v)+++]आरा+++(&amp;ldquo;)+++,,तिम्+++([पि]२)+++पॄथिव्याह+++(v)+++ ।
-इ+++([पा])+++हो+++([&amp;ldquo;])+++,इहा+++(+अ)+++ई+++([फृ]-%३)+++इया।
-वै+++(%[&amp;ldquo;र])+++श्,वा+++([&amp;ldquo;])+++नरा+++(&amp;ldquo;३)+++म्, ऋ+++([र])+++ता+++(%)+++ आ+++([&amp;ldquo;]३)+++।
+साम २     हो+++([&amp;ldquo;को]%%३)+++,ऒवा+++(-&amp;ldquo;३)+++,[अ]इ,
+मू+++([&amp;ldquo;पै])+++र्धो+++(&amp;rdquo;)+++,हाइ,,+नन्+++([र])+++
++दा+++(&amp;ndash;%३)+++इ,वा+++([रा])++++[अ+++(v)+++]आरा+++(&amp;ldquo;)+++,,तिम्+++([पि]२)+++पॄथिव्याह+++(v)+++ ।
+इ+++([पा])+++हो+++([&amp;ldquo;])+++,इहा+++(+अ)+++ई+++([फृ]&amp;ndash;%३)+++इया।
+वै+++(%[&amp;ldquo;र])+++श्,वा+++([&amp;ldquo;])+++नरा+++(&amp;ndash;%३)+++म्, ऋ+++([र])+++ता+++(%)+++ आ+++([&amp;ldquo;]&amp;ndash;%३)+++।
 जा+++([पि]३)+++ता+++(३)+++मग्नि+++(%)+++म्।
 इ+++([पा])+++हो+++([&amp;ldquo;])+++,इहा+++(+अ)+++ई+++([फृ]-%३)+++इया।
-का+++([र])+++विंसम्रा+++(&amp;ldquo;३)+++,जा+++([रा])+++,अम् आति,,थिम्+++([पि]२)+++जॆ+++(%~ज~)+++ना+++(%)+++नाआम्।</description>
+का+++([र])+++विंसम्रा+++(&amp;ndash;%३)+++,जा+++([रा])+++,अम् आति,,थिम्+++([पि]२)+++ज+++(%~जॆ~)+++ना+++(%)+++नाआम्।</description>
     </item>
     
     <item>
       <title>मेधान्ते देवः</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/medhan-te-devas/</link>
+      <link>file:///android_asset/docs/mantra/misc-devas/rk/medhan-te-devas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/medhan-te-devas/</guid>
+      <guid>file:///android_asset/docs/mantra/misc-devas/rk/medhan-te-devas/</guid>
       <description>मे॒धान्ते॑ दे॒वस्स॑वि॒ता मे॒धान्दे॒वी सर॑स्वती ।
 मे॒धान्ते॑ अ॒श्विनौ॑ दे॒वावाध॑त्तां॒ पुष्क॑रस्रजा ।
 त्वयि॑ मे॒धां त्वयि॑ प्र॒जां त्वय्य॒ग्निस्तेजो॑ दधातु ।
@@ -1436,10 +1534,10 @@ RV.6.48.2d; SV.2.54d; VS.27.44d; MS.2.13.9d: 159.13; KS.39.12d; JB.1.177; 2.</de
     
     <item>
       <title>यः पावमानीः</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/soma/rk/yah-pavamanih/</link>
+      <link>file:///android_asset/docs/mantra/soma/rk/yah-pavamanih/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/soma/rk/yah-pavamanih/</guid>
+      <guid>file:///android_asset/docs/mantra/soma/rk/yah-pavamanih/</guid>
       <description>+++([सायणो ऽत्र कौथुमभाष्ये। सोमः।])+++
 यः पा॑वमा॒नीर्+++(=पवमान-ऋचः)+++ अ॒ध्येत्य्
 ऋषि॑भिः॒ सम्भृ॑तं॒ रस॑म् ।
@@ -1466,10 +1564,10 @@ RvKh_3,10.1a अत्र।
     
     <item>
       <title>यज्जयथा अपूर्वः</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/yajjayathah/</link>
+      <link>file:///android_asset/docs/mantra/indra/paravastu-saama/yajjayathah/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/yajjayathah/</guid>
+      <guid>file:///android_asset/docs/mantra/indra/paravastu-saama/yajjayathah/</guid>
       <description>ऋक् RV.8.89.5a; SV.2.779a; ArS.2.7a; KB.24.5; A;S.8.5.12; 10.2.22; ;S;S.11.11.14; 18.18.12.
 +++([सायणो ऽत्र। आङ्गीरसौ नृमेधपुरमेधौ। अनुष्टुप्। इन्द्रः।])+++
 यज्जाय॑था +++(=अजायथाः)+++ अपूर्व्य॒
@@ -1483,30 +1581,31 @@ RvKh_3,10.1a अत्र।
 म+++([ता])+++घवन्+++(२%)+++, वृत्रहा+++(%)+++हो+++([प्रे])+++ऒत्या+++([ता]%)+++या+++([प्रे])+++अ।
 त+++([ता])+++त्पृथिवी+++([&amp;ldquo;])+++म्+++(२%)+++, अप्रा+++(%)+++हो+++([प्रे])+++ऒ,था+++([ता]%)+++या+++([प्रे])+++अ।
 त+++([ता])+++दस्तभ्ना+++([&amp;ldquo;]%)+++उत+++([&amp;ldquo;]%)+++ +हो+++([प्रे])+++इ दा+++([ता]%)+++इवा+++([प्रे])+++अम्।
-{हा+++([तैप्रे])+++,अहू+++(%३)+++वा+++(&amp;ndash;”३)+++अक्}+++([त्रिः])+++।
+{हा+++([तैप्रे])+++,अहू+++(%३)+++वा+++(&amp;ndash;&amp;ldquo;३)+++अक्}+++([त्रिः])+++।
 {हो+++([ऽता]&amp;ldquo;%३)+++, वा+++(३)+++}+++([द्विः])+++, हो+++([ऽति]%३)+++,ओ+++(३)+++वा+++(३)+++, अह+++([प])+++उ+++(v)+++वा+++(३)+++।
 ए+++(&amp;ldquo;)+++ऎ ते+++([लौ२]%)+++जो+++([&amp;ldquo;]३)+++ घर्मस् सङ्क्री+++(%)+++डन्ते+++([&amp;ldquo;]%३)+++ए+++(v)+++।</description>
     </item>
     
     <item>
       <title>यत इन्द्र भयामहे</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/yata-indra/</link>
+      <link>file:///android_asset/docs/mantra/indra/paravastu-saama/yata-indra/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/yata-indra/</guid>
-      <description>ऋक् यत॑ इन्द्र॒ भया॑महे॒
+      <guid>file:///android_asset/docs/mantra/indra/paravastu-saama/yata-indra/</guid>
+      <description>ऋक् भट्टभास्करो ऽत्र।
+यत॑ इन्द्र॒ भया॑महे॒
 ततो॑ नो॒ अभ॑यं कृधि ।
-मघ॑वञ्छ॒ग्धि तव॒ तन्न॑ ऊ॒तिभि॑र्
+मघ॑वञ् छ॒ग्धि +++(=शक्न्तो वर्तस्व)+++ तव॒ तन्न॑+++(ः)+++ ऊ॒तिभि॑र्+++(=रक्षाभिः)+++
 वि द्विषो॒ वि मृधो॑ जहि ।।
-साम  पारम्परिक-गान-मूलम् अत्र। कौथुमगानम् अत्र।      य+++([])+++: ताआ, अइ०द्राअ, भायामहाइ । त+++([])+++तो, नो, आ, भायंका, अर्धि । म+++([])+++घवन्, चग्धि, तवत०, नऊता, अयाइ । वि+++([])+++द्वाइषो, ओवि । मा+++([])+++र्धो, जहि । इ+++([])+++डा, अभाअअ । ओ+++([])+++इ । डा+++([])+++अ ॥</description>
+साम  पारम्परिक-गान-मूलम् अत्र। कौथुमगानम् अत्र।    य+++([])+++ताआ, अइन्द्राअ, भायामहाइ । त+++([])+++तो, नो, आ, भायंका, अर्धि । म+++([])+++घवन्, चग्धि, तवत०, नऊता, अयाइ । वि+++([])+++द्वाइषो, ओवि । मा+++([])+++र्धो, जहि । इ+++([])+++डा, अभाअअ । ओ+++([])+++इ । डा+++([])+++अ ॥</description>
     </item>
     
     <item>
       <title>यत्ते अग्ने तेजः</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/agni/yajus/yatte-agne-tejas/</link>
+      <link>file:///android_asset/docs/mantra/agni/yajus/yatte-agne-tejas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/agni/yajus/yatte-agne-tejas/</guid>
+      <guid>file:///android_asset/docs/mantra/agni/yajus/yatte-agne-tejas/</guid>
       <description>यत्ते॑ अग्ने ते॑ज॒स्तेना॒हं तेज॒स्वी भू॑यासम् यत्ते॑ अग्ने॒ व॑र्च॒स्तेना॒हं वर्च॒स्वी भू॑यासम् यत्ते॑ अग्ने॒ हर॒स्तेना॒हं हर॒स्वी भू॑यासम्।
 मयि॑ मे॒धां मयि॑ प्र॒जां मय्य॒ग्निस्तेजो॑ दधातु
 मयि॑ मे॒धां मयि॑ प्र॒जां मयीन्द्र॑ इन्द्रि॒य॑म् दधातु
@@ -1515,10 +1614,10 @@ RvKh_3,10.1a अत्र।
     
     <item>
       <title>यद्वा</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/agni/paravastu-saama/yadva/</link>
+      <link>file:///android_asset/docs/mantra/agni/paravastu-saama/yadva/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/agni/paravastu-saama/yadva/</guid>
+      <guid>file:///android_asset/docs/mantra/agni/paravastu-saama/yadva/</guid>
       <description>ऋक् RV.8.23.13b; SV.1.114b.
 +++([सायणो ऽत्र। व्यश्वपुत्रो विश्वमना ऋषिः। उष्णिक्। अग्निः।])+++
 यद् वै+उ॑ वि॒श्पति॑ः शि॒तः सुप्री॑तो॒ मनु॑षो +++(=मनुष्यस्य)+++ वि॒शि +++(=गृहे)+++ ।
@@ -1533,10 +1632,10 @@ RvKh_3,10.1a अत्र।
     
     <item>
       <title>यशस्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/soma/paravastu-saama/yashas/</link>
+      <link>file:///android_asset/docs/mantra/soma/paravastu-saama/yashas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/soma/paravastu-saama/yashas/</guid>
+      <guid>file:///android_asset/docs/mantra/soma/paravastu-saama/yashas/</guid>
       <description>ऋक् RV.7.32.16
 +++([सायणो ऽत्र। वसिष्ठ ऋषिः। इन्द्रो देवता। गायत्री?])+++
 तवेदि॑न्द्राव॒मं वसु॒ त्वं पु॑ष्यसि मध्य॒मम् ।
@@ -1552,10 +1651,10 @@ RvKh_3,10.1a अत्र।
     
     <item>
       <title>यस् त्वा हृदा</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/agni/rk/yas-tva-hrda/</link>
+      <link>file:///android_asset/docs/mantra/agni/rk/yas-tva-hrda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/agni/rk/yas-tva-hrda/</guid>
+      <guid>file:///android_asset/docs/mantra/agni/rk/yas-tva-hrda/</guid>
       <description>यस्त्वा॑ हृ॒दा की॒रिणा॒ +++(=स्तत्रिणा)+++ मन्य॑मा॒नो
 ऽम॑र्त्यं॒ मर्त्यो॒ जोह॑वीमि ।
 जात॑वेदो॒ यशो॑ अ॒स्मासु॑ धेहि
@@ -1568,10 +1667,10 @@ RvKh_3,10.1a अत्र।
     
     <item>
       <title>या वामिन्द्रावरुणा</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/misc-devas/yajus/ya-vam-indravaruna/</link>
+      <link>file:///android_asset/docs/mantra/misc-devas/yajus/ya-vam-indravaruna/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/misc-devas/yajus/ya-vam-indravaruna/</guid>
+      <guid>file:///android_asset/docs/mantra/misc-devas/yajus/ya-vam-indravaruna/</guid>
       <description>[या वा॑मिन्द्रावरुणा] यत॒व्या॑ [त॒नूस्तये॒ममꣳह॑सो मुंचतम्] ।
 … सह॒स्या॑ … । … रक्ष॒स्या॑ …। … तेज॒स्या॑ …।
 [यो वा॑मिन्द्रावरुणाव्] अ॒ग्नौ [स्राम॒स् +++(=पापविशेषः)+++ तं वा॑मे॒तेनाव॑ यजे॒।] [यो वा॑मिन्द्रावरुणा] द्वि॒पात्सु॑ प॒शुषु॒ …। … चतु॑ष्पत्सु प॒शुषु॒ …। … गो॒ष्ठे …। … गृ॒हेषु॒ …। …अप्सु …। …ओष॑धीषु॒ …। … वन॒स्पति॑षु॒ …॥</description>
@@ -1579,10 +1678,10 @@ RvKh_3,10.1a अत्र।
     
     <item>
       <title>ये देवाः पुरस्सदः</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/misc-devas/yajus/ye-devah-puras/</link>
+      <link>file:///android_asset/docs/mantra/misc-devas/yajus/ye-devah-puras/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/misc-devas/yajus/ye-devah-puras/</guid>
+      <guid>file:///android_asset/docs/mantra/misc-devas/yajus/ye-devah-puras/</guid>
       <description>[ये दे॒वाः] पु॑रः॒सदो॒ ऽग्निने॑त्रा [रक्षो॒हण॒स्ते नः॑ पान्तु॒ ते नो॑ ऽवन्तु॒ तेभ्यो॑ नम॒स् तेभ्यः॒ स्वाहा॥]।
 … दक्षिण॒सदो॑ य॒मने॑त्राः …।
 … पश्चा॒त्सदः॑ सवि॒तृने॑त्रा …।
@@ -1592,10 +1691,10 @@ RvKh_3,10.1a अत्र।
     
     <item>
       <title>यौक्ताश्वम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/soma/paravastu-saama/yauktashvam/</link>
+      <link>file:///android_asset/docs/mantra/soma/paravastu-saama/yauktashvam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/soma/paravastu-saama/yauktashvam/</guid>
+      <guid>file:///android_asset/docs/mantra/soma/paravastu-saama/yauktashvam/</guid>
       <description>ऋक् कौथुमभाष्ये सायणो ऽत्र।
 वारुणिः भृगुः। सोमः।
 १ ५ २ ०९०३
@@ -1603,7 +1702,7 @@ RvKh_3,10.1a अत्र।
 विश्वा दधान ओजसा ।
 साम - यौक्ताश्वाद्यम्  पारम्परिक-लेखाः - २०१५।      यौक्ता+++(&amp;ldquo;३)+++श्वाद्यम्।
 औ+++([&amp;ldquo;पै])+++हॊहोहा+++(v३)+++इ, वॄ+++([क]%)+++षा+++(&amp;ldquo;)+++अ ।
-प+++([पौ])+++वस्वा+++([ण]&amp;ldquo;)+++अ धा+++([ऽ]%)+++रा+++([ऽ]&amp;ndash;&amp;ldquo;३)+++,या+++(-&amp;ldquo;३)+++अ।
+प+++([पौ])+++वस्वा+++([ण]&amp;ldquo;)+++अ धा+++([ऽ]%)+++रा+++([ऽ]&amp;ndash;%३)+++,या+++(-&amp;ldquo;३)+++अ।
 मा+++([पृ])+++रू+++(&amp;ldquo;३)+++उत्वा+++(%)+++ता+++(&amp;ldquo;३)+++इ । ओ+++([त]&amp;ldquo;३)+++इ ।
 चा+++([घं])+++आ+++(%)+++ मा+++(&amp;ldquo;३)+++अ,, च+++([पॄ])+++मा+++(&amp;ldquo;३)+++अत्सा+++(%)+++राह+++(v)+++।
 औ+++([&amp;ldquo;पै])+++हॊहोहा+++(v३)+++इ, वि+++([का]%)+++श्वा+++(&amp;ldquo;)+++अ ।
@@ -1615,10 +1714,10 @@ RvKh_3,10.1a अत्र।
     
     <item>
       <title>रथन्तरम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/rathantaram/</link>
+      <link>file:///android_asset/docs/mantra/indra/paravastu-saama/rathantaram/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/rathantaram/</guid>
+      <guid>file:///android_asset/docs/mantra/indra/paravastu-saama/rathantaram/</guid>
       <description>ऋक् RV.7.32.22a; AV;S.20.121.1a; SV.1.233a; 2.30a; VS.27.35a; TS.2.4.14.2a; MS.2.13.9a: 158.14; 4.12.4: 188.14; KS.12.15a; 39.11,12a; AB.4.10.6; 29.13; 5.1.19; 7.7; 16.27; 18.21; 20.21; 8.2.3; JB.1.293a; PB.11.4.1; AA.5.2.2.2; A;S.5.15.2; 6.5.18; Vait.42.9; Ap;S.17.8.4a; 19.22.12,16a; 23.1; 21.21.18; M;S.5.2.3.8a,12a; 6.2.3.1; 7.2.6.6; ;SirasU.4a; Svidh.3.6.11. Ps: abhi tvA shUra ;S;S.7.20.3; abhi tvA Rvidh.2.25.6. Cf. abhi tvAmindra.
 +++([सायणो ऽत्र। वसिष्ठः। बृहती, सतोबृहती च। इन्द्रः।])+++
 +++(अनेन वसिष्ठ इन्द्रस्य वृत्रहत्यापापम् अपानुदत्!)+++
@@ -1627,10 +1726,10 @@ RvKh_3,10.1a अत्र।
     
     <item>
       <title>राष्ट्रभृतः</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/misc-devas/yajus/rashtrabhrtah/</link>
+      <link>file:///android_asset/docs/mantra/misc-devas/yajus/rashtrabhrtah/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/misc-devas/yajus/rashtrabhrtah/</guid>
+      <guid>file:///android_asset/docs/mantra/misc-devas/yajus/rashtrabhrtah/</guid>
       <description>ऋ॒ता॒षाड् +++(=ऋतेन शाततीति)+++ ऋ॒तधा॑मा॒ग्निर्ग॑न्ध॒र्वस्स इ॒दं ब्रह्म॑क्ष॒त्रं पा॑तु तस्मै॒ स्वाहा॒ ।
 तस्यौष॑धयोऽप्स॒रस॒ ऊर्जो॒ नाम॒ ता इ॒दं ब्रह्म॑क्ष॒त्रं पा॑न्तु ताभ्यः॒ स्वाहा॑ ।
 सꣳहि॒तो वि॒श्वसा॑मा॒ +++(=विश्वानि सामान्यवसितान्यस्मिन्)+++ सूर्यो॑ ग॑न्ध॒र्वः … ।
@@ -1645,50 +1744,55 @@ RvKh_3,10.1a अत्र।
     
     <item>
       <title>वरुण-सूक्तम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/misc-devas/paravastu-saama/varuna-suktam/</link>
+      <link>file:///android_asset/docs/mantra/misc-devas/paravastu-saama/varuna-suktam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/misc-devas/paravastu-saama/varuna-suktam/</guid>
+      <guid>file:///android_asset/docs/mantra/misc-devas/paravastu-saama/varuna-suktam/</guid>
       <description>ऋक् १ ३ २ ०७०३
 +++([सायणो ऽत्र कौथुमभाष्ये। जमदग्निः। मित्रः, अर्यमा, वरुणः।])+++
 प्र मि॒त्राय प्र अ॑र्य॒म्णे स॑च॒थ्य॑म् +++(=सेवार्हम्)+++ ऋतावसो +++(=ऋतधन)+++ ।
 वरू॒थ्ये३ +++(वरू॒थ्य॑म्=यज्ञागारस्थम् इति ऋग्वेदे)+++ वरु॑णे छन्द्य॑म् +++(=छान्दसम्)+++ वचः स्तो॒त्रं राज॑सु गायत ।
 साम १  पारम्परिक-गान-मूलम् १९३७। कौथुमगानम् अत्र।        वरुण सूक्तम्+++(३)+++।
-प्र+++([प])+++ मित्रा+++([&amp;ldquo;])+++यप्रा+++([&amp;ldquo;]v-%३)+++, हउ,, आ+++([प्रे तै])+++अर्यम्णा+++(&amp;ldquo;३)+++इ।
-स+++([तै])+++चा+++(&amp;ndash;%३)+++आहो+++(&amp;ldquo;३)+++इ,थि+++([पो])+++यौ+++([प्रे])+++, हु+++([त])+++वा+++(&amp;ldquo;३)+++इ।
-आ+++([&amp;ldquo;र]%)+++र्ता+++([&amp;ldquo;])+++वसा+++(३)+++उ,, व+++([तै])+++रा+++([प्रे])+++आहो+++(&amp;ldquo;३)+++,थि+++([पो])+++यौ+++([प्रे])+++, हु+++([त])+++वा+++(&amp;ldquo;३)+++इ।
-व+++([त])+++रुणे+++([&amp;ldquo;]%)+++ छा+++([&amp;ldquo;३])+++न्दि+++([र])+++यम्+++(२)+++ वचा+++(v-%३)+++ह+++(v)+++।
-स्तो+++([तै]%)+++त्रा+++(प्रे)+++अम् हो+++(&amp;ldquo;३)+++इ। रा+++([&amp;ldquo;पो]%)+++जौ+++([प्रे])+++हु+++([त])+++वा+++(&amp;ldquo;३)+++इ।
-सू+++([&amp;ldquo;?]%)+++गा+++([&amp;ldquo;]३)+++यता+++(&amp;rdquo;)+++आउवा+++(&amp;ldquo;३)+++अ ।
+प्र+++([प])+++ मित्रा+++([&amp;ldquo;])+++यप्रा+++([&amp;ldquo;]v-%३)+++, हउ,, आ+++([प्रे तै])+++अर्यम्णा+++(&amp;ndash;%३)+++इ।
+स+++([तै])+++चा+++(&amp;ndash;%३)+++आहो+++(&amp;ndash;%३)+++इ,थि+++([पो])+++यौ+++([प्रे])+++, हु+++([त])+++वा+++(&amp;ndash;%३)+++इ।
+आ+++([&amp;ldquo;र]%)+++र्ता+++([&amp;ldquo;])+++वसा+++(&amp;ndash;%३)+++उ,, व+++([तै])+++रा+++([प्रे])+++आहो+++(&amp;ndash;%३)+++,थि+++([पो])+++यौ+++([प्रे])+++, हु+++([त])+++वा+++(&amp;ndash;%३)+++इ।
+व+++([त])+++रुणे+++([&amp;ldquo;]%)+++ छा+++([&amp;ldquo;]&amp;ndash;%३)+++न्दि+++([र])+++यम्+++(२)+++ वचा+++(v-%३)+++ह+++(v)+++।
+स्तो+++([तै]%)+++त्रा+++(प्रे)+++अम् हो+++(&amp;ndash;%३)+++इ। रा+++([&amp;ldquo;पो]%)+++जौ+++([प्रे])+++हु+++([त])+++वा+++(&amp;ndash;%३)+++इ।
+सू+++([&amp;ldquo;?]%)+++गा+++([&amp;ldquo;]&amp;ndash;%३)+++यता+++(&amp;rdquo;)+++आउवा+++(-&amp;ldquo;३)+++अ ।
 ऊ+++([टि])+++उपा+++(&amp;ldquo;)+++अ+++(v३)+++ ॥</description>
     </item>
     
     <item>
       <title>वरुणपाशम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/misc-devas/paravastu-saama/varuna-pasham/</link>
+      <link>file:///android_asset/docs/mantra/misc-devas/paravastu-saama/varuna-pasham/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/misc-devas/paravastu-saama/varuna-pasham/</guid>
+      <guid>file:///android_asset/docs/mantra/misc-devas/paravastu-saama/varuna-pasham/</guid>
       <description>ऋक् +++([सायणो ऽत्र कौथुमभाष्ये। विश्वे देवाः। वरुणः।])+++
 २ ० ० ०१०४
 उदुत्तमं+++(शिरसि बद्धं)+++ वरुण पाशम् अस्मम् अव+++(+श्राथय)+++ +अधमं+++(पादे बद्धं)+++ वि मध्यमं श्रथाय+++(=शिथिली क्रूरु)+++।
 अथादित्य व्रते वयं तवानागसो अदितये+++(=खण्डनराहित्याय)+++ स्याम।
-साम १  पारम्परिकगानमूलम् - २०१५।]      रहस्योदुत्तमम्+++(२)+++ वरुणपाशम्+++(२)+++।
-{हा+++([])+++उ ।}+++([त्रिः])+++। आ+++([])+++युश्चक्षु, र्ज्यो, तिः। औ+++([])+++होवा।
-ई+++([])+++या।
-उ+++([])+++दुत्तमम्, वरुणपा, शामा, अस्मात् ।
-अ+++([])+++बाध मम्, विमध्यमम्, श्रा+++(श्ना)+++था,अया।
-अ+++([])+++था,दित्य व्रते। वायन् ता,अवा।
-अ+++([])+++नागसो, अदितये, सिया,माअ ।
-{हा+++([])+++उ ।}+++([त्रिः])+++। आ+++([])+++युश्चक्षु, र्ज्यो, तिः। औ+++([])+++होवा।</description>
+साम  पारम्परिकगानमूलम् - २०१५।      रहस्योदुत्तमम्+++(२)+++ वरुणपाशम्+++(२)+++।
+{हा+++([])+++उ ।}+++([त्रिः])+++।
+आ+++([])+++युश्चक्षुर्, ज्यो+++(३%)+++तिः।
+औ+++([])+++हो+++(३&amp;ndash;%)+++वा।
+ई+++([]३&amp;ndash;%)+++या।
+उ+++([])+++दुत्तमम्, वरुणपा+++(३&amp;ndash;%)+++ शामा+++(३&amp;ndash;%)+++अस्मा+++(२.५)+++त+++(v)+++ ।
+अ+++([])+++बाध मम्, विमध्यमम्, श्रा+++(श्ना)+++था+++(३&amp;ndash;%)+++अया।
+अ+++([])+++थादित्य व्रते+++(३&amp;ndash;%)+++। वायन् ता+++(३&amp;ndash;%)+++अवा।
+अ+++([])+++नागसो, अदितये+++(३&amp;ndash;%)+++ सिया+++(३v-)+++मा+++(-&amp;ldquo;)+++अ ।
+{हा+++([])+++उ ।}+++([त्रिः])+++।
+आ+++([])+++युश्चक्षुर्, ज्यो+++(३%)+++तिः।
+औ+++([])+++हो+++(३&amp;ndash;%)+++वा।
+ई+++([]&amp;ldquo;३)+++इया+++([])+++अअ, औ+++([])+++होवाअ ।</description>
     </item>
     
     <item>
       <title>वरुणवन्धनं सन्ध्यायाम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/sandhya-varuna-vandanam/</link>
+      <link>file:///android_asset/docs/mantra/misc-devas/rk/sandhya-varuna-vandanam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/sandhya-varuna-vandanam/</guid>
+      <guid>file:///android_asset/docs/mantra/misc-devas/rk/sandhya-varuna-vandanam/</guid>
       <description>इ॒मं मे॑ वरुण श्रुधी॒ +++(=श्रुणु)+++
 हव॑म्+++(=आह्वानम्)+++ अ॒द्या च॑ मृळय +++(=सुखय)+++।
 त्वाम॑व॒स्युरा च॑के +++(=अवदन्)+++॥
@@ -1708,10 +1812,10 @@ RvKh_3,10.1a अत्र।
     
     <item>
       <title>वाचोव्रतम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/misc-devas/paravastu-saama/vachovratam/</link>
+      <link>file:///android_asset/docs/mantra/misc-devas/paravastu-saama/vachovratam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/misc-devas/paravastu-saama/vachovratam/</guid>
+      <guid>file:///android_asset/docs/mantra/misc-devas/paravastu-saama/vachovratam/</guid>
       <description>ऋक् स्वयम् अस्कुन्वे +++(=अकूर्दम्)+++॥
 साम  पारम्परिक-गान-मूलम् १९३७-लेखा। २०१५-लेखा। कौथुम-गानम् अत्र।      वाचो+++(&amp;ldquo;)+++व्रतम्+++(३)+++॥
 {स्व+++([र])+++ यङ स्कुन्वा+++([ऽ]%)+++इ। स्व+++([पो])+++यङस्कू+++(%)+++न्वा+++([प्रे])+++इ।}+++([द्वि:])+++
@@ -1722,10 +1826,10 @@ RvKh_3,10.1a अत्र।
     
     <item>
       <title>वात्सप्रोत्तरम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/soma/paravastu-saama/vatsaprottaram/</link>
+      <link>file:///android_asset/docs/mantra/soma/paravastu-saama/vatsaprottaram/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/soma/paravastu-saama/vatsaprottaram/</guid>
+      <guid>file:///android_asset/docs/mantra/soma/paravastu-saama/vatsaprottaram/</guid>
       <description>ऋक् RV 9 97_+++(809)+++ 40 a
 +++(सायणो ऽत्र। वासिष्ठ-शक्तिपुत्रः पराशर ऋषिः। त्रिष्टुभ्। सोमः।)+++
 अक्रा॑न्+++(=अतिक्रामति)+++ त्समु॒द्रः प्र॑थ॒मे विध॑र्मञ् +++(=विधाराः)+++ ज॒नय॑न् प्र॒जा भुव॑नस्य॒ राजा॑ +++(गोपाः इति साम्नि)+++ ।
@@ -1737,19 +1841,19 @@ RvKh_3,10.1a अत्र।
     
     <item>
       <title>वामदेव्यम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/vamadevyam/</link>
+      <link>file:///android_asset/docs/mantra/indra/paravastu-saama/vamadevyam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/vamadevyam/</guid>
+      <guid>file:///android_asset/docs/mantra/indra/paravastu-saama/vamadevyam/</guid>
       <description>ऋक् RV.4.31.1a; AV;S.20.124.1a; SV.1.169a; 2.32a; VS.27.39a; 36.4a; TS.4.2.11.2a; 4.12.5; MS.2.13.9a: 159.4; 4.9.27a: 139.11; KS.21.13; 39.12a; JB.1.140; KB.27.2; GB.2.4.1; PB.11.4.2; 15.10.1; DB.1.14; AA. Introd. 5; TA.4.42.3a; KA.1.219Ha; A;S.2.17.15; 5.16.1; 7.4.2; 8.12.18; 14.18; Vait.42.9; L;S.5.2.12; Ap;S.12.8.5; 17.7.8a; M;S.6.2.3.1; 7.1.1.35; MG.1.5.5; JG.2.9. Ps: kayA nash chitraH ;S;S.7.22.2; ;SG.1.16.6; kayA naH MS.3.16.4: 190.3; 4.10.4: 153.5; KSA.5.21; kayA Rvidh.2.13.4. Designated as kayA-nIyA Svidh.1.6.7; 8.8; 2.3.3; 4.5; as vAmadevyaH +++(sch. RTEMPichaH)+++ GG.4.6.7; 7.34 +++(chf. AG.2.6.2)+++.</description>
     </item>
     
     <item>
       <title>वारवन्तीयम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/agni/paravastu-saama/varavantiyam/</link>
+      <link>file:///android_asset/docs/mantra/agni/paravastu-saama/varavantiyam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/agni/paravastu-saama/varavantiyam/</guid>
+      <guid>file:///android_asset/docs/mantra/agni/paravastu-saama/varavantiyam/</guid>
       <description>ऋक् सायणः कौथुमभाष्ये ऽत्र। शुनःशेपः। अग्निः।
 १ १ १ ०२०७
 अश्वं न त्वा वार+++(=ल)+++वन्तं वन्दध्यै +++(=वन्दितुम्)+++ +अग्निं नमोभिः।
@@ -1769,16 +1873,16 @@ RvKh_3,10.1a अत्र।
     
     <item>
       <title>वास्तोष्पते</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/vastoshpate/</link>
+      <link>file:///android_asset/docs/mantra/indra/paravastu-saama/vastoshpate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/vastoshpate/</guid>
+      <guid>file:///android_asset/docs/mantra/indra/paravastu-saama/vastoshpate/</guid>
       <description>ऋक् +++([कौथुमगानम् अत्र १ ३ २ ०९०३। इरिमिठः। इन्द्रः।])+++
 वास्तोष्पते +++(=गृहपते)+++ ध्रुवा स्थूणा +++(=गृहाधारभूतस्तम्भाः)+++ अंसत्रं सोम्यानाम् +++(=सोमार्हानाम्)+++।
 द्रप्सः +++(=द्रवणशीलः)+++ पुरां भेत्ता शश्वतीनामिन्द्रो मुनीनां सखा । । २७५
-साम १  पारम्परिक-गान-मूलम् १९३७-लेखा। १९७५। २०१५-लेखा। कौथुमगानम् अत्र।      वा+++([&amp;ldquo;प])+++स्तो+++([&amp;ldquo;]३)+++ओष्पताइ। ध्रू+++([र])+++वा+++(&amp;ldquo;३)+++। स्थू+++([पॄ]&amp;ldquo;%३)+++,णा+++(%)+++ओ+++(&amp;ldquo;३)+++वाअ
+साम १  पारम्परिक-गान-मूलम् १९३७-लेखा। १९७५। २०१५-लेखा। कौथुमगानम् अत्र।      वा+++([&amp;ldquo;प])+++स्तो+++([&amp;ldquo;]३)+++ओष्पताइ। ध्रू+++([र])+++वा+++(३&amp;ndash;%)+++। स्थू+++([पॄ]&amp;ndash;%३)+++,णा+++(%)+++ओ+++(&amp;ldquo;३)+++वाअ
 अम्+++([घि])+++सत्+++(२)+++रं सो+++([&amp;ldquo;])+++ऒम्या+++([&amp;ldquo;])+++अ+++([पि])+++न्+++(२)+++आ+++([प्रे])+++अम्।
-द्र+++([जा])+++प्सः पुरा+++(%२)+++ म् भेत्ता+++(&amp;ldquo;)+++, शश्वता+++(&amp;ndash;&amp;ldquo;३)+++अइनाम्। आ+++([टू]&amp;ldquo;३)+++आइन्द्रा+++(३)+++ह+++(v)+++।
+द्र+++([जा])+++प्सः पुरा+++(%२)+++ म् भेत्ता+++(&amp;ldquo;)+++, शश्वता+++(&amp;ndash;%३)+++अइनाम्। आ+++([टू]&amp;ndash;%३)+++आइन्द्रा+++(३)+++ह+++(v)+++।
 मू+++([ता])+++न्नी+++([&amp;ldquo;पॣ])+++इ,ना+++([ऽ?फौ])+++आउ+++(v)+++वा+++(३)+++आ। सा+++([टू]%)+++खा+++(&amp;ldquo;)+++अ॥
 साम २   वा+++([&amp;ldquo;टा])+++स्तोष्प+++([&amp;ldquo;])+++ते +++(%%)+++ए, ध्रू+++(%)+++वा+++(&amp;rdquo;)+++अ। स्थू+++([टू]स्तू)+++,णा+++(&amp;ldquo;)+++अ।
 आ+++([ति]-&amp;ldquo;&amp;ldquo;३)+++अँ+++(आ)+++,स+++([का]v)+++त्रं+++(v)+++ +सो+++(&amp;ldquo;३)+++ओम्या+++([का])+++आ+++(%)+++न्ना+++(&amp;ldquo;३)+++अम्।
@@ -1788,19 +1892,19 @@ RvKh_3,10.1a अत्र।
     
     <item>
       <title>विवाहोपनयन-सामानि</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/sangrahah/paravastu-saama/vivahopanayana/</link>
+      <link>file:///android_asset/docs/mantra/sangrahah/paravastu-saama/vivahopanayana/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/sangrahah/paravastu-saama/vivahopanayana/</guid>
+      <guid>file:///android_asset/docs/mantra/sangrahah/paravastu-saama/vivahopanayana/</guid>
       <description> पारम्परिक-मूलानि  १९३७ १९७५ २०१५                            </description>
     </item>
     
     <item>
       <title>विश्वतोदावन्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/vishvato-davan/</link>
+      <link>file:///android_asset/docs/mantra/indra/paravastu-saama/vishvato-davan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/vishvato-davan/</guid>
+      <guid>file:///android_asset/docs/mantra/indra/paravastu-saama/vishvato-davan/</guid>
       <description>ऋक् १ १ २ ०७०७
 +++([सायणो ऽत्र कौथुमभाष्ये। । इन्द्रः।])+++
 विश्वतो दावन् +++(=दानवान् छेदनवान् वा)+++ विश्वतो न आ भर यं त्वा शविष्ठमीमहे।
@@ -1817,10 +1921,10 @@ RvKh_3,10.1a अत्र।
     
     <item>
       <title>विष्णुर् योनिम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/vishnur-yonim/</link>
+      <link>file:///android_asset/docs/mantra/misc-devas/rk/vishnur-yonim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/vishnur-yonim/</guid>
+      <guid>file:///android_asset/docs/mantra/misc-devas/rk/vishnur-yonim/</guid>
       <description>विष्णु॒र् योनि॑ङ् कल्पयतु॒
 त्वष्टा॑ रू॒पाणि॑ पिꣳशतु ।
 आसि॑ञ्चतु प्र॒जाप॑तिर्
@@ -1847,10 +1951,10 @@ RvKh_3,10.1a अत्र।
     
     <item>
       <title>वेदादयः</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/sangrahah/vedadayah/</link>
+      <link>file:///android_asset/docs/mantra/sangrahah/vedadayah/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/sangrahah/vedadayah/</guid>
+      <guid>file:///android_asset/docs/mantra/sangrahah/vedadayah/</guid>
       <description>अ॒ग्निमी᳚ळे पु॒रोहि॑तं य॒ज्ञस्य॑ दे॒वमृ॒त्विजम्᳚ । होता᳚रं रत्न॒धात॑मम् ॥
 इ॒षेत्वो॒र्जे त्वा॑ वा॒यव॑स्थोपा॒यवस्थ दे॒वो वः॑ सवि॒ता प्रार्प॑यतु॒ श्रेष्ठ॑तमाय॒ कर्म॑णे ॥
 अग्न॒ आया॑हि वी॒तये॑ गृणा॒नो ह॒व्यदा॑तये । निहोता॑ सत्सि ब॒र्हिषि॑ ॥
@@ -1859,10 +1963,10 @@ RvKh_3,10.1a अत्र।
     
     <item>
       <title>व्याहृतिसामानि</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/misc-devas/paravastu-saama/vyahrti-samani/</link>
+      <link>file:///android_asset/docs/mantra/misc-devas/paravastu-saama/vyahrti-samani/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/misc-devas/paravastu-saama/vyahrti-samani/</guid>
+      <guid>file:///android_asset/docs/mantra/misc-devas/paravastu-saama/vyahrti-samani/</guid>
       <description>ऋक् तत् सवि॒तुर् वरे॑णियम्
 भर्गो॑ दे॒वस्य॑ धीमहि ।
 धियो॒ यो नः॑ प्रचो॒दया॑त् ।।
@@ -1883,10 +1987,10 @@ RvKh_3,10.1a अत्र।
     
     <item>
       <title>शन्नो देवीः</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/sham-no-devih/</link>
+      <link>file:///android_asset/docs/mantra/misc-devas/rk/sham-no-devih/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/sham-no-devih/</guid>
+      <guid>file:///android_asset/docs/mantra/misc-devas/rk/sham-no-devih/</guid>
       <description>सिन्धूद्वीप ऋषिः। गायत्री। आपः। अथर्ववेदस्य पैप्पलादशाखायाः प्रथमो मन्त्रोऽपि।
 शं नो॑ दे॒वीर॒भिष्ट॑य
 आपो॑ भवन्तु पी॒तये॑ ।
@@ -1895,10 +1999,10 @@ RvKh_3,10.1a अत्र।
     
     <item>
       <title>शिंशुमार-वन्दनम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/misc-devas/yajus/shimshumara/</link>
+      <link>file:///android_asset/docs/mantra/misc-devas/yajus/shimshumara/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/misc-devas/yajus/shimshumara/</guid>
+      <guid>file:///android_asset/docs/mantra/misc-devas/yajus/shimshumara/</guid>
       <description>यस्मै॒ नम॒स्
 तच्छिरो॒ धर्मो॑ मू॒र्धानं॑
 ब्र॒ह्म+उत्त॑रा॒ हनु॑र् य॒ज्ञोऽध॑रा॒
@@ -1913,16 +2017,15 @@ RvKh_3,10.1a अत्र।
 तँ ह॒ य ए॒वव्ँ वेदाप॑ पुनर्मृ॒त्युञ्ज॑यति॒।
 जय॑ति स्व॒र्गल्लो॒कन् नाध्वनि॒ प्रमी॑यते॒।
 नाफ्सु प्रमी॑यते॒ नाग्नौ प्रमी॑यते॒ नान॒पत्यः॑ प्रमी॒यते॑। ल॒घ्वान्नो॑ भवति।
-##‌ कल्पः
-आरण्यके तैत्तिरीये सायणभाष्यान्विते ऽत्रोक्तः। भट्टभास्करटीकायान्तु स्पष्टं विनियोगकाल्पोऽनुक्तः - किञ्च &amp;ldquo;दिवि भवो दिव्य&amp;rdquo; इति शिशुमारविवरणान् नक्षत्रमण्डलविशेषग्रहणं युज्यते। मन्त्रेऽपि शिशुमारम् उद्दिश्य ध्रुवस्य क्षितिर् असीत्युक्तम् अवधेयम। ध्रुवमण्डलं शिशुमारं कल्पयेत्, अथवा प्राचीनध्रुवं thuban-तारां तथा।</description>
+कल्पः आरण्यके तैत्तिरीये सायणभाष्यान्विते ऽत्रोक्तः। भट्टभास्करटीकायान्तु स्पष्टं विनियोगकाल्पोऽनुक्तः - किञ्च &amp;ldquo;दिवि भवो दिव्य&amp;rdquo; इति शिशुमारविवरणान् नक्षत्रमण्डलविशेषग्रहणं युज्यते। मन्त्रेऽपि शिशुमारम् उद्दिश्य ध्रुवस्य क्षितिर् असीत्युक्तम् अवधेयम। ध्रुवमण्डलं शिशुमारं कल्पयेत्, अथवा प्राचीनध्रुवं thuban-तारां तथा।</description>
     </item>
     
     <item>
       <title>श्रद्धा-सूक्तम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/shraddha/</link>
+      <link>file:///android_asset/docs/mantra/misc-devas/rk/shraddha/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/shraddha/</guid>
+      <guid>file:///android_asset/docs/mantra/misc-devas/rk/shraddha/</guid>
       <description>श्र॒द्धया॒ग्निस्समि॑ध्यते । श्र॒द्धया॑ विन्दते ह॒विः ।
 श्र॒द्धां भग॑स्य मू॒र्धनि॑ । वच॒सा वे॑दयामसि ।
 प्रि॒यग्ग् श्र॑द्धे॒ दद॑तः । प्रि॒यग्ग् श्र॑द्धे॒ दिदा॑सतः ।
@@ -1937,10 +2040,10 @@ RvKh_3,10.1a अत्र।
     
     <item>
       <title>श्रायन्तीयम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/shrayantiyam/</link>
+      <link>file:///android_asset/docs/mantra/indra/paravastu-saama/shrayantiyam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/shrayantiyam/</guid>
+      <guid>file:///android_asset/docs/mantra/indra/paravastu-saama/shrayantiyam/</guid>
       <description>ऋक् RV.8.99.3a; AV;S.20.58.1a; SV.1.267a; 2.669a; VS.33.41a; JB.3.261a; KB.25.6; A;S.7.4.3; ;S;S.11.13.21; 12.4.19; 16.21.19; Vait.33.6; 40.5; 41.9,10,19; 42.5; L;S.4.6.23; N.6.8a. Cf. Svidh.3.1.12.
 +++([सायणो ऽत्र। नृमेधः। इन्द्रः।])+++
 श्राय॑न्त +++(=श्रयन्तः)+++ +++(रश्मयः)+++ इव सूर्य॑म् विश्वा इत् इन्द्र॑स्य भक्षत।
@@ -1952,10 +2055,10 @@ RvKh_3,10.1a अत्र।
     
     <item>
       <title>श्री-सूक्तम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/shri-suktam/</link>
+      <link>file:///android_asset/docs/mantra/misc-devas/rk/shri-suktam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/shri-suktam/</guid>
+      <guid>file:///android_asset/docs/mantra/misc-devas/rk/shri-suktam/</guid>
       <description>हिर॑ण्यवर्णां॒ हरि॑णीं सुव॒र्णर॑ज॒तस्र॑जाम्।
 च॒न्द्रां हि॒रण्म॑यीं ल॒क्ष्मीं जात॑वेदो म॒ आव॑ह।
 तां म॒ आव॑ह जातवेदो ल॒क्ष्मीमन॑पगा॒मिनी॑॑म्।
@@ -1975,36 +2078,38 @@ RvKh_3,10.1a अत्र।
     
     <item>
       <title>सखाय आ निषीदत</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/soma/paravastu-saama/sakhaya-a-ni-shidata/</link>
+      <link>file:///android_asset/docs/mantra/soma/paravastu-saama/sakhaya-a-ni-shidata/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/soma/paravastu-saama/sakhaya-a-ni-shidata/</guid>
+      <guid>file:///android_asset/docs/mantra/soma/paravastu-saama/sakhaya-a-ni-shidata/</guid>
       <description>ऋक् +++([सायणो ऽत्र कौथुमभाष्ये। शुनशेपः। सोमः।])+++
 १ ६ २ ०८०३
 सखाय आ नि षीदत पुनानाय प्र गायत।
 शिशुं न यज्ञैः परि भूषत श्रिये ॥
-साम १  पारम्परिकगानमूलम् - २०१५।]      श्री सूक्तम्।
-स+++([])+++खा,+++([])+++या,आ+++([])+++अ।
-नि+++([])+++षी,दता।
-पु+++([])+++नाना,अया ।
-प्रा,+++([])+++गायता ।
-शि+++([])+++शुं ना,अ या,,ज्ञैः,
-+++([])+++पाराइ, भू+++([])+++उ,,षा+++([])+++ता श्रा,अया,आअइ।
-ओ+++([])+++इ । डा+++([])+++अ ॥
-साम २     सा+++([])+++खा,या+आअ।
-नि+++([])+++षीदाताअ।
-पु+++([])+++ना,अनायाअ।
-प्रा+++([]&amp;ldquo;३)+++अगाअअ औहोवाअ,,या+++([])+++ताअ।
-शि+++([])+++शू+++(३)+++,उन् ना या,,ज्ञैः+++([])+++
-+पारिभू+++(&amp;ldquo;३)+++उ,,षा+++([])+++अता+++(३)+++, औहोवा,अ।</description>
+साम १  पारम्परिकगानमूलम् - २०१५।]      श्रीसूक्तम्।
+स+++([पै])+++खा+++([&amp;ldquo;ॡ]%)+++या+++(%)+++आ+++([प्रे])+++अ।
+नि+++([र])+++षी+++(%)+++दता+++(३&amp;ndash;%)+++।
+पु+++([])+++ना+++(%)+++ना+++(३&amp;ndash;%)+++आया ।
+प्रा,+++([])+++गायता+++(३&amp;ndash;%)+++
+शि+++([])+++शुं ना+++(३&amp;ndash;%)+++अ या,,ज्ञैः+++([])+++ पाराइ,
+भू+++([प्रे])+++उ,,षा+++([])+++ता +श्रा+++(३%&amp;ndash;)+++अया+++(४-%-%)+++,अइ।
+ओ+++([])+++इ,डा+++([])+++अ ॥
+साम २     सा+++([])+++खा+++(v)+++या+++(४&amp;ndash;%-)+++अ।
+नि+++([])+++षी+++(३%)+++दा+++(%)+++ता+++(&amp;ldquo;)+++अ।
+पु+++([])+++ना+++(३&amp;rdquo;)+++अना+++(%)+++या+++(&amp;ldquo;)+++अ।
+प्रा+++([]&amp;ldquo;३)+++,अगाअअ औहोवाअ,,या+++([]%)+++ता+++(&amp;ldquo;)+++अ।
+शि+++([])+++शू+++(३&amp;ndash;%)+++,उन् ना या+++(३&amp;ndash;%)+++,,ज्ञैः+++([])+++
++पारिभू+++(&amp;ndash;%३)+++उ,,षा+++([]३&amp;rdquo;)+++,अताअअअ, औहो+++(३%)+++वा+++(&amp;ldquo;)+++अ।
+श्रि+++([])+++येए+++(३&amp;rdquo;%)+++ ॥
+साम ३     सा+++([])+++खाया निषी+++([]-%-३)+++दान्+++(२)+++ता+++(&amp;ldquo;)+++अ।</description>
     </item>
     
     <item>
       <title>सदसस्पतिम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/misc-devas/paravastu-saama/sadasaspatim/</link>
+      <link>file:///android_asset/docs/mantra/misc-devas/paravastu-saama/sadasaspatim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/misc-devas/paravastu-saama/sadasaspatim/</guid>
+      <guid>file:///android_asset/docs/mantra/misc-devas/paravastu-saama/sadasaspatim/</guid>
       <description>ऋक् RV.1.18.6a; RVKh.10.151.7a; SV.1.171a; VS.32.13a; TA.10.1.4a; MahAnU.2.8a; ;S;S.6.13.3; AG.1.22.13; ;SG.2.8.1; GG.2.7.21; 3.2.48; ApMB.1.9.8a +++(ApG.3.8.2)+++; HG.1.8.16a; JG.1.14; 2.7; Svidh.2.7.6. P: sadasas patim PG.2.10.11; KhG.2.5.34; Rvidh.1.17.2. +++([सायणो ऽत्र। काण्वो मेधातिथिरृषिः । गायत्री। सदसस्पतिः।])+++
 सद॑स॒स्पति॒मद्भु॑तं प्रि॒यमिन्द्र॑स्य॒ काम्य॑म् । स॒निं +++(=दानरूपम्)+++ मे॒धाम॑यासिषम् ६
 साम  पारम्परिक-गान-मूलम् अत्र।        सा+++([का]३)+++द+++(&amp;ldquo;)+++अ । स+++([घि])+++स्पता+++(&amp;ndash;&amp;ldquo;३)+++इमा+++([&amp;ldquo;?])+++द्भू+++(३)+++,ताओ+++([लू]&amp;ldquo;३)+++वाआ ।
@@ -2015,10 +2120,10 @@ RvKh_3,10.1a अत्र।
     
     <item>
       <title>सन्ध्या-पाप-लुम्पनम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/sandhya-papa-lumpanam/</link>
+      <link>file:///android_asset/docs/mantra/misc-devas/rk/sandhya-papa-lumpanam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/misc-devas/rk/sandhya-papa-lumpanam/</guid>
+      <guid>file:///android_asset/docs/mantra/misc-devas/rk/sandhya-papa-lumpanam/</guid>
       <description>प्रातः सूर्यश्च मा मन्युश्च मन्युपतयश्च मन्यु॑कृते॒भ्यः ।
 पापेभ्यो॑ रक्ष॒न्ताम् ।
 यद्रात्रिया पाप॑मका॒ऱ्षम् । मनसा वाचा॑ हस्ता॒भ्याम् । पद्भ्यामुदरे॑ण शि॒श्ना । रात्रि॒स्तद॑वलु॒म्पतु ।
@@ -2033,10 +2138,10 @@ RvKh_3,10.1a अत्र।
     
     <item>
       <title>समीची नामासि</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/misc-devas/yajus/samichi-namasi/</link>
+      <link>file:///android_asset/docs/mantra/misc-devas/yajus/samichi-namasi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/misc-devas/yajus/samichi-namasi/</guid>
+      <guid>file:///android_asset/docs/mantra/misc-devas/yajus/samichi-namasi/</guid>
       <description>हरदत्तो ऽत्र।
 स॒मीची॒ नामा॑सि॒ प्राची॒दिक्तस्या॑स्ते॒ऽग्निरधि॑पतिरसि॒तो र॑क्षि॒ता
 यश्चाधि॑पति॒र्यश्च॑ गो॒प्ता ताभ्यां॒ नम॒स्तौ नो॑ मृडयतां॒
@@ -2051,10 +2156,10 @@ RvKh_3,10.1a अत्र।
     
     <item>
       <title>सम्पा</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/soma/paravastu-saama/sampa/</link>
+      <link>file:///android_asset/docs/mantra/soma/paravastu-saama/sampa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/soma/paravastu-saama/sampa/</guid>
+      <guid>file:///android_asset/docs/mantra/soma/paravastu-saama/sampa/</guid>
       <description>ऋक् RV.9.90.2a; SV.1.528a; 2.758a. P: abhi tripRTEMPiShTham Svidh.1.4.20; 5.16.
 +++([सायणो ऽत्र। मैत्रावारुणिर् वसिष्ठः। अनुष्टुभ्। सोमः])+++
 अ॒भि त्रि॑पृ॒ष्ठं +++(=त्रिस्तोत्रम् त्रिसवनं वा)+++ वृष॑णं +++(=वर्षकम्)+++ वयो॒धाम् +++(=अन्नदम्)+++
@@ -2069,11 +2174,23 @@ RvKh_3,10.1a अत्र।
     </item>
     
     <item>
-      <title>सेतुषाम</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/misc-devas/paravastu-saama/setums-tara/</link>
+      <title>सूतकहोममन्त्राः</title>
+      <link>file:///android_asset/docs/mantra/misc-devas/yajus/sutaka-homa-mantra-ap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/misc-devas/paravastu-saama/setums-tara/</guid>
+      <guid>file:///android_asset/docs/mantra/misc-devas/yajus/sutaka-homa-mantra-ap/</guid>
+      <description>हरदत्तो ऽत्र।
+ +++(सर्षपान् फलीकरणमिश्रान् जुहोति।)+++ अ॒यं क॒लिं प॒तय॑न्त२ꣳ+++(=प्रतिगच्छन्तम्)+++ श्वा॒नमि॒वोद्वृ॑द्धम् ।
+अ॒जां वाशि॑तामिव मरुतः॒ पर्या॑द्ध्व॒२ꣳ॒+++(=पर्यास्यध्वम्)+++ स्वाहा॑ । शण्डे॒रथ॒श्+++(शण्डो रथे यस्य)+++ शण्डि॑केर+++(शण्डिकम् बलम् ईरयति)+++ उलूख॒लः ।
+च्यव॑नो॒ नश्य॑तादि॒तः स्वाहा॑ । अय॒श् शण्डो॒ मर्क॑ उप॒वीर॑+++(यमवेक्ष्यान्ये वीरा न्यूनाः)+++ उलूख॒लः । च्यव॑नो॒ नश्य॑तादि॒तः स्वाहा॑ । के॒शिनी॒श् श्वलो॒मिनीः॒ खजा॑पो॒+++(=खञ्जा =पङ्ग्वयो भूत्वाप्नुवन्ति)+++ ऽजोप॑काशिनीः+++(=अजनिभाः)+++ । अपे॑त॒ नश्य॑तादि॒तस्स्वाहा॑ । मि॒श्रवा॑ससः कौबेर॒का र॑क्षोरा॒जेन॒ प्रेषि॑ताः । ग्राम॒ꣳ॒ सजा॑नयो गच्छन्ती॒च्छन्तो॑ ऽपरि॒दाकृ॒तान्थ्+++(अनुपनीतान् - &amp;ldquo;अग्नये त्वा परिददामीति&amp;rdquo; तत्र मन्त्रः)+++ स्वाहा॑ । ए॒तान् घ्न॑तै॒तान् गृ॑ह्णी॒तेत्य॒यं ब्रह्म॑णस्पु॒त्रः ।</description>
+    </item>
+    
+    <item>
+      <title>सेतुषाम</title>
+      <link>file:///android_asset/docs/mantra/misc-devas/paravastu-saama/setums-tara/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///android_asset/docs/mantra/misc-devas/paravastu-saama/setums-tara/</guid>
       <description>ऋक् +++([सायणो ऽत्र कौथुमभाष्ये। ।])+++
 साम  पारम्परिकगानमूलम् - २०१५।]      हा+++([])+++उ ।।त्रि:।।
 से+++([])+++तू०, स्त रा ।। त्रि : ।। दु+++([])+++स्तारान्+++([])+++।। त्रि: ।। दा+++([])+++नॆ, एना दानं ।। त्रि: ।। हा+++([])+++उ ।। त्रि: ।। अ+++([])+++हमस्मि प्रधमजाअ, ऋता, अस्याअ । हा+++([])+++उ ।। त्रि: ।। से+++([])+++तू०, स्तरा ।। त्रि: ।। दु+++([])+++स्तारान्+++([])+++।। त्रि: ।। अ+++([])+++क्रो, धॆऎ, नक्रोधं ।। द्वि: ।। अ+++([])+++क्रो, धॆऎ, नक्रो, धं । हा+++([])+++उ ।। त्रि:।। पू+++([])+++र्वं, देवेभ्यो, अमृतस्यना, आमा: । हा+++([])+++उ ।। त्रि: ।। से+++([])+++तू०, स्त रा ।। त्रि: ।। दु+++([])+++स्तारान्+++([])+++।। त्रि: ।। श्र+++([])+++द्धया, श्रद्धा अं ।। त्रि: ।। हा+++([])+++उ ।। त्रि: ।। यो+++([])+++माददाति, सइदेऎ, वमा, अवात् । हा+++([])+++उ ।। त्रि: ।। से+++([])+++तू०, स्त रा ।। त्रि: ।। दु+++([])+++स्तारान्+++([])+++।। त्रि: ।। स+++([])+++त्येना, नृतं ।। त्रि: ।। हा+++([])+++उ ।। त्रि: ।। अ+++([])+++हमन्न, मन्न, मदंतमा, द्मीइ । हा+++([])+++उ ।। द्वि: ।। ह+++([])+++उवा । ए+++([])+++षा, गति : ।। त्रि: ।। ए+++([])+++ता, दमृत० ।। त्रि: ।। सु+++([])+++वर्गच्छा ।। त्रि: ।। ज्यो+++([])+++तिर्गच्छा ।। त्रि: ।। से+++([])+++तूं, उस्तीत्वा, चतुरा: ॥</description>
@@ -2081,10 +2198,10 @@ RvKh_3,10.1a अत्र।
     
     <item>
       <title>हरिश्रीनिधनम्</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/harishrinidhanam/</link>
+      <link>file:///android_asset/docs/mantra/indra/paravastu-saama/harishrinidhanam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/indra/paravastu-saama/harishrinidhanam/</guid>
+      <guid>file:///android_asset/docs/mantra/indra/paravastu-saama/harishrinidhanam/</guid>
       <description>ऋक् ३.०४०.०६
 +++([सायणो ऽत्र, कौथुमभाष्ये ऽत्र। वैश्वामित्रम्, गायत्रम्, ऐन्द्रम्।])+++
 गिर्व॑णः पा॒हि +++(=पिब।)+++ नः॑ सु॒तं मधो॒र्धारा॑भिरज्यसे ।
@@ -2093,16 +2210,16 @@ RvKh_3,10.1a अत्र।
 गि+++([के])+++र्वणः पा+++([&amp;ldquo;]-&amp;rdquo; )+++अही+++(&amp;ldquo;३)+++ नस् सू+++(&amp;ldquo;३)+++तम्।
 गि+++([कि])+++र्वणः पा+++(&amp;ndash;&amp;ldquo;३)+++हि+++([ता])+++ नस् सुता+++([प्रे])+++अम्।
 म+++([घि])+++धो+++([&amp;ldquo;]% ३)+++र् धा+++([&amp;ldquo;]%)+++रा+++([&amp;ldquo;]३)+++भीर् आ+++(%)+++हो+++([प्रे])+++ऒज्या+++([कि]&amp;ldquo;%)+++से+++(%३)+++ए। ह+++([प])+++उवा । इन्+++([तः])+++द्रा+++(&amp;ldquo;३)+++ । त्वा+++(३)+++, आदा,,ता+++([पौ])+++मा+++(&amp;ndash;&amp;ldquo;३)+++, ये+++([ऽ])+++ए+++(३)+++त् ।
-या+++(%&amp;ldquo;”[पे])+++अशाअअ।
+या+++(%&amp;ldquo;&amp;rdquo;[पे])+++अशाअअ।
 औ+++([&amp;ldquo;])+++हो+++([&amp;ldquo;]%३)+++वा+++(३)+++अ। ह+++([ज])+++रीईश्री+++(&amp;ldquo;३)+++हि+++(v)+++।</description>
     </item>
     
     <item>
       <title>हेतयो नाम स्थ</title>
-      <link>https://vvasuki.github.io/saMskAra/mantra/misc-devas/yajus/hetayo-nama/</link>
+      <link>file:///android_asset/docs/mantra/misc-devas/yajus/hetayo-nama/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/mantra/misc-devas/yajus/hetayo-nama/</guid>
+      <guid>file:///android_asset/docs/mantra/misc-devas/yajus/hetayo-nama/</guid>
       <description>हरदत्तो ऽत्र।
 सर्पबलौ विनियोगः प्रसिद्धः। किञ्च गन्धर्वाहुतय इति प्रसिद्धाः। तेनात्र गन्धर्वास् सर्परूपिणोऽपि भावने नानुचिताः।
 हे॒तयो॒ नाम॑स्थ॒ तेषां॑ वः पु॒रो गृ॒हा अ॒ग्निर्व॒ इष॑वः सलि॒लो वा॑तना॒मं

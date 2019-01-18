@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>कल्पः on संस्कारे विश्वासटिप्पणयः</title>
-    <link>https://vvasuki.github.io/saMskAra/kalpa/</link>
+    <link>file:///android_asset/docs/kalpa/</link>
     <description>Recent content in कल्पः on संस्कारे विश्वासटिप्पणयः</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://vvasuki.github.io/saMskAra/kalpa/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="file:///android_asset/docs/kalpa/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>अपः प्रणयति</title>
-      <link>https://vvasuki.github.io/saMskAra/kalpa/brahmana/apah-prayanayati/</link>
+      <link>file:///android_asset/docs/kalpa/brahmana/taittiriya/kriya/apah-prayanayati/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/kalpa/brahmana/apah-prayanayati/</guid>
+      <guid>file:///android_asset/docs/kalpa/brahmana/taittiriya/kriya/apah-prayanayati/</guid>
       <description>अ॒पः प्रण॑यति। श्र॒द्धा वा आपः॑ ।
 श्र॒द्धां ए॒वारभ्य॑ प्र॒णीय॑ प्रच॑रति।
 अ॒पः प्रण॑यति । य॒ज्ञो वा आपः॑ ।
@@ -32,24 +32,24 @@
     
     <item>
       <title>असुर-पराभवः</title>
-      <link>https://vvasuki.github.io/saMskAra/kalpa/brahmana/shatapatha_asura_parabhava/</link>
+      <link>file:///android_asset/docs/kalpa/brahmana/vajasaneya/tattva/shatapatha_asura_parabhava/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/kalpa/brahmana/shatapatha_asura_parabhava/</guid>
+      <guid>file:///android_asset/docs/kalpa/brahmana/vajasaneya/tattva/shatapatha_asura_parabhava/</guid>
       <description>+++(शतपथब्राहणटीकायाम् सायणो ऽत्र।)+++
 अथ योऽयमवाङ्प्राणः। तेनासुरानसृजत। त इमामेव पृथिवीमभिपद्यासृज्यन्त। तस्मै ससृजानाय तम इवास। - ११.१.६.[८]
 सो ऽवेत् - &amp;ldquo;पाप्मानं वा असृक्षि यस्मै मे ससृजानाय तम इवाभूद्&amp;rdquo; इति। तांस्तत एव पाप्मनाऽविध्यत्। ते तत एव पराभवंस्, तस्मादाहुर् - &amp;ldquo;नैतदस्ति यद्दैवासुरं +++(युद्धं)+++ यद् इदम् अन्वाख्याने त्वद् +++(=एकं)+++ उद्यत, इतिहासे त्वत् +++(=एकं)+++। ततो ह्येव तान् प्रजापतिः पाप्मनाविध्यत्। ते तत एव पराभवन्नि&amp;rdquo;ति। - ११.१.६.[९]
 तस्मादेतदृषिणाभ्यनूक्तम् -
-न त्वं युयुत्से कतमच्च +++(=किमपि)+++ नाहर् ‌+++(=न हतवान्)+++,
+न त्वं युयुत्से कतमच्च +++(=किमपि)+++ नाहर् +++(=न हतवान्)+++,
 न्न तेऽमित्रो मघवन्कश्चनास्ति।</description>
     </item>
     
     <item>
       <title>आपो वा इदं सर्वम्</title>
-      <link>https://vvasuki.github.io/saMskAra/kalpa/brahmana/apo-va-idam/</link>
+      <link>file:///android_asset/docs/kalpa/brahmana/taittiriya/tattva/apo-va-idam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/kalpa/brahmana/apo-va-idam/</guid>
+      <guid>file:///android_asset/docs/kalpa/brahmana/taittiriya/tattva/apo-va-idam/</guid>
       <description>आपो॒ वा इ॒दꣳ सर्वं॒
 विश्वा॑ भू॒तान्यापः॑
 प्रा॒णा वा आपः॑
@@ -61,11 +61,20 @@
     </item>
     
     <item>
-      <title>ये अर्वाङुत वा पुराणे</title>
-      <link>https://vvasuki.github.io/saMskAra/kalpa/brahmana/brahmana-vandanam/</link>
+      <title>क्रमः, कालः</title>
+      <link>file:///android_asset/docs/kalpa/brahmana/vajasaneya/kriya/krama/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/kalpa/brahmana/brahmana-vandanam/</guid>
+      <guid>file:///android_asset/docs/kalpa/brahmana/vajasaneya/kriya/krama/</guid>
+      <description>पूर्वाह्णे वै देवानां, मध्यन्दिनं मनुष्याणामपराह्णः पितॄणाम्, तस्मादपराह्णे ददाति।</description>
+    </item>
+    
+    <item>
+      <title>ये अर्वाङुत वा पुराणे</title>
+      <link>file:///android_asset/docs/kalpa/brahmana/taittiriya/kriya/brahmana-vandanam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///android_asset/docs/kalpa/brahmana/taittiriya/kriya/brahmana-vandanam/</guid>
       <description>ये अ॒र्वाङु॒त वा॑ पुरा॒णे
 वे॒दव्विँ॒द्वाँस॑म् अ॒भितो॑ वदन्त्य्,
 आदि॒त्यम् ए॒व ते परि॑वदन्ति॒ सर्वे॑,
@@ -73,6 +82,16 @@
 याव॑ती॒र्वै दे॒वता॒स् तास् सर्वा॑ वेद॒विदि॑ ब्राह्म॒णे व॑सन्ति॒।
 तस्मा॑ ब्राह्म॒णेभ्यो॑ वेद॒विद्भ्यो॑ दि॒वेदि॑वे॒ नम॑स्कुर्या॒न्।
 नाश्ली॒लङ्की॑र्तयेद्। ए॒ता ए॒व दे॒वताः॑ प्रीणाति ।</description>
+    </item>
+    
+    <item>
+      <title>रजस्वलाः</title>
+      <link>file:///android_asset/docs/kalpa/brahmana/taittiriya/kriya/rajasvala/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///android_asset/docs/kalpa/brahmana/taittiriya/kriya/rajasvala/</guid>
+      <description>स स्त्री॑षँसा॒दमुपा॑सीदद॒स्यै ब्र॑ह्मह॒त्यायै॒ तृती॑य॒म्प्रति॑ गृह्णी॒तेति॒। ता अ॑ब्रुव॒न्वरं॑ वृणामहा॒ - ऋत्वि॑यात् प्र॒जां वि॑न्दामहै॒ काम॒मा विज॑नितोः॒ सम्भ॑वा॒मेति॒। तस्मा॒दृत्वि॑या॒थ् स्त्रियः॑ प्र॒जां वि॑न्दन्ते॒। काम॒मा विज॑नितोः॒ सम्भ॑वन्ति॒ वारे॑वृत॒॒ ह्या॑सा॒न्, तृती॑यम्ब्रह्मह॒त्यायै॒ प्रत्य॑गृह्ण॒न्थ्, सा मल॑वद्वासा अभव॒त्। तस्मा॒न् मल॑वद्वाससा॒ न सं व॑देत, न स॒हासी॑त॒ नास्या॒ अन्न॑मद्याद् ब्रह्मह॒त्यायै॒ ह्ये॑षा वर्ण॑म् प्रति॒मुच्यास्ते। अथो॒ खल्वा॑हुर॒भ्यञ्ज॑नं॒ वाव स्त्रि॒या अन्न॑म॒भ्यञ्ज॑नमे॒व, न प्र॑ति॒गृह्यं॒, काम॑म॒न्यदिति॒।
+याम् मल॑वद्वाससँ स॒म्भव॑न्ति॒, यस्ततो॒ जाय॑ते॒ सो॑ऽभिश॒स्तो, यामर॑ण्ये॒ तस्यै॑ स्ते॒नो, याम् परा॑चीं॒ तस्यै॑ ह्रीतमु॒ख्य॑पग॒ल्भो, या स्नाति॒ तस्या॑ अ॒प्सु मारु॑को॒, या अ॒भ्य॒ङ्क्ते तस्यै॑ दु॒श्चर्मा॒, या प्र॑लि॒खते॒ तस्यै॑ खल॒तिर॑पमा॒री, याऽऽङ्क्ते तस्यै॑ का॒णो, या द॒तो धाव॑ते॒ तस्यै॑ श्या॒वद॒न्, या न॒खानि॑ निकृ॒न्तते॒ तस्यै॑ कुन॒खी, या कृ॒णत्ति॒ तस्यै॑ क्ली॒बो, या रज्जुँ॑ सृ॒जति॒ तस्या॑ उ॒द्बन्धु॑को॒, या प॒र्णेन॒ पिब॑ति॒ तस्या॑ उ॒न्मादु॑को॒, या ख॒र्वेण॒ पिब॑ति॒ तस्यै॑ ख॒र्वः। ति॒स्रो रात्री॑र् व्र॒तं च॑रेद् - अञ्ज॒लिना॑ वा॒ पिबे॒दख॑र्वेण वा॒ पात्रे॑ण प्र॒जायै॑ गोपी॒थाय॑ ।। ऽया स्नातीऽति त्रिरात्रमध्ये स्नानस्य प्रतिषेधः । ऽयाभ्यङ्तेऽइत्यभ्यञ्जनस्य । ऽया प्रलिखतऽइति शिरसि प्रलेखनस्य कङ्कतादि ना । ऽयाऽङ्तेऽइति चक्षुषोरञ्जनस्य । ऽया दतःऽइति दन्तधावनस्य । ऽया नखानीऽति नखनिकृन्तनस्य । ऽया कृणत्तीऽति कार्पासादेस्तन्तुकर्मणः । ऽया रज्जुऽमिति रज्जुक्रियायाः । ऽया पर्णेनेऽति पर्णेनाशनस्य । ऽया खर्वेणेऽति खर्वेण पात्रेण ।</description>
     </item>
     
   </channel>

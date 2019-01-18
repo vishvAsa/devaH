@@ -1,6 +1,6 @@
 
 /*
-Example: absoluteUrl("../subfolder1/divaspari.md", "images/forest-fire.jpg") == "../subfolder1/images/forest-fire.jpg"
+Example: absoluteUrl("../subfolder1/divaspari/", "../images/forest-fire.jpg") == "../subfolder1/images/forest-fire.jpg"
  */
 function absoluteUrl(base, relative) {
     // console.debug(base, relative);
@@ -10,7 +10,7 @@ function absoluteUrl(base, relative) {
     if (relative.startsWith("/") && !base.startsWith("http") && !base.startsWith("file")) {
         return relative;
     }
-    var stack = base.toString().split("/"),
+    var stack = base.toString().split("#")[0].split("/"),
         parts = relative.split("/");
     stack.pop(); // remove current file name (or empty string)
                  // (omit if "base" is the current folder without trailing slash)
@@ -30,7 +30,9 @@ function fixIncludedHtml(url, html, newLevelForH1) {
     // We want to use jquery to parse html, but without loading images. Hence this.
     // Tip from: https://stackoverflow.com/questions/15113910/jquery-parse-html-without-loading-images
     var virtualDocument = document.implementation.createHTMLDocument('virtual');
-    var jqueryElement = $(setInlineComments(html), virtualDocument);
+
+    // The surrounding divs are eliminated when the jqueryElement is created.
+    var jqueryElement = $(setInlineComments(`<div>${html}</div>`), virtualDocument);
 
     // console.debug(jqueryElement.html());
     // Remove some tags.
@@ -40,7 +42,6 @@ function fixIncludedHtml(url, html, newLevelForH1) {
     jqueryElement.find("#toc").remove();
     jqueryElement.find("#toc_header").remove();
     jqueryElement.find(".back-to-top").remove();
-    // console.debug(jqueryElement.html());
 
     // Deal with includes within includes. Do this before fixing images urls etc.. because there may be images within the newly included html.
     jqueryElement.find('.js_include').each(function() {
@@ -65,7 +66,7 @@ function fixIncludedHtml(url, html, newLevelForH1) {
      */
     var headers = jqueryElement.find(":header");
     if (headers.length > 0) {
-        var id_prefix = headers[0].id;
+        var id_prefix = url.replace("/", "_");
         headers.replaceWith(function() {
             var headerElement = $(this);
             // console.debug(headerElement);
@@ -75,6 +76,7 @@ function fixIncludedHtml(url, html, newLevelForH1) {
             return $("<h" + hLevelNew +" id='" + newId + "'/>").append(headerElement.contents());
         });
     }
+
 
     // Fix image urls.
     jqueryElement.find("img").each(function() {
@@ -105,55 +107,58 @@ function fixIncludedHtml(url, html, newLevelForH1) {
         }
     });
 
-    return jqueryElement;
+    return jqueryElement.html();
 }
 
 // An async function returns results wrapped in Promise objects.
 async function processAjaxResponseHtml(responseHtml, addTitle, includedPageNewLevelForH1, includedPageUrl) {
-  // We want to use jquery to parse html, but without loading images. Hence this.
-  // Tip from: https://stackoverflow.com/questions/15113910/jquery-parse-html-without-loading-images
-  var virtualDocument = document.implementation.createHTMLDocument('virtual');
+    // We want to use jquery to parse html, but without loading images. Hence this.
+    // Tip from: https://stackoverflow.com/questions/15113910/jquery-parse-html-without-loading-images
+    var virtualDocument = document.implementation.createHTMLDocument('virtual');
 
-  var titleElements = $(responseHtml, virtualDocument).find("h1");
-  var title = "";
-  if (titleElements.length > 0) {
-      // console.debug(titleElements[0]);
-      title = titleElements[0].textContent;
-  }
+    var titleElements = $(responseHtml, virtualDocument).find("h1");
+    var title = "";
+    if (titleElements.length > 0) {
+        // console.debug(titleElements[0]);
+        title = titleElements[0].textContent;
+    }
 
-  var contentElements = $(responseHtml, virtualDocument).find("#post_content");
-  // console.log(contentElements);
-  if (contentElements.length == 0) {
-      let message = "Could not get \"post-content\" class element.";
-      console.warn(message);
-      console.log(responseHtml);
-      throw Error(message);
-  } else {
-      // We don't want multiple post-content divs, hence we replace with an included-post-content div.
-      var elementToInclude = $("<div class='included-post-content border'/>")
-      var editLinkElements = $(responseHtml, virtualDocument).find("#editLink");
-      var editLinkHtml = "";
-      if (editLinkElements.length > 0) {
-        // console.debug(editLinkElements);
-        editLinkHtml = `<a class="btn btn-secondary" href="${editLinkElements.attr("href")}"><i class="fas fa-edit"></i></a>`
-      }
-      var titleHtml = "";
-      if (addTitle) {
-          titleHtml = "<div class='border d-flex justify-content-between'>" +
-          "<h1 id='" + title + "'>" + title + "</h1>" +
-          "<div><a class='btn btn-secondary' href='" + absoluteUrl(document.location, includedPageUrl) + "'><i class=\"fas fa-external-link-square-alt\"></i></a>" +
-          editLinkHtml + "</div>" +
-          "</div>";
-      }
-      var contentHtml = `<div class=''>${contentElements[0].innerHTML}</div>`;
-      elementToInclude.html(titleHtml + contentHtml);
-      var contentElement = fixIncludedHtml(includedPageUrl, elementToInclude.html(), includedPageNewLevelForH1);
-      return contentElement;
-  }
+    var contentElements = $(responseHtml, virtualDocument).find("#post_content");
+    // console.log(contentElements);
+    if (contentElements.length == 0) {
+        let message = "Could not get \"post-content\" class element.";
+        console.warn(message);
+        console.log(responseHtml);
+        throw Error(message);
+    } else {
+        // We don't want multiple post-content divs, hence we replace with an included-post-content div.
+        var editLinkElements = $(responseHtml, virtualDocument).find("#editLink");
+        var editLinkHtml = "";
+        if (editLinkElements.length > 0) {
+            // console.debug(editLinkElements);
+            editLinkHtml = `<a class="btn btn-secondary" href="${editLinkElements.attr("href")}"><i class="fas fa-edit"></i></a>`
+        }
+        var titleHtml = "";
+        if (addTitle) {
+            titleHtml = "<div class='border d-flex justify-content-between'>" +
+                "<h1 id='" + title + "'>" + title + "</h1>" +
+                "<div><a class='btn btn-secondary' href='" + absoluteUrl(document.location, includedPageUrl) + "'><i class=\"fas fa-external-link-square-alt\"></i></a>" +
+                editLinkHtml + "</div>" +
+                "</div>";
+        }
+        var contentHtml = `<div class=''>${contentElements[0].innerHTML}</div>`;
+        var elementToInclude = $("<div class='included-post-content border'/>")
+        elementToInclude.html(fixIncludedHtml(includedPageUrl, titleHtml, includedPageNewLevelForH1) + fixIncludedHtml(includedPageUrl, contentHtml, includedPageNewLevelForH1));
+        return elementToInclude;
+    }
 }
 
 async function fillJsInclude(jsIncludeJqueryElement, includedPageNewLevelForH1) {
     var includedPageUrl = "../" + jsIncludeJqueryElement.attr("url").replace(".md", "/").toLowerCase();
+    if (includedPageUrl.endsWith("/")) {
+        // In case one loads file://x/y/z/ , the following is needed. 
+        includedPageUrl = includedPageUrl + "index.html";
+    }
     if (includedPageNewLevelForH1 == undefined) {
         includedPageNewLevelForH1 = parseInt(jsIncludeJqueryElement.attr("newLevelForH1"));
     }
@@ -162,12 +167,12 @@ async function fillJsInclude(jsIncludeJqueryElement, includedPageNewLevelForH1) 
     }
     let getAjaxResponsePromise = $.ajax(includedPageUrl);
     function processingFn(responseHtml) {
-      return processAjaxResponseHtml(responseHtml, jsIncludeJqueryElement.attr("includeTitle"), includedPageNewLevelForH1, includedPageUrl);
+        return processAjaxResponseHtml(responseHtml, jsIncludeJqueryElement.attr("includeTitle"), includedPageNewLevelForH1, includedPageUrl);
     }
     return getAjaxResponsePromise.then(processingFn).then(function(contentElement) {
-      // console.log(contentElement);
-      jsIncludeJqueryElement.html(contentElement);
-      // TODO: The following calls lead to major UI delays and problems on pages such as saMskAra/mantra/sangrahah/paravastu-saama/udakashanti/#. Must use worker instead.
+        // console.log(contentElement);
+        jsIncludeJqueryElement.html(contentElement);
+        // TODO: The following calls lead to major UI delays and problems on pages such as saMskAra/mantra/sangrahah/paravastu-saama/udakashanti/#. Must use worker instead.
     }).catch(function(error){
         var titleHtml = "";
         var title = "Missing page.";
@@ -179,9 +184,9 @@ async function fillJsInclude(jsIncludeJqueryElement, includedPageNewLevelForH1) 
         jsIncludeJqueryElement.html(elementToInclude);
         console.debug(error);
     }).then(function(v) {
-      // fillAudioEmbeds();
-      // fillVideoEmbeds();
-      // updateToc();
+        // fillAudioEmbeds();
+        // fillVideoEmbeds();
+        // updateToc();
     });
 }
 
@@ -189,24 +194,24 @@ async function fillJsInclude(jsIncludeJqueryElement, includedPageNewLevelForH1) 
 // <div class="js_include" url="index.md"/>
 // can't easily use a worker - workers cannot access DOM (workaround: pass strings back and forth), cannot access jquery library.
 $( window ).on( "load", function() {
-  if ($('.js_include').length == 0) { return; }
-  Promise.all($('.js_include').map(function() {
-      console.debug("Inserting include for " + $(this).html());
-      var jsIncludeJqueryElement = $(this);
-      // The actual filling happens in a separate thread!
-      fillJsInclude(jsIncludeJqueryElement);
-  }))
-  // The below did not help.
-  .then(function() { console.debug("Waiting")
-    new Promise(res => setTimeout(res, 5000));})
-  .then(function(values) {
-    console.log("Done including.", values);
-    // The below lines do not having any effect if not called without the timeout.
-    setTimeout(function(){
-      setInlineCommentsInPostContent();
-      fillAudioEmbeds();
-      fillVideoEmbeds();
-      updateToc();
-    }, 5000);
-  });
+    if ($('.js_include').length == 0) { return; }
+    Promise.all($('.js_include').map(function() {
+        console.debug("Inserting include for " + $(this).html());
+        var jsIncludeJqueryElement = $(this);
+        // The actual filling happens in a separate thread!
+        fillJsInclude(jsIncludeJqueryElement);
+    }))
+    // The below did not help.
+        .then(function() { console.debug("Waiting")
+            new Promise(res => setTimeout(res, 5000));})
+        .then(function(values) {
+            console.log("Done including.", values);
+            // The below lines do not having any effect if not called without the timeout.
+            setTimeout(function(){
+                setInlineCommentsInPostContent();
+                fillAudioEmbeds();
+                fillVideoEmbeds();
+                updateToc();
+            }, 5000);
+        });
 });

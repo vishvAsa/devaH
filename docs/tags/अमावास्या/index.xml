@@ -2,22 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>अमावास्या on संस्कारे विश्वासटिप्पणयः</title>
-    <link>https://vvasuki.github.io/saMskAra/tags/%E0%A4%85%E0%A4%AE%E0%A4%BE%E0%A4%B5%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%BE/</link>
+    <link>file:///android_asset/docs/tags/%E0%A4%85%E0%A4%AE%E0%A4%BE%E0%A4%B5%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%BE/</link>
     <description>Recent content in अमावास्या on संस्कारे विश्वासटिप्पणयः</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://vvasuki.github.io/saMskAra/tags/%E0%A4%85%E0%A4%AE%E0%A4%BE%E0%A4%B5%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%BE/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="file:///android_asset/docs/tags/%E0%A4%85%E0%A4%AE%E0%A4%BE%E0%A4%B5%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%BE/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>अमावास्या</title>
-      <link>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/kriyah/shaucham/parva/</link>
+      <link>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/kriyah/shaucham/parva/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vvasuki.github.io/saMskAra/kalpa/apastamba/pramanani/dharma-sutra/kriyah/shaucham/parva/</guid>
+      <guid>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/dharma-sutra/kriyah/shaucham/parva/</guid>
       <description>दिवादित्यः सत्त्वानि गोपायति नक्तं चन्द्रमास्तस्मादमावास्यायां निशायां स्वाधीय आत्मनो गुप्तिमिच्छेत्प्रायत्य ब्रह्मचर्यकाले चर्यया च १९ सह ह्येतां रात्रिं सूर्याचन्द्रमसौ वसतः २०
 गृहस्थेषु पर्वसु चोभयोरुपवासः ४ औपवस्तमेव कालान्तरे भोजनम् ५ तृप्तिश्चान्नस्य ६ यच्चैनयोः प्रियं स्यात्तदेतस्मिन्न् अहनि भुञ्जीयाताम् ७ अधश्च शयीयाताम् ८ मैथुनवर्जनं च ९ श्वोभूते स्थालीपाकः १० तस्योपचारः पार्वणेन व्याख्यातः ११</description>
+    </item>
+    
+    <item>
+      <title>पर्व</title>
+      <link>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/shrauta/tattvani/parva/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///android_asset/docs/kalpa/sutra/apastamba/pramanani/shrauta/tattvani/parva/</guid>
+      <description>अमावास्यायाम् +++(=पर्वसन्धिः, तद्युक्तय् अहनी)+++ अमावास्यया यजेत +++(यदि पूर्वाह्णापराह्णदृष्ट्या शक्यम् अमावास्याक्षणं कर्ममध्ये स्यादिति हरदत्तः!)+++‌ १९ पौणमास्यां +++(=पर्वसन्धिः, तद्युक्तय् अहनी)+++ पौर्णमास्या २० यदहः +++(रात्रौ वा)+++ पुरस्ताच् +++(=पूर्वायाम्)+++ चन्द्रमाः पूर्ण +++(=पूर्णप्राय)+++ उत्सर्पेत् +++(=उदेति)+++ तां पौर्णमासीमुपवसेत्, +++(परेद्युर् इष्टिः)+++। २१ श्वः +++(पूर्वाह्णे)+++ पूरितेति वा २२ खर्विकां +++(=अल्पसंज्ञाम्)+++ तृतीयां +++(पौर्णमासीम् = पूर्वाह्णे यदा पर्व, रात्रेरन्तिमे १/१२-भागे वा)+++ वाजसनेयिनः समामनन्ति +++(अतो ऽनुकल्पः - तद्दिनय् उपवासः, परेद्युरिष्टिः)+++ २३ यदहर् +++(रात्रौ)+++ न दृश्यते तदहरमावास्या +++(उपवसेत्)+++ २४ श्वो न द्रष्टार इति वा २५</description>
     </item>
     
   </channel>
