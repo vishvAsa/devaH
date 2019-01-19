@@ -3,8 +3,6 @@ languageCode = "en-us"
 title = "संस्कारे विश्वासटिप्पणयः"
 theme = "sanskrit-documentation-theme-hugo"
 publishDir = "docs"
-relativeURLs = true
-# uglyurls = false
 [params]
   githubEditMePathBase = "https://github.com/vvasuki/saMskAra/edit/master/content/"
   contactLink = "https://github.com/vvasuki/saMskAra/issues/new"
