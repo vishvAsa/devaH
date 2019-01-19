@@ -1,8 +1,8 @@
-baseURL = "https://vvasuki.github.io/saMskAra/"
+baseURL = "file:///storage/emulated/0/notesData/saMskAra"
 languageCode = "en-us"
 title = "संस्कारे विश्वासटिप्पणयः"
 theme = "sanskrit-documentation-theme-hugo"
-publishDir = "build_github"
+publishDir = "build_offline_android"
 [params]
   githubEditMePathBase = "https://github.com/vvasuki/saMskAra/edit/master/content/"
   contactLink = "https://github.com/vvasuki/saMskAra/issues/new"
