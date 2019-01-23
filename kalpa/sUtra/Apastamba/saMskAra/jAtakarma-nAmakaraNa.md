@@ -54,7 +54,7 @@ emphasis_as_inline_comments: true
 स्त्रीनामप्राप्तिः - स्त्रीविषये आबन्तता, स्वातिपुनर्वस्वोः पुंवत्। तत्र सञ्जीविनीव्याख्या - ""स्त्रीविषये पचविंशतिनक्षत्राणामपि आबन्तता, न तु अकारान्तता । आदिवृद्धिस्तु स्यादेव ॥""
 
 ### अभिमर्शनम्
-<div class="js_include" url="../../../mantra/agni/Rk/divaspari.md"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="../../../../mantra/agni/Rk/divaspari.md"  newLevelForH1="4" includeTitle="true"> </div>  
 
 ### उपस्थ आधानम्
 अ॒स्मिन्न॒हँस॒हस्रं॑ पुष्या॒म्येध॑मान॒स् स्वे वशे॑ ।
@@ -80,7 +80,7 @@ emphasis_as_inline_comments: true
 
 ### स्नापनम्
 
-<div class="js_include" url="../../../mantra/misc-devas/Rk/druho-munchAmi.md"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="../../../../mantra/misc-devas/Rk/druho-munchAmi.md"  newLevelForH1="4" includeTitle="true"> </div>  
 
 ### दधि-घृत-प्राशनम्
 भूस्स्वाहा॒ भुव॒स्स्वाहा॒ सुव॒स्स्वाहा। ॐ स्वाहा॑ ।।
@@ -107,12 +107,12 @@ emphasis_as_inline_comments: true
 आप॑स्सु॒प्तेषु॑ जाग्रत॒ रक्षाꣳ॑सि॒ निरि॒तो नु॑दद्ध्वम् ।
 
 ## सूतकहोमः
-<div class="js_include" url="../../../mantra/misc-devas/yajus/sUtaka-homa-mantra-Ap.md"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="../../../../mantra/misc-devas/yajus/sUtaka-homa-mantra-Ap.md"  newLevelForH1="4" includeTitle="true"> </div>  
 
 सर्षपान् फलीकरणमिश्रानञ्जलिनोत्तरैस् त्रिस्त्रि प्रतिस्वाहाकारं हुत्वा +++(पिता)+++ संशास्ति- "प्रविष्टे प्रविष्ट एव तूष्णीमग्नावावपते"ति ६  
 एवमहरहरानिर्दशतायाः +++(="निर्दशा"निर्गता दशभ्योऽहोरात्रेभ्यो या रात्रिस्सा)+++७
 
-##‌ प्रवासादेत्य जातकर्म
+## प्रवासादेत्य जातकर्म
 अङ्गा॑दङ्गा॒त् संभ॑वसि॒ हृद॑या॒दधि॑ जायसे । वे॒दो वै पुत्र॒नामा॑ऽसि॒ स जी॑व श॒रद॑श्श॒तम् । 
 
 मूर्धन्यवघ्राणम् - अश्मा॑ भ॒वेत्ये॒षा ।
