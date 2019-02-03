@@ -26,6 +26,8 @@ RV.7.32.22a; AV;S.20.121.1a; SV.1.233a; 2.30a; VS.27.35a; TS.2.4.14.2a; MS.2.13.
 ## साम - त्र्यर्चम्
 
 - पारम्परिक-गान-मूलम् [अत्र](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/AASHEERVACHANA%20SAAMAANI#page/n3/mode/1up)। 
+- कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume3SatyavrataSamasrami1876bis_201803/page/n105)।
+
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/rathantaram.mp3"></div>
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
