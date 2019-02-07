@@ -19,4 +19,9 @@ emphasis_as_inline_comments: true
 यज॑ । सु॒ऽअ॒ध्व॒रम् । जन॑म् । मनु॑ऽजातम् । घृ॒त॒ऽप्रुष॑म् ॥
 
 ## साम
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/tvam-agne-vasUn.mp3"></div>
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/tvam-agne-vasUn.mp3"></div>
+
 त्वा+++([])+++मग्नेऎ । त्वा+++([])+++मग्नाइ । वा+++([])+++सू०, ०रिहा । रु+++([])+++: द्रा०, ०आआदि ।   ति+++([])+++या०, ०उता । य+++([])+++: जासू, उवा । ध्वा ,+++([])+++र०जन० । म+++([])+++: नुजा, आता० । घृ+++([])+++तपॄष० । इ+++([])+++डा, अभा, आअअ । ओ+++([])+++इ । डा+++([])+++अ ॥

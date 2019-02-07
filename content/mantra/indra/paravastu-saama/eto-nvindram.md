@@ -32,9 +32,9 @@ emphasis_as_inline_comments: true
 ## साम २
 
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/eto-nvindram-1.mp3"></div>
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/eto-nvindram-2.mp3"></div>
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/eto-nvindram-1.mp3"></div>
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/eto-nvindram-2.mp3"></div>
 
 ए+++([])+++तो,ओ, न्विंद्रं स्तवाम्मअ।  
 शु+++([])+++द्धं, शुद्धॆ,,ना+++([])+++।  
