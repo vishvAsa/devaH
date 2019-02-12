@@ -45,7 +45,7 @@
 
 - Note for hindu expatriates: I agree with [Elst](http://koenraadelst.blogspot.in/2012/05/hindu-survival-what-is-to-be-done.html), who says: "it is a waste to still your guilt feelings as an immigrant by forcing your children to learn a smattering of Bengali or Kannada. It is better to teach your children Hindu values, and if this has to take the form of a language, let it be Sanskrit".
 - How to raise a mutlilingual kid in an environment dominated by English?
-    - Use the "don't/ won't understand" policy. \[FB [discussion 15](https://www.facebook.com/vishvas.vasuki/posts/10153397026052989?ref=notif&notif_t=comment_mention)\]
+    - Use the "don't/ won't understand" policy.
 - shrIvatsa's answer to "What everyone should know about Sanskrit?" [here](http://www.quora.com/What-are-some-mind-blowing-facts-about-Sanskrit-What-should-everyone-know-about-Sanskrit-language).
 - On the sanskrit/ prakrit distinction - and its antiquity:
     - Sanskrit literally means refined, prAkRt means natural/ innate (implying that it is not as polished/ standardized). This is analogous to the mArgii/ desii distinction in theater and dance.
