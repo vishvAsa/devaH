@@ -21,6 +21,9 @@ emphasis_as_inline_comments: true
 इ॒त्था । च॒न्द्रम॑सः । गृ॒हे ॥
 
 ## साम
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/atrAha-goH.mp3"></div>
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/atrAha-goH.mp3"></div>
+
 हा+++([])+++उ ।। त्रि : ।।  
 चं+++([])+++द्रं ।। त्रि:।।  
 चं+++([])+++द्रं, चं द्रं ।। त्रि: ।।  
