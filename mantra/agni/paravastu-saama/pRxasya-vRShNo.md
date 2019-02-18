@@ -22,6 +22,10 @@ emphasis_as_inline_comments: true
 वै॒श्वा॒न॒राय॑ । म॒तिः । नव्य॑सी । शुचिः॑ । सोमः॑ऽइव । प॒व॒ते॒ । चारुः॑ । अ॒ग्नये॑ ॥
 
 ## साम
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/pRxasya-vRShNo.mp3"></div>
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/pRxasya-vRShNo.mp3"></div>
 
 हा+++([])+++उ ।।त्रिः ।।  
 ऊ+++([])+++ऊ ।। द्विः ।। ऊ+++([])+++उवा+++([])+++अ ।  

@@ -22,13 +22,13 @@ RV.6.16.10
 
 - पारम्परिक-गान-मूलम् [अत्र](https://sanskritdocuments.org/sites/pssramanujaswamy/VIVAAHA%20UPANAYANA%20SAAMAANI.pdf&sa=D&ust=1542425956352000)।
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/agna-AyAyi.mp3"></div>
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/agna-AyAhi-1.mp3"></div>
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/agna-AyAyi.mp3"></div>
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/agna-AyAhi-1.mp3"></div>
 <div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1x" src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/agna-AyAyi.mp3"></div>
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/agna-AyAhi-1.mp3"></div>
 <div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1.5x" src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015-150p-speed/agna-AyAyi.mp3"></div>
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015-150p-speed/agna-AyAhi-1.mp3"></div>
 
 ओ+++([का]३--%)+++ग्ना+++(३)+++इ। आ+++(["पो])+++या+++(["]--%३)+++ही+++(३)+++इ ।
 
@@ -41,11 +41,27 @@ RV.6.16.10
 +बाआअअर्, औ+++(["])+++हो+++(["]%)+++वा+++(३)+++अ। ही+++([टू]-")+++षी+++(३)+++इ॥
 
 ## साम २
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/agna-AyAhi-2.mp3"></div>
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/agna-AyAhi-2.mp3"></div>
+<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1x" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/agna-AyAhi-2.mp3"></div>
+<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1.5x" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015-150p-speed/agna-AyAhi-2.mp3"></div>
 
 आ+++([])+++ग्ना, आ, आयाअ, हिवीइ, त+++([])+++या, इ । गृ+++([])+++: णानो हव्यदाता, अयाइ । 
 नि+++([])+++होता सत्सि बर्हा, इषि । बर्हा, इषाअअ । औहोवाअ । ब+++([])+++र्हीषीइ ॥
 
 ## साम ३
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/agna-AyAhi-3.mp3"></div>
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/agna-AyAhi-3.mp3"></div>
+<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1x" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/agna-AyAhi-3.mp3"></div>
+<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1.5x" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015-150p-speed/agna-AyAhi-3.mp3"></div>
 
 आ+++([])+++ग्ना, आ, आया, अ । हिवा+++([])+++इ, ताया, इ । गृ+++([])+++णा, नोओ, हव्यदा, आआ, 
 ता, अयॆ । नि+++([])+++हो, ता, साअ । त्सा ,+++([])+++इबाअ । हा+++([])+++इषो०हाइ ॥

@@ -99,6 +99,8 @@ emphasis_as_inline_comments: true
 
 <div class="js_include" url="../../agni/paravastu-saama/agniM-hotAram.md"  newLevelForH1="2" includeTitle="true"> </div>
 
+<div class="js_include" url="../../misc-devas/paravastu-saama/idaM-viShNur-ekarcham.md"  newLevelForH1="2" includeTitle="true"> </div>
+
 <div class="js_include" url="../../agni/paravastu-saama/pRxasya-vRShNo.md"  newLevelForH1="2" includeTitle="true"> </div>
 
 <div class="js_include" url="../../soma/paravastu-saama/pra-kAvyam.md"  newLevelForH1="2" includeTitle="true"> </div>

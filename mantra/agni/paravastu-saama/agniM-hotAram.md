@@ -24,7 +24,13 @@ emphasis_as_inline_comments: true
 +++(ऋग्वेदे 1 36 14 b)+++  
 विश्वं॒ सम॒त्रिणं॑+++(=सर्वमत्तारं [भक्षकं राक्षसं])+++ दह ।
 
+विश्वं॒ व्य॒त्रिणं॑ दह ।
+विश्वं॒ न्य॒त्रिणं॑ दह ।
+
 ## साम १
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/agniM-hotAram-1.mp3"></div>
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/agniM-hotAram-1.mp3"></div>
+
 आ+++([])+++हा, वोहावा: ।। त्रि: ।।  
 अ+++([])+++ग्निष्टपती । प्रा,+++([])+++ती, दहतिइ । अ+++([])+++ग्निंहो । ता,+++([])+++रम्माअ,+++([])+++न्येदा, स्व०तअ० । वा+++([])+++सो: । सू+++([])+++नु०, सहसो, जाअ,+++([])+++तावे, दासअ० । 
 
@@ -38,6 +44,9 @@ emphasis_as_inline_comments: true
 ए+++([])+++ए । वी+++([])+++: श्वं, सम तृण०दा, अहाआआ  ॥
 
 ## साम २
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/agniM-hotAram-2.mp3"></div>
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/agniM-hotAram-2.mp3"></div>
+
 त्य+++([])+++ग्नाइ : । प्रा,+++([])+++ती, दहतिइ ।  
 हा,+++([])+++उहोऒ, हउ ।  
 
@@ -53,4 +62,4 @@ emphasis_as_inline_comments: true
 प्रा,+++([])+++ती, दहतिइ । हा,+++([])+++उहो, ऒ, हउ, वा+++([])+++अ ।  
 ए+++([])+++ए ।  वी+++([])+++श्वं, समतृण०दा, अहा ।  
 ए+++([])+++ए । वी+++([])+++श्वं, वियतृण०दा, अहा ।  
-ए+++([])+++ए । वीश्वं,+++([])+++निय तृण०दा, अहाआआ ॥
+ए+++([])+++ए । वीश्वं,+++([])+++ नियतृण०दा, अहाआआ ॥

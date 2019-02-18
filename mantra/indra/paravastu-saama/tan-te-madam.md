@@ -19,6 +19,11 @@ emphasis_as_inline_comments: true
 ऊं॒ इति॑ । लो॒क॒ऽकृ॒त्नुम् । अ॒द्रि॒ऽवः॒ । ह॒रि॒ऽश्रिय॑म् ॥
 
 ## साम
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/tan-te-madam.mp3"></div>
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/tan-te-madam.mp3"></div>
+
 
 हारिवर्णम् ।
 

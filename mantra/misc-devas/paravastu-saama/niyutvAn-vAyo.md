@@ -21,13 +21,16 @@ emphasis_as_inline_comments: true
 गन्ता॑ । अ॒सि॒ । सु॒न्व॒तः । गृ॒हम् ॥
 
 ## साम
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/niyutvAn-vAyo.mp3"></div>
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/niyutvAn-vAyo.mp3"></div>
+
 हा+++([])+++उ ।। त्रि : ।।  
 शु+++([])+++क्रं ।। त्रि: ।।  
 शु+++([])+++क्रं, शु क्रं ।। त्रि: ।।  
 शु+++([])+++क्रं शू क्रं ।। त्रिः ।।  
 नी+++([])+++(यु)त्वान् वा,याअ, वा+++(~~मा~~)+++, गाआ,ही+++([])+++इ ।  
 अ+++([])+++यं शुक्रो, आअ,+++([])+++याअ,माआइता+++([])+++इ ।  
-गन्+++([])+++ता सि सुन्वा,आतो, गृऊहाअम्।  
+गन्+++([])+++तासि सुन्वा,आतो, गृऊहाअम्।  
 हा+++([])+++उ ।। त्रि : ।। 
 शु+++([])+++क्रं ।। त्रि: ।। 
 शु+++([])+++क्रं,  शु क्रं ।। त्रि: ।। 
