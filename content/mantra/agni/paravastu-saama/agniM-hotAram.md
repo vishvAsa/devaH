@@ -31,7 +31,7 @@ emphasis_as_inline_comments: true
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/agniM-hotAram-1.mp3"></div>
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/agniM-hotAram-1.mp3"></div>
 
-आ+++([])+++हा, वोहावा: ।। त्रि: ।।  
+{आ+++([])+++हा, वोहावा: }+++(त्रिः)+++  
 अ+++([])+++ग्निष्टपती । प्रा,+++([])+++ती, दहतिइ । अ+++([])+++ग्निंहो । ता,+++([])+++रम्माअ,+++([])+++न्येदा, स्व०तअ० । वा+++([])+++सो: । सू+++([])+++नु०, सहसो, जाअ,+++([])+++तावे, दासअ० । 
 
 वि+++([])+++प्रा० । न+++([])+++जाअ,+++([])+++तावे, दासअ० ।
