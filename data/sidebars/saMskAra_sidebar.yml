@@ -150,6 +150,9 @@ contents:
                 - url: dir://kalpa/general/ArAdhanam/shrAddham/
             - url: dir://kalpa/general/ArAdhanam/
         - url: dir://kalpa/general/
+        - title: प्रायश्चित्तम्
+          contents:
+            - url: dir://kalpa/general/prAyashcitta/
   - title: वंशाः
     contents:
       - title: Pics
