@@ -133,6 +133,10 @@ contents:
       - title: क्रियाः
         contents:
           - url: dir://kalpa/brAhmaNa/taittirIya/kriyA
+          - url: dir://kalpa/brAhmaNa/taittirIya/kriyA/abhichAra
+          - title: प्रायश्चित्तानि
+            contents:
+              - url: dir://kalpa/brAhmaNa/taittirIya/kriyA/prAyashcitta
       - title: तत्त्वम्
         contents:
           - url: dir://kalpa/brAhmaNa/taittirIya/tattva
@@ -141,9 +145,6 @@ contents:
       - title: क्रियाः
         contents:
           - url: dir://kalpa/brAhmaNa/vAjasaneya/kriyA
-          - title: प्रायश्चित्तानि
-            contents:
-              - url: dir://kalpa/brAhmaNa/vAjasaneya/kriyA/prAyashcitta
       - title: तत्त्वम्
         contents:
           - url: dir://kalpa/brAhmaNa/vAjasaneya/tattva
