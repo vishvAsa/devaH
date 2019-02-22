@@ -10,7 +10,7 @@ RV.1.18.6a; RVKh.10.151.7a; SV.1.171a; VS.32.13a; TA.10.1.4a; MahAnU.2.8a; ;S;S.
 
 सद॑स॒स्पति॒मद्भु॑तं प्रि॒यमिन्द्र॑स्य॒ काम्य॑म् । स॒निं +++(=दानरूपम्)+++ मे॒धाम॑यासिषम् ६
 
-![](../../images/worlds/bRhaspati-jupiter.jpg)
+![](../../images/bRhaspati-jupiter.jpg)
 
 ## साम
 
