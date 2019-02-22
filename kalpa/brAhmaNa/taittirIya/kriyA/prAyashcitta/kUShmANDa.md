@@ -32,4 +32,4 @@ emphasis_as_inline_comments: true
 षड्रात्री॑र् दीक्षि॒तो भ॑वति॒। षड्वा ऋ॒तव॑स् सव्वँथ्स॒रस्, स॑व्वँथ्स॒रादे॒वात्मानं॑ पुनीते।  
 ति॒स्रो रात्री॑र् दीक्षि॒तो भ॑वति। त्रि॒पदा॑ गाय॒त्री। गा॑यत्रि॒या ए॒वात्मानं॑ पुनीते॒।
 
-<div class="js_include" url="dIxA.md"  newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="../dIxA.md"  newLevelForH1="2" includeTitle="true"> </div>
