@@ -42,9 +42,24 @@ contents:
             - title: ऋचः
               contents:
                 - url: dir://mantra/misc-devas/Rk
+                - title: विष्णुः
+                  contents:
+                    - url: dir://mantra/misc-devas/Rk/viShNu
+                - title: जलम्
+                  contents:
+                    - url: dir://mantra/misc-devas/Rk/jalam
+                - title: ब्रह्म
+                  contents:
+                    - url: dir://mantra/misc-devas/Rk/brahma
+                - title: आदित्याः
+                  contents:
+                    - url: dir://mantra/misc-devas/Rk/Aditya
             - title: यजूंषि
               contents:
                 - url: dir://mantra/misc-devas/yajus
+                - title: दिक्
+                  contents:
+                    - url: dir://mantra/misc-devas/yajus/dik
         - title: सङ्ग्रहाः
           contents:
             - title: सामानि
