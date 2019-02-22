@@ -5,7 +5,7 @@ emphasis_as_inline_comments: true
 ---
 
 ## ऋक्
-<div class="js_include" url="../Rk/viShNu/idaM-viShNur.md"  newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="../Rk/idaM-viShNur.md"  newLevelForH1="2" includeTitle="true"> </div>
 
 ## साम
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/idaM-viShNur-ekarcham.mp3"></div>

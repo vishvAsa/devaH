@@ -5,13 +5,13 @@ emphasis_as_inline_comments: true
 ---
 
 ## ऋक्
-<div class="js_include" url="../Rk/viShNu/idaM-viShNur.md"  newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="../Rk/idaM-viShNur.md"  newLevelForH1="2" includeTitle="true"> </div>
 
 ## साम - वारवन्तीयम्
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/idaM-viShNur-vAravantIyam.mp3"></div>
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/idaM-viShNur-vAravantIyam.mp3"></div>
 
-वारव०तीय० ।  
+वारवन्तीयम् ।  
 इ+++([])+++द०विष्णा, औहोहाइ ।  
 वा+++([])+++इच क्रामाइ ।  
 त्रे+++([])+++धा, नाइहाइ । द+++([])+++धे पा, अअ । औ+++([])+++होवाअ ।  
