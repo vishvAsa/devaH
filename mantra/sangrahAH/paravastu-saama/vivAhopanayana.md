@@ -10,7 +10,7 @@ emphasis_as_inline_comments: true
 - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#mode/2up)
 - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/VIVAAHA%20UPANAYANA%20SAAMAANI#page/n3/mode/2up)
 
-<div class="js_include" url="../../misc-devas/paravastu-saama/sadasaspatim.md"  newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="../../worlds/paravastu-saama/sadasaspatim.md"  newLevelForH1="2" includeTitle="true"> </div>
 <div class="js_include" url="../../indra/paravastu-saama/gauShUktam.md"  newLevelForH1="2" includeTitle="true"> </div>  
 <div class="js_include" url="../../indra/paravastu-saama/Ashva-sUktam.md"  newLevelForH1="2" includeTitle="true"> </div>  
 <div class="js_include" url="../../indra/paravastu-saama/vAmadevyam.md"  newLevelForH1="2" includeTitle="true"> </div>  
@@ -26,13 +26,13 @@ emphasis_as_inline_comments: true
 <div class="js_include" url="../../indra/paravastu-saama/tava-tyan-naryam.md"  newLevelForH1="2" includeTitle="true"> </div>  
 <div class="js_include" url="../../soma/paravastu-saama/eShasya-dhArayA.md"  newLevelForH1="2" includeTitle="true"> </div>  
 <div class="js_include" url="../../misc-devas/paravastu-saama/Aruhan.md"  newLevelForH1="2" includeTitle="true"> </div>  
-<div class="js_include" url="../../misc-devas/paravastu-saama/madhushchunidhanam.md"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../../worlds/paravastu-saama/madhushchunidhanam.md"  newLevelForH1="2" includeTitle="true"> </div>  
 <div class="js_include" url="../../soma/paravastu-saama/sampA.md"  newLevelForH1="2" includeTitle="true"> </div>  
 <div class="js_include" url="../../indra/paravastu-saama/anjo-vairUpam.md"  newLevelForH1="2" includeTitle="true"> </div>  
 <div class="js_include" url="../../indra/paravastu-saama/indran-naro-nishvaset.md"  newLevelForH1="2" includeTitle="true"> </div>  
 <div class="js_include" url="../../indra/paravastu-saama/yajjAyathAH.md"  newLevelForH1="2" includeTitle="true"> </div>  
 <div class="js_include" url="../../misc-devas/paravastu-saama/vAchovratam.md"  newLevelForH1="2" includeTitle="true"> </div>  
-<div class="js_include" url="../../misc-devas/paravastu-saama/unnayAmi.md"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../../worlds/paravastu-saama/unnayAmi.md"  newLevelForH1="2" includeTitle="true"> </div>  
 <div class="js_include" url="../../agni/paravastu-saama/namas-te-agne.md"  newLevelForH1="2" includeTitle="true"> </div>  
 <div class="js_include" url="../../indra/paravastu-saama/archantyarkam.md"  newLevelForH1="2" includeTitle="true"> </div>  
 <div class="js_include" url="../../indra/paravastu-saama/vAstoShpate.md"  newLevelForH1="2" includeTitle="true"> </div>  
