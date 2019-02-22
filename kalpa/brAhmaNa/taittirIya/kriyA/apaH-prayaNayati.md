@@ -4,6 +4,8 @@ unicode_script: devanagari
 emphasis_as_inline_comments: true
 ---
 
+तै॰ब्रा॰ ३/२/४ इत्यत्र -
+
 अ॒पः प्रण॑यति। श्र॒द्धा वा आपः॑ ।  
 श्र॒द्धां ए॒वारभ्य॑ प्र॒णीय॑ प्रच॑रति।  
 
