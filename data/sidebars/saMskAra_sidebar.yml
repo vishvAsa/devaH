@@ -115,12 +115,23 @@ contents:
                 - url: dir://kalpa/sUtra/bodhAyana/pramANAni/shrauta/angAni
   - title: तैत्तिरीयब्राह्मणम्
     contents:
-      - url: dir://kalpa/brAhmaNa/taittirIya/kriyA
-      - url: dir://kalpa/brAhmaNa/taittirIya/tattva
+      - title: क्रियाः
+        contents:
+          - url: dir://kalpa/brAhmaNa/taittirIya/kriyA
+      - title: तत्त्वम्
+        contents:
+          - url: dir://kalpa/brAhmaNa/taittirIya/tattva
   - title: वाजसनेयब्राह्मणम्
     contents:
-      - url: dir://kalpa/brAhmaNa/vAjasaneya/kriyA
-      - url: dir://kalpa/brAhmaNa/vAjasaneya/tattva
+      - title: क्रियाः
+        contents:
+          - url: dir://kalpa/brAhmaNa/vAjasaneya/kriyA
+          - title: प्रायश्चित्तानि
+            contents:
+              - url: dir://kalpa/brAhmaNa/vAjasaneya/kriyA/prAyashcitta
+      - title: तत्त्वम्
+        contents:
+          - url: dir://kalpa/brAhmaNa/vAjasaneya/tattva
   - title: कल्पे ऽस्मन्निश्चयः
     contents:
         - title: प्रवेशः
