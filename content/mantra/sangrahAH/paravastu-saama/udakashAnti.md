@@ -110,7 +110,7 @@ emphasis_as_inline_comments: true
 [अध एकर्चं सामैवात्र ग्राह्यम्।]
 <div class="js_include" url="../../indra/paravastu-saama/vAmadevyam.md"  newLevelForH1="2" includeTitle="true"> </div>
 
-<div class="js_include" url="../../misc-devas/paravastu-saama/niyutvAn-vAyo.md"  newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="../../rudra/paravastu-saama/niyutvAn-vAyo.md"  newLevelForH1="2" includeTitle="true"> </div>
 
 <div class="js_include" url="../../worlds/paravastu-saama/atrAha-goH.md"  newLevelForH1="2" includeTitle="true"> </div>
 
