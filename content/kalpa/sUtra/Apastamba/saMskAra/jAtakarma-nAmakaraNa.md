@@ -80,7 +80,7 @@ emphasis_as_inline_comments: true
 
 ### स्नापनम्
 
-<div class="js_include" url="../../../../mantra/misc-devas/Rk/druho-munchAmi.md"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="../../../../mantra/misc-devas/Rk/Aditya/druho-munchAmi.md"  newLevelForH1="4" includeTitle="true"> </div>  
 
 ### दधि-घृत-प्राशनम्
 भूस्स्वाहा॒ भुव॒स्स्वाहा॒ सुव॒स्स्वाहा। ॐ स्वाहा॑ ।।
