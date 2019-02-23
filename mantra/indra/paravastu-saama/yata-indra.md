@@ -2,6 +2,7 @@
 title: यत इन्द्र भयामहे  
 unicode_script: devanagari  
 emphasis_as_inline_comments: true
+status: to_memorize
 ---   
 
 ## ऋक्

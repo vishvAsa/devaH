@@ -2,6 +2,7 @@
 title: इन्द्राय त्वा
 unicode_script: devanagari
 emphasis_as_inline_comments: true
+status: to_memorize
 ---
 
 इन्द्रा॑य त्वा॒ तेज॑स्वते॒ तेज॑स्वन्तꣳ श्रीणामि ।  

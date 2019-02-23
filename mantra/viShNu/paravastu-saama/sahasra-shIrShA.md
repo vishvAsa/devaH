@@ -2,6 +2,7 @@
 title: सहस्रशीर्षा
 unicode_script: devanagari
 emphasis_as_inline_comments: true
+status: to_memorize
 ---
 
 ## ऋक्

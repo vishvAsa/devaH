@@ -2,6 +2,7 @@
 title: नियुत्वान् वायो
 unicode_script: devanagari  
 emphasis_as_inline_comments: true
+status: to_memorize
 ---   
 
 ## ऋक्

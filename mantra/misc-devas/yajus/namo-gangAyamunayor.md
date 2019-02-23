@@ -2,6 +2,7 @@
 title: नमो गङ्गायमुनयोर्मध्ये
 unicode_script: devanagari
 emphasis_as_inline_comments: true
+status: to_memorize
 ---
 
 नमो गङ्गा यमुनयोर् मध्ये ये॑ वस॒न्ति॒, ते मे प्रसन्नात्मानश् चिरञ् जीवितं व॑र्धय॒न्ति॒।  

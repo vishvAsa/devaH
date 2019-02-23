@@ -2,6 +2,7 @@
 title: पुनस्त्वादित्या
 unicode_script: devanagari
 emphasis_as_inline_comments: true
+status: to_memorize
 ---
 
 पुन॑स् त्वा ऽऽदि॒त्या रु॒द्रा वस॑वः॒ समि॑न्धतां॒,  

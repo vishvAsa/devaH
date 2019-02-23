@@ -2,6 +2,7 @@
 title: आपन् त्वा
 unicode_script: devanagari
 emphasis_as_inline_comments: true
+status: to_memorize
 ---
 
 आपं॑ त्वाग्ने॒  

@@ -2,6 +2,7 @@
 title: भूः प्रपद्ये
 unicode_script: devanagari
 emphasis_as_inline_comments: true
+status: to_memorize
 ---
 
 भूः प्रप॑द्ये॒+++(=प्राप्नोमि)+++। भुवः॒ प्रप॑द्ये॒। स्वः॑ प्रप॑द्ये॒। भूर्भुव॒स्स्वः॑ प्रप॑द्ये॒।  
