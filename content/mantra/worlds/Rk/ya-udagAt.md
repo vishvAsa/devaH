@@ -2,6 +2,7 @@
 title: य उदगात्
 unicode_script: devanagari
 emphasis_as_inline_comments: true
+status: to_memorize
 ---
 
 य उद॑गान् मह॒तो ऽर्णवा॑द्  

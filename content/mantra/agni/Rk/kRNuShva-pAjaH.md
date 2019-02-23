@@ -3,6 +3,7 @@ title: कृणुष्व पाजः
 tags: [रक्षोघ्नम्]
 unicode_script: devanagari
 emphasis_as_inline_comments: true
+status: to_memorize
 ---
 कृ॒णु॒ष्व पाजः॒ +++(=तेजः)+++ प्रसि॑ति॒न् +++(=जालं)+++ न पृ॒थ्वीं  
 या॒हि राजे॒वाम॑वा॒ꣳ॒ +++(=सहवान्)+++ इभे॑न ।  

@@ -2,6 +2,7 @@
 title: नमो वाचे या
 unicode_script: devanagari
 emphasis_as_inline_comments: true
+status: to_memorize
 ---
 
 नमो॑ वा॒चे या चो॑दि॒ता, या चानु॑दिता॒,  

@@ -2,6 +2,7 @@
 title: इदं विष्णुर् (एकार्चम्)
 unicode_script: devanagari
 emphasis_as_inline_comments: true
+status: to_memorize
 ---
 
 ## ऋक्

@@ -2,6 +2,7 @@
 title: सहस्रशीर्षं देवं
 unicode_script: devanagari
 emphasis_as_inline_comments: true
+status: to_memorize
 ---
 
 ॐ ॥ स॒ह॒स्र॒शीर्॑षं दे॒वं॒ वि॒श्वाक्षं॑ वि॒श्वश॑म्भुवं ।  

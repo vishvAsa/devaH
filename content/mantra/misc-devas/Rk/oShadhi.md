@@ -2,6 +2,7 @@
 title: ओषधि-सूक्तम्  
 unicode_script: devanagari  
 emphasis_as_inline_comments: true  
+status: to_understand
 ---  
 
 ऋषी भिषगाथर्वणः ॥ देवता ओषधीस्तुतिः , ओषधिसमुह  

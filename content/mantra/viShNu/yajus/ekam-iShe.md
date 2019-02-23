@@ -2,6 +2,7 @@
 title: एकमिषे विष्णुः
 unicode_script: devanagari
 emphasis_as_inline_comments: true
+status: to_memorize
 ---
 
 एक॑मि॒षे विष्णु॒स्त्वाऽन्वे॑तु ।  
