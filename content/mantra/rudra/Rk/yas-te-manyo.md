@@ -3,6 +3,7 @@ title: यस्ते मन्यो
 unicode_script: devanagari
 emphasis_as_inline_comments: true
 status: to_memorize
+practice_weight: 0
 ---
 
 यस्ते॑ म॒न्योऽवि॑धद्वज्र सायक॒ सह॒ ओज॑: पुष्यति॒ विश्व॑मानु॒षक् ।  

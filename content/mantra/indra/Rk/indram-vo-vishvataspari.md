@@ -3,6 +3,7 @@ title: इन्द्रं वो विश्वतः
 unicode_script: devanagari
 emphasis_as_inline_comments: true
 status: to_understand
+practice_weight: 0
 ---
 
 इन्द्रं॑ वो वि॒श्वत॒स्परि॒ हवा॑महे॒ जने॑भ्यः । अ॒स्माक॑मस्तु॒ केव॑लः ।  

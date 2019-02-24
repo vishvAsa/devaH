@@ -62,7 +62,7 @@ contents:
           contents:
             - title: परिचयः
               contents:
-                - url: dir://mantra/Aditya/deva-id/
+                - url: dir://mantra/Aditya/meta/
             - title: ऋचः
               contents:
                 - url: dir://mantra/Aditya/Rk/
