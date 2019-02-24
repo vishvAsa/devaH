@@ -3,6 +3,7 @@ title: कूष्माण्डहोममन्त्राः
 unicode_script: devanagari
 emphasis_as_inline_comments: true
 status: to_memorize
+practice_weight: 0
 ---
 
 यद्दे॑वा देव॒हेळ॑न॒न्देवा॑सश्चकृ॒मा व॒यम् । आदि॑त्या॒स्तस्मा॑न्मा मुञ्चत॒र्तस्य॒र्तेन॒ मामि॒त ।।

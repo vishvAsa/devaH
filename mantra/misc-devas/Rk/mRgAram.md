@@ -5,6 +5,7 @@ tags: [मृगारम्]
 unicode_script: devanagari
 emphasis_as_inline_comments: true
 status: to_memorize
+practice_weight: 0
 ---
 ## अग्निः
 अ॒ग्नेर्म॑न्वे प्रथ॒मस्य॒ प्रचे॑तसो॒  

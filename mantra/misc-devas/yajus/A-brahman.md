@@ -3,6 +3,7 @@ title: आ ब्रह्मन् ब्रह्मणो
 unicode_script: devanagari
 emphasis_as_inline_comments: true
 status: to_memorize
+practice_weight: 0
 ---
 
 आब्रह्म॑न् ब्राह्म॒णो ब्र॑ह्मवर्च॒सी जा॑यता॒म्।  

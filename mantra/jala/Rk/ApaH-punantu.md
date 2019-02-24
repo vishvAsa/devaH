@@ -3,6 +3,7 @@ title: आपः पुनन्तु
 unicode_script: devanagari
 emphasis_as_inline_comments: true
 status: to_memorize
+practice_weight: 0
 ---
 
 आपः॑ पुनन्तु पृथि॒वीं पृ॑थि॒वी पू॒ता पु॑नातु॒ माम् । पु॒नन्तु॒ ब्रह्म॑ण॒स्पति॒र्ब्रह्म॑पू॒ता पु॑नातु॒ माम् ।  

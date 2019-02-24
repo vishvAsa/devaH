@@ -33,7 +33,7 @@ emphasis_as_inline_comments: true
 
 <div class="js_include" url="../../indra/paravastu-saama/yata-indra.md"  newLevelForH1="2" includeTitle="true"> </div> 
 
-<div class="js_include" url="../../Aditya/paravastu-saama/brahma-jajJNAnam.md"  newLevelForH1="2" includeTitle="true"> </div> 
+<div class="js_include" url="../../worlds/paravastu-saama/brahma-jajJNAnam.md"  newLevelForH1="2" includeTitle="true"> </div> 
 
 
 पंचनिधनम् वामदेव्यम् ॥  

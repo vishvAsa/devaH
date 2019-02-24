@@ -4,5 +4,16 @@ unicode_script: devanagari
 emphasis_as_inline_comments: true
 ---
 <script>
-redirectToRandomPage(url => url.startsWith("/mantra/") && !url.includes("/sangrahah/")  && !url.includes("/deva-id/") && !(pageUrlToParams[url] && ["to_understand", "to_memorize"].includes(pageUrlToParams[url].status)));
+function getSelectionWeight(url) {
+  if (!url.startsWith("/mantra/") || url.includes("/sangrahah/") || url.includes("/meta/")) {
+    return 0;
+  }
+  let pageParams = pageUrlToParams[url];
+  if (!pageParams || !pageParams.hasOwnProperty("practice_weight")) {
+    return 1;
+  }
+  return pageParams.practice_weight;
+}
+
+redirectToRandomPage(getSelectionWeight);
 </script>
