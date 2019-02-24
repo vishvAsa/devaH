@@ -6,12 +6,7 @@ emphasis_as_inline_comments: true
 
 ## ऋक्
 
-तत् सवि॒तुर् वरे॑णियम्  
-भर्गो॑ दे॒वस्य॑ धीमहि ।
-
-धियो॒ यो नः॑ प्रचो॒दया॑त् ।।
-
-![](../../images/surya.png)
+<div class="js_include" url="../../Rk/tat-savitur.md"  newLevelForH1="2" includeTitle="true"> </div>
 
 ## साम
 
