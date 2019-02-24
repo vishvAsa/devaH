@@ -2,6 +2,7 @@
 title: नानदम्  
 unicode_script: devanagari  
 emphasis_as_inline_comments: true
+practice_weight: .3
 ---   
 
 ## ऋक्
