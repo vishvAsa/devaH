@@ -70,5 +70,5 @@ emphasis_as_inline_comments: true
 
 तस्मा॑त् स्वाध्या॒यो ऽध्ये॑त॒व्यो॑ - यय्यँ॑ड्क्र॒तुमधी॑ते॒ तेन॑ तेनास्ये॒ष्टं भ॑वत्य्, अ॒ग्नेर्वा॒योरा॑दि॒त्यस्य॒ सायु॑ज्यङ्गच्छति॒ तदे॒षाऽभ्यु॑क्ता -
 
-<div class="js_include" url="../tattva/brAhmaNa-vandanam.md"  newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="brAhmaNa-vandanam.md"  newLevelForH1="2" includeTitle="true"> </div>
 

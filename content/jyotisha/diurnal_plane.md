@@ -8,9 +8,7 @@ emphasis_as_inline_comments: true
 
 There was a long discussion about the following brAhmaNa of the taittirIyakas.
 
-यत्पुण्य॒न्नक्ष॑त्रम् । तद्बट्कु॑र्वीतोपव्यु॒षम् । य॒दा वै सूर्य॑ उ॒देति॑ । अथ॒ नक्ष॑त्र॒न्नैति॑ । याव॑ति॒ तत्र॒ सूर्यो॒ गच्छे॑त् । यत्र॑ जघ॒न्यं॑ पश्ये॑त् । ताव॑ति कुर्वीत यत्का॒री स्यात् । पु॒ण्या॒ह ए॒व कु॑रुते । ए॒वं ह॒ वै य॒ज्ञेषु॑ञ्च श॒तद्यु॑म्नञ्च मा॒थ्स्यो नि॑रवसाय॒याञ्च॑कार ।। 6 ।। 2.1.5.2.1
-
-(तैत्तिरीयब्राह्मणे सायणभाष्ये [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_037_Taittiriya_Brahmanam_with_Sayanabhashya_Part_1_-_Narayanasastri_Godbole_1934#page/n233/mode/2up), भट्टभास्करभाष्ये [ऽत्र](https://archive.org/stream/taittiriya/taittiriya_brahmana_bhaskara_01#page/n259/mode/2up))
+-  <div class="js_include" url="../kalpa/brAhmaNa/taittirIya/kriyA/puNya-naxatra.md"  newLevelForH1="2" includeTitle="true"> </div>
 
 The classical commentators (as well as modern shrauta and smArta ritualists familiar with ancient and modern astronomy I checked with) clearly require measurement of the time required by the sun to "reach" a certain point "behind" the position of a desired naxatra at sunrise. Of course, this means reaching a certain point on the sun’s daily path, \[let’s say that it lies in something called the Diurnal circle (defined below)\], which is comparable (say in altitude or proximity) to the point where the nakShatra was last seen.
 
