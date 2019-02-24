@@ -60,6 +60,9 @@ contents:
                 - url: dir://mantra/brahma/Rk/
         - title: आदित्याः
           contents:
+            - title: परिचयः
+              contents:
+                - url: dir://mantra/Aditya/deva-id/
             - title: ऋचः
               contents:
                 - url: dir://mantra/Aditya/Rk/
