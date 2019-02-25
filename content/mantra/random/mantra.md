@@ -8,7 +8,7 @@ function getSelectionWeight(url) {
   if (!url.startsWith("/mantra/") || url.includes("/sangraha/") || url.includes("/meta/")) {
     return 0;
   }
-  let pageParams = pageUrlToParams[url];
+  let pageParams = pageUrlToParams.get(url);
   if (!pageParams || !pageParams.hasOwnProperty("practice_weight")) {
     return 1;
   }
