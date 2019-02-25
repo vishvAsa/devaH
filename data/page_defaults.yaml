@@ -6,4 +6,5 @@
     comments: true
     search: true
     sidebar: saMskAra_sidebar
-    topnav: home_sidebar
+    topnav: top_bar
+    footernav: top_bar
