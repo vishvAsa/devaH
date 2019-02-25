@@ -5,7 +5,7 @@ emphasis_as_inline_comments: true
 ---   
 
 ## ऋक्
-<div class="js_include" url="../../../Rk/indran-naro.md"  newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="../Rk/indran-naro.md"  newLevelForH1="2" includeTitle="true"> </div>
 
 
 ## साम
