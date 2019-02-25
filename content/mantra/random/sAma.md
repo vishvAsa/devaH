@@ -6,7 +6,7 @@ emphasis_as_inline_comments: true
 
 <script>
 function getSelectionWeight(url) {
-  if (!url.startsWith("/mantra/") || !url.includes("/paravastu-saama/") || url.includes("/sangrahah/") || url.includes("/meta/")) {
+  if (!url.startsWith("/mantra/") || !url.includes("/paravastu-saama/") || url.includes("/sangraha/") || url.includes("/meta/")) {
     return 0;
   }
   let pageParams = pageUrlToParams[url];

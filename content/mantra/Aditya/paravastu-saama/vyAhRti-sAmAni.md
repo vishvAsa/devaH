@@ -6,7 +6,7 @@ emphasis_as_inline_comments: true
 
 ## ऋक्
 
-<div class="js_include" url="../../Rk/tat-savitur.md"  newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="../Rk/tat-savitur.md"  newLevelForH1="2" includeTitle="true"> </div>
 
 ## साम
 
