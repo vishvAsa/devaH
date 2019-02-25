@@ -3,11 +3,12 @@ title: मित्रवन्दनम् सन्ध्यायाम्
 devatAH: मित्रः
 unicode_script: devanagari
 emphasis_as_inline_comments: true
+practice_weight: .1
 ---
 
 TS.3.4.11.5a. सायणो [ऽत्र]+++(https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_5_-_Kasinath_Sastri_Agase_1946#page/n311/mode/2up)+++।
 
-![]+++(../images/mitra.png "")+++
+![](../../images/mitra.png "")
 
 मि॒त्रस्य॑ चर्षणी॒+++(मनुष्य)+++धृतः॒  
 श्रवो॑+++(=श्रव्यो)+++ दे॒वस्य॑ सान॒सिम्+++(=फलप्रदम्)+++ ।  
