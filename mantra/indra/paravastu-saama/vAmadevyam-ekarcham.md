@@ -11,6 +11,8 @@ practice_weight: 0
 <div class="js_include" url="../Rk/kayA-nash-chitra.md"  newLevelForH1="2" includeTitle="true"> </div>
 
 ## साम
+- अन्यकौथुम-गानान्य् [अत्र](https://archive.org/details/in.ernet.dli.2015.487112/page/n392)।
+
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/vAmadevyam-ekarcham.mp3"></div>
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/vAmadevyam-ekarcham.mp3"></div>
 
