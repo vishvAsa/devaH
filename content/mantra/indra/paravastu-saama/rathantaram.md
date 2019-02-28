@@ -54,11 +54,11 @@ RV.7.32.22a; AV;S.20.121.1a; SV.1.233a; 2.30a; VS.27.35a; TS.2.4.14.2a; MS.2.13.
 ना+++([र])+++जो+++(%)+++वा+++(३--%)+++तो+++([ता]३--%)+++ न जनिष्यते+++(["]३)+++,  
 ऽश्वा+++(~~श्व्या~~)+++यन्तो+++(["]३)+++ओ, मघवन्+++(२)+++ ह्नी,,न्द्र वा+++([तः]३--%)+++अजिना+++(३)+++ह।  
 ग+++([घि])+++व्यन्, तस्त्वा+++(")+++अ।  
-हा+++(--")+++,आ+++(--")+++,आ+++(--")+++,,वा+++([ति]--")+++माहा+++(["])+++।  
+हा+++(--")+++,आ+++(--")+आ++,आ+++(--")+++,,वा+++([ति]--")+++माहा+++(["])+++।  
 ओ+++([कि]")+++वा+++(३)+++म्, ह हा+++([प])+++उवा+++(")+++अ। अस्अ+++(३)+++॥
 
 ## साम - एकर्चम्
-- कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis/page/n533)।
+- कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis/page/n533), [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume2SatyavrataSamasrami1876bis_201804/page/n443)।
 - पारम्परिक-गान-मूलम् [अत्र](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n2/mode/1up)। 
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/rathantaram-1Rk.mp3"></div>
