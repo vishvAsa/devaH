@@ -6,14 +6,7 @@ practice_weight: 10
 ---   
 
 ## ऋक्
-
-([सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis/page/n171) कौथुमभाष्ये। वसिष्ठः।अग्निः])+++
-
-१ १ १ ०३०७  
-अग्निर्मूर्धा दिवः ककुत्पतिः पृथिव्या अयम्  ।  
-अपां रेतांसि+++(=अबुद्भवानि भूतानि)+++ जिन्वति+++(=प्रीणयति)+++  । । २७
-
-![](../../images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png)
+<div class="js_include" url="../../Rk/agnir-mUrdhA.md"  newLevelForH1="2" includeTitle="true"> </div> 
 
 
 ## साम
