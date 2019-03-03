@@ -62,7 +62,7 @@ emphasis_as_inline_comments: true
 ## ऋक्
 ऋग्वेदः  ५.३१.४  
 ऋषिः  अवस्युरात्रेयः  
-देवता  इंद्रः  
+देवता  इन्द्रः  
 छन्दः  त्रिष्टुप्  
 सायणो [ऽत्र](http://192.155.224.66/stage/rigveda-samhita/describe/rikMandala/005.031.004)।
 
@@ -76,7 +76,10 @@ emphasis_as_inline_comments: true
 
 
 ## साम १
-
+- पारम्परिक-गान-मूलम् 
+  - [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n55/mode/1up)
+  - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n51/mode/2up)
+  - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
 - कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n951)।
 
 हा+++([])+++उ, स्वरता,अ।  
@@ -101,6 +104,10 @@ emphasis_as_inline_comments: true
 शं पदं मघं रयीषिणो न काममव्रतो हिनोति न स्पृशद्रयिम्  । 
 
 ## साम
+- पारम्परिक-गान-मूलम् 
+  - [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n55/mode/1up)
+  - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n51/mode/2up)
+  - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
 - कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n955)।
 
 औ+++([])+++उहोइ।  
@@ -113,7 +120,7 @@ emphasis_as_inline_comments: true
 
 ### संहिता
 ऋग्वेदः  ९.९७.४  
-ऋषिः  इंद्रप्रमतिर्वासिष्ठ  
+ऋषिः  इन्द्रप्रमतिर्वासिष्ठः  
 देवता  पवमानः सोमः  
 छन्दः  त्रिष्टुप्  
 सायणः [अत्र](http://192.155.224.66/stage/rigveda-samhita/describe/rikMandala/009.097.004)।
@@ -143,6 +150,11 @@ emphasis_as_inline_comments: true
 ते नो मुञ्चतमंहसः  । । ६२२
 
 ## साम २
+
+- पारम्परिक-गान-मूलम् 
+  - [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n55/mode/1up)
+  - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n51/mode/2up)
+  - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
 - कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume2SatyavrataSamasrami1876bis_201804/page/n339स्)।
 
 हु+++([])+++वाइ॥त्रिः॥  
@@ -170,6 +182,11 @@ emphasis_as_inline_comments: true
 ए+++([])+++,ए।अन्+++([])+++तरिक्षेऎ,सलिलं, लेला,याअअ॥७॥
 
 ## साम 
+
+- पारम्परिक-गान-मूलम् 
+  - [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n55/mode/1up)
+  - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n51/mode/2up)
+  - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
 - कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume2SatyavrataSamasrami1876bis_201804/page/n339स्)।
 
 प्र+++([])+++तिष्ठा+++(~~टा~~)+++सि, प्रतिष्ठा+++(~~टा~~[])+++॥एवम् त्रिः॥  
@@ -195,6 +212,11 @@ ArS.4.9a; JB.2.403a. अरण्यसंहितायाम् - २ ० ०
 (ऋश्यास इन्द्र! भुङ्क्ति। मघवन्न् इन्द्र! भुङ्क्ति। भुङ्क्ति। प्रभुङ्क्ति +इन्द्रस्य सनपूतः।)
 
 ## साम
+
+- पारम्परिक-गान-मूलम् 
+  - [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n55/mode/1up)
+  - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n51/mode/2up)
+  - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
 - कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume2SatyavrataSamasrami1876bis_201804/page/n341)।
 
 ह+++([])+++री त, इन्द्र श्म+++(~~स्म~~)+++श्रूणि।  
@@ -232,6 +254,11 @@ ArS.4.9a; JB.2.403a. अरण्यसंहितायाम् - २ ० ०
 
 ## साम
 
+- पारम्परिक-गान-मूलम् 
+  - [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n55/mode/1up)
+  - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n51/mode/2up)
+  - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
+
 हा+++([])+++उ॥त्रिः॥  
 स+++([])+++ न इन्द्राअ,य याज्यवा,इ।  
 हा+++([])+++उ॥त्रिः॥व+++([])+++रुणा,अय,मरूत्,भिया,ह।
@@ -258,7 +285,12 @@ ArS.4.9a; JB.2.403a. अरण्यसंहितायाम् - २ ० ०
 विश्वा॑ । यत् । रू॒पा । प॒रि॒ऽयाति॑ । ऋक्व॑ऽभिः । स॒प्तऽआ॑स्येभिः । ऋक्व॑ऽभिः ॥
 
 ## साम
-कौथुम-गानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n987)।
+
+- पारम्परिक-गान-मूलम् 
+  - [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n55/mode/1up)
+  - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n51/mode/2up)
+  - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
+- कौथुम-गानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n987)।
 
 नित्यवत्सम्।  
 ए+++([])+++आ,या।  
@@ -339,6 +371,11 @@ ArS.4.9a; JB.2.403a. अरण्यसंहितायाम् - २ ० ०
 
 ## साम
 
+- पारम्परिक-गान-मूलम् 
+  - [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n55/mode/1up)
+  - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n51/mode/2up)
+  - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
+
 हा+++([])+++,अ,ओओ,हाइ। इ+++([])+++हा,अआ।  
 पा+++([])+++,वस्व सो।मा+++([])+++,अ माधु।मंo+++([])+++ ऋ,तावाअ। आ+++([])+++, पोवसा।नो+++([])+++,ओ आधि।  
 सा+++([])+++नो,अव्याइ।  
@@ -364,6 +401,11 @@ ArS.4.9a; JB.2.403a. अरण्यसंहितायाम् - २ ० ०
 
 ## साम १
 
+- पारम्परिक-गान-मूलम् 
+  - [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n55/mode/1up)
+  - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n51/mode/2up)
+  - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
+
 नि+++([])+++ त्वा ।  
 हो+++([])+++,इ ना+++([])+++।क्षी+++([])+++,याअ।  
 वा+++([])+++,इ,श्पा+++(~~स्पा~~)+++ताइ।  
@@ -387,6 +429,11 @@ ArS.4.9a; JB.2.403a. अरण्यसंहितायाम् - २ ० ०
 दी॒देथ॑ । कण्वे॑ । ऋ॒तऽजा॑तः । उ॒क्षि॒तः । यम् । न॒म॒स्यन्ति॑ । कृ॒ष्टयः॑ ॥
 
 ## साम १
+
+- पारम्परिक-गान-मूलम् 
+  - [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n55/mode/1up)
+  - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n51/mode/2up)
+  - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
 
 मानवाद्यं।  
 नि+++([])+++ त्वा,मग्नायि।  
@@ -418,7 +465,12 @@ ArS.4.9a; JB.2.403a. अरण्यसंहितायाम् - २ ० ०
 स वीरं धत्ते अग्न उक्थशंसिनं त्मना सहस्रपोषिणम्+++(=बहुधनम्)+++  । ।
 
 ## साम
-कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n227)।
+
+- पारम्परिक-गान-मूलम् 
+  - [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n55/mode/1up)
+  - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n51/mode/2up)
+  - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
+- कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n227)।
 
 प्र यो रा,इ, नि+++(~~न~~)+++नि,इषताइ।  
 म+++([])+++र्तो, यस्ते, वासो, दा,शत्।  
@@ -442,6 +494,11 @@ ArS.4.9a; JB.2.403a. अरण्यसंहितायाम् - २ ० ०
 रा॒यः । ई॒शे॒ । सु॒ऽअ॒प॒त्यस्य॑ । गोऽम॑तः । ईशे॑ । वृ॒त्र॒ऽहथा॑नाम् ॥
 
 ## साम
+- पारम्परिक-गान-मूलम् 
+  - [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n55/mode/1up)
+  - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n51/mode/2up)
+  - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
+
 अ+++([])+++यमग्नि,स् सुवीर्यस्य हाउ।  
 आ+++([])+++, ईशेऎ, हीसौ,भगस्य।  
 हो+++([])+++वा,अ,हाइ।  
@@ -460,7 +517,11 @@ ArS.4.9a; JB.2.403a. अरण्यसंहितायाम् - २ ० ०
 पिता यत् कश्यपस्याग्निः+++(=अग्नेः कश्यपः, परस्पर-विभक्तिव्यत्ययात्)+++ श्रद्धा माता मनुः कविः  । 
 
 ## साम
-कौथुमगानम् [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n285)।
+- पारम्परिक-गान-मूलम् 
+  - [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n55/mode/1up)
+  - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n51/mode/2up)
+  - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
+- कौथुमगानम् [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n285)।
 
 जा+++([])+++तः परे,ऎ,णाअ धा,इ+++([])+++हार्।मा+++([])+++णाइ, इ+++([])+++हा।  
 यो+++([])+++निइम्। यो+++([])+++,निमंद्रस्य गच्छथाः।  
@@ -493,6 +554,11 @@ ArS.4.9a; JB.2.403a. अरण्यसंहितायाम् - २ ० ०
 अ॒स्माक॑म् । अ॒द्य । म॒रु॒तः॒ । सु॒ते । सचा॑ । विश्वे॑ । पि॒ब॒त॒ । का॒मिनः॑ ॥
 
 ## साम १
+- पारम्परिक-गान-मूलम् 
+  - [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n55/mode/1up)
+  - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n51/mode/2up)
+  - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
+
 पूर्वजनित्रम्।  
 न+++([])+++ही, वा,अश् चा,रामं च,नाअ।  
 हु+++([])+++वे, हो+++([])+++इ।  
@@ -537,6 +603,10 @@ ArS.4.9a; JB.2.403a. अरण्यसंहितायाम् - २ ० ०
 
 
 ## साम १
+- पारम्परिक-गान-मूलम् 
+  - [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n55/mode/1up)
+  - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n51/mode/2up)
+  - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
 
 हा+++([])+++उ॥त्रिः॥  
 स्व+++([])+++र्वीश्वं॥त्रिः॥  
