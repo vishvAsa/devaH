@@ -82,19 +82,29 @@ emphasis_as_inline_comments: true
   - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
 - कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n951)।
 
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/indran-naro-rauhiNikam.mp3"></div>
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/indran-naro-rauhiNikam.mp3"></div>
+
 हा+++([])+++उ, स्वरता,अ।  
 ब्रo+++([])+++ह्मा,णा+++([])+++,आहा।  
-इन्+++([])+++द्रं।आ+++([])+++।मा+++([])+++हया,अंतो,ओ। कई+++([])+++,हि।अ+++([])+++वा+++([])+++,अर्धायान्।अ+++([])+++हये,एहा।त+++([])+++वा,अअ।ऊo+++([])+++ङु,ङूउ।श्लो कयता,अ॥७॥
+इन्+++([])+++द्रम्।आ+++([])+++।मा+++([])+++हया,अंतो,ओ। कई+++([])+++,हि।अ+++([])+++वा+++([])+++,अर्धायान्।अ+++([])+++हये,एहा।त+++([])+++वा,अअ।ऊo+++([])+++ङु,ङूउ।श्लो कयता,अ॥७॥
 
 ## साम २
-हा+++([])+++उ। अभी+++([])+++इ। स्वरता,अ। ब्र+++([])+++ह्माण+++([])+++,आइम्+++([])+++द्रा+++([])+++,अं।मा+++([])+++हया,अंतो,ओ। कई+++([])+++,हि।अ+++([])+++व+++([])+++,र्धा,या+++([])+++अन्।अ+++([])+++हयेए,अंतवा,अ,अ।ऊङु,ङूउ।श्लो+++([])+++कः॥७॥
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/indran-naro-rauhiNikam.mp3"></div>
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/indran-naro-rauhiNikam.mp3"></div>
+
+हा+++([])+++उ। अभी+++([])+++इ। स्वरता,अ। ब्र+++([])+++ह्माण+++([])+++,आइम्+++([])+++द्रा+++([])+++,अम्।मा+++([])+++हया,अंतो,ओ। कई+++([])+++,हि।अ+++([])+++व+++([])+++,र्धा,या+++([])+++अन्।अ+++([])+++हयेए,अंतवा,अ,अ।ऊङु,ङूउ।श्लो+++([])+++कः॥७॥
 
 हा+++([])+++उ, स्वरता,अ। स्व+++([])+++रत स्वरा,अता।  
 आ+++([])+++ना,वस् ते,ऎ, राथामा।श्वा+++([])+++याअ, ताआक्षूः।  
 
 हा+++([])+++उ, स्वरता,अ। स्व+++([])+++रत स्वरा,अता।  
 त्व+++([])+++ष्टा वाज्रम्+++(~~ज्रिन्~~)+++ ,  
-पुरुहू,उ।ता+++([])+++, द्यूऊ,माoता,अं।
+पुरुहू,उ।ता+++([])+++, द्यूऊ,माoता,अम्।
 
 हा+++([])+++उ, स्वरता,अ। स्व+++([])+++रत स्वा।रा+++([])+++।अता+++([])+++अअ। औ+++([])+++होवाअ।स्व+++([])+++रा,आता,अ॥७॥
 
@@ -110,8 +120,13 @@ emphasis_as_inline_comments: true
   - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
 - कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n955)।
 
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/indran-naro-rauhiNikam.mp3"></div>
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/indran-naro-rauhiNikam.mp3"></div>
+
 औ+++([])+++उहोइ।  
-शम्+++([])+++ पादअं।  
+शम्+++([])+++ पादअम्।  
 मा+++([])+++हं, रयाइ।षि+++([])+++णाइ।  
 न+++([])+++ का,मव्र+++(~~मृ~~)+++तो, हिनोति, न स्पृशात्।  
 रइमो,ओओ।इडा+++([])+++अ॥७॥
@@ -130,13 +145,25 @@ emphasis_as_inline_comments: true
 स्वा॒दुः प॑वाते॒ अति॒ वार॒म् अव्य॒म्  
 आ सी॑दाति क॒लशं॑ देव॒युर्+++(=देवकामः)+++ न॑ः ॥
 
+## साम
+- पारम्परिक-गान-मूलम् 
+  - [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n55/mode/1up)
+  - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n51/mode/2up)
+  - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
+  
+
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/indran-naro-rauhiNikam.mp3"></div>
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/indran-naro-rauhiNikam.mp3"></div>
+
 प्रा+++([])+++गायता।  
 आ+++([])+++भियार्।चा+++([])+++,मा, देवाअन्।  
 सो+++([])+++मं, हिनो।ता+++([])+++अ महा।ते+++([])+++ धा,नायाअ।
 
 स्वा+++([])+++,दुः पवा।ता+++([])+++,अमाति।  
 वा+++([])+++,रा,मव्याअम्।आ+++([])+++ सीदतु।  
-का+++([])+++लाशं।  
+का+++([])+++लाशम्।  
 दा+++([])+++,अअइ।वा+++([])+++,अआइं, दूoङु,ङूहु॥७॥
 
 
@@ -149,7 +176,7 @@ emphasis_as_inline_comments: true
 द्यावापृथिवी भवतं स्योने+++(=शुभे)+++  
 ते नो मुञ्चतमंहसः  । । ६२२
 
-## साम २
+## साम
 
 - पारम्परिक-गान-मूलम् 
   - [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n55/mode/1up)
@@ -157,8 +184,13 @@ emphasis_as_inline_comments: true
   - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
 - कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume2SatyavrataSamasrami1876bis_201804/page/n339स्)।
 
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/indran-naro-rauhiNikam.mp3"></div>
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/indran-naro-rauhiNikam.mp3"></div>
+
 हु+++([])+++वाइ॥त्रिः॥  
-रू+++([])+++पं।  
+रू+++([])+++पम्।  
 
 म+++([])+++न्येवाम्, द्यावा, पृधिवी,  
 सू+++([])+++उ।भो,जाआसा+++([])+++अ।  
@@ -172,6 +204,17 @@ emphasis_as_inline_comments: true
 
 
 ## साम 
+- पारम्परिक-गान-मूलम् 
+  - [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n55/mode/1up)
+  - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n51/mode/2up)
+  - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
+  
+
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/indran-naro-rauhiNikam.mp3"></div>
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/indran-naro-rauhiNikam.mp3"></div>
+
 वा+++([])+++क् ॥द्वि॥ वा+++([])+++गी,ईया।  
 क+++([])+++या,नश्चित्रा,  अ+++([])+++आ,भूऊवा+++([])+++अत्।  
 ऊ+++([])+++ती, सदा वृउ,धा,स् सा,खा+++([])+++अ।  
@@ -188,6 +231,11 @@ emphasis_as_inline_comments: true
   - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n51/mode/2up)
   - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
 - कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume2SatyavrataSamasrami1876bis_201804/page/n339स्)।
+
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/indran-naro-rauhiNikam.mp3"></div>
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/indran-naro-rauhiNikam.mp3"></div>
 
 प्र+++([])+++तिष्ठा+++(~~टा~~)+++सि, प्रतिष्ठा+++(~~टा~~[])+++॥एवम् त्रिः॥  
 व+++([])+++र्चोसि, मनोसि, ऐहिइ।
@@ -219,6 +267,11 @@ ArS.4.9a; JB.2.403a. अरण्यसंहितायाम् - २ ० ०
   - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
 - कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume2SatyavrataSamasrami1876bis_201804/page/n341)।
 
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/indran-naro-rauhiNikam.mp3"></div>
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/indran-naro-rauhiNikam.mp3"></div>
+
 ह+++([])+++री त, इन्द्र श्म+++(~~स्म~~)+++श्रूणि।  
 उ+++([])+++तो, ते,ऎ, हर्यताआआउ, हा,रीः।  
 त+++([])+++न् त्वा+++(~~ं~~)+++, स्तु+++(~~स्~~)+++वन्ति काअ।वायाः।  
@@ -226,6 +279,18 @@ ArS.4.9a; JB.2.403a. अरण्यसंहितायाम् - २ ० ०
 
 ऋ+++([])+++श्या,सा इन्द्रा भुङीति, मघवन्निन्द्रा,
 भुङीति, भुङीति,प्राभुङी,तींद्रस्य, सनपू,ताः॥७॥
+
+## साम
+- पारम्परिक-गान-मूलम् 
+  - [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n55/mode/1up)
+  - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n51/mode/2up)
+  - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
+  
+
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/indran-naro-rauhiNikam.mp3"></div>
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/indran-naro-rauhiNikam.mp3"></div>
 
 अपत्यम्।  
 हा+++([])+++उ॥त्रिः॥  
@@ -258,6 +323,11 @@ ArS.4.9a; JB.2.403a. अरण्यसंहितायाम् - २ ० ०
   - [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n55/mode/1up)
   - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n51/mode/2up)
   - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
+
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/indran-naro-rauhiNikam.mp3"></div>
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/indran-naro-rauhiNikam.mp3"></div>
 
 हा+++([])+++उ॥त्रिः॥  
 स+++([])+++ न इन्द्राअ,य याज्यवा,इ।  
@@ -292,6 +362,11 @@ ArS.4.9a; JB.2.403a. अरण्यसंहितायाम् - २ ० ०
   - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
 - कौथुम-गानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n987)।
 
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/indran-naro-rauhiNikam.mp3"></div>
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/indran-naro-rauhiNikam.mp3"></div>
+
 नित्यवत्सम्।  
 ए+++([])+++आ,या।  
 रू+++([])+++चा, हिरण्या, पुनानो,  
@@ -308,14 +383,31 @@ ArS.4.9a; JB.2.403a. अरण्यसंहितायाम् - २ ० ०
 स+++([])+++प्तास्ये,भिरा,आहो।क्वा+++([])+++भि,राआउवाअ।  
 इ+++([])+++ट्इडाअअ॥७॥
 
+## साम १
+- पारम्परिक-गान-मूलम् 
+  - [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n55/mode/1up)
+  - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n51/mode/2up)
+  - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
+  
+
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/indran-naro-rauhiNikam.mp3"></div>
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/indran-naro-rauhiNikam.mp3"></div>
 
 सो+++([])+++मः पवतॆ जनिता,  
-मा+++([])+++ताइना+++([])+++अं।  
+मा+++([])+++ताइना+++([])+++अम्।  
 ज+++([])+++निता, दिवो,  
 जनिता, पॄ,धाइव्याः+++([])+++।  
 ज+++([])+++निता,ग्ने,र् जनिता,सू।रीई+++([])+++या,अस्या।  
 ज+++([])+++नितेन्द्रा।स्या, अजनि।तो+++([])+++ओ,ओ।ता+++([])+++,अ, वाइ,ष्णॊoङो,ङोओ॥७॥
 
+## साम २
+
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/indran-naro-rauhiNikam.mp3"></div>
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/indran-naro-rauhiNikam.mp3"></div>
 
 सो+++([])+++मः, पवतॆऎ, जनीताअ ।  
 ए+++([])+++,ए। औ+++([])+++,उहो,वाअ।  
@@ -327,11 +419,18 @@ ArS.4.9a; JB.2.403a. अरण्यसंहितायाम् - २ ० ०
 ज+++([])+++नितेन्द्रस्य,  
 जनितो,ता,विष्णोः ॥७॥
 
-जनित्रं।  
+## साम ३
+
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/indran-naro-rauhiNikam.mp3"></div>
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/indran-naro-rauhiNikam.mp3"></div>
+
+जनित्रम्।  
 हा+++([])+++उजनत्॥त्रिः॥  
 ज+++([])+++नद्धाउ॥त्रिः॥  
 हो+++([])+++इ, ज+++([])+++नत्, हो+++([])+++इ,ज+++([])+++नत्। हो+++([])+++इ,ज+++([])+++नात्।  
-सो+++([])+++मः पवा।ते+++([])+++,ए जनि।ता+++([])+++, मा,ती,नाअं।  
+सो+++([])+++मः पवा।ते+++([])+++,ए जनि।ता+++([])+++, मा,ती,नाअम्।  
 ज+++([])+++निता, दाइ।वो+++([])+++,ओ जनि।ता+++([])+++, पृ,धिव्याः।  
 ज+++([])+++निताग्नाइः।  
 जा+++([])+++नी,ता। सू+++([])+++री,यस्याअ।
@@ -341,10 +440,17 @@ ArS.4.9a; JB.2.403a. अरण्यसंहितायाम् - २ ० ०
 हो+++([])+++इ। ज+++([])+++नत्, हो+++([])+++इ, ज+++([])+++नत्। हो+++([])+++इ, ज+++([])+++नात्।  
 ज+++([])+++नितेन्द्रा।स्या+++([])+++,अ जनि।तो+++([])+++ओ,ओ।ता+++([])+++,अ, वाइ, ष्णॊo ङो,ङोओ॥७॥
 
+## साम ४
+
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/indran-naro-rauhiNikam.mp3"></div>
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/indran-naro-rauhiNikam.mp3"></div>
+
 ज+++([])+++नद्धाउ॥त्रिः॥  
 ज+++([])+++नदाउ॥त्रिः॥  
 ज+++([])+++नत्। हो+++([])+++इ॥एवम् त्रिः॥  
-सो+++([])+++मः पवा।तॆ+++([])+++,ए जनि।ता+++([])+++, मा,ती,नाअं।  
+सो+++([])+++मः पवा।तॆ+++([])+++,ए जनि।ता+++([])+++, मा,ती,नाअम्।  
 ज+++([])+++निता,दाइ।वो+++([])+++,ओजनि।ता+++([])+++, पॄ,धिव्याः।  
 ज+++([])+++निताग्नाइः।  
 जा+++([])+++नी,ता। सू+++([])+++री,यस्याअ।  
@@ -376,6 +482,11 @@ ArS.4.9a; JB.2.403a. अरण्यसंहितायाम् - २ ० ०
   - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n51/mode/2up)
   - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
 
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/indran-naro-rauhiNikam.mp3"></div>
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/indran-naro-rauhiNikam.mp3"></div>
+
 हा+++([])+++,अ,ओओ,हाइ। इ+++([])+++हा,अआ।  
 पा+++([])+++,वस्व सो।मा+++([])+++,अ माधु।मंo+++([])+++ ऋ,तावाअ। आ+++([])+++, पोवसा।नो+++([])+++,ओ आधि।  
 सा+++([])+++नो,अव्याइ।  
@@ -406,10 +517,15 @@ ArS.4.9a; JB.2.403a. अरण्यसंहितायाम् - २ ० ०
   - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n51/mode/2up)
   - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
 
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/indran-naro-rauhiNikam.mp3"></div>
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/indran-naro-rauhiNikam.mp3"></div>
+
 नि+++([])+++ त्वा ।  
 हो+++([])+++,इ ना+++([])+++।क्षी+++([])+++,याअ।  
 वा+++([])+++,इ,श्पा+++(~~स्पा~~)+++ताइ।  
-द्यू+++([])+++मं,तन् धा+++([])+++इ।मा+++([])+++हे, वा,याअं।  
+द्यू+++([])+++मं,तन् धा+++([])+++इ।मा+++([])+++हे, वा,याअम्।  
 सू+++([])+++वो,हाइ।रा+++([])+++मग्ना, आओवा।  
 हू+++([])+++तोंहाइ॥७॥
 
@@ -435,7 +551,12 @@ ArS.4.9a; JB.2.403a. अरण्यसंहितायाम् - २ ० ०
   - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n51/mode/2up)
   - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
 
-मानवाद्यं।  
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/indran-naro-rauhiNikam.mp3"></div>
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/indran-naro-rauhiNikam.mp3"></div>
+
+मानवाद्यम्।  
 नि+++([])+++ त्वा,मग्नायि।  
 मा+++([])+++नुर् दा,धा+++(~~धादा~~)+++इ।  
 ज्ज्यो+++([])+++ति,र् जॆनाअ।या+++([])+++, शा,श्वा+++(~~स्वा~~)+++,ता+++([])+++इ।  
@@ -446,7 +567,12 @@ ArS.4.9a; JB.2.403a. अरण्यसंहितायाम् - २ ० ०
 
 ## साम २
 
-मानवोत्तरं। 
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/indran-naro-rauhiNikam.mp3"></div>
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/indran-naro-rauhiNikam.mp3"></div>
+
+मानवोत्तरम्। 
 हो+++([])+++,वाइ।  
 नि+++([])+++ त्वा,मग्नेऎ, मानुर् दाधे+++(~~धादे~~)+++,ऎ।  
 हो+++([])+++,वाइ।  
@@ -472,10 +598,15 @@ ArS.4.9a; JB.2.403a. अरण्यसंहितायाम् - २ ० ०
   - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
 - कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n227)।
 
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/indran-naro-rauhiNikam.mp3"></div>
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/indran-naro-rauhiNikam.mp3"></div>
+
 प्र यो रा,इ, नि+++(~~न~~)+++नि,इषताइ।  
 म+++([])+++र्तो, यस्ते, वासो, दा,शत्।  
-स+++([])+++ वी,रां धा।ता+++([])+++,अग्ना उ।क्थ+++([])+++शंसिनं।  
-त्म+++([])+++ना, सा,अहा।स्रा+++([])+++,पोषा,इणा,अं।  
+स+++([])+++ वी,रां धा।ता+++([])+++,अग्ना उ।क्थ+++([])+++शंसिनम्।  
+त्म+++([])+++ना, सा,अहा।स्रा+++([])+++,पोषा,इणा,अम्।  
 ओ+++([])+++इ।डा+++([])+++अ॥७॥
 
 ## ऋक्
@@ -498,6 +629,12 @@ ArS.4.9a; JB.2.403a. अरण्यसंहितायाम् - २ ० ०
   - [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n55/mode/1up)
   - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n51/mode/2up)
   - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
+
+
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/indran-naro-rauhiNikam.mp3"></div>
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/indran-naro-rauhiNikam.mp3"></div>
 
 अ+++([])+++यमग्नि,स् सुवीर्यस्य हाउ।  
 आ+++([])+++, ईशेऎ, हीसौ,भगस्य।  
@@ -522,6 +659,12 @@ ArS.4.9a; JB.2.403a. अरण्यसंहितायाम् - २ ० ०
   - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n51/mode/2up)
   - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
 - कौथुमगानम् [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n285)।
+
+
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/indran-naro-rauhiNikam.mp3"></div>
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/indran-naro-rauhiNikam.mp3"></div>
 
 जा+++([])+++तः परे,ऎ,णाअ धा,इ+++([])+++हार्।मा+++([])+++णाइ, इ+++([])+++हा।  
 यो+++([])+++निइम्। यो+++([])+++,निमंद्रस्य गच्छथाः।  
@@ -559,6 +702,12 @@ ArS.4.9a; JB.2.403a. अरण्यसंहितायाम् - २ ० ०
   - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n51/mode/2up)
   - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
 
+
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/indran-naro-rauhiNikam.mp3"></div>
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/indran-naro-rauhiNikam.mp3"></div>
+
 पूर्वजनित्रम्।  
 न+++([])+++ही, वा,अश् चा,रामं च,नाअ।  
 हु+++([])+++वे, हो+++([])+++इ।  
@@ -571,6 +720,13 @@ ArS.4.9a; JB.2.403a. अरण्यसंहितायाम् - २ ० ०
 जा+++([])+++नित्राअं॥७॥
 
 ## साम २
+
+
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/indran-naro-rauhiNikam.mp3"></div>
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/indran-naro-rauhiNikam.mp3"></div>
+
 उत्तर जनित्रम्।  
 ना+++([])+++हि वश्च,रामं,उँ।  
 चा+++([])+++,ना।  
@@ -608,6 +764,12 @@ ArS.4.9a; JB.2.403a. अरण्यसंहितायाम् - २ ० ०
   - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n51/mode/2up)
   - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
 
+
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/indran-naro-rauhiNikam.mp3"></div>
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/indran-naro-rauhiNikam.mp3"></div>
+
 हा+++([])+++उ॥त्रिः॥  
 स्व+++([])+++र्वीश्वं॥त्रिः॥  
 अ+++([])+++रू,रुचत्॥त्रिः॥  
@@ -628,6 +790,12 @@ ArS.4.9a; JB.2.403a. अरण्यसंहितायाम् - २ ० ०
 ए+++([])+++ए।सु+++([])+++वाः  ॥७॥
 
 ## साम २
+
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/indran-naro-rauhiNikam.mp3"></div>
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/indran-naro-rauhiNikam.mp3"></div>
+
 हा+++([])+++उ॥त्रिः॥  
 ज्यो+++([])+++तिर्वीश्वम् ॥त्रिः॥  
 अ+++([])+++रू,रुचत्॥त्रिः॥  
