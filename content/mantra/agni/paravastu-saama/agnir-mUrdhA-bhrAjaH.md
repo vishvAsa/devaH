@@ -1,8 +1,8 @@
 ---
-title: अग्निर् मूर्धा-भ्राजझ्  
+title: अग्निर् मूर्धा-भ्राजः  
 unicode_script: devanagari  
 emphasis_as_inline_comments: true
-practice_weight: 10
+practice_weight: 0
 ---   
 
 ## ऋक्

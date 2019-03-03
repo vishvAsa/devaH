@@ -6,7 +6,7 @@ practice_weight: 10
 ---   
 
 ## ऋक्
-<div class="js_include" url="../../Rk/agnir-mUrdhA.md"  newLevelForH1="2" includeTitle="true"> </div> 
+<div class="js_include" url="../Rk/agnir-mUrdhA.md"  newLevelForH1="2" includeTitle="true"> </div> 
 
 
 ## साम
