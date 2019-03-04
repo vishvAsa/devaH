@@ -15,7 +15,7 @@ practice_weight: 0
   - [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n55/mode/1up)
   - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n51/mode/2up)
   - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
-- कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume2SatyavrataSamasrami1876bis_201804/page/n339स्)।
+- कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume2SatyavrataSamasrami1876bis_201804/page/n339)।
 
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/manye-vAm-dyAvApRthivI-pratiShThasi.mp3"></div>
