@@ -8,11 +8,7 @@ emphasis_as_inline_comments: true
 
 RV 9 97_+++(809)+++ 40 a
 
-+++(सायणो [ऽत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart4/rv_sayanabhasya_part4#page/n323/mode/2up&sa=D&ust=1542425956308000)। वासिष्ठ-शक्तिपुत्रः पराशर ऋषिः। त्रिष्टुभ्। सोमः।)+++
-
 <div class="js_include" url="../Rk/akrAnt-samudraH.md"  newLevelForH1="2" includeTitle="true"> </div> 
-
-वृषा॑ प॒वित्रे॒ अधि॒ सानो॒ +++(=समुच्छ्रिते)+++ अव्ये॑ बृ॒हत् सोमो॑ वावृधे सुवा॒न इन्दु॑ः +++(=अद्रिः इति साम्नि?)+++ ४०
 
 मत्सि॑+++(=मादयसि)+++ वा॒युमि॒ष्टये॒ राध॑से च॒ +++(=राधसे नाः इति साम्नि)+++ मत्सि॑ मि॒त्रावरु॑णा पू॒यमा॑नः ।
 

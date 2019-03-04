@@ -102,9 +102,9 @@ emphasis_as_inline_comments: true
 
 <div class="js_include" url="../../soma/paravastu-saama/sampA.md"  newLevelForH1="2" includeTitle="true"> </div> 
 
-(अत्र "होइ होइ - अक्राअन् समुद्रः प्राथा" इति साम युज्यताम्।)  
+<div class="js_include" url="../../soma/paravastu-saama/akrAnt-samudraH.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
-(अत्र "कनिक्रति" इति सामद्वयम् युज्यताम्। सायणो [ऽत्र](http://192.155.224.66/stage/rigveda-samhita/describe/rikMandala/009.095.001)।)  
+<div class="js_include" url="../../soma/paravastu-saama/kanikranti.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
 <div class="js_include" url="../../soma/paravastu-saama/pavasva-soma-madhumAn.md"  newLevelForH1="2" includeTitle="true"> </div> 
 
