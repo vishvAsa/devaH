@@ -2,6 +2,7 @@
 title: इन्द्रन्नरो- राजनम्  
 unicode_script: devanagari  
 emphasis_as_inline_comments: true
+practice_weight: 0
 ---   
 
 ## ऋक्
