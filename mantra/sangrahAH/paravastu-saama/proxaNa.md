@@ -51,9 +51,15 @@ emphasis_as_inline_comments: true
 
 <div class="js_include" url="../../indra/paravastu-saama/vAmadevyam-kalmASha.md"  newLevelForH1="2" includeTitle="true"> </div> 
 
+<div class="js_include" url="../../Aditya/paravastu-saama/varuNa-pAsham.md"  newLevelForH1="2" includeTitle="true"> </div> 
+
 <div class="js_include" url="../../agni/paravastu-saama/agna-AyUMShi.md"  newLevelForH1="2" includeTitle="true"> </div> 
 
-<div class="js_include" url="../../agni/paravastu-saama/agnir-mUrdhA-bhrAjaH.md"  newLevelForH1="2" includeTitle="true"> </div> 
+<div class="js_include" url="../../agni/paravastu-saama/agnir-mUrdhA-AbhrAjaH.md"  newLevelForH1="2" includeTitle="true"> </div> 
+
+<div class="js_include" url="../../rudra/paravastu-saama/niyutvAn-vAyo.md"  newLevelForH1="2" includeTitle="true"> </div>
+
+<div class="js_include" url="../../worlds/paravastu-saama/atrAha-goH.md"  newLevelForH1="2" includeTitle="true"> </div>
 
 <div class="js_include" url="../../indra/paravastu-saama/indran-naro-rAjanam.md"  newLevelForH1="2" includeTitle="true"> </div> 
 
@@ -63,7 +69,17 @@ emphasis_as_inline_comments: true
 
 <div class="js_include" url="../../indra/paravastu-saama/sham-padam.md"  newLevelForH1="2" includeTitle="true"> </div> 
 
+<div class="js_include" url="../../misc-devas/paravastu-saama/setUMs-tara.md"  newLevelForH1="2" includeTitle="true"> </div> 
+
 <div class="js_include" url="../../soma/paravastu-saama/pragAyatAbhyarchAma.md"  newLevelForH1="2" includeTitle="true"> </div> 
+
+<div class="js_include" url="../../soma/paravastu-saama/pavamAna.md"  newLevelForH1="2" includeTitle="true"> </div> 
+
+<div class="js_include" url="../../soma/paravastu-saama/pra-kAvyam.md"  newLevelForH1="2" includeTitle="true"> </div> 
+
+<div class="js_include" url="../../viShNu/paravastu-saama/sahasra-shIrShA.md"  newLevelForH1="2" includeTitle="true"> </div>
+
+<div class="js_include" url="../../indra/paravastu-saama/vAmadevyam-asmin.md"  newLevelForH1="2" includeTitle="true"> </div> 
 
 <div class="js_include" url="../../worlds/paravastu-saama/manye-vAm-dyAvApRthivI.md"  newLevelForH1="2" includeTitle="true"> </div> 
 

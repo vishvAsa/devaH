@@ -1,5 +1,5 @@
 ---
-title: अग्निर् मूर्धा-भ्राजः  
+title: अग्निर् मूर्धा-आभ्राजः  
 unicode_script: devanagari  
 emphasis_as_inline_comments: true
 practice_weight: 0
@@ -18,9 +18,9 @@ practice_weight: 0
 - कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume2SatyavrataSamasrami1876bis_201804/page/n423)?
 
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/agnir-mUrdhA-bhrAjaH.mp3"></div>
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/agnir-mUrdhA-AbhrAjaH.mp3"></div>
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/agnir-mUrdhA-bhrAjaH.mp3"></div>
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/agnir-mUrdhA-AbhrAjaH.mp3"></div>
 
 आभ्र्राजम् ।  
 आ+++([])+++भ्रा, जाआ+++([])+++,भ्रा,जाआ+++([])+++,भ्रा+++([])+++,जाआ+++([])+++,भ्रा+++([])+++,जा ।
