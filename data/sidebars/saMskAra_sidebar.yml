@@ -102,6 +102,9 @@ contents:
             - title: यजूंषि
               contents:
                 - url: dir://mantra/worlds/yajus
+            - title: गद्यानि
+              contents:
+                - url: dir://mantra/worlds/gadya
         - title: परिशिष्टम्
           contents:
             - title: ऋचः
