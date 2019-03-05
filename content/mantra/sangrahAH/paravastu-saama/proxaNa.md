@@ -108,7 +108,7 @@ emphasis_as_inline_comments: true
 
 <div class="js_include" url="../../soma/paravastu-saama/pavasva-soma-madhumAn.md"  newLevelForH1="2" includeTitle="true"> </div> 
 
-<div class="js_include" url="../../agni/paravastu-saama/ni-tvAm-agne.md"  newLevelForH1="2" includeTitle="true"> </div> 
+<div class="js_include" url="../../agni/paravastu-saama/ni-tvAm-agne.md"  newLevelForH1="2 " includeTitle="true"> </div> 
 
 <div class="js_include" url="../../agni/paravastu-saama/pra-yo-rAye.md"  newLevelForH1="2" includeTitle="true"> </div> 
 
