@@ -48,6 +48,9 @@ contents:
             - title: यजूंषि
               contents:
                 - url: dir://mantra/viShNu/yajus
+            - title: पद्यानि
+              contents:
+                - url: dir://mantra/viShNu/padya
         - title: आपः
           contents:
             - title: ऋचः
@@ -77,6 +80,9 @@ contents:
             - title: सामानि
               contents:
                 - url: dir://mantra/rudra/paravastu-saama/
+            - title: पद्यानि
+              contents:
+                - url: dir://mantra/rudra/padya
         - title: प्रदेशाः
           contents:
             - title: ऋचः
