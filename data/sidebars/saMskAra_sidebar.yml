@@ -61,6 +61,14 @@ contents:
             - title: ऋचः
               contents:
                 - url: dir://mantra/brahma/Rk/
+        - title: वाङ्मेधादिः
+          contents:
+            - title: ऋचः
+              contents:
+                - url: dir://mantra/vAk/Rk/
+            - title: सामानि
+              contents:
+                - url: dir://mantra/vAk/paravastu-saama/
         - title: आदित्याः
           contents:
             - title: परिचयः

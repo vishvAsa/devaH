@@ -41,7 +41,7 @@ emphasis_as_inline_comments: true
 
 <div class="js_include" url="../../indra/paravastu-saama/yad-dyAva-vairUpam.md"  newLevelForH1="2" includeTitle="true"> </div> 
 
-<div class="js_include" url="../../misc-devas/paravastu-saama/vAchovratam-vAk-shruNotu.md"  newLevelForH1="2" includeTitle="true"> </div> 
+<div class="js_include" url="../../vAk/paravastu-saama/vAchovratam-vAk-shruNotu.md"  newLevelForH1="2" includeTitle="true"> </div> 
 
 <div class="js_include" url="../../indra/paravastu-saama/imA-nu-kam.md"  newLevelForH1="2" includeTitle="true"> </div> 
 
