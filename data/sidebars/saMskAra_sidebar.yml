@@ -18,57 +18,6 @@ contents:
             - title: यजूंषि
               contents:
                 - url: dir://mantra/agni/yajus/
-        - title: इन्द्रः
-          contents:
-            - title: ऋचः
-              contents:
-                - url: dir://mantra/indra/Rk
-            - title: सामानि
-              contents:
-                - url: dir://mantra/indra/paravastu-saama/
-            - title: यजूंषि
-              contents:
-                - url: dir://mantra/indra/yajus
-        - title: सोमः
-          contents:
-            - title: ऋचः
-              contents:
-                - url: dir://mantra/soma/Rk
-            - title: सामानि
-              contents:
-                - url: dir://mantra/soma/paravastu-saama/
-        - title: विष्णुः
-          contents:
-            - title: ऋचः
-              contents:
-                - url: dir://mantra/viShNu/Rk/
-            - title: सामानि
-              contents:
-                - url: dir://mantra/viShNu/paravastu-saama/
-            - title: यजूंषि
-              contents:
-                - url: dir://mantra/viShNu/yajus
-            - title: पद्यानि
-              contents:
-                - url: dir://mantra/viShNu/padya
-        - title: आपः
-          contents:
-            - title: ऋचः
-              contents:
-                - url: dir://mantra/jala/Rk/
-        - title: ब्रह्म
-          contents:
-            - title: ऋचः
-              contents:
-                - url: dir://mantra/brahma/Rk/
-        - title: वाङ्मेधादिः
-          contents:
-            - title: ऋचः
-              contents:
-                - url: dir://mantra/vAk/Rk/
-            - title: सामानि
-              contents:
-                - url: dir://mantra/vAk/paravastu-saama/
         - title: आदित्याः
           contents:
             - title: परिचयः
@@ -80,17 +29,22 @@ contents:
             - title: सामानि
               contents:
                 - url: dir://mantra/Aditya/paravastu-saama/
-        - title: रुद्र-वायु-मरुतः
+        - title: इन्द्रः
           contents:
             - title: ऋचः
               contents:
-                - url: dir://mantra/rudra/Rk/
+                - url: dir://mantra/indra/Rk
             - title: सामानि
               contents:
-                - url: dir://mantra/rudra/paravastu-saama/
-            - title: पद्यानि
+                - url: dir://mantra/indra/paravastu-saama/
+            - title: यजूंषि
               contents:
-                - url: dir://mantra/rudra/padya
+                - url: dir://mantra/indra/yajus
+        - title: आपः
+          contents:
+            - title: ऋचः
+              contents:
+                - url: dir://mantra/jala/Rk/
         - title: प्रदेशाः
           contents:
             - title: ऋचः
@@ -119,6 +73,52 @@ contents:
                 - title: दिक्
                   contents:
                     - url: dir://mantra/misc-devas/yajus/dik
+        - title: ब्रह्म
+          contents:
+            - title: ऋचः
+              contents:
+                - url: dir://mantra/brahma/Rk/
+        - title: वाङ्मेधादिः
+          contents:
+            - title: ऋचः
+              contents:
+                - url: dir://mantra/vAk/Rk/
+            - title: सामानि
+              contents:
+                - url: dir://mantra/vAk/paravastu-saama/
+        - title: रुद्र-वायु-मरुतः
+          contents:
+            - title: ऋचः
+              contents:
+                - url: dir://mantra/rudra/Rk/
+            - title: सामानि
+              contents:
+                - url: dir://mantra/rudra/paravastu-saama/
+            - title: पद्यानि
+              contents:
+                - url: dir://mantra/rudra/padya
+        - title: विष्णुः
+          contents:
+            - title: ऋचः
+              contents:
+                - url: dir://mantra/viShNu/Rk/
+            - title: सामानि
+              contents:
+                - url: dir://mantra/viShNu/paravastu-saama/
+            - title: यजूंषि
+              contents:
+                - url: dir://mantra/viShNu/yajus
+            - title: पद्यानि
+              contents:
+                - url: dir://mantra/viShNu/padya
+        - title: सोमः
+          contents:
+            - title: ऋचः
+              contents:
+                - url: dir://mantra/soma/Rk
+            - title: सामानि
+              contents:
+                - url: dir://mantra/soma/paravastu-saama/
         - title: सङ्ग्रहाः
           contents:
             - title: सामानि

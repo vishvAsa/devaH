@@ -41,7 +41,7 @@ This Dandaka is modeled after the Garudadandaka of Vedantadeshika. Each of its f
 चण्डेतरालोक**सम्भावितानेक**वन्दारुवृन्दारक स्वच्छवेलातिग-स्वच्छवे ।  
 +++(Oh Martanda, you grace the gods who are forever praising you with a light which is anything but fierce, pure in your own boundless splendour – victory!)+++
 
-नम उदयगिरीन्द्रनिस्तन्द्रपारीन्द्र+++(=सिंह)+++पाली+++(=कोण)+++**सटा**सान्द्र**नीहारबिन्दु**-च्छटा+++(=समूह)+++चौर्यनिष्णात**कोष्णातप**श्रीविमिश्रीभवद्बाल्य  
+नम उदयगिरीन्द्रनिस्तन्द्रपारीन्द्र+++(=मृगेन्द्र)+++पाली+++(=कोण)+++**सटा**सान्द्र**नीहारबिन्दु**-च्छटा+++(=समूह)+++चौर्यनिष्णात**कोष्णातप**श्रीविमिश्रीभवद्बाल्य  
 +++(Your youth is attended by a glorious warm light which skillfully steals the web of snowflakes that lie thick upon the manes of the troop of awakening lions on the sunrise mountain.)+++  
 कल्या+++(=उषा)+++नलैक**स्फुलिङ्गाय** ते  
 +++(You are the single spark that lights the fire of dawn. )+++  
