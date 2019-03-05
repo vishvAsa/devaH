@@ -108,6 +108,30 @@ emphasis_as_inline_comments: true
 
 <div class="js_include" url="../../soma/paravastu-saama/pavasva-soma-madhumAn.md"  newLevelForH1="2" includeTitle="true"> </div> 
 
+# अरिष्टवर्गः ।
+<div class="js_include" url="../../agni/paravastu-saama/abodhyagniH.md"  newLevelForH1="2" includeTitle="true"> </div>  
+
+<div class="js_include" url="../../Aditya/paravastu-saama/mahi-trINAm.md"  newLevelForH1="2" includeTitle="true"> </div>
+ 
+<div class="js_include" url="../../indra/paravastu-saama/tvAvataH.md"  newLevelForH1="2" includeTitle="true"> </div> 
+ 
+<div class="js_include" url="../../indra/paravastu-saama/indran-naro-grAma-geyam.md"  newLevelForH1="2" includeTitle="true"> </div>
+
+<div class="js_include" url="../../misc-devas/paravastu-saama/tyamU-Shu.md"  newLevelForH1="2" includeTitle="true"> </div> 
+
+<div class="js_include" url="../../indra/paravastu-saama/trAtAram-indram.md"  newLevelForH1="2" includeTitle="true"> </div>
+
+ 
+<div class="js_include" url="../../soma/paravastu-saama/AdIShAdiyyam.md"  newLevelForH1="2" includeTitle="true"> </div> ॥
+ 
+<div class="js_include" url="../../soma/paravastu-saama/dIrgham.md"  newLevelForH1="2" includeTitle="true"> </div> ॥
+
++++(अधः प्रथममेव साम गृह्यताम्।)+++
+<div class="js_include" url="../../indra/paravastu-saama/vishvato-dAvan.md"  newLevelForH1="2" includeTitle="true"> </div>  
+
+<div class="js_include" url="../../Aditya/paravastu-saama/varuNa-pAsham.md"  newLevelForH1="2" includeTitle="true"> </div> 
+
+# अग्रिमभागः
 <div class="js_include" url="../../agni/paravastu-saama/ni-tvAm-agne.md"  newLevelForH1="2 " includeTitle="true"> </div> 
 
 <div class="js_include" url="../../agni/paravastu-saama/pra-yo-rAye.md"  newLevelForH1="2" includeTitle="true"> </div> 

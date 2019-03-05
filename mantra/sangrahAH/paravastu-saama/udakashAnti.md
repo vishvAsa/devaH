@@ -8,7 +8,7 @@ emphasis_as_inline_comments: true
 
 - [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n12/mode/1up)
 - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n13/mode/2up)
-- [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/AASHEERVACHANA%20SAAMAANI#mode/1up)
+- [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/08.%20UDAKASAANTHI#page/n7/mode/2up)
 
 
 <div class="js_include" url="../../worlds/paravastu-saama/sadasaspatim.md"  newLevelForH1="2" includeTitle="true"> </div>  
