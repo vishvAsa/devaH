@@ -28,9 +28,9 @@ practice_weight: 0
   - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
 
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/indran-naro-rauhiNikam.mp3"></div>
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/ni-tvAm-agne-1.mp3"></div>
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/indran-naro-rauhiNikam.mp3"></div>
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/ni-tvAm-agne-1.mp3"></div>
 
 नि+++([])+++ त्वा ।  
 हो+++([])+++,इ ना+++([])+++।क्षी+++([])+++,याअ।  
@@ -38,21 +38,6 @@ practice_weight: 0
 द्यू+++([])+++मं,तन् धा+++([])+++इ।मा+++([])+++हे, वा,याअम्।  
 सू+++([])+++वो,हाइ।रा+++([])+++मग्ना, आओवा।  
 हू+++([])+++तोंहाइ॥७॥
-
-## ऋक्
-ऋग्वेदः  १.३६.१९  
-ऋषिः  कण्वो घौरः  
-देवता  अग्निः  
-छन्दः  बृहती  
-सायणः [अत्र](http://192.155.224.66/stage/rigveda-samhita/describe/rikMandala/001.036.019)।
-
-### संहिता
-नि त्वाम॑ग्ने॒ मनु॑र्दधे॒ ज्योति॒र्जना॑य॒ शश्व॑ते ।
-दी॒देथ॒+++(=दीप्येथाः)+++ कण्व॑ ऋ॒तजा॑त उक्षि॒तो+++(=पुष्टः)+++ यं न॑म॒स्यन्ति॑ कृ॒ष्टयः॑ ॥
-
-### पदपाठः
-नि । त्वाम् । अ॒ग्ने॒ । मनुः॑ । द॒धे॒ । ज्योतिः॑ । जना॑य । शश्व॑ते ।
-दी॒देथ॑ । कण्वे॑ । ऋ॒तऽजा॑तः । उ॒क्षि॒तः । यम् । न॒म॒स्यन्ति॑ । कृ॒ष्टयः॑ ॥
 
 ## साम १
 
@@ -62,9 +47,9 @@ practice_weight: 0
   - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
 
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/ni-tvAm-agne-1.mp3"></div>
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/ni-tvAm-agne-mAnavAdyam.mp3"></div>
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/ni-tvAm-agne-1.mp3"></div>
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/ni-tvAm-agne-mAnavAdyam.mp3"></div>
 
 मानवाद्यम्।  
 नि+++([])+++ त्वा,मग्नायि।  
@@ -78,9 +63,9 @@ practice_weight: 0
 ## साम २
 
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/ni-tvAm-agne-2.mp3"></div>
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/ni-tvAm-agne-mAnavottaram.mp3"></div>
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/ni-tvAm-agne-2.mp3"></div>
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/ni-tvAm-agne-mAnavottaram.mp3"></div>
 
 मानवोत्तरम्। 
 हो+++([])+++,वाइ।  
