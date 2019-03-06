@@ -140,6 +140,8 @@ emphasis_as_inline_comments: true
 
 <div class="js_include" url="../../agni/paravastu-saama/jAtaH-pareNa.md"  newLevelForH1="2" includeTitle="true"> </div> 
 
+<div class="js_include" url="../../rudra/paravastu-saama/nahi-vash-charamam.md"  newLevelForH1="2" includeTitle="true"> </div> 
+
 ("सोमः पवते जनिता मतीनामि"ति सर्वाण्य् अपत्य-नित्यवत्स-रथन्तर-व्याहृति-सामानि पुनर् जपेत्। तत् प्रकारः -…।)
 
 <div class="js_include" url="../../rudra/paravastu-saama/arUruchad-uShasaH.md"  newLevelForH1="2" includeTitle="true"> </div> 
