@@ -210,7 +210,7 @@ contents:
   - title: कल्पे ऽस्मन्निश्चयः
     contents:
         - title: प्रवेशः
-          url: /kalpa/general/index.md
+          url: /kalpa/general/
         - title: अङ्गानि
           contents:
             - title: मनः-संस्कारः
@@ -224,7 +224,7 @@ contents:
                 - url: dir://kalpa/general/ArAdhanam/bali/
             - title: होमः
               contents:
-                - url: /kalpa/general/ArAdhanam/homa/index.md
+                - url: /kalpa/general/ArAdhanam/homa/
                 - title: अङ्गानि
                   contents:
                     - url: dir://kalpa/general/ArAdhanam/homa/angAni/
