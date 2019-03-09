@@ -167,6 +167,9 @@ contents:
               - title: कर्माणि
                 contents:
                   - url: dir://kalpa/sUtra/Apastamba/pramANAni/gRhya/karmANi
+                  - title: श्राद्धम्
+                    contents:
+                      - url: dir://kalpa/sUtra/Apastamba/pramANAni/gRhya/karmANi/shrAddha
           - title: श्रौतसूत्राणि
             contents:
               - title: अङ्गानि
