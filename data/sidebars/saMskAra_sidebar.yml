@@ -175,6 +175,9 @@ contents:
               - title: अङ्गानि
                 contents:
                   - url: dir://kalpa/sUtra/Apastamba/pramANAni/shrauta/angAni
+              - title: क्रियाः
+                contents:
+                  - url: dir://kalpa/sUtra/Apastamba/pramANAni/shrauta/kriyAH
               - title: तत्त्वानि
                 contents:
                   - url: dir://kalpa/sUtra/Apastamba/pramANAni/shrauta/tattvAni
