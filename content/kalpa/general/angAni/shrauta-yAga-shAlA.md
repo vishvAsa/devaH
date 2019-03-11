@@ -23,11 +23,11 @@ practice_weight: 0
 
 ## चित्राणि
 
-[![](../../../images/soma-yAga-vinyAsa-sa.png)](../../../images/soma-yAga-vinyAsa-sa.png)
+[![](../../../images/shrauta-yAga/vedI/soma-yAga-vinyAsa-sa.png)](../../../images/shrauta-yAga/vedI/soma-yAga-vinyAsa-sa.png)
 
-[![](../../../images/soma-yAga-vinyAsa-en-1.png)](../../../images/soma-yAga-vinyAsa-en-1.png)
+[![](../../../images/shrauta-yAga/vedI/soma-yAga-vinyAsa-en-1.png)](../../../images/shrauta-yAga/vedI/soma-yAga-vinyAsa-en-1.png)
 
-[![](../../../images/soma-yAga-vinyAsa-en-2.png)](../../../images/soma-yAga-vinyAsa-en-2.png)
+[![](../../../images/shrauta-yAga/vedI/soma-yAga-vinyAsa-en-2.png)](../../../images/shrauta-yAga/vedI/soma-yAga-vinyAsa-en-2.png)
 
 ## चित्राणि
     - [Subhash](https://www.facebook.com/profile.php?id=100006278775898)अस्य [पत्रात्](http://arxiv.org/pdf/0902.4850.pdf)।
