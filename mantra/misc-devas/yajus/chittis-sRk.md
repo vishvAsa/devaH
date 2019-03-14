@@ -1,6 +1,6 @@
 ---
 title: चित्तिस् सृक्
-tags: दशहोतारः
+tag: दशहोतारः
 unicode_script: devanagari
 emphasis_as_inline_comments: true
 practice_weight: 0
