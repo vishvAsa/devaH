@@ -5,8 +5,10 @@ emphasis_as_inline_comments: true
 practice_weight: 0
 ---
 
+[तत्र](../../../../../../brAhmaNa/taittirIya/kriyA/agni-upasthAna/) ब्राह्मणम्।
+
 ## चोदनम्
-"उपस्थेयोऽग्नी३र्नोपस्थेया३" इत्युक्तम् ४
+"उपस्थेयोऽग्नी३र्नोपस्थेया३" इत्युक्तम् +++([ब्राह्मणानुवादो](../../../../../../brAhmaNa/taittirIya/kriyA/agni-upasthAna/) ऽत्र)+++४ नक्तमुपतिष्ठते न प्रातः ५
 
 
 ## आहवनीये
