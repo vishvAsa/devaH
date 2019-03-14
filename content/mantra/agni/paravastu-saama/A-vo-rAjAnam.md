@@ -2,7 +2,6 @@
 title: आ वो राजानम्  
 unicode_script: devanagari  
 emphasis_as_inline_comments: true
-practice_weight: 10
 ---   
 
 ## ऋक्
