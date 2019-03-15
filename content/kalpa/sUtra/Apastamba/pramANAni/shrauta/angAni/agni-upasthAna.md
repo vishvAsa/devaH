@@ -5,6 +5,8 @@ emphasis_as_inline_comments: true
 practice_weight: 0
 ---
 
+रुद्रदत्तटीखा [ऽत्र](https://archive.org/details/in.ernet.dli.2015.277413/page/n324)। धूर्तस्वाम्य् [अत्र](https://archive.org/details/in.ernet.dli.2015.495870/page/n318)।
+
 [तत्र](../../../../../../brAhmaNa/taittirIya/kriyA/agni-upasthAna/) ब्राह्मणम्।
 
 ## चोदनम्
