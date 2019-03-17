@@ -193,26 +193,33 @@ contents:
             - title: अङ्गानि
               contents:
                 - url: dir://kalpa/sUtra/bodhAyana/pramANAni/shrauta/angAni
-  - title: तैत्तिरीयब्राह्मणम्
+  - title: ब्राह्मणानि
     contents:
-      - title: क्रियाः
+      - title: तैत्तिरीयकम्
         contents:
-          - url: dir://kalpa/brAhmaNa/taittirIya/kriyA
-          - url: dir://kalpa/brAhmaNa/taittirIya/kriyA/abhichAra
-          - title: प्रायश्चित्तानि
+          - title: क्रियाः
             contents:
-              - url: dir://kalpa/brAhmaNa/taittirIya/kriyA/prAyashcitta
-      - title: तत्त्वम्
+              - url: dir://kalpa/brAhmaNa/taittirIya/kriyA
+              - url: dir://kalpa/brAhmaNa/taittirIya/kriyA/abhichAra
+              - title: प्रायश्चित्तानि
+                contents:
+                  - url: dir://kalpa/brAhmaNa/taittirIya/kriyA/prAyashcitta
+          - title: तत्त्वम्
+            contents:
+              - url: dir://kalpa/brAhmaNa/taittirIya/tattva
+      - title: वाजसनेयकम्
         contents:
-          - url: dir://kalpa/brAhmaNa/taittirIya/tattva
-  - title: वाजसनेयब्राह्मणम्
-    contents:
-      - title: क्रियाः
+          - title: क्रियाः
+            contents:
+              - url: dir://kalpa/brAhmaNa/vAjasaneya/kriyA
+          - title: तत्त्वम्
+            contents:
+              - url: dir://kalpa/brAhmaNa/vAjasaneya/tattva
+      - title: ऐतरेयकम्
         contents:
-          - url: dir://kalpa/brAhmaNa/vAjasaneya/kriyA
-      - title: तत्त्वम्
-        contents:
-          - url: dir://kalpa/brAhmaNa/vAjasaneya/tattva
+          - title: तत्त्वम्
+            contents:
+              - url: dir://kalpa/brAhmaNa/aitareya/tattva
   - title: कल्पे ऽस्मन्निश्चयः
     contents:
         - title: प्रवेशः
