@@ -1,6 +1,6 @@
 ---    
 title: दिवस्परि  
-tag: वात्सप्रम्
+tags: [वात्सप्रम्]
 unicode_script: devanagari  
 emphasis_as_inline_comments: true
 ---    
