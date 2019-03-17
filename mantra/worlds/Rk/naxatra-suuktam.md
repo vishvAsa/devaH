@@ -10,7 +10,7 @@ emphasis_as_inline_comments: true
   
 ## कृत्तिकाः
   
-![कृत्ति॑काः](../images/naxatra/kRttikA.png)  
+![कृत्ति॑काः](../../images/naxatra/kRttikA.png)  
 +++(Pleiades)+++
   
 अ॒ग्निर् नᳶ॑ पातु॒ कृत्ति॑काः। नक्ष॑त्रन् दे॒वम् +++(=द्योतमानम्)+++ इ॑न्द्रि॒यम्।  
@@ -26,7 +26,7 @@ emphasis_as_inline_comments: true
   
 ## रोहिणी  
   
-![रोहि॒णी](../images/naxatra/kRttikA.png)  
+![रोहि॒णी](../../images/naxatra/kRttikA.png)  
 +++(Aldebaran। ब्रह्महृदयं = capella = beta taurii खलु रोहिणीशकटे (Taurus-मुखम्) वर्तते।)+++
 
 प्र॒जाप॑ते+++(ः)+++ रोहि॒णी वे॑तु॒ +++(=भुङ्क्ताम्)+++ पत्नी॑। वि॒श्वरू॑पा बृह॒ती चि॒त्रभा॑नुः।  
@@ -40,7 +40,7 @@ emphasis_as_inline_comments: true
   
 ## मृगशीर्षम्
   
-![मृगशीर्षम्](../images/naxatra/mRgashIrSha.png)  
+![मृगशीर्षम्](../../images/naxatra/mRgashIrSha.png)  
 +++(λ, φ Orionis)+++
   
 सोमो॒ राजा॑ मृगशी॒र्॒षेण॒ आगन्न्॑ +++(=आयातु)+++। शि॒वन् नक्ष॑त्रम् प्रि॒यम॑स्य॒ धाम॑।  
@@ -55,7 +55,7 @@ emphasis_as_inline_comments: true
   
 ## आर्द्रा
   
-![आ॒र्द्रा](../images/naxatra/kRttikA.png)  
+![आ॒र्द्रा](../../images/naxatra/kRttikA.png)  
 +++(Betelgeuse)+++
   
 आ॒र्द्रया॑ रु॒द्रᳶ प्रथ॑मान +++(=प्रसिद्ध)+++ एति। श्रेष्ठो॑ दे॒वाना॒म् पति॑र् अघ्नि॒याना॑म् +++(=गवाम्)+++।  
@@ -68,7 +68,7 @@ emphasis_as_inline_comments: true
   
 ## पुनर्वसू  
   
-![पुन॒र्वसू](../images/naxatra/punarvasU.png)  
+![पुन॒र्वसू](../../images/naxatra/punarvasU.png)  
 +++(Castor and Pollux)+++
   
 पुन॑र्नो दे॒व्यदि॑तिस् स्पृणोतु +++(=प्रीणयतु)+++। पुन॒र्वसू नᳶ॒ पुन॒रेता॑य्ँ य॒ज्ञम्।  
@@ -82,7 +82,7 @@ emphasis_as_inline_comments: true
   
 ## तिष्यम्
   
-![तिष्यम्](../images/naxatra/tiShya.png)  
+![तिष्यम्](../../images/naxatra/tiShya.png)  
 +++(γ, δ and θ Cancri)+++
   
 बृह॒स्पति॑ᳶ प्रथ॒मञ्जाय॑मानः। ति॒ष्य॑न्नक्ष॑त्रम् अ॒भि सम्ब॑भूव।  
@@ -96,7 +96,7 @@ emphasis_as_inline_comments: true
   
 ## आश्रेषाः  
   
-![आश्रेषाः](../images/naxatra/AshreShA.png)  
+![आश्रेषाः](../../images/naxatra/AshreShA.png)  
   
 +++(δ, ε, η, ρ, and σ Hydrae)+++  
   
@@ -111,7 +111,7 @@ emphasis_as_inline_comments: true
   
 ## मघा  
   
-![मघा](../images/naxatra/maghA.png)  
+![मघा](../../images/naxatra/maghA.png)  
   
 उप॑हूताᳶ पि॒तरो॒ ये म॒घासु॑ +++(=Regulus)+++। मनो॑जवसस् सु॒कृत॑स् सुकृ॒त्याः।  
 ते नो॒ नक्ष॑त्रे॒ हव॒माग॑मिष्ठाः। स्व॒धाभिर् यज्ञम् प्रय॑तञ् जुषन्ताम्।  
@@ -124,7 +124,7 @@ emphasis_as_inline_comments: true
   
 ---  
   
-![फल्गु॑न्यः](../images/naxatra/maghA.png)  
+![फल्गु॑न्यः](../../images/naxatra/maghA.png)  
   
 गवा॒म् पतिः॒ फल्गु॑नीनामसि॒ +++(=δ+ Leonis)+++ त्वम्। तद॑र्यमन् वरुणमित्र॒ चारु॑।  
 तन् त्वा॑ व॒यꣳ स॑नि॒तारꣳ॑ +++(=दातारं)+++ सनी॒नाम् +++(=दातव्यानाम्)+++। जी॒वा जीव॑न्त॒मुप॒ सव्ँवि॑शेम।  
@@ -136,7 +136,7 @@ emphasis_as_inline_comments: true
   
 ## फल्गुन्यः
   
-![फल्गुन्यः](../images/naxatra/maghA.png)  
+![फल्गुन्यः](../../images/naxatra/maghA.png)  
   
 श्रेष्ठो॑ दे॒वाना॑म् भगवो भगासि।  तत् त्वा॑ विदु॒ᳶ फल्गु॑नी॒स् +++(=Denebola)+++, तस्य॑ वित्तात् +++(=विद्धि)+++।  
 अ॒स्मभ्य॑ङ् क्ष॒त्रम् अ॒जरꣳ॑ सु॒वीर्यम्॑। गोम॒द् अश्व॑व॒द् उप॒सन्नु॑दे॒ह।  
@@ -150,7 +150,7 @@ emphasis_as_inline_comments: true
   
 ## हस्तः
   
-![हस्तः](../images/naxatra/hasta.png)  
+![हस्तः](../../images/naxatra/hasta.png)  
   
 आया॒तु दे॒वस् स॑वि॒तोप॑यातु। हि॒र॒ण्यये॑न सु॒वृता॒ रथे॒न।  
 वह॒न्॒ हस्तꣳ सु॒भग॑व्ँ विद्म॒नाप॑सम् +++(=विदितकर्मणा युक्तम्)+++। प्रयच्छ॑न्त॒म् पपु॑रि॒म् +++(=पूरयितारम्)+++ पुण्य॒म् अच्छ॑ +++(=अभिमुखं वर्तमानम्)+++।  
@@ -163,7 +163,7 @@ emphasis_as_inline_comments: true
   
 ## चित्रा
   
-![चित्रा](../images/naxatra/chitrA.png)  
+![चित्रा](../../images/naxatra/chitrA.png)  
   
 त्वष्टा॒ नक्ष॑त्रम् अ॒भ्ये॑ति चि॒त्राम् +++(=Spica)+++। सु॒भꣳस॑सय्ँ +++(=सुजघनां)+++ युव॒तिꣳ रोच॑मानाम्।  
 नि॒वे॒शय॑न्न् अ॒मृता॒न् मर्त्याꣳ॑श् च। रू॒पाणि॑ पि॒ꣳ॒शन् +++(=निरूपयन्)+++ भुव॑नानि॒ विश्वा॑।  
@@ -176,7 +176,7 @@ emphasis_as_inline_comments: true
   
 ## निष्ट्या
   
-![निष्ट्या॑](../images/naxatra/niShTyA.png)  
+![निष्ट्या॑](../../images/naxatra/niShTyA.png)  
   
 वा॒युर् नक्ष॑त्रम् अ॒भ्ये॑ति॒ निष्ट्या॑म्+++(=Arctrus)+++। ति॒ग्मशृ॑ङ्गो वृष॒भो रोरु॑वाणः।  
 स॒मी॒रय॒न् भुव॑ना मात॒रिश्वा॑। अप॒ द्वेषाꣳ॑सि नुदता॒म् अरा॑तीः।  
@@ -189,7 +189,7 @@ emphasis_as_inline_comments: true
   
 ## विशाखे
   
-![विशा॑खे](../images/naxatra/vishAkhA.png)  
+![विशा॑खे](../../images/naxatra/vishAkhA.png)  
 +++(α, β, γ and ι Librae)+++
   
 दू॒रम् अ॒स्मच्छत्र॑वो यन्तु भी॒ताः। तद् इ॑न्द्रा॒ग्नी कृ॑णुता॒म् तद् विशा॑खे।  
@@ -213,7 +213,7 @@ emphasis_as_inline_comments: true
   
 ## अनूराधाः
   
-![अ॒नू॒रा॒धाः](../images/naxatra/anUrAdhAH.png)  
+![अ॒नू॒रा॒धाः](../../images/naxatra/anUrAdhAH.png)  
 +++(β, δ and π Scorpionis)+++
   
 ऋ॒द्ध्यास्म॑ ह॒व्यैर्न॑मसो॒पसद्य॑,, 
@@ -228,7 +228,7 @@ emphasis_as_inline_comments: true
   
 ## ज्येष्ठा
   
-![ज्येष्ठा](../images/naxatra/anUrAdhAH.png)  
+![ज्येष्ठा](../../images/naxatra/anUrAdhAH.png)  
 +++(α, σ, and τ Scorpionis)+++
   
 इन्द्रो॑ ज्ये॒ष्ठामनु॒ नक्ष॑त्रमेति। यस्मि॑न् वृ॒त्रव्ँ वृ॑त्र॒तूरर्ये॑ +++(=वृत्रवधे)+++ त॒तार॑।  
@@ -242,7 +242,7 @@ emphasis_as_inline_comments: true
   
 ## मूलम्
   
-![](../images/naxatra/anUrAdhAH.png)  
+![](../../images/naxatra/anUrAdhAH.png)  
 +++(ε, ζ, η, θ, ι, κ, λ, μ and ν Scorpionis। मूलायाङ्खल्व् आकाशगङ्गाकेन्द्रम् अपि वर्तते!)+++
 
 मूल॑म् प्र॒जाव्ँ वी॒रव॑तीव्ँ विदेय+++(लभेय)+++। परा॑च्य्+++(=प्राङ्मुख्य्)+++ एतु॒ निरृ॑तिᳶ परा॒चा +++(मार्गेण)+++।  
@@ -256,7 +256,7 @@ emphasis_as_inline_comments: true
   
 ## अषाढाः पूर्वाः
   
-![](../images/naxatra/aShADhAH.png)  
+![](../../images/naxatra/aShADhAH.png)  
 +++(δ and ε Sagittarii)+++
   
 या दि॒व्या आपᳶ॒ पय॑सा सम्बभू॒वुः। या अ॒न्तरि॑क्ष उ॒त पार्थि॑वी॒र् याः।  
@@ -270,7 +270,7 @@ emphasis_as_inline_comments: true
   
 ## अषाढाः उत्तराः
   
-![](../images/naxatra/aShADhAH.png)  
+![](../../images/naxatra/aShADhAH.png)  
 +++(ζ and σ Sagittarii)+++
   
 तन् नो॒ विश्वे॒ उप॑ शृण्वन्तु दे॒वाः। तद॑षा॒ढा अ॒भिसंय॑न्तु य॒ज्ञम्।  
@@ -284,7 +284,7 @@ emphasis_as_inline_comments: true
   
 ## अभिजित्
 
-![](../images/naxatra/abhijit.png)  
+![](../../images/naxatra/abhijit.png)  
 +++(ζ and σ Lyra)+++
   
 यस्मि॒न् ब्रह्मा॒भ्यज॑य॒त् सर्व॑मे॒तत्। अ॒मुञ्च॑ लो॒कमि॒दमू॑ च॒ सर्वम्॑।  
@@ -298,7 +298,7 @@ emphasis_as_inline_comments: true
   
 ## श्रोणा
   
-![](../images/naxatra/shroNA.png)  
+![](../../images/naxatra/shroNA.png)  
 +++(α, β and γ Aquilae)+++
   
 शृ॒ण्वन्ति॑ श्रो॒णाम॒मृत॑स्य गो॒पाम्। पुण्या॑मस्या॒ उप॑शृणोमि॒ वाचम्॑।  
@@ -312,7 +312,7 @@ emphasis_as_inline_comments: true
   
 ## धनिष्ठाः/ श्रविष्ठाः
   
-![](../images/naxatra/dhaniShThA.svg)  
+![](../../images/naxatra/dhaniShThA.svg)  
 +++(α to δ Delphini)+++
   
 अ॒ष्टौ दे॒वा वस॑वस्सो॒म्यासः॑। चत॑स्रो दे॒वीर॒जराः॒ श्रवि॑ष्ठाः।  
@@ -326,7 +326,7 @@ emphasis_as_inline_comments: true
   
 ## शतभिषग्
   
-![](../images/naxatra/shatabhiShaj.png)  
+![](../../images/naxatra/shatabhiShaj.png)  
 +++(Sadachbia, γ Aquarii)+++
   
 क्ष॒त्रस्य॒ राजा॒ वरु॑णोऽधिरा॒जः। नक्ष॑त्राणाꣳ श॒तभि॑ष॒ग् वसि॑ष्ठः।  
@@ -340,7 +340,7 @@ emphasis_as_inline_comments: true
   
 ## प्रोष्ठपदाः पूर्वाः
   
-![](../images/naxatra/proShThapada.png)  
+![](../../images/naxatra/proShThapada.png)  
 +++(α and β Pegasi)+++
   
 अ॒ज एक॑पा॒दुद॑गात्पु॒रस्ता॑त्। विश्वा॑ भू॒तानि॑ प्रति॒ मोद॑मानः।  
@@ -354,7 +354,7 @@ emphasis_as_inline_comments: true
   
 ## प्रोष्ठपदाः उत्तराः  
   
-![](../images/naxatra/proShThapada.png)  
+![](../../images/naxatra/proShThapada.png)  
 +++(γ Pegasi and α Andromedae)+++
   
 अहि॑र् बु॒ध्नियᳶ॒ प्रथ॑मान एति। श्रेष्ठो॑ दे॒वाना॑मु॒त मानु॑षाणाम्।  
@@ -366,7 +366,7 @@ emphasis_as_inline_comments: true
   
 ## रेवती
   
-![](../images/naxatra/revatI.png)  
+![](../../images/naxatra/revatI.png)  
 +++(ζ Piscium)+++
   
 पू॒षा रे॒वत्यन्वे॑ति॒ पन्था॑म्। पु॒ष्टि॒पती॑ पशु॒पा वाज॑बस्त्यौ।  
@@ -380,7 +380,7 @@ emphasis_as_inline_comments: true
   
 ## अश्विनौ
   
-![](../images/naxatra/ashvinau.png)  
+![](../../images/naxatra/ashvinau.png)  
 +++(β and γ Arietis)+++
   
 तद॒श्विना॑वश्व॒युजोप॑याताम्। शुभ॒ङ्गमि॑ष्ठौ सु॒यमे॑भि॒रश्वैः॑।  
@@ -393,7 +393,7 @@ emphasis_as_inline_comments: true
   
 ## भरणी
   
-![](../images/naxatra/bharaNI.png)  
+![](../../images/naxatra/bharaNI.png)  
 +++(35, 39, and 41 Arietis)+++
   
 अप॑ पा॒प्मान॒म् भर॑णीर् +++(=35, 39, 41 Arietis)+++ भरन्तु। तद्य॒मो राजा॒ भग॑वा॒न्॒ विच॑ष्टाम्।  
