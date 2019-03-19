@@ -48,11 +48,6 @@ title: शिक्षा
 - माध्यन्दिनेषु
     - [अत्र](https://www.youtube.com/watch?v=y_C6H6b5xTI&feature=youtu.be)।  
 
-## लेखने
-
-- गद्य-लेखने सन्धिनियमपालने च रिक्तस्थानयोजने [अत्र](https://groups.google.com/d/msg/padyadhaaraa/ZY406Vm81I4/bfTFd1omfJUJ), [अत्र](https://groups.google.com/d/msg/bvparishat/69maR5wwmKw/6Fcm5fL2BgAJ) च। "गतानुगतिको लोकः न कश्चित् पारमार्थिकः"। "पुराणमित्येव न साधु सर्वम्"।
-
-
 ## परम्पराविशेषाः
 - बहुत्र सूक्ष्मभेदानां केषाञ्चन प्रातिशाख्यादौ न वर्तते प्रमाणम्।
 - माध्यन्दिन-शाखायाम्
