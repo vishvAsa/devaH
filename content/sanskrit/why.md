@@ -1,3 +1,7 @@
+---
+title: Why?
+---
+
 ![](http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Devimahatmya_Sanskrit_MS_Nepal_11c.jpg/400px-Devimahatmya_Sanskrit_MS_Nepal_11c.jpg)
 
 
