@@ -273,6 +273,9 @@ contents:
       - title: शिक्षा
         contents:
           - url: dir://sanskrit/shixaa/
+          - title: स्वराः
+            contents:
+              - url: dir://sanskrit/shixaa/svara/
           - title: Reciting and Recording
             url: "https://sanskrit.github.io/projects/audio/tips/"
   - title: प्रकीर्णम्
