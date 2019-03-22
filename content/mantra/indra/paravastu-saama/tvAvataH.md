@@ -6,7 +6,7 @@ emphasis_as_inline_comments: true
 
 ## ऋक्
 
-+++([सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis/page/n473) कौथुमभाष्ये। वारुणिः सत्यधृतिः, वत्सः च। मित्रः वरुणः अर्यमा इन्द्रः।])+++
++++([सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n473) कौथुमभाष्ये। वारुणिः सत्यधृतिः, वत्सः च। मित्रः वरुणः अर्यमा इन्द्रः।])+++
 
 १ २ २ १००९  
 त्वावतः+++(=त्वादृशस्य)+++ पुरूवसो वयमिन्द्र प्रणेतः  ।  

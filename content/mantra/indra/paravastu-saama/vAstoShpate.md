@@ -6,7 +6,7 @@ emphasis_as_inline_comments: true
 
 ## ऋक्
 
-+++([कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis/page/n623&sa=D&ust=1542425956279000) १ ३ २ ०९०३। इरिमिठः। इन्द्रः।])+++
++++([कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n623&sa=D&ust=1542425956279000) १ ३ २ ०९०३। इरिमिठः। इन्द्रः।])+++
 
 वास्तोष्पते +++(=गृहपते)+++ ध्रुवा स्थूणा +++(=गृहाधारभूतस्तम्भाः)+++ अंसत्रं सोम्यानाम्  +++(=सोमार्हानाम्)+++।  
 द्रप्सः +++(=द्रवणशीलः)+++ पुरां भेत्ता शश्वतीनामिन्द्रो मुनीनां सखा  । । २७५
@@ -16,7 +16,7 @@ emphasis_as_inline_comments: true
 
 ## साम १
 
-- पारम्परिक-गान-मूलम् [१९३७-लेखा](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n9/mode/1up&sa=D&ust=1542425956279000)। [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n9/mode/1up&sa=D&ust=1542425956279000)। [२०१५-लेखा](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/VIVAAHA%20UPANAYANA%20SAAMAANI#page/n4/mode/1up&sa=D&ust=1542425956280000)। कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis/page/n623&sa=D&ust=1542425956280000)।
+- पारम्परिक-गान-मूलम् [१९३७-लेखा](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n9/mode/1up&sa=D&ust=1542425956279000)। [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n9/mode/1up&sa=D&ust=1542425956279000)। [२०१५-लेखा](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/VIVAAHA%20UPANAYANA%20SAAMAANI#page/n4/mode/1up&sa=D&ust=1542425956280000)। कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n623&sa=D&ust=1542425956280000)।
 
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 , द्वितीयसाम्नि दोषः" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/vAstoShpate-dhruva.mp3"></div>

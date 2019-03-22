@@ -8,7 +8,7 @@ emphasis_as_inline_comments: true
 
 १ १ २ ०७०७
 
-+++([सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis/page/n247&sa=D&ust=1542564218916000) कौथुमभाष्ये। । इन्द्रः।])+++
++++([सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n247&sa=D&ust=1542564218916000) कौथुमभाष्ये। । इन्द्रः।])+++
 
 विश्वतो दावन् +++(=दानवान् छेदनवान् वा)+++ विश्वतो न आ भर यं त्वा शविष्ठमीमहे।
 

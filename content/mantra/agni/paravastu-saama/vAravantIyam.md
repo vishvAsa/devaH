@@ -5,7 +5,7 @@ emphasis_as_inline_comments: true
 ---   
 
 ## ऋक्
-सायणः कौथुमभाष्ये [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis/page/n155)। शुनःशेपः। अग्निः।
+सायणः कौथुमभाष्ये [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n155)। शुनःशेपः। अग्निः।
 
 १ १ १ ०२०७  
 अश्वं न त्वा वार+++(=ल)+++वन्तं वन्दध्यै +++(=वन्दितुम्)+++ +अग्निं नमोभिः।  
