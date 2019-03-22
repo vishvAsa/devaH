@@ -7,7 +7,7 @@ practice_weight: 10
 
 ## ऋक्
 
-+++([सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis/page/n941) कौथुमभाष्ये। वसिष्ठः। द्विपदा। मरुतः।])+++
++++([सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n941) कौथुमभाष्ये। वसिष्ठः। द्विपदा। मरुतः।])+++
 
 १ ५ १ ०५०७  
 क+++(य्)+++ ईं व्यक्ता नरः+++(=नेतारः)+++ सनीडा रुद्रस्य मर्या+++(=मर्त्येभ्यो [हिताः])+++ अथ स्वश्वाः॥

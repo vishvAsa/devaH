@@ -6,7 +6,7 @@ emphasis_as_inline_comments: true
 
 ## ऋक्
 
-+++([कौथुमभाष्ये सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis/page/n782&sa=D&ust=1542425956285000)। भरद्वाजः। इन्द्रः।])+++
++++([कौथुमभाष्ये सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n782&sa=D&ust=1542425956285000)। भरद्वाजः। इन्द्रः।])+++
 
 +++(अध्वर्यो!)+++ प्र¹त्य²स्मै³ पि¹पी²षते³ वि¹श्वा²नि वि³दु¹षे² भर।  
 अ³र+++(ल)+++ङ्गमा²य³ ज²ग्म³ये¹ +++(=गमनशीलाय)+++  ऽप²श्चादध्व³ने¹ +++(=पुरोगाय)+++ न²रः ।।352 ।।

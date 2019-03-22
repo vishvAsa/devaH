@@ -6,7 +6,7 @@ emphasis_as_inline_comments: true
 
 ## ऋक्
 
-+++([सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis/page/n257) कौथुमभाष्ये। बुधश्च गविष्टिरश्च। अग्निः।])+++
++++([सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n257) कौथुमभाष्ये। बुधश्च गविष्टिरश्च। अग्निः।])+++
 
 १ १ २ ०८०१   
 अबोध्यग्निः समिधा जनानां प्रति  

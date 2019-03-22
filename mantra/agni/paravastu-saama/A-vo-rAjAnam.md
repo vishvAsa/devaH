@@ -8,7 +8,7 @@ emphasis_as_inline_comments: true
 
 १ १ २ ०७०७
 
-+++([सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis/page/n247&sa=D&ust=1542564218916000) कौथुमभाष्ये। वामदेवः।अग्निः])+++
++++([सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n247&sa=D&ust=1542564218916000) कौथुमभाष्ये। वामदेवः।अग्निः])+++
 
 आ वो राजानमध्वरस्य रुद्रं होतारं सत्ययजं रोदस्योः  ।  
 अग्निं पुरा +++(आकस्मिकात्)+++ तनयित्नोर् +++(=विद्युतः)+++ अचित्ताद् +++(मरणात्)+++ +हिरण्यरूपम् अवसे कृणुध्वम्  ।

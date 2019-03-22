@@ -6,7 +6,7 @@ emphasis_as_inline_comments: true
 
 ## ऋक्
 
-+++([सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis/page/n151) कौथुमभाष्ये। शुनशेपः। अग्निः।])+++
++++([सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n151) कौथुमभाष्ये। शुनशेपः। अग्निः।])+++
 
 १ १ १ ०२०५  
 जरा+++(=स्तुति)+++बोध तद् विविड्ढि+++(=प्रविश)+++ विशेविशे यज्ञियाय।  

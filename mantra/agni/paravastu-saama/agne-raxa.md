@@ -6,7 +6,7 @@ emphasis_as_inline_comments: true
 
 ## ऋक्
 
-१ १ १ ०३०४ +++([सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis/page/n169&sa=D&ust=1542425956389000) कौथुमभाष्ये। वसिष्ठः।अग्निः])+++
+१ १ १ ०३०४ +++([सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n169&sa=D&ust=1542425956389000) कौथुमभाष्ये। वसिष्ठः।अग्निः])+++
 
 धर्मः अधर्मः विधर्मः सत्यं गाय। ऋतं वद।
 

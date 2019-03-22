@@ -8,7 +8,7 @@ emphasis_as_inline_comments: true
 
 १ ३ २ ०७०३  
 
-+++([सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis/page/n581&sa=D&ust=1542425956431000) कौथुमभाष्ये। जमदग्निः। मित्रः, अर्यमा, वरुणः।])+++
++++([सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n581&sa=D&ust=1542425956431000) कौथुमभाष्ये। जमदग्निः। मित्रः, अर्यमा, वरुणः।])+++
 
 प्र मि॒त्राय प्र अ॑र्य॒म्णे स॑च॒थ्य॑म् +++(=सेवार्हम्)+++ ऋतावसो +++(=ऋतधन)+++ ।  
 वरू॒थ्ये३ +++(वरू॒थ्य॑म्=यज्ञागारस्थम् इति ऋग्वेदे)+++ वरु॑णे छन्द्य॑म् +++(=छान्दसम्)+++ वचः  स्तो॒त्रं राज॑सु गायत ।
@@ -17,7 +17,7 @@ emphasis_as_inline_comments: true
 
 ## साम १
 
-- पारम्परिक-गान-मूलम् [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n1/mode/1up&sa=D&ust=1542425956431000)। कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis/page/n581&sa=D&ust=1542425956432000)।
+- पारम्परिक-गान-मूलम् [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n1/mode/1up&sa=D&ust=1542425956431000)। कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n581&sa=D&ust=1542425956432000)।
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/varuNa-sUktam-1.mp3"></div>
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive

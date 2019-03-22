@@ -7,7 +7,7 @@ practice_weight: 10
 
 ## ऋक्
 
-+++([सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis/page/n151) कौथुमभाष्ये। शुनशेपः। सोमः।])+++
++++([सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n151) कौथुमभाष्ये। शुनशेपः। सोमः।])+++
 
 १ ६ २ ०८०३  
 सखाय आ नि षीदत पुनानाय प्र गायत।  
