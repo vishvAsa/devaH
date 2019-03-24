@@ -6,17 +6,8 @@ practice_weight: 10
 ---   
 
 ## ऋक्
+<div class="js_include" url="../Rk/mUrdhAnam-divaH"  newLevelForH1="2" includeTitle="true"> </div>  
 
-१ १ २ ०७०५  
-कौथुमभाष्ये सायणो [ऽर्त](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n244)। भारद्वाजः। अग्निः।
-
-मू³र्धा¹नं² दि³वो¹ अ²र³तिं¹ +++(=गन्तारम्)+++ पृ²थि³व्या¹ वै²श्वान³र²मृ³त²ᴿ+++(य्)+++ आ जा³त²म³ग्नि²म्।  
-क³वि²ᳱ स³म्रा²ज³म¹ति²थिं³ ज¹ना²नामा³स²न् +++(=आस्यं)+++ नः³ पा¹त्रं² जनयन्त दे³वाः²।।1 ।।
-
-मूर्धानं दिवो अरतिं पृथिव्या वैश्वानरमृत आ जातमग्निम्  ।   
-कविं सम्राजमतिथिं जनानामासन् नः पात्रं जनयन्त देवाः॥
-
-![](../../images/agni-bellied-sun-lighting-up-the-bottom-of-the-clouds.jpg)
 
 
 ## साम १
@@ -25,19 +16,7 @@ practice_weight: 10
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/mUrdhAnam-divaH-1.mp3"></div>
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/mUrdhAnam-divaH-1.mp3"></div>
-<div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1x" src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018/mUrdhAnam-divaH-1.mp3"></div>
-<div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1.5x" src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018-150p-speed/mUrdhAnam-divaH-1.mp3"></div>
 
-मू+++(["पो])+++र्धो+++("%३)+++,हाइ,,नन्+++([गे])+++दा+++(%)+++इवा+++(३)+++ह+++(v)+++।  
-अ+++([त])+++रताइम्, पॄ+++([तः]"२)+++थीव्याह+++(")+++ ।  
-वै+++(%["र])+++श्,वा+++(["])+++नरा+++(--%३)+++म्। ऋ+++([र])+++ता+++(%)+++ आ+++(["]--%३)+++।  
-जा+++(["प]३)+++ता+++(३)+++मग्नि+++(%)+++म्।  
-का+++([र])+++विं सम्रा+++(%)+++जम् +अतिथा+++(["]%३)+++इम्।  
-जा+++([पॣः]१~~जॆ~~)+++आ+++(%)+++ना+++(--%३)+++,अनाम्।  
-आ+++(["र]v)+++सन् नः पा+++(-"३)+++त्रा+++([रा]")+++,
-अञ् जना,,या+++([पै]-%-%-४)+++,,न्ता+++([पॄ]")+++अ दा+++(")+++इ,वाङ+++(")+++,ङाहा+++(v)+++ ॥
 
 ## साम २
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive

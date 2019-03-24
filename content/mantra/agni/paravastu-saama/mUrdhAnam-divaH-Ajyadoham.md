@@ -1,0 +1,74 @@
+---
+title: मूर्धानं दिवः - आज्यदोहम् 
+unicode_script: devanagari  
+emphasis_as_inline_comments: true
+practice_weight: 10
+---   
+
+## ऋक्
+<div class="js_include" url="../Rk/mUrdhAnam-divaH"  newLevelForH1="2" includeTitle="true"> </div>  
+
+
+
+## साम १
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/mUrdhAnam-divaH-Ajyadoha-jyeShTha.mp3"></div>
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/mUrdhAnam-divaH-Ajyadoha-jyeShTha.mp3"></div>
+
+आज्यदोहं ज्येष्ठसाम ॥  
+हा+++([])+++उ ॥ त्रिः ॥  
+आ+++([])+++ज्या,दोहअम् ॥ त्रिः ॥  
+मू+++([])+++र्धानं दाइ,वा+++([])+++,  
+आआरा,तिं+++([])+++ पृथिव्याः ।  
+वै+++([])+++श्वानरां ।  
+ऋ+++([])+++ता, आ ।  
+जा+++([])+++ता,मग्निइं।  
+का+++([])+++विं, सम्रा,जा+++([])+++अमाति,थिं+++([])+++जेनानाअम् ।  
+आ+++([])+++,संन्नः पा,,त्रा, अं+++([])+++जॆना,,यं+++([])+++ता, देवाः।  
+हा+++([])+++उ ॥ त्रिः ॥  
+आ+++([])+++ज्या, दोहअम् ॥ द्विः ॥  
+आ+++([])+++ज्यादो, ओ, हउ । वा+++([])+++अ ॥  
+ए+++([])+++ए । आ+++([])+++ज्यदोहम् ॥ एवं द्विः ॥  
+ए+++([])+++ए । आ+++([])+++ज्यदो, हाअअअम् ॥ ७ ॥
+
+## साम
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/mUrdhAnam-divaH-Ajyadoha-Inidhana.mp3"></div>
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/mUrdhAnam-divaH-Ajyadoha-Inidhana.mp3"></div>
+
+ईनिधनमाज्यदोहम् ॥  
+हा+++([])+++उ ॥ त्रिः ॥  
+ही,इं+++([])+++चिदो,हम्। चि+++([])+++दो, हम् ॥ द्विः ॥  
+मू+++([])+++र्धा,नं दाइ,वा+++([])+++, आआरा,,तिं+++([])+++पृथिव्याः ।  
+वै+++([])+++श्वानराम् ।  
+ऋ+++([])+++ता, आ ।  
+जा+++([])+++,ता, मग्निइं ।  
+का+++([])+++विं, सम्रा,जा+++([])+++,अमाति,थिं+++([])+++ जे,नानाअं।  
+आ+++([])+++,संन्नः पा,त्रा,अं+++([])+++ जॆना,यं+++([])+++ता, देवाः ।  
+हा+++([])+++उ ॥ त्रिः ॥  
+ही, इं+++([])+++चिदोहम् । चि+++([])+++दोहम् ।  
+चि+++([])+++दो, ओ+++([])+++ह उ । वा+++([])+++अ ।  
+ई+++([])+++इ ॥ ७ ॥
+
+## साम
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/mUrdhAnam-divaH-Ajyadoha-Rtanidhana.mp3"></div>
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/mUrdhAnam-divaH-Ajyadoha-Rtanidhana.mp3"></div>
+
+ऋतनिधनमाज्यदोहम् ॥  
+हा+++([])+++उ ॥ त्रिः ॥  
+च्यो+++([])+++हम् ॥ त्रिः ॥  
+मू+++([])+++र्धा,नं दाइ,वा+++([])+++,आआरा,,तिं+++([])+++पृधिव्याः ।  
+वै+++([])+++श्वानराम् ।  
+ऋ+++([])+++ता, आ ।  
+जा+++([])+++,ता,मग्निइं ।  
+का+++([])+++विं, सम्रा,जा+++([])+++,अमाति,थिं+++([])+++ जे,नानाअम् ।  
+आ+++([])+++,संन्नः पा,त्रा, अं+++([])+++ जेना,यन्+++([])+++ता, देवाः ।  
+हा+++([])+++उ ॥ त्रिः ॥  
+च्यो+++([])+++,हम् ॥ द्विः ॥  
+च्यो+++([])+++,ओ, हउ । वा+++([])+++अ ।  
+ए+++([])+++ए । ऋ+++([])+++तम् ॥ ७ ॥
+
