@@ -2,7 +2,6 @@
 title: क ईं व्यक्ताः
 unicode_script: devanagari  
 emphasis_as_inline_comments: true
-practice_weight: 10
 ---   
 
 ## ऋक्
