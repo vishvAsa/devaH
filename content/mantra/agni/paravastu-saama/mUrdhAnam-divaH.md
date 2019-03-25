@@ -2,11 +2,10 @@
 title: मूर्धानं दिवः 
 unicode_script: devanagari  
 emphasis_as_inline_comments: true
-practice_weight: 10
 ---   
 
 ## ऋक्
-<div class="js_include" url="../Rk/mUrdhAnam-divaH"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../Rk/mUrdhAnam-divaH.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
 
 
