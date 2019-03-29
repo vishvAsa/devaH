@@ -1,5 +1,5 @@
 ---
-title: वामदेव्यम् पञ्चनिधनम्
+title: वामदेव्यम् - अस्मिन्
 unicode_script: devanagari
 emphasis_as_inline_comments: true
 practice_weight: 0

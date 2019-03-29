@@ -1,5 +1,5 @@
 ---
-title: पिब मत्स्व - महावैराजम्  
+title: पिब मत्स्व - वैराज-ऋषभम्  
 unicode_script: devanagari  
 emphasis_as_inline_comments: true
 ---   
@@ -8,8 +8,8 @@ emphasis_as_inline_comments: true
 
 
 <div class="js_include" url="../Rk/piba-somam.md"  newLevelForH1="2" includeTitle="true"> </div>  
-![](../../images/indra-squeezing-soma-into-mouth.jpg)
 
+![](../../images/indra-squeezing-soma-into-mouth.jpg)
 
 ## साम
 
