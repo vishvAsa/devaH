@@ -7,6 +7,8 @@ emphasis_as_inline_comments: true
 ## ऋक्
 <div class="js_include" url="../Rk/yadindrAham.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
+अग्निराहुतः - स्वर् महः +++(=यज्ञः)+++।
+
 
 ## साम
 

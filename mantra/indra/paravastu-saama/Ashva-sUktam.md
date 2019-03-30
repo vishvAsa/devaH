@@ -8,6 +8,7 @@ emphasis_as_inline_comments: true
 
 <div class="js_include" url="../Rk/yadindrAham.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
+शुक्र आहुतः - स्वर्मयः।
 
 ## साम
 
