@@ -4,6 +4,8 @@ unicode_script: devanagari
 emphasis_as_inline_comments: true
 ---
 
+<div name="manualRedirectionDiv"/>
+
 <script>
 function getSelectionWeight(url) {
   if (!url.startsWith("/mantra/") || !url.includes("/paravastu-saama/") || url.includes("/sangrahAH/") || url.includes("/meta/")) {
@@ -16,5 +18,5 @@ function getSelectionWeight(url) {
   return pageParams.practice_weight;
 }
 
-redirectToRandomPage(getSelectionWeight);
+redirectToRandomPage(getSelectionWeight, document.getElementsByName("manualRedirectionDiv"));
 </script>
