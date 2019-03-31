@@ -11,11 +11,7 @@ emphasis_as_inline_comments: true
 <div class="js_include" url="../Rk/piba-somam.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
 
-
-मत्स्व! ओजो सहो बलम् इन्द्रो बृहद् ऋतं स्वर् दधे।  
 सधं मे। ऋतं मे। पिब मत्स्व!
-
-![](../../images/indra-squeezing-soma-into-mouth.jpg)
 
 
 ## साम
