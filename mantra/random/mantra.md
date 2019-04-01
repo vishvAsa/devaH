@@ -8,10 +8,11 @@ emphasis_as_inline_comments: true
 
 <script>
 function getSelectionWeight(url) {
-  if (!url.startsWith("/mantra/") || url.includes("/sangrahAH/") || url.includes("/meta/")) {
+  var cleanedUrl = url.replace("//", "/");
+  if (!cleanedUrl.startsWith("/mantra/") || cleanedUrl.includes("/sangrahAH/") || cleanedUrl.includes("/meta/")) {
     return 0;
   }
-  let pageParams = pageUrlToParams.get(url);
+  let pageParams = pageUrlToParams.get(cleanedUrl);
   if (!pageParams || !pageParams.hasOwnProperty("practice_weight")) {
     return 1;
   }
