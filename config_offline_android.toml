@@ -1,4 +1,4 @@
-baseURL = "file:///storage/emulated/0/notesData/saMskAra"
+baseURL = "file:///storage/emulated/0/notesData/saMskAra/"
 languageCode = "en-us"
 title = "संस्कारे विश्वासटिप्पणयः"
 theme = "sanskrit-documentation-theme-hugo"
