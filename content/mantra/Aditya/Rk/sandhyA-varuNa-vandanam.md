@@ -1,5 +1,5 @@
 ---
-title: वरुणवन्धनं सन्ध्यायाम्
+title: वरुणवन्दनं सन्ध्यायाम्
 devatAH: वरुणः
 unicode_script: devanagari
 emphasis_as_inline_comments: true
