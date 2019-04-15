@@ -197,6 +197,7 @@ contents:
     contents:
       - title: तैत्तिरीयकम्
         contents:
+          - url: dir://kalpa/brAhmaNa/taittirIya/
           - title: क्रियाः
             contents:
               - url: dir://kalpa/brAhmaNa/taittirIya/kriyA
@@ -209,6 +210,7 @@ contents:
               - url: dir://kalpa/brAhmaNa/taittirIya/tattva
       - title: वाजसनेयकम्
         contents:
+          - url: dir://kalpa/brAhmaNa/vAjasaneya/
           - title: क्रियाः
             contents:
               - url: dir://kalpa/brAhmaNa/vAjasaneya/kriyA
@@ -217,9 +219,16 @@ contents:
               - url: dir://kalpa/brAhmaNa/vAjasaneya/tattva
       - title: ऐतरेयकम्
         contents:
+          - url: dir://kalpa/brAhmaNa/aitareya/
           - title: तत्त्वम्
             contents:
               - url: dir://kalpa/brAhmaNa/aitareya/tattva
+      - title: काठकम्
+        contents:
+          - url: dir://kalpa/brAhmaNa/kAThaka/
+          - title: तत्त्वम्
+            contents:
+              - url: dir://kalpa/brAhmaNa/kAThaka/tattva
   - title: कल्पे ऽस्मन्निश्चयः
     contents:
         - title: प्रवेशः
