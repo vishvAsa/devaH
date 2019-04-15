@@ -3,6 +3,8 @@ title: जगतो वेदमूलता
 unicode_script: devanagari
 ---
 
+सायणो [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_037_Taittiriya_Brahmanam_with_Sayanabhashya_Part_3_-_Narayanasastri_Godbole_1898#page/n281/mode/2up)।
+
 ऋ॒चां प्राची॑ मह॒ती दिगु॑च्यते ।  
 दक्षि॑णामाहु॒र् यजु॑षाम् अपा॒राम् ।  
 अथ॑र्वणा॒म् अङ्गि॑रसां प्र॒तीची॑ ।  
