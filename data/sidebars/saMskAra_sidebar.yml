@@ -131,6 +131,7 @@ contents:
         - url: dir://mantra/meta/
   - title: कल्पः आपस्तम्बोक्तः
     contents:
+      - url: /kalpa/sUtra/Apastamba/
       - title: संस्काराः
         contents:
           - url: dir://kalpa/sUtra/Apastamba/saMskAra
@@ -139,8 +140,10 @@ contents:
           - url: dir://kalpa/sUtra/Apastamba/
       - title: सूत्राणि
         contents:
+          - url: dir://kalpa/sUtra/Apastamba/pramANAni/
           - title: धर्मसूत्राणि
             contents:
+              - url: dir://kalpa/sUtra/Apastamba/pramANAni/dharma-sUtra/
               - title: क्रियाः
                 contents:
                   - title: अर्हणम्
@@ -161,6 +164,7 @@ contents:
                   - url: dir://kalpa/sUtra/Apastamba/pramANAni/dharma-sUtra/tattvAni
           - title: गृह्यसूत्राणि
             contents:
+              - url: dir://kalpa/sUtra/Apastamba/pramANAni/gRhya/
               - title: अङ्गानि
                 contents:
                   - url: dir://kalpa/sUtra/Apastamba/pramANAni/gRhya/angAni
@@ -172,6 +176,7 @@ contents:
                       - url: dir://kalpa/sUtra/Apastamba/pramANAni/gRhya/karmANi/shrAddha
           - title: श्रौतसूत्राणि
             contents:
+              - url: dir://kalpa/sUtra/Apastamba/pramANAni/shrauta/
               - title: अङ्गानि
                 contents:
                   - url: dir://kalpa/sUtra/Apastamba/pramANAni/shrauta/angAni
@@ -186,6 +191,7 @@ contents:
         - url: dir://kalpa/sUtra/bodhAyana
         - title: गृह्यसूत्राणि
           contents:
+            - url: dir://kalpa/sUtra/bodhAyana/pramANAni/
             - url: dir://kalpa/sUtra/bodhAyana/pramANAni/gRhya/tattvAni
             - url: dir://kalpa/sUtra/bodhAyana/pramANAni/gRhya/karmANi
         - title: श्रौतसूत्राणि
@@ -195,6 +201,7 @@ contents:
                 - url: dir://kalpa/sUtra/bodhAyana/pramANAni/shrauta/angAni
   - title: ब्राह्मणानि
     contents:
+      - url: dir://kalpa/brAhmaNa/
       - title: तैत्तिरीयकम्
         contents:
           - url: dir://kalpa/brAhmaNa/taittirIya/

@@ -1,5 +1,5 @@
 ---    
-title: _आराधनम् 
+title: _क्रियाः 
 unicode_script: devanagari  
 ---    
 
