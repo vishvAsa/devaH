@@ -9,7 +9,7 @@ emphasis_as_inline_comments: true
 <script>
 function getSelectionWeight(url) {
   var cleanedUrl = url.replace("//", "/");
-  if (!cleanedUrl.startsWith("/mantra/") || !cleanedUrl.includes("/paravastu-saama/") || cleanedUrl.includes("/sangrahAH/") || cleanedUrl.includes("/meta/")) {
+  if (!cleanedUrl.startsWith("/mantra/") || !cleanedUrl.includes("/paravastu-saama/") || cleanedUrl.includes("/sangrahAH/") || cleanedUrl.includes("/meta/") || pageFileParams.logicalName == "_index.md") {
     return 0;
   }
   let pageParams = pageUrlToParams.get(cleanedUrl);
