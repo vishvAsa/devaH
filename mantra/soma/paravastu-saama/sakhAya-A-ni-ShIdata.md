@@ -10,6 +10,12 @@ practice_weight: 10
 +++([सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n151) कौथुमभाष्ये। शुनशेपः। सोमः।])+++
 
 १ ६ २ ०८०३  
+
+स¹खा²य³ आ¹ नि षी²ᴿदत  
+पुना³ना²य³ प्र¹ गा²यत।  
+शि²शुं³ न² य³ज्ञैः¹  
+परि²ᴿ भूषत श्रि³ये² ।।568 ।।
+
 सखाय आ नि षीदत पुनानाय प्र गायत।  
 शिशुं न यज्ञैः परि भूषत श्रिये ॥
 
