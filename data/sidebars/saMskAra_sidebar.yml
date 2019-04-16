@@ -189,9 +189,9 @@ contents:
   - title: कल्पः बोधयनोक्तः
     contents:
         - url: dir://kalpa/sUtra/bodhAyana
+        - url: dir://kalpa/sUtra/bodhAyana/pramANAni/
         - title: गृह्यसूत्राणि
           contents:
-            - url: dir://kalpa/sUtra/bodhAyana/pramANAni/
             - url: dir://kalpa/sUtra/bodhAyana/pramANAni/gRhya/tattvAni
             - url: dir://kalpa/sUtra/bodhAyana/pramANAni/gRhya/karmANi
         - title: श्रौतसूत्राणि
