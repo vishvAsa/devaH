@@ -1,5 +1,5 @@
 ---
-title: आदित्याः
+title: _आदित्याः
 ---
 
 {{< figure src="images/savitR_SunEarthGravityGrid.jpg" title="" >}}

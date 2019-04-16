@@ -1,5 +1,5 @@
 ---  
-title: होमः  
+title: _होमः  
 unicode_script: devanagari  
 emphasis_as_inline_comments: true
 ---  

@@ -1,5 +1,5 @@
 ---
-title: बलिः
+title: _बलिः
 unicode_script: devanagari
 emphasis_as_inline_comments: true
 ---

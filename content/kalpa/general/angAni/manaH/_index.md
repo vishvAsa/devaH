@@ -1,5 +1,5 @@
 ---    
-title: मनः 
+title: _मनः 
 unicode_script: devanagari  
 ---    
 
