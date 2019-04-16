@@ -1,5 +1,5 @@
 ---    
-title: संस्कारः  
+title: _संस्कारः  
 unicode_script: devanagari  
 emphasis_as_inline_comments: true  
 outputs:
