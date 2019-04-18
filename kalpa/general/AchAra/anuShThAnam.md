@@ -1,7 +1,7 @@
 ---
 title: स्वानुष्ठानम्
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 ## नित्यम्

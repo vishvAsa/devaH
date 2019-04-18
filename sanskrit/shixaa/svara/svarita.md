@@ -1,7 +1,7 @@
 ---
 title: स्वरितवचनम्
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 ## अष्टाध्यायिमतम्

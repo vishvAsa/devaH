@@ -1,7 +1,7 @@
 ---
 title: तव त्यन्नर्यत्  
 unicode_script: devanagari  
-emphasis_as_inline_comments: true
+
 ---   
 
 ## ऋक्

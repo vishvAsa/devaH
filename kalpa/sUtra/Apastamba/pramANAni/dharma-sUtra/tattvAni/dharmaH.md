@@ -1,7 +1,7 @@
 ---    
 title: धर्मः  
 unicode_script: devanagari  
-emphasis_as_inline_comments: true  
+  
 tags: [धर्मः, साधारणधर्मः, आश्रमः, वर्णः, शूद्रधर्मः]
 --- 
 

@@ -1,7 +1,7 @@
 ---
 title: पञ्चचोडाः
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 अ॒यंपु॒रो हरि॑केशः॒ सूर्य॑रश्मि॒स्  

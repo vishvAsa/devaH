@@ -1,7 +1,7 @@
 ---
 title: स्नातकव्रानि
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 ## होमः, क्षौरम्

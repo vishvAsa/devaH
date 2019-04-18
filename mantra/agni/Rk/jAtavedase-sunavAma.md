@@ -1,7 +1,7 @@
 ---    
 title: जातवेदसे सुनवाम  
 unicode_script: devanagari  
-emphasis_as_inline_comments: true
+
 ---    
 
 जा॒तवे॑दसे सुनवाम॒ सोम॑मरातीय॒तो निद॑हाति॒ वेदः॑।

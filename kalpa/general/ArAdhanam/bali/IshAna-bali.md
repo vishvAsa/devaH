@@ -1,7 +1,7 @@
 ---
 title: ईशानबलिः
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 (आपस्तम्बिषु शूलगवस्य स्थाने)

@@ -2,7 +2,7 @@
 title: विवादः
 tags: [विवादः, न्यायालयः]
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 ## निर्णेतारः
 विवादे विद्याभिजनसंपन्ना वृद्धा मेधाविनो धर्मेष्वविनिपातिनः ५ 

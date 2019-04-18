@@ -2,7 +2,7 @@
 title: वरुणवन्दनं सन्ध्यायाम्
 devatAH: वरुणः
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 practice_weight: .1
 ---
 इ॒मं मे॑ वरुण श्रुधी॒ +++(=श्रुणु)+++  

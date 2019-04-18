@@ -2,7 +2,7 @@
 title: ब्रह्मयज्ञः
 tags: [ब्रह्मयज्ञः, स्वाध्यायः]
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 ## विधानम्

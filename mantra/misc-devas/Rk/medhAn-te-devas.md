@@ -1,7 +1,7 @@
 ---
 title: मेधान्ते देवः
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 मे॒धान्ते॑ दे॒वस्स॑वि॒ता मे॒धान्दे॒वी सर॑स्वती ।  

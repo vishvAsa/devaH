@@ -1,7 +1,7 @@
 ---
 title: स्थान-संस्कारः
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 साधारणस्थानसंस्कारविषयो [ऽन्यत्रोक्तः](../../../../angAni/sthalam/)।

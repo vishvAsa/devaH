@@ -1,7 +1,7 @@
 ---
 title: छन्दः
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 ## चर्चास्पदानि

@@ -1,7 +1,7 @@
 ---
 title: अग्निर् मे
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 अ॒ग्निर्मे॑ वा॒चि श्रि॒तः । वाग्घृद॑ये । हृद॑यं॒ मयि॑ । अ॒हम॒मृते॑ । अ॒मृतं॒ ब्रह्म॑णि ॥  

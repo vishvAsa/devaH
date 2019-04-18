@@ -1,7 +1,7 @@
 ---
 title: त्रातारम् इन्द्रम्
 unicode_script: devanagari  
-emphasis_as_inline_comments: true
+
 ---   
 
 ## ऋक्

@@ -1,7 +1,7 @@
 ---
 title: आ सत्येन रजसा
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 आस॒त्येन॒ रज॑सा॒ वर्त॑मानो निवे॒शय॑न्न॒मृतं॒ मर्त्यं॑ च ।  

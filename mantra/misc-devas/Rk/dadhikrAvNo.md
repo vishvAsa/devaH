@@ -1,7 +1,7 @@
 ---
 title: दधिक्राव्णो
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 द॒धि॒क्राव्ण्णो॑ अकारिषं जि॒ष्णोरश्व॑स्य वा॒जिनः॑ । सु॒र॒भि नो॒ मुखा॑ कर॒त्प्र ण॒ आयूँ॑षि तारिषत् ।

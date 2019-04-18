@@ -2,7 +2,7 @@
 title: अध्ययनम्
 tags: [अध्ययनम्, अनध्यायः, वेदव्रतानि, उपाकर्म, अध्यायोत्सर्गः]
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 ## औचित्य-विवेकः

@@ -1,7 +1,7 @@
 ---
 title: नक्षत्रिय-देवाः
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 ## अधिपतयः

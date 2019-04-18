@@ -1,7 +1,7 @@
 ---
 title: रजस्वलाः
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 तैत्तिरीय-संहितायाम् 2.5.1.5

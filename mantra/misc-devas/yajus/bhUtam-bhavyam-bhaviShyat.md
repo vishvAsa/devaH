@@ -1,7 +1,7 @@
 ---
 title: भूतं भव्यं भविष्यत्
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 भू॒तं भव्यं॑ भवि॒ष्यद्वष॒ट्स्वाहा॒ नम॒  
 ऋक्साम॒यजु॒र्वष॒ट्स्वाहा॒ नमो॑  

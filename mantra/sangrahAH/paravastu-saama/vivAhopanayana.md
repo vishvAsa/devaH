@@ -1,7 +1,7 @@
 ---
 title: विवाहोपनयन-सामानि 
 unicode_script: devanagari  
-emphasis_as_inline_comments: true
+
 ---   
 
 ## पारम्परिक-मूलानि

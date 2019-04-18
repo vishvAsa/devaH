@@ -1,7 +1,7 @@
 ---
 title: विधिश्रद्धे कर्मसु
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 practice_weight: 0
 ---
 

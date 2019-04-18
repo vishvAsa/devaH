@@ -1,7 +1,7 @@
 ---
 title: मन्त्रः
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 ##‌ अभिज्ञानम्

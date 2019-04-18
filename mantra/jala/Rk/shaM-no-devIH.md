@@ -1,7 +1,7 @@
 ---
 title: शन्नो देवीः
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 सिन्धूद्वीप ऋषिः। गायत्री। आपः। अथर्ववेदस्य पैप्पलादशाखायाः प्रथमो मन्त्रोऽपि।
 

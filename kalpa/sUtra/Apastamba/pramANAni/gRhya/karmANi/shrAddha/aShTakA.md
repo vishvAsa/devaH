@@ -1,7 +1,7 @@
 ---
 title: अष्टका
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 practice_weight: 0
 ---
 अस्य विस्तारो [ऽत्र](../../../../../../../general/ArAdhanam/shrAddham/aShTakA/)।

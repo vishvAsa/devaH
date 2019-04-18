@@ -2,7 +2,7 @@
 title: आतिथ्यम्
 tags: [आतिथ्यम्, अतिथिः]
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 ## अतिथिः

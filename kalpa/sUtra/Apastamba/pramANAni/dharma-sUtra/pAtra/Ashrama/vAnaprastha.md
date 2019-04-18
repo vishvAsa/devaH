@@ -2,7 +2,7 @@
 title: वानप्रस्थः
 tags: [वानप्रस्थः]
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 अथ वानप्रस्थः १८ 
 

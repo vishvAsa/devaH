@@ -1,7 +1,7 @@
 ---  
 title: चम्पकाष्टकम्  
 unicode_script: devanagari  
-emphasis_as_inline_comments: true  
+  
 ---  
   
 पूर्णव्याख्यानम् कन्नडया [अत्र](https://docs.google.com/document/d/1Alcl4IkCZMQSvECfyme2UsD5QboRpS6wsiKgjEmc3a8/edit?usp=drive_web&ouid=109000762913288837175)।  

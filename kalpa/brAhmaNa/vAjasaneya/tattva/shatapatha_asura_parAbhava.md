@@ -1,7 +1,7 @@
 ---
 title: असुर-पराभवः
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 +++(शतपथब्राहणटीकायाम् सायणो [ऽत्र](https://archive.org/details/SatapathaBrhamanaMadhyandinaEd.SridharSharmaVol11NagPublications/page/n27)। Sallustius-आचार्यस्य दृष्टिम् अनुवदति।)+++
 

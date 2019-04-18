@@ -1,7 +1,7 @@
 ---
 title: तच्छंय्योर् आवृणीमहे
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 सायणो [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_5_-_Kasinath_Sastri_Agase_1946#page/n92/mode/1up)। ब्राह्मणम् [अत्र](../../../../kalpa/brAhmaNa/taittirIya/tattva/vidhi-shraddhA/)।

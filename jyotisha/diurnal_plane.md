@@ -1,6 +1,6 @@
 ---
 title: Diurnal plane and apps
-emphasis_as_inline_comments: true
+
 ---
 
 

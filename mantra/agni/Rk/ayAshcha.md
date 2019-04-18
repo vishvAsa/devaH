@@ -1,7 +1,7 @@
 ---
 title: अयाश्चाग्ने
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 अ॒याश्+++(=एतुम् योग्यः, गमनशीलो वा)+++ चा॒ग्ने ऽसय्  

@@ -1,7 +1,7 @@
 ---
 title: वैश्वदेवम्
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 tags: [वैश्वदेवम्, महायज्ञः]
 ---
 

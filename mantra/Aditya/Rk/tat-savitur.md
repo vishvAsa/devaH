@@ -1,7 +1,7 @@
 ---
 title: तत् सवितुर्
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 [ॐ भूः । ॐ भुवः । ओग्ँ सुवः । ॐ महः । ॐ जनः । ॐ तपः । ओग्ँ सत्यम् ।] +++(इति व्याहृतयः प्राणायामे पूरणे।)+++

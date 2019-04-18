@@ -2,7 +2,7 @@
 title: प्रयाणम्
 tags: [प्रयाणम्, यात्रा, प्रवासः]
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 ## विधिः

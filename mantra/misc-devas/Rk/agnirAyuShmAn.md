@@ -1,7 +1,7 @@
 ---
 title: अग्निरायुष्मान्
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 अ॒ग्निरायु॑ष्मा॒न्त्स वन॒स्पति॑भि॒रायु॑ष्मा॒न्तेन॒ त्वाऽऽयु॒षाऽऽयु॑ष्मन्तं करोमि॒ ।

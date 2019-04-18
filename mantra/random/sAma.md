@@ -1,7 +1,7 @@
 ---
 title: सामसु
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 <div name="manualRedirectionDiv"/>

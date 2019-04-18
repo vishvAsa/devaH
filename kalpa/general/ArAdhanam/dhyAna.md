@@ -1,7 +1,7 @@
 ---
 title: ध्यानम्
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 ## ध्यान-मन्त्र-वचनम्

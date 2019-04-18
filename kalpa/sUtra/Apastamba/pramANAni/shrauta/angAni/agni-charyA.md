@@ -1,7 +1,7 @@
 ---
 title: अग्नौ चर्या
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 ##‌ सञ्चारे

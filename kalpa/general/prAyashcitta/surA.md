@@ -1,7 +1,7 @@
 ---
 title: सुरापाने
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 ## का सुरा? मद्यविशेषः।

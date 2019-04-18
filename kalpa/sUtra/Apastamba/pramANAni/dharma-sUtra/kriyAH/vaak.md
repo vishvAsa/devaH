@@ -2,7 +2,7 @@
 title: वाक्-नियमनम्
 tags: [वाक्-नियमनम्, सभा]
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 ## पावित्र्ये
 देवताभिधानं चाप्रयतः ४ +++(अपपात्रसम्भाषणे प्रायश्चित्तम् अन्यत्रोक्तम्)+++

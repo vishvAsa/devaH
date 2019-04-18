@@ -1,7 +1,7 @@
 ---
 title: अनुज्ञाङ्गम्
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 ## अनुज्ञाङ्गम्

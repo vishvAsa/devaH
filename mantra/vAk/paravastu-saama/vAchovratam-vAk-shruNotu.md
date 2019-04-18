@@ -1,7 +1,7 @@
 ---
 title: वाचोव्रतम् - श्रुणोतु! 
 unicode_script: devanagari  
-emphasis_as_inline_comments: true
+
 practice_weight: 0
 ---   
 

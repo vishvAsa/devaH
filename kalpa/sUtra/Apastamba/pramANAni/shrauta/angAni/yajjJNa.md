@@ -1,7 +1,7 @@
 ---
 title: यज्ञः
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 यज्ञं व्याख्यास्यामः १ स त्रयाणां वर्णानां ब्राह्मणराजन्ययोर्वैश्यस्य च २

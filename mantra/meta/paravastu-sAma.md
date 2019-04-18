@@ -1,7 +1,7 @@
 ---
 title: परवस्तुसामाभ्यासः
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 ## पारम्परिकविधिः

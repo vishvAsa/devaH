@@ -1,7 +1,7 @@
 ---
 title: यज्ञोपवीतम्
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 प्रसृ॑तो ह॒ वै य॑ज्ञोपवी॒तिनो॑ य॒ज्ञो, ऽप्र॑सृ॒तो ऽनु॑पवी॒तिनो॒,  

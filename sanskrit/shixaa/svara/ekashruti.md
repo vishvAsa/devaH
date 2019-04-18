@@ -1,7 +1,7 @@
 ---
 title: त्रैस्वर्याद् एकश्रुतिः
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 

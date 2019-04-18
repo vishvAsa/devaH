@@ -1,7 +1,7 @@
 ---
 title: विसर्गः
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 ## प्रातिशाख्येषु संज्ञा (स्रोतांसि - राकेशवचनानि)

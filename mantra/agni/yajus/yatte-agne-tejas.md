@@ -1,7 +1,7 @@
 ---
 title: यत्ते अग्ने तेजः
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 यत्ते॑ अग्ने ते॑ज॒स्तेना॒हं तेज॒स्वी भू॑यासम्
 यत्ते॑ अग्ने॒ व॑र्च॒स्तेना॒हं वर्च॒स्वी भू॑यासम्

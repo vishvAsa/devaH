@@ -1,7 +1,7 @@
 ---    
 title: तर्पणम्
 unicode_script: devanagari  
-emphasis_as_inline_comments: true  
+  
 ---    
 
 हेतुः - पैत्त्रम् दैवं आर्षम् आराधनम्

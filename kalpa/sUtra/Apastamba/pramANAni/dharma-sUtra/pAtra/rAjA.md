@@ -2,7 +2,7 @@
 title: राजा
 tags: [राजा, क्षत्रियः, सैनिकः]
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 व्याख्याताः सर्ववर्णानां साधारणवैशेषिका धर्माः । राज्ञस्तु विशेषाद्वक्ष्यामः १
 

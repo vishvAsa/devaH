@@ -1,7 +1,7 @@
 ---
 title: पुन्यनक्षत्राणि
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 ## पुण्य-नक्षत्राणि कानि?

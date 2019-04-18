@@ -2,7 +2,7 @@
 title: दिवस्परि  
 tags: [वात्सप्रम्]
 unicode_script: devanagari  
-emphasis_as_inline_comments: true
+
 ---    
 
 इह +ऋतयोनेः खल्वग्नेर् जन्मानि ध्यायन्ते।

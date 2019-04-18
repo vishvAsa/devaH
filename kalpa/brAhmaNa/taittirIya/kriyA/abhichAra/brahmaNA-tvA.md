@@ -1,7 +1,7 @@
 ---
 title: ब्रह्मणा त्वा
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 त्रिरात्रावरं ब्रह्मचर्यं चरित्वा गत्वैनमभिव्याहरेत्।

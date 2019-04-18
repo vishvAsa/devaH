@@ -2,7 +2,7 @@
 title: कामः
 tags: [कामः, भोगः]
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 कामासक्तौ पापसम्भवो ऽन्यत्रोक्तः।
 

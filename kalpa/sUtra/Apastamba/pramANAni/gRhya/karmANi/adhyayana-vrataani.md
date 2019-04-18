@@ -1,7 +1,7 @@
 ---
 title: यजुर्वेद-व्रतानि
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 tags: [उपाकर्म, उत्सर्गः, वेदव्रतानि]
 ---
 

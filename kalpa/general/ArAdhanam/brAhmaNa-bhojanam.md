@@ -1,7 +1,7 @@
 ---
 title: ब्राह्मण-भोजनम्
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 ## निवेदनम् पूर्वेद्युः

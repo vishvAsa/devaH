@@ -1,7 +1,7 @@
 ---
 title: आभिर् गीर्भिः
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 भट्टभास्करो [ऽत्र](https://archive.org/stream/taittiriya/taittiriya_brahmana_bhaskara_03_1-7#page/n393/mode/2up)।

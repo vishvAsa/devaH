@@ -1,7 +1,7 @@
 ---
 title: एतो न्विन्द्रम्  
 unicode_script: devanagari  
-emphasis_as_inline_comments: true
+
 practice_weight: 0
 ---   
 

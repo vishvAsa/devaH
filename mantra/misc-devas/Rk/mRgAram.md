@@ -3,7 +3,7 @@ title: अग्नेर्मन्वे
 devatAH: अग्निः, इन्द्रः, मित्रः, वरुणः, वायुः, अश्विनौ, विश्वेदेवाः, मरुतः
 tags: [मृगारम्]
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 status: to_memorize
 practice_weight: 0
 ---

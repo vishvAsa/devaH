@@ -1,7 +1,7 @@
 ---
 title: पौष्टीक-कर्माणि
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 ## जयाद्य्-अभ्यातान-राष्ट्रभृतानि

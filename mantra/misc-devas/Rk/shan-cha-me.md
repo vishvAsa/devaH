@@ -1,7 +1,7 @@
 ---
 title: शञ्च मे
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 शं च॑ मे॒ मय॑श्च मे प्रि॒यं च॑ मेऽनुका॒मश्च॑ मे॒  

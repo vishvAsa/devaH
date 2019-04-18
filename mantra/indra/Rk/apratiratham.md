@@ -2,7 +2,7 @@
 title: अप्रतिरथम्
 tags: ["अप्रतिरथम् ऐन्द्रम्"]
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 status: to_understand
 practice_weight: 0
 ---

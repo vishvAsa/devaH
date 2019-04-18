@@ -1,7 +1,7 @@
 ---
 title: ध्रुव-वन्दनम्
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 ![](http://en.es-static.us/upl/2010/06/precession_sky_chart_3751-e1336864495341.jpg)

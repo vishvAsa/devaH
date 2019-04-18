@@ -1,7 +1,7 @@
 ---
 title: अग्ने नय सुपथाः
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 अग्ने नय सु॒पथा रा॒ये अ॒स्मान्
 विश्वा॑नि देव व॒युना॑नि वि॒द्वान् ।

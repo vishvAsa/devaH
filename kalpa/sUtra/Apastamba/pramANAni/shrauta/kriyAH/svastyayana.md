@@ -1,7 +1,7 @@
 ---
 title: स्वस्त्ययनम्
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 practice_weight: 0
 ---
 

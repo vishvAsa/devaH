@@ -1,7 +1,7 @@
 ---
 title: ब्रह्म-यज्ञः
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 [तैत्तिरियारण्यके अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_036_Taittiriya_Aranyakam_With_Sayana_Bhashya_Part_1_-_Babasastri_Phadke_1898#page/n145/mode/2up)।

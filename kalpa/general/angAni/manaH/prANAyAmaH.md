@@ -1,7 +1,7 @@
 ---    
 title: प्राणायामः
 unicode_script: devanagari  
-emphasis_as_inline_comments: true  
+  
 ---
 
 

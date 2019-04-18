@@ -1,7 +1,7 @@
 ---
 title: १६-वर्षे गोदानम्
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 एवं +++(=[चौलवत्](chaulam.md))+++ गोदानमन्यस्मिन्नपि नक्षत्रे षोडशे वर्षे ॥  

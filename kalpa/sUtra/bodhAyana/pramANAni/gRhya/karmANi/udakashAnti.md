@@ -1,6 +1,6 @@
 ---
 title: उदकशान्त्यर्थः
-emphasis_as_inline_comments: true
+
 unicode_script: devanagari
 ---
 

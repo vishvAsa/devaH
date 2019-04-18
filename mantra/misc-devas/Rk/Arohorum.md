@@ -1,7 +1,7 @@
 ---
 title: आरोहोरुम्
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 आरो॑हो॒रुमुप॑बर्हस्व बा॒हुं  
 परि॑ष्वजस्व जा॒याꣳ सु॑मन॒स्यमा॑नः +++(=प्रीयमाणः)+++ ।  

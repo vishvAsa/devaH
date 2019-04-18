@@ -1,7 +1,7 @@
 ---
 title: सौरचान्द्रमानम्
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 - तिथिः

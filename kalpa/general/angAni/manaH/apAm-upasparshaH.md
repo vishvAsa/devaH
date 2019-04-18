@@ -1,7 +1,7 @@
 ---    
 title: अपाम् उपस्पर्शः
 unicode_script: devanagari  
-emphasis_as_inline_comments: true  
+  
 ---    
 
 ## कदा

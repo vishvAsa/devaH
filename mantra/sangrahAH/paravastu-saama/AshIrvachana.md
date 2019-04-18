@@ -1,7 +1,7 @@
 ---
 title: आशीर्वचन-सामानि 
 unicode_script: devanagari  
-emphasis_as_inline_comments: true
+
 ---   
 
 ## पारम्परिक-मूलानि
