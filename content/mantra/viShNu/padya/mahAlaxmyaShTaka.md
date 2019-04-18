@@ -1,7 +1,7 @@
 ---
 title: महालक्ष्म्यष्टकम्
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 practice_weight: 0
 ---
 

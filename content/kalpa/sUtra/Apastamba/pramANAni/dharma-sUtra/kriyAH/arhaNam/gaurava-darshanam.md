@@ -2,7 +2,7 @@
 title: गौरव-दर्शनम्
 tags: [गौरव-दर्शनम्]
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 [अभिवादन-विषयः, शुश्रूषा, भोजननियमाश् चाऽन्यत्रोक्तः]

@@ -1,7 +1,7 @@
 ---
 title: त्वामिद्धि हवामहे  
 unicode_script: devanagari  
-emphasis_as_inline_comments: true
+
 status: to_memorize
 practice_weight: 0
 ---   

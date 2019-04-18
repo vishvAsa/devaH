@@ -1,7 +1,7 @@
 ---
 title: वेदादयः
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 अ॒ग्निमी᳚ळे पु॒रोहि॑तं य॒ज्ञस्य॑ दे॒वमृ॒त्विजम्᳚ । होता᳚रं रत्न॒धात॑मम् ॥

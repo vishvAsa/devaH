@@ -3,7 +3,7 @@ title: प्रातरग्निम्
 tags: [भाग्य-सूक्तम्, भग-सूक्तम्  ]
 devatA: भगः, अग्निः, इन्द्रः, पूषा, रुद्रः, मित्रः, वरुणः, सोमः
 unicode_script: devanagari  
-emphasis_as_inline_comments: true  
+  
 ---  
 
 सायणो [अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_037_Taittiriya_Brahmanam_with_Sayanabhashya_Part_2_-_Narayanasastri_Godbole_1898#page/n245/mode/2up)। 

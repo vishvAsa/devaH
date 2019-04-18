@@ -1,7 +1,7 @@
 ---
 title: सन्ध्या-वन्दनम्
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 रक्षाꣳ॑सि॒ ह वा॑ पुरोऽनुवा॒के तपोग्र॑मतिष्ठन्त॒।  

@@ -1,6 +1,6 @@
 ---
 title: प्रभुत्वम् Dominance
-emphasis_as_inline_comments: true
+
 ---
 
 ## Intro

@@ -1,7 +1,7 @@
 ---  
 title: नक्षत्रसूक्तम्  
 unicode_script: devanagari  
-emphasis_as_inline_comments: true
+
 ---  
 
 ## परिचयः

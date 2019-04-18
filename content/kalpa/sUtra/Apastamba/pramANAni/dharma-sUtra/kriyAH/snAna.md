@@ -2,7 +2,7 @@
 title: स्नानम्
 tags: [स्नानम्, शुद्धिः]
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 सशिरावमज्जनमप्सु वर्जयेत् ७ अस्तमिते च स्नानम् ८ 
 

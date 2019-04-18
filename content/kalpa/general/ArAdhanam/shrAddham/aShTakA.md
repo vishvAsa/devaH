@@ -1,7 +1,7 @@
 ---
 title: अष्टका श्राद्धम्
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 मासि श्राद्धम् अस्य प्रकृतिः।

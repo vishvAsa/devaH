@@ -1,7 +1,7 @@
 ---
 title: आग्रयणम्
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 - भावः

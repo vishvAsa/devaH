@@ -1,7 +1,7 @@
 ---    
 title: द्रव्य-संस्कारः
 unicode_script: devanagari  
-emphasis_as_inline_comments: true  
+  
 ---
 
 

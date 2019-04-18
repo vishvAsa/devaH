@@ -1,7 +1,7 @@
 ---
 title: आहुति-तन्त्रम्
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 ## आहुतिषु साधारणं तन्त्रम्

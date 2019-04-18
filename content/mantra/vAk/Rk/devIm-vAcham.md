@@ -1,7 +1,7 @@
 ---
 title: देवीं वाचम्
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 दे॒वीं वाच॑मजनयन्त दे॒वाः । तां वि॒श्वरू॑पाः प॒शवो॑ वदन्ति ।  

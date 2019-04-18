@@ -1,7 +1,7 @@
 ---
 title: सुमङ्गलीभिर् मङ्गलारतिः
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 - स्थालिकायां कुङ्कुममिश्रितं जलम्, तन्मध्ये दीपम्

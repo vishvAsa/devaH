@@ -2,7 +2,7 @@
 title: अहं रुद्रेभिः
 tags: [देवी-सूक्तम्]
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 अ॒हं रु॒द्रेभि॒र्वसु॑भिश्चराम्य॒हमा॑दि॒त्यैरु॒त वि॒श्वदे॑वैः ।  

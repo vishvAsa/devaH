@@ -1,7 +1,7 @@
 ---
 title: सम्पा  
 unicode_script: devanagari  
-emphasis_as_inline_comments: true
+
 ---   
 
 ## ऋक्

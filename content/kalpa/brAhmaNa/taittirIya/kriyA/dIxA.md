@@ -1,7 +1,7 @@
 ---
 title: दीक्षाव्रतम्
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 ## शक्तपक्षः

@@ -2,7 +2,7 @@
 title: यज्ञः
 tags: [यज्ञः, यजनम्]
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 विशेष-यज्ञ-विचारा अन्यत्र, यथा - ब्रह्मयज्ञः, मनुष्ययज्ञः, पञ्च-महा-यज्ञाः।
 

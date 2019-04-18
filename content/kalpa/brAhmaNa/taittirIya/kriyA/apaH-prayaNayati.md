@@ -1,7 +1,7 @@
 ---
 title: अपः प्रणयति
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 तै॰ब्रा॰ ३/२/४ इत्यत्र -

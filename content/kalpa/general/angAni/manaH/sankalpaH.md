@@ -1,7 +1,7 @@
 ---    
 title: सङ्कल्पः
 unicode_script: devanagari  
-emphasis_as_inline_comments: true  
+  
 ---
 
 ## भावः

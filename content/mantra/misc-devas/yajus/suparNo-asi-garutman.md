@@ -1,7 +1,7 @@
 ---
 title: सुपर्णोऽसि गरुत्मन्
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 सु॒प॒र्णोऽसि ग॒रुत्मा॑न्।   

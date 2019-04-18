@@ -1,7 +1,7 @@
 ---
 title: परिस्थितिकलनम्
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 ## परिस्थितिः

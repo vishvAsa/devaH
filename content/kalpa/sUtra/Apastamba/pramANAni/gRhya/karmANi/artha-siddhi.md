@@ -1,7 +1,7 @@
 ---
 title: अर्थसिद्धिः
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 चिकित्साविषयो [ऽन्यत्रोक्तः](../chikitsA/)।

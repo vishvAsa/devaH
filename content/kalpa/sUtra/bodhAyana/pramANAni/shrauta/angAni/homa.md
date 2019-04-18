@@ -1,7 +1,7 @@
 ---
 title: होमः
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 ## प्रायश्चित्तम्

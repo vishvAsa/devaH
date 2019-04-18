@@ -1,7 +1,7 @@
 ---
 title: तारामण्डलानि
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 ## ध्रुवमण्डलम् शिंशुमारपुच्छस्थं सुविख्यातम् च।

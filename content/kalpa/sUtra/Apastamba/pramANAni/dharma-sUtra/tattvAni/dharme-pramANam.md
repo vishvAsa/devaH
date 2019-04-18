@@ -1,7 +1,7 @@
 ---    
 title: धर्मे प्रमाणम्  
 unicode_script: devanagari  
-emphasis_as_inline_comments: true  
+  
 tags: ["धर्मे प्रमाणम्", शिष्टाः, पूर्वज-साहसम्]
 ---
 

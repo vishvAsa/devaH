@@ -1,7 +1,7 @@
 ---
 title: ऋचो अक्षरे
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 practice_weight: 0
 ---
 

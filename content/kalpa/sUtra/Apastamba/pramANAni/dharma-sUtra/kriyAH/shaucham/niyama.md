@@ -2,7 +2,7 @@
 title: नियमाः
 tags: [नियमाः, ऋषयः, आचार-ग्लानिः, तपः, व्रतम्]
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 ## नियमाः 

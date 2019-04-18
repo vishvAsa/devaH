@@ -1,7 +1,7 @@
 ---
 title: तर्पणम्
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 यज्ञोपवीतानि कृत्वा तेष्वेव देशेषु तथैवानुपूर्व्या तैरेव नामभिर्देवानृषींश्च तर्पयन्ति।  

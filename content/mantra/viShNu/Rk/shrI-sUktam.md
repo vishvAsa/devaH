@@ -1,7 +1,7 @@
 ---    
 title: श्री-सूक्तम् 
 unicode_script: devanagari  
-emphasis_as_inline_comments: true
+
 ---    
 हिर॑ण्यवर्णां॒ हरि॑णीं सुव॒र्णर॑ज॒तस्र॑जाम्।  
 च॒न्द्रां हि॒रण्म॑यीं ल॒क्ष्मीं जात॑वेदो म॒ आव॑ह।

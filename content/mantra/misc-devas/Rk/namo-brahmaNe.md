@@ -1,7 +1,7 @@
 ---
 title: नमो ब्रह्मणे
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 नमो॒ ब्रह्म॑णे॒+++(=वेदाय)+++ नमो॑ अस्त्व॒ग्नये॒ नमः॑ पृथि॒व्यै नम॒ ओष॑धीभ्यः ।  

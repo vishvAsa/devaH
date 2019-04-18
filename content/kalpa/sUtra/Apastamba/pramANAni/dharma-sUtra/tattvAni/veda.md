@@ -2,7 +2,7 @@
 title: वेदः  
 tags: [वेदः, वेदाधिकारः, वैदिककर्मण्य् अधिकारः, द्विजकर्माणि]
 unicode_script: devanagari  
-emphasis_as_inline_comments: true
+
 --- 
 
 षडङ्गो वेदः १०  

@@ -1,7 +1,7 @@
 ---    
 title: सन्ध्यावन्दनम्
 unicode_script: devanagari  
-emphasis_as_inline_comments: true  
+  
 ---    
 
 - हेतुस्मरणम् - सङ्कल्पम् ईक्षताम्

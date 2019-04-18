@@ -2,7 +2,7 @@
 title: प्रयतता
 tags: [प्रयतता, आचमनम्]
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 ## आवश्यकता
 तथाप्रयताय १९ अप्रयतश्च न प्रत्यभिवदेत् २० 

@@ -1,7 +1,7 @@
 ---
 title: प्रायश्चित्तानि
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 ## अज्ञातदोष-प्रायश्चित्तम्

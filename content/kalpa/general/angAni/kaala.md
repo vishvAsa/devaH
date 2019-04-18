@@ -1,7 +1,7 @@
 ---    
 title: कालः
 unicode_script: devanagari  
-emphasis_as_inline_comments: true  
+  
 ---
 
 ## भावः, तत्त्वम्

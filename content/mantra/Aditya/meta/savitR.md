@@ -1,7 +1,7 @@
 ---
 title: सविता
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 ![](../../images/savitR_SunEarthGravityGrid.jpg)

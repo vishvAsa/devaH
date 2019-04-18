@@ -2,7 +2,7 @@
 title: सन्ध्या-पाप-लुम्पनम्
 devatAH: सूर्यः, अग्निः, मन्युः, रात्रिः, दिनम्
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 ## प्रातः

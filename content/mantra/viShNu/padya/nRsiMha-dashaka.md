@@ -1,7 +1,7 @@
 ---
 title: नृसिंह-दशकम्
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 practice_weight: 0
 ---
 अथ राजारामजशङ्करकृतन् नृसिंहदशकम् [हरिहरपुर](https://en.wikipedia.org/wiki/Hariharapura)-शारदापीठाय रचितम्।  

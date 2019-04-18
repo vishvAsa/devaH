@@ -1,7 +1,7 @@
 ---
 title: कूष्माण्ड-विधानम्
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 वात॑रशना ह॒ वा ऋष॑यश् श्रम॒णा ऊ॒र्ध्वम॑न्थि॒नो ब॑भूवु॒स्,  

@@ -1,7 +1,7 @@
 ---
 title: अध्ययनम्
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 स्वाध्यायेऽनध्यायो मन्त्राणां, न कर्मण्यर्थान्तरत्वात् +++(=प्रयोजनान्तरत्वात्)+++ ३७

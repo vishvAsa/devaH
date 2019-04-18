@@ -1,7 +1,7 @@
 ---
 title: वैश्वदेवम्, पञ्चमहायज्ञाः
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 ## सुदर्शनसूरेर् मते वैश्वदेवम्, देवयज्ञः, पितृयज्ञः, मनुष्ययज्ञः, भूतयज्ञः

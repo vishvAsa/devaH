@@ -3,7 +3,7 @@ title: समीची नामासि
 tags: [सर्पाहुतयः]
 devatAH: दिशः, सर्पाः
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 हरदत्तो [ऽत्र](https://archive.org/stream/EKAGNIKANDABHASHYAMSAMSKRUTHAM/EKAGNIKANDA%20BHASHYAM%20SAMSKRUTHAM#page/n173/mode/2up)।

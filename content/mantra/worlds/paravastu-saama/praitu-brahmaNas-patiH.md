@@ -1,7 +1,7 @@
 ---
 title: प्रैतु ब्रह्मणस्पतिः
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 status: to_memorize
 practice_weight: 0
 ---

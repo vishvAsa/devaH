@@ -1,7 +1,7 @@
 ---
 title: पश्येम शरदः
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 पश्ये॑म श॒रदः॑ श॒तं, जीवे॑म श॒रदः॑ श॒तं,  

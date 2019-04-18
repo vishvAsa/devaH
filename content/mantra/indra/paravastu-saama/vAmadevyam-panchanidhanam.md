@@ -1,7 +1,7 @@
 ---
 title: वामदेव्यम् पञ्चनिधनम्
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 practice_weight: 0
 ---
 

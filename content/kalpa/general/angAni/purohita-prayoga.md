@@ -1,7 +1,7 @@
 ---
 title: पुरोहित-प्रयोगः
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 ## प्राक्-चर्चा

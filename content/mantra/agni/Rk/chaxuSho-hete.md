@@ -2,7 +2,7 @@
 title: चक्षुषो हेते
 tags: [प्रत्याङ्गीरसम्]
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 चक्षु॑षो हेते॒ मन॑सो हेते । वाचो॑हेते॒ ब्रह्म॑णो हेते ।  

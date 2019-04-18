@@ -1,7 +1,7 @@
 ---    
 title: शरीर-संस्कारः
 unicode_script: devanagari  
-emphasis_as_inline_comments: true  
+  
 ---
 
 ## स्नानम्

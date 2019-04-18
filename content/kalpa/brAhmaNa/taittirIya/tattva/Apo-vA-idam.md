@@ -1,7 +1,7 @@
 ---
 title: आपो वा इदं सर्वम्
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 आपो॒ वा इ॒दꣳ सर्वं॒  

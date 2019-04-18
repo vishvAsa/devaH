@@ -1,7 +1,7 @@
 ---
 title: विष्णुर् योनिम्
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 विष्णु॒र् योनि॑ङ् कल्पयतु॒  

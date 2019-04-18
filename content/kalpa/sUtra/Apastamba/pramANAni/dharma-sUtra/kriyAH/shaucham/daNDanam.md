@@ -2,7 +2,7 @@
 title: दण्डनम्
 tags: [दण्डनम्, बहिष्कारः, पतितः, पतित-पुत्रः, स्तेनः]
 unicode_script: devanagari  
-emphasis_as_inline_comments: true  
+  
 --- 
 
 ## साधारण-दण्डन-विधिः

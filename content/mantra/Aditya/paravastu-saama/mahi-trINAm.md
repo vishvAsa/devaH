@@ -2,7 +2,7 @@
 title: महि त्रीणाम्
 devatAH: मित्रः, वरुणः, अर्यमा, इन्द्रः
 unicode_script: devanagari  
-emphasis_as_inline_comments: true
+
 ---   
 
 ## ऋक्

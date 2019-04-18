@@ -1,7 +1,7 @@
 ---
 title: इन्द्रन्नरो- निश्वसेत्  
 unicode_script: devanagari  
-emphasis_as_inline_comments: true
+
 ---   
 
 ## ऋक्

@@ -1,7 +1,7 @@
 ---
 title: ये अर्वाङुत वा पुराणे
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 ये अ॒र्वाङु॒त वा॑ पुरा॒णे  

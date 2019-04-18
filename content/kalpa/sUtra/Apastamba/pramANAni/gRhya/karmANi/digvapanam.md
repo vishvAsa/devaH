@@ -1,7 +1,7 @@
 ---
 title: दिग्वपनम्
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 ## कल्पः

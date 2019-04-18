@@ -1,7 +1,7 @@
 ---    
 title: पापनाशनम्
 unicode_script: devanagari  
-emphasis_as_inline_comments: true  
+  
 ---
 
 ## अन्य-विकल्पाः

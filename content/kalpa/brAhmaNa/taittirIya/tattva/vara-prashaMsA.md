@@ -1,7 +1,7 @@
 ---
 title: वरः
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 वरो॒+++(=महार्हो गौरिव)+++ दक्षि॑णा॒। वरे॑णै॒व वर२ꣳ॑+++(=श्रेष्ठं)+++ स्पृणोति+++(=प्रीणाति)+++।  

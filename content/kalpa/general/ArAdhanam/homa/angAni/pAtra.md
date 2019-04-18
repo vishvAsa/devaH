@@ -1,7 +1,7 @@
 ---
 title: पात्र-प्रयोगः
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 ## द्रव्य-व्यवस्थापनम्

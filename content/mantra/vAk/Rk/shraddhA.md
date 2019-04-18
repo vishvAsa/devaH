@@ -1,7 +1,7 @@
 ---
 title: श्रद्धा-सूक्तम्
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 श्र॒द्धया॒ग्निस्समि॑ध्यते । श्र॒द्धया॑ विन्दते ह॒विः ।  

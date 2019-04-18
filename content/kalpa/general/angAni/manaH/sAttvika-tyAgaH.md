@@ -1,7 +1,7 @@
 ---    
 title: सात्त्विकत्यागः
 unicode_script: devanagari  
-emphasis_as_inline_comments: true  
+  
 ---
 
 

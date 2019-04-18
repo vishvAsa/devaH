@@ -2,7 +2,7 @@
 title: वाणिज्यम्
 tags: [वाणिज्यम्, उपजीविका, स्वधर्मः, उञ्छवृत्तिः]
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 

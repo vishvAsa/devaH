@@ -1,7 +1,7 @@
 ---
 title: दुष्परिग्रहः दुर्याजनम्
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 ## अनापदि

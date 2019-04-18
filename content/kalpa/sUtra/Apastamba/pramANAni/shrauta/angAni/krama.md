@@ -1,7 +1,7 @@
 ---
 title: क्रमः
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 प्रागपवर्गाण्युदगपवर्गाणि वा यज्ञोपवीती प्रदक्षिणं दैवानि कर्माणि करोति १५

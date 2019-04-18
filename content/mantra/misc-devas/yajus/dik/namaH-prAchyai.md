@@ -1,7 +1,7 @@
 ---
 title: नमः प्राच्यै
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 नमः॒ प्राच्यै॑ दि॒शे।, याश्च॑ दे॒वता॑ ए॒तस्या॒म् प्रति॑वसन्त्ये॒ताभ्य॑श्च॒ नमः॑ ।

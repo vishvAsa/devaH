@@ -2,7 +2,7 @@
 title: नासदासीत्
 tags: [नासदीयसूक्तम्]
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 सायणो [अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_037_Taittiriya_Brahmanam_with_Sayanabhashya_Part_2_-_Narayanasastri_Godbole_1898#page/n239/mode/2up)।
 

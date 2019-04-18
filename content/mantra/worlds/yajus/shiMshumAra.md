@@ -1,7 +1,7 @@
 ---
 title: शिंशुमार-वन्दनम्
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 ![](https://i.imgur.com/Nt1v8yj.jpg)

@@ -2,7 +2,7 @@
 title: विवाहः
 tags: [विवाहः]
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 ## कन्यादाने निषेधाः

@@ -1,7 +1,7 @@
 ---
 title: हेमन्तप्रत्यवरोहणम्
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 practice_weight: 0
 ---
 

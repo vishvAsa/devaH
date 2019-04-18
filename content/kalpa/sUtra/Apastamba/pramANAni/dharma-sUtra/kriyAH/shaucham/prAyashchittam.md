@@ -2,7 +2,7 @@
 title: प्रायश्चित्तम्
 tags: [प्रायश्चित्तम्]
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 पतनीयेषु, यभनेषु च प्रायश्चित्तम् अन्यत्रोक्तम्।
 

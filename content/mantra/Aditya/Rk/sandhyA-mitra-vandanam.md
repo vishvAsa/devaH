@@ -2,7 +2,7 @@
 title: मित्रवन्दनम् सन्ध्यायाम्
 devatAH: मित्रः
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 practice_weight: .1
 ---
 

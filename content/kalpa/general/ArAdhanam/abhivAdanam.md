@@ -1,7 +1,7 @@
 ---
 title: अभिवादनम् आशीर्वादश्च
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 - आराधनम्

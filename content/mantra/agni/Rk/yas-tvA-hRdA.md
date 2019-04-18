@@ -1,7 +1,7 @@
 ---
 title: यस् त्वा हृदा
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 यस्त्वा॑ हृ॒दा की॒रिणा॒ +++(=स्तत्रिणा)+++ मन्य॑मा॒नो  

@@ -1,7 +1,7 @@
 ---
 title: यश्छन्दसाम्
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 यश्छन्द॑सामृष॒भो वि॒श्वरू॑पः। छन्दो॒भ्योऽध्य॒मृता॑थ्संब॒भूव॑।  

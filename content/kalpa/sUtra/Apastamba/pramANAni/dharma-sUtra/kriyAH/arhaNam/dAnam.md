@@ -2,7 +2,7 @@
 title: दानम्
 tags: [दानम्, प्रतिग्रहः, ब्राह्मण-भोजनम्, उत्कोचः]
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 ## विधिः

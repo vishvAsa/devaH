@@ -2,7 +2,7 @@
 title: वस्त्राणि
 tags: [वस्त्राणि]
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 ## द्रव्यम्
 शक्तिविषये न मुहूर्तमप्यप्रयतः स्यात् ८ नग्नो वा ९ 

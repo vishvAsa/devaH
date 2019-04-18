@@ -1,7 +1,7 @@
 ---  
 title: द्रुहो मुञ्चामि  
 unicode_script: devanagari  
-emphasis_as_inline_comments: true
+
 ---  
 
 ## प्रतिज्ञा

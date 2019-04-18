@@ -1,7 +1,7 @@
 ---
 title: मिन्दाहुतिः
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 सायणो [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_5_-_Kasinath_Sastri_Agase_1946#page/n187/mode/2up)।

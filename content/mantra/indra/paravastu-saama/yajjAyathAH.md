@@ -1,7 +1,7 @@
 ---
 title: यज्जयथा अपूर्वः  
 unicode_script: devanagari  
-emphasis_as_inline_comments: true
+
 ---   
 
 ## ऋक्

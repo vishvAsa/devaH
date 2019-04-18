@@ -1,7 +1,7 @@
 ---
 title: इदं विष्णुर्
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 ## परिचयः

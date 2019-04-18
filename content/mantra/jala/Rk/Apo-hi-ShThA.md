@@ -1,7 +1,7 @@
 ---
 title: आपो हि ष्ठा
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 सिन्धूद्वीप ऋषिः। गायत्री। आपः।
 

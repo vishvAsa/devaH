@@ -2,7 +2,7 @@
 title: गृहस्थ-धर्मः
 tags: [गृहस्थ-धर्मः]
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 ## भोजनम्
 पाणिग्रहणादधि गृहमेधिनोर्व्रतम् १ कालयोर्भोजनम् २ अतृप्तिश्चान्नस्य ३ 

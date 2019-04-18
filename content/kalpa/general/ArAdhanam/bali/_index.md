@@ -1,7 +1,7 @@
 ---
 title: +बलिः
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 ## प्रकीर्णविषयाः

@@ -1,7 +1,7 @@
 ---
 title: जातकर्म, नामकरणञ्च
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 ## पूर्वाङ्गम्
