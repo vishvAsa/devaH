@@ -1,5 +1,5 @@
 ---    
-title: _ऐतरेयम् 
+title: +ऐतरेयम् 
 unicode_script: devanagari  
 ---    
 

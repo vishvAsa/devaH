@@ -1,5 +1,5 @@
 ---    
-title: _मन्त्राः  
+title: +मन्त्राः  
 unicode_script: devanagari  
 emphasis_as_inline_comments: true  
 ---    

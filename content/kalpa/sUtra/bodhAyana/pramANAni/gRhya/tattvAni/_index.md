@@ -1,5 +1,5 @@
 ---    
-title: _तत्त्वम्  
+title: +तत्त्वम्  
 unicode_script: devanagari  
 format_inline_comments: true  
 ---    

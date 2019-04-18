@@ -1,5 +1,5 @@
 ---    
-title: _आचारः 
+title: +आचारः 
 unicode_script: devanagari  
 ---    
 

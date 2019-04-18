@@ -1,5 +1,5 @@
 ---    
-title: _अभिचारः 
+title: +अभिचारः 
 unicode_script: devanagari  
 ---    
 
