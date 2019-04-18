@@ -1,5 +1,5 @@
 ---    
-title: _आश्रमः 
+title: +आश्रमः 
 unicode_script: devanagari  
 ---    
 

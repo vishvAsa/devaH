@@ -1,5 +1,5 @@
 ---    
-title: _वाजसनेयम् 
+title: +वाजसनेयम् 
 unicode_script: devanagari  
 ---    
 
