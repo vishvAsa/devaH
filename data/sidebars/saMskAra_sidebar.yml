@@ -224,18 +224,24 @@ contents:
           - title: तत्त्वम्
             contents:
               - url: dir://kalpa/brAhmaNa/vAjasaneya/tattva
-      - title: ऐतरेयकम्
-        contents:
-          - url: dir://kalpa/brAhmaNa/aitareya/
-          - title: तत्त्वम्
-            contents:
-              - url: dir://kalpa/brAhmaNa/aitareya/tattva
       - title: काठकम्
         contents:
           - url: dir://kalpa/brAhmaNa/kAThaka/
           - title: तत्त्वम्
             contents:
               - url: dir://kalpa/brAhmaNa/kAThaka/tattva
+      - title: ऐतरेयकम्
+        contents:
+          - url: dir://kalpa/brAhmaNa/aitareya/
+          - title: तत्त्वम्
+            contents:
+              - url: dir://kalpa/brAhmaNa/aitareya/tattva
+      - title: कौषितकि
+        contents:
+          - url: dir://kalpa/brAhmaNa/kauShitaki/
+          - title: तत्त्वम्
+            contents:
+              - url: dir://kalpa/brAhmaNa/kauShitaki/tattva
   - title: कल्पे ऽस्मन्निश्चयः
     contents:
         - title: प्रवेशः
