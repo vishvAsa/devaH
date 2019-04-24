@@ -24,11 +24,11 @@ unicode_script: devanagari
 
 
 ## साम
-- पारम्परिकगानमूलम् - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n7/mode/2up)।] +++(अत्र "यह्वा इव" इति शब्दौ च्युतौ।)+++
-<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+- पारम्परिकगानमूलम् - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n7/mode/2up)।] 
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 (अत्र "यह्वा इव" इति शब्दौ च्युतौ।)" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/abodhyagniH.mp3"></div> 
-<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/abodhyagniH.mp3"></div> +++(फॢ इति स्वरे ऽत्र वैशिष्ट्यम्। यह्वा… इति पङ्क्तिर् नास्ति।)+++
+<div class="audioEmbed"  caption="गोपालार्यः 2015  +++(फॢ इति स्वरे ऽत्र वैशिष्ट्यम्। यह्वा… इति पङ्क्तिर् नास्ति।)+++" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/abodhyagniH.mp3"></div> 
 <div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1x" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018/abodhyagniH.mp3"></div>
 <div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1.5x" src="https://archive
