@@ -9,6 +9,7 @@ unicode_script: devanagari
 <script>
 function getSelectionWeight(url) {
   var cleanedUrl = url.replace("//", "/");
+  let pageFileParams = pageUrlToFileParams.get(cleanedUrl);
   if (!cleanedUrl.startsWith("/mantra/") || !cleanedUrl.includes("/paravastu-saama/") || cleanedUrl.includes("/sangrahAH/") || cleanedUrl.includes("/meta/") || pageFileParams.logicalName == "_index.md") {
     return 0;
   }
