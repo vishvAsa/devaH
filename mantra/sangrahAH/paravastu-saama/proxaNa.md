@@ -142,7 +142,7 @@ unicode_script: devanagari
 
 ("सोमः पवते जनिता मतीनामि"ति सर्वाण्य् अपत्य-नित्यवत्स-रथन्तर-व्याहृति-सामानि पुनर् जपेत्। तत् प्रकारः -…।)
 
-<div class="js_include" url="../../rudra/paravastu-saama/arUruchad-uShasaH.md"  newLevelForH1="2" includeTitle="true"> </div> 
+<div class="js_include" url="../../Aditya/paravastu-saama/arUruchad-uShasaH.md"  newLevelForH1="2" includeTitle="true"> </div> 
 
 एतेषाम् एकम् अनेकम् वा सर्वाणि वा प्रियुंजानः सुरूपान् दीर्घायुषः पुत्रान् लभते॥  
 प्रोक्षण सामानि समाप्तानि॥
