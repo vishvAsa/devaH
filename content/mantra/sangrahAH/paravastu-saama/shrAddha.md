@@ -5,8 +5,6 @@ unicode_script: devanagari
 practice_weight: 0
 ---
 
-# अधिश्रवणसामानि
-
 <div class="js_include" url="../../indra/paravastu-saama/archata-prArchata.md"  newLevelForH1="2" includeTitle="true"> </div>  
  
 <div class="js_include" url="../../agni/paravastu-saama/IDiShva.md"  newLevelForH1="2" includeTitle="true"> </div>  
@@ -128,7 +126,6 @@ practice_weight: 0
 ## पारम्परिक-मूलानि
 - [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n144/mode/1up)
 
-## साम
 <div class="js_include" url="../../Aditya/paravastu-saama/vyAhRti-sAmAni.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
 ## ऋक्
