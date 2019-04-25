@@ -2,7 +2,7 @@
 title: प्रोक्षण-सामानि 
 unicode_script: devanagari  
 
----+++([])+++
+---
 
 ## पारम्परिक-मूलानि
 - [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n48/mode/1up)
