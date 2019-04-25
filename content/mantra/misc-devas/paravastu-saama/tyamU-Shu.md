@@ -2,8 +2,6 @@
 title: त्यमू षु
 devatAH: तार्क्ष्यः
 unicode_script: devanagari  
-
-practice_weight: 5
 ---   
 
 ## ऋक्
