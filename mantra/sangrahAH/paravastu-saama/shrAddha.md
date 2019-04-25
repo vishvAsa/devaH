@@ -5,6 +5,8 @@ unicode_script: devanagari
 practice_weight: 0
 ---
 
+# अधिश्रवणसामानि
+
 <div class="js_include" url="../../indra/paravastu-saama/archata-prArchata.md"  newLevelForH1="2" includeTitle="true"> </div>  
  
 <div class="js_include" url="../../agni/paravastu-saama/IDiShva.md"  newLevelForH1="2" includeTitle="true"> </div>  
@@ -64,7 +66,12 @@ practice_weight: 0
 ग्ना+++([])+++,अइ । वाअ, नांङङाह ॥ ७ ॥
 
 
-# अन्नसूत्र सामानि
+# अन्नसूत्र-सामानि
+
+## पारम्परिक-मूलानि
+- [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n140/mode/1up)
+- [२०१५](https://docs.google.com/document/d/1aQZ3MvuHYHWW9bD8qpAMCRCbM7saNJ8VIOkLF0wPy-w/edit)
+
 
 <div class="js_include" url="../../agni/paravastu-saama/mUrdhanam-divaH-Ajyadoham.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
@@ -118,6 +125,9 @@ practice_weight: 0
 
  
 # अधिश्रवण सामानि  
+## पारम्परिक-मूलानि
+- [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n144/mode/1up)
+
 ## साम
 <div class="js_include" url="../../Aditya/paravastu-saama/vyAhRti-sAmAni.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
