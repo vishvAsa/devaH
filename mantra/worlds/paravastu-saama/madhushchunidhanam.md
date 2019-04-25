@@ -24,7 +24,7 @@ RV.8.63.1a; SV.1.355a; AB.5.12.6; KB.23.6; A;S.8.1.14; Svidh.1.4.14; 3.1.10. P: 
 
 - पारम्परिक-गान-मूलम् [अत्र](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/VIVAAHA%20UPANAYANA%20SAAMAANI#page/n2/mode/1up)।
 
-<div class="audioEmbed"  caption="रामानुजार्यः 1974 (अत्र प्रथमेऽपि हॊओवआइ ही+++(प्रे)+++इ इत्यस्मिन् प्रेङ्खस्वरश् श्रूयते।)" src="https://archive
+<div class="audioEmbed"  caption="रामानुजार्यः 1974 (अत्र प्रथमेऽपि हॊओवआइ ही(प्रे)इ इत्यस्मिन् प्रेङ्खस्वरश् श्रूयते।)" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/madhushchunidhanam.mp3"></div>
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/madhushchunidhanam.mp3"></div>
