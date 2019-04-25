@@ -1,15 +1,13 @@
 ---
 title: पिब मत्स्व - वैराज-ऋषभम्  
 unicode_script: devanagari  
-
+practice_weight: 0
 ---   
 
 ## ऋक्
 
 
 <div class="js_include" url="../Rk/piba-somam.md"  newLevelForH1="2" includeTitle="true"> </div>  
-
-![](../../images/indra-squeezing-soma-into-mouth.jpg)
 
 ## साम
 
