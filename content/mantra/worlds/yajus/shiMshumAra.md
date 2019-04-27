@@ -4,8 +4,8 @@ unicode_script: devanagari
 
 ---
 
-![](https://i.imgur.com/Nt1v8yj.jpg)
-![](http://en.es-static.us/upl/2010/06/precession_sky_chart_3751-e1336864495341.jpg)
+{{< figure src="https://i.imgur.com/Nt1v8yj.jpg" title="" class="thumbnail">}}
+{{< figure src="http://en.es-static.us/upl/2010/06/precession_sky_chart_3751-e1336864495341.jpg" title="" class="thumbnail">}}
 
 यस्मै॒ नम॒स्
 

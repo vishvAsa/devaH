@@ -18,7 +18,7 @@ unicode_script: devanagari
 आ वो राजानमध्वरस्य रुद्रं होतारं सत्ययजं रोदस्योः  ।  
 अग्निं पुरा तनयित्नोर् अचित्ताद् +हिरण्यरूपम् अवसे कृणुध्वम्  ।
 
-![](../../images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png)
+{{< figure src="../../images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png" title="" class="thumbnail">}}
 
 ## साम
 

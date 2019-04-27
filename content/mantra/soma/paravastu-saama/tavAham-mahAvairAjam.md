@@ -25,7 +25,7 @@ RV.9.107.19a; SV.1.516a; 2.272a; JB.3.67a; PB.12.9.3a; Svidh.1.5.8.
 घृ॒णा +++(=दीप्त्या)+++ तप॑न्त॒मति॒ सूर्य॑म्प॒रः श॑कु॒ना इ॑व पप्तिम +++(=अतिपताम)+++  
 +++(दुह मत्स्व इति साम्नि)+++।
 
-![](../../images/soma-enthroned.png)
+{{< figure src="../../images/soma-enthroned.png" title="" class="thumbnail">}}
 
 
 ## साम

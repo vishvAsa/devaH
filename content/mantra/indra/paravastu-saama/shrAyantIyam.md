@@ -16,7 +16,7 @@ RV.8.99.3a; AV;S.20.58.1a; SV.1.267a; 2.669a; VS.33.41a; JB.3.261a; KB.25.6; A;S
 अन॑र्शरातिं +++(=अपापकदानम्)+++ वसु॒दाम् +++(इन्द्रम्)+++ उप स्तुहि भ॒द्रा इन्द्र॑स्य रा॒तयः +++(=दानानि)+++ ।  
 सो+++(~~यो~~)+++ अ॑स्य॒ कामं॑ विध॒तो +++(=परिचरतो)+++ न रो॑षति॒ मनो॑ दा॒नाय॑ चो॒दय॑न् ।।
 
-![](../../images/indra-as-maghavAn-followed-by-people-bearing-wealth-moving-towards-a-yajamAna.png)
+{{< figure src="../../images/indra-as-maghavAn-followed-by-people-bearing-wealth-moving-towards-a-yajamAna.png" title="" class="thumbnail">}}
 
 
 ## साम

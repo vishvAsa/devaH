@@ -6,13 +6,19 @@ unicode_script: devanagari
 
 ## ऋक्
 
-([सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume2SatyavrataSamasrami1876bis_201803/page/n351) कौथुमभाष्ये। वसिष्ठः। अग्निः])+++
+([सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume2SatyavrataSamasrami1876bis_201803/page/n351) कौथुमभाष्ये। वसिष्ठः। अग्निः])
 
 २ ० ० ०५०१  
-अग्न आयूंषि प+++(प्ल)+++वस आसुव +ऊर्जमिषं च नः ।  
+
+1.2.13.4.5  
+अ²ग्न³ आ¹यू²ᳱषि प+++(प्ल)+++वसे³  
 आरे+++(=दूरे)+++ बाधस्व दुच्छुनाम्+++(=रक्षसाम्)+++  ।
 
-![](../../images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png)
+
+अग्न आयूंषि पवस आसुव +ऊर्जमिषं च नः ।  
+(आ सुवोर्जं इषं च नः। आरे बाधस्व दुच्छुनाम् ।।) ।।3 ।। ।।10 (य)।। [धा. 2 । उ नास्ति । स्व. 1।]
+
+{{< figure src="../../images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png" title="" class="thumbnail">}}
 
 
 ## साम

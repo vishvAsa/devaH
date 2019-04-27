@@ -13,5 +13,5 @@ RV 8 14_+++(634)+++ 1 a
 यदि॑न्द्रा॒हं यथा॒ त्वमीशी॑य॒ +++(=ईश्वरस्स्याम्)+++ वस्व॒ +++(=धनस्य)+++ एक॒ इत् ।   
 स्तो॒ता मे॒ गोष॑खा स्यात् १  
 
-![](../../images/indra-as-maghavAn-followed-by-people-bearing-wealth-moving-towards-a-yajamAna.png)
+{{< figure src="../../images/indra-as-maghavAn-followed-by-people-bearing-wealth-moving-towards-a-yajamAna.png" title="" class="thumbnail">}}
 

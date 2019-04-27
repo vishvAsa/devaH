@@ -13,4 +13,4 @@ practice_weight: 0
 
 अग्निर्मूर्धा दिवः ककुत्पतिः पृथिव्या अयम्। अपाᳱ रेताᳱसि जिन्वति ।।27
 
-![](../../images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png)
+{{< figure src="../../images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png" title="" class="thumbnail">}}

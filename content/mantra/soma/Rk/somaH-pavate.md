@@ -34,4 +34,4 @@ RV.9.96.5a; SV.1.527a; 2.293a; JB.3.80a; PB.12.11.6; Svidh.1.4.8; 2.8.1; N.14.12
 अ³न्तः¹ पश्य²ᴿन् वृ³ज²ने³मा¹व²रा³ण्य्  
 आ¹ ति²ष्ठति वृष³भो¹ गोषु²ᴿ जा¹न²न् ।।3 ।। ।।19 (फू)।। [धा. 30 ।  2 । स्व. 6 ।]
 
-![](../../images/soma_moon_chandra.jpg)
+{{< figure src="../../images/soma_moon_chandra.jpg" title="" class="thumbnail">}}

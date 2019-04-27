@@ -13,4 +13,4 @@ unicode_script: devanagari
 
 [ॐ आपो॒ ज्योती॒ रसो॒ ऽमृतं॒ ब्रह्म॒+++(=मन्त्राः)+++ भूर्-भुव॒-सुव॒रो३म् ॥] +++(इति ब्रह्मशिरः प्राणायामे निःस्वासे।)+++
 
-![](../../images/savitR_SunEarthGravityGrid.jpg)
+{{< figure src="../../images/savitR_SunEarthGravityGrid.jpg" title="" class="thumbnail">}}

@@ -16,7 +16,7 @@ unicode_script: devanagari
 जराबोध तद् विविड्ढि विशेविशे यज्ञियाय।  
 स्तोमं रुद्राय दृशीकम्॥
 
-![](../../images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png)
+{{< figure src="../../images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png" title="" class="thumbnail">}}
 
 
 ## साम
