@@ -1,5 +1,5 @@
 ---
-title: महावात्सप्रम्  
+title: सोमः पवते - महावात्सप्रम्  
 unicode_script: devanagari  
 
 ---   
