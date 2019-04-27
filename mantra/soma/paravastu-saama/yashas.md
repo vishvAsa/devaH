@@ -36,7 +36,7 @@ RV.7.32.16
 आ³पृ¹च्छ्यं² ध³रु¹णं² वा³ᴷज्य²ᴿर्षसि³ नृ¹भि²र्धौ³तो¹ वि²चक्ष³णः² ।।2 ।। ।।9(लु)।।
 
 
-![](../../images/somotpAdane-devAhvAnam.png)
+{{< figure src="../../images/somotpAdane-devAhvAnam.png" title="" class="thumbnail">}}
 
 
 ## साम

@@ -15,4 +15,4 @@ RV.7.27.1a; SV.1.318a; TS.1.6.12.1a; MS.4.12.3a: 184.17; 4.14.5: 221.11; KB.26.1
 आ गोम॑ति व्र॒जे भ॑जा॒ त्वं नः॑ ।।
 
 
-![](../../images/indra-rising-to-protect-charriots-of-army.jpg)
+{{< figure src="../../images/indra-rising-to-protect-charriots-of-army.jpg" title="" class="thumbnail">}}

@@ -19,7 +19,7 @@ RV.9.90.2a; SV.1.528a; 2.758a. P: abhi tripRTEMPiShTham Svidh.1.4.20; 5.16.
 अ³भि¹ त्रि²पृ³ष्ठं¹ वृष²ᴿणं वयो³धा¹मा²ङ्गो³षि¹ण²मवावशंत³ वा¹णीः²।  
 व²ना³ व¹सा²नो³ व¹रु²णो³ न²ᵁ सिन्धू³र्वि¹ र²त्न³धा¹ द²यते³ वा¹र्या²णि ।।1 ।।
 
-![](../../images/soma-extraction-watched-by-many-Rtvik-s.png)
+{{< figure src="../../images/soma-extraction-watched-by-many-Rtvik-s.png" title="" class="thumbnail">}}
 
 
 ## साम

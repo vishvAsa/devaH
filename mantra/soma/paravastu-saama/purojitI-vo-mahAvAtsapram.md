@@ -20,8 +20,8 @@ RV.9.101.1a; SV.1.545a; 2.47a; JB.1.116,161a,163a; 2.195,425; 3.79,195; PB.8.5.7
 तं² दु³रो¹ष²म³भी¹नरः³ सो¹मं² वि³श्वा¹च्या² धि³या²।  
 य³ज्ञा¹य² स³न्त्व¹द्र²यः ।।3 ।। ।।18(यि)।।
 
-![](../../images/soma_moon_chandra.jpg)
-![](../../images/soma-enthroned.png)
+{{< figure src="../../images/soma_moon_chandra.jpg" title="" class="thumbnail">}}
+{{< figure src="../../images/soma-enthroned.png" title="" class="thumbnail">}}
 
 
 ## साम

@@ -19,7 +19,7 @@ practice_weight: 10
 सखाय आ नि षीदत पुनानाय प्र गायत।  
 शिशुं न यज्ञैः परि भूषत श्रिये ॥
 
-![](../../images/soma-purification.png)
+{{< figure src="../../images/soma-purification.png" title="" class="thumbnail">}}
 
 
 ## साम १

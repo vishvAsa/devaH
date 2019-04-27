@@ -20,7 +20,7 @@ unicode_script: devanagari
 अरिष्ट-नेमिं पृतनाऽजम् आशुं  
 स्वस्तये तार्क्ष्यम् इहा +हुवेम  ।। ३३२
 
-![](../../images/tArkShya.jpg)
+{{< figure src="../../images/tArkShya.jpg" title="" class="thumbnail">}}
 
 
 ## साम १

@@ -19,7 +19,7 @@ unicode_script: devanagari
 अव +अधमं वि मध्यमं श्रथाय।  
 अथादित्य व्रते वयं तवानागसो अदितये स्याम। 
 
-![](../../images/varuna.png)
+{{< figure src="../../images/varuna.png" title="" class="thumbnail">}}
 
 
 ## साम

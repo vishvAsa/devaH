@@ -14,7 +14,7 @@ SV.1.381a; 2.96a; JB.1.227,228; PB.9.2.21. RV.8.13.1a; A;S.6.4.10; ;S;S.9.18.1; 
 क्रतु॑म् +++(=कर्तारम्)+++ पुनीत उ॒क्थ्य॑म् +++(=स्तोतारम्)+++।  
 वि॒दे वृ॒धस्य +++(=वर्धकस्य)+++ दक्ष॑सो +++(=बलस्य)+++ म॒हान्हि षः ।।
 
-![](../../images/indra-as-maghavAn-followed-by-people-bearing-wealth-moving-towards-a-yajamAna.png)
+{{< figure src="../../images/indra-as-maghavAn-followed-by-people-bearing-wealth-moving-towards-a-yajamAna.png" title="" class="thumbnail">}}
 
 
 ## साम

@@ -16,7 +16,7 @@ unicode_script: devanagari
 
 क ईं व्यक्ता नरः सनीडा रुद्रस्य मर्या अथ स्वश्वाः॥
 
-![](../../images/marut-group-on-a-horse-drawn-charriot-in-the-sky.png)
+{{< figure src="../../images/marut-group-on-a-horse-drawn-charriot-in-the-sky.png" title="" class="thumbnail">}}
 
 ## साम १
 - पारम्परिकगानमूलम् - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n6/mode/1up)।

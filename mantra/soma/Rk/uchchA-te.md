@@ -13,4 +13,4 @@ RV.9.61.10b; SV.1.467b; 2.22b; VS.26.16b; JB.1.81,116; 3.40.
 दि॒वि षद् +++(=सत्)+++ भूमि+++(ः)+++ आ द॑दे ।  
 उ॒ग्रं शर्म॒ महि॒ +++(=महत्)+++ श्रवः॑ +++(=अन्नम्)+++।।
 
-![](../../images/soma-enthroned.png)
+{{< figure src="../../images/soma-enthroned.png" title="" class="thumbnail">}}

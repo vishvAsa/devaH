@@ -15,7 +15,7 @@ unicode_script: devanagari
 अश्वं न त्वा वारवन्तं वन्दध्यै +अग्निं नमोभिः।  
 सम्राजन् तम् अध्वराणाम्।
 
-![](../../images/agni-on-a-ram-drawn-charriot-speeding-towards-the-vedI.jpg)
+{{< figure src="../../images/agni-on-a-ram-drawn-charriot-speeding-towards-the-vedI.jpg" title="" class="thumbnail">}}
 
 
 ## साम १
