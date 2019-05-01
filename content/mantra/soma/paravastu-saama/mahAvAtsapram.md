@@ -4,6 +4,6 @@ unicode_script: devanagari
 
 ---   
 
-<div class="js_include" url="../Rk/somaH-pavate-mahAvAtsapram.md"  newLevelForH1="2" includeTitle="true"> </div> 
+<div class="js_include" url="../somaH-pavate-mahAvAtsapram.md"  newLevelForH1="2" includeTitle="true"> </div> 
 
-<div class="js_include" url="../Rk/purojitI-vo-mahAvAtsapram.md"  newLevelForH1="2" includeTitle="true"> </div> 
+<div class="js_include" url="../purojitI-vo-mahAvAtsapram.md"  newLevelForH1="2" includeTitle="true"> </div> 
