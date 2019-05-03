@@ -15,10 +15,8 @@ practice_weight: 0
 
 - कौथुम-गानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume2SatyavrataSamasrami1876bis_201804/page/n449)।
 
-<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/piba-vairAja-RShabham.mp3"></div>
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/piba-vairAja-RShabham.mp3"></div>
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/piba-somam-vairAja-RShabha.mp3"></div>
 
 वैराजऋषभम् ॥  
 हा+++([])+++उ ॥ त्रिः ॥  

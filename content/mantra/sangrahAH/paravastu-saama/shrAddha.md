@@ -11,60 +11,11 @@ practice_weight: 0
  
 <div class="js_include" url="../../soma/paravastu-saama/pavamAna.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
-## ऋक्
-1.2.12.6.1
+<div class="js_include" url="../../soma/paravastu-saama/abhi-vAyum-pArtham.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
-अ³भि² वा³युं² वी³ᴷत्य्+++((त्यै)=पानाय)+++ अ²ᴿर्षा+++(=गच्छ)+++ गृणा³नो²³ऽ+++(=स्तूयमानः)+++  
-ऽभि³ मि³त्रा¹वरु²ᴿणा पू³य¹मा²नः।  
-अ³भी¹ नरं²ᴿ+++(=नेतारं)+++ धी³ज¹व²नᳱ+++(=धीजवं)+++ रथे³ष्ठा²म् +++(अश्वियुग्मम्)+++  
-अ³भी²न्द्रं³ वृ¹ष²णं³ व¹ज्र²बाहुम् ।।1 ।।
+<div class="js_include" url="../../soma/paravastu-saama/abhi-vastrA.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
-अभि वायुं वीत्यर्षा गृणानोऽ. ऽभि मित्रावरुणा पूयमानः। अभी नरं धीजवनᳱ रथेष्ठामभीन्द्रं वृषणं वज्रबाहुम् ।।1 ।।
-
-## साम
-पार्थम् ॥  
-ओ+++([])+++,ओहो, ओहोइ ।  
-अ+++([])+++भि वायुं ।  वी+++([])+++,इतीया । षा+++([])+++गृणानाहा ।  
-अ+++([])+++भिमित्रा । वा+++([])+++रूणा । पू+++([])+++यामानाहा ।  
-अ+++([])+++भी, नरां ।  धी+++([])+++,इजावा । णङ्+++([])+++राधेष्टाअं ।  
-अ+++([])+++भिइंद्राम् ।  
-वृ+++([])+++षाणं । वा+++([])+++अअ,ज्रा,अ,बाअ,हुंङुं,ङूउम् ॥ ७ ॥
-
-
-## ऋक् 
-1.2.12.6.2
-
-अ³भि¹ वस्त्रा²ᴿ सुवस³ना¹न्य् अ²र्षा³  
-ऽभि² धे³नूः² सु³दु¹घाः² पू³य¹मा²नः।  
-अ³भि¹ च³न्द्रा¹+++(=ह्लादका)+++ भर्त्त²ᴿवे+++(=भरणाय)+++ नो³ हि¹र²ण्या³  
-ऽभ्य¹श्वा²न् र³थि¹नो² देव सोम ।।2 ।।
-
-अभि वस्त्रा सुवसनान्यर्षाभि धेनूः सुदुघाः पूयमानः। अभि चन्द्रा भर्त्तवे नो हिरण्याभ्यश्वान्रथिनो देव सोम ।।2 ।।
-
-## साम
-अ+++([])+++भि वस्त्रा । सूवासा । ना+++([])+++,नी, यर्षा, अ ।  आ+++([])+++भिधे, नूः । सू+++([])+++दू,
-घाः ह । पू+++([])+++,या, मा, नाहा । अ+++([])+++भिचंद्रा । भ+++([])+++र्तावे । नो+++([])+++हीरण्याअ ।
-अ+++([])+++भियश्वान् । रा+++([])+++धीनः । दा+++([])+++अअइ । वा+++([])+++,अ, सो, ओ,
-मांङ, ङाअ ॥ ७ ॥
-
-## ऋक्
-1.2.12.6.3
-
-अ³भी¹ नो² अर्ष दि³व्या¹ वसू²ᴿन्य्  
-अ³भि²ᵁ विश्वा³ पा¹र्थि²वा पू³य¹मा²नः।  
-अ³भि²ᵁ येन³ द्र¹वि²णम् अ³श्न¹वा²मा³ᴷ  
-ऽभ्या²ᴿर्षे³यं¹ ज²मदग्नि³व¹न् नः² ।।3 ।। 
-
-अभी नो अर्ष दिव्या वसून्यभि  
-विश्वा पार्थिवा पूयमानः।  
-अभि येन द्रविणमश्नवामाभ्यार्षेयं जमदग्निवन्नः ।।  
-3 ।। ।।18 (ख)।। [धा. 21 । उ 2 । स्व. 7।]
- 
-## साम
-अ+++([])+++भी, इनो, आ । षा+++([])+++,अदीवि । या+++([])+++वा, सूनीइ । अ+++([])+++भिविश्वा । पा+++([])+++,अधीवा ।
-पू+++([])+++या, मानाहा । अ+++([])+++भिदेना । द्रा+++([])+++वीणं । अ+++([])+++श्ना, वामाअ । 
-ओ+++([])+++,ओहो, ओहोइ । अ+++([])+++भियार्षे ।  या+++([])+++,अंजेमत् । आ+++([])+++आअअ ।
-ग्ना+++([])+++,अइ । वाअ, नांङङाह ॥ ७ ॥
+<div class="js_include" url="../../soma/paravastu-saama/abhi-no-arShA.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
 
 # अन्नसूत्र-सामानि
@@ -78,49 +29,11 @@ practice_weight: 0
 
 <div class="js_include" url="../../indra/paravastu-saama/surUpakRtnam.md"  newLevelForH1="2" includeTitle="true"> </div> 
 
-<div class="js_include" url="../../indra/paravastu-saama/vairAja-RShabha.md"  newLevelForH1="2" includeTitle="true"> </div> 
+<div class="js_include" url="../../indra/paravastu-saama/piba-somam-vairAja-RShabha.md"  newLevelForH1="2" includeTitle="true"> </div> 
 
-## ऋक्
 
-### संहिता
 
-ऋग्वेदः  १.८४.१०  
-ऋषिः  गोतमो राहूगणः  
-देवता  इन्द्रः  
-छन्दः  पंक्तिः
-
-स्वा॒दोरि॒त्था+++(त्थं)+++  वि॑षू॒वतो॒+++(=वि+सू+शतृँ)+++  
-मध्व॑ः+++(=मधुरस्य)+++ +++(इन्द्रपीतशेषस्य सोमस्य)+++ पिबन्ति +++(वर्णेन)+++ गौ॒र्य॑ः +++(गावः)+++ ।
-या इन्द्रे॑ण स॒याव॑री॒र्+++(=सह यान्त्यो)+++ +++(काम-)+++वृष्णा॒  
-मद॑न्ति शो॒भसे॒ +++(पयोदानेन)+++ वस्वी॒र्+++(=निवासदात्र्यः)+++ अनु॑ +++(इन्द्रस्य)+++ स्व॒राज्य॑म् ॥
-
-1.1.4.7.1  
-
-स्वा³दो²रि³त्था¹ वि²षू³व²तो³ म¹धोः² पिबन्ति गौ³ओयः²ᴿ।  
-या¹ इन्द्रे²ᴿण स³या¹व²री³र्वृ²ष्णा³ म¹द²न्ति शो³भ²था³ व²स्वी³र¹नु² स्व³रा¹ज्य²म् ।।
-
-### पदपाठः
-स्वा॒दोः । इ॒त्था । वि॒षु॒ऽवतः॑ । मध्वः॑ । पि॒ब॒न्ति॒ । गौ॒र्यः॑ ।
-याः । इन्द्रे॑ण । स॒ऽयाव॑रीः । वृष्णा॑ । मद॑न्ति । शो॒भसे॑ । वस्वीः॑ । अनु॑ । स्व॒ऽराज्य॑म् ॥
-
-### विस्वरपाठः
-स्वादोरित्था विषूवतो मधोः पिबन्ति गौओयः। या इन्द्रेण सयावरीर्वृष्णा मदन्ति शोभथा वस्वीरनु स्वराज्यम् ।।409 ।।
-
-## साम
-ऋषभशाक्वरम् ॥  
-ओ,ओ+++([])+++ओम् ॥ त्रिः ॥  
-स्वा+++([])+++,दो, रे, इद्थाए, विषू,एवा,,ताआ ।  
-शङ्+++([])+++योः ॥ द्विः ॥   
-म+++([])+++धोरे, पिबाएं,ति गॊ,एरी,इ,,य्याआ ।  
-ह्या+++([])+++विः॥ द्विः ॥  
-या+++([])+++आ, एंद्रे,णा+++([])+++ए, सया,एवा,,रीया ।  
-सु+++([])+++वः ॥ द्विः ॥
-वृ+++([])+++ष्णाए,, मदाएं,ति शो,ए,भा+++(~~बा~~)+++था,आआ ।  
-ज्यो+++([])+++,ति : ॥ द्विः ॥  
-व+++([])+++स्वीरे, अनूए। स्वरा,एजी,यामा।  
-ओ+++([])+++,ओओम् ॥ द्विः ॥  
-ओ+++([])+++,: ओओ, ओ । वा+++([])+++अ ।
-इ+++([])+++टीइडाअ ॥ ७ ॥
+<div class="js_include" url="../../indra/paravastu-saama/svAdor-itthA.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
 <div class="js_include" url="pratIka/atiShangam.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
@@ -131,12 +44,22 @@ practice_weight: 0
 
 <div class="js_include" url="../../Aditya/paravastu-saama/vyAhRti-sAmAni.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
+---
+title: इदं हि नो ओजसा
+unicode_script: devanagari
+practice_weight: 0
+---
+
 ## ऋक्
 इदं हि नो ओजसा  
 सुतं रथानाम् पते!
 पिब त्वा अस्य गिर्वण!
 
 ## साम
+
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/abhi-vAyuM-pArdham.mp3"></div>
+
 घृतश्चुनिधनम् ॥  
 इ+++([])+++दं हि नों, ओ, ओजसाअ ।  
 सू+++([])+++,तं, रा,धा,,ना+++([])+++o,  
@@ -146,6 +69,12 @@ practice_weight: 0
 पी+++([])+++बा, तूवौउ । हो+++([])+++,वाआहा । स्या+++([])+++ गा,ये,एहे । र्वा+++([])+++,अणाअअअ, औहोवाअ ।  
 घृ+++([])+++त, श्चूताः ॥ ७ ॥
 
+
+---
+title: त्वामिदा ह्यो
+unicode_script: devanagari
+practice_weight: 0
+---
 ## ऋक्
 
 कौथुमसंहितायाम् - 1.1.3.7.10  
@@ -159,12 +88,23 @@ practice_weight: 0
 
 
 ## साम
+
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/abhi-vAyuM-pArdham.mp3"></div>
+
 माधुच्छन्दसम् ॥  
 त्वा+++([])+++,अमीदाअ । हो+++([])+++इ । हि+++([])+++य्योओ, नराङ्घॆए ।
 आ+++([])+++पा, इ, प्यन्वा । ज्रा+++([])+++इ, नृभूर्णायाहा । स+++([])+++इंद्र, स्तोमवा, अहसाह । इ+++([])+++हा, श्रू, ध । औ+++([])+++उ, होओ वा, अहाइ । ऊ+++([])+++पा, स्वास । औ+++([])+++उ, होओ, ओवा, आहा । रा+++([])+++मागा, अहा, आ, आ, अइ ।
 ओ+++([])+++ओ,इ । डा+++([])+++अ ॥ ७ ॥
 
 <div class="js_include" url="../../worlds/paravastu-saama/madhushchunidhanam.md"  newLevelForH1="2" includeTitle="true"> </div>  
+
+
+---
+title: पुरां भिन्दुर्युवा
+unicode_script: devanagari
+practice_weight: 0
+---
 
 ## ऋक्
 
@@ -177,12 +117,21 @@ practice_weight: 0
 
 ## साम
 
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/abhi-vAyuM-pArdham.mp3"></div>
+
+
 मारुतम् ॥  
 पु+++([])+++रां, भिंदुर्यूवा, कविः । अ+++([])+++मितौ, जा, आजाया, अता ।
 आ+++([])+++,इंद्रो, विश्वा, अ । स्या+++([])+++,कर्माणाः  । ध+++([])+++र्ता । वा+++([])+++,ज्रौवा, ओ, वाअ ।
 पु+++([])+++रूष्ठुताः । हू+++([])+++इ ।  डा+++([])+++अ ॥ ७ ॥
 
 
+---
+title: उप प्रक्षे
+unicode_script: devanagari
+practice_weight: 0
+---
 ## ऋक्
 
 कौथुमायाम् 1.1.4.10.8।
@@ -196,9 +145,19 @@ practice_weight: 0
 धीमहे त इन्द्र ।।444 ।।
 
 ## साम
+
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/abhi-vAyuM-pArdham.mp3"></div>
+
 ओ+++([])+++,वाअ । ऊ+++([])+++प, प्रक्षे, मधुमति, क्षियंतः । ओ+++([])+++,वाअ । ओ+++([])+++इ । 
 पु+++([])+++ष्ये, म रयिं धीमहे, ता, आ, आइंद्रा, ह । ओ+++([])+++वा+++([])+++,ओ वा ।
 ओ+++([])+++व्वाअ+++([])+++,हाआउवाआअ । ऊ+++([])+++ऊ, पाअ ॥ ७ ॥
+
+---
+title: पवस्व सोम मधुमान्
+unicode_script: devanagari
+practice_weight: 0
+---
 
 ## ऋक्
 "devata" : "पवमानः सोमः",  
@@ -215,6 +174,10 @@ practice_weight: 0
 
 
 ## साम
+
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/abhi-vAyuM-pArdham.mp3"></div>
+
 हा+++([])+++,आअओ, हाइ । इ+++([])+++हा, अआआ ।  
 पा+++([])+++,वस्व सो,,मा+++([])+++,अ मा, धु ।
 म+++([])+++ङ्री, तावाअ ।  
@@ -234,6 +197,12 @@ practice_weight: 0
 
 <div class="js_include" url="../../agni/paravastu-saama/yadvA.md"  newLevelForH1="2" includeTitle="true"> </div> 
 
+---
+title: अक्षन्नमीमदन्त
+unicode_script: devanagari
+practice_weight: 0
+---
+
 ## ऋक्
 "devata" : "इन्द्रः",  
 "rishi" : "गोतमो राहूगणः",  
@@ -249,6 +218,10 @@ practice_weight: 0
 अक्षन्नमीमदन्त ह्यव प्रिया अधूषत। अस्तोषत स्वभानवो विप्रा नविष्ठया मती योजा न्विन्द्र ते हरी ।।415 ।।
 
 ## साम
+
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/abhi-vAyuM-pArdham.mp3"></div>
+
 अ+++([])+++क्षन्नामिइ , मादाअ । ता+++([])+++,हीइ । आ+++([])+++अ । व+++([])+++प्रियाआ, धूउ ।
 षा+++([])+++तअ । अ+++([])+++स्तोओ, षतस्वाभाअ । नवाह । वि+++([])+++: प्रा ना, अवि । ष्ठा+++([])+++या,
 वती, इ । यो+++([])+++जानू, वा, अइ । द्रा+++([])+++,अताआ अ औहोवा अ । हा+++([])+++,अ री इ ॥ ७ ॥ 
@@ -264,6 +237,10 @@ practice_weight: 0
 
 ## साम
 
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/abhi-vAyuM-pArdham.mp3"></div>
+
+
 <div class="js_include" url="../../viShNu/paravastu-saama/idaM-viShNur-ekarcham.md"  newLevelForH1="2" includeTitle="true"> </div>
 
 <div class="js_include" url="../../agni/paravastu-saama/pRxasya-vRShNo.md"  newLevelForH1="2" includeTitle="true"> </div>
@@ -275,6 +252,12 @@ practice_weight: 0
 <div class="js_include" url="../../indra/paravastu-saama/vAmadevyam-asmin.md"  newLevelForH1="2" includeTitle="true"> </div>
 
 (एषा वै विष्णु नाम संहितैतान् प्रयुञ्जानः । विष्णुं प्रीणाति ॥)
+
+---
+title: यद्वर्चो हिरण्यस्य
+unicode_script: devanagari
+practice_weight: 0
+---
 
 ## ऋक्
 
@@ -296,6 +279,10 @@ practice_weight: 0
 सहस्तन्न इन्द्र दद्ध्योज ईशे ह्यस्य महतो विरप्शिन्। स्थविरं च वाजं वृत्रेषु शत्रून्त् सुहना कृधी नः ।।625
 
 ## साम १
+
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/abhi-vAyuM-pArdham.mp3"></div>
+
 हा+++([])+++उ ॥त्रिः॥  
 अ+++([])+++हमन्नम् ॥त्रिः॥  
 अ+++([])+++हमन्ना,दो,,ह+++([])+++मन्नाअ,,दो, ह+++([])+++मन्नाअ,,दो,  
@@ -318,6 +305,10 @@ practice_weight: 0
 ए, ए । आ+++([])+++ह०, ० स्वर्ज्योतीः ॥ 
 
 ## साम २
+
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/abhi-vAyuM-pArdham.mp3"></div>
+
 हा+++([])+++उ ॥त्रिः॥  
 आ+++([])+++हं, ० सहो, ऒ । हं, ०+++([])+++सहोओ । हं ०+++([])+++सहोओ ।  
 हं०+++([])+++सा,आसहिः । आ+++([])+++हं, ०सा, सहिः । आ+++([])+++हं, ०सा, अ, सहिः ।  
@@ -338,6 +329,10 @@ practice_weight: 0
 आ+++([])+++ह०, ०स्वर्ज्योतीः ॥ ७ ॥ 
 
 ## साम ३
+
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/abhi-vAyuM-pArdham.mp3"></div>
+
 हा+++([])+++उ ॥त्रिः॥  
 आ+++([])+++हं,वर्चो ओ । हं ०+++([])+++वर्चो ओ । हं ०+++([])+++वर्चः ।  
 हा+++([])+++उ ॥त्रिः॥  
@@ -354,6 +349,10 @@ practice_weight: 0
 ए,ए । आ+++([])+++हं, ०स्वर्ज्योतीः ॥ ७ ॥ 
 
 ## साम ४
+
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/abhi-vAyuM-pArdham.mp3"></div>
+
 हा+++([])+++उ ॥त्रिः॥  
 आ+++([])+++हं, ते,एजोओ । हं+++([])+++ते, एजोओ । हं+++([])+++तेजः ।  
 हा+++([])+++उ ॥त्रिः॥  
@@ -369,6 +368,10 @@ practice_weight: 0
 ए, ए । आ+++([])+++ह०, ०स्वर्ज्योतीः ॥ ७ ॥ 
 
 ## साम ५
+
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/abhi-vAyuM-pArdham.mp3"></div>
+
 हा+++([])+++उ ॥त्रिः॥  
 दि+++([])+++शं, दूहेऎ ॥त्रिः॥  
 दि+++([])+++शौ, दूहेऎ ॥त्रिः॥  
@@ -392,6 +395,10 @@ practice_weight: 0
 ए, ए । आ+++([])+++ह०, ०स्वर्ज्योतीः ॥ ७ ॥ 
 
 ## साम ६
+
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/abhi-vAyuM-pArdham.mp3"></div>
+
 हा+++([])+++उ ॥त्रिः॥  
 म+++([])+++नो,जै त् ॥ त्रिः ॥  
 हृ+++([])+++दयमजैत् ॥ त्रिः ॥  
@@ -415,6 +422,10 @@ practice_weight: 0
 ए, ए । आ+++([])+++ह०, ०स्वर्ज्योतीः ॥ ७ ॥ 
 
 ## साम ७
+
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/abhi-vAyuM-pArdham.mp3"></div>
+
 हा+++([])+++उ ॥त्रिः॥  
 व+++([])+++यः ॥ त्रिः ॥  
 व+++([])+++यो, वयः ॥ त्रिः ॥   
@@ -433,6 +444,10 @@ practice_weight: 0
 ए, ए । आ+++([])+++ह०, स्वर्ज्योतीः ॥ ७ ॥
 
 ## साम ८
+
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/abhi-vAyuM-pArdham.mp3"></div>
+
 हा+++([])+++उ ॥ त्रिः ॥  
 रू+++([])+++पम् ॥ त्रिः ॥  
 रू+++([])+++पं, रूपम् ॥ त्रिः ॥  
@@ -449,10 +464,11 @@ practice_weight: 0
 ए, ए । रू+++([])+++,पं, रू+++([])+++पं, रूपम् ॥ एवं त्रिः ॥  
 ए, ए । आ+++([])+++ह०, स्वर्ज्योतीः ॥ ७ ॥
 
-
-## ऋक्
-
 ## साम ९
+
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/abhi-vAyuM-pArdham.mp3"></div>
+
 ही+++([])+++हीया, ऊ+++([])+++उ ॥ त्रिः ॥  
 उ+++([])+++दापप्तम् ॥ त्रिः ॥  
 ऊ+++([])+++र्ध्वा नभां,स्यकुर्षि ॥ त्रिः ॥  
@@ -476,6 +492,12 @@ practice_weight: 0
 विद्यौ,उत्स,म् अदतनम् ॥ एवं त्रिः ॥  
 ए, ए । पिंन्न+++([])+++स्वाः ॥ ७ ॥
 
+---
+title: इमं स्तोमम्
+unicode_script: devanagari
+practice_weight: 0
+---
+
 ## ऋक्
 1.94.1  
 "devata" : "अग्निः",  
@@ -490,6 +512,10 @@ practice_weight: 0
 अग्ने स॒ख्ये मा रि॑षामा व॒यं तव ।। 
 
 ## साम
+
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/abhi-vAyuM-pArdham.mp3"></div>
+
 भारुण्डसाम॥  
 हा+++([])+++उ ॥ त्रिः ॥  
 ऊ+++([])+++उ । ॥ त्रिः ॥  
@@ -562,7 +588,17 @@ practice_weight: 0
 
 भोक्तृषु दधिप्रसादं भक्षत्सु गेयानि।  
 
+---
+title: यद्वर्चो हिरण्यस्य - प्रधे
+unicode_script: devanagari
+practice_weight: 0
+---
+
 ## साम
+
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/abhi-vAyuM-pArdham.mp3"></div>
+
 हा+++([])+++उ ॥त्रिः॥  ॥  
 प्र+++([])+++धे ॥ त्रिः ॥  
 प्र+++([])+++त्युष्टाअम् ॥ त्रिः ॥+++([])+++  

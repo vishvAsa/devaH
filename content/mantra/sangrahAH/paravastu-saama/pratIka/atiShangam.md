@@ -6,6 +6,11 @@ unicode_script: devanagari
 +++(सामपङ्क्तीनां सङ्ग्रहः कश्चित्।)+++
 
 ## साम
+
+
+<div class="audioEmbed"  caption="गोपालार्यः 2015" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/atiShangam.mp3"></div>
+
 अतिषङ्गम् ।  
 ए+++([])+++ पुरो,ओजित्।  
 वो+++([])+++, अंधसस् सुता,,यमादया+++([])+++अइ,,त्नावाइ+++([])+++डा ।
