@@ -21,6 +21,10 @@ practice_weight: 0
 जु³हूम²सि³ द्य¹वि²द्यवि ।।1 ।।
 
 ## साम
+
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/surUpakRtnam.mp3"></div>
+
 रैवतऋषभम् ॥  
 सु+++([])+++रूपकृत्नमूतये ॥ त्रिः ॥  
 सु+++([])+++दुघा,म् इव गो,ओ,दूहे ।  

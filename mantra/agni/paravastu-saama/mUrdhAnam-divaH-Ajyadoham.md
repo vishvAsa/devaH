@@ -11,8 +11,6 @@ practice_weight: 0
 
 
 ## साम १
-<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/mUrdhAnam-divaH-Ajyadoha-jyeShTha.mp3"></div>
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/mUrdhAnam-divaH-Ajyadoha-jyeShTha.mp3"></div>
 
@@ -32,9 +30,7 @@ practice_weight: 0
 ए+++([])+++ए । आ+++([])+++ज्यदोहम् ॥ एवं द्विः ॥  
 ए+++([])+++ए । आ+++([])+++ज्यदो, हाअअअम् ॥ ७ ॥
 
-## साम
-<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/mUrdhAnam-divaH-Ajyadoha-Inidhana.mp3"></div>
+## साम - ईनिधनमाज्यदोहम्
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/mUrdhAnam-divaH-Ajyadoha-Inidhana.mp3"></div>
 
@@ -52,9 +48,7 @@ practice_weight: 0
 चि+++([])+++दो, ओ+++([])+++ह उ । वा+++([])+++अ ।  
 ई+++([])+++इ ॥ ७ ॥
 
-## साम
-<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/mUrdhAnam-divaH-Ajyadoha-Rtanidhana.mp3"></div>
+## साम ऋतनिधनमाज्यदोहम्
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/mUrdhAnam-divaH-Ajyadoha-Rtanidhana.mp3"></div>
 
