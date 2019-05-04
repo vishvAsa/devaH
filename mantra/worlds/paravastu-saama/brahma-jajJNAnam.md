@@ -10,7 +10,7 @@ AV;S.4.1.1a; 5.6.1a; AVP.5.2.2a; 6.11.1a; SV.1.321a; VS.13.3a; TS.4.2.8.2a; MS.2
 
 +++([कौथुमभाष्ये सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n706&sa=D&ust=1542425956410000)। तैत्तिरीयब्राह्मणे [अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_037_Taittiriya_Brahmanam_with_Sayanabhashya_Part_2_-_Narayanasastri_Godbole_1898#page/n229/mode/2up&sa=D&ust=1542425956410000), [अत्र](https://archive.org/stream/taittiriya/taittiriya_brahmana_bhaskara_02#page/n569/mode/2up&sa=D&ust=1542425956411000)। मानसतरङ्गिणीकारो [अत्र](https://twitter.com/blog_supplement/status/1062936630602928128&sa=D&ust=1542425956411000)। शुक्रग्रह इत्यन्ये [केचित्](https://twitter.com/agnimaan/status/1014886758918512640&sa=D&ust=1542425956411000), वेनो गन्धर्वःकश्चिद् इति आदित्यो वेति सायणः।])+++
 
-ब्रह्म॑ +++(=मन्त्रः ([सौरमण्डलयज्ञे])+++) जज्ञा॒नं +++(=उत्पन्नम्)+++ प्र॑थ॒मं पु॒रस्ता॑त्।
+ब्रह्म॑ +++(=मन्त्रः ([सौरमण्डलयज्ञे]))+++ जज्ञा॒नं +++(=उत्पन्नम्)+++ प्र॑थ॒मं पु॒रस्ता॑त्।
 
 वि सी॑म॒तस् सु॒रुचो॑ वे॒न आ॑वः ।  
 स बु॒ध्न्या॑ +++(=मूले भवः ([खस्य सूर्यः])+++) उप॒मा अ॑स्य वि॒ष्ठाः +++(=विस्थितः)+++,
