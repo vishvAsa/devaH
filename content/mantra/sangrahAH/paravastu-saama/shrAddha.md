@@ -45,7 +45,9 @@ practice_weight: 0
 <div class="js_include" url="../../Aditya/paravastu-saama/vyAhRti-sAmAni.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
 
-<div class="js_include" url="../../indra/paravastu-saama/idaM-hi-no-ojasA.md"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../../indra/paravastu-saama/idaM-hi-no-ojasA-ghRtasUktam.md"  newLevelForH1="2" includeTitle="true"> </div>  
+
+<div class="js_include" url="../../indra/paravastu-saama/idaM-hi-no-ojasA-ghRtashchunidhanam.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
 <div class="js_include" url="../../indra/paravastu-saama/tvAm-idA-hyo.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
