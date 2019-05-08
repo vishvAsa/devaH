@@ -19,7 +19,7 @@ RV.8.63.1a; SV.1.355a; AB.5.12.6; KB.23.6; A;S.8.1.14; Svidh.1.4.14; 3.1.10. P: 
 
 ## साम
 
-- पारम्परिक-गान-मूलम् [अत्र](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/VIVAAHA%20UPANAYANA%20SAAMAANI#page/n2/mode/1up)।
+- पारम्परिक-गान-मूलम् [अत्र](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/VIVAAHA%20UPANAYANA%20SAAMAANI#page/n2/mode/1up)। कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n789)।
 
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 (अत्र प्रथमेऽपि हॊओवआइ ही(प्रे)इ इत्यस्मिन् प्रेङ्खस्वरश् श्रूयते।)" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/madhushchunidhanam.mp3"></div>
