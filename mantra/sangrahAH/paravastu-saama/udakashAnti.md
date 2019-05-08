@@ -81,7 +81,10 @@ unicode_script: devanagari
 <div class="js_include" url="../../worlds/paravastu-saama/brahma-jajJNAnam.md"  newLevelForH1="2" includeTitle="true"> </div> 
 
 <div class="js_include" url="../../worlds/paravastu-saama/pavitran-te.md"  newLevelForH1="2" includeTitle="true"> </div> 
+
+पवित्रवर्गः समाप्तः।
  
+# उत्तरागम्।
 
 <div class="js_include" url="../../agni/paravastu-saama/agna-AyAhi.md"  newLevelForH1="2" includeTitle="true"> </div> 
 
