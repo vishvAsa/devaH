@@ -15,7 +15,7 @@ practice_weight: 0
 
 <div class="js_include" url="../../soma/paravastu-saama/abhi-vastrA.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
-<div class="js_include" url="../../soma/paravastu-saama/abhi-no-arShA.md"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../../soma/paravastu-saama/abhi-no-arSha.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
 
 # अन्नसूत्र-सामानि
@@ -25,7 +25,7 @@ practice_weight: 0
 - [२०१५](https://docs.google.com/document/d/1aQZ3MvuHYHWW9bD8qpAMCRCbM7saNJ8VIOkLF0wPy-w/edit)
 
 
-<div class="js_include" url="../../agni/paravastu-saama/mUrdhanam-divaH-Ajyadoham.md"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../../agni/paravastu-saama/mUrdhAnam-divaH-Ajyadoham.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
 <div class="js_include" url="../../indra/paravastu-saama/surUpakRtnam.md"  newLevelForH1="2" includeTitle="true"> </div> 
 
