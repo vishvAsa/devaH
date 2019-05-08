@@ -44,30 +44,8 @@ practice_weight: 0
 
 <div class="js_include" url="../../Aditya/paravastu-saama/vyAhRti-sAmAni.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
----
-title: इदं हि नो ओजसा
-unicode_script: devanagari
-practice_weight: 0
----
 
-## ऋक्
-इदं हि नो ओजसा  
-सुतं रथानाम् पते!
-पिब त्वा अस्य गिर्वण!
-
-## साम
-
-<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/abhi-vAyuM-pArdham.mp3"></div>
-
-घृतश्चुनिधनम् ॥  
-इ+++([])+++दं हि नों, ओ, ओजसाअ ।  
-सू+++([])+++,तं, रा,धा,,ना+++([])+++o,  
-पा,तौउ । हो+++([])+++,वाआहाइ ।  
-पी+++([])+++बा,तू वा । स्या+++([])+++,गायिर्वाणौउ ।
-हो+++([])+++,वाआहाइ ।  
-पी+++([])+++बा, तूवौउ । हो+++([])+++,वाआहा । स्या+++([])+++ गा,ये,एहे । र्वा+++([])+++,अणाअअअ, औहोवाअ ।  
-घृ+++([])+++त, श्चूताः ॥ ७ ॥
+<div class="js_include" url="../../indra/paravastu-saama/idaM-hi-no-ojasA.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
 
 ---

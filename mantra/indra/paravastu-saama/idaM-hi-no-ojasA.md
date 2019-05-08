@@ -1,0 +1,34 @@
+---
+title: इदं हि नो ओजसा
+unicode_script: devanagari
+practice_weight: 0
+---
+
+## ऋक्
+इदं हि नो ओजसा  
+सुतं रथानाम् पते!
+पिब त्वा अस्य गिर्वण!
+
+## साम १
+
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/idaM-hi-no-ojasA-ghRtasUkta.mp3"></div>
+
+घृतसूक्तम्।
+इ दांङ्मॆ ऎ ! हि या, आनू, ओओजसाअ ! सू, तं,
+रा, धा ! ना, अं, पाआ, ताइ ! पि बातुवस्या, गीईर्वणाः ! पि बाअ,
+तू, वाअ ! स्या,	अगा, आआ औहोवाअ ! र्वा	अणाः !! ७ !!
+
+## साम २
+
+<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/idaM-hi-no-ojasA-ghRtashchunidhana.mp3"></div>
+
+घृतश्चुनिधनम् ॥  
+इ+++([])+++दं हि नो, ओ, ओजसाअ ।  
+सू+++([])+++,तं, रा,धा,,ना+++([])+++o,  
+पा,तौउ । हो+++([])+++,वाआहाइ ।  
+पी+++([])+++बा,तू वा । स्या+++([])+++,गायिर्वाणौउ ।
+हो+++([])+++,वाआहाइ ।  
+पी+++([])+++बा, तूवौउ । हो+++([])+++,वाआहा । स्या+++([])+++ गा,ये,एहे । र्वा+++([])+++,अणाअअअ, औहोवाअ ।  
+घृ+++([])+++त, श्चूताः ॥ ७ ॥
