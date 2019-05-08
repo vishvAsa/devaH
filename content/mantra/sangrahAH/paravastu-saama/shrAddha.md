@@ -68,7 +68,7 @@ practice_weight: 0
 ## साम
 
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/abhi-vAyuM-pArdham.mp3"></div>
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/tvAm-idA-hyo.mp3"></div>
 
 माधुच्छन्दसम् ॥  
 त्वा+++([])+++,अमीदाअ । हो+++([])+++इ । हि+++([])+++य्योओ, नराङ्घॆए ।
@@ -96,13 +96,17 @@ practice_weight: 0
 ## साम
 
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/abhi-vAyuM-pArdham.mp3"></div>
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/purAm-bhindur-yuvA.mp3"></div>
 
 
 मारुतम् ॥  
-पु+++([])+++रां, भिंदुर्यूवा, कविः । अ+++([])+++मितौ, जा, आजाया, अता ।
-आ+++([])+++,इंद्रो, विश्वा, अ । स्या+++([])+++,कर्माणाः  । ध+++([])+++र्ता । वा+++([])+++,ज्रौवा, ओ, वाअ ।
-पु+++([])+++रूष्ठुताः । हू+++([])+++इ ।  डा+++([])+++अ ॥ ७ ॥
+पु+++([])+++रां, भिंदुर्यूवा, कविः ।  
+अ+++([])+++मितौ,जा, आजाया,अता ।  
+आ+++([])+++, इंद्रो, विश्वा,अ,,स्या+++([])+++,कर्माणाः  ।  
+ध+++([])+++र्ता ।  
+वा+++([])+++,ज्रौवा, ओ, वाअ ।  
+पु+++([])+++रूष्ठुताः ।  
+हू+++([])+++इ ।  डा+++([])+++अ ॥ ७ ॥
 
 
 ---
@@ -125,11 +129,15 @@ practice_weight: 0
 ## साम
 
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/abhi-vAyuM-pArdham.mp3"></div>
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/upa-praxe.mp3"></div>
 
-ओ+++([])+++,वाअ । ऊ+++([])+++प, प्रक्षे, मधुमति, क्षियंतः । ओ+++([])+++,वाअ । ओ+++([])+++इ । 
-पु+++([])+++ष्ये, म रयिं धीमहे, ता, आ, आइंद्रा, ह । ओ+++([])+++वा+++([])+++,ओ वा ।
-ओ+++([])+++व्वाअ+++([])+++,हाआउवाआअ । ऊ+++([])+++ऊ, पाअ ॥ ७ ॥
+ओ+++([])+++,वाअ ।  
+ऊ+++([])+++प, प्रक्षे, मधुमति, क्षियंतः ।  
+ओ+++([])+++,वाअ ।  
+ओ+++([])+++इ ।  
+पु+++([])+++ष्ये, म रयिं धीमहे, ता, आ, आइंद्रा, ह ।  
+ओ+++([])+++वा+++([])+++,ओ वा । ओ+++([])+++व्वाअ+++([])+++,हाआउवाआअ ।  
+ऊ+++([])+++ऊ, पाअ ॥ ७ ॥
 
 ---
 title: पवस्व सोम मधुमान्
@@ -154,7 +162,7 @@ practice_weight: 0
 ## साम
 
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/abhi-vAyuM-pArdham.mp3"></div>
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/pavasva-soma-madhumAn.mp3"></div>
 
 हा+++([])+++,आअओ, हाइ । इ+++([])+++हा, अआआ ।  
 पा+++([])+++,वस्व सो,,मा+++([])+++,अ मा, धु ।
@@ -198,7 +206,7 @@ practice_weight: 0
 ## साम
 
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/abhi-vAyuM-pArdham.mp3"></div>
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/axann-amImadanta.mp3"></div>
 
 अ+++([])+++क्षन्नामिइ , मादाअ । ता+++([])+++,हीइ । आ+++([])+++अ । व+++([])+++प्रियाआ, धूउ ।
 षा+++([])+++तअ । अ+++([])+++स्तोओ, षतस्वाभाअ । नवाह । वि+++([])+++: प्रा ना, अवि । ष्ठा+++([])+++या,
@@ -212,12 +220,6 @@ practice_weight: 0
 <div class="js_include" url="../../soma/paravastu-saama/kanikranti.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
 (पितृसूक्तं समाप्तम् ॥ एषा वै पितृयानाम संहितैतान् प्रयुञ्जन् पितॄन् प्रीणाति ॥)
-
-## साम
-
-<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/abhi-vAyuM-pArdham.mp3"></div>
-
 
 <div class="js_include" url="../../viShNu/paravastu-saama/idaM-viShNur-ekarcham.md"  newLevelForH1="2" includeTitle="true"> </div>
 
@@ -259,7 +261,7 @@ practice_weight: 0
 ## साम १
 
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/abhi-vAyuM-pArdham.mp3"></div>
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/yad-varcho-hiraNyasya-1.mp3"></div>
 
 हा+++([])+++उ ॥त्रिः॥  
 अ+++([])+++हमन्नम् ॥त्रिः॥  
@@ -285,7 +287,7 @@ practice_weight: 0
 ## साम २
 
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/abhi-vAyuM-pArdham.mp3"></div>
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/yad-varcho-hiraNyasya-2.mp3"></div>
 
 हा+++([])+++उ ॥त्रिः॥  
 आ+++([])+++हं, ० सहो, ऒ । हं, ०+++([])+++सहोओ । हं ०+++([])+++सहोओ ।  
@@ -303,19 +305,19 @@ practice_weight: 0
 ह०,०+++([])+++सा,आसहिः । आ+++([])+++ह०,०साअ,सहिः । आ+++([])+++ह०, ०साअ, सहिः ।  
 आ+++([])+++ह०, ०सा, सहाअ, नो । हं+++([])+++सा, सहाअ,नो । ह०, ०+++([])+++सा, सहाअ, नः ।  
 हा+++([])+++उ ॥द्विः॥ ह+++([])+++उवा ।  
-ए, ए ।  आ+++([])+++: ह० ० सहोओ, ह० ०सा, आसहिर्, आह० ०सा, सहाअ, नः ॥ एवं त्रिः ॥ ए, ए ।  
-आ+++([])+++ह०, ०स्वर्ज्योतीः ॥ ७ ॥ 
+ए, ए ।  आ+++([])+++: ह० ० सहोओ, ह० ०सा, आसहिर्, आह० ०सा, सहाअ, नः ॥ एवं त्रिः ॥  
+ए, ए ।  आ+++([])+++ह०, ०स्वर्ज्योतीः ॥ ७ ॥ 
 
 ## साम ३
 
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/abhi-vAyuM-pArdham.mp3"></div>
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/yad-varcho-hiraNyasya-3.mp3"></div>
 
 हा+++([])+++उ ॥त्रिः॥  
 आ+++([])+++हं,वर्चो ओ । हं ०+++([])+++वर्चो ओ । हं ०+++([])+++वर्चः ।  
 हा+++([])+++उ ॥त्रिः॥  
 
-य+++([])+++द्वर्चोऒ, हिरण्या । स्या+++([])+++।  
+य+++([])+++द्वर्चोऒ, हिरण्या,स्या+++([])+++।  
 य+++([])+++द्वाअ, वर्चोऒ, गवा,मू,,ता+++([])+++,।  
 स+++([])+++त्यस्य, ब्रह्मणोओ, वा+++(र्)+++,,चाः+++([])+++।  
 ते+++([])+++, नामाअ, संसृजाअ,मा,,सा+++([])+++इ । 
@@ -329,7 +331,7 @@ practice_weight: 0
 ## साम ४
 
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/abhi-vAyuM-pArdham.mp3"></div>
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/yad-varcho-hiraNyasya-4.mp3"></div>
 
 हा+++([])+++उ ॥त्रिः॥  
 आ+++([])+++हं, ते,एजोओ । हं+++([])+++ते, एजोओ । हं+++([])+++तेजः ।  
@@ -348,7 +350,7 @@ practice_weight: 0
 ## साम ५
 
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/abhi-vAyuM-pArdham.mp3"></div>
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/yad-varcho-hiraNyasya-5.mp3"></div>
 
 हा+++([])+++उ ॥त्रिः॥  
 दि+++([])+++शं, दूहेऎ ॥त्रिः॥  
@@ -375,7 +377,7 @@ practice_weight: 0
 ## साम ६
 
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/abhi-vAyuM-pArdham.mp3"></div>
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/yad-varcho-hiraNyasya-6.mp3"></div>
 
 हा+++([])+++उ ॥त्रिः॥  
 म+++([])+++नो,जै त् ॥ त्रिः ॥  
@@ -402,7 +404,7 @@ practice_weight: 0
 ## साम ७
 
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/abhi-vAyuM-pArdham.mp3"></div>
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/yad-varcho-hiraNyasya-7.mp3"></div>
 
 हा+++([])+++उ ॥त्रिः॥  
 व+++([])+++यः ॥ त्रिः ॥  
@@ -424,7 +426,7 @@ practice_weight: 0
 ## साम ८
 
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/abhi-vAyuM-pArdham.mp3"></div>
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/yad-varcho-hiraNyasya-8.mp3"></div>
 
 हा+++([])+++उ ॥ त्रिः ॥  
 रू+++([])+++पम् ॥ त्रिः ॥  
@@ -435,6 +437,7 @@ practice_weight: 0
 य+++([])+++द्वाअ, वर्चोऒ, गवा,मू,,ता+++([])+++।  
 स+++([])+++त्यस्य, ब्रह्मणोओ, वा+++(र्)+++चाः+++([])+++।  
 ते+++([])+++,नामाअ, संसृजाअ,मा,,सा+++([])+++इ ।  
+
 हा+++([])+++उ ॥त्रिः॥  
 रू+++([])+++पम् ॥ त्रिः ॥  
 रू+++([])+++पं, रूपम् ॥ त्रिः ॥  
@@ -445,7 +448,7 @@ practice_weight: 0
 ## साम ९
 
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/abhi-vAyuM-pArdham.mp3"></div>
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/yad-varcho-hiraNyasya-9.mp3"></div>
 
 ही+++([])+++हीया, ऊ+++([])+++उ ॥ त्रिः ॥  
 उ+++([])+++दापप्तम् ॥ त्रिः ॥  
@@ -492,7 +495,7 @@ practice_weight: 0
 ## साम
 
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/abhi-vAyuM-pArdham.mp3"></div>
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/imaM-stomam.mp3"></div>
 
 भारुण्डसाम॥  
 हा+++([])+++उ ॥ त्रिः ॥  
@@ -575,7 +578,7 @@ practice_weight: 0
 ## साम
 
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/abhi-vAyuM-pArdham.mp3"></div>
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/yad-varcho-hiraNyasya-pradhe.mp3"></div>
 
 हा+++([])+++उ ॥त्रिः॥  ॥  
 प्र+++([])+++धे ॥ त्रिः ॥  
