@@ -2,9 +2,10 @@
 title: त्वामिद्धि हवामहे  
 unicode_script: devanagari  
 
-status: to_memorize
 practice_weight: 0
 ---   
+
+बृहत्सामेत्यस्या गानं प्रसिद्धम्! "बृहत्साम तथा साम्नां गायत्री छन्दसामहम् ।"
 
 ## ऋक्
 
