@@ -1,5 +1,5 @@
 ---
-title: इदं हि नो ओजसा
+title: इदं हि नो - घृतश्चुनिधनम्
 unicode_script: devanagari
 practice_weight: 0
 ---
