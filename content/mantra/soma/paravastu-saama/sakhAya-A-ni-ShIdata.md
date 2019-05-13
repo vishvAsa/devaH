@@ -1,8 +1,6 @@
 ---
 title: सखाय आ निषीदत 
 unicode_script: devanagari  
-
-practice_weight: 10
 ---   
 
 ## ऋक्
