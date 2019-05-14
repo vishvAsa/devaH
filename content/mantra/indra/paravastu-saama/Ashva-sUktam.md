@@ -8,11 +8,11 @@ unicode_script: devanagari
 
 <div class="js_include" url="../Rk/yadindrAham.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
-शुक्र आहुतः - स्वर्मयः।
+शुक्र आहुतः {- स्वर्मयः}+++(नास्त्य् अयम् भागः कौथुमगाने)+++।
 
 ## साम
 
-- पारम्परिक-गान-मूलम् [अत्र](https://sanskritdocuments.org/sites/pssramanujaswamy/VIVAAHA%20UPANAYANA%20SAAMAANI.pdf&sa=D&ust=1542425956217000)। कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n353)।
+- पारम्परिक-गान-मूलम् [अत्र](https://sanskritdocuments.org/sites/pssramanujaswamy/VIVAAHA%20UPANAYANA%20SAAMAANI.pdf&sa=D&ust=1542425956217000)। कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n353), [अत्र](https://archive.org/details/in.ernet.dli.2015.344920/page/n309) च।
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/Ashva-sUktam.mp3"></div>
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
