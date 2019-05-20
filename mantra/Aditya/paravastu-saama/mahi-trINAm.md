@@ -20,7 +20,7 @@ unicode_script: devanagari
 {{< figure src="../../images/varuna.png" title="" class="thumbnail">}}
 
 
-## साम
+## साम १
 - पारम्परिकगानमूलम् - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n8/mode/1up)।]
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/mahi-trINAm-1.mp3"></div>
