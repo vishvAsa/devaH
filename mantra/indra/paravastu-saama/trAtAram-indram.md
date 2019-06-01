@@ -5,8 +5,14 @@ unicode_script: devanagari
 ---   
 
 ## ऋक्
++++(RV.6.47.11a; AV;S.7.86.1a; AVP.5.4.11a; SV.1.333a; VS.20.50a; TS.1.6.12.5a; MS.4.9.27a: 139.17; 4.12.3a: 182.17; KS.17.18a; A;S.2.10.4; 6.9.5; MahAnU.20.3a. Ps: trAtAramindram M;S.11.7.1.7; MG.1.11.6; 2.15.6; Svidh.1.3.9; 2.1.5; VHDh.8.38; BRTEMPihPDh.9.124,215; trAtAram M;S.8.13.4 (5); Kaush.59.14; 140.6.)+++
 
 +++([सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n737) कौथुमभाष्ये। वारुणिः सत्यधृतिः, वत्सः च। मित्रः वरुणः अर्यमा इन्द्रः।])+++
+
+त्रा॒तार॑म् इन्द्र॑म् अवि॒तार॑म् इन्द्रं  
+हवे॑हवे सु॒हवं॒ शूर॒मिन्द्र॑म् ।  
+ह्वया॑मि श॒क्रम्पु॑रुहू॒तमिन्द्रं॑  
+स्व॒स्ति नो॑ म॒घवा॑ धा॒त्विन्द्रः॑ ।
 
 १ ४ १ म्५म्२  
 त्रा³ता²र³मि¹न्द्र²मवि³ता²र³मि²न्द्र³ᳱ  
@@ -21,7 +27,7 @@ unicode_script: devanagari
 {{< figure src="../../images/indra-rising-to-protect-charriots-of-army.jpg" title="" class="thumbnail">}}
 
 
-## साम १
+## साम
 - पारम्परिकगानमूलम् - [२म्१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n2/mode/1up&sa=D&ust=1542425956390000)।]
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/trAtAram-indram.mp3"></div>
