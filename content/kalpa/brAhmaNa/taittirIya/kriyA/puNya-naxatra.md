@@ -1,5 +1,5 @@
 ---
-title: पुन्यनक्षत्राणि
+title: पुण्यनक्षत्राणि
 unicode_script: devanagari
 
 ---
