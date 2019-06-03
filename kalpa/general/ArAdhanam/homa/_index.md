@@ -1,8 +1,8 @@
----  
+---
 title: +होमः  
 unicode_script: devanagari  
 
----  
+---
 
 
 ## फलम् / भावः

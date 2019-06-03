@@ -1,8 +1,8 @@
----    
+---
 title: +हेतुभावादिः
 unicode_script: devanagari  
   
----    
+---
 
 ## हेतुस्मरणम्
 ### आर्ष-भारतीय-धर्म-दर्शने ऽवस्थानम्, तत्पोषणञ्च।
@@ -36,7 +36,7 @@ unicode_script: devanagari
 ### "ज्ञात्वा कर्माणि कुर्वीत" इति आर्योक्तिः
 
 - Do an aesthetic study and understand the thought and feeling behind practices rather than following arbitrary looking traditional instructions - on the way to developing one's own favored practice.
-- I do not wish to give up my freedom to sympathetically probe, understand and decide on what my practice should be - the freedom in particular to respectfully disagree in practice with the learned traditional practitioner when the explanation is unsatisfactory --- and face the "consequences" from the deva-s.
+- I do not wish to give up my freedom to sympathetically probe, understand and decide on what my practice should be - the freedom in particular to respectfully disagree in practice with the learned traditional practitioner when the explanation is unsatisfactory ---and face the "consequences" from the deva-s.
 - The people who will tolerate this is a small minority, though my sincere interest in kalpa is apparent. With them, for example, I can discuss at length with XYZ about why I am put off by navya-nyAya in the light of modern science or why I think that my preferred svara system is superior  or why some ritual usage in abhivAdana is justifiable by grammar. They may think I am wrong and they probe and let me explain my intentions (ie - there is some reason behind my investigation beside just being a smartass), but to a certain extant they engage and answer my questions.
 
 ### तपो-मद-वारणम्
