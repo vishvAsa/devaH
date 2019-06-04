@@ -2,7 +2,7 @@
 title: पिब मत्स्व - महावैराजम्  
 unicode_script: devanagari  
 
----   
+--- 
 
 ## ऋक्
 

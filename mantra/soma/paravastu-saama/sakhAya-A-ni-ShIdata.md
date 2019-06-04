@@ -1,7 +1,7 @@
 ---
 title: सखाय आ निषीदत 
 unicode_script: devanagari  
----   
+--- 
 
 ## ऋक्
 

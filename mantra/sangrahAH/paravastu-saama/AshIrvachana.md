@@ -2,7 +2,7 @@
 title: आशीर्वचन-सामानि 
 unicode_script: devanagari  
 
----   
+--- 
 
 ## पारम्परिक-मूलानि
 

@@ -1,8 +1,8 @@
----    
+---  
 title: अपाम् उपस्पर्शः
 unicode_script: devanagari  
   
----    
+---  
 
 ## कदा
 

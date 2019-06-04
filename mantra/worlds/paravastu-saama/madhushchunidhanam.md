@@ -2,7 +2,7 @@
 title: मधुश्चुनिधनम्  
 unicode_script: devanagari  
 
----   
+--- 
 
 ## ऋक्
 

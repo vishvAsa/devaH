@@ -2,7 +2,7 @@
 title: पिब मत्स्व - वैराज-ऋषभम्  
 unicode_script: devanagari  
 practice_weight: 0
----   
+--- 
 
 ## ऋक्
 

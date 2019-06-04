@@ -2,7 +2,7 @@
 title: क ईं व्यक्ताः
 unicode_script: devanagari  
 
----   
+--- 
 
 ## ऋक्
 

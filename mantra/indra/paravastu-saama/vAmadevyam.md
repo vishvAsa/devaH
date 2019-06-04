@@ -2,7 +2,7 @@
 title: वामदेव्यम्  
 unicode_script: devanagari  
 
----   
+--- 
 
 ## ऋक्
 

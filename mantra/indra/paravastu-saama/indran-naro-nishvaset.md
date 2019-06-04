@@ -2,7 +2,7 @@
 title: इन्द्रन्नरो- निश्वसेत्  
 unicode_script: devanagari  
 
----   
+--- 
 
 ## ऋक्
 <div class="js_include" url="../Rk/indran-naro.md"  newLevelForH1="2" includeTitle="true"> </div>

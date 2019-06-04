@@ -2,7 +2,7 @@
 title: अग्ने रक्ष  
 unicode_script: devanagari  
 
----   
+--- 
 
 ## ऋक्
 

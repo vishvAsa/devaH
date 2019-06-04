@@ -2,7 +2,7 @@
 title: सेतुषाम
 unicode_script: devanagari  
 
----   
+--- 
 
 ## ऋक्
 

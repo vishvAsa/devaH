@@ -1,8 +1,8 @@
----  
+---
 title: नक्षत्रसूक्तम्  
 unicode_script: devanagari  
 
----  
+---
 
 ## परिचयः
 - टीकाः - तैत्तिरीयब्राह्मणभाष्ये सायणीय [अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_037_Taittiriya_Brahmanam_with_Sayanabhashya_Part_2_-_Narayanasastri_Godbole_1898#page/n249/mode/2up)।

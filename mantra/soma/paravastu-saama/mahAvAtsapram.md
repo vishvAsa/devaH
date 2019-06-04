@@ -2,7 +2,7 @@
 title: महावात्सप्रम्  
 unicode_script: devanagari  
 
----   
+--- 
 
 <div class="js_include" url="somaH-pavate-mahAvAtsapram.md"  newLevelForH1="2" includeTitle="true"> </div> 
 

@@ -2,7 +2,7 @@
 title: अग्न आयाहि  
 unicode_script: devanagari  
 practice_weight: 5
----   
+--- 
 
 ## ऋक्
 

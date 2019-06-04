@@ -2,7 +2,7 @@
 title: अर्चन्तीयम्  
 unicode_script: devanagari  
 
----   
+--- 
 
 ## ऋक्
 

@@ -3,7 +3,7 @@ title: वरुणपाशम्
 devatAH: वरुणः
 unicode_script: devanagari  
 
----   
+--- 
 
 ## ऋक्
 

@@ -2,7 +2,7 @@
 title: सम्पा  
 unicode_script: devanagari  
 
----   
+--- 
 
 ## ऋक्
 

@@ -1,4 +1,4 @@
----    
+---  
 title: मुद्राः
 unicode_script: devanagari  
   

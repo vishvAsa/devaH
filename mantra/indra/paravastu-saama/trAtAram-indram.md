@@ -2,7 +2,7 @@
 title: त्रातारम् इन्द्रम्
 unicode_script: devanagari  
 
----   
+--- 
 
 ## ऋक्
 +++(RV.6.47.11a; AV;S.7.86.1a; AVP.5.4.11a; SV.1.333a; VS.20.50a; TS.1.6.12.5a; MS.4.9.27a: 139.17; 4.12.3a: 182.17; KS.17.18a; A;S.2.10.4; 6.9.5; MahAnU.20.3a. Ps: trAtAramindram M;S.11.7.1.7; MG.1.11.6; 2.15.6; Svidh.1.3.9; 2.1.5; VHDh.8.38; BRTEMPihPDh.9.124,215; trAtAram M;S.8.13.4 (5); Kaush.59.14; 140.6.)+++

@@ -2,7 +2,7 @@
 title: तव त्यन्नर्यत्  
 unicode_script: devanagari  
 
----   
+--- 
 
 ## ऋक्
 

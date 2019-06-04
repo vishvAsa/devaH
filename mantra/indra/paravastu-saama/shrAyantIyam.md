@@ -2,7 +2,7 @@
 title: श्रायन्तीयम्  
 unicode_script: devanagari  
 
----   
+--- 
 
 ## ऋक्
 

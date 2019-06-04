@@ -2,7 +2,7 @@
 title: विश्वतोदावन् 
 unicode_script: devanagari  
 
----   
+--- 
 
 ## ऋक्
 

@@ -3,7 +3,7 @@ title: तरत् स मन्दी
 unicode_script: devanagari  
 
 practice_weight: 0
----   
+--- 
 
 ## ऋक्
 

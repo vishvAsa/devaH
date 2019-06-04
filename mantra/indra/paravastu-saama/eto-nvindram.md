@@ -3,7 +3,7 @@ title: एतो न्विन्द्रम्
 unicode_script: devanagari  
 
 practice_weight: 0
----   
+--- 
 
 ४ ६ २ ०९०१  
 एतो॒ न्विन्द्रं॒ स्तवा॑म  

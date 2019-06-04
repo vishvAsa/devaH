@@ -2,7 +2,7 @@
 title: गारम्  
 unicode_script: devanagari  
 
----   
+--- 
 
 ## ऋक्
 

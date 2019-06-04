@@ -2,7 +2,7 @@
 title: जराबोधीयम् 
 unicode_script: devanagari  
 
----   
+--- 
 
 ## ऋक्
 

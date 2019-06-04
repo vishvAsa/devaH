@@ -2,7 +2,7 @@
 title: वात्सप्रोत्तरम्  
 unicode_script: devanagari  
 
----   
+--- 
 
 ## ऋक्
 

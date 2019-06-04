@@ -2,7 +2,7 @@
 title:  इन्द्रन्नरो- ग्रामगेयम्  
 unicode_script: devanagari  
 
----   
+--- 
 
 ## ऋक्
 

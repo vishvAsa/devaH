@@ -2,7 +2,7 @@
 title: आरुहन् दिवः  
 unicode_script: devanagari  
 
----   
+--- 
 
 ## ऋक्
 

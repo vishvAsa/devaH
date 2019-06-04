@@ -2,7 +2,7 @@
 title: उदकशान्ति-सामानि 
 unicode_script: devanagari  
 
----   
+--- 
 
 ## पारम्परिक-मूलानि
 

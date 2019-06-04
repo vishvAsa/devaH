@@ -3,7 +3,7 @@ title: उच्चा ते - अपत्यम्
 unicode_script: devanagari  
 
 practice_weight: 0
----   
+--- 
 
 ## ऋक्
 <div class="js_include" url="../Rk/uchchA-te.md"  newLevelForH1="2" includeTitle="true"> </div> 

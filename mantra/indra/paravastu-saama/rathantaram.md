@@ -2,7 +2,7 @@
 title: रथन्तरम्  
 unicode_script: devanagari  
 
----   
+--- 
 
 ## ऋक्
 

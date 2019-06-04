@@ -2,7 +2,7 @@
 title: हरिश्रीनिधनम्  
 unicode_script: devanagari  
 
----   
+--- 
 
 ## ऋक्
 

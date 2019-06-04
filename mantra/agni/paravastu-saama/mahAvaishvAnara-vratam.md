@@ -2,7 +2,7 @@
 title: महावैश्वानरव्रतम्  
 unicode_script: devanagari  
 
----   
+--- 
 
 ## ऋक्
 

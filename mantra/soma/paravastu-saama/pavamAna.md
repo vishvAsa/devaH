@@ -2,7 +2,7 @@
 title: पवमानः  
 unicode_script: devanagari  
 
----   
+--- 
 
 ## ऋक्
 
