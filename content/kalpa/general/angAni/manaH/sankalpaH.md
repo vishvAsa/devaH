@@ -1,4 +1,4 @@
----    
+---  
 title: सङ्कल्पः
 unicode_script: devanagari  
   

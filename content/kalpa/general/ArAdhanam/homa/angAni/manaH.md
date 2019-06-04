@@ -1,8 +1,8 @@
----  
+---
 title: मनःसंस्कारः  
 unicode_script: devanagari  
 
----  
+---
 
 
 - तत्र सङ्कल्पे विशेषः

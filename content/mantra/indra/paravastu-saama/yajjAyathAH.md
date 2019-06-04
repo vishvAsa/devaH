@@ -2,7 +2,7 @@
 title: यज्जयथा अपूर्वः  
 unicode_script: devanagari  
 
----   
+--- 
 
 ## ऋक्
 

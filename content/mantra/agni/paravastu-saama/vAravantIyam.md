@@ -2,7 +2,7 @@
 title: वारवन्तीयम्
 unicode_script: devanagari  
 
----   
+--- 
 
 ## ऋक्
 सायणः कौथुमभाष्ये [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n155)। शुनःशेपः। अग्निः।

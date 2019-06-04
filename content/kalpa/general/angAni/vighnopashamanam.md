@@ -1,8 +1,8 @@
----    
+---  
 title: विघ्नोपशमनादिकम्
 unicode_script: devanagari  
   
----    
+---  
 
 ## अन्यकर्माणि
 

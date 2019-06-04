@@ -3,7 +3,7 @@ title: वाचोव्रतम् - श्रुणोतु!
 unicode_script: devanagari  
 
 practice_weight: 0
----   
+--- 
 
 ## ऋक्
 

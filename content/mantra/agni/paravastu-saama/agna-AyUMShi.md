@@ -2,7 +2,7 @@
 title: अग्न आयूंषि
 unicode_script: devanagari  
 
----   
+--- 
 
 ## ऋक्
 

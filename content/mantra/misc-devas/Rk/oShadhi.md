@@ -1,10 +1,10 @@
----  
+---
 title: ओषधि-सूक्तम्  
 unicode_script: devanagari  
   
 status: to_understand
 practice_weight: 0
----  
+---
 
 ऋषी भिषगाथर्वणः ॥ देवता ओषधीस्तुतिः , ओषधिसमुह  
 छन्द १ २ ४-७ ११ १७ अनुष्टुप्, ३ ९ १२ २२ २३ निचृदनुष्टुप्,  

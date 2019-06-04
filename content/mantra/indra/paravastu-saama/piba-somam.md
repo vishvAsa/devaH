@@ -2,7 +2,7 @@
 title: पिब सोमम्  
 unicode_script: devanagari  
 
----   
+--- 
 
 ## ऋक्
 

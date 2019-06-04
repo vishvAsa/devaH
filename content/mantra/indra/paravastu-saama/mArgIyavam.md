@@ -2,7 +2,7 @@
 title: मार्गीयवम्  
 unicode_script: devanagari  
 
----   
+--- 
 
 ## ऋक्
 

@@ -2,7 +2,7 @@
 title: सदसस्पतिम्  
 unicode_script: devanagari  
 
----   
+--- 
 
 ## ऋक्
 

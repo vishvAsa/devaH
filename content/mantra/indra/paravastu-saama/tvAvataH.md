@@ -2,7 +2,7 @@
 title: त्वावतः
 unicode_script: devanagari  
 
----   
+--- 
 
 ## ऋक्
 

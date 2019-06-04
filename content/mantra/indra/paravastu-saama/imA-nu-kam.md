@@ -3,7 +3,7 @@ title: इमा नु कम्
 unicode_script: devanagari  
 
 practice_weight: 0
----   
+--- 
 
 ## ऋक्
 ऋग्वेदः  १०.१५७.१  

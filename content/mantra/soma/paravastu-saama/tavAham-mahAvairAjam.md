@@ -2,7 +2,7 @@
 title: तवाहम् - महावैराजम्   
 unicode_script: devanagari  
 
----   
+--- 
 
 ## ऋक्
 

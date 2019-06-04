@@ -2,7 +2,7 @@
 title: क्रोशम्  
 unicode_script: devanagari  
 
----   
+--- 
 
 ## ऋक्
 

@@ -2,7 +2,7 @@
 title: यद्वा  
 unicode_script: devanagari  
 
----   
+--- 
 
 ## ऋक्
 

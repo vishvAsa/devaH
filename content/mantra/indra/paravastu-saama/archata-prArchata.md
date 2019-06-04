@@ -2,7 +2,7 @@
 title: अर्चत प्रार्चत  
 unicode_script: devanagari  
 
----   
+--- 
 
 ## ऋक्
 

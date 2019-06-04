@@ -1,8 +1,8 @@
----  
+---
 title: अग्निः
 unicode_script: devanagari  
 
----  
+---
 
 ## अग्नि-प्रतिष्ठापनम्
 

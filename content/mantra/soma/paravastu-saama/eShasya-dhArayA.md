@@ -2,7 +2,7 @@
 title: एष स्य धारया सुतः  
 unicode_script: devanagari  
 
----   
+--- 
 
 ## ऋक्
 

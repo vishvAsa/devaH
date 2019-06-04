@@ -2,7 +2,7 @@
 title: त्यमू षु
 devatAH: तार्क्ष्यः
 unicode_script: devanagari  
----   
+--- 
 
 ## ऋक्
 

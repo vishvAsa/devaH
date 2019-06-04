@@ -2,7 +2,7 @@
 title: यशस्  
 unicode_script: devanagari  
 
----   
+--- 
 
 ## ऋक्
 

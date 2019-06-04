@@ -2,7 +2,7 @@
 title: ईळिष्व जातवेदसम्  
 unicode_script: devanagari  
 
----   
+--- 
 
 ## ऋक्
 

@@ -2,7 +2,7 @@
 title: वास्तोष्पते  
 unicode_script: devanagari  
 
----   
+--- 
 
 ## ऋक्
 

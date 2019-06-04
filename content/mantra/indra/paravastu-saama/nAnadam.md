@@ -2,7 +2,7 @@
 title: नानदम्  
 unicode_script: devanagari  
 
----   
+--- 
 
 ## ऋक्
 

@@ -3,7 +3,7 @@ title: वरुण-सूक्तम्
 unicode_script: devanagari  
 
 practice_weight: 5
----   
+--- 
 
 ## ऋक्
 

@@ -2,7 +2,7 @@
 title: ब्रह्म जज्ञानम्  
 unicode_script: devanagari  
 
----   
+--- 
 
 ## ऋक्
 

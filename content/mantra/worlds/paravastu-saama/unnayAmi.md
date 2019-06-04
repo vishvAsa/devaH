@@ -2,7 +2,7 @@
 title: उन्नयामि  
 unicode_script: devanagari  
 
----   
+--- 
 
 ## ऋक्
 

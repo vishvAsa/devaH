@@ -2,7 +2,7 @@
 title: पुरोजिती- महावात्सप्रम्  
 unicode_script: devanagari  
 
----   
+--- 
 
 ## ऋक्
 RV.9.101.1a; SV.1.545a; 2.47a; JB.1.116,161a,163a; 2.195,425; 3.79,195; PB.8.5.7; 12.11.5; 14.5.5; 15.11.7 +++(सायणो [ऽत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart4/rv_sayanabhasya_part4#page/n339/mode/2up&sa=D&ust=1542425956295000)।)+++

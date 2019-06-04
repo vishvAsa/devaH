@@ -2,7 +2,7 @@
 title: यद्द्याव- अञ्जो वैरूपम्  
 unicode_script: devanagari  
 
----   
+--- 
 
 ## ऋक्
 

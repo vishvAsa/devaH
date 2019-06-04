@@ -4,7 +4,7 @@ unicode_script: devanagari
 
 status: to_memorize
 practice_weight: 0
----   
+--- 
 
 ## ऋक्
 ऋग्वेदः  १.८४.१५  

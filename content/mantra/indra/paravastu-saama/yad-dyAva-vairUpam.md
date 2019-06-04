@@ -3,7 +3,7 @@ title: यद्द्याव- वैरूपम्
 unicode_script: devanagari  
 
 practice_weight: 0
----   
+--- 
 
 ## ऋक्
 <div class="js_include" url="../Rk/yad-dyAva.md"  newLevelForH1="2" includeTitle="true"> </div>

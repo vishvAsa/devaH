@@ -2,7 +2,7 @@
 title: नमस्ते ऽग्ने  
 unicode_script: devanagari  
 
----   
+--- 
 
 ## ऋक्
 

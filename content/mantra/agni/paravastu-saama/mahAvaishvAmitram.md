@@ -2,7 +2,7 @@
 title: महावैश्वामित्रम्  
 unicode_script: devanagari  
 
----   
+--- 
 
 ## ऋक्
 

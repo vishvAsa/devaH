@@ -1,4 +1,4 @@
----    
+---  
 title: न्यासः
 unicode_script: devanagari  
   

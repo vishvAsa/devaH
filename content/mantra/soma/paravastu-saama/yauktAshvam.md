@@ -2,7 +2,7 @@
 title: यौक्ताश्वम्
 unicode_script: devanagari  
 practice_weight: 5
----   
+--- 
 
 ## ऋक्
 
