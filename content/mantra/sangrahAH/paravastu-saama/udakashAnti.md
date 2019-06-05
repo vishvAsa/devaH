@@ -15,7 +15,7 @@ unicode_script: devanagari
 <div class="js_include" url="../../indra/paravastu-saama/nAnadam.md"  newLevelForH1="2" includeTitle="true"> </div>  
 <div class="js_include" url="../../worlds/paravastu-saama/brahma-jajJNAnam.md"  newLevelForH1="2" includeTitle="true"> </div>  
 <div class="js_include" url="../../Aditya/paravastu-saama/vyAhRti-sAmAni.md"  newLevelForH1="2" includeTitle="true"> </div>  
-<div class="js_include" url="../../Aditya/paravastu-saama/varuNa-sUktam.md"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../../Aditya/paravastu-saama/pra-mitrAya.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
 (अत्रैकार्चम् इष्यते।)  
 <div class="js_include" url="../../indra/paravastu-saama/rathantaram.md"  newLevelForH1="2" includeTitle="true"> </div>  
