@@ -8,8 +8,6 @@ practice_weight: 0
 ## ऋक्
 <div class="js_include" url="../Rk/somaH-pavate.md"  newLevelForH1="2" includeTitle="true"> </div> 
 
-RV.9.101.1a; SV.1.545a; 2.47a; JB.1.116,161a,163a; 2.195,425; 3.79,195; PB.8.5.7; 12.11.5; 14.5.5; 15.11.7 +++(सायणो [ऽत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart4/rv_sayanabhasya_part4#page/n339/mode/2up&sa=D&ust=1542425956295000)।)+++
-
 ## साम १
 - पारम्परिक-गान-मूलम् 
   - [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n55/mode/1up)

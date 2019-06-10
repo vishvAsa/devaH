@@ -1,7 +1,6 @@
 ---
 title: सोमः पवते
 unicode_script: devanagari
-
 practice_weight: 0
 ---
 
