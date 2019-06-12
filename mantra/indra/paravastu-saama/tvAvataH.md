@@ -20,7 +20,7 @@ unicode_script: devanagari
 {{< figure src="../../images/indra-rising-to-protect-charriots-of-army.jpg" title="" class="thumbnail">}}
 
 
-## साम १
+## साम
 - पारम्परिकगानमूलम् - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n2/mode/1up&sa=D&ust=1542425956390000)।
 
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
