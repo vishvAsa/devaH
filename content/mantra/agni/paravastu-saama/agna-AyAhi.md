@@ -54,6 +54,8 @@ RV.6.16.10
 बर्हा+++(%""३)+++इषाअअ औहो+++(%३)+++वा+++(")+++अ ।  
 ब+++([])+++र्हीषी+++(३--")+++इ ॥
 
++++(अत्राजवद् गायति!)+++
+
 ## साम ३
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/agna-AyAhi-3.mp3"></div>
