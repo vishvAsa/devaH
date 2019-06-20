@@ -14,7 +14,7 @@ unicode_script: devanagari
 ### Summary (Interpretations Paranthesized)
 - Complete puruSha = Quarter ("all entities" - τό ἕν) + Three-quarters puruSha, present in "dyus" manifold, a quarter of which returns to encompass the initial quarter. (Universal order, akin to demiurge?)
 - From Quarter - virAT (the universal egg) + Three-quarters PuruSha above it. This grew (Big Bang!), made worlds (impelled by Three-quarters). Time emerged.
-- Gods and sages conduct a big sacrifice with time as fuel and Three-quarters as victim. Thence (re?)"emerge" various animals, Gods, sacred lore. (Being emerges.)  
+- Gods and sages conduct a big sacrifice with time as fuel and Three-quarters as victim. Thence (re?)"emerge" various animals, Gods, sacred lore. (The Gods match entities with various bits of the universal order / Three-quarters. Being emerges.)  
 
 ## सूक्तम्
 
@@ -68,7 +68,7 @@ unicode_script: devanagari
 च॒न्द्रमा॒ मन॑सो जा॒तः । चक्षोः॒+++(=चक्षुषः)+++ सूर्यो॑ अजायत ।  
 मुखा॒दिन्द्र॑श्चा॒ग्निश्च॑ ।  प्रा॒णाद्वा॒युर॑जायत । १४  
 
-नाभ्या॑ आसीद॒न्तरि॑क्षम् । शी॒र्ष्णो द्यौः सम॑वर्तत ।  
+नाभ्या॑ आसीद॒न्तरि॑क्षम् । शी॒र्ष्णो+++(=मूर्ध्ना)+++ द्यौः सम॑वर्तत ।  
 प॒द्भ्यां भूमि॒र् दिशः॒ श्रोत्रा॑त् । तथा॑ लो॒काꣳ अ॑कल्पयन् । १५
 
 ### पुरुषस्तुतिः, यज्ञस्तुतिः
