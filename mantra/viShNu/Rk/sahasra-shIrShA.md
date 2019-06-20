@@ -7,9 +7,14 @@ unicode_script: devanagari
 - सायणो [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_036_Taittiriya_Aranyakam_With_Sayana_Bhashya_Part_1_-_Babasastri_Phadke_1898#page/n191/mode/2up)।
 - अधः स्वीया दृष्टिर् लिख्यते, या सायणोक्त्या भिद्यते। तत्र Neo-platonic सिद्धान्तः प्रोक्लसादिभिः प्रतिपादित Edward Butlerरेण [स्पष्टीकृतो](https://archive.org/details/neo-platonism-papers/page/n19) ऽवलम्ब्यते प्रायशः।
 
-- परिपूर्णपुरुषः = एकपाद् (विश्वानि भूतानि - τό ἕν ह्ययम्) + त्रिपात् पुरुषः (ऋतम्, यो ह्येकपादं व्याप्नोति - demiurge-सन्निभः)।  
-- एकपादो ब्रह्मण्डम्। तच्च स्फुटति त्रिपादः प्रेरणया।
-- ततस्त्रिपादमुपयुज्य विविधधर्मान् छान्दसान् प्राकृतिकांश् च देवा ऋषयश्च +अजनयन्।
+- परिपूर्णपुरुषः = एकपाद् (विश्वानि भूतानि - τό ἕν ह्ययम्) + त्रिपात् पुरुषः दिवि वर्तमानः, यस्य पादांशो ह्येकपादं व्याप्नोति  (ऋतम्- demiurge-सन्निभः)।  
+- एकपादो विराट् (ब्रह्मण्डम्)। तच्च स्फुटति (त्रिपादः प्रेरणया)। कालो जातः।
+- ततस्त्रिपादमुपयुज्य विविधधर्मान् छान्दसान् प्राकृतिकांश् च देवा ऋषयश्च त्रिपात्पशुना कालेन्धनेन यज्ञेन +अजनयन् (Being emerged)।
+
+### Summary (Interpretations Paranthesized)
+- Complete puruSha = Quarter ("all entities" - τό ἕν) + Three-quarters puruSha, present in "dyus" manifold, a quarter of which returns to encompass the initial quarter. (Universal order, akin to demiurge?)
+- From Quarter - virAT (the universal egg) + Three-quarters PuruSha above it. This grew (Big Bang!), made worlds (impelled by Three-quarters). Time emerged.
+- Gods and sages conduct a big sacrifice with time as fuel and Three-quarters as victim. Thence (re?)"emerge" various animals, Gods, sacred lore. (Being emerges.)  
 
 ## सूक्तम्
 
@@ -44,7 +49,7 @@ unicode_script: devanagari
 
 तस्मा॑द् य॒ज्ञात् स॑र्व॒हुतः॑ । संभृ॑तं पृषद्+++(=दधि)+++ आ॒ज्यम् ।  
 प॒शूꣳस् ताꣳश् च॑क्रे - वाय॒व्यान्॑ । आ॒र॒ण्यान् ग्रा॒म्याश्च॒ ये । ९  
-+++(नाम तत्सम्बद्धान् धर्मान् चक्रे त्रिपादः। एकपादात्तु पूर्वमेवावर्तन्त विश्वानि भूतानि।)+++
++++(नाम तत्सम्बद्धान् धर्मान् चक्रे त्रिपात्। प्रथमपादात्तु पूर्वमेवावर्तन्त विश्वानि भूतानि।)+++
 
 तस्मा॑द् य॒ज्ञात् स॑र्व॒हुतः॑ । ऋचः॒ सामा॑नि जज्ञिरे ।  
 छन्दाꣳ॑सि जज्ञिरे॒ तस्मा॑त् । यजु॒स् तस्मा॑द् अजायत । १०
