@@ -6,6 +6,8 @@ unicode_script: devanagari
 status: to_understand
 practice_weight: 0
 ---
+[अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_6_-_Kasinath_Sastri_Agase_1949#page/n443/mode/2up)।
+
 आ॒शुः शिशा॑नो+++(=तीक्ष्णो)+++ वृष॒भो न यु॒ध्मो+++(=योधा)+++ घ॑नाघ॒नः+++(=घातकः)+++ क्षोभ॑णश्चर्षणी॒नाम्+++(=पदातीनाम्)+++।  
 सं॒क्रन्द॑नोऽनिमि॒ष ए॑कवी॒रः श॒तꣳ सेना॑ अजयत्सा॒कामिन्द्रः॑ ॥
 
