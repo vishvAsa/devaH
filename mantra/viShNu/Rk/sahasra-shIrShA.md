@@ -12,7 +12,7 @@ unicode_script: devanagari
 - ततस्त्रिपादमुपयुज्य विविधधर्मान् छान्दसान् प्राकृतिकांश् च देवा ऋषयश्च त्रिपात्पशुना कालेन्धनेन यज्ञेन +अजनयन् (Being emerged)।
 
 ### Summary (Interpretations Paranthesized)
-- Complete puruSha = Quarter ("all entities" - τό ἕν) + Three-quarters puruSha, present in "dyus" manifold, a quarter of which returns to encompass the initial quarter. (Universal order, akin to demiurge?)
+- Complete puruSha = Quarter which is "all entities" (τό ἕν) + Three-quarters puruSha, present in "dyus" manifold, a quarter of which returns to encompass the initial quarter. (Universal order, akin to demiurge?)
 - From Quarter - virAT (the universal egg) + Three-quarters PuruSha above it. This grew (Big Bang!), made worlds (impelled by Three-quarters). Time emerged.
 - Gods and sages conduct a big sacrifice with time as fuel and Three-quarters as victim. Thence (re?)"emerge" various animals, Gods, sacred lore. (The Gods match entities with various bits of the universal order / Three-quarters. Being emerges.)  
 
