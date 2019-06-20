@@ -27,8 +27,8 @@ unicode_script: devanagari
 ## संहितांशः
 - कृणुष्व पाजः इत्यनुवाकम्। रक्षोघ्नम।
     - सायणः \- तैत्तिरीयभाष्ये [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_1_-_Kasinath_Sastri_Agase_1940#page/n325/mode/2up)। ऋग्भाष्ये [ऽत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart2/rv_sayanabhasya_part2#page/n573/mode/2up)।
-    - तत्रैव 'मदे चिदस्य ’ इत्यर्धर्चेमवोद्धृत्य। तैत्तिरीयभाष्ये [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_1_-_Kasinath_Sastri_Agase_1940#page/n327/mode/2up)। 
-- ' इन्द्रं वो विश्वतस्परिहवामहे जनेभ्यः ’ इत्येतमनुवाकं
+    - तत्रैव 'मदे चिदस्य ’ इत्यर्धर्चम् एवोद्धृत्य। तैत्तिरीयभाष्ये [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_1_-_Kasinath_Sastri_Agase_1940#page/n327/mode/2up)। 
+- 'इन्द्रं वो विश्वतस्परिहवामहे जनेभ्यः ’ इत्येतमनुवाकं
     - सायणः - [अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_2_-_Kasinath_Sastri_Agase_1940#page/n313/mode/2up)।
 
 ## आरण्यकांशः
