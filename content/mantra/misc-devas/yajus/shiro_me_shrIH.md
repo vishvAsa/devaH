@@ -1,6 +1,7 @@
 ---
 title: शिरो मे श्रीः
 unicode_script: devanagari
+practice_weight: 0
 ---
 
 शिरो॑ मे॒ श्रीः ।  
