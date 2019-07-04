@@ -1,8 +1,8 @@
----	
+---
 title: उदकशान्त्यर्थः	
 
  unicode_script: devanagari	
----	
+---
 
  ## परिचयः	
 - बोधायनीयविधौ[अत्र](https://archive.org/stream/Bodhayana-Grihya-Sutra-shyAma-shAstrI-ed/bodhayana%20grihya%20sutra#page/n215/mode/2up)। परिचयः [अत्र](https://archive.org/details/udakashAnti-vidhi-mantra-bhAShya-parichayaH)।	
