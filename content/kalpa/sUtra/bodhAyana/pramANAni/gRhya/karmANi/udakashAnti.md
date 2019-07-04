@@ -1,7 +1,6 @@
 ---
 title: उदकशान्त्यर्थः	
-
- unicode_script: devanagari	
+unicode_script: devanagari	
 ---
 
  ## परिचयः	
