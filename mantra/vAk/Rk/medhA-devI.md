@@ -3,7 +3,7 @@ title: मेधा देवी
 unicode_script: devanagari
 ---
 
-तैत्तिरीयारण्यके 3.6.39.1।
+तैत्तिरीयारण्यके 3.6.39.1। सायणो [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_036_Taittiriya_Aranyakam_With_Sayana_Bhashya_Part_2_-_Babasastri_Phadke_1927#page/n411/mode/2up) आन्ध्रपाठमवलम्बमानः।
 
 
 मे॒धा दे॒वी जु॒षमा॑णा न॒ आगा॑द्  
