@@ -29,10 +29,10 @@ unicode_script: devanagari
 - भावः - [कृष्णयजुर्वेदविधौ](../kyv/) यथोक्तम्।
 
 ### प्रातः
-<div class="js_include" url="../../../../mantra/indra/Rk/yad-adya-kachcha.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="../../../../mantra/indra/Rk/yad-adya-kachcha.md"  newLevelForH1="3" includeTitle="false"> </div>  
 
 ### सायम्
-<div class="js_include" url="../../../../mantra/indra/Rk/ud-ghed-abhi.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="../../../../mantra/indra/Rk/ud-ghed-abhi.md"  newLevelForH1="3" includeTitle="false"> </div>  
 
 
 ## गायत्रीमन्त्रजपः
@@ -45,6 +45,6 @@ unicode_script: devanagari
 - अभिवादनम्
 
 ### उपस्थानम् 
-<div class="js_include" url="../../../../mantra/misc-devas/yajus/sUrya-iva-dRshe.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="../../../../mantra/misc-devas/yajus/sUrya-iva-dRshe.md"  newLevelForH1="3" includeTitle="false"> </div>  
 <div class="js_include" url="../../../../mantra/Aditya/Rk/adya-no-deva.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
