@@ -254,6 +254,9 @@ contents:
             - url: dir://kalpa/general/angAni/
         - title: आराधनम्
           contents:
+            - title: सन्ध्यावन्दनम्
+              contents:
+                - url: dir://kalpa/general/ArAdhanam/sandhyAvandanam/
             - title: बलिः
               contents:
                 - url: dir://kalpa/general/ArAdhanam/bali/
