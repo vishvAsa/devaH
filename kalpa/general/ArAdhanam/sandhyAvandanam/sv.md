@@ -26,7 +26,7 @@ unicode_script: devanagari
 
 ## प्रदक्षिण-क्रमणम्
 
-- भावः - [कृष्णयजुर्वेदविधौ](../kyv/) यथोक्तम्।
+- भावः - [कृष्णयजुर्वेदविधौ](../kyv/) यथोक्तम्। अत्र तु प्रयुक्तौ मन्त्रौ सूर्यशब्दवृत्त्या चिताव् इति भाति।
 
 ### प्रातः
 <div class="js_include" url="../../../../mantra/indra/Rk/yad-adya-kachcha.md"  newLevelForH1="3" includeTitle="false"> </div>  
