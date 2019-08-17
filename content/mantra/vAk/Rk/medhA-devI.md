@@ -3,7 +3,7 @@ title: मेधा देवी
 unicode_script: devanagari
 ---
 
-तैत्तिरीयारण्यके 3.6.39.1। सायणो [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_036_Taittiriya_Aranyakam_With_Sayana_Bhashya_Part_2_-_Babasastri_Phadke_1927#page/n411/mode/2up) आन्ध्रपाठमवलम्बमानः।
+तैत्तिरीयारण्यके महानारायणोपनिषदि 3.6.39.1। सायणो [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_036_Taittiriya_Aranyakam_With_Sayana_Bhashya_Part_2_-_Babasastri_Phadke_1927#page/n411/mode/2up) आन्ध्रपाठमवलम्बमानः, भास्करो द्राविडपाठमवलम्बमानो [ऽत्र](https://archive.org/stream/taittiriya/taittiriya_aranyaka_bhaskara_02#page/n159/mode/2up)।
 
 
 मे॒धा दे॒वी जु॒षमा॑णा न॒ आगा॑द्  
@@ -22,7 +22,7 @@ unicode_script: devanagari
 मे॒धां मे॑ अ॒श्विनौ॑ दे॒वाव्  
 आध॑त्तां॒ पुष्क॑रस्रजा । (55)
 
-अ॒प्स॒रासु॑ च॒ या मे॒धा  
+अ॒प्स॒रासु॑ [च॒] या मे॒धा  
 ग॑न्ध॒र्वेषु॑ च॒ यन् मनः॑ ।  
 दैवी॑ मे॒धा म॑नुष्य॒जा सा मां॑  
 मे॒धा सु॒रभि॑र् जुषताम् । (56)  
