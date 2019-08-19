@@ -1,8 +1,8 @@
 ---
 title: विसर्गः
 unicode_script: devanagari
-
 ---
+
 
 ## प्रातिशाख्येषु संज्ञा (स्रोतांसि - राकेशवचनानि)
 - तैत्तिरीयप्रातिशाख्यस्य वैदिकाभरणभाष्ये उच्यते यत् "वायोर्विसर्जनेन जन्यत्वाद् अयं विसर्जनीयो भवति"। (तै०प्रा०वै०भा० १। १८)
@@ -26,3 +26,4 @@ unicode_script: devanagari
 
 ## प्रदर्शनानि
 - धनञ्जयवैद्यो ऽत्र - [विसर्गः](http://deejayvaidya.tumblr.com/post/42427555259/sanskrit-pronunciation-podcast-6-visarga) (<-रुचिकरोयम्! विसर्गस्य ऊष्माणत्वेऽङ्गीकृते प्रातिशाख्यैर् अत्र परिष्कारोऽपेक्षितः।)।
+- [YT19](https://www.youtube.com/watch?v=BTzqFzFsWS0&feature=youtu.be)
