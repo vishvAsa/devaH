@@ -52,9 +52,8 @@ title: +परिचयः
 - [TIFR06](http://www.tifr.res.in/~archaeo/papers/Others/Possible%20period%20of%20the%20design%20of%20Nakshatras.pdf), [MT](https://manasataramgini.wordpress.com/2017/07/01/a-note-on-the-asterisms-forming-the-nak%E1%B9%A3atra-s/).
 - Error correction
     - अयनचलनप्रतिक्रिया अन्यत्र\+ उक्ता।
-
     - shankAr dIxit and the shrautin of Colaba [MT_TW](https://twitter.com/blog_supplement/status/907061604981903360)
-    - raghunAthAchAri [KV](https://sites.google.com/site/hinduvichaarah/system/errors/NodeNotFound?suri=wuid://defaultdomain/hinduvichaarah/gx:247136be5d4d5f38), \[[MT](https://manasataramgini.wordpress.com/2015/06/02/remembering-raghunathachari/)\].
+    - raghunAthAchAri, \[[MT](https://manasataramgini.wordpress.com/2015/06/02/remembering-raghunathachari/)\].
         - gave several public lectures in Chennai to attempt to increase the awareness of Hindus on modern astronomy and the importance of first hand and meticulous observations
         - "discussed the importance of modern astronomy with the ācarya of the Sriperumbudur śrīvaiṣṇava maṭha and convinced him to adopt a modern astronomical almanac, "
         - "demonstrated to his Vedic ritualist friends, Venkateshvara Dikshita and Sundaresha Shrautin, that the astronomical tables of the traditional astronomers of Andhra and Dramiḍa were otiose and that they badly mis-predicted basic astronomical events which are central to Vaidika rituals"
