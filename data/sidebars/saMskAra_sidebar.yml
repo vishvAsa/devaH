@@ -56,6 +56,9 @@ contents:
             - title: यजूंषि
               contents:
                 - url: dir://mantra/worlds/yajus
+                - title: दिक्
+                  contents:
+                    - url: dir://mantra/worlds/yajus/dik
             - title: गद्यानि
               contents:
                 - url: dir://mantra/worlds/gadya
@@ -70,9 +73,6 @@ contents:
             - title: यजूंषि
               contents:
                 - url: dir://mantra/misc-devas/yajus
-                - title: दिक्
-                  contents:
-                    - url: dir://mantra/misc-devas/yajus/dik
         - title: ब्रह्म
           contents:
             - title: ऋचः
