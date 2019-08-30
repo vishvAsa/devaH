@@ -2,6 +2,11 @@
 title: दर्भाः
 ---
 
+## लक्षणम्
+{{< figure src="../images/darbha-1.jpg" title="" >}}
+{{< figure src="../images/darbha-collected.jpg" title="" >}}
+
+
 ## आहरणम्
 ### उचितदिनानि
 - हरीतः - माघेनभस्यमा यातु तस्यां दर्भोच्चयोमतः  
