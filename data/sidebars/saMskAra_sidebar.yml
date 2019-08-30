@@ -252,6 +252,9 @@ contents:
               contents:
                 - url: dir://kalpa/general/angAni/manaH/
             - url: dir://kalpa/general/angAni/
+            - title: द्रव्याणि
+              contents:
+                - url: dir://kalpa/general/angAni/dravya/
         - title: आराधनम्
           contents:
             - title: सन्ध्यावन्दनम्
