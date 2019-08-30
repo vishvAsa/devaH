@@ -20,7 +20,7 @@ title: दर्भाः
 ### आहरणम् बॆङ्गळूरुनगरे
 स्रोतश् चन्द्रादयः।
 
-- Visit the ICAR - Horticultural Research Institute. As a special gesture they allow Dwijas with Gaccham. They give a badge. Once you are in you need to get to the back side of the institute where the farms are located. Just drive long enough and you will get places where Darbha is found. Ground staff are very helpful.
+- Visit the ICAR - Horticultural Research Institute. As a special gesture they allow Dvijas with kachcham. They give a badge. Once you are in you need to get to the back side of the institute where the farms are located. Just drive long enough and you will get places where darbha is found. Ground staff are very helpful.
 - Collection points shrAvaNa kRShNa amAvAsya 2019
   - [1](https://maps.app.goo.gl/jtk1DLMau5Su7XEk9), [2](https://maps.app.goo.gl/Pa1bhRCrUHYucGEx8)
 
