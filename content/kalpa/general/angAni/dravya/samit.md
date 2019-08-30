@@ -52,7 +52,7 @@ sarvavanaspatīnām idʰmaḥ ​
 
 ## समित्-प्राप्तिः
 
-- स्वयं सङ्ग्रहणम् उत्तमम् इति स्मृतिरत्नम् - https://archive.org/stream/smRti-muktA-phalam/SMP2_aahnika#page/n157/mode/1up
+- स्वयं सङ्ग्रहणम् उत्तमम् [इति स्मृतिरत्नम्](https://archive.org/stream/smRti-muktA-phalam/SMP2_aahnika#page/n157/mode/1up)।
 - विपणेभ्यः
   - भारतेषु
     - बेङ्गळूरुनगरे २०रु = २०समिधः
@@ -63,6 +63,14 @@ sarvavanaspatīnām idʰmaḥ ​
   - pruning shears = 1in pruners > saw इत्यादेर् उपयोगेन सूक्ष्मकर्म।
   - स्थूलकर्तनम् हस्ताभ्याम्
 
+### बॆङ्गळूरुनगरे क्रयणम्
+- They sell in units of cuts (25-30 samits, though some lying / confused shopkeepers may claim 40/ 50).
+- shops
+  - shops in 8th cross Malleswaram
+  - bhadrayya, rAjAjinagar
+- Reviews
+  - cost 20 per cut in 2019. No significant price difference between bhadrayya and malleshvaram.
+  - The samits I got from malleshvaram were markedly inferior compared to what I got from bhadrayya in previous years - older, dusty, some with worm holes and partially shredded barks.
 
 ## परिधि-लक्षणम्
 
