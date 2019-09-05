@@ -14,7 +14,7 @@ title: +रुचिरपत्त्राणि
 - [काव्यार्थः, अर्थालङ्काराश्च](https://docs.google.com/spreadsheet/ccc?key=0Al_QBT-hoqqVdEdoc19BN0NESFlQSTh3QWMzMXRpSFE#gid=16)
 - [छन्दः शब्दालङ्कारः](https://docs.google.com/spreadsheet/ccc?key=0Al_QBT-hoqqVdDhjNVRMTXdsdDVTZG9kcDIwVnhhN0E#gid=1)[ च](https://docs.google.com/spreadsheet/ccc?key=0Al_QBT-hoqqVdDhjNVRMTXdsdDVTZG9kcDIwVnhhN0E#gid=1)
 - [आन्वीक्षिकी](https://docs.google.com/spreadsheets/d/1Q4C4b7yHeK-3fwgAPCdSTRjPIJFEN2NLBKObH9AC-dU/edit#gid=950757355)।
-- दौवम्।
+- दैवम्।
 - [सङ्गीतम्](https://docs.google.com/spreadsheets/d/1VJPgfgzE6S2J18R7MO4YK4wWi-bQ4qiwP5ldJLKxuZM/edit#gid=0)।
 
 - Flashcards , dictionaries and the like: [here](https://sanskrit-coders.github.io/site/pages/dictionaries/offline.html)।
@@ -26,4 +26,4 @@ title: +रुचिरपत्त्राणि
         -   
             
 
-[पद्यरचनाभ्यासः](https://docs.google.com/spreadsheet/ccc?key=0Al_QBT-hoqqVdFBKZzVsM3VUREYzVzMxcHhGZDJYdHc#gid=0) (versification practice.) Longer [verse kAvya-s here](https://sites.google.com/site/vishvasvasuki/sahityakala/padyani).
+- [पद्यरचनाभ्यासः](https://docs.google.com/spreadsheet/ccc?key=0Al_QBT-hoqqVdFBKZzVsM3VUREYzVzMxcHhGZDJYdHc#gid=0) (versification practice.) Longer [verse kAvya-s here](https://vvasuki.github.io/kAvya/sviiyam/).
