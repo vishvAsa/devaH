@@ -306,6 +306,9 @@ contents:
               - url: dir://sanskrit/shixaa/svara/
           - title: Reciting and Recording
             url: "https://sanskrit.github.io/projects/audio/tips/"
+      - title: व्याकरणम्
+        contents:
+          - url: dir://sanskrit/vyAkaraNa/
   - title: प्रकीर्णम्
     contents:
       - title: Tags
