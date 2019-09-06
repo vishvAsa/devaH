@@ -3,6 +3,8 @@ title: +व्याकरणम्
 unicode_script: devanagari
 ---
 
+टिप्पणयो ऽन्विष्यन्ताम् [अत्र](https://docs.google.com/spreadsheets/d/1YTU1e2CIeUXqsu06z_pfugpt3lkMeXeZLbLauOtksCQ/edit#gid=1755855185)।
+
 ## पाणिनीयम्
 ### अद्भुतांशाः
 - यान्त्रिकी व्युत्पत्तिः पदानाम्। तदन्तर्गतयुक्तयो यथा - प्रकृति-प्रत्यय-विवेकः, प्रत्याहाराः, पूर्वत्रासिद्धम्।
