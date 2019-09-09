@@ -3,7 +3,7 @@ title: यद्भूमेः क्रूरम्
 unicode_script: devanagari
 ---
 
-हरदत्तो [ऽत्र](https://archive.org/stream/EKAGNIKANDABHASHYAMSAMSKRUTHAM/EKAGNIKANDA%20BHASHYAM%20SAMSKRUTHAM#page/n161/mode/2up)। 
+हरदत्तो [ऽत्र](https://archive.org/stream/EKAGNIKANDABHASHYAMSAMSKRUTHAM/EKAGNIKANDA%20BHASHYAM%20SAMSKRUTHAM#page/n161/mode/2up)। प्रयोगो [ऽत्र](../../../../kalpa/sUtra/Apastamba/pramANAni/gRhya/karmANi/gRha/)।
 
 यद्भूमेः॑ क्रू॒रं तदि॒तो ह॑रामि॒,  
 परा॑ची॒न् निर्ऋ॑तिं॒ निर्वा॑हयामि ।  
