@@ -1,6 +1,6 @@
 ---
 title: परवस्तुसामाभ्यासः
-unicode_script: devanagari
+unicode_script: devanagari 
 
 ---
 
