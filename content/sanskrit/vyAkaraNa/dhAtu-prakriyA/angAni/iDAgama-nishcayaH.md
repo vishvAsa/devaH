@@ -48,5 +48,3 @@ unicode_script: devanagari
 
 निरः कुषः (७.२.४६) ।
 
-
-
