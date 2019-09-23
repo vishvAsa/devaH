@@ -11,6 +11,8 @@ unicode_script: devanagari
 
 <div class="js_include" url="angAni/sArvadhAtuka-kAryANi.md"  newLevelForH1="2" includeTitle="true"> </div>
 
+<div class="js_include" url="angAni/puruSha-vachana-chitiH.md"  newLevelForH1="2" includeTitle="true"> </div>
+
 ## तिङ्-प्रत्ययचितिः
 - लः परस्मैपदम्‌।
   - तिप्‌ तस्‌ झि+++(->अन्ति)+++, सिप्‌ थस्‌ थ, मिप्‌ वस्‌ मस्‌‍,
