@@ -13,7 +13,7 @@ unicode_script: devanagari
 
 <div class="js_include" url="../angAni/iDAgama-nishcayaH.md"  newLevelForH1="1" includeTitle="true"> </div>
 
-<div class="js_include" url="../angAni/ArdhadhAtuka-kAryANi.md"  newLevelForH1="1" includeTitle="true"> </div>
-
 <div class="js_include" url="../angAni/laT-tiN.md"  newLevelForH1="1" includeTitle="true"> </div>
+
+<div class="js_include" url="../angAni/ArdhadhAtuka-kAryANi.md"  newLevelForH1="1" includeTitle="true"> </div>
 
