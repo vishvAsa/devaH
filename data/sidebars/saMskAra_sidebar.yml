@@ -309,6 +309,12 @@ contents:
       - title: व्याकरणम्
         contents:
           - url: dir://sanskrit/vyAkaraNa/
+          - title: धातुप्रक्रिया
+            contents:
+              - url: dir://sanskrit/vyAkaraNa/dhAtu-prakriyA/
+              - title: अङ्गानि
+                contents:
+                  - url: dir://sanskrit/vyAkaraNa/dhAtu-prakriyA/angAni/
   - title: प्रकीर्णम्
     contents:
       - title: Tags
