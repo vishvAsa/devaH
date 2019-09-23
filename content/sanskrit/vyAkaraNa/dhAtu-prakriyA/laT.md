@@ -3,15 +3,14 @@ title: वर्तमाने लट्
 unicode_script: devanagari
 ---
 
-## धातुविवेकः
-<div class="js_include" url="angAni/dhAtuvivekaH.md"  newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="angAni/dhAtuvivekaH.md"  newLevelForH1="1" includeTitle="true"> </div>
 
 ## अङ्गकार्यम्
 - विकरणचयनम्। तदङ्गम् [अत्रोक्तम्](../angAni/sArvadhAtuka-kAryANi/)।
 
 <div class="js_include" url="angAni/sArvadhAtuka-kAryANi.md"  newLevelForH1="2" includeTitle="true"> </div>
 
-<div class="js_include" url="angAni/puruSha-vachana-chitiH.md"  newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="angAni/puruSha-vachana-chitiH.md"  newLevelForH1="1" includeTitle="true"> </div>
 
 ## तिङ्-प्रत्ययचितिः
 - लः परस्मैपदम्‌।
