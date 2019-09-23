@@ -1,5 +1,5 @@
 ---
-title: 
+title: लुट्
 unicode_script: devanagari
 ---
 
