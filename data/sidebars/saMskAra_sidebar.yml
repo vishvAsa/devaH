@@ -315,6 +315,9 @@ contents:
               - title: अङ्गानि
                 contents:
                   - url: dir://sanskrit/vyAkaraNa/dhAtu-prakriyA/angAni/
+          - title: प्रातिपदिक-प्रक्रिया
+            contents:
+              - url: dir://sanskrit/vyAkaraNa/prAtipadika-kriyA/
           - title: परिभाषा
             contents:
               - url: dir://sanskrit/vyAkaraNa/paribhAShA/
