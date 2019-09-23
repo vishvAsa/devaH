@@ -16,7 +16,7 @@ unicode_script: devanagari
 - ईत ईयाताम्‌ ईरन्‌  
 ईथाः ईयाथाम्‌ ईध्वम्‌  
 ईय ईवहि ईमहि
-  - प्रायेण ईयङ् + लङ् इति स्मर्तुम् उचितम्।
+  - +++(प्रायेण ईयङ् + लङ् इति स्मर्तुम् उचितम् - ईरन्‌, ईय इति विहाय।)+++
 
 <div class="js_include" url="../angAni/sArvadhAtuka-saMjJNA.md"  newLevelForH1="1" includeTitle="true"> </div>
 

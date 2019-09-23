@@ -7,8 +7,6 @@ unicode_script: devanagari
 
 <div class="js_include" url="../angAni/vivaxA-kalanam.md"  newLevelForH1="1" includeTitle="true"> </div>
 
-<div class="js_include" url="../angAni/sArvadhAtuka-saMjJNA.md"  newLevelForH1="1" includeTitle="true"> </div>
-
 ## अनुप्रयोगपक्षे
 - आम्-योजनम्, अनुप्रयोगः
 - इजादेः गुरुमतः अनृच्छः धातोः लिटि आम् प्रत्ययः परश्च
@@ -21,7 +19,10 @@ unicode_script: devanagari
 - "एश् आते इरेच्  
   से आथे ध्वे  
   ए वहे महे"
+  - +++(ए-इरे इति विहाय लँट्वत्।)+++
 - आत औ णलः॥
+
+<div class="js_include" url="../angAni/sArvadhAtuka-saMjJNA.md"  newLevelForH1="1" includeTitle="true"> </div>
 
 ### इडागमः
 - धातूनाम् इडानुकूल्यम् [अन्यत्रोक्तम्](../../angAni/iDAgama-nishcayaH/)।
