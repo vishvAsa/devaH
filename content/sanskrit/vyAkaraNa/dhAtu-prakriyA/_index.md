@@ -1,4 +1,4 @@
 ---
-title: धातुप्रक्रियाः
+title: +धातुप्रक्रियाः
 unicode_script: devanagari
 ---
