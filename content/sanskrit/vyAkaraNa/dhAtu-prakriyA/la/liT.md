@@ -20,7 +20,7 @@ unicode_script: devanagari
   से आथे ध्वे  
   ए वहे महे"
   - +++(ए-इरे इति विहाय लँट्वत्।)+++
-- आत औ णलः॥
+- आत औ णलः॥ +++(बभौ ददौ)+++
 
 <div class="js_include" url="../angAni/sArvadhAtuka-saMjJNA.md"  newLevelForH1="1" includeTitle="true"> </div>
 
