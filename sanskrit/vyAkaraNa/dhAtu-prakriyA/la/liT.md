@@ -22,7 +22,9 @@ unicode_script: devanagari
   ए वहे महे"
   - +++(ए-इरे इति विहाय लँट्वत्।)+++
 
-<div class="js_include" url="../angAni/sArvadhAtuka-saMjJNA.md"  newLevelForH1="1" includeTitle="true"> </div>
+### अतिदेशाः
+- आर्धधातुकत्व-अतिदेशः (लिट् च॥)
+- असंयोगात् लिट् कित् अपित्। णल् उत्तमो वा।
 
 ## इडागमः
 - धातूनाम् इडानुकूल्यम् [अन्यत्रोक्तम्](../../angAni/iDAgama-nishcayaH/)।
@@ -37,13 +39,10 @@ unicode_script: devanagari
 - वेटः पूर्वोक्ताः। पूर्वोक्त-अनिट्सु क्रादिभिन्नाः ऋ-अन्त-भिन्नाः, हलन्तेषु अत्वतः । सृज्-दृश्।
 - सेटः पूर्वोक्ताः। पूर्वोक्त-अनिट्सु हलन्तेषु अनत्वतः।
 
-## अतिदेशाः
-- आर्धधातुकत्व-अतिदेशः (लिट् च॥)
-- असंयोगात् लिट् कित् अपित्। णल् उत्तमो वा।
 
-### कित्-कर्म
+## कित्-कर्म
 सम्प्रसारणम्।
-<div class="js_include" url="../angAni/kNit.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../angAni/kNit.md"  newLevelForH1="2" includeTitle="true"> </div>
 
 
 <div class="js_include" url="../angAni/abhyAsaH.md"  newLevelForH1="1" includeTitle="true"> </div>
