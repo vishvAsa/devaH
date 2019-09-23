@@ -1,6 +1,7 @@
 ---
 title: उद्घेद् अभि
 unicode_script: devanagari
+practice_weight: 0
 ---
 
 (सुकक्षः, इन्द्रः, गायत्री।)
