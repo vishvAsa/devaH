@@ -315,6 +315,9 @@ contents:
               - title: अङ्गानि
                 contents:
                   - url: dir://sanskrit/vyAkaraNa/dhAtu-prakriyA/angAni/
+          - title: परिभाषा
+            contents:
+              - url: dir://sanskrit/vyAkaraNa/paribhAShA/
   - title: प्रकीर्णम्
     contents:
       - title: Tags
