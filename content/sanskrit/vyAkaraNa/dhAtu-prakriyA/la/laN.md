@@ -7,8 +7,7 @@ unicode_script: devanagari
 
 <div class="js_include" url="../angAni/vivaxA-kalanam.md"  newLevelForH1="1" includeTitle="true"> </div>
 
-
-## तिङः
+## प्रत्ययनिर्माणम्
 - त् (पित्) ताम् अन्  
 स् (पित्) तम् त  
 अम् (पित्) व म

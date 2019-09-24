@@ -16,5 +16,9 @@ unicode_script: devanagari
 - ज्ञाजनोर्जा (७.३.७९) /...
 - पूर्णावल्य् [अत्र](https://docs.google.com/spreadsheets/d/1DVFj51q9dd34v_-78pAZ3zyNsaUrMO6NPm2JzGeQFDw/edit#gid=29)।
 
+### विशेषाः
+हनो वध लिङि।
+
+
 ### अशिति
 आत् एच् उपदेशे ऽशित् (गै → गा।)
