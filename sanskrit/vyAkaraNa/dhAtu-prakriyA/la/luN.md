@@ -44,6 +44,8 @@ unicode_script: devanagari
 दृश् → अमागमः → द्रश् (6-1-58 सृजिदृशोर्झल्यमकिति॥)
 
 ### वृद्धिः
+विस्तारो [ऽत्र](https://docs.google.com/spreadsheets/d/1DVFj51q9dd34v_-78pAZ3zyNsaUrMO6NPm2JzGeQFDw/edit#gid=30)।
+
 वद|व्रज|हलन्तम् → वृद्धिः। 
 [अन्येऽपि वृद्धिसूत्राणि सिचि]
 अनिट् (अन्ते इक्| हल्-[ह् य् म्])→ वृद्धिः।
@@ -61,11 +63,15 @@ unicode_script: devanagari
 लघु-अभ्यासस्य दीर्घः
 
 ## चिण्
+विस्तारो [ऽत्र](https://docs.google.com/spreadsheets/d/1DVFj51q9dd34v_-78pAZ3zyNsaUrMO6NPm2JzGeQFDw/edit#gid=30)।
+
 ### अङ्गकार्यम्
 णित्त्व-कार्यम्
  आतो युक् चिण्कृतोः
- 
- 
+
+## अङ्
+विस्तारो [ऽत्र](https://docs.google.com/spreadsheets/d/1DVFj51q9dd34v_-78pAZ3zyNsaUrMO6NPm2JzGeQFDw/edit#gid=30)।
+
 ## अट्/आट् योजनम्
 न माङ्-योगे।
 
