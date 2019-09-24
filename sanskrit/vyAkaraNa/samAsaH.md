@@ -31,8 +31,6 @@ unicode_script: devanagari
 - कर्मण्यण् 
   - विस्तारो [अत्र](https://docs.google.com/spreadsheets/d/1NDHYeY8HkJiMVNz8YdY8q-jauQIzp6WycsKGNO83YgY/edit#gid=28)।
 
-
-
 ## संयोगः
 - अन्त्यप्रत्यया [अत्र](https://docs.google.com/spreadsheets/d/1NDHYeY8HkJiMVNz8YdY8q-jauQIzp6WycsKGNO83YgY/edit#gid=23)।
 
