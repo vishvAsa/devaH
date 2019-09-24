@@ -7,7 +7,7 @@ unicode_script: devanagari
 
 <div class="js_include" url="../angAni/vivaxA-kalanam.md"  newLevelForH1="1" includeTitle="true"> </div>
 
-## तिङ्
+## प्रत्ययनिर्माणम्
 - तुप्,तातँङ् ताम् अन्तु  
 हिङ्|धि|लुक्, तातँङ्(अपित्) तं त  
 आ-नि (पित्) आम(पित्) आम (पित्)
