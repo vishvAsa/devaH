@@ -14,11 +14,26 @@ unicode_script: devanagari
 ## पूर्वपदे निपातनम्
 विस्तारो [ऽत्र](https://docs.google.com/spreadsheets/d/1NDHYeY8HkJiMVNz8YdY8q-jauQIzp6WycsKGNO83YgY/edit#gid=20)।
 
+## पूर्वपदसिद्धिः
+विस्तारो [ऽत्र](https://docs.google.com/spreadsheets/d/1NDHYeY8HkJiMVNz8YdY8q-jauQIzp6WycsKGNO83YgY/edit#gid=21)।
+
+- विभक्तिलोपः
+  - अलुक् क्वचित्। 
+- पुंवद्भावः क्वचित्।
+- नलोपः नञः। तस्मात् नुट् अचि उत्तरपदे नञः।
+- सहस्य सः
+- ह्रस्वादेशः क्वचित्। क्वचिद् दीर्घः।
+- आनङ् क्वचित्।
+- विद्यायोनिसम्बन्धिषु द्वन्द्वे - ऋकारस्य आत्वम्।
+
 ## परपदसिद्धिः
-- कर्मण्यण् [अत्र](https://docs.google.com/spreadsheets/d/1NDHYeY8HkJiMVNz8YdY8q-jauQIzp6WycsKGNO83YgY/edit#gid=28)।
+- विभक्तिलोपः
+- कर्मण्यण् 
+  - विस्तारो [अत्र](https://docs.google.com/spreadsheets/d/1NDHYeY8HkJiMVNz8YdY8q-jauQIzp6WycsKGNO83YgY/edit#gid=28)।
+
+
 
 ## संयोगः
-- विभक्तिलोपः
 - अन्त्यप्रत्यया [अत्र](https://docs.google.com/spreadsheets/d/1NDHYeY8HkJiMVNz8YdY8q-jauQIzp6WycsKGNO83YgY/edit#gid=23)।
 
 ## लिङ्गनिश्चयः
