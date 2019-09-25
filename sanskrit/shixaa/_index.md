@@ -51,3 +51,10 @@ title: +शिक्षा
     - "पदादौ च पदादौ च संयोगाऽवग्रहेषु यः। जशब्द इति विज्ञेयो योऽन्यः स य इति स्मृतः ॥......" इति याज्ञवल्क्यशिक्षायाम्।
     - प्रतिज्ञासूत्रेऽपि सूत्रमस्ति "अथान्तस्थानामाद्यस्य..."।
 - किञ्च काण्वानाम् न तथा भवति, समानप्रातिशाख्यवताम्!  
+
+## मूर्धन्यवर्णोद्भवः
+तत्र [केचित्](https://twitter.com/blog_supplement/status/1176332528795443203) - 
+
+- 1/ it used to be often claimed that the retroflexes are sign of borrowings from Dr /Harappan. I suggest they are not but internal developments in IA or words with a long IE pedigree. Now some of these had retroflexed in Skt before they were borrowed into Tam
+- 2. Sanskrit has a lot of retroflex words but a specific group of these are clearly IA but appear in a later layer of Skt than RV or even more generally Vedic. Based on this I propose that they radiated out from a zone with retroflexing tendencies through. This could be the megalithic expansion that definite brought a lot of IA loans to Tam and other Dr. 3^ pUr is a proper IA word with IE pedigree. ^ the RV L is a peculiar retroflex that might be a secondarily developed sound for what was once vocalized differently.
+
