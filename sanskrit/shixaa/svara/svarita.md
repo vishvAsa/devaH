@@ -24,6 +24,9 @@ unicode_script: devanagari
 ```
 - नरेन्द्रस्य +ऋत्विजः [अत्र](https://archive.org/details/udakashAnti-vidhi-mantra-bhAShya-parichayaH)।  (३-तीयध्वनिमुद्रणे " rAxoghna-sUktam, devatA-vichAraH, sAyaNa-bhAShya-AkRtiH uchChAraNa-bheda-vichAraH.mp3" इत्याख्ये २६:०० इत्यत्र।)
 
+### माध्यन्दिनेषु
+मन्त्रेषु यौ स्वरितानुदात्तौ तौ शतपथे उदात्तौ, यस्तु उदात्तो ऽनन्त्यः सोऽनुदात्त इति च भाषिकसूत्रे विधिः (स्वरितानुदात्तौ च॥ उदात्तम् अनुदात्तम् अनन्त्यम्॥) । मन्त्रस्थस्वरितोदात्ताक्षरयोर् अर्वाचीनोच्चनीचोच्चारणभेदम् ब्राह्मणे ऽपि रक्षितुम् इदं तन्त्रम्।
+
 ## लोकावेक्षणम्
 ### वैदिकोच्चारणम्
 In nearly all contemporary vedic recitation systems, the aShTAdhyAyI system is contradicted except for the following:
