@@ -21,3 +21,9 @@ practice_weight: 0
   unmarked syllables ( udatta and ekasruti ) as ekasruti , and syllables marked
   svarita as moving from udatta to ekasruti ." - Wikner in - [IA](https://archive.org/details/accents_201803)
 - In current sAmagAna traditions, the hastasvara gestures matches the prescription of lakShaNa-grantha-s and notations, but the kaNTha-svara (actual singing) does not match the gestures to a great extant. Modulating the notation to match the actual singing or vice-versa is definitely worthy of being considered. {[वंशीकृष्णार्यो ऽत्र](https://youtu.be/sxPyUzcZBos?t=969)।}
+
+## सामवेदे स्वराङ्कनम्
+- कौथुमशाखायाम् अङ्कानि लिखन्ति।
+  - On the mismatch between hasta-svara and kaNTha-svara-s (and the primacy of the latter) in most sAMa traditions - वंशीकृष्णघनपाठ्य् [अत्र](https://youtu.be/sxPyUzcZBos?t=969)।
+- राणायनीयशाखायाम् अक्षरैः स्वराङ्कनम्, तत्र तिगलारिलिप्याम् तालपत्रादिषु दोषास् सम्भवन्ति - प्रभाकरभट्टो [ऽत्र](https://www.youtube.com/watch?v=TdWGxUZPD94&feature=youtu.be&t=182)।
+- एवं जैमिनीयशाखायाः परवस्तुपरम्परायाम् अपि।
