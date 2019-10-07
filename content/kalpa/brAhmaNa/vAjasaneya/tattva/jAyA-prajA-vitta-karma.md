@@ -1,5 +1,5 @@
 ---
-title: जया-प्रजा-वित्त-कर्माणि
+title: जाया-प्रजा-वित्त-कर्माणि
 unicode_script: devanagari
 ---
 
