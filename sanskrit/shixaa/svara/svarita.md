@@ -24,8 +24,9 @@ unicode_script: devanagari
 ```
 - नरेन्द्रस्य +ऋत्विजः [अत्र](https://archive.org/details/udakashAnti-vidhi-mantra-bhAShya-parichayaH)।  (३-तीयध्वनिमुद्रणे " rAxoghna-sUktam, devatA-vichAraH, sAyaNa-bhAShya-AkRtiH uchChAraNa-bheda-vichAraH.mp3" इत्याख्ये २६:०० इत्यत्र।)
 
-### माध्यन्दिनेषु
-मन्त्रेषु यौ स्वरितानुदात्तौ तौ शतपथे उदात्तौ, यस्तु उदात्तो ऽनन्त्यः सोऽनुदात्त इति च भाषिकसूत्रे विधिः (स्वरितानुदात्तौ च॥ उदात्तम् अनुदात्तम् अनन्त्यम्॥) । मन्त्रस्थस्वरितोदात्ताक्षरयोर् अर्वाचीनोच्चनीचोच्चारणभेदम् ब्राह्मणे ऽपि रक्षितुम् इदं तन्त्रम्।
+### माध्यन्दिनेषु शतपथे
+- मन्त्रेषु यौ स्वरितानुदात्तौ तौ शतपथे उदात्तौ, यस्तु उदात्तो ऽनन्त्यः सोऽनुदात्त इति च भाषिकसूत्रे विधिः (स्वरितानुदात्तौ च॥ उदात्तम् अनुदात्तम् अनन्त्यम्॥) । मन्त्रस्थस्वरितोदात्ताक्षरयोर् अर्वाचीनोच्चनीचोच्चारणभेदम् ब्राह्मणे ऽपि रक्षितुम् इदं तन्त्रम्।
+- [VA](http://vedavid.org/accent.html): "The accent mark used in the ShB is, as it is well known, a horizontal stroke below the letter. Leumann and Wackernagel believe this to be the designation of the main accent, in every case. But then, this results in very curious deviations from the Vedic norm of accentuation, both for single words as well as for sentences (for example: manúSya- instead of manuSyá-, or yátrá kva ca for yátra kvà ca ). In order to arrive at the normal accentuation, Weber (ShB p. xii sq.), Caland (ShBK introd. p. 7 sqq.), and Minard (Trois ènigm. p. 7 sqq.) therefore suppose, that accent mark does not only indicate the main tone (udaatta) of the same syllable but also svarita of the following one. This results in the only important peculiarity of ShB accent: when accented and unaccented vowels collide (as for instance in Rigvedic abhinihita sandhi, too), the result is svarita (á + a> aà [i.e. svarita- long a], á + í> è, etc.), except when the prepositions aa and prá (prá + ihi>préhi ) and when composition (citrá + uti> citróti ) are involved.  Thus, it becomes explainable, why in an uninterrupted sequence of udaattas apparently only the last one is marked: it is only the last one that is followed by svarita. On the other hand, it is in concurrence with the present system of notation, that in a sequence of svarita's not only the last one, but each one is announced by the accent mark."
 
 ## लोकावेक्षणम्
 ### वैदिकोच्चारणम्
