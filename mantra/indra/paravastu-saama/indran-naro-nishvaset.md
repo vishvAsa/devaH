@@ -10,7 +10,11 @@ unicode_script: devanagari
 
 ## साम
 
-- पारम्परिक-गान-मूलम् [२०१५](https://sanskritdocuments.org/sites/pssramanujaswamy/VIVAAHA%20UPANAYANA%20SAAMAANI.pdf&sa=D&ust=1542425956265000)। [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n8/mode/1up&sa=D&ust=1542425956265000)। कौथुम-गानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume2SatyavrataSamasrami1876bis_201804/page/n453&sa=D&ust=1542425956265000)।
+- पारम्परिक-गान-मूलम् [२०१५](https://sanskritdocuments.org/sites/pssramanujaswamy/VIVAAHA%20UPANAYANA%20SAAMAANI.pdf&sa=D&ust=1542425956265000)। [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n8/mode/1up&sa=D&ust=1542425956265000)। 
+
+- कौथुम-गानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume2SatyavrataSamasrami1876bis_201804/page/n453&sa=D&ust=1542425956265000)।
+
+
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/nishvaset.mp3"></div>
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
@@ -31,7 +35,7 @@ unicode_script: devanagari
 
 {हा+++(["प]३)+++ उ}+++([त्रिः])+++। {नि+++([त])+++,श्वसे+++(३")+++त्}+++([त्रिः])+++।  
 {आ+++([त]%)+++युहु}+++([द्विः])+++। आ+++([त]-%३)+++युहु।  
-{सा+++([त]-%३)+++त्यम्}+++([त्रिः])+++ ।
+{सा+++([त]-%३)+++त्यम्}+++([द्विः])+++ ।
 
 स+++([टृ])+++त्याआआअ औ+++(["])+++हो+++(["]%३)+++वा+++(३-")+++आ।  
 ई+++([टृ])+++ईईई ई+++(३)+++।
