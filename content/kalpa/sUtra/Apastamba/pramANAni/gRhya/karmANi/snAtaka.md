@@ -1,5 +1,5 @@
 ---
-title: स्नातकव्रानि
+title: स्नातकव्रतानि
 unicode_script: devanagari
 
 ---
