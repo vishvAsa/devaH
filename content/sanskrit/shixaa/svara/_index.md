@@ -5,7 +5,7 @@ unicode_script: devanagari
 practice_weight: 0
 ---
 
-विश्वासटिप्पणयः - पाणिनीये [ऽत्र](https://docs.google.com/spreadsheets/d/1208pyOsYiZlS5fmm8tYEq2qbCzqWgPnMYNUf1-1uRJM/edit#gid=4)। वेदपाठे [ऽत्र](https://docs.google.com/spreadsheets/d/1VJPgfgzE6S2J18R7MO4YK4wWi-bQ4qiwP5ldJLKxuZM/edit#gid=209823179)।
+व्याकरणविशेषा [अत्र](../../vyAkaraNa/svaraH/)। वेदपाठे [ऽत्र](https://docs.google.com/spreadsheets/d/1VJPgfgzE6S2J18R7MO4YK4wWi-bQ4qiwP5ldJLKxuZM/edit#gid=209823179)।
 
 ## लक्ष्याणि
 - किञ्चन त्वन्नाल-सङ्कलनम् [अत्र](https://www.youtube.com/playlist?list=PL63uIhJxWbggXl0JZBmuPlb36D_twYV-4)।
