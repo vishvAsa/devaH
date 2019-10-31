@@ -1,7 +1,7 @@
 ---
 title: नमस्ते ऽग्ने  
 unicode_script: devanagari  
-
+practice_weight: 0
 --- 
 
 ## ऋक्
@@ -10,8 +10,7 @@ unicode_script: devanagari
 
 +++([सायणो [ऽत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart2/rv_sayanabhasya_part2#page/n278/mode/1up&sa=D&ust=1542425956385000)। विश्वामित्रः। अग्निः।])+++
 
-नम॑स्ते अग्न॒ ओज॑से गृ॒णन्ति॑ +++(=वदन्ति)+++ देव कृ॒ष्टयः॑ +++(=मनुष्याः)+++।
-
+नम॑स्ते अग्न॒ ओज॑से गृ॒णन्ति॑ +++(=वदन्ति)+++ देव कृ॒ष्टयः॑ +++(=मनुष्याः)+++।  
 अमै॑र् +++(=बलैर्)+++ अ॒मित्र॑म् अर्दय +++(=नाशय)+++ ।
 
 {{< figure src="../../images/tall-agni-in-vedI-surrounded-by-lots-of-Rtvik-s-with-folded-hands-in-many-many-yAga-s-namaskAra-.png" title="" class="thumbnail">}}
