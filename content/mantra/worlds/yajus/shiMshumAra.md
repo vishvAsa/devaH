@@ -1,7 +1,7 @@
 ---
 title: शिंशुमार-वन्दनम्
 unicode_script: devanagari
-
+practice_weight: 0
 ---
 
 {{< figure src="https://i.imgur.com/Nt1v8yj.jpg" title="" class="thumbnail">}}

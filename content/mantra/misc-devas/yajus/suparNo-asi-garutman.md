@@ -1,7 +1,7 @@
 ---
 title: सुपर्णोऽसि गरुत्मन्
 unicode_script: devanagari
-
+practice_weight: 5
 ---
 
 सु॒प॒र्णोऽसि ग॒रुत्मा॑न्।   
