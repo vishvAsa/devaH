@@ -1,7 +1,9 @@
 ---
 title: सूर्य इव दृशे
 unicode_script: devanagari
+practice_weight: 0
 ---
+छान्दोग्योपनिषदः।
 
 भूर्भुवस्स्वर् ओम्।  
 सूर्य इव दृशे भूयासम्।  
