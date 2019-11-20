@@ -62,6 +62,9 @@ contents:
             - title: गद्यानि
               contents:
                 - url: dir://mantra/worlds/gadya
+            - title: पद्यानि
+              contents:
+                - url: dir://mantra/worlds/padya
         - title: परिशिष्टम्
           contents:
             - title: ऋचः
