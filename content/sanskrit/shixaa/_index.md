@@ -21,8 +21,6 @@ title: +शिक्षा
 ## शिष्टाः शिक्षाविचाराः
 - ऋ-ऌ-वर्णयोः असावर्ण्ये
     - [अत्र](https://groups.google.com/forum/#!topic/bvparishat/HuVB9kVGJrI)
-- तालु\-मूर्धयोस् स्थाने विवादः \- दन्तमूर्धयोर् मध्ये ताल्व् इति केचित्, दन्त-ताल्वोर् मध्ये मूर्धेत्य् अपरे (श्रीरमणशर्मणः शिक्षाप्रथमक्लृप्तिः [अत्र](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxqYW1hZGFnbml8Z3g6MjQ2OTU1MTg0YTUwOTFkMg))।
-    - यथा कथमपि स्यात् \- जिह्वाया अधोभागसंस्पर्शेन मूर्धन्यवर्णा जन्यन्त, ऊर्ध्वभागसंस्पर्शेन तालव्यादिवर्णा इति निश्चयेनालम् मन्ये।          
 - सन्ध्यक्षर+उच्चारणम् ("एओ=अइ/ अउ, ऐऔ=आइ/ आउ") इति विषये [अ](https://twitter.com/sabdavidya/status/733300680241389568?cn=bWVudGlvbg%3D%3D&refsrc=email)[त्र](https://twitter.com/sabdavidya/status/733300680241389568?cn=bWVudGlvbg%3D%3D&refsrc=email) TW, [MB](https://archive.org/stream/LecturesOnPatanjalisVyakaranaMahabhashya1/LecturesMahabhasya#page/n189/mode/2up)।
     - "By the time of patanjali (classical saMskRta) the ए ओ were monophthongs, but ऐ औ were diphthongs. We know this because patanjali describes this. I don't know about the RgvedaprAtishAkhya or the Rktantra - they would be prior to patanjali, but also when classical sanskrit had come to be spoken... patanjali (already classical) mentions that people from the राणायणीय stream pronounced a short version of ए. A short length vowel pretty much cannot be a diphthong. If this sect had been pronouncing a short version of ए since ancient times, that would argue against a diphthong ए." 
 
