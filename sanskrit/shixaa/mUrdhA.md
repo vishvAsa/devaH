@@ -28,7 +28,9 @@ unicode_script: devanagari
 
 ### Retroflex-सम्भूतिः
 - णत्वषत्वयोर् अर्वाचीनता
-  - णत्वं षत्वं चापवादभूयिष्ठम् - वेदेष्वपि। एवञ्च महाभाष्ये १.१.५६ इत्यत्र - "एवं हि श्रूयते- यर्वाणस्तर्वाणो नाम ऋषयो बभूवुः प्रत्यक्षधर्माणः परापरज्ञा विदितवेदितव्या अधिगतयाथातथ्याः। ते तत्रभवन्तो "यद्वा नस्, तद्वा न" इति प्रयोक्तव्ये "यर्वाणस् तर्वाण" इति प्रयुञ्ञ्जते, याज्ञे पुनः कर्मणि नापभाषन्ते।"
+  - णत्वं षत्वं चापवादभूयिष्ठम् भाषायाम् - पाणिनीयसूत्राणि तत्र प्रमाणम्।
+  - वेदेष्वपि - "प्र णो " इत्यपि दृश्यते, "प्र नो" इत्यपि।
+  - एवञ्च महाभाष्ये १.१.५६ इत्यत्र - "एवं हि श्रूयते- यर्वाणस्तर्वाणो नाम ऋषयो बभूवुः प्रत्यक्षधर्माणः परापरज्ञा विदितवेदितव्या अधिगतयाथातथ्याः। ते तत्रभवन्तो "यद्वा नस्, तद्वा न" इति प्रयोक्तव्ये "यर्वाणस् तर्वाण" इति प्रयुञ्ञ्जते, याज्ञे पुनः कर्मणि नापभाषन्ते।"
 - Fortunatov’s Law: "IE l + dental = l is dropped and the dental is changed to a cerebral".  (cf. Sk पट- ‘cloth’, O Slav. platino , Russ, polotno; sk भाषा , Lithuanian balsa - ‘voice’)
 - Just as alveolar t and d are rendered retroflex in Indian English, so must bilingual speakers of Sanskrit and some retroflexed language have introduced retroflex into sanskrit.
   - In later southern texts and tradition, we find la being replaced with La (mangaLa). 
