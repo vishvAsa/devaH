@@ -17,3 +17,7 @@ unicode_script: devanagari
 - Western European pronunciation of T, D is NOT retroflex (tongue curl).
   - "The British had to use hundreds of local Indian words in English. However, they did not pick up the retroflex sounds, but rather approximated them to other English sounds. Thus, the Marathi place name पुणॆ became “Poona” and खड्कि came to be called “Kirkee.*”"
   - "When native speakers of Indian languages heard English with their “Indian ears,” English alveolars were naturally felt to be closer to Indian retroflexes and were approximated to Indian retroflexes. For example, English ‘table’ becomes tebal in Marathi."
+
+## Role of shixA texts
+- From vyAkaraNa and prAtishAkhya to later shixA texts, one observes an evolution. At various stages of drift in pronunciation, these texts aimed to "justify" the current pronunciation and freeze it (ie prevent further drift).
+- "Once personalities like Sakalya and Mandukeya had fixed the texts of their respective recensions, the orally preserved texts were as if quickly frozen with all the changes that had taken place so far, and then texts like Pratisdkhyas were composed to describe in detail the features of these “frozen” texts. Staal (1967:17) rightly points out that the Pratisdkhyas were “not interested in the Vedic language as such, but in the utterances handed down ” by the oral tradition. However, phenomena like retroflexion had set in before the process of “text freezing” had begun. The same phenomenon is seen in the application of other sandhi rules in the preserved recensions."
