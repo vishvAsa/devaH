@@ -3,8 +3,11 @@ title: उच्चारण-परिवर्तनम्
 unicode_script: devanagari
 ---
 
+## परिवर्तनक्रमः
 {{< figure src="../images/phonetic_transformation.png" title="" >}}
+{{< figure src="../images/phonetic_transformation_text.png" title="" >}}
 
+- "The orthodox Indian tradition has greatly respected the relationship of a teacher and his disciple and has continued to believe that nothing ever changed in this oral transmission. It is believed that the oral text has been handed down from one generation to the next without any changes. However, we must view a preliterate oral tradition with a fresh linguistic and analytical approach. We must distinguish a “pseudo-connection” from a “real connection” between two successive synchronic states of a preliterate oral text."
 
 ## लल्लावाक्यानाम् उदाहरणम्
 - "Grierson (1929) has given a fascinating account of how the Kashmiri text of Lalla-vAkyAni, originally composed in the latter half of the fourteenth century, has been preserved orally to the present day without ever having been written down. Grierson (1929:74) points out that “save for a few forms that have remained unchanged...her verses are in what is practically modern Kashmiri.” However, the text of the Mahanayaprakasha was composed in the fifteenth century and was written down at the time it was composed, and hence its language is preserved without any further change. "
