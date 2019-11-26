@@ -29,3 +29,7 @@ unicode_script: devanagari
   - णत्वं षत्वं चापवादभूयिष्ठम् - वेदेष्वपि। एवञ्च महाभाष्ये १.१.५६ इत्यत्र - "एवं हि श्रूयते- यर्वाणस्तर्वाणो नाम ऋषयो बभूवुः प्रत्यक्षधर्माणः परापरज्ञा विदितवेदितव्या अधिगतयाथातथ्याः। ते तत्रभवन्तो "यद्वा नस्, तद्वा न" इति प्रयोक्तव्ये "यर्वाणस् तर्वाण" इति प्रयुञ्ञ्जते, याज्ञे पुनः कर्मणि नापभाषन्ते।"
 - Just as alveolar t and d are rendered retroflex in Indian English, so must bilingual speakers of Sanskrit and some retroflexed language have introduced retroflex into sanskrit.
   - In later southern texts and tradition, we find la being replaced with La (mangaLa). 
+
+### क्वचिद् Alveolar-पुनर्भवः
+- In Assamese : "The O.I.A. dental and cerebral series lost their original sound values and became alveolars, i.e., the point of articulation for the dentals is pushed back and for the cerebrals pushed forward” due to the Tibeto-Burman influence which had this leveling effect." 
+- "The Cambodians also adopted several aspects of Indian culture, but not retroflexion. In old and modern Cambodian, the Sanskrit and Pali retroflexes are are reduced to dentals. The same Phenomenon takes place in Old and Modern Siamese. Burmese does have separate characters for retroflex sounds, which are only used in writing Pali words, but the Burmese pronounce them exactly as the corresponding alveolars." 
