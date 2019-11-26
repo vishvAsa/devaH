@@ -1,7 +1,6 @@
 ---
 title: वामदेव्यम् पञ्चनिधनम्
 unicode_script: devanagari
-practice_weight: 10
 ---
 
 ## ऋक्
