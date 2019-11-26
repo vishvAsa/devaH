@@ -16,18 +16,16 @@ unicode_script: devanagari
 
 ## इतिहासः
 ### अभिप्रायाः
-- द्राविडप्रायभाषान्तरभाषकैर् वेदरक्षकैः शनैर् वेदेष्वपि मूर्धन्यवर्णा भाविता इति माधवादयः केचित्। ततः प्रागित्यन्ये।
+- द्राविडप्रायभाषान्तरभाषकैर् वेदरक्षकैः शनैर् वेदेष्वपि मूर्धन्यवर्णा भाविता इति माधवादयः केचित्। ततः प्रागित्यन्ये  [केचित्](https://twitter.com/blog_supplement/status/1176332528795443203)।
 - माधवो [ऽत्र](https://www.academia.edu/1306422/Genesis_of_Rgvedic_retroflexion_a_historical_and_sociolinguistic_investigation)।
-- तत्र [केचित्](https://twitter.com/blog_supplement/status/1176332528795443203) - 
-  - 1/ it used to be often claimed that the retroflexes are sign of borrowings from Dr /Harappan. I suggest they are not but internal developments in IA or words with a long IE pedigree. Now some of these had retroflexed in Skt before they were borrowed into Tam
-  - 2. Sanskrit has a lot of retroflex words but a specific group of these are clearly IA but appear in a later layer of Skt than RV or even more generally Vedic. Based on this I propose that they radiated out from a zone with retroflexing tendencies through. This could be the megalithic expansion that definitely brought a lot of IA loans to Tam and other Dr. 
-  - 3^ pUr is a proper IA word with IE pedigree. 
-  - the RV L is a peculiar retroflex that might be a secondarily developed sound for what was once vocalized differently.
 
 ### Alveolar-कालः
-- Classical Greek: It is not Delta or Tau with retroflexes. And, θ is mahAprANa (aspirated). W Eur pronunciation of T, D is NOT retroflex (tongue curl), as per this [wiki key](https://en.wikipedia.org/wiki/Greek_alphabet#cite_ref-Mastronarde2013p11_19-2).
+- Classical Greek: It is not Delta or Tau with retroflexes - they're alveolar. And, θ is mahAprANa (aspirated). W Eur pronunciation of T, D is NOT retroflex (tongue curl), as per this [wiki key](https://en.wikipedia.org/wiki/Greek_alphabet).
+- Western European pronunciation of T, D is NOT retroflex (tongue curl). There is no separate retroflex Na. See examples in [language drift page](../uchchAraNa-parivartanam/).
 - ब्राह्मीलिप्यां दन्त्यवर्णचिह्नानि मूर्धन्यवर्णचिह्नानि समानमूलानि।
 
 ### Retroflex-सम्भूतिः
 - णत्वषत्वयोर् अर्वाचीनता
   - णत्वं षत्वं चापवादभूयिष्ठम् - वेदेष्वपि। एवञ्च महाभाष्ये १.१.५६ इत्यत्र - "एवं हि श्रूयते- यर्वाणस्तर्वाणो नाम ऋषयो बभूवुः प्रत्यक्षधर्माणः परापरज्ञा विदितवेदितव्या अधिगतयाथातथ्याः। ते तत्रभवन्तो "यद्वा नस्, तद्वा न" इति प्रयोक्तव्ये "यर्वाणस् तर्वाण" इति प्रयुञ्ञ्जते, याज्ञे पुनः कर्मणि नापभाषन्ते।"
+- Just as alveolar t and d are rendered retroflex in Indian English, so must bilingual speakers of Sanskrit and some retroflexed language have introduced retroflex into sanskrit.
+  - In later southern texts and tradition, we find la being replaced with La (mangaLa). 
