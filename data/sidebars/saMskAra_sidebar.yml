@@ -210,12 +210,18 @@ contents:
           - url: dir://kalpa/brAhmaNa/taittirIya/
           - title: क्रियाः
             contents:
-              - title: अभिचारः
+              - title: अङ्गानि
+                contents:
+                  - url: dir://kalpa/brAhmaNa/taittirIya/kriyA/angAni
+              - title: सोमसंस्था
                 contents:
                   - url: dir://kalpa/brAhmaNa/taittirIya/kriyA/soma-saMsthA
               - title: अभिचारः
                 contents:
                   - url: dir://kalpa/brAhmaNa/taittirIya/kriyA/abhichAra
+              - title: इष्ट्यवशेषः
+                contents:
+                  - url: dir://kalpa/brAhmaNa/taittirIya/kriyA/iShTy-avasheShaH
               - title: प्रायश्चित्तानि
                 contents:
                   - url: dir://kalpa/brAhmaNa/taittirIya/kriyA/prAyashcitta
