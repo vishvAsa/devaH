@@ -21,4 +21,5 @@ unicode_script: devanagari
 
 ## Role of shixA texts
 - From vyAkaraNa and prAtishAkhya to later shixA texts, one observes an evolution. At various stages of drift in pronunciation, these texts aimed to "justify" the current pronunciation and freeze it (ie prevent further drift). They were partially successful.
+- Hasta-svara-s, keraLa-style mudra-s and vikRti-pATha-s serve similar conservative purpose.
 - "Once personalities like Sakalya and Mandukeya had fixed the texts of their respective recensions, the orally preserved texts were as if quickly frozen with all the changes that had taken place so far, and then texts like PratishAkhyas were composed to describe in detail the features of these “frozen” texts. Staal (1967:17) rightly points out that the PratishAkhyas were “not interested in the Vedic language as such, but in the utterances handed down ” by the oral tradition. However, phenomena like retroflexion had set in (but not completely pervaded) before the process of “text freezing” had begun. The same phenomenon is seen in the application of other sandhi rules in the preserved recensions."
