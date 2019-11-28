@@ -49,7 +49,7 @@ unicode_script: devanagari
 ### ऋकार-रेफयोः
 - Varied classification despite functional similarity
   - "no Pratisakhyas consider r and ऋ to be retroflex sounds ( murdhanya ), and to find them classified as retroflexes we have to come down to such late texts as the Paniniya-Siksa."
-  - "The Rktantra (2.1.4, 7, 8) classifies ऋ as a jihvd-muliya ‘velar’, and r as either a dantya ‘dental’ or danta-muliya ‘alveolar’ sound. The TaittirIya-prAtishAkhya (2.18, 41) classifies ऋ as being produced at the upper back gums and jaws, while r is an alveolar." Similarly the shaunakIyas.
+  - "The Rktantra (2.1.4, 7, 8) classifies ऋ as a jihvA-muliya ‘velar’, and r as either a dantya ‘dental’ or danta-muliya ‘alveolar’ sound. The TaittirIya-prAtishAkhya (2.18, 41) classifies ऋ as being produced at the upper back gums and jaws, while r is an alveolar." Similarly the shaunakIyas.
 - "It may be that in all variant classifications of ऋ and r there is some degree of tongue-raising involved, if not retroflexing in the strict sense."
 - "It is important to realize that despite the variations in the phonetic classifications of ऋ and r in different texts, these sounds had the same functional load in all the known grammatical systems of Sanskrit, and this functional load was shared in common with the sibilant s, which is classified by all the known Sanskrit phonetic treatises as a retroflex. "
 
