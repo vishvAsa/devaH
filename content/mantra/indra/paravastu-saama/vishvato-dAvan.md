@@ -19,7 +19,7 @@ unicode_script: devanagari
 {{< figure src="../../images/indra-or-someone-on-an-arial-charriot-attacking-an-army-with-arrows.jpg" title="" class="thumbnail">}}
 
 
-## साम १
+## साम १ हाउहाउ हउवा
 
 - [पारम्परिकगानमूलम् - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n2/mode/1up&sa=D&ust=1542425956390000)।]
 - कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume2SatyavrataSamasrami1876bis_201804/page/n467)।
@@ -45,7 +45,7 @@ unicode_script: devanagari
 
 ई+++([टू])+++इइइ ई+++(३)+++ ॥
 
-## साम २
+## साम २ 
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/vishvato-dAvan-2.mp3"></div>
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
