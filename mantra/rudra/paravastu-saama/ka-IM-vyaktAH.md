@@ -1,7 +1,7 @@
 ---
 title: क ईं व्यक्ताः
 unicode_script: devanagari  
-
+practice_weight: 5
 --- 
 
 ## ऋक्
@@ -18,7 +18,7 @@ unicode_script: devanagari
 
 {{< figure src="../../images/marut-group-on-a-horse-drawn-charriot-in-the-sky.png" title="" class="thumbnail">}}
 
-## साम १
+## साम १ का४ईइम्
 - पारम्परिकगानमूलम् - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n6/mode/1up)।
 - कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n941)।
 
@@ -39,7 +39,7 @@ unicode_script: devanagari
 सु+++([ज])+++वा+++(३)+++आश्वा+++(३--")+++ह+++(v)+++ ॥
 
 
-## साम २
+## साम २ कईइइम्
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/ka-Im-2.mp3"></div>
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
@@ -56,7 +56,7 @@ unicode_script: devanagari
 सु+++([ज])+++वाआश्वा+++(--"३)+++ह+++(v)+++ ॥
 
    
-## साम ३
+## साम ३ आओवाअ
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/ka-Im-3.mp3"></div>
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
