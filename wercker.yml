@@ -23,7 +23,7 @@ build:
         theme: "sanskrit-documentation-theme-hugo"
         flags: --buildDrafts=true
     - arjen/hugo-build:
-        version: "0.53"
+        version: "0.61"
         theme: "sanskrit-documentation-theme-hugo"
         flags: --buildDrafts=true
         config: config_offline_android.toml
