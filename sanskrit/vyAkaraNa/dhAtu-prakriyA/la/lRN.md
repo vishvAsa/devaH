@@ -9,7 +9,7 @@ unicode_script: devanagari
 <div class="js_include" url="../angAni/vivaxA-kalanam.md"  newLevelForH1="1" includeTitle="true"> </div>
 
 ## प्रत्ययनिर्माणम्
-<div class="js_include" url="../angAni/laN-tiN.md"  newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="../angAni/laN-tiN.md"  newLevelForH1="3" includeTitle="true"> </div>
 
 ### विकरणविधानम्
 स्यतासी लृ-लुटोः॥

@@ -44,7 +44,7 @@ unicode_script: devanagari
 
 ## कित्-कर्म
 सम्प्रसारणम्।
-<div class="js_include" url="../angAni/kNit.md"  newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="../angAni/kNit.md"  newLevelForH1="3" includeTitle="true"> </div>
 
 
 <div class="js_include" url="../angAni/abhyAsaH.md"  newLevelForH1="1" includeTitle="true"> </div>

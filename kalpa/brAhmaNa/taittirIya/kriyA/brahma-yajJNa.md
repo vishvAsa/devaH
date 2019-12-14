@@ -16,7 +16,7 @@ unicode_script: devanagari
 प्राङा+++(नना)+++सी॑नस् स्वाध्या॒यमधी॑यीत - अ॒पाव्ँ वा ए॒ष ओष॑धीना॒ꣳ॒ रसो॒ यद्द॒र्भास्, सर॑समे॒व ब्रह्म॑ कुरुते।  
 दक्षिणोत्त॒रौ पा॒णी कृ॒त्वा सप॒वित्रा॒व्,  
 ओमिति॒ प्रति॑पद्यत - ए॒तद्वै यजु॑स् त्रयीव्विँ॒द्यां प्रत्ये॒षा वाग्, ए॒तत् प॑र॒मम॒क्षर॒न्, तदे॒तद् ऋ॒चा ऽभ्यु॑क्तम् -  
-<div class="js_include" url="../../../../mantra/brahma/Rk/Rcho-axare.md"  newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="../../../../mantra/brahma/Rk/Rcho-axare.md"  newLevelForH1="2" includeTitle="false"> </div>
 इति॒।  
 त्रीने॒व +++(वेदसारान् लोकत्रयात्मकान्)+++ प्रायु॑ङ्क्त॒ - भूर्भुव॒स्स्व॑रित्या॑ह+++(=पठेत्)+++। - ए॒तद्वै वा॒चस् स॒त्यम्। यदे॒व वा॒चस् स॒त्यन् तत् प्रायु॒ङ्क्त।  
 अथ॑ सावि॒त्रीङ् गा॑य॒त्रीन् त्रिर् अन्वा॑ह - प॒च्छो॑+++(=पद्-शः)+++ ऽर्धर्च॑शो ऽनवा॒नꣳ+++(=पूर्णम्)+++ - स॑वि॒ता श्रियः॑ प्रसवि॒ता। श्रिय॑मे॒वाप्नो॒ति।  
@@ -28,7 +28,7 @@ unicode_script: devanagari
 
 ### पर्यवसानम्
 स वा ए॒ष य॒ज्ञस्, स॒द्यः प्रता॑यते स॒द्यस् सन्ति॑ष्ठते॒। तस्य॒ प्राक् सा॒यम् अ॑वभृ॒थो - 
-<div class="js_include" url="../../../../mantra/misc-devas/Rk/namo-brahmaNe.md"  newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="../../../../mantra/misc-devas/Rk/namo-brahmaNe.md"  newLevelForH1="3" includeTitle="false"> </div>
 
 ततो॒ यत्किञ्च॒ ददा॑ति॒ सा दक्षि॑णा । (16) ।। 13 । 
 
@@ -72,5 +72,5 @@ unicode_script: devanagari
 
 तस्मा॑त् स्वाध्या॒यो ऽध्ये॑त॒व्यो॑ - यय्यँ॑ड्क्र॒तुमधी॑ते॒ तेन॑ तेनास्ये॒ष्टं भ॑वत्य्, अ॒ग्नेर्वा॒योरा॑दि॒त्यस्य॒ सायु॑ज्यङ्गच्छति॒ तदे॒षाऽभ्यु॑क्ता -
 
-<div class="js_include" url="brAhmaNa-vandanam.md"  newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="brAhmaNa-vandanam.md"  newLevelForH1="3" includeTitle="true"> </div>
 
