@@ -6,9 +6,7 @@ title: Diurnal plane and apps
 
 ## Motivation
 
-There was a long discussion about the following brAhmaNa of the taittirIyakas.
-
--  <div class="js_include" url="../kalpa/brAhmaNa/taittirIya/kriyA/puNya-naxatra.md"  newLevelForH1="2" includeTitle="true"> </div>
+There was a long discussion about the following brAhmaNa of the taittirIyakas- तैत्तिरीयब्राह्मणे [ऽत्र](../../kalpa/brAhmaNa/taittirIya/kriyA/puNya-naxatra/)।.
 
 The classical commentators (as well as modern shrauta and smArta ritualists familiar with ancient and modern astronomy I checked with) clearly require measurement of the time required by the sun to "reach" a certain point "behind" the position of a desired naxatra at sunrise. Of course, this means reaching a certain point on the sun’s daily path, \[let’s say that it lies in something called the Diurnal circle (defined below)\], which is comparable (say in altitude or proximity) to the point where the nakShatra was last seen.
 

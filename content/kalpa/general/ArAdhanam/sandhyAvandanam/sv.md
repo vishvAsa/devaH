@@ -45,5 +45,5 @@ unicode_script: devanagari
 
 ### उपस्थानम् 
 <div class="js_include" url="../../../../mantra/misc-devas/yajus/sUrya-iva-dRshe.md"  newLevelForH1="3" includeTitle="false"> </div>  
-<div class="js_include" url="../../../../mantra/Aditya/Rk/adya-no-deva.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="../../../../mantra/Aditya/Rk/adya-no-deva.md"  newLevelForH1="3" includeTitle="false"> </div>  
 

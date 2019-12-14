@@ -314,5 +314,5 @@ practice_weight: 0
 
 "आपो ह श्लेष्म प्रथमं संबभूव, येन धृतो वरुणो येन मित्रः । येनेन्द्रं देवा अभ्यषिञ्चन्त राज्याय, तेनाहं मामभिषिञ्चामि वर्चस" इति शिरस्यप आनयते ७
 
-<div class="js_include" url="../angAni/agni-upasthAna.md"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../angAni/agni-upasthAna.md"  newLevelForH1="3" includeTitle="true"> </div>  
 
