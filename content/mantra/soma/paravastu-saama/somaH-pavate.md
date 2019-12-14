@@ -6,7 +6,7 @@ practice_weight: 0
 --- 
 
 ## ऋक्
-<div class="js_include" url="../Rk/somaH-pavate.md"  newLevelForH1="2" includeTitle="true"> </div> 
+<div class="js_include" url="../Rk/somaH-pavate.md"  newLevelForH1="3" includeTitle="true"> </div> 
 
 ## साम १
 - पारम्परिक-गान-मूलम् 

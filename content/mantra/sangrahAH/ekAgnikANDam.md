@@ -15,7 +15,7 @@ unicode_script: devanagari
 अदि॒तेऽन्व॑मँस्थाः। अनु॑म॒तेऽन्व॑मँस्थाः। सर॑स्-व॒तेऽन्व॑मँस्थाः। देव॑ सवितः॒ प्रासा॑वीः।  
 
 ## वैश्वदेवम्
-<div class="js_include" url="../misc-devas/yajus/taittirIya-vaishvadevam.md"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../misc-devas/yajus/taittirIya-vaishvadevam.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ## विवाहमन्त्राः
 ### सुहृत्-प्रेषणम्
