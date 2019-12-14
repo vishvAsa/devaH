@@ -8,7 +8,7 @@ practice_weight: 0
 ## ऋक्
 [अस्मिन् निम्ने निधामहे]  
 
-<div class="js_include" url="../Rk/kayA-nash-chitra.md"  newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="../Rk/kayA-nash-chitra.md"  newLevelForH1="3" includeTitle="true"> </div>
 
 [अन्तरिक्षे सलिलं लेलाय]
 

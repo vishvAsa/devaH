@@ -5,7 +5,7 @@ unicode_script: devanagari
 --- 
 
 ## ऋक्
-<div class="js_include" url="../Rk/yadindrAham.md"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../Rk/yadindrAham.md"  newLevelForH1="3" includeTitle="true"> </div>  
 
 अग्निराहुतः - {स्वर् महः +++(=यज्ञः)+++} +++(नास्त्य् अयम् भागः कौथुमगाने)+++।
 

@@ -7,7 +7,7 @@ practice_weight: 0
 ---
 
 ## ऋक्
-<div class="js_include" url="../Rk/idaM-viShNur.md"  newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="../Rk/idaM-viShNur.md"  newLevelForH1="3" includeTitle="true"> </div>
 
 ## साम
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/idaM-viShNur-vichakrame-ekarcham.mp3"></div>
