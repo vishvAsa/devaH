@@ -20,7 +20,7 @@ unicode_script: devanagari
 {{< figure src="../../images/soma-purification.png" title="" class="thumbnail">}}
 
 
-## साम १
+## साम १ प्रेङ्खपूर्णम्
 - पारम्परिकगानमूलम् - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n2/mode/1up&sa=D&ust=1542425956390000)।]
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/sakhAya-A-ni-ShIdata-1-shrI-sUktam.mp3"></div>
@@ -43,7 +43,7 @@ unicode_script: devanagari
 ओ+++([])+++इ,डा+++([])+++अ ॥
 
   
-## साम २
+## साम २ अअअ-औहोवाअ
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/sakhAya-A-ni-ShIdata-2.mp3"></div>
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
@@ -62,7 +62,7 @@ unicode_script: devanagari
 +पारिभू+++(--%३)+++उ,,षा+++([]३")+++,अताअअअ औहो+++(३%)+++वा+++(")+++अ।  
 श्रि+++([])+++येए+++(३"%)+++ ॥
 
-## साम ३
+## साम ३ तव्रितम्
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/sakhAya-A-ni-ShIdata-3.mp3"></div>
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
@@ -80,7 +80,7 @@ unicode_script: devanagari
 ओ+++([])+++इ,डा+++([]")+++अ ॥
 
   
-## साम ४
+## साम ४ पुनानौहोइ-प्नानौहोयेए
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/sakhAya-A-ni-ShIdata-4.mp3"></div>
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
