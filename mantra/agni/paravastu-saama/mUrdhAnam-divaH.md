@@ -25,7 +25,7 @@ unicode_script: devanagari
 आ+++(["र]v)+++सन् नः पा+++(-"३)+++त्रा+++([रा]")+++,
 अञ् जना,,या+++([पै]-%-%-४)+++,,न्ता+++([पॄ]")+++अ दा+++(")+++इ,वाङ+++(")+++,ङाहा+++(v)+++ ॥
 
-## साम २
+## साम २ इहोइहाईइया
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/mUrdhAnam-divaH-2.mp3"></div>
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
