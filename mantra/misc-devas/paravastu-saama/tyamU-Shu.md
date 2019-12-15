@@ -23,7 +23,7 @@ unicode_script: devanagari
 {{< figure src="../../images/tArkShya.jpg" title="" class="thumbnail">}}
 
 
-## साम १
+## साम १ आआआ
 
 - पारम्परिकगानमूलम् - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n9/mode/1up)।
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
@@ -49,7 +49,7 @@ unicode_script: devanagari
 ता+++(["पृ]%)+++र्क्ष्यामि,हा+++(--%-%--)+++ ।  
 हू+++([]")+++उ,वा+++(")+++इ,मा+++(")+++ङ्,अ+++(")+++ङ्,आ+++(")+++अ ॥
 
-## साम २
+## साम २ ईयइयाहाइ
 
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/tyamU-Shu-2.mp3"></div>
