@@ -311,6 +311,18 @@ contents:
   - title: ज्यौतिषम्
     contents:
       - url: dir://jyotisha
+      - title: मानम्
+        contents:
+          - url: dir://jyotisha/mAnam/
+      - title: नक्षत्रम्
+        contents:
+          - url: dir://jyotisha/naxatram/
+      - title: सौरचान्द्रमानम्
+        contents:
+          - url: dir://jyotisha/saura-chAndra-mAnam/
+      - title: सौरमानम्
+        contents:
+          - url: dir://jyotisha/saura-mAnam/
   - title: संस्कृतम्
     contents:
       - url: dir://sanskrit/
