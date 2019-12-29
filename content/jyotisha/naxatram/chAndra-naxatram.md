@@ -15,6 +15,11 @@ unicode_script: devanagari
     - [IMG. ](https://imgur.com/a/hShjz)
     - [YV](https://archive.org/stream/HistoryOfCalendarPanchangaCommittee/History-of-Calendar-Panchanga-Committee#page/n77/mode/2up).
 
+## अयनांशचयनम्
+The ayanAMsha to be used in a particular ritual context should be determined from the vidhi-vAkya-s enjoining that particular ritual action. 
+
+For example, vAyupurANa says: मेषान्ते च तुलान्ते च भास्करोदयतः स्मृताः । मुहूर्त्ता दश पञ्चैव अहोरात्रिश्च तावती ।। ५०.१९५ ।। कृत्तिकानां यदा सूर्यः प्रथमांशगतो भवेत् । विशाखानां तथा ज्ञेयश्चतुर्थांशे निशाकरः।। ५०.१९६ ।। विशाखायां यदा सूर्यश् चरतेंऽशं तृतीयकम्। तदा चन्द्रं विजानीयात् कृत्तिकाशिरसि स्थितम् ।। ५०.१९७ ।। विषुवन्तं तदा विद्यादेवमाहुर्महर्षयः। सूर्येण विषुवं विद्यात् कालं सोमेन लक्षयेत् ।। ५०.१९८ ।। The second half of the first verse clearly tells us that during equinox, it is expected that both day and night are of equal length (15 muhUrta-s). The remainder goes on to tell us how the exact timing for the sadAchAra conduct described in succeeding verses are to be timed: A careful ritualist should first adjust ayanAmsha so that the sun at equinox appears in kRttikA as described, and then await the time around the solar equinox day when moon is in vishAkhA (as per this ayanAMsha adjustment). This of course results in shifting the naxatras from the corresponding asterisms (eg. Pleiades). This choice of ayanAMsha incidentally corresponds to the ritual requirements of yajurveda portions (such as the puNyanaxatra section of taittirIya brAhmaNa). Instead of this, if starts off with some other ayanAMsha from some other context and goes then to deduce "equinox" based on it - that would be wrong-headed - like latching the horses behind the cart. 
+
 ## अयनांशाः
 - अयनांश\-सूचिः \-  प्रारम्भस्थाने अयनांश-चिन्ता, Swiss Ephemeris सारः[अत्र](http://www.astro.com/swisseph/swisseph.htm#_Toc465773508), सूचिर्[अत्र](http://www.astro.com/swisseph/swephprg.htm#_Toc471829106)।
   - Other Spica/Citra (the actual star) tradition
@@ -31,6 +36,8 @@ unicode_script: devanagari
 - shaunaka atharvaveda 19.7 nakShatra sUktam
     - भानुराश्लेषा अयनं मघा मे : sun \[in\] AshleSha(=sarpa), \*solistice\* \[in\] maghA for me.
         सुहवमग्ने कृत्तिका रोहिणी चास्तु | agnI well-invoked in kR^ittikA: setting of fires in kR^ittkA; tasya rAshi-chitram \[[MT_TW](https://twitter.com/blog_supplement/status/985200041475366912), \]
+- वायुपुराणात् - 
+  - मेषान्ते च तुलान्ते च भास्करोदयतः स्मृताः । मुहूर्त्ता दश पञ्चैव अहोरात्रिश्च तावती ।। ५०.१९५ ।। कृत्तिकानां यदा सूर्यः प्रथमांशगतो भवेत् । विशाखानां तथा ज्ञेयश्चतुर्थांशे निशाकरः।। ५०.१९६ ।। विशाखायां यदा सूर्यश् चरतेंऽशं तृतीयकम्। तदा चन्द्रं विजानीयात् कृत्तिकाशिरसि स्थितम् ।। ५०.१९७ ।। विषुवन्तं तदा विद्यादेवमाहुर्महर्षयः। सूर्येण विषुवं विद्यात् कालं सोमेन लक्षयेत् ।। ५०.१९८ ।। 
 
 #### Vernal equinox at ashvinI
 - Vernal equinox was at actual ashvinI during taittirIya-AraNyaka period "नक्षत्राणि रूपम्, अश्विनौ व्यात्तम्" ([MT](https://manasataramgini.wordpress.com/2013/11/08/anatomy-and-heavens-in-the-boomorphic-universe/), आरण्यके [ऽत्र](https://archive.org/stream/taittiriya/taittiriya_aranyaka_bhaskara_01#page/n309/mode/2up))
