@@ -288,6 +288,9 @@ contents:
                 - title: विशेषाः
                   contents:
                     - url: dir://kalpa/general/ArAdhanam/homa/visheShaH/
+            - title: पूजा
+              contents:
+                - url: dir://kalpa/general/ArAdhanam/pUjA/
             - title: श्राद्धम्
               contents:
                 - url: dir://kalpa/general/ArAdhanam/shrAddham/
