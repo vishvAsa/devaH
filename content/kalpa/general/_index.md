@@ -39,6 +39,9 @@ unicode_script: devanagari
 - I do not wish to give up my freedom to sympathetically probe, understand and decide on what my practice should be - the freedom in particular to respectfully disagree in practice with the learned traditional practitioner when the explanation is unsatisfactory ---and face the "consequences" from the deva-s.
 - The people who will tolerate this is a small minority, though my sincere interest in kalpa is apparent. With them, for example, I can discuss at length with XYZ about why I am put off by navya-nyAya in the light of modern science or why I think that my preferred svara system is superior  or why some ritual usage in abhivAdana is justifiable by grammar. They may think I am wrong and they probe and let me explain my intentions (ie - there is some reason behind my investigation beside just being a smartass), but to a certain extant they engage and answer my questions.
 
+#### रहस्यज्ञास्थानम्
+"Agnishad, the brāhmaṇa from Cerapada, was a notable somayājin. Having performed the agniṣṭoma he drank soma. But he apparently did not know the rahasya rituals. Hence, one day he was struck by the vajra of deva Rudra and was killed. I do not wish to go that way."
+
 ### तपो-मद-वारणम्
 
 - तपोमदो नाम दीर्घानुष्ठानात् परम् कदाचिद् अहङ्कारवृद्धिर् व्यवहारेषु लौकिकेष्व् अधिका रूक्षता च।
