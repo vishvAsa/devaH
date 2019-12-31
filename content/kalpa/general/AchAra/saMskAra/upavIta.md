@@ -1,5 +1,5 @@
 ---
-title: upavIta
+title: उपवीतधारणम्
 ---
 
 ## Eligibility
