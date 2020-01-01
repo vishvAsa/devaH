@@ -6,7 +6,7 @@ unicode_script: devanagari
 
 ## परिचयः
 - टीकाः - तैत्तिरीयब्राह्मणभाष्ये सायणीय [अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_037_Taittiriya_Brahmanam_with_Sayanabhashya_Part_2_-_Narayanasastri_Godbole_1898#page/n249/mode/2up)।
-- सर्वस्मिन् भागय् आदिमा ऋक् पुरोनुवाक्या होत्रा ऽध्वर्युणा चोदितेन वाच्या। अपरा याज्या ऽध्वर्युणा।
+- सर्वस्मिन् भागय् आदिमा ऋक् पुरोनुवाक्या होत्रा - ऽध्वर्युणा चोदितेन - वाच्या। अपरा याज्या ऽध्वर्युणा।
   
 ## कृत्तिकाः
   
