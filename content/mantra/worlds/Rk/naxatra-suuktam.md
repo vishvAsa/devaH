@@ -10,7 +10,7 @@ unicode_script: devanagari
   
 ## कृत्तिकाः
   
-![कृत्ति॑काः](../../images/naxatra/kRttikA.png)  
+{{<figure src="../../images/naxatra/kRttikA.png" title="कृत्ति॑काः" class="thumbnail">}}  
 +++(Pleiades)+++
   
 अ॒ग्निर् नᳶ॑ पातु॒ कृत्ति॑काः। नक्ष॑त्रन् दे॒वम् +++(=द्योतमानम्)+++ इ॑न्द्रि॒यम्।  
@@ -26,7 +26,7 @@ unicode_script: devanagari
   
 ## रोहिणी  
   
-![रोहि॒णी](../../images/naxatra/kRttikA.png)  
+{{<figure src="../../images/naxatra/kRttikA.png" title="रोहि॒णी" class="thumbnail">}}  
 +++(Aldebaran। ब्रह्महृदयं = capella = beta taurii खलु रोहिणीशकटे (Taurus-मुखम्) वर्तते।)+++
 
 प्र॒जाप॑ते+++(ः)+++ रोहि॒णी वे॑तु॒ +++(=भुङ्क्ताम्)+++ पत्नी॑। वि॒श्वरू॑पा बृह॒ती चि॒त्रभा॑नुः।  
@@ -40,7 +40,7 @@ unicode_script: devanagari
   
 ## मृगशीर्षम्
   
-![मृगशीर्षम्](../../images/naxatra/mRgashIrSha.png)  
+{{<figure src="../../images/naxatra/mRgashIrSha.png" title="मृगशीर्षम्" class="thumbnail">}}  
 +++(λ, φ Orionis)+++
   
 सोमो॒ राजा॑ मृगशी॒र्॒षेण॒ आगन्न्॑ +++(=आयातु)+++। शि॒वन् नक्ष॑त्रम् प्रि॒यम॑स्य॒ धाम॑।  
@@ -55,7 +55,7 @@ unicode_script: devanagari
   
 ## आर्द्रा
   
-![आ॒र्द्रा](../../images/naxatra/kRttikA.png)  
+{{<figure src="../../images/naxatra/kRttikA.png" title="आ॒र्द्रा" class="thumbnail">}}  
 +++(Betelgeuse इति केचित्। sirius [इति](https://manasataramgini.wordpress.com/2017/07/01/a-note-on-the-asterisms-forming-the-nak%E1%B9%A3atra-s/) मानसतरङ्गिणीकारः। "रुद्रस्य बाहू मृगयवः" इति ब्राह्मणम्।)+++
   
 आ॒र्द्रया॑ रु॒द्रᳶ प्रथ॑मान +++(=प्रसिद्ध)+++ एति। श्रेष्ठो॑ दे॒वाना॒म् पति॑र् अघ्नि॒याना॑म् +++(=गवाम्)+++।  
@@ -69,7 +69,7 @@ unicode_script: devanagari
 
 ## पुनर्वसू  
   
-![पुन॒र्वसू](../../images/naxatra/punarvasU.png)  
+{{<figure src="../../images/naxatra/punarvasU.png" title="पुन॒र्वसू" class="thumbnail">}}  
 +++(Castor and Pollux - अदितेर् द्वे शिरसी। "अदितिर् अस्य् उभ्यतः शीर्ष्णी सा नः सुप्राची सुप्रतीची सं भव ।")+++
   
 पुन॑र्नो दे॒व्यदि॑तिस् स्पृणोतु +++(=प्रीणयतु)+++। पुन॒र्वसू नᳶ॒ पुन॒रेता॑य्ँ य॒ज्ञम्।  
@@ -83,7 +83,7 @@ unicode_script: devanagari
   
 ## तिष्यम् / पुष्यम्
   
-![तिष्यम्](../../images/naxatra/tiShya.png)  
+{{<figure src="../../images/naxatra/tiShya.png" title="तिष्यम्" class="thumbnail">}}  
 +++(γ, δ and θ Cancri इति केचित्। Praesepe open cluster (M44) इति केचित्।)+++
   
 बृह॒स्पति॑ᳶ प्रथ॒मञ्जाय॑मानः। ति॒ष्य॑न्नक्ष॑त्रम् अ॒भि सम्ब॑भूव।  
@@ -97,7 +97,7 @@ unicode_script: devanagari
   
 ## आश्रेषाः  
   
-![आश्रेषाः](../../images/naxatra/AshreShA.png)  
+{{<figure src="../../images/naxatra/AshreShA.png" title="आश्रेषाः" class="thumbnail">}}  
   
 +++(δ, ε, η, ρ, σ, theta Hydrae)+++  
   
@@ -115,7 +115,7 @@ unicode_script: devanagari
   
 ## मघा  
   
-![मघा](../../images/naxatra/maghA.png)  
+{{<figure src="../../images/naxatra/maghA.png" title="मघा" class="thumbnail">}}  
 
 +++(=Regulus इति केचित्। " 6 stars - entire sickle of Leo" इत्यन्ये।)+++
   
@@ -131,7 +131,7 @@ unicode_script: devanagari
 --- 
 ## फल्गुन्यः 
   
-![फल्गु॑न्यः](../../images/naxatra/maghA.png)  
+{{<figure src="../../images/naxatra/maghA.png" title="फल्गु॑न्यः" class="thumbnail">}}  
 +++(=δ+ Leonis)+++ 
   
 गवा॒म् पतिः॒ फल्गु॑नीनामसि॒ त्वम्। तद॑र्यमन् वरुणमित्र॒ चारु॑।  
@@ -145,7 +145,7 @@ unicode_script: devanagari
   
 ## फल्गुन्यः
   
-![फल्गुन्यः](../../images/naxatra/maghA.png)  
+{{<figure src="../../images/naxatra/maghA.png" title="फल्गुन्यः" class="thumbnail">}}  
 +++(Denebola - beta, 93 Leonis)+++
   
 श्रेष्ठो॑ दे॒वाना॑म् भगवो भगासि।  तत् त्वा॑ विदु॒ᳶ फल्गु॑नी॒स्, तस्य॑ वित्तात् +++(=विद्धि)+++।  
@@ -160,7 +160,7 @@ unicode_script: devanagari
   
 ## हस्तः
   
-![हस्तः](../../images/naxatra/hasta.png)  
+{{<figure src="../../images/naxatra/hasta.png" title="हस्तः" class="thumbnail">}}  
 +++(Corvus)+++
   
 आया॒तु दे॒वस् स॑वि॒तोप॑यातु। हि॒र॒ण्यये॑न सु॒वृता॒ रथे॒न।  
@@ -175,7 +175,7 @@ unicode_script: devanagari
   
 ## चित्रा
   
-![चित्रा](../../images/naxatra/chitrA.png)  
+{{<figure src="../../images/naxatra/chitrA.png" title="चित्रा" class="thumbnail">}}  
   
 त्वष्टा॒ नक्ष॑त्रम् अ॒भ्ये॑ति चि॒त्राम् +++(=Spica)+++। सु॒भꣳस॑सय्ँ +++(=सुजघनां)+++ युव॒तिꣳ रोच॑मानाम्।  
 नि॒वे॒शय॑न्न् अ॒मृता॒न् मर्त्याꣳ॑श् च। रू॒पाणि॑ पि॒ꣳ॒शन् +++(=निरूपयन्)+++ भुव॑नानि॒ विश्वा॑।  
@@ -188,7 +188,7 @@ unicode_script: devanagari
   
 ## निष्ट्या, स्वातिः
   
-![निष्ट्या॑](../../images/naxatra/niShTyA.png)  
+{{<figure src="../../images/naxatra/niShTyA.png" title="निष्ट्या॑" class="thumbnail">}}  
   
 वा॒युर् नक्ष॑त्रम् अ॒भ्ये॑ति॒ निष्ट्या॑म्+++(=Arctrus)+++। ति॒ग्मशृ॑ङ्गो वृष॒भो रोरु॑वाणः।  
 स॒मी॒रय॒न् भुव॑ना मात॒रिश्वा॑। अप॒ द्वेषाꣳ॑सि नुदता॒म् अरा॑तीः।  
@@ -202,7 +202,7 @@ unicode_script: devanagari
   
 ## विशाखे
   
-![विशा॑खे](../../images/naxatra/vishAkhA.png)  
+{{<figure src="../../images/naxatra/vishAkhA.png" title="विशा॑खे" class="thumbnail">}}  
 +++(α, β Librae। रामायणानुसारम् इक्ष्वाकूणां नक्षत्रम्।)+++
   
 दू॒रम् अ॒स्मच्छत्र॑वो यन्तु भी॒ताः। तद् इ॑न्द्रा॒ग्नी कृ॑णुता॒म् तद् विशा॑खे।  
@@ -226,7 +226,7 @@ unicode_script: devanagari
   
 ## अनूराधाः
   
-![अ॒नू॒रा॒धाः](../../images/naxatra/anUrAdhAH.png)  
+{{<figure src="../../images/naxatra/anUrAdhAH.png" title="अ॒नू॒रा॒धाः" class="thumbnail">}}  
 +++(β, δ, eta, rho Scorpionis)+++
   
 ऋ॒द्ध्यास्म॑ ह॒व्यैर् न॑मसो॒पसद्य॑,, 
@@ -241,7 +241,7 @@ unicode_script: devanagari
   
 ## ज्येष्ठा
   
-![ज्येष्ठा](../../images/naxatra/anUrAdhAH.png)  
+{{<figure src="../../images/naxatra/anUrAdhAH.png" title="ज्येष्ठा" class="thumbnail">}}  
 +++(α, σ, and τ Scorpionis इति केचित्। Antares इत्यन्ये - द्वितीया रोहिणीवेति ब्राह्मणम्।)+++
   
 इन्द्रो॑ ज्ये॒ष्ठाम् अनु॒ नक्ष॑त्रम् एति। यस्मि॑न् वृ॒त्रव्ँ वृ॑त्र॒तूर्ये॑ +++(=वृत्रवधे)+++ त॒तार॑।  
