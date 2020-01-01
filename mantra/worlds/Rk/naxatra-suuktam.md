@@ -128,7 +128,8 @@ unicode_script: devanagari
 पि॒तृभ्यः॒ स्वाहा॑ म॒घाभ्यः॑ स्वाह ा॑ऽन॒घाभ्यः॒ स्वाहा॑  
 अग॒दाभ्यः॑ स्वाहा॑ ऽरुन्ध॒तीभ्यः॒ स्वाहा॑।  
   
---- 
+----
+ 
 ## फल्गुन्यः 
   
 {{<figure src="../../images/naxatra/maghA.png" title="फल्गु॑न्यः" class="thumbnail">}}  
