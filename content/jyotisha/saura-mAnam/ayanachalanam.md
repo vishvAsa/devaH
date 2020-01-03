@@ -10,12 +10,8 @@ unicode_script: devanagari
 - तैत्तिरीय-ब्राह्मणारण्यकयोर् नक्षत्रमुखभेदेन तज्ज्ञानं व्यक्तम्। एवञ्च "प्रजापतेर् यत् सहजम् पुरस्तात्"।
     - "assertion of the American indologist Whitney maintained to this date among Abrahamistic white indologists and their imitators: "The Hindus borrowed their nakShatra system from Mesopotamia and would probably have retained it in that form \[i.e. with kR^ittikA at the vernal equinox of 2300 BCE\] until the present day but for the revolution wrought in their science by Greek teaching." Clearly even within the vaidika period (including vedA~Nga jyotiSha) the Hindus had made multiple changes for precession not just at the time of varAhamihira after interactions with yavana-s." \[[MT](https://manasataramgini.wordpress.com/2013/11/08/anatomy-and-heavens-in-the-boomorphic-universe/)\]
 - मैत्रायणीयोपनिषदि \[[SD](https://sanskritdocuments.org/doc_upanishhat/maitri.html?lang=sa), [MT_TW](https://twitter.com/blog_supplement/status/984634039909978112),[YT](https://youtu.be/5R2lXuUMdoo?t=2254)\]
-    - "अथ किमेतैर्वान्यानां शोषणं महार्णवानां शिखरिणां
-        प्रपतनं ध्रुवस्य प्रचलनं स्थानं वा तरूणां
-        निमज्जनं पृथिव्याः स्थानादपसरणं ..."
-    - "द्वादशात्मकं वत्सरमेतस्याग्नेयमर्धमर्धं वारुणं,  मघाद्यं
-        श्रविष्ठार्धमाग्नेयं क्रमेणोत्क्रमेण सार्पाद्यं श्रविष्ठार्धान्तं
-        सौम्यम्" "solisticial points here are indicated as maghAdyam|sarpAdyam and shraviShTArdham. this would approximately correspond to ~1300 BCE marking a change from the earlier reference to solisticial point lying inside magha in AV nakShatrasUkta"\[[SD](https://sanskritdocuments.org/doc_upanishhat/maitri.html?lang=sa), [MT_TW](https://twitter.com/blog_supplement/status/984634039909978112), [IMG](https://i.imgur.com/rNhFPph.jpg)\]
+    - "अथ किमेतैर्वान्यानां शोषणं महार्णवानां शिखरिणां प्रपतनं ध्रुवस्य प्रचलनं स्थानं वा तरूणां निमज्जनं पृथिव्याः स्थानादपसरणं ..."
+    - "द्वादशात्मकं वत्सरमेतस्याग्नेयमर्धमर्धं वारुणं,  मघाद्यं श्रविष्ठार्धमाग्नेयं क्रमेणोत्क्रमेण सार्पाद्यं श्रविष्ठार्धान्तं सौम्यम्" "solisticial points here are indicated as maghAdyam|sarpAdyam and shraviShTArdham. this would approximately correspond to ~1300 BCE marking a change from the earlier reference to solisticial point lying inside magha in AV nakShatrasUkta"\[[SD](https://sanskritdocuments.org/doc_upanishhat/maitri.html?lang=sa), [MT_TW](https://twitter.com/blog_supplement/status/984634039909978112), [IMG](https://i.imgur.com/rNhFPph.jpg)\]
 - अयनांशविचारः अन्यत्र।
 
 ### विष्णु+अवतार-कथा-सम्बन्धः -
