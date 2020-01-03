@@ -7,6 +7,9 @@ unicode_script: devanagari
 ## नक्षत्रताराः
 [नक्षत्रसूक्तं](../../../mantra/worlds/Rk/naxatra-suuktam/) दृश्यताम्।
 
+## राशिताराः
+चान्द्र-नक्षत्रपृष्ठे [राशिसूचौ](../chAndra-naxatram/) दृश्यताम्।
+
 ## ध्रुवमण्डलम् शिंशुमारपुच्छस्थं सुविख्यातम् च।
 
 (3000BC thuban) \[[ऽत्र](../../mantra/misc-devas/yajus/dhruva/)\]
