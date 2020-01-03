@@ -53,6 +53,9 @@ unicode_script: devanagari
 इ॒न्व॒काभ्यः॒ स्वाहौष॑धीभ्यः॒ स्वाहा॑।  
 रा॒ज्याय॒ स्वाहा॒ऽभिजि॑त्यै॒ स्वाहा॑।  
   
+### टिप्पणिः
+- "प्रजापतेर् यत् सहजम् पुरस्तात्" इत्यनेन मृगशीर्षे ऽव्यङ्गस्योल्लेखो विशुवकाल इति केचित् - (~Apr 26 Julian 4500 BCE  [TW](https://twitter.com/blog_supplement/status/664525633217830915))।
+
 ## आर्द्रा
   
 {{<figure src="../../images/naxatra/kRttikA.png" title="आ॒र्द्रा" class="thumbnail">}}  

@@ -4,6 +4,10 @@ unicode_script: devanagari
 
 ---
 
+## स्रोतः
+
+(taittirIya brAhmaNa [1.5.2.2](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_037_Taittiriya_Brahmanam_with_Sayanabhashya_Part_1_-_Narayanasastri_Godbole_1934#page/n235/mode/2up))।
+
 ## अधिपतयः
 
 सपरिवारमित्थं वसन्तीत्यभिप्रायः।

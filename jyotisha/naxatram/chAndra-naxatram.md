@@ -15,6 +15,25 @@ unicode_script: devanagari
     - [IMG. ](https://imgur.com/a/hShjz)
     - [YV](https://archive.org/stream/HistoryOfCalendarPanchangaCommittee/History-of-Calendar-Panchanga-Committee#page/n77/mode/2up).
 
+## नक्षत्राणि
+तारामण्डलानि नक्षत्रेभ्यो भिन्नानि। तानि [पृथक् पृष्ठे](../tArAmaNDala/)।
+
+## राशयः
+"मेषवृषमिथुनकर्क्कटसिंहाः कन्या तुलाथ वृश्चिकभम् । धनुरथ मकरः कुम्भो मीन इति च राशयः कथिताः ॥"
+
+- *मेषः* - अश्विन्या सह भरणी कृत्तिकापादश्च कीर्त्तितो मेषः ।
+- *वृषभः* कृत्तिकाशेषं रोहिण्यर्द्धश्च मृगशिरसः ।
+- मृगशिरसोऽर्द्धं चार्द्रा पुनर्व्वसोस्त्रिपादो *मिथुनम्* ।
+- पादः पुनर्व्वसोरन्त्यः पुष्योऽश्लेषा च *कर्कटः* ॥
+- *सिंहो*ऽथ मघा पूर्व्वफल्गुणी पाद उत्तरायाः ।
+- तच्छेषं हस्ता चित्रार्द्धञ्च *कन्य*काख्यः ॥
+- *तोलिनि* चित्रार्द्धं स्वाती विशाखायाः पादत्रयम् ।
+- *वृश्चिकः* - अलिनि विशाखा पादस्तथानुराधान्विता ज्येष्ठा ॥
+- मूल-पूर्व्वाषाढा-प्रथमश्चाप्युत्तरांशको *धन्वी* ।
+- *मकरस्* तत्परिशेषं श्रवणा चांर्द्धं धनिष्ठायाः ॥
+- धनिष्ठार्द्धं शतभिषा पुर्व्वभाद्रपदपादत्रयं *कुम्भः* ।
+- पूर्वभाद्रपदाशेषस्तथोत्तरा रेवती *मीनः* ॥
+
 ## अयनांशचयनम्
 The ayanAMsha to be used in a particular ritual context should be determined from the vidhi-vAkya-s enjoining that particular ritual action. 
 
@@ -54,19 +73,5 @@ For example, vAyupurANa says: मेषान्ते च तुलान्त
 - उत्तरनारायणः पुरुषो वा यस्य "नक्षत्राणि रूपम्, अश्विनौ व्यात्तम्" ([MT](https://manasataramgini.wordpress.com/2013/11/08/anatomy-and-heavens-in-the-boomorphic-universe/), आरण्यके [ऽत्र](https://archive.org/stream/taittiriya/taittiriya_aranyaka_bhaskara_01#page/n309/mode/2up))
     - " This tradition of stellar puruSha continued down to the purANa-s (e.g agnipurANa chapter 196) and is also specified in detail in the 105th chapter of the bR^ihat-saMhitA of the great naturalist varAhamihira. In this later version the nakShatra puruSha is also invoked as viShNu (shAmbhavAyanIya ritual) during every month of the year. ...In the parallel later bAdarAyaNIya ritual, the stellar prajApati is comprised of rAshI-s instead of nakShatra-s. "
     - [sauchIka agni mantra](https://manasataramgini.wordpress.com/2006/11/21/the-path-of-fire/)
-
-## राशयः
-"मेषवृषमिथुनकर्क्कटसिंहाः कन्या तुलाथ वृश्चिकभम् । धनुरथ मकरः कुम्भो मीन इति च राशयः कथिताः ॥"
-
-- *मेषः* - अश्विन्या सह भरणी कृत्तिकापादश्च कीर्त्तितो मेषः ।
-- *वृषभः* कृत्तिकाशेषं रोहिण्यर्द्धश्च मृगशिरसः ।
-- मृगशिरसोऽर्द्धं चार्द्रा पुनर्व्वसोस्त्रिपादो *मिथुनम्* ।
-- पादः पुनर्व्वसोरन्त्यः पुष्योऽश्लेषा च *कर्कटः* ॥
-- *सिंहो*ऽथ मघा पूर्व्वफल्गुणी पाद उत्तरायाः ।
-- तच्छेषं हस्ता चित्रार्द्धञ्च *कन्यकाख्यः* ॥
-- *तोलिनि* चित्रार्द्धं स्वाती विशाखायाः पादत्रयम् ।
-- *वृश्चिकः* - अलिनि विशाखा पादस्तथानुराधान्विता ज्येष्ठा ॥
-- मूल-पूर्व्वाषाढा-प्रथमश्चाप्युत्तरांशको *धन्वी* ।
-- *मकरस्* तत्परिशेषं श्रवणा चांर्द्धं धनिष्ठायाः ॥
-- धनिष्ठार्द्धं शतभिषा पुर्व्वभाद्रपदपादत्रयं *कुम्भः* ।
-- पूर्ब्बभाद्रपदाशेषस्तथोत्तरा रेवती *मीनः** ॥
+- नक्षत्रपुरुषः तैत्तिरीयब्राह्मणे [ऽत्र](../../../kalpa/brAhmaNa/taittirIya/tattva/naxatra-deva/)।
+  - चित्रा शिरः, अनूराधा पादौ, …  ।

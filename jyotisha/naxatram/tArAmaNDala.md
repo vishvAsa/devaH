@@ -4,6 +4,9 @@ unicode_script: devanagari
 
 ---
 
+## नक्षत्रताराः
+[नक्षत्रसूक्तं](../../../mantra/worlds/Rk/naxatra-suuktam/) दृश्यताम्।
+
 ## ध्रुवमण्डलम् शिंशुमारपुच्छस्थं सुविख्यातम् च।
 
 (3000BC thuban) \[[ऽत्र](../../mantra/misc-devas/yajus/dhruva/)\]
@@ -21,9 +24,7 @@ unicode_script: devanagari
         Taurus roughly east at Autumnal equinox around 26-10-3500BCE. [IMG](https://imgur.com/a/ZEcy9)
 
 - रुद्रः, आर्द्रा मृगशीर्षे, प्रजापतिः च।
-    - मृगशीर्ष\-सम्बन्धे \- "प्रजापतेर् यत् सहजम् पुरस्तात्" इत्यस्मिन् मृगशीर्षे ऽव्यङ्गस्योल्लेखः (~Apr 26 Julian 4500 BCE  [TW](https://twitter.com/blog_supplement/status/664525633217830915))
-    - रोहिणी।
-    - चित्रा शिरः, अनूराधा पादौ, …  (taittirIya brAhmaNa [1.5.2.2](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_037_Taittiriya_Brahmanam_with_Sayanabhashya_Part_1_-_Narayanasastri_Godbole_1934#page/n235/mode/2up))
-- सप्तर्षिमण्डलम्
-    - ऋश॑यस्स॒प्तात्रि॑श्च॒ यत्। सर्वेऽत्रयो अ॑गस्त्य॒श्च। नक्ष॑त्रै॒श्शङ्कृ॑तोऽवसन्। (तैत्तिरीयारण्यके १.११.२)
-        - अगस्त्यः (canopus) first visible in N India around 3000-3500BC; could be seen by people living south of 34 deg N \[[YT](https://youtu.be/5R2lXuUMdoo?t=1470)\].
+
+## सप्तर्षिमण्डलम्
+- ऋश॑यस्स॒प्तात्रि॑श्च॒ यत्। सर्वेऽत्रयो अ॑गस्त्य॒श्च। नक्ष॑त्रै॒श् शङ्कृ॑तो ऽवसन्। (तैत्तिरीयारण्यके १.११.२)
+    - अगस्त्यः (canopus) first visible in N India around 3000-3500BC; could be seen by people living south of 34 deg N \[[YT](https://youtu.be/5R2lXuUMdoo?t=1470)\].
