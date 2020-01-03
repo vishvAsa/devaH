@@ -5,8 +5,6 @@ title: Presentations
 
 Here we list some relevant presentations discovered online.
 
-  
-
 Title: ​"Saṁskāras : Hindu self cultivation - it's is not out of fashion."
 
 
