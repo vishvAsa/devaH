@@ -8,6 +8,13 @@ unicode_script: devanagari
 - sAha-lahiri-calendar committee report - [Archive](https://archive.org/details/HistoryOfCalendarPanchangaCommittee).
 - NUS 2001 thesis [here](http://www.math.nus.edu.sg/aslaksen/projects/lcl.pdf).
 
+## सूर्यसिद्धान्तादेर् दोषाः
+- Understanding precession in terms of trepidation (Details [here](../saura-mAnam/ayanachalanam/).
+- Problems with precisely predicting eclipses. 
+- vAkya-panchAnga-s oft give erroneous results regarding graha-s
+  - eg: around Jan 6, 2018 conjunction of Mars and Jupiter could be observed while they placed Mars still in 1st qtr about 1½° (three moon sizes) away.
+  - Vakya Panchanga said Budha supposedly in Ashvini 3rd qtr transited Surya in Bharani 4th qtr - but NASA showed Mercury passing Surya. [TW](https://twitter.com/ShriramanaS/status/852378750909988864)
+
 ## Error correction
 - अयनचलनप्रतिक्रिया अन्यत्र\+ उक्ता।
 - shankAr dIxit and the shrautin of Colaba [MT_TW](https://twitter.com/blog_supplement/status/907061604981903360)
