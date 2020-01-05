@@ -16,7 +16,7 @@ unicode_script: devanagari
   - Vakya Panchanga said Budha supposedly in Ashvini 3rd qtr transited Surya in Bharani 4th qtr - but NASA showed Mercury passing Surya. [TW](https://twitter.com/ShriramanaS/status/852378750909988864)
 
 ## Error correction
-- अयनचलनप्रतिक्रिया अन्यत्र\+ उक्ता।
+- अयनचलनप्रतिक्रिया दृक्तुल्यताप्राधान्यम् च अन्यत्र\+ उक्तम्।
 - shankAr dIxit and the shrautin of Colaba [MT_TW](https://twitter.com/blog_supplement/status/907061604981903360)
 - raghunAthAchAri, \[[MT](https://manasataramgini.wordpress.com/2015/06/02/remembering-raghunathachari/)\].
     - gave several public lectures in Chennai to attempt to increase the awareness of Hindus on modern astronomy and the importance of first hand and meticulous observations
