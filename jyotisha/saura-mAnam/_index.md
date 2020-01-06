@@ -14,7 +14,8 @@ unicode_script: devanagari
 ## Use of tropical year
 
 - None of the calendar systems currently in use around the world perfectly reflect the length of a tropical year.
-  - Because a common year has 365 days in today's Gregorian calendar, a leap day is regularly added to bring it in sync with the tropical year.
+  - Julius Caesar's Julian calendar was 365 days long, but added a leap day every 4 years. Year started in January, month honoring the two faced God Janus looking back and forth in time.
+  - Gregorian calendar was same as Julian calendar - but removing 1 leap day addition every 100 years. Because a common year has 365 days in today's Gregorian calendar, a leap day is added to bring it in sync with the tropical year.
   - Accounting for periodic adjustments, its error is 27 sec/year (1 day in 3236 years). 
   - Persian Al Hijri calendar is the most accurate. Accounting for periodic adjustments, its error is less than 1 sec/year (1 day in 110,000 years).
 - राशिनिर्णये होरे च सौरराशिम् अवेक्षन्ते पाश्चात्याः। "Western astrology uses the so-called tropical zodiac in which 0 Aries is defined by the vernal point (the celestial point where the sun stands at the beginning of spring). The tropical zodiac is a division of the ecliptic into 12 equal-sized zodiac signs of 30° each. Astrologers call these signs after constellations that are found along the ecliptic, although they are actually independent of these constellations. Due to the precession of the equinox, the vernal point and tropical Aries move through all constellations along the ecliptic, staying for roughly 2160 years in each one of them. Currently, the beginning of tropical Aries is located in the constellation of Pisces." \[[SW](http://www.astro.com/swisseph/swisseph.htm#_Toc465773505)\]
