@@ -45,6 +45,7 @@ For example, vAyupurANa says: मेषान्ते च तुलान्त
   - Spica roughly at 0 Libra
       - Approximated by Lahiri ayanamsha (as it's fixed at 21 March 1956)
   - Spica/Citra at polar longitude 180°
+    - swe.TRUE_CITRA was what was intended by the calendar reform committee - sticking to swe.SIDM_LAHIRI does not make theoretical sense, and practically, the difference between the two is not much (as of 2000-s).
 - True mUlA
 - True pushya
 - प्राचीन एव सूर्यसिद्धान्ते तु वर्तते। वेदाङ्गज्योतिषे?
