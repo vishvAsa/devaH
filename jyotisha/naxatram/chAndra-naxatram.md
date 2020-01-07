@@ -66,12 +66,12 @@ For example, vAyupurANa says: मेषान्ते च तुलान्त
 
 ### Tropical-ization
 #### Vernal equinox at rohiNI - 3000 BCE
-- Corresponds to phAlguna full moon being first month of the year/ uttarAyANArambha. Mentioned in jaiminIya brAhmaNa, kauShItakI brAhmaNa. See [saura-chAndra-mAna]() page for details.
+- Corresponds to phAlguna full moon being first month of the year/ uttarAyANArambha. Mentioned in jaiminIya brAhmaNa, kauShItakI brAhmaNa. See [saura-chAndra-mAna](../saura-chAndra-mAnam/) page for details.
 
 #### Vernal equinox at kRttikA - 2300 BCE
 - Vernal equinox was at actual kRttikA in 2300 BCE - yajurveda period (described elsewhere).
-- shaunaka atharvaveda 19.7 nakShatra sUktam
-    - भानुराश्लेषा अयनं मघा मे : sun \[in\] AshleSha(=sarpa), \*solistice\* \[in\] maghA for me.
+- Corresponds to daxiNAyanArambha in maghA and uttarAyaNArambha in mAgha. See [saura-chAndra-mAna](../saura-chAndra-mAnam/) page for details.
+    - shaunaka atharvaveda 19.7 nakShatra sUktam भानुराश्लेषा अयनं मघा मे : sun \[in\] AshleSha(=sarpa), \*solistice\* \[in\] maghA for me.
         सुहवमग्ने कृत्तिका रोहिणी चास्तु | agnI well-invoked in kR^ittikA: setting of fires in kR^ittkA
 - This would be well before the gRhyasUtra period as well (though Apastamba would presumably want to follow taittirIyabrAhmaNa definition of devanAxatrANi - कृत्ति॑काᳶ प्रथ॒मम् । विशा॑खे उत्त॒मम् । and hence use the "equinox at kRttikA" correction).
 - वायुपुराणात् - 
