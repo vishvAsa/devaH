@@ -7,6 +7,7 @@ unicode_script: devanagari
 ## परिचयः
 - टीकाः - तैत्तिरीयब्राह्मणभाष्ये सायणीय [अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_037_Taittiriya_Brahmanam_with_Sayanabhashya_Part_2_-_Narayanasastri_Godbole_1898#page/n249/mode/2up)।
 - सर्वस्मिन् भागय् आदिमा ऋक् पुरोनुवाक्या होत्रा - ऽध्वर्युणा चोदितेन - वाच्या। अपरा याज्या ऽध्वर्युणा।
+- आथर्वणनक्षत्रकल्पे - "षट् कृत्तिका, एका रोहिणी, तिस्रो मृगशिर, एकार्द्रा, द्वे पुनर्वसू, एकः पुष्यः, षड् आश्लेषाः, षण् मघाः, चतस्रः फल्गुन्यः, पञ्च हस्त, एका चित्रा, एका स्वातिर्, द्वे विशाखे, चतस्रो ऽनुराधा, एका ज्येष्ठा, सप्त मूलम्, अष्टाव् अषाढा, एको ऽभिजित्, तिस्रः श्रवणः, पञ्च श्रविष्ठा, एका शतभिषा, चतस्रः प्रोष्ठपदौ, एका रेवती, द्वे अश्वयुजौ, तिस्रो भरण्य - इति सङ्ख्या परिमितं ब्रह्म॥" - ([MT](https://manasataramgini.wordpress.com/2017/07/01/a-note-on-the-asterisms-forming-the-nak%e1%b9%a3atra-s/))
   
 ## कृत्तिकाः
   
@@ -21,13 +22,17 @@ unicode_script: devanagari
   
 अ॒ग्नये॒ स्वाहा॒ कृत्ति॑काभ्यः॒ स्वाहा॑।  
 अ॒म्बायै॒ स्वाहा॑ दु॒लायै॒ स्वाहा॑।  
-नि॒त॒न्त्यै स्वाहा॒ऽभ्रय॑न्तै॒ स्वाहा॑।  
-मे॒घय॑न्त्यै॒ स्वाहा॑ व॒र्ष॒य॑न्त्यै॒ स्वाहा॑।चु॒पु॒णिका॑यै॒ स्वाहा॑।  
+नि॒त॒न्त्यै स्वाहा॒ ऽभ्रय॑न्तै॒ स्वाहा॑।  
+मे॒घय॑न्त्यै॒ स्वाहा॑ व॒र्ष॒य॑न्त्यै॒ स्वाहा॑।  
+चु॒पु॒णिका॑यै॒ स्वाहा॑।  
+
+### टिप्पणिः
+- "in Greek tradition there was an older record of 7 with Aratus claiming that one of them had faded away. This is generally believed to be Ambā (Greek Pleione/ 28 Tauri)."  - ([MT](https://manasataramgini.wordpress.com/2017/07/01/a-note-on-the-asterisms-forming-the-nak%e1%b9%a3atra-s/))
   
 ## रोहिणी  
   
 {{<figure src="../../images/naxatra/kRttikA.png" title="रोहि॒णी" class="thumbnail">}}  
-+++(Aldebaran। ब्रह्महृदयं = capella = beta taurii खलु रोहिणीशकटे (Taurus-मुखम्) वर्तते।)+++
++++(Aldebaran। रोहिद्वर्णा नाम्नैव। ब्रह्महृदयं = capella = beta taurii खलु रोहिणीशकटे (Taurus-मुखम्) वर्तते।)+++
 
 प्र॒जाप॑ते+++(ः)+++ रोहि॒णी वे॑तु॒ +++(=भुङ्क्ताम्)+++ पत्नी॑। वि॒श्वरू॑पा बृह॒ती चि॒त्रभा॑नुः।  
 सा नो॑ य॒ज्ञस्य॑ सुवि॒ते द॑धातु। यथा॒ जीवे॑म श॒रद॒स् सवीराः॑।  
@@ -41,7 +46,7 @@ unicode_script: devanagari
 ## मृगशीर्षम्
   
 {{<figure src="../../images/naxatra/mRgashIrSha.png" title="मृगशीर्षम्" class="thumbnail">}}  
-+++(λ, φ Orionis)+++
++++(Orion belt)+++
   
 सोमो॒ राजा॑ मृगशी॒र्॒षेण॒ आगन्न्॑ +++(=आयातु)+++। शि॒वन् नक्ष॑त्रम् प्रि॒यम॑स्य॒ धाम॑।  
 आ॒प्याय॑मानो बहु॒धा जने॑षु। रेतᳶ॑ प्र॒जाय्ँ यज॑माने दधातु।  
@@ -51,15 +56,19 @@ unicode_script: devanagari
   
 सोमा॑य॒ स्वाहा॑ मृगशी॒र्षाय॒ स्वाहा॑।  
 इ॒न्व॒काभ्यः॒ स्वाहौष॑धीभ्यः॒ स्वाहा॑।  
-रा॒ज्याय॒ स्वाहा॒ऽभिजि॑त्यै॒ स्वाहा॑।  
+रा॒ज्याय॒ स्वाहा॒ ऽभिजि॑त्यै॒ स्वाहा॑।  
   
 ### टिप्पणिः
 - "प्रजापतेर् यत् सहजम् पुरस्तात्" इत्यनेन मृगशीर्षे ऽव्यङ्गस्योल्लेखो विशुवकाल इति केचित् - (~Apr 26 Julian 4500 BCE  [TW](https://twitter.com/blog_supplement/status/664525633217830915))।
+- "Some take this to be the 3 stars on the head of Orion (\phi 1, \phi 2, \lambda Orionis), which is how they are denoted in classical astronomy. "
+- "In Vaidika reckoning the core of Mṛga was Orion with the arrow of Rudra shot through it (See below). The arrow is identified with the three stars of the belt of Orion (\zeta , \epsilon , \delta Orionis). " ता इण्वकाः। "Taittirīya Brāhmaṇa 1.5.1.1 states: somasyenvakā vitatāni ।" - ([MT](https://manasataramgini.wordpress.com/2017/07/01/a-note-on-the-asterisms-forming-the-nak%e1%b9%a3atra-s/))
+- मृगशीर्षकथा ऽध आर्द्राभागे दृश्या।
+
 
 ## आर्द्रा
   
 {{<figure src="../../images/naxatra/kRttikA.png" title="आ॒र्द्रा" class="thumbnail">}}  
-+++(Betelgeuse इति केचित्। sirius [इति](https://manasataramgini.wordpress.com/2017/07/01/a-note-on-the-asterisms-forming-the-nak%E1%B9%A3atra-s/) मानसतरङ्गिणीकारः। "रुद्रस्य बाहू मृगयवः" इति ब्राह्मणम्।)+++
++++(alpha Orinionis = Betelgeuse इति केचित्। sirius [इति](https://manasataramgini.wordpress.com/2017/07/01/a-note-on-the-asterisms-forming-the-nak%E1%B9%A3atra-s/) मानसतरङ्गिणीकारः।)+++
   
 आ॒र्द्रया॑ रु॒द्रᳶ प्रथ॑मान +++(=प्रसिद्ध)+++ एति। श्रेष्ठो॑ दे॒वाना॒म् पति॑र् अघ्नि॒याना॑म् +++(=गवाम्)+++।  
 नक्ष॑त्रमस्य ह॒विषा॑ विधेम +++(=परिचरेम)+++। मा नᳶ॑ प्र॒जाꣳ री॑रिष॒न् मोत वी॒रान्।  
@@ -70,12 +79,15 @@ unicode_script: devanagari
 रु॒द्राय॒ स्वाहा॒ऽऽर्द्रायै॒ स्वहा॑। पिन्व॑मानायै॒ स्वाहा॒ प॒शुभ्यः॒ स्वाहा॑।  
   
 ### टिप्पणिः
-प्रजापतिबाणो हि orion belt इति। स बाणो रोहिणीम् अनुसरते प्रजापतये।
+- "ārdrayā rudraḥ prathamānam eti । This means that he original Ārdrā was likely seen as a bright star. Now, while both \alpha Ori and \alpha Canis Majoris are bright stars, \alpha Ori is too close to Mṛgaśiras making \alpha Can Ma more likely, and is also closer to the position of the later yogatāra (\gamma Geminorum) when projected on to the ecliptic."
+- "In the brāhmaṇa on the nakṣatra ritual in TB 1.5.1.1 the name Ārdrā is replaced by Mṛgayu which is always understood as Sirius: rudrasya bāhū mṛgayavaḥ".
+- Further, this is supported by the evidence of the Aitareya Brāhmaṇa on the famed āgnimāruta-śastra recitation:  प्रजापतिबाणो हि orion belt इति। स बाणो रोहिणीम् अनुसरते प्रजापतये। पूर्णकथा [ऽत्र](../../../../kalpa/brAhmaNa/aitareya/tattva/pashupati-prajApati-rohiNI.md)।
+- "Further, the name Ārdrā means moist indicating a link with the wet season. The Iranian equivalent of Sirius, Tishtrya is also associated with rain suggesting that Ārdrā inherits this ancestral association."
 
 ## पुनर्वसू  
 
 {{<figure src="../../images/naxatra/punarvasU.png" title="पुन॒र्वसू" class="thumbnail">}}  
-+++(Castor and Pollux - अदितेर् द्वे शिरसी। "अदितिर् अस्य् उभ्यतः शीर्ष्णी सा नः सुप्राची सुप्रतीची सं भव ।")+++
++++(\alpha , \beta Geminorum - Castor and Pollux)+++
 
 पुन॑र्नो दे॒व्यदि॑तिस् स्पृणोतु +++(=प्रीणयतु)+++। पुन॒र्वसू नᳶ॒ पुन॒रेता॑य्ँ य॒ज्ञम्।  
 पुन॑र्नो दे॒वा अ॒भिय॑न्तु॒ सर्वे॑। पुनᳶ॑ पुनर्वो ह॒विषा॑ यजामः।  
@@ -85,6 +97,12 @@ unicode_script: devanagari
 अदि॑त्यै॒ स्वाहा॒ पुन॑र्वसुभ्याम् स्वाहा।  
 भू॑त्यै॒ स्वाहा॒ प्रजा॑त्यै॒ स्वाहा॑।  
   
+### टिप्पणिः
+- अदितेर् द्वे शिरसी।
+    - तैत्तिरीयसंहितायाम् - 1.2.4 "अदितिर् अस्य् उभ्यतः शीर्ष्णी, सा नः सुप्राची सुप्रतीची सं भव ।"
+    - Śatapatha Brāhmaṇa (3.2.4.16) - "aditir asy ubhayataḥ śīrṣṇīti. sa yadenayā samānaṃ sadviparyāsaṃ vadati, yadaparaṃ tatpūrvaṃ karoti, yatpūrvaṃ tadaparaṃ - tenobhayataḥ śīrṣṇī, tasmād āhāditir asy ubhayataḥśīrṣṇīti ||"
+- रामायणे - "kumbhakarṇa-śiro bhāti kuṇḍalālaṅkṛtaṃ mahat । āditye’bhyudite rātrau madhyastha iva candramāḥ ॥"
+- "These allusions indicate that the two-headed nature of the constellation of Gemini was transposed on to the presiding deity Aditi and the inversion associated with the two heads along with the eastward and westward paths might indicate an old memory of the start of the ecliptic at Aditi in prehistoric times (>7000 years BP)."
   
 ## तिष्यम् / पुष्यम्
   
@@ -99,6 +117,10 @@ unicode_script: devanagari
   
 बृह॒स्पत॑ये॒ स्वाहा॑ ति॒ष्या॑य॒ स्वाहा॑।  
 ब्र॒ह्म॒व॒र्च॒साय॒ स्वाहा॑।  
+
+### टिप्पणिः
+- Ṛgveda - यु॒ष्माद॑त्तस्य मरुतो विचेतसो रा॒यः स्या॑म र॒थ्यो॒३॒॑ वय॑स्वतः । न यो युच्छ॑ति ति॒ष्यो॒३॒॑ यथा॑ दि॒वो॒३॒॑ऽस्मे रा॑रन्त मरुतः सह॒स्रिण॑म् ॥ 
+    - " The comparison of great riches, in thousands, is indicative of the great mass of stars in the open cluster supporting the identification of the old Tiṣya with M44."
   
 ## आश्रेषाः  
   
@@ -115,8 +137,8 @@ unicode_script: devanagari
 स॒र्पेभ्यः॒ स्वाहा॑ऽऽश्रे॒षाभ्यः॒ स्वाहा॑।  
 द॒न्द॒शूके॑भ्यः॒ स्वाहा॑॥  
   
-
-+++("The Vedāñga Jyotiṣa states that the summer solstice began in the middle of this constellation suggesting that it was composed around ~3350 YBP.")+++
+### टिप्पण्यः
+"The Vedāñga Jyotiṣa states that the summer solstice began in the middle of this constellation suggesting that it was composed around ~3350 YBP."
   
 ## मघा  
   
