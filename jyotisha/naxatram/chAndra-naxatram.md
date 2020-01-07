@@ -79,9 +79,14 @@ For example, vAyupurANa says: मेषान्ते च तुलान्त
 
 #### solistice at shraviShThArdha ~ 1300 BCE
 - Summer solistice at magha and winter solistice at shraviShTha (~ full moon at maghA)
-- मैत्रायणीयोपनिषदि - "द्वादशात्मकं वत्सरम्। एतस्याग्नेयमर्धम्, अर्धं वारुणं। मघाद्यं श्रविष्ठार्धमाग्नेयं क्रमेण, +उत्क्रमेण सार्पाद्यं श्रविष्ठार्धान्तं सौम्यम्" "solisticial points here are indicated as maghAdyam|sarpAdyam and shraviShTArdham. this would approximately correspond to ~1300 BCE marking a change from the earlier reference to solisticial point lying inside magha in AV nakShatrasUkta"\[[SD](https://sanskritdocuments.org/doc_upanishhat/maitri.html?lang=sa), [MT_TW](https://twitter.com/blog_supplement/status/984634039909978112), [IMG](https://i.imgur.com/rNhFPph.jpg)\]
+- मैत्रायणीयोपनिषदि - "द्वादशात्मकं वत्सरम्। एतस्याग्नेयमर्धम्, अर्धं वारुणं। मघाद्यं श्रविष्ठार्धमाग्नेयं क्रमेण, +उत्क्रमेण सार्पाद्यं श्रविष्ठार्धान्तं सौम्यम्" "solisticial points here are indicated as maghAdyam|sarpAdyam+++(=their boundary)+++ and shraviShTArdham. this would approximately correspond to ~1300 BCE marking a change from the earlier reference to solisticial point lying inside magha in AV nakShatrasUkta"\[[SD](https://sanskritdocuments.org/doc_upanishhat/maitri.html?lang=sa), [MT_TW](https://twitter.com/blog_supplement/status/984634039909978112), [IMG](https://i.imgur.com/rNhFPph.jpg)\]
 - Corresponds to equinox at bharaNI.
 
+{{< figure src="../images/naxatra_chakra_bce_2999.png" title="naxatra_chakra_bce_2999.png" >}}
+
+#### Summer solstice at AshreShA - 1000 BCE
+- वेदाङ्गज्योतिषे - "प्रपद्येते श्रविष्ठादौ सूर्याचन्द्रमसावुदक् । सार्पार्धे दक्षिणार्कस्तु माघश्रावणयोः सदा ।।"
+    - तदा नाक्षत्रिकाव् ऽपि मासौ माघश्रावणौ।
 {{< figure src="../images/naxatra_chakra_bce_2999.png" title="naxatra_chakra_bce_2999.png" >}}
 
 #### Vernal equinox at ashvinI - 200 BCE
