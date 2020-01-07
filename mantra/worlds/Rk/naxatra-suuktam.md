@@ -28,11 +28,12 @@ unicode_script: devanagari
 
 ### टिप्पणिः
 - "in Greek tradition there was an older record of 7 with Aratus claiming that one of them had faded away. This is generally believed to be Ambā (Greek Pleione/ 28 Tauri)."  - ([MT](https://manasataramgini.wordpress.com/2017/07/01/a-note-on-the-asterisms-forming-the-nak%e1%b9%a3atra-s/))
+- अत्र विषुवदिनम् इति तैत्तिरीयब्राह्मणाद् अनुमेयम् ~ २३०० BCE।
   
 ## रोहिणी  
   
 {{<figure src="../../images/naxatra/kRttikA.png" title="रोहि॒णी" class="thumbnail">}}  
-+++(Aldebaran। रोहिद्वर्णा नाम्नैव। ब्रह्महृदयं = capella = beta taurii खलु रोहिणीशकटे (Taurus-मुखम्) वर्तते।)+++
++++(Aldebaran। )+++
 
 प्र॒जाप॑ते+++(ः)+++ रोहि॒णी वे॑तु॒ +++(=भुङ्क्ताम्)+++ पत्नी॑। वि॒श्वरू॑पा बृह॒ती चि॒त्रभा॑नुः।  
 सा नो॑ य॒ज्ञस्य॑ सुवि॒ते द॑धातु। यथा॒ जीवे॑म श॒रद॒स् सवीराः॑।  
@@ -43,6 +44,11 @@ unicode_script: devanagari
 प्र॒जाप॑तये॒ स्वाहा॑ रोहि॒ण्यै स्वाहा॑।  
 रोच॑मानायै॒ स्वाहा॑ प्र॒जाभ्यः॒ स्वाहा॑।  
   
+### टिप्पणिः
+- रोहिद्वर्णा नाम्नैव। ब्रह्महृदयं = capella = beta taurii खलु रोहिणीशकटे (Taurus-मुखम्) वर्तते।
+- प्रजापत्यनुसरणकथा पश्चादुच्यते।
+- विषुवदिनम् अत्रावर्तत ३००० BCE इति वर्षे।
+
 ## मृगशीर्षम्
   
 {{<figure src="../../images/naxatra/mRgashIrSha.png" title="मृगशीर्षम्" class="thumbnail">}}  
@@ -138,9 +144,10 @@ unicode_script: devanagari
 द॒न्द॒शूके॑भ्यः॒ स्वाहा॑॥  
   
 ### टिप्पण्यः
-"The Vedāñga Jyotiṣa states that the summer solstice began in the middle of this constellation suggesting that it was composed around ~3350 YBP."
+- "It corresponds to the head of the Greek constellation of Hydra, suggesting that the link to a snake goes back to early Indo-European times. Āśleṣā is specifically associated with the head of the snake. Hence, the 6 stars should correspond to \theta , \zeta , \epsilon , \delta , \sigma , \eta Hydrae."
+- वेदाङ्गज्योतिषानुसारम् अस्य मध्य आसीद् अयनारम्भः ~ ११०० BCE इत्यस्मिन्।
   
-## मघा  
+## मघाःय़्  
   
 {{<figure src="../../images/naxatra/maghA.png" title="मघा" class="thumbnail">}}  
 
@@ -155,12 +162,13 @@ unicode_script: devanagari
 पि॒तृभ्यः॒ स्वाहा॑ म॒घाभ्यः॑ स्वाह ा॑ऽन॒घाभ्यः॒ स्वाहा॑  
 अग॒दाभ्यः॑ स्वाहा॑ ऽरुन्ध॒तीभ्यः॒ स्वाहा॑।  
   
-----
+### टिप्पण्यः
+- "Atharvaveda Nakṣatra sūkta states that the summer solstice happened in this asterism pointing to a period of ~4400 YBP"
  
-## फल्गुन्यः 
+## पूर्व-फल्गुन्यः 
   
 {{<figure src="../../images/naxatra/maghA.png" title="फल्गु॑न्यः" class="thumbnail">}}  
-+++(=δ+ Leonis)+++ 
++++(=δ, theta Leonis)+++ 
   
 गवा॒म् पतिः॒ फल्गु॑नीनामसि॒ त्वम्। तद॑र्यमन् वरुणमित्र॒ चारु॑।  
 तन् त्वा॑ व॒यꣳ स॑नि॒तारꣳ॑ +++(=दातारं)+++ सनी॒नाम् +++(=दातव्यानाम्)+++। जी॒वा जीव॑न्त॒मुप॒ सव्ँवि॑शेम।  
@@ -170,8 +178,13 @@ unicode_script: devanagari
   
 अ॒र्य॒म्णे स्वाहा॒ फल्गु॑नीभ्या॒ꣳ॒ स्वाहा॑।  
 प॒शुभ्यः॒ स्वाहा॑।  
+
+### टिप्पण्यः
+- अत्र वै यदा चन्द्रमा ऽवर्तत ३००० BCE इति वर्षे, तदाभूद् वत्सरारम्भः।
+    - विवरणानि [सौर-चान्द्र-मान-पृष्ठे](../../../../mantra/worlds/Rk/naxatra-suuktam/)। 
+
   
-## फल्गुन्यः
+## उत्तर-फल्गुन्यः
   
 {{<figure src="../../images/naxatra/maghA.png" title="फल्गुन्यः" class="thumbnail">}}  
 +++(Denebola - beta, 93 Leonis)+++
@@ -337,7 +350,8 @@ unicode_script: devanagari
 ब्रह्म॑णे॒ स्वाहा॑ऽभि॒जिते॒ स्वाहा॑।  
 ब्र॒ह्म॒लो॒काय॒ स्वाहा॒ऽभिजि॑त्यै॒ स्वाहा॑।  
 
-+++("The Aitareya brāhmaṇa indicates that it was used to mark the day just before the svarasāman days during the annual sattra. Tilak we believe rightly realized this was the reason why Abhijit was important in the early period to mark this ritual day which in turn is critical for marking the days leading up to the Viśuvān day.")+++
+### टिप्पणिः
+- "The Aitareya brāhmaṇa indicates that it was used to mark the day just before the svarasāman days during the annual sattra. Tilak we believe rightly realized this was the reason why Abhijit was important in the early period to mark this ritual day which in turn is critical for marking the days leading up to the Viśuvān day."
   
 ## श्रोणा / श्रवणम्
   

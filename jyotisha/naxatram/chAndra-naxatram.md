@@ -51,7 +51,7 @@ unicode_script: devanagari
 ## अयनांशचयनम्
 The ayanAMsha to be used in a particular ritual context should be determined from the vidhi-vAkya-s enjoining that particular ritual action. 
 
-For example, vAyupurANa says: मेषान्ते च तुलान्ते च भास्करोदयतः स्मृताः । मुहूर्त्ता दश पञ्चैव अहोरात्रिश्च तावती ।। ५०.१९५ ।। कृत्तिकानां यदा सूर्यः प्रथमांशगतो भवेत् । विशाखानां तथा ज्ञेयश्चतुर्थांशे निशाकरः।। ५०.१९६ ।। विशाखायां यदा सूर्यश् चरतेंऽशं तृतीयकम्। तदा चन्द्रं विजानीयात् कृत्तिकाशिरसि स्थितम् ।। ५०.१९७ ।। विषुवन्तं तदा विद्यादेवमाहुर्महर्षयः। सूर्येण विषुवं विद्यात् कालं सोमेन लक्षयेत् ।। ५०.१९८ ।। The second half of the first verse clearly tells us that during equinox, it is expected that both day and night are of equal length (15 muhUrta-s). The remainder goes on to tell us how the exact timing for the sadAchAra conduct described in succeeding verses are to be timed: A careful ritualist should first adjust ayanAmsha so that the sun at equinox appears in kRttikA as described, and then optionally (if one intends to emphasize lunar position more than day-night equality) await the time around the solar equinox day when moon is in vishAkhA (as per this ayanAMsha adjustment). This of course results in shifting the naxatras from the corresponding asterisms (eg. Pleiades). This choice of ayanAMsha incidentally corresponds to the ritual requirements of yajurveda portions (such as the puNyanaxatra section of taittirIya brAhmaNa). Instead of this, if starts off with some other ayanAMsha from some other context and goes then to deduce "equinox" based on it - that would be wrong-headed - like latching the horses behind the cart. 
+For example, vAyupurANa says: मेषान्ते च तुलान्ते च भास्करोदयतः स्मृताः । मुहूर्त्ता दश पञ्चैव अहोरात्रिश्च तावती ।। ५०.१९५ ।। कृत्तिकानां यदा सूर्यः प्रथमांशगतो भवेत् । विशाखानां तथा ज्ञेयश्चतुर्थांशे निशाकरः।। ५०.१९६ ।। विशाखायां यदा सूर्यश् चरतेंऽशं तृतीयकम्। तदा चन्द्रं विजानीयात् कृत्तिकाशिरसि स्थितम् ।। ५०.१९७ ।। विषुवन्तं तदा विद्यादेवमाहुर्महर्षयः। सूर्येण विषुवं विद्यात् कालं सोमेन लक्षयेत् ।। ५०.१९८ ।। The second half of the first verse clearly tells us that during equinox, it is expected that both day and night are of equal length (15 muhUrta-s). The remainder goes on to tell us how the exact timing for the sadAchAra conduct described in succeeding verses are to be timed: A careful ritualist should first adjust ayanAmsha so that the sun at equinox appears in kRttikA as described, and then optionally (if one intends to emphasize lunar position more than day-night equality) await the time around the solar equinox day when (~full) moon is in vishAkhA (as per this ayanAMsha adjustment). This of course results in shifting the naxatras from the corresponding asterisms (eg. Pleiades). This choice of ayanAMsha incidentally corresponds to the ritual requirements of yajurveda portions (such as the puNyanaxatra section of taittirIya brAhmaNa). Instead of this, if starts off with some other ayanAMsha from some other context and goes then to deduce "equinox" based on it - that would be wrong-headed - like latching the horses behind the cart. 
 
 ## अयनांशाः
 - अयनांश\-सूचिः \-  प्रारम्भस्थाने अयनांश-चिन्ता, Swiss Ephemeris सारः[अत्र](http://www.astro.com/swisseph/swisseph.htm#_Toc465773508), सूचिर्[अत्र](http://www.astro.com/swisseph/swephprg.htm#_Toc471829106)।
@@ -65,6 +65,9 @@ For example, vAyupurANa says: मेषान्ते च तुलान्त
 - प्राचीन एव सूर्यसिद्धान्ते तु वर्तते। वेदाङ्गज्योतिषे?
 
 ### Tropical-ization
+#### Vernal equinox at rohiNI - 3000 BCE
+- Corresponds to phAlguna full moon being first month of the year/ uttarAyANArambha. Mentioned in jaiminIya brAhmaNa, kauShItakI brAhmaNa. See [saura-chAndra-mAna]() page for details.
+
 #### Vernal equinox at kRttikA - 2300 BCE
 - Vernal equinox was at actual kRttikA in 2300 BCE - yajurveda period (described elsewhere).
 - shaunaka atharvaveda 19.7 nakShatra sUktam
@@ -87,7 +90,7 @@ For example, vAyupurANa says: मेषान्ते च तुलान्त
 #### Summer solstice at AshreShA - 1000 BCE
 - वेदाङ्गज्योतिषे - "प्रपद्येते श्रविष्ठादौ सूर्याचन्द्रमसावुदक् । सार्पार्धे दक्षिणार्कस्तु माघश्रावणयोः सदा ।।"
     - तदा नाक्षत्रिकाव् ऽपि मासौ माघश्रावणौ।
-{{< figure src="../images/naxatra_chakra_bce_2999.png" title="naxatra_chakra_bce_2999.png" >}}
+{{< figure src="../images/bce-1100-01-14-Ashlesha-center-solstice.png" title="bce-1100-01-14-Ashlesha-center-solstice.png" >}}
 
 #### Vernal equinox at ashvinI - 200 BCE
 - Vernal equinox was likely *before* actual ashvinI during taittirIya-AraNyaka period "नक्षत्राणि रूपम्, अश्विनौ व्यात्तम्" ([MT1](https://manasataramgini.wordpress.com/2013/11/08/anatomy-and-heavens-in-the-boomorphic-universe/), आरण्यके [ऽत्र](https://archive.org/stream/taittiriya/taittiriya_aranyaka_bhaskara_01#page/n309/mode/2up))
