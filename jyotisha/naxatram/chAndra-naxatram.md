@@ -34,6 +34,19 @@ unicode_script: devanagari
 - धनिष्ठार्द्धं शतभिषा पुर्व्वभाद्रपदपादत्रयं *कुम्भः* ।
 - पूर्वभाद्रपदाशेषस्तथोत्तरा रेवती *मीनः* ॥
 
+## विविधकालेषु खदृश्यानि
+[अत्र खचित्राणि](https://github.com/vvasuki/saMskAra/tree/master/content/jyotisha/naxatram/images) दृश्यन्ताम् -
+
+- bce-1400-01-13-bharaNI-equinox.png
+- bce-1400-01-13-dhaniShThA-solstice.png
+
+- bce-2300-01-13-dhaniShThA-12deg-solstice.png
+- bce-2300-01-13-kRttikA-equinox.png
+
+- bce-3000-01-13-dhaniShThA-22deg-solstice.png
+- bce-3000-01-13-rohiNI-equinox.png
+-  naxatra_chakra_bce_2999.png
+
 ## अयनांशचयनम्
 The ayanAMsha to be used in a particular ritual context should be determined from the vidhi-vAkya-s enjoining that particular ritual action. 
 
