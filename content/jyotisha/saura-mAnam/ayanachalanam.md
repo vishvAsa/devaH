@@ -3,6 +3,8 @@ title: अयनचलनम्
 unicode_script: devanagari
 ---
 
+- Precession is caused by the gravitational pull of the Sun and the Moon on the Earth.
+
 ## ध्रुवनिर्णये
 - ध्रुव-शिशुमार-वन्दने [ऽत्र](https://agnimaan.wordpress.com/2018/02/04/salute-the-dolphin-ursa-minor-every-night-after-sandhyavandanam/)।
 

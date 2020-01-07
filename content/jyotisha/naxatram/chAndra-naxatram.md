@@ -35,8 +35,9 @@ unicode_script: devanagari
 - पूर्वभाद्रपदाशेषस्तथोत्तरा रेवती *मीनः* ॥
 
 ## विविधकालेषु खदृश्यानि
-[अत्र खचित्राणि](https://github.com/vvasuki/saMskAra/tree/master/content/jyotisha/naxatram/images) दृश्यन्ताम् -
+[अत्र खचित्राणि](../images/) दृश्यन्ताम् -
 
+- "The Vedāñga Jyotiṣa states that the summer solstice began in the middle of this constellation (आश्लेषाः) suggesting that it was composed around ~3350 YBP."
 - bce-1400-01-13-bharaNI-equinox.png
 - bce-1400-01-13-dhaniShThA-solstice.png
 
@@ -68,22 +69,25 @@ For example, vAyupurANa says: मेषान्ते च तुलान्त
 - Vernal equinox was at actual kRttikA in 2300 BCE - yajurveda period (described elsewhere).
 - shaunaka atharvaveda 19.7 nakShatra sUktam
     - भानुराश्लेषा अयनं मघा मे : sun \[in\] AshleSha(=sarpa), \*solistice\* \[in\] maghA for me.
-        सुहवमग्ने कृत्तिका रोहिणी चास्तु | agnI well-invoked in kR^ittikA: setting of fires in kR^ittkA; tasya rAshi-chitram \[[MT_TW](https://twitter.com/blog_supplement/status/985200041475366912), \]
+        सुहवमग्ने कृत्तिका रोहिणी चास्तु | agnI well-invoked in kR^ittikA: setting of fires in kR^ittkA
+- This would be well before the gRhyasUtra period as well (though Apastamba would presumably want to follow taittirIyabrAhmaNa definition of devanAxatrANi - कृत्ति॑काᳶ प्रथ॒मम् । विशा॑खे उत्त॒मम् । and hence use the "equinox at kRttikA" correction).
 - वायुपुराणात् - 
   - मेषान्ते च तुलान्ते च भास्करोदयतः स्मृताः । मुहूर्त्ता दश पञ्चैव अहोरात्रिश्च तावती ।। ५०.१९५ ।। कृत्तिकानां यदा सूर्यः प्रथमांशगतो भवेत् । विशाखानां तथा ज्ञेयश्चतुर्थांशे निशाकरः।। ५०.१९६ ।। विशाखायां यदा सूर्यश् चरतेंऽशं तृतीयकम्। तदा चन्द्रं विजानीयात् कृत्तिकाशिरसि स्थितम् ।। ५०.१९७ ।। विषुवन्तं तदा विद्यादेवमाहुर्महर्षयः। सूर्येण विषुवं विद्यात् कालं सोमेन लक्षयेत् ।। ५०.१९८ ।। 
+
+{{< figure src="../images/bce-2218-04-14-maghA-solstice.png" title="bce-2218-04-14-maghA-solstice.png" >}}
+
+
+#### solistice at shraviShThArdha ~ 1300 BCE
+- Summer solistice at magha and winter solistice at shraviShTha (~ full moon at maghA)
+- मैत्रायणीयोपनिषदि - "द्वादशात्मकं वत्सरम्। एतस्याग्नेयमर्धम्, अर्धं वारुणं। मघाद्यं श्रविष्ठार्धमाग्नेयं क्रमेण, +उत्क्रमेण सार्पाद्यं श्रविष्ठार्धान्तं सौम्यम्" "solisticial points here are indicated as maghAdyam|sarpAdyam and shraviShTArdham. this would approximately correspond to ~1300 BCE marking a change from the earlier reference to solisticial point lying inside magha in AV nakShatrasUkta"\[[SD](https://sanskritdocuments.org/doc_upanishhat/maitri.html?lang=sa), [MT_TW](https://twitter.com/blog_supplement/status/984634039909978112), [IMG](https://i.imgur.com/rNhFPph.jpg)\]
+- Corresponds to equinox at bharaNI.
+
+{{< figure src="../images/naxatra_chakra_bce_2999.png" title="naxatra_chakra_bce_2999.png" >}}
 
 #### Vernal equinox at ashvinI - 200 BCE
 - Vernal equinox was likely *before* actual ashvinI during taittirIya-AraNyaka period "नक्षत्राणि रूपम्, अश्विनौ व्यात्तम्" ([MT1](https://manasataramgini.wordpress.com/2013/11/08/anatomy-and-heavens-in-the-boomorphic-universe/), आरण्यके [ऽत्र](https://archive.org/stream/taittiriya/taittiriya_aranyaka_bhaskara_01#page/n309/mode/2up))
     - "Here Nārāyaṇa is identified with the constellations even as Prajāpati was earlier identified with them in the ritual of the Nakṣatra-rūpin Prajāpati specified in the Yajurveda (Taittirīya Brāhmaṇa 1.5.2.2). This identification continues through later Vaiṣṇava tradition. ... The text is clearly a late one clinging to the edge of the Vaidika productions but when exactly was it composed. If one takes Aśvayujau to imply the start of the nakṣatra cycle having shifted to this asterism it would yield a date of around 2300 YBP. This date resonates with the white Indologists who ascribe late dates to all Vedic production. However, we do not think the mouth should be taken as the beginning of the nakṣatra cycle. Rather, that position is usually reserved for the top of the head. Hence, the mouth likely implies the nakṣatra after it which might imply the equinoctial coelure passing before Aśvayujau suggesting a date of around 3300-3000 YBP. (equinox at bharaNI)" [MT1](https://manasataramgini.wordpress.com/2017/07/01/a-note-on-the-asterisms-forming-the-nak%e1%b9%a3atra-s/)
-- vedAnga jyotiSha starts with ashvinI.
-- This might be the gRhyasUtra period as well (though Apastamba would presumably want to follow taittirIyabrAhmaNa definition of devanAxatrANi - कृत्ति॑काᳶ प्रथ॒मम् । विशा॑खे उत्त॒मम् । and hence use the "equinox at kRttikA" correction).
 - Roughly corresponds to Spica/Citra (नक्षत्रम्, न तु तारा) at polar longitude 180°, and pushya at around 102 deg. Thence, is close to Lahiri ayanAmsha as of 2000-s.
-
-#### solistice at magha+ardha
-- Summer solistice at magha+ardha and winter solistice at shraviShTha
-- "द्वादशात्मकं वत्सरमेतस्याग्नेयमर्धमर्धं वारुणं,  मघाद्यं
-    श्रविष्ठार्धमाग्नेयं क्रमेणोत्क्रमेण सार्पाद्यं श्रविष्ठार्धान्तं
-    सौम्यम्" "solisticial points here are indicated as maghAdyam|sarpAdyam and shraviShTArdham. this would approximately correspond to ~1300 BCE marking a change from the earlier reference to solisticial point lying inside magha in AV nakShatrasUkta"\[[SD](https://sanskritdocuments.org/doc_upanishhat/maitri.html?lang=sa), [MT_TW](https://twitter.com/blog_supplement/status/984634039909978112), [IMG](https://i.imgur.com/rNhFPph.jpg)\]
 
 ## नक्षत्रपुरुषः
 - उत्तरनारायणः पुरुषो वा यस्य "नक्षत्राणि रूपम्, अश्विनौ व्यात्तम्" ([MT](https://manasataramgini.wordpress.com/2013/11/08/anatomy-and-heavens-in-the-boomorphic-universe/), आरण्यके [ऽत्र](https://archive.org/stream/taittiriya/taittiriya_aranyaka_bhaskara_01#page/n309/mode/2up))
