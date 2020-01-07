@@ -51,7 +51,7 @@ For example, vAyupurANa says: मेषान्ते च तुलान्त
 - प्राचीन एव सूर्यसिद्धान्ते तु वर्तते। वेदाङ्गज्योतिषे?
 
 ### Tropical-ization
-#### Vernal equinox at kRttikA
+#### Vernal equinox at kRttikA - 2300 BCE
 - Vernal equinox was at actual kRttikA in 2300 BCE - yajurveda period (described elsewhere).
 - shaunaka atharvaveda 19.7 nakShatra sUktam
     - भानुराश्लेषा अयनं मघा मे : sun \[in\] AshleSha(=sarpa), \*solistice\* \[in\] maghA for me.
@@ -59,7 +59,7 @@ For example, vAyupurANa says: मेषान्ते च तुलान्त
 - वायुपुराणात् - 
   - मेषान्ते च तुलान्ते च भास्करोदयतः स्मृताः । मुहूर्त्ता दश पञ्चैव अहोरात्रिश्च तावती ।। ५०.१९५ ।। कृत्तिकानां यदा सूर्यः प्रथमांशगतो भवेत् । विशाखानां तथा ज्ञेयश्चतुर्थांशे निशाकरः।। ५०.१९६ ।। विशाखायां यदा सूर्यश् चरतेंऽशं तृतीयकम्। तदा चन्द्रं विजानीयात् कृत्तिकाशिरसि स्थितम् ।। ५०.१९७ ।। विषुवन्तं तदा विद्यादेवमाहुर्महर्षयः। सूर्येण विषुवं विद्यात् कालं सोमेन लक्षयेत् ।। ५०.१९८ ।। 
 
-#### Vernal equinox at ashvinI
+#### Vernal equinox at ashvinI - 200 BCE
 - Vernal equinox was likely *before* actual ashvinI during taittirIya-AraNyaka period "नक्षत्राणि रूपम्, अश्विनौ व्यात्तम्" ([MT1](https://manasataramgini.wordpress.com/2013/11/08/anatomy-and-heavens-in-the-boomorphic-universe/), आरण्यके [ऽत्र](https://archive.org/stream/taittiriya/taittiriya_aranyaka_bhaskara_01#page/n309/mode/2up))
     - "Here Nārāyaṇa is identified with the constellations even as Prajāpati was earlier identified with them in the ritual of the Nakṣatra-rūpin Prajāpati specified in the Yajurveda (Taittirīya Brāhmaṇa 1.5.2.2). This identification continues through later Vaiṣṇava tradition. ... The text is clearly a late one clinging to the edge of the Vaidika productions but when exactly was it composed. If one takes Aśvayujau to imply the start of the nakṣatra cycle having shifted to this asterism it would yield a date of around 2300 YBP. This date resonates with the white Indologists who ascribe late dates to all Vedic production. However, we do not think the mouth should be taken as the beginning of the nakṣatra cycle. Rather, that position is usually reserved for the top of the head. Hence, the mouth likely implies the nakṣatra after it which might imply the equinoctial coelure passing before Aśvayujau suggesting a date of around 3300-3000 YBP. (equinox at bharaNI)" [MT1](https://manasataramgini.wordpress.com/2017/07/01/a-note-on-the-asterisms-forming-the-nak%e1%b9%a3atra-s/)
 - vedAnga jyotiSha starts with ashvinI.
