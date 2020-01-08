@@ -47,7 +47,7 @@ unicode_script: devanagari
 
 शुची॑ ते च॒क्रे या॒त्या  
 +++(गुरुत्वाकर्षण-)+++व्या॒नो अक्ष॒+++(=उभयरथचक्रच्छिद्रगामिनी या काष्ठा)+++ आह॑तः ।  
-+++("old Arya theory of celestial wind driving planets")+++  
++++("old Arya theory of celestial wind driving planets" - [M](https://twitter.com/blog_supplement/status/1214051295671267329))+++  
 अनो॑+++(=रथस्य)+++ मन॒स्मयं॑ सू॒र्या  
 ऽऽरो॑हत् प्रय॒ती पति॑म् ॥१२
 
