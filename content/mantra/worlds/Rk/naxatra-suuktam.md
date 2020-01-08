@@ -8,10 +8,12 @@ unicode_script: devanagari
 - टीकाः - तैत्तिरीयब्राह्मणभाष्ये सायणीय [अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_037_Taittiriya_Brahmanam_with_Sayanabhashya_Part_2_-_Narayanasastri_Godbole_1898#page/n249/mode/2up)।
 - सर्वस्मिन् भागय् आदिमा ऋक् पुरोनुवाक्या होत्रा - ऽध्वर्युणा चोदितेन - वाच्या। अपरा याज्या ऽध्वर्युणा।
 - आथर्वणनक्षत्रकल्पे - "षट् कृत्तिका, एका रोहिणी, तिस्रो मृगशिर, एकार्द्रा, द्वे पुनर्वसू, एकः पुष्यः, षड् आश्लेषाः, षण् मघाः, चतस्रः फल्गुन्यः, पञ्च हस्त, एका चित्रा, एका स्वातिर्, द्वे विशाखे, चतस्रो ऽनुराधा, एका ज्येष्ठा, सप्त मूलम्, अष्टाव् अषाढा, एको ऽभिजित्, तिस्रः श्रवणः, पञ्च श्रविष्ठा, एका शतभिषा, चतस्रः प्रोष्ठपदौ, एका रेवती, द्वे अश्वयुजौ, तिस्रो भरण्य - इति सङ्ख्या परिमितं ब्रह्म॥" - ([MT](https://manasataramgini.wordpress.com/2017/07/01/a-note-on-the-asterisms-forming-the-nak%e1%b9%a3atra-s/))
+- ब्रह्मगुप्तः खण्डखाध्यके - "मूल अज अहिर्बुध्न्य अश्वयुग् अदिति इन्द्राग्नी फल्गुनी द्वितयम् । त्वाष्ट्र-गुरु-वारुण आर्द्र अनिल-पौष्णान्य् एक ताराणि ॥ ब्रह्म इन्द्र-यम-हरि इन्दु-त्रितयम् षड्-वह्नि-भुजग-पित्र्याणि । मैत्राषाड-चतुष्कम् वसु-रवि-रोहिण्य इति पञ्च ॥" तदा तु - "कृत्तिका: ६; रोहिणी: ५ (likely whole Hyades+Aldebaran); मृगशिरस्: ३; आर्द्रा: १; पुनर्वसू: २; पुष्य: १; आश्लेषा: ६; मघा: ५; फल्गुनि-स्: २ एअछ्; हस्त: ५; चित्रा: १; स्वाति: १; विशाख: २; अनुराधा: ४; ज्येष्ठा: ३; मूल: १; अषाढा-स्: ४ एअछ्; अभिजित्: ३; श्रवण: ३; श्रविष्ठा: ५; शतभिषा: १; प्रोष्ठपद-स्: २ एअछ्; रेवती: १; अश्वयुजौ: २; भरणि: ३।।"
   
 ## कृत्तिकाः
   
-{{<figure src="../../images/naxatra/kRttikA.png" title="कृत्ति॑काः" class="thumbnail">}}  
+{{<figure src="../../images/naxatra/wiki/kRttikA.png" title="कृत्ति॑काः" class="thumbnail">}}
+{{<figure src="../../images/naxatra/stellarium/kRttikAH.png" title="कृत्ति॑काः" class="thumbnail">}}  
 +++(Pleiades)+++
   
 अ॒ग्निर् नᳶ॑ पातु॒ कृत्ति॑काः। नक्ष॑त्रन् दे॒वम् +++(=द्योतमानम्)+++ इ॑न्द्रि॒यम्।  
@@ -32,7 +34,8 @@ unicode_script: devanagari
   
 ## रोहिणी  
   
-{{<figure src="../../images/naxatra/kRttikA.png" title="रोहि॒णी" class="thumbnail">}}  
+{{<figure src="../../images/naxatra/wiki/kRttikA.png" title="रोहि॒णी" class="thumbnail">}}
+{{<figure src="../../images/naxatra/stellarium/rohiNI.png" title="रोहि॒णी" class="thumbnail">}}  
 +++(Aldebaran। )+++
 
 प्र॒जाप॑ते+++(ः)+++ रोहि॒णी वे॑तु॒ +++(=भुङ्क्ताम्)+++ पत्नी॑। वि॒श्वरू॑पा बृह॒ती चि॒त्रभा॑नुः।  
@@ -51,7 +54,8 @@ unicode_script: devanagari
 
 ## मृगशीर्षम्
   
-{{<figure src="../../images/naxatra/mRgashIrSha.png" title="मृगशीर्षम्" class="thumbnail">}}  
+{{<figure src="../../images/naxatra/wiki/mRgashIrSha.png" title="मृगशीर्षम्" class="thumbnail">}}
+{{<figure src="../../images/naxatra/stellarium/mRgashIrSham.png" title="मृगशीर्षम्" class="thumbnail">}}  
 +++(Orion belt)+++
   
 सोमो॒ राजा॑ मृगशी॒र्॒षेण॒ आगन्न्॑ +++(=आयातु)+++। शि॒वन् नक्ष॑त्रम् प्रि॒यम॑स्य॒ धाम॑।  
@@ -73,7 +77,8 @@ unicode_script: devanagari
 
 ## आर्द्रा
   
-{{<figure src="../../images/naxatra/kRttikA.png" title="आ॒र्द्रा" class="thumbnail">}}  
+{{<figure src="../../images/naxatra/wiki/mRgashIrSha.png" title="आ॒र्द्रा" class="thumbnail">}}
+{{<figure src="../../images/naxatra/stellarium/ArdrA.png" title="आ॒र्द्रा" class="thumbnail">}}  
 +++(alpha Orinionis = Betelgeuse इति केचित्। sirius [इति](https://manasataramgini.wordpress.com/2017/07/01/a-note-on-the-asterisms-forming-the-nak%E1%B9%A3atra-s/) मानसतरङ्गिणीकारः।)+++
   
 आ॒र्द्रया॑ रु॒द्रᳶ प्रथ॑मान +++(=प्रसिद्ध)+++ एति। श्रेष्ठो॑ दे॒वाना॒म् पति॑र् अघ्नि॒याना॑म् +++(=गवाम्)+++।  
@@ -92,7 +97,8 @@ unicode_script: devanagari
 
 ## पुनर्वसू  
 
-{{<figure src="../../images/naxatra/punarvasU.png" title="पुन॒र्वसू" class="thumbnail">}}  
+{{<figure src="../../images/naxatra/wiki/punarvasU.png" title="पुन॒र्वसू" class="thumbnail">}}
+{{<figure src="../../images/naxatra/stellarium/punarvasU.png" title="पुन॒र्वसू" class="thumbnail">}}  
 +++(\alpha , \beta Geminorum - Castor and Pollux)+++
 
 पुन॑र्नो दे॒व्यदि॑तिस् स्पृणोतु +++(=प्रीणयतु)+++। पुन॒र्वसू नᳶ॒ पुन॒रेता॑य्ँ य॒ज्ञम्।  
@@ -112,7 +118,8 @@ unicode_script: devanagari
   
 ## तिष्यम् / पुष्यम्
   
-{{<figure src="../../images/naxatra/tiShya.png" title="तिष्यम्" class="thumbnail">}}  
+{{<figure src="../../images/naxatra/wiki/tiShya.png" title="तिष्यम्" class="thumbnail">}}
+{{<figure src="../../images/naxatra/stellarium/tiShyaH.png" title="तिष्यम्" class="thumbnail">}}  
 +++(γ, δ and θ Cancri इति केचित्। Praesepe open cluster (M44) इति केचित्।)+++
   
 बृह॒स्पति॑ᳶ प्रथ॒मञ्जाय॑मानः। ति॒ष्य॑न्नक्ष॑त्रम् अ॒भि सम्ब॑भूव।  
@@ -130,7 +137,8 @@ unicode_script: devanagari
   
 ## आश्रेषाः  
   
-{{<figure src="../../images/naxatra/AshreShA.png" title="आश्रेषाः" class="thumbnail">}}  
+{{<figure src="../../images/naxatra/wiki/AshreShA.png" title="आश्रेषाः" class="thumbnail">}}
+{{<figure src="../../images/naxatra/stellarium/AshreShAH.png" title="आश्रेषाः" class="thumbnail">}}  
   
 +++(δ, ε, η, ρ, σ, theta Hydrae)+++  
   
@@ -149,7 +157,8 @@ unicode_script: devanagari
   
 ## मघाः
   
-{{<figure src="../../images/naxatra/maghA.png" title="मघा" class="thumbnail">}}  
+{{<figure src="../../images/naxatra/wiki/maghA.png" title="मघा" class="thumbnail">}}
+{{<figure src="../../images/naxatra/stellarium/maghAH.png" title="मघा" class="thumbnail">}}  
 
 +++(=Regulus इति केचित्। " 6 stars - entire sickle of Leo" इत्यन्ये।)+++
   
@@ -167,7 +176,8 @@ unicode_script: devanagari
  
 ## पूर्व-फल्गुन्यः 
   
-{{<figure src="../../images/naxatra/maghA.png" title="फल्गु॑न्यः" class="thumbnail">}}  
+{{<figure src="../../images/naxatra/wiki/maghA.png" title="फल्गु॑न्यः" class="thumbnail">}}
+{{<figure src="../../images/naxatra/stellarium/pUrva-phAlgunyau.png" title="फल्गु॑न्यः" class="thumbnail">}}  
 +++(=δ, theta Leonis)+++ 
   
 गवा॒म् पतिः॒ फल्गु॑नीनामसि॒ त्वम्। तद॑र्यमन् वरुणमित्र॒ चारु॑।  
@@ -186,7 +196,8 @@ unicode_script: devanagari
   
 ## उत्तर-फल्गुन्यः
   
-{{<figure src="../../images/naxatra/maghA.png" title="फल्गुन्यः" class="thumbnail">}}  
+{{<figure src="../../images/naxatra/wiki/maghA.png" title="फल्गुन्यः" class="thumbnail">}}
+{{<figure src="../../images/naxatra/stellarium/uttara-phAlgunyau.png" title="फल्गुन्यः" class="thumbnail">}}  
 +++(Denebola - beta, 93 Leonis)+++
   
 श्रेष्ठो॑ दे॒वाना॑म् भगवो भगासि।  तत् त्वा॑ विदु॒ᳶ फल्गु॑नी॒स्, तस्य॑ वित्तात् +++(=विद्धि)+++।  
@@ -201,8 +212,9 @@ unicode_script: devanagari
   
 ## हस्तः
   
-{{<figure src="../../images/naxatra/hasta.png" title="हस्तः" class="thumbnail">}}  
-+++(Corvus)+++
+{{<figure src="../../images/naxatra/wiki/hasta.png" title="हस्तः" class="thumbnail">}}
+{{<figure src="../../images/naxatra/stellarium/hastaH.png" title="हस्तः" class="thumbnail">}}  
++++(Corvus- \alpha , \beta , \gamma , \delta , \epsilon Corvi.)+++
   
 आया॒तु दे॒वस् स॑वि॒तोप॑यातु। हि॒र॒ण्यये॑न सु॒वृता॒ रथे॒न।  
 वह॒न्॒ हस्तꣳ सु॒भग॑व्ँ विद्म॒नाप॑सम् +++(=विदितकर्मणा युक्तम्)+++। प्रयच्छ॑न्त॒म् पपु॑रि॒म् +++(=पूरयितारम्)+++ पुण्य॒म् अच्छ॑ +++(=अभिमुखं वर्तमानम्)+++।
@@ -216,7 +228,8 @@ unicode_script: devanagari
   
 ## चित्रा
   
-{{<figure src="../../images/naxatra/chitrA.png" title="चित्रा" class="thumbnail">}}  
+{{<figure src="../../images/naxatra/wiki/chitrA.png" title="चित्रा" class="thumbnail">}}
+{{<figure src="../../images/naxatra/stellarium/chitrA.png" title="चित्रा" class="thumbnail">}}  
   
 त्वष्टा॒ नक्ष॑त्रम् अ॒भ्ये॑ति चि॒त्राम् +++(=Spica)+++। सु॒भꣳस॑सय्ँ +++(=सुजघनां)+++ युव॒तिꣳ रोच॑मानाम्।  
 नि॒वे॒शय॑न्न् अ॒मृता॒न् मर्त्याꣳ॑श् च। रू॒पाणि॑ पि॒ꣳ॒शन् +++(=निरूपयन्)+++ भुव॑नानि॒ विश्वा॑।  
@@ -227,9 +240,14 @@ unicode_script: devanagari
 त्वष्ट्रे॒ स्वाहा॑ चि॒त्रायै॒ स्वाहा॑।  
 चैत्रा॑य॒ स्वाहा॑ प्र॒जायै॒ स्वाहा॑।  
   
+### टिप्पणिः
+- "The star itself is one the nakṣatra-s mentioned in the RV (according to us contra white indological opinion)."
+- "In the TB 1.5.1.3 Citrā is described as an additional star of the god Indra."
+
 ## निष्ट्या, स्वातिः
   
-{{<figure src="../../images/naxatra/niShTyA.png" title="निष्ट्या॑" class="thumbnail">}}  
+{{<figure src="../../images/naxatra/wiki/niShTyA.png" title="निष्ट्या॑" class="thumbnail">}}
+{{<figure src="../../images/naxatra/stellarium/niShTyA_svAtiH.png" title="निष्ट्या॑" class="thumbnail">}}  
   
 वा॒युर् नक्ष॑त्रम् अ॒भ्ये॑ति॒ निष्ट्या॑म्+++(=Arctrus)+++। ति॒ग्मशृ॑ङ्गो वृष॒भो रोरु॑वाणः।  
 स॒मी॒रय॒न् भुव॑ना मात॒रिश्वा॑। अप॒ द्वेषाꣳ॑सि नुदता॒म् अरा॑तीः।  
@@ -243,7 +261,8 @@ unicode_script: devanagari
   
 ## विशाखे
   
-{{<figure src="../../images/naxatra/vishAkhA.png" title="विशा॑खे" class="thumbnail">}}  
+{{<figure src="../../images/naxatra/wiki/vishAkhA.png" title="विशा॑खे" class="thumbnail">}}
+{{<figure src="../../images/naxatra/stellarium/vishAkhA.png" title="विशा॑खे" class="thumbnail">}}  
 +++(α, β Librae। रामायणानुसारम् इक्ष्वाकूणां नक्षत्रम्।)+++
   
 दू॒रम् अ॒स्मच्छत्र॑वो यन्तु भी॒ताः। तद् इ॑न्द्रा॒ग्नी कृ॑णुता॒म् तद् विशा॑खे।  
@@ -254,6 +273,9 @@ unicode_script: devanagari
   
 इ॒न्द्रा॒ग्निभ्या॒ꣳ॒ स्वाहा॒ विशा॑खाभ्या॒ꣳ॒ स्वाहा॑।  
 स्रेष्टया॑य॒ स्वाहा॒ऽभिजि॑त्यै॒ स्वाहा॑।  
+  
+### टिप्पणिः
+"The constellation of the Ikṣvāku-s according to the Rāmāyaṇa."
   
 ## पूर्णिमा
   
@@ -267,7 +289,8 @@ unicode_script: devanagari
   
 ## अनूराधाः
   
-{{<figure src="../../images/naxatra/anUrAdhAH.png" title="अ॒नू॒रा॒धाः" class="thumbnail">}}  
+{{<figure src="../../images/naxatra/wiki/anUrAdhAH.png" title="अ॒नू॒रा॒धाः" class="thumbnail">}}
+{{<figure src="../../images/naxatra/stellarium/anUrAdhAH.png" title="अ॒नू॒रा॒धाः" class="thumbnail">}}  
 +++(β, δ, eta, rho Scorpionis)+++
   
 ऋ॒द्ध्यास्म॑ ह॒व्यैर् न॑मसो॒पसद्य॑,, 
@@ -282,7 +305,8 @@ unicode_script: devanagari
   
 ## ज्येष्ठा
   
-{{<figure src="../../images/naxatra/anUrAdhAH.png" title="ज्येष्ठा" class="thumbnail">}}  
+{{<figure src="../../images/naxatra/wiki/anUrAdhAH.png" title="ज्येष्ठा" class="thumbnail">}}
+{{<figure src="../../images/naxatra/stellarium/anUrAdhAH.png" title="ज्येष्ठा" class="thumbnail">}}  
 +++(α, σ, and τ Scorpionis इति केचित्। Antares इत्यन्ये - द्वितीया रोहिणीवेति ब्राह्मणम्।)+++
   
 इन्द्रो॑ ज्ये॒ष्ठाम् अनु॒ नक्ष॑त्रम् एति। यस्मि॑न् वृ॒त्रव्ँ वृ॑त्र॒तूर्ये॑ +++(=वृत्रवधे)+++ त॒तार॑।  
@@ -294,9 +318,13 @@ unicode_script: devanagari
 इन्द्रा॑य॒ स्वाहा॑ ज्ये॒ष्ठायै॒ स्वाहा॑।  
 ज्ये॒ष्ठया॑य॒ स्वाहा॒ऽभिजि॑त्यै॒ स्वाहा॑।  
   
+### टिप्पणिः
+- "The TB describes this star as a second Rohiṇī keeping with the red color of the star."
+
 ## मूलम्
   
-{{< figure src="../../images/naxatra/anUrAdhAH.png" title="" class="thumbnail">}}  
+{{< figure src="../../images/naxatra/wiki/anUrAdhAH.png" title="" class="thumbnail">}}  
+{{< figure src="../../images/naxatra/stellarium/mUlam.png" title="" class="thumbnail">}}  
 +++(ζ, η, θ, ι, κ, λ, and ν Scorpionis। मूलायाङ्खल्व् आकाशगङ्गाकेन्द्रम् अपि वर्तते!)+++
 
 मूल॑म् प्र॒जाव्ँ वी॒रव॑तीव्ँ विदेय+++(=लभेय)+++। परा॑च्य्+++(=पराङ्मुखा)+++ एतु॒ निरृ॑तिᳶ परा॒चा +++(मार्गेण)+++।  
@@ -308,12 +336,16 @@ unicode_script: devanagari
 प्र॒जाप॑तये॒ स्वाहा॒ मूला॑य॒ स्वाहा॑।  
 प्र॒जायै॒ स्वाहा॑।  
   
+### टिप्पणिः
+"In the Rāmāyaṇa it is associated with Rākṣasa-s who are supposed to have emanated from Nirṛtti."
+
 ## अषाढाः पूर्वाः
   
-{{< figure src="../../images/naxatra/aShADhAH.png" title="" class="thumbnail">}}  
+{{< figure src="../../images/naxatra/wiki/aShADhAH.png" title="" class="thumbnail">}}  
+{{< figure src="../../images/naxatra/stellarium/pUrva-aShADhAH.png" title="" class="thumbnail">}}  
 +++(δ, gamma, eta and ε Sagittarii। जलरूपाया आकाशङ्गङ्गायाः केन्द्रम् अस्य पार्श्वे।)+++
   
-या दि॒व्या आपᳶ॒ पय॑सा सम्बभू॒वुः+++(=आकाशगङ्गा)+++। +++(मेघादिरूपा)+++ या अ॒न्तरि॑क्ष उ॒त +++(नद्यादिषु)+++ पार्थि॑वी॒र् याः।  
+या दि॒व्या आपᳶ॒ पय॑सा सम्बभू॒वुः+++(=आकाशगङ्गा पार्श्वे वर्तमाना)+++। +++(मेघादिरूपा)+++ या अ॒न्तरि॑क्ष उ॒त +++(नद्यादिषु)+++ पार्थि॑वी॒र् याः।  
 यासा॑मषा॒ढा अ॑नु॒यन्ति॒ काम॑म्। ता न॒ आपः॒ शꣳ स्यो॒ना +++(=सुखहेतवः)+++ भ॑वन्तु।  
 
 याश्च॒ कूप्या॒ याश्च॑ ना॒द्या॑स् समु॒द्रियाः॑। याश्च॑ वैश॒न्तीर् +++(=पल्वलभवाः)+++ उत प्रा॑स॒चीर् +++(=प्रागता)+++ याः।  
@@ -322,9 +354,12 @@ unicode_script: devanagari
 अ॒द्भ्यः स्वाहा॑ऽषा॒ढाभ्यः॒ स्वाहा॑।  
 स॒मु॒द्राय॒ स्वाहा॒ कामा॑य॒ स्वाहा॑।  
   
+
+
 ## अषाढाः उत्तराः
   
-{{< figure src="../../images/naxatra/aShADhAH.png" title="" class="thumbnail">}}  
+{{< figure src="../../images/naxatra/wiki/aShADhAH.png" title="" class="thumbnail">}}  
+{{< figure src="../../images/naxatra/stellarium/uttara-aShADhAH.png" title="" class="thumbnail">}}  
 +++(phi, ζ, tau and σ Sagittarii)+++
   
 तन् नो॒ विश्वे॒ उप॑ शृण्वन्तु दे॒वाः। तद॑षा॒ढा अ॒भिसंय॑न्तु य॒ज्ञम्।  
@@ -338,7 +373,8 @@ unicode_script: devanagari
   
 ## अभिजित्
 
-{{< figure src="../../images/naxatra/abhijit.png" title="" class="thumbnail">}}  
+{{< figure src="../../images/naxatra/wiki/abhijit.png" title="" class="thumbnail">}}  
+{{< figure src="../../images/naxatra/stellarium/abhijit.png" title="" class="thumbnail">}}  
 +++(Vega)+++
   
 यस्मि॒न् ब्रह्मा॒भ्यज॑य॒त् सर्व॑मे॒तत्। अ॒मुञ्च॑ लो॒कमि॒दमू॑ च॒ सर्व॑म्।  
@@ -351,11 +387,13 @@ unicode_script: devanagari
 ब्र॒ह्म॒लो॒काय॒ स्वाहा॒ऽभिजि॑त्यै॒ स्वाहा॑।  
 
 ### टिप्पणिः
+- "However, its name meaning the all conquering is equivalent to the Iranian name for the same star Vanant. This suggests that it might have been an ancient association."
 - "The Aitareya brāhmaṇa indicates that it was used to mark the day just before the svarasāman days during the annual sattra. Tilak we believe rightly realized this was the reason why Abhijit was important in the early period to mark this ritual day which in turn is critical for marking the days leading up to the Viśuvān day."
   
 ## श्रोणा / श्रवणम्
   
-{{< figure src="../../images/naxatra/shroNA.png" title="" class="thumbnail">}}  
+{{< figure src="../../images/naxatra/wiki/shroNA.png" title="" class="thumbnail">}}  
+{{< figure src="../../images/naxatra/stellarium/shroNA.png" title="" class="thumbnail">}}  
 +++(α, β and γ Aquilae)+++
   
 शृ॒ण्वन्ति॑ श्रो॒णाम् अ॒मृत॑स्य गो॒पाम्। पुण्या॑म् अस्या॒ उप॑शृणोमि॒ वाच॑म्।  
@@ -369,7 +407,8 @@ unicode_script: devanagari
   
 ## धनिष्ठाः/ श्रविष्ठाः
   
-{{< figure src="../../images/naxatra/dhaniShThA.svg" title="" class="thumbnail">}}  
+{{< figure src="../../images/naxatra/wiki/dhaniShThA.svg" title="" class="thumbnail">}}  
+{{< figure src="../../images/naxatra/stellarium/dhaniShThA_shraviShThA.png" title="" class="thumbnail">}}  
 +++(α to δ Delphini)+++
   
 अ॒ष्टौ दे॒वा वस॑वस् सो॒म्यासः॑। चत॑स्रो दे॒वीर॒जराः॒ श्रवि॑ष्ठाः।  
@@ -383,7 +422,8 @@ unicode_script: devanagari
   
 ## शतभिषग्
   
-{{< figure src="../../images/naxatra/shatabhiShaj.png" title="" class="thumbnail">}}  
+{{< figure src="../../images/naxatra/wiki/shatabhiShaj.png" title="" class="thumbnail">}}  
+{{< figure src="../../images/naxatra/stellarium/shatabhiShaj.png" title="" class="thumbnail">}}  
 +++(Sadachbia = γ Aquarii इति केचित्। Fomalhaut स्याद् इत्यन्ये।)+++
   
 क्ष॒त्रस्य॒ राजा॒ वरु॑णो ऽधिरा॒जः। नक्ष॑त्राणाꣳ श॒तभि॑ष॒ग् वसि॑ष्ठः।  
@@ -394,10 +434,14 @@ unicode_script: devanagari
   
 वरु॑णाय॒ स्वाहा॒ श॒तभि॑षजे॒ स्वाहा॑।  
 भे॒ष॒जेभ्यः॒ स्वाहा॑।  
+
+### टिप्पणिः
+"There is an asterism of Iranians known as Satavaēsa, which we hold to be the equivalent of the Vedic one. The Iranian asterism was associated with the sea while the Vedic one with Varuṇa. The possibility of Fomalhaut (\alpha  Pisces Austrinisis) being this star is not implausible."
   
 ## प्रोष्ठपदाः/ भाद्रपदाः पूर्वाः
   
-{{< figure src="../../images/naxatra/proShThapada.png" title="" class="thumbnail">}}  
+{{< figure src="../../images/naxatra/wiki/proShThapada.png" title="" class="thumbnail">}}  
+{{< figure src="../../images/naxatra/stellarium/pUrva-proShThapadau.png" title="" class="thumbnail">}}  
 +++(α and β Pegasi)+++
   
 अ॒ज एक॑पा॒द् उद॑गात् पु॒रस्ता॑त्। विश्वा॑ भू॒तानि॑ प्रति॒ मोद॑मानः।  
@@ -409,9 +453,11 @@ unicode_script: devanagari
 अ॒जायैक॑पदे॒ स्वाहा॑ प्रोष्ठप॒देभ्यः॒ स्वाहा॑।  
 तेज॑से॒ स्वाहा॑ ब्रह्मवर्च॒साय॒ स्वाहा॑।  
   
+
 ## प्रोष्ठपदाः/ भाद्रपदाः उत्तराः  
   
-{{< figure src="../../images/naxatra/proShThapada.png" title="" class="thumbnail">}}  
+{{< figure src="../../images/naxatra/wiki/proShThapada.png" title="" class="thumbnail">}}  
+{{< figure src="../../images/naxatra/stellarium/uttara-proShThapadau.png" title="" class="thumbnail">}}  
 +++(γ Pegasi and α Andromedae)+++
   
 अहि॑र् बु॒ध्नियᳶ॒+++(=मूलस्थः)+++ प्रथ॑मान एति। श्रेष्ठो॑ दे॒वाना॑मु॒त मानु॑षाणाम्।  
@@ -424,7 +470,8 @@ unicode_script: devanagari
   
 ## रेवती
   
-{{< figure src="../../images/naxatra/revatI.png" title="" class="thumbnail">}}  
+{{< figure src="../../images/naxatra/wiki/revatI.png" title="" class="thumbnail">}}  
+{{< figure src="../../images/naxatra/stellarium/revatI.png" title="" class="thumbnail">}}  
 +++(ζ Piscium)+++
   
 पू॒षा रे॒वत्यन्वे॑ति॒ पन्था॑म्। पु॒ष्टि॒पती॑ पशु॒पा वाज॑+++(=अन्न)+++बस्त्यौ+++(बलौ)+++।  
@@ -436,9 +483,13 @@ unicode_script: devanagari
 पू॒ष्णे स्वाहा॑ रे॒वत्यै॒ +++(=ζ Piscium)+++ स्वाहा॑।  
 प॒शुभ्यः॒ स्वाहा॑।  
   
+### टिप्पणिः
+- "Classical astronomy identifies it with \zeta  Piscium. This is a really undistinguished star. So we cannot be sure if that is what was originally meant or a higher up star like \beta  Andromedae was used. Narahari Achar holds that the goddess Pathyā Revatī mentioned in the Svastisūkta of the Atri-s implied this asterism. While this is not impossible we are not entirely sure of that especially given the undistinguished nature of the star identified with it."
+
 ## अश्विनौ
   
-{{< figure src="../../images/naxatra/ashvinau.png" title="" class="thumbnail">}}  
+{{< figure src="../../images/naxatra/wiki/ashvinau.png" title="" class="thumbnail">}}  
+{{< figure src="../../images/naxatra/stellarium/ashvinau.png" title="" class="thumbnail">}}  
 +++(β and अल्थ Arietis)+++
   
 तद॒श्विना॑वश्व॒युजोप॑याताम्। शुभ॒ङ् गमि॑ष्ठौ सु॒यमे॑भि॒रश्वैः॑।  
@@ -449,9 +500,14 @@ unicode_script: devanagari
 अ॒श्विभ्या॒ꣳ॒ स्वाहा॑ऽश्व॒युग्भ्या॒ꣳ॒ स्वाहा॑।  
 श्रोत्रा॑य॒ स्वाहा॒ श्रुत्यै॒ स्वाहा॑।  
   
+### टिप्पणिः
+- "अश्विनौ व्यात्तम्" इत्युत्तरनारयणे। भरणीविषुवकाले। विवरणानि [अत्र](../../../../jyotisha/naxatram/chAndra-naxatram/)।
+- पश्चाद् विशुवस्थानम् अत्र।
+  
 ## भरणी
   
-{{< figure src="../../images/naxatra/bharaNI.png" title="" class="thumbnail">}}  
+{{< figure src="../../images/naxatra/wiki/bharaNI.png" title="" class="thumbnail">}}  
+{{< figure src="../../images/naxatra/stellarium/bharaNI.png" title="" class="thumbnail">}}  
 +++(35, 39, and 41 Arietis)+++
   
 अप॑ पा॒प्मान॒म् भर॑णीर् +++(=35, 39, 41 Arietis)+++ भरन्तु। तद्य॒मो राजा॒ भग॑वा॒न्॒ विच॑ष्टाम्।  
