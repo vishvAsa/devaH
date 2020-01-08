@@ -252,6 +252,9 @@ contents:
           - title: तत्त्वम्
             contents:
               - url: dir://kalpa/brAhmaNa/aitareya/tattva
+      - title: मैत्रायणीयम्
+        contents:
+          - url: recdir://kalpa/brAhmaNa/maitrAyaNIyam/
       - title: कौषितकि
         contents:
           - url: dir://kalpa/brAhmaNa/kauShitaki/
