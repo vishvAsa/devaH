@@ -147,7 +147,7 @@ unicode_script: devanagari
 - "It corresponds to the head of the Greek constellation of Hydra, suggesting that the link to a snake goes back to early Indo-European times. Āśleṣā is specifically associated with the head of the snake. Hence, the 6 stars should correspond to \theta , \zeta , \epsilon , \delta , \sigma , \eta Hydrae."
 - वेदाङ्गज्योतिषानुसारम् अस्य मध्य आसीद् अयनारम्भः ~ ११०० BCE इत्यस्मिन्।
   
-## मघाःय़्  
+## मघाः
   
 {{<figure src="../../images/naxatra/maghA.png" title="मघा" class="thumbnail">}}  
 
@@ -384,7 +384,7 @@ unicode_script: devanagari
 ## शतभिषग्
   
 {{< figure src="../../images/naxatra/shatabhiShaj.png" title="" class="thumbnail">}}  
-+++(Sadachbia, γ Aquarii इति केचित्। Fomalhaut स्याद् इत्यन्ये।)+++
++++(Sadachbia = γ Aquarii इति केचित्। Fomalhaut स्याद् इत्यन्ये।)+++
   
 क्ष॒त्रस्य॒ राजा॒ वरु॑णो ऽधिरा॒जः। नक्ष॑त्राणाꣳ श॒तभि॑ष॒ग् वसि॑ष्ठः।  
 तौ दे॒वेभ्यᳵ॑ कृणुतो दी॒र्घमायुः॑। श॒तꣳ स॒हस्रा॑ भेष॒जानि॑ धत्तः।  

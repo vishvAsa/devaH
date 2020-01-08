@@ -38,15 +38,6 @@ unicode_script: devanagari
 [अत्र खचित्राणि](../images/) दृश्यन्ताम् -
 
 - "The Vedāñga Jyotiṣa states that the summer solstice began in the middle of this constellation (आश्लेषाः) suggesting that it was composed around ~3350 YBP."
-- bce-1400-01-13-bharaNI-equinox.png
-- bce-1400-01-13-dhaniShThA-solstice.png
-
-- bce-2300-01-13-dhaniShThA-12deg-solstice.png
-- bce-2300-01-13-kRttikA-equinox.png
-
-- bce-3000-01-13-dhaniShThA-22deg-solstice.png
-- bce-3000-01-13-rohiNI-equinox.png
--  naxatra_chakra_bce_2999.png
 
 ## अयनांशचयनम्
 The ayanAMsha to be used in a particular ritual context should be determined from the vidhi-vAkya-s enjoining that particular ritual action. 
@@ -77,7 +68,7 @@ For example, vAyupurANa says: मेषान्ते च तुलान्त
 - वायुपुराणात् - 
   - मेषान्ते च तुलान्ते च भास्करोदयतः स्मृताः । मुहूर्त्ता दश पञ्चैव अहोरात्रिश्च तावती ।। ५०.१९५ ।। कृत्तिकानां यदा सूर्यः प्रथमांशगतो भवेत् । विशाखानां तथा ज्ञेयश्चतुर्थांशे निशाकरः।। ५०.१९६ ।। विशाखायां यदा सूर्यश् चरतेंऽशं तृतीयकम्। तदा चन्द्रं विजानीयात् कृत्तिकाशिरसि स्थितम् ।। ५०.१९७ ।। विषुवन्तं तदा विद्यादेवमाहुर्महर्षयः। सूर्येण विषुवं विद्यात् कालं सोमेन लक्षयेत् ।। ५०.१९८ ।। 
 
-{{< figure src="../images/bce-2300-01-13-dhaniShThA-12deg-mAghArambha-solstice.png" title="maghA-solstice.png" >}}
+{{< figure src="../images/bce-2300-01-13_kRttikA_anUrAdhAH_equinox_dhaniShThA-shatabhiShak_maghA_solstice.png" title="maghA-solstice.png" >}}
 
 
 #### solistice at shraviShThArdha ~ 1300 BCE
@@ -85,12 +76,12 @@ For example, vAyupurANa says: मेषान्ते च तुलान्त
 - मैत्रायणीयोपनिषदि - "द्वादशात्मकं वत्सरम्। एतस्याग्नेयमर्धम्, अर्धं वारुणं। मघाद्यं श्रविष्ठार्धमाग्नेयं क्रमेण, +उत्क्रमेण सार्पाद्यं श्रविष्ठार्धान्तं सौम्यम्" "solisticial points here are indicated as maghAdyam|sarpAdyam+++(=their boundary)+++ and shraviShTArdham. this would approximately correspond to ~1300 BCE marking a change from the earlier reference to solisticial point lying inside magha in AV nakShatrasUkta"\[[SD](https://sanskritdocuments.org/doc_upanishhat/maitri.html?lang=sa), [MT_TW](https://twitter.com/blog_supplement/status/984634039909978112), [IMG](https://i.imgur.com/rNhFPph.jpg)\]
 - Corresponds to equinox at bharaNI.
 
-{{< figure src="../images/naxatra_chakra_bce_2999.png" title="naxatra_chakra_bce_2999.png" >}}
+{{< figure src="../images/bce-1400-01-13_bharaNi-3deg_vishAkhA_equinox_dhaniShTha_AshreShA-maghA_solstice.png" title="" >}}
 
 #### Summer solstice at AshreShA - 1000 BCE
 - वेदाङ्गज्योतिषे - "प्रपद्येते श्रविष्ठादौ सूर्याचन्द्रमसावुदक् । सार्पार्धे दक्षिणार्कस्तु माघश्रावणयोः सदा ।।"
     - तदा नाक्षत्रिकाव् ऽपि मासौ माघश्रावणौ।
-{{< figure src="../images/bce-1100-01-14-Ashlesha-center-solstice.png" title="bce-1100-01-14-Ashlesha-center-solstice.png" >}}
+{{< figure src="../images/bce-1100-01-14_bharaNI_vishAkhA_equinox_dhaniShThA-6deg_Ashlesha_solstice.png" title="" >}}
 
 #### Vernal equinox at ashvinI - 200 BCE
 - Vernal equinox was likely *before* actual ashvinI during taittirIya-AraNyaka period "नक्षत्राणि रूपम्, अश्विनौ व्यात्तम्" ([MT1](https://manasataramgini.wordpress.com/2013/11/08/anatomy-and-heavens-in-the-boomorphic-universe/), आरण्यके [ऽत्र](https://archive.org/stream/taittiriya/taittiriya_aranyaka_bhaskara_01#page/n309/mode/2up))
