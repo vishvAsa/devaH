@@ -9,11 +9,10 @@ unicode_script: devanagari
 <script>
 function getSelectionWeight(url) {
   var cleanedUrl = url.replace("//", "/");
-  let pageFileParams = pageUrlToFileParams.get(cleanedUrl);
-  if (!cleanedUrl.startsWith("/mantra/") || !cleanedUrl.includes("/paravastu-saama/") || cleanedUrl.includes("/sangrahAH/") || cleanedUrl.includes("/meta/") || pageFileParams.logicalName == "_index.md") {
+  let pageParams = module_dir_tree.getPageParams(cleanedUrl);
+  if (!cleanedUrl.startsWith("/mantra/") || !cleanedUrl.includes("/paravastu-saama/") || cleanedUrl.includes("/sangrahAH/") || cleanedUrl.includes("/meta/") || pageParams.logicalName == "_index.md") {
     return 0;
   }
-  let pageParams = pageUrlToParams.get(cleanedUrl);
   if (!pageParams || !pageParams.hasOwnProperty("practice_weight")) {
     return 1;
   }
