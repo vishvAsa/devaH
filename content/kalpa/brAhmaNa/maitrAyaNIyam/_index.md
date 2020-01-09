@@ -1,4 +1,4 @@
 ---
-title: मैत्रायणीयम्
+title: +मैत्रायणीयम्
 unicode_script: devanagari
 ---
