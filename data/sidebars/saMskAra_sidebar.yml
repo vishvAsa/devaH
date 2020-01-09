@@ -70,6 +70,9 @@ contents:
             - title: ऋचः
               contents:
                 - url: dir://mantra/misc-devas/Rk
+                - title: दाम्पत्यम्
+                  contents:
+                    - url: dir://mantra/misc-devas/dAmpatyam
             - title: सामानि
               contents:
                 - url: dir://mantra/misc-devas/paravastu-saama/
