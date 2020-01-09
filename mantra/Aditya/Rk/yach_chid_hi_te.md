@@ -1,18 +1,11 @@
 ---
-title: वरुणवन्दनं सन्ध्यायाम्
+title: यच्चिद्धि ते
 devatAH: वरुणः
 unicode_script: devanagari
 
 practice_weight: .1
 ---
-इ॒मं मे॑ वरुण श्रुधी॒ +++(=श्रुणु)+++  
-हव॑म्+++(=आह्वानम्)+++ अ॒द्या च॑ मृळय +++(=सुखय)+++।  
-त्वाम॑व॒स्युरा च॑के +++(=अवदन्)+++॥  
 
-तत्त्वा॑ यामि॒ ब्रह्म॑णा॒ वन्द॑मान॒स्  
-तदा शा॑स्ते॒ यज॑मानो ह॒विर्भिः॑ ।  
-अहे॑ळमानो +++(=अक्रुध्यन्)+++ वरुणे॒ह बो॒ध्युरु॑शंस॒  
-मा न॒ आयु॒ः प्र मो॑षीः ॥
 
 +++(हरदत्तो [ऽत्र](https://archive.org/stream/taittiriya/taittiriya_ekagni_kanda_haradatta#page/n33/mode/2up)। सायणो [ऽत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart1/rv_sayanabhasya_part1#page/n223/mode/2up), [अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_5_-_Kasinath_Sastri_Agase_1946#page/n311/mode/2up) च।)+++
 
