@@ -1,5 +1,5 @@
 ---
-title: +हेतुभावादिः
+title: +स्वमतम्
 unicode_script: devanagari  
   
 ---
