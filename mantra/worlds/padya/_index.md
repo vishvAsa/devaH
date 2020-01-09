@@ -1,5 +1,5 @@
 ---
-title: +मन्त्राः  
+title: +पद्यम्
 unicode_script: devanagari  
   
 ---
