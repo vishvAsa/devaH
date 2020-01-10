@@ -4,6 +4,9 @@ unicode_script: devanagari
   
 ---
 
+## तत्त्वज्ञानम्
+[अत्र](https://hindutva.github.io/main/tattvam/) यदुच्यते, तेन सम्मतिर् नः प्रायेण।
+
 ## शरीर-स्वास्थ्यस्यापेक्षा
 
 तत्रोदाहरणानि
