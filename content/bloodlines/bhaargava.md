@@ -13,7 +13,6 @@ title: भार्गवाः
 - संस्काररत्नमाला [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_039_Samskara_Ratnamala_of_Bhatta_Gopinatha_Dikshita_Part_1_-_KS_Agase_1899#page/n421/mode/2up)।
 - बोधायन-श्रौत-सूत्रेषु प्रवराध्यायः (विवरणान्य् [अत्र](https://sites.google.com/site/samskrtamsfo/kavyam/itihasah/vansah/0-paricayah))
     - भृगूणां पञ्चार्षेया वत्सा विदा आर्ष्टिषेणाः। …
--
 
 
 ## गोत्र-प्रवर-विचारः
@@ -73,7 +72,7 @@ title: भार्गवाः
     - शण्ड-मर्कौ पुत्रौ।
 
 
-#### च्यवनः 
+#### च्यवनः/ च्यवानः 
 - महायुर्वेदवित्। च्यवनप्राशस्य कर्ता। भृगुपुत्रः पौलोमिः, शीघ्रप्रसवोऽभूदस्येति च्यवनः \- जन्मक्षणे मातृपीडकं पुलोमाख्य-राक्षसं ददाह।
     - तस्य नेत्रे ऽज्ञानेन विद्धे भाविपत्न्या सुकन्यया, न तथाऽपि क्रोधं जगाम। पुनरश्विनीकुमारसहकारेण प्राप यौवनमनामयञ्च। अश्विनीकुमाराभ्यां सोमदाता, तेनेन्द्रस्य च धर्षयिता।  \[[विकिः](https://en.wikipedia.org/wiki/Chyavana)। पुराणकोशे [ऽत्र](https://archive.org/stream/puranicencyclopa00maniuoft#page/189/mode/1up)।\] 
     - आरुषी मनुपुत्र्य् अपि तत्पत्नीति क्वचित्।
