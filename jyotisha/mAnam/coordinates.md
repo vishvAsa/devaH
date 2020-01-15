@@ -14,7 +14,7 @@ title: Coordinates
 ## Equatorial
 - Equatorial Right ascension (RA)/ declination (dec) relative to spring/ vernal equinox point : [intro](https://lco.global/spacebook/equatorial-coordinate-system/).
 - ![](https://pbs.twimg.com/media/DVuneZ6VMAA-Z2U.jpg)
-- Finding and using the celestial equatorial (and diurnal) planes- [KV18](https://kashcidvipashcit.wordpress.com/2018/02/09/solar-plane-of-the-day/).
+- Finding and using the celestial equatorial (and diurnal) planes- [KV18](https://agnimaan.wordpress.com/2018/02/09/solar-plane-of-the-day/).
 
 ### अस्य प्राचीनः प्रयोगः
 -  shukla-yajurvedasya shatapathabrAhmaNe: "एता ह वै प्राच्यै दिशो न च्यवन्ते | सर्वाणि ह वा अन्यानि नक्षत्राणि प्राच्यै दिशश्च्यवन्ते तत्प्राच्यामेवास्यैतद्दिश्याहितौ भवतस्तस्मात्कृत्तिकास्वादधीत"। Proper East. 90deg from north. Possible only if the star is on the celestial equator. Then the star will rise exactly at east. Krttikas on celestial equator around 2900BCE (two centuries before and after can be considered as acceptable)। \[[TW](https://twitter.com/agnimaan/status/984433779967082496)\]

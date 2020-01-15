@@ -7,7 +7,7 @@ unicode_script: devanagari
 ## अष्टाध्यायिमतम्
 - पाणिनिः अष्टाध्याय्याम् \- "उच्चैरुदात्तः। नीचैर् अनुदात्तः। समाहारस् स्वरितः। तस्य आदितः उदात्तम् अर्धह्रस्वम्॥" अनेन स्वरितस्य आदितः अर्धह्रस्वम् उदात्तम्, शिष्टो भागो ऽनुदात्तः।
 - भाष्यम् [अत्र](https://archive.org/stream/Vyakarana/Mahabhashya_II#page/n31/mode/2up)। तदाङ्ग्लानुवादो [ऽत्र](https://archive.org/stream/LecturesOnPatanjalisVyakaranaMahabhashya4/LecturesOnPatanjalisMahabhashya4#page/n63/mode/2up)।
-- इदमेव पाणिनेः प्रामाणिकं चिन्तनं स्वरितोच्चारणे ([प्रकाशनम्](https://kashcidvipashcit.wordpress.com/2015/04/12/%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%BF%E0%A4%A4%E0%A5%8B%E0%A4%9A%E0%A5%8D%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%A3%E0%A5%87-%E0%A4%BD%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF/))।
+- इदमेव पाणिनेः प्रामाणिकं चिन्तनं स्वरितोच्चारणे ([प्रकाशनम्](https://agnimaan.wordpress.com/2015/04/12/%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%BF%E0%A4%A4%E0%A5%8B%E0%A4%9A%E0%A5%8D%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%A3%E0%A5%87-%E0%A4%BD%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF/))।
 
 ### प्रातिशाख्येषु पुष्टिः
 - तैत्तिरीय-प्रातिशाख्ये "आदिरस्योदात्तसमः शेषो ऽनुदात्तसम इत्याचार्याः॥" इत्य् अवधेयम्। (मूलम् [अत्र](http://bangla.name/citi/taittiriya/tait_dev.htm))। paaNini’s arrangment is explicitly allowed. there is one other similar alternative. The pair that grant higher tone to the *first half hrasva duration only* are still different from current "pure higher tone" or rising tone practice. Also, some "hand waving" is allowed by the last sUtra (सर्वः प्रवण इत्येके॥१.४७॥).
