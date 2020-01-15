@@ -17,7 +17,7 @@ unicode_script: devanagari
 येनावि॑+++(वे)+++ष्टितः प्रवि॒वेशि॑था॒पः +++(=सूर्यपथि दक्षिणभागः)+++ ।  
 विश्वा॑ अपश्यद् बहु॒धा ते॑ अग्ने॒  
 जात॑वेदस् त॒न्वो॑ दे॒व एकः॑ ॥१  
-+++(“Fire is the equinoctial colure, the great circle that passes through the equinotical and celestial poles intersecting the ecliptic at the point where it intersects the celestial equator.” )+++
++++(“Fire is the equinoctial colure, the great circle that passes through the celestial poles intersecting the ecliptic at the point where it intersects the celestial equator.” )+++
 
 अग्निवचनम् -  
 को मा॑ ददर्श? कत॒मः स दे॒वो?  
