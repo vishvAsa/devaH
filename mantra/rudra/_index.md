@@ -8,6 +8,9 @@ title: +रुद्रः
 - पशुपतिः। मरुत्पतिः। रोगदो रोगहा च।
 - यज्ञभागाभिमानी - तददाने तु कुप्यति।
 - पश्चाद् उमापतिः, गनेशकार्त्तिकेययोः पिता।
+- आर्द्रया सम्बद्धः! नक्षत्रसूक्तमीक्षताम्। 
+    - तच्छिरस आकाशगङ्गा +उत्पतति। तत्पार्श्वे शरवणम्, यत्र पुत्रः कार्त्तिकेयो जजान।
+    - खे स मृगशीर्षधारिणं प्रजापतिम् इन्वकेषुना हन्ति।
 
 ### दिवो ऽसुरः
 - tvam agne rudro asuro maho divaḥ (RV 2.1.6) 
@@ -31,3 +34,8 @@ title: +रुद्रः
     - दिवः पतिस् तु रुद्रो भाति बहुत्र (" indrota tubhyaṃ tad dive tad rudrāya svayaśase | (RV 1.129.3)")। तेनेतौ रुद्राव् इत्यप्युक्तम् - "uta tyā me raudrāv"। "Their “Raudra nature” is clearly brought out in the ṛk RV 10.93.7: uta no rudrā cin mṛḻatām aśvinā : Also, though being Rudra-s, may the Aśvin-s be merciful. ... Consistent with this, they share their medical prowess with Rudra (as physicians of the gods) and even more tellingly also their knowledge of poisons with Rudra."
     - भवशर्वाभ्यां सह सम्बन्धस्योह उपर्युक्तो रुद्रविभागे।
 - " it is plausible that the term Rudravartanī and the association of the Aśvin-s with Rudra have an astronomical significance. In the classic nakṣatra system that developed by the time of the AV and the YV the Aśvin-s are associated with the constellation of Aśvayujau which corresponds to part of Aries. However, the obvious constellation that resembles the divine twins is Gemini, which was recognized as the Dioscuri in the Greek tradition. ... a potential connection is seen in RV 10.39.11 where the Aśvin-s are called Rudravartanī and explicitly linked Aditi ... O Aśvins, you who are easy to invoke, follow the track of Rudra. "
+
+## कुमारः
+- शिवात्मजः पुराणेषु। 
+- खय् आकाशगङ्गायाः पार्श्वे शरवणे रुद्रस्य रेतसो जातः, अग्निना कृत्तिकाभिश्च वर्धितः।
+- तस्मात् स्कन्दविशाखौ जातौ। विशाखा नक्षत्रं खचक्रे कृत्तिकाया विपरीतदिशि हि वर्तते। 
