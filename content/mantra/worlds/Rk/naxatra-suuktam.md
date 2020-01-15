@@ -56,6 +56,7 @@ unicode_script: devanagari
   
 {{<figure src="../../images/naxatra/wiki/mRgashIrSha.png" title="मृगशीर्षम्" class="thumbnail">}}
 {{<figure src="../../images/naxatra/stellarium/mRgashIrSham.png" title="मृगशीर्षम्" class="thumbnail">}}  
+{{<figure src="../../images/naxatra/mRgashiras-tilak.png" title="मृगशीर्षम् (Tilak)" class="thumbnail">}}  
 +++(Orion belt)+++
   
 सोमो॒ राजा॑ मृगशी॒र्॒षेण॒ आगन्न्॑ +++(=आयातु)+++। शि॒वन् नक्ष॑त्रम् प्रि॒यम॑स्य॒ धाम॑।  
