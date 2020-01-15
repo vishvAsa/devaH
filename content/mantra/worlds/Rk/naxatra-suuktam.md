@@ -93,7 +93,7 @@ unicode_script: devanagari
 ### टिप्पणिः
 - "ārdrayā rudraḥ prathamānam eti । This means that he original Ārdrā was likely seen as a bright star. Now, while both \alpha Ori and \alpha Canis Majoris are bright stars, \alpha Ori is too close to Mṛgaśiras making \alpha Can Ma more likely, and is also closer to the position of the later yogatāra (\gamma Geminorum) when projected on to the ecliptic."
 - "In the brāhmaṇa on the nakṣatra ritual in TB 1.5.1.1 the name Ārdrā is replaced by Mṛgayu which is always understood as Sirius: rudrasya bāhū mṛgayavaḥ".
-- Further, this is supported by the evidence of the Aitareya Brāhmaṇa on the famed āgnimāruta-śastra recitation:  प्रजापतिबाणो हि orion belt इति। स बाणो रोहिणीम् अनुसरते प्रजापतये। पूर्णकथा [ऽत्र](../../../../kalpa/brAhmaNa/aitareya/tattva/pashupati-prajApati-rohiNI.md)।
+- Further, this is supported by the evidence of the Aitareya Brāhmaṇa on the famed āgnimāruta-śastra recitation:  प्रजापतिबाणो हि orion belt इति। स बाणो रोहिणीम् अनुसरते प्रजापतये। पूर्णकथा [ऽत्र](../../../../kalpa/brAhmaNa/aitareya/tattva/pashupati-prajApati-rohiNI/)।
 - "Further, the name Ārdrā means moist indicating a link with the wet season. The Iranian equivalent of Sirius, Tishtrya is also associated with rain suggesting that Ārdrā inherits this ancestral association."
 
 ## पुनर्वसू  
