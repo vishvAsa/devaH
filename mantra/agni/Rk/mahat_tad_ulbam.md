@@ -146,7 +146,15 @@ practice_weight: 0
 अ॒न्-उ॒ल्ब॒णं+++(=उत्कटम्)+++ व॑यत॒ जोगु॑वा॒म्+++(=स्तोतॄणाम्)+++ अपो॒+++(=कर्म)+++  
 मनु॑र् भव, ज॒नया॒ दैव्यं॒ जन॑म् ॥६
 
-अ॒क्षा॒नहो॑ नह्यतन॒+उ॒त सो॑म्या॒   
-इष्कृ॑णुध्वं रश॒ना आ+उत पिं॑शत ।  
-अ॒ष्टाव॑न्धुरं वहता॒भितो॒ रथं॒  
-येन॑ दे॒वासो॒ अन॑यन्न् अ॒भि प्रि॒यम् ॥७
+यज्ञजिगमिषवो देवाः परस्परं ब्रुवते-  
++++(खगोल+)+++अ॒क्षा॒नहो॑+++(=अक्षेषु नह्यान्)+++ नह्यतन॒+उ॒त सो॑म्या॒+++(=सोमार्हा)+++   
++++(न्)+++इष्-कृ॑णुध्वं +++(अश्वबन्धनाय)+++ रश॒ना आ+उत पिं॑शत+++(=अलङ्कुरुत)+++ ।  
+अ॒ष्टा-व॑न्धुरं+++(=सारथिनिस्थानम्)+++ वहता॒भितो॒ रथं॒  
+येन॑ दे॒वासो॒ अन॑यन्न् अ॒भि प्रि॒यम् ॥७  
++++("Yet the axle and ropes here allude to the world frame being set in place")+++
+
+अश्म॑न्वती+++(=आकाशगङ्गा)+++ रीयते॒+++(=याति)+++ सं र॑भध्व॒म्+++(=त्वरध्वम्)+++  
+उत्ति॑ष्ठत॒ प्र त॑रता सखायः ।  
+अत्रा॑ +++(नद्यां)+++ जहाम॒ ये अस॒न्न्+++(=अभवन्)+++ अशे॑वाः+++(=असुखाः)+++  
+शि॒वान् व॒यम् उत्त॑रेमा॒भि वाजा॑न्+++(=अन्नानि)+++ ॥८  
++++( It clearly mentions crossing of the river ashmanvatI to the other side where the auspicious lies. This means that the new equinoctial position laid on the other side the ashmanvatI- the heavenly river the Milky Way... One can note that if the Milky was crossed by the equinoctial colure as indicated in the picture, the period was likely in a period after 4000 BC, possibly around 3700 BC by which the crossing was definitely over)+++
