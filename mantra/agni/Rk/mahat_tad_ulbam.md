@@ -157,4 +157,17 @@ practice_weight: 0
 उत्ति॑ष्ठत॒ प्र त॑रता सखायः ।  
 अत्रा॑ +++(नद्यां)+++ जहाम॒ ये अस॒न्न्+++(=अभवन्)+++ अशे॑वाः+++(=असुखाः)+++  
 शि॒वान् व॒यम् उत्त॑रेमा॒भि वाजा॑न्+++(=अन्नानि)+++ ॥८  
-+++( It clearly mentions crossing of the river ashmanvatI to the other side where the auspicious lies. This means that the new equinoctial position laid on the other side the ashmanvatI- the heavenly river the Milky Way... One can note that if the Milky was crossed by the equinoctial colure as indicated in the picture, the period was likely in a period after 4000 BC, possibly around 3700 BC by which the crossing was definitely over)+++
++++( It clearly mentions crossing of the river ashmanvatI to the other side where the auspicious lies. This means that the new equinoctial position laid on the other side the ashmanvatI- the heavenly river the Milky Way... One can note that if the Milky was crossed by the equinoctial colure as indicated in the picture, the period was likely in a period after 4000 BC, possibly around 3700 BC by which the crossing was definitely over. - [MT](https://manasataramgini.wordpress.com/2006/11/26/the-crossing-of-ashmanvati/))+++
+
+त्वष्टा॑ मा॒या वे॑द्+++(=वेत्ति)+++ अ॒पसा॑म्+++(=शोभनकर्मवतां)+++ अ॒पस्त॑मो॒  
+बिभ्र॒त् पात्रा॑+++(णि)+++ देव॒पाना॑नि॒ शन्त॑मा ।  
+शिशी॑ते+++(=तीक्ष्णयति)+++ नू॒नं प॑र॒शुं स्वा॑य॒सं  
+येन॑ वृ॒श्चाद् एत॑शो॒+++(=नानावर्णः/ प्रकाशमान्)+++ ब्रह्म॑ण॒स्+++(=मन्त्र)+++पति॑ः ॥९
+
+स॒तो नू॒नं क॑वय॒ः सं शि॑शीत॒+++(=तीक्ष्णी कुरुत)+++  
+वाशी॑भि॒र् याभि॑र् अ॒मृता॑य॒+++(=सोमाय)+++ तक्ष॑थ ।  
+वि॒द्वांस॑ः प॒दा गुह्या॑नि कर्तन॒+++(=कुरुत)+++  
+येन॑ दे॒वासो॑ अमृत॒त्वम् आ॑न॒शुः+++(=प्राप्ताः)+++ ॥१०
+
+गर्भे॒ योषा॒म् अद॑धुर् व॒त्समा॒सन्य॑पी॒च्ये॑न॒ मन॑सो॒त जि॒ह्वया॑ ।  
+स वि॒श्वाहा॑ सु॒मना॑ यो॒ग्या अ॒भि सि॑षा॒सनि॑र्वनते का॒र इज्जिति॑म् ॥११
