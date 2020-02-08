@@ -29,7 +29,7 @@ unicode_script: devanagari
     - अन्ते ऽङ्गाराणां रक्षणकुण्डे प्रतिष्ठापनम्
 - ततः भस्मारोपणम्। "After completing the aupasanam, I cover the entire agni with the bhasma kept aside. This regulates the airflow, as well as keeps the thavidu (chaff) hot for many hours enabling it to fuse well (and form a "bun")."
 
-## चित्राणि
+### चित्राणि
 {{< figure src="../images/aupAsanam_step-00.jpg" title="Pre aupAsanam" >}}
 {{< figure src="../images/aupAsanam_step-01.jpg" title="Remove fused chaff + old dung piece" >}}
 {{< figure src="../images/aupAsanam_step-02.jpg" title="Remove ash to make a pit" >}}
