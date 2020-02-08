@@ -13,6 +13,14 @@ unicode_script: devanagari
 ## प्रदर्शनानि
 - आपस्तम्बिषु हरीशार्यो [ऽत्र](https://www.youtube.com/watch?v=pkRYT-iTi2c&list=PL63uIhJxWbgj98sDeWHQJmrKvBcirnf_9&index=7&t=0s)।
 
+### चित्राणि
+{{< figure src="../images/aupAsanam_step-00.jpg" title="Pre aupAsanam" >}}
+{{< figure src="../images/aupAsanam_step-01.jpg" title="Remove fused chaff + old dung piece" >}}
+{{< figure src="../images/aupAsanam_step-02.jpg" title="Remove ash to make a pit" >}}
+{{< figure src="../images/aupAsanam_step-03.jpg" title="Fill dung piece + chaff" >}}
+{{< figure src="../images/aupAsanam_step-05.gif" title="Replace old fused chaff + dung piece (now smoking upon exposure to air)" >}}
+{{< figure src="../images/aupAsanam_step-10.jpg" title="Post aupAsanam: cover with ash" >}}
+
 ## अग्नेः पुनर्ज्वालनम्
 - अङ्गारान् निष्कास्य पात्रान्तरे स्थाप्यित्वा
 - भस्म निष्कास्य द्रोण्याः
@@ -29,22 +37,16 @@ unicode_script: devanagari
     - अन्ते ऽङ्गाराणां रक्षणकुण्डे प्रतिष्ठापनम्
 - ततः भस्मारोपणम्। "After completing the aupasanam, I cover the entire agni with the bhasma kept aside. This regulates the airflow, as well as keeps the thavidu (chaff) hot for many hours enabling it to fuse well (and form a "bun")."
 
-### चित्राणि
-{{< figure src="../images/aupAsanam_step-00.jpg" title="Pre aupAsanam" >}}
-{{< figure src="../images/aupAsanam_step-01.jpg" title="Remove fused chaff + old dung piece" >}}
-{{< figure src="../images/aupAsanam_step-02.jpg" title="Remove ash to make a pit" >}}
-{{< figure src="../images/aupAsanam_step-03.jpg" title="Fill dung piece + chaff" >}}
-{{< figure src="../images/aupAsanam_step-05.gif" title="Replace old fused chaff + dung piece (now smoking upon exposure to air)" >}}
-{{< figure src="../images/aupAsanam_step-10.jpg" title="Post aupAsanam: cover with ash" >}}
-
 
 ### विशेषाः
-- सुवर्णकारैः प्रयुज्यमाना मृद्द्रोणी प्रशस्यते। साधारणमृद्द्रोणयः शीघ्रमेव (६ मासेषु) नश्यन्ति। "I use a pot which is fired at high temperature, used by gold smiths. It will lay a long time, many years unlike the flower pot, and is much lighter."
 - बहूनाम् - (गोमयखण्डम् -> गोधुमतुषाः) इति क्रमः।
     - किञ्च वेङ्कटेशार्यः - "I tried initially with rice thavidu.  It did not work for me... Umi (paddy hust burns too fast and gives out lot of smoke. Also one needs huge quantities. Not suitable for cities."
 - बॆङ्गळूरुनगरे चन्द्रः - Gou Jwala Bricks (made out of Cow dung + Paddy husk) + Wheat/ ravA husk
-    - "Gou Jwala Bricks: They are available from Sri Ramachandrapur Matha Giri Nagar. If you are willing to pay auto charge (about 300 to maybe 400 depending on the distance) they deliver it to home. 2 pieces per day required. ... Gomaya Kanda / Vratti made for commercial purposes tend to have mud + plastic cover pieces etc. (How does one find mud mixed in this ? Two ways #1. It smokes a lot more #2. Crush the ashes post Homa with hand... You can feel the fine grains of sand that will remain.) Bricks from Sri Ramachandrapur Matha is extremely good. It's also from native cow breeds. "
 
+### आकराः
+- सुवर्णकारैः प्रयुज्यमाना मृद्द्रोणी प्रशस्यते। साधारणमृद्द्रोणयः शीघ्रमेव (६ मासेषु) नश्यन्ति। "I use a pot which is fired at high temperature, used by gold smiths. It will lay a long time, many years unlike the flower pot, and is much lighter."
+- Chaff: "If you want to buy in bulk, you will get in New Tharagupet near city Market. They sell by bag of 45 kg. If you want to buy smaller quantities, check out in cattle feed shops near your place"
+- "Gou Jwala Bricks: They are available from Sri Ramachandrapur Matha Giri Nagar. If you are willing to pay auto charge (about 300 to maybe 400 depending on the distance) they deliver it to home. 2 pieces per day required. ... Gomaya Kanda / Vratti made for commercial purposes tend to have mud + plastic cover pieces etc. (How does one find mud mixed in this ? Two ways #1. It smokes a lot more #2. Crush the ashes post Homa with hand... You can feel the fine grains of sand that will remain.) Bricks from Sri Ramachandrapur Matha is extremely good. It's also from native cow breeds. "
 
 ## होमक्रमः
 - ध्यानश्लोकः -  
