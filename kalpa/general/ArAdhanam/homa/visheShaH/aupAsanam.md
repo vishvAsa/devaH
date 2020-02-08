@@ -75,8 +75,9 @@ My current understanding of the last part - having performed the combined aupAsa
 The combination itself, I presume, can happen by the following sequence: agnaye svAhA, sUryAya svAhA, agnaye sviShTakRte svAhA surrounded by parishechanas, and perhaps with an upasthAna.
 
 ## शब्दावली
-- thaviDu - bran
-- umi - husk
+### द्राविडी
+- thaviDu - bran - बुषम्
+- umi - husk/ chaff
 - muTTaan - dung ball
 - varaTTi - compressed dung cake
 - srai - twigs
