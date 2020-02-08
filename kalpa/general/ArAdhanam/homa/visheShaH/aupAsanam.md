@@ -17,11 +17,20 @@ unicode_script: devanagari
 - अङ्गारान् निष्कास्य पात्रान्तरे स्थाप्यित्वा
 - भस्म निष्कास्य द्रोण्याः
 - गोमयखण्डे / गोज्वालेष्टिका वा स्थापयित्वा
-- तदुपरि पात्रान्तरे पूर्वं स्थापितान् अङ्गारान् प्रतिष्ठाप्य
-- तदुपरि गोमखण्डानि समिच्च स्थापयित्वा
-- धमन्या ऽऽग्निं पुनर् ज्वालयित्वा,
-- होमे ऽनुवर्तनम्। धमनीप्रयोगो यथापेक्षः।
+- अग्निरक्षणस्थान एव होमे क्रियमाणे
+    - तदुपरि पात्रान्तरे पूर्वं स्थापितान् अङ्गारान् प्रतिष्ठाप्य
+    - तदुपरि गोमखण्डानि समिच्च स्थापयित्वा
+    - धमन्या ऽऽग्निं पुनर् ज्वालयित्वा,
+    - होमे ऽनुवर्तनम्। धमनीप्रयोगो यथापेक्षः।
+- कुण्डान्तरे होमे क्रियमाणे
+    - होमे ऽनुवर्तनम्। धमनीप्रयोगो यथापेक्षः।
+    - अन्ते ऽङ्गाराणां रक्षणकुण्डे प्रतिष्ठापनम्
 
+### अग्निरक्षणविचाराः
+- सुवर्णकारैः प्रयुज्यमाना मृद्द्रोणी प्रशस्यते। साधारणमृद्द्रोणयः शीघ्रमेव (६ मासेषु) नश्यन्ति।
+- चॆन्नैनगरे - (गोमयखण्डम् -> गोधुमतुषाः -> तण्डुलतुषाः) इति क्रमः। तत्र तण्डुलत्वचस् सुलभा इति। तेन धूमो ऽल्पो भवति।
+- बॆङ्गळूरुनगरे चन्द्रः - Gou Jwala Bricks (made out of Cow dung + Paddy husk) + Wheat/ ravA husk
+    - "Gou Jwala Bricks: They are available from Sri Ramachandrapur Matha Giri Nagar. If you are willing to pay auto charge (about 300 to maybe 400 depending on the distance) they deliver it to home. 2 pieces per day required. ... Gomaya Kanda / Vratti made for commercial purposes tend to have mud + plastic cover pieces etc. (How does one find mud mixed in this ? Two ways #1. It smokes a lot more #2. Crush the ashes post Homa with hand... You can feel the fine grains of sand that will remain.) Bricks from Sri Ramachandrapur Matha is extremely good. It's also from native cow breeds. "
 
 ## होमक्रमः
 - ध्यानश्लोकः -  
@@ -35,12 +44,6 @@ unicode_script: devanagari
 - प्रातः - सूर्याय/ अग्नये वा स्वाहा।  
 सायम् - अग्नये स्वाहा।  
 अग्नये स्विष्टकृते स्वाहा।
-
-## अग्निरक्षणविचाराः
-- सुवर्णकारैः प्रयुज्यमाना मृद्द्रोणी प्रशस्यते। साधारणमृद्द्रोणयः शीघ्रमेव (६ मासेषु) नश्यन्ति।
-- चॆन्नैनगरे - (गोमयखण्डम् -> गोधुमतुषाः -> तण्डुलतुषाः) इति क्रमः। तत्र तण्डुलत्वचस् सुलभा इति। तेन धूमो ऽल्पो भवति।
-- बॆङ्गळूरुनगरे चन्द्रः - Gou Jwala Bricks (made out of Cow dung + Paddy husk) + Wheat/ ravA husk
-    - "Gou Jwala Bricks: They are available from Sri Ramachandrapur Matha Giri Nagar. If you are willing to pay auto charge (about 300 to maybe 400 depending on the distance) they deliver it to home. 2 pieces per day required"
 
 ## आपन्नियमाः
 ### तन्त्रेण
