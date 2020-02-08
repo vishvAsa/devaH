@@ -12,14 +12,15 @@ unicode_script: devanagari
 
 ## प्रदर्शनानि
 - आपस्तम्बिषु हरीशार्यो [ऽत्र](https://www.youtube.com/watch?v=pkRYT-iTi2c&list=PL63uIhJxWbgj98sDeWHQJmrKvBcirnf_9&index=7&t=0s)।
+- आश्वलायनेषु सायिकिरणो [अत्र](https://www.youtube.com/watch?v=Lkv8rZBOhtE&list=PL63uIhJxWbgj98sDeWHQJmrKvBcirnf_9&index=10)।
 
 ### चित्राणि
-{{< figure src="../images/aupAsanam_step-00.jpg" title="Pre aupAsanam" class="thumbnail">}}
+{{< figure src="../images/aupAsanam_step-00.jpg" title="Pre aupAsanam. Negligible smoke." class="thumbnail">}}
 {{< figure src="../images/aupAsanam_step-01.jpg" title="Remove fused chaff + old dung piece"  class="thumbnail">}}
 {{< figure src="../images/aupAsanam_step-02.jpg" title="Remove ash to make a pit"  class="thumbnail">}}
 {{< figure src="../images/aupAsanam_step-03.jpg" title="Fill dung piece + chaff"  class="thumbnail">}}
 {{< figure src="../images/aupAsanam_step-05.gif" title="Replace old fused chaff + dung piece (now smoking upon exposure to air)"  class="thumbnail">}}
-{{< figure src="../images/aupAsanam_step-10.jpg" title="Post aupAsanam: cover with ash"  class="thumbnail">}}
+{{< figure src="../images/aupAsanam_step-10.jpg" title="Post aupAsanam: cover with ash. Negligible smoke."  class="thumbnail">}}
 
 ## अग्नेः पुनर्ज्वालनम्
 - अङ्गारान् निष्कास्य पात्रान्तरे स्थाप्यित्वा
@@ -47,6 +48,7 @@ unicode_script: devanagari
 - सुवर्णकारैः प्रयुज्यमाना मृद्द्रोणी प्रशस्यते। साधारणमृद्द्रोणयः शीघ्रमेव (६ मासेषु) नश्यन्ति। "I use a pot which is fired at high temperature, used by gold smiths. It will lay a long time, many years unlike the flower pot, and is much lighter."
 - Chaff: "If you want to buy in bulk, you will get in New Tharagupet near city Market. They sell by bag of 45 kg. If you want to buy smaller quantities, check out in cattle feed shops near your place"
 - "Gou Jwala Bricks: They are available from Sri Ramachandrapur Matha Giri Nagar. If you are willing to pay auto charge (about 300 to maybe 400 depending on the distance) they deliver it to home. 2 pieces per day required. ... Gomaya Kanda / Vratti made for commercial purposes tend to have mud + plastic cover pieces etc. (How does one find mud mixed in this ? Two ways #1. It smokes a lot more #2. Crush the ashes post Homa with hand... You can feel the fine grains of sand that will remain.) Bricks from Sri Ramachandrapur Matha is extremely good. It's also from native cow breeds. "
+- Dung pieces: "We have indian native cows in the next farm. One bucket of cow dung will make about 200 muttan, enough for 3 months. But you will get the same outcome if you use thick cow dung cake (virattis) or the ones Chander uses from R'pura mutt."
 
 ## होमक्रमः
 - ध्यानश्लोकः -  
