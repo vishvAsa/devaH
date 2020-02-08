@@ -38,7 +38,6 @@ unicode_script: devanagari
     - अन्ते ऽङ्गाराणां रक्षणकुण्डे प्रतिष्ठापनम्
 - ततः भस्मारोपणम्। "After completing the aupasanam, I cover the entire agni with the bhasma kept aside. This regulates the airflow, as well as keeps the thavidu (chaff) hot for many hours enabling it to fuse well (and form a "bun")."
 
-
 ### विशेषाः
 - बहूनाम् - (गोमयखण्डम् -> गोधुमतुषाः) इति क्रमः।
     - किञ्च वेङ्कटेशार्यः - "I tried initially with rice thavidu.  It did not work for me... Umi (paddy hust burns too fast and gives out lot of smoke. Also one needs huge quantities. Not suitable for cities."
