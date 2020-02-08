@@ -14,12 +14,12 @@ unicode_script: devanagari
 - आपस्तम्बिषु हरीशार्यो [ऽत्र](https://www.youtube.com/watch?v=pkRYT-iTi2c&list=PL63uIhJxWbgj98sDeWHQJmrKvBcirnf_9&index=7&t=0s)।
 
 ### चित्राणि
-{{< figure src="../images/aupAsanam_step-00.jpg" title="Pre aupAsanam" >}}
-{{< figure src="../images/aupAsanam_step-01.jpg" title="Remove fused chaff + old dung piece" >}}
-{{< figure src="../images/aupAsanam_step-02.jpg" title="Remove ash to make a pit" >}}
-{{< figure src="../images/aupAsanam_step-03.jpg" title="Fill dung piece + chaff" >}}
-{{< figure src="../images/aupAsanam_step-05.gif" title="Replace old fused chaff + dung piece (now smoking upon exposure to air)" >}}
-{{< figure src="../images/aupAsanam_step-10.jpg" title="Post aupAsanam: cover with ash" >}}
+{{< figure src="../images/aupAsanam_step-00.jpg" title="Pre aupAsanam" class="thumbnail">}}
+{{< figure src="../images/aupAsanam_step-01.jpg" title="Remove fused chaff + old dung piece"  class="thumbnail">}}
+{{< figure src="../images/aupAsanam_step-02.jpg" title="Remove ash to make a pit"  class="thumbnail">}}
+{{< figure src="../images/aupAsanam_step-03.jpg" title="Fill dung piece + chaff"  class="thumbnail">}}
+{{< figure src="../images/aupAsanam_step-05.gif" title="Replace old fused chaff + dung piece (now smoking upon exposure to air)"  class="thumbnail">}}
+{{< figure src="../images/aupAsanam_step-10.jpg" title="Post aupAsanam: cover with ash"  class="thumbnail">}}
 
 ## अग्नेः पुनर्ज्वालनम्
 - अङ्गारान् निष्कास्य पात्रान्तरे स्थाप्यित्वा
