@@ -81,5 +81,5 @@ The combination itself, I presume, can happen by the following sequence: agnaye 
     - Godi bhusa (coarse variety), Rava bhusa (fine wheat  bran)
 - umi - husk/ chaff - तुषः 
 - muTTaan - dung ball - gomaya goLa or sagaNi goLa
-- varaTTi - compressed dung cake
-- srai - twigs
+- varaTTi - compressed dung cake - beraNI.
+- srai - twigs - chakke
