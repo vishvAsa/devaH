@@ -76,8 +76,10 @@ The combination itself, I presume, can happen by the following sequence: agnaye 
 
 ## शब्दावली
 ### द्राविडी
-- thaviDu - bran - बुषम्
-- umi - husk/ chaff
-- muTTaan - dung ball
+- godhUma - wheat - गोधूम - godi
+- thaviDu - bran - बुषम् - bhUsA - भूसा
+    - Godi bhusa (coarse variety), Rava bhusa (fine wheat  bran)
+- umi - husk/ chaff - तुषः 
+- muTTaan - dung ball - gomaya goLa or sagaNi goLa
 - varaTTi - compressed dung cake
 - srai - twigs
