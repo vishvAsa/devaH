@@ -15,3 +15,6 @@ Even though, fundamentally, there is no sacred vs profane distinction in the hin
 
 #### Participation by abstinence
 - "When you participate in a religion, you do so, not only by doing what you are obligated to do, or doing something optional but allowed for you, but also by not doing what is prohibited. ..." {[GA18](https://aryanthought.wordpress.com/2018/07/22/a-short-discussion-on-pertinent-issues-presented-by-the-sabarimala-matter/)}
+
+## Ritual as modeling
+"The gods do not merely receive veneration or sacrifice; they perform ritual and thus ratify it, conferring upon it ultimacy; the same ritual performance is thereby inaugurated in the mortal realm."
