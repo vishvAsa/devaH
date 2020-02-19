@@ -9,6 +9,10 @@ unicode_script: devanagari
   - तेन विवाहे गृहस्थाश्रमे सर्वोत्तमे च श्रद्धा वर्धते, तयोस् सामरस्यञ्च। विशिष्य यदि दम्पती स्मरतो विस्मयेन सौन्दर्यांशम् इदम्।
 - स्रोतांसि
   - धर्मसिन्धाव् [अत्र](https://archive.org/details/DHARMASINDHU/page/n253)।
+
+<div class="js_include" url="../angAni/agni-raxA.md"  newLevelForH1="2" includeTitle="true"> </div>  
+
+## होमक्रमः
 - ध्यानश्लोकः -  
 धर्मस्य मूर्तिः पितृभिः प्रदत्ता  
 मुखं सुराणाञ्च विवाहसाक्षी।  
@@ -33,4 +37,12 @@ My current understanding of the last part - having performed the combined aupAsa
 
 The combination itself, I presume, can happen by the following sequence: agnaye svAhA, sUryAya svAhA, agnaye sviShTakRte svAhA surrounded by parishechanas, and perhaps with an upasthAna.
 
-
+## शब्दावली
+### द्राविडी
+- godhUma - wheat - गोधूम - godi
+- thaviDu - bran - बुषम् - bhUsA - भूसा
+    - Godi bhusa (coarse variety), Rava bhusa (fine wheat  bran)
+- umi - husk/ chaff - तुषः 
+- muTTaan - dung ball - gomaya goLa or sagaNi goLa
+- varaTTi - compressed dung cake - beraNI.
+- srai - twigs - chakke
