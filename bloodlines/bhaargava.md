@@ -50,6 +50,7 @@ title: भार्गवाः
 ## द्वितीयजन्मनि भृगुः
 - वैवस्वतमन्वन्तरे प्रजापतिर् ब्रह्मसूनुर् अग्नौ जातो वरुणस्य ब्रह्मयज्ञे। वरुणेन तत्पत्न्या चर्षण्या च वर्धितः।
     - पत्नी पुलोमा।
+    - "bhR^igu created rakSha-s to attack rudra's party on behalf of dakSha; shukra stole kubera's wealth and fought a battle with rudra; bhR^igu's wife paulomI hid the asura-s from the deva-s and was beheaded by viShNu."
     - यस्याश्रमो ऽभूत् सरस्वती-दृशद्वती-नद्योस् सङ्गमे। 
     - असौ ब्रह्मविष्णुमहेश्वरान् अपि धर्षयाञ्चकार। तस्यैव पादस्य चिह्नं विष्णोरुरसि **श्रीवत्स** इति।
     - कृतवीर्यस्य हैहयस्य राज्ञो गुरुर् भृगुः। तद्दानात् समृद्धा भार्गवाः। कार्तवीर्या ईर्षया ऽपहृतवन्तस् तद्धनम्, तयोर् वैरं जातम्।
@@ -60,7 +61,7 @@ title: भार्गवाः
         - "The references in the atharva veda and the older cycles of the bhArgava myth in the mahabhArata, suggest that the core of these events concerned a historical struggle between the bhR^igus and the haihaya rulers of mAhiShmati. However, the later pauraNic redactions of the myth, and late reinsertion in the mahAbhArata seem to have given it the color of a general struggle between the kShatriyas and brahmins+rest of castes. I believe that this generalization was actually inspired again by a similar constellation of much later historical events that inspired the manu smR^iti’s reaction to the shudra threat. These events were most probably the oppressive rule of the nanda-s, colored to certain degree by the atrocities of the foreign rulers (described as shudras by the manu smR^iti) around the same time. The victory of the brAhmaNa ruler puShyamitra shu~Nga, probably inspired a mythological reworking, in which his clan’s glorious victories were compared to the historical struggle of parashurAma, and that tale romanticized to its extant mythological form. It is not a matter of coincidence that the politically pre-eminant brahmin clan, the bhArgavas were involved, both in the generalization of their family epic (the parashurAma epic) and the redaction of the manu smR^iti into its extant form." \[[MT](https://manasataramgini.wordpress.com/2004/09/01/inter-caste-strife/)\]
 
 ### प्रजाः
-- एकादशरुद्रा रुद्रपार्षदाश् चापि भृगुसूनवः भूतायाम्। सरूपायान्तु १००० रुद्राः।
+- एकादशरुद्रा रुद्रपार्षदाश् चापि भृगुसूनवः भूतायाम् पत्न्याम्। सरूपायान्तु १००० रुद्राः।
 
 #### शुक्रः 
 - उशनाः भृगुपुत्रो दैत्यगुरुर् नीतिशास्त्रकृत्। हिरण्यकशिपु-प्रह्लाद-बलि-प्रभृतिभ्यः पुरोहितः। शशाप विष्णुं स्वमातृहन्तारं ७धा भुवि जातुम्। देवयानीपिता। 
@@ -117,7 +118,10 @@ title: भार्गवाः
 - शुनोलाङ्गूलः
 
 #### जमदग्निः
-- और्वपौत्रः ऋचीकपुत्रः। एष खलु परशु-रामपिता रेणुकापतिस् तपस्वी। रेणुका क्षत्रियजन्मा। कार्त्तवीर्यार्जुनस्यातिथ्यं चकार स्वस्य कामधेन्वा। स हीर्षया तां जग्राह धेनम्। क्रोधस्योपरि जयस्य कथा [ऽत्र](https://twitter.com/ravikumarg14/status/994188259151499264)। 
+- और्वपौत्रः ऋचीकपुत्रः। एष खलु परशु-रामपिता रेणुकापतिस् तपस्वी। कार्त्तवीर्यार्जुनस्यातिथ्यं चकार स्वस्य कामधेन्वा। स हीर्षया तां जग्राह धेनम्। क्रोधस्योपरि जयस्य कथा [ऽत्र](https://twitter.com/ravikumarg14/status/994188259151499264)। 
+- रेणुका क्षत्रियजन्मा।
+    - ([MT](https://manasataramgini.wordpress.com/2006/03/06/the-death-of-renuka/)). " The tale goes that the mighty jamadagni was practising archery, when she used to go and collect the arrows he used to shoot at the targets. She was distressed in course of this activity by the sun’s heat, when jamadgni is supposed to have threatened to hit the sun with his great astras. This had the gods give reNukA shade to help her with the sun. But there is not much doubt despite later day euphemisms that she did clearly have an affair with the [Yadu] prince of mArtikavata... But many have asked me the question what happened to reNukA after her son rAma restored her to jamadagni’s grace. The history states that she indeed redeemed herself. The fierce vItahavyas, protected by the Atreya’s prayogas, bent on revenge, breached the defenses of jamadagni and attacked him while he was deep in meditation. While a once fiery archer, the old bhR^igu was now in meditation and his valiant sons were far away. reNukA boldly picked up jamadagni’s weapons and stood in the path of the vItihotras, tAlajhanga and tuNDikeras who rushed in with their bows upraised. They struck her their missiles and killed her. It is said she received 21 wounds before falling dead. Then they struck jamadagni with the dattAtreya missiles. jamadagni’s brahman power was vaporized by the weapons charged with the atri’s brahman and he dropped dead. With that the Atreya had got back the brahman power of the atris that had been sucked out by our fiery ancestor aurva."
+    - "1 persistent narrative is that she obtained the cures of for various poxes and herpes after being banished by j for the adultery from the ashvin-s. She then returned to j with her blemishes cleared with these cures. Now yellamma appears to have been a folk goddess of the poxes. That seems to have been fused with reNukA and mixed with the adultery and beheading tales. interestingly, the 21 wounds reNukA received in the above-linked tale while attempting to defend jamadagni from the vItahavya-s are said to be the marks of the poxes associated with yellammA. .... even in the eastern Dravidian country the folk story of the origin of mArI disconnects her from the shaiva tradition and instead has her emerge from reNukA after reNUkA's head was placed on the body of her servant named chakkalachi. In some Tam mArI temples you will see a figure of a v1 which is none other than jamadagni bhArgava. There are also two other curious figures associated with her. A bull-headed attend called poTTurAja and a v3 hero who also serves as her servant."
 
 ##### प्रजाः 
 - भार्गवो रामः
