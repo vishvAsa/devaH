@@ -1,3 +1,7 @@
+---
+title: संहितायाः पदपाठः
+unicode_script: devanagari
+---
 
 
   
