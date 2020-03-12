@@ -183,7 +183,7 @@ unicode_script: devanagari
 <div class="js_include" url="../../agni/Rk/tvan_no_agne.md"  newLevelForH1="4" includeTitle="true"> </div>  
 
 #### अश्मानमास्थापयति
-<div class="js_include" url="../../misc-devas/Rk/ashmArohaNam.md"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="../../misc-devas/Rk/dAmpatyam/ashmArohaNam.md"  newLevelForH1="4" includeTitle="true"> </div>  
 
 ### लाजहोमः  
 इ॒यन् ना॒र्य् उप॑ब्रूते॒  
@@ -194,10 +194,10 @@ unicode_script: devanagari
 ### प्रदक्षिणमन्त्राः
 <div class="js_include" url="../../agni/Rk/tubhyam_agre_paryavahan.md"  newLevelForH1="4" includeTitle="true"> </div>  
 
-<div class="js_include" url="../../misc-devas/Rk/vishvA_uta_tvayA.md"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="../../agni/Rk/vishvA_uta_tvayA.md"  newLevelForH1="4" includeTitle="true"> </div>  
 
 #### अश्मानमास्थापयति
-<div class="js_include" url="../../misc-devas/Rk/ashmArohaNam.md"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="../../misc-devas/Rk/dAmpatyam/ashmArohaNam.md"  newLevelForH1="4" includeTitle="true"> </div>  
 
 ### द्वितीयो लाजहोमः  
 अ॒र्य॒मण॒न् नु+++(=क्षिप्रं)+++ दे॒वं  
@@ -207,10 +207,10 @@ unicode_script: devanagari
 
 
 <div class="js_include" url="../../agni/Rk/tubhyam_agre_paryavahan.md"  newLevelForH1="4" includeTitle="true"> </div>  
-<div class="js_include" url="../../misc-devas/Rk/vishvA_uta_tvayA.md"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="../../agni/Rk/vishvA_uta_tvayA.md"  newLevelForH1="4" includeTitle="true"> </div>  
 
 #### अश्मानमास्थापयति
-<div class="js_include" url="../../misc-devas/Rk/ashmArohaNam.md"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="../../misc-devas/Rk/dAmpatyam/ashmArohaNam.md"  newLevelForH1="4" includeTitle="true"> </div>  
 
 ### तृतीयो लाजहोमः 
 त्वम॑र्य॒मा भ॑वसि॒ यत् क॒नी+++(न्या)+++ना॒न्  
@@ -221,10 +221,10 @@ unicode_script: devanagari
 #### प्रदक्षिणमन्त्राः
 <div class="js_include" url="../../agni/Rk/tubhyam_agre_paryavahan.md"  newLevelForH1="4" includeTitle="true"> </div>  
 
-<div class="js_include" url="../../misc-devas/Rk/vishvA_uta_tvayA.md"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="../../agni/Rk/vishvA_uta_tvayA.md"  newLevelForH1="4" includeTitle="true"> </div>  
 
 #### अश्मानमास्थापयति
-<div class="js_include" url="../../misc-devas/Rk/ashmArohaNam.md"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="../../misc-devas/Rk/dAmpatyam/ashmArohaNam.md"  newLevelForH1="4" includeTitle="true"> </div>  
 
 ### योक्त्त्रं विमुञ्चति 
 प्र त्वा॑ मुञ्चामि॒ वरु॑णस्य॒ पाशा॒द्  
