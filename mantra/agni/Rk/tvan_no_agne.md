@@ -1,6 +1,7 @@
 ---
 title: त्वन्नो अग्ने
 unicode_script: devanagari
+practice_weight: 5
 ---
 
 त्वन्नो॑ अग्ने॒ वरु॑णस्य वि॒द्वान्  
