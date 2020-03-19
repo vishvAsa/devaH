@@ -1,5 +1,5 @@
 ---
-title: मन्त्रेषु
+title: अन्धचितिः
 unicode_script: devanagari
 
 ---
@@ -10,7 +10,7 @@ unicode_script: devanagari
 function getSelectionWeight(url) {
   var cleanedUrl = url.replace("//", "/");
   let pageParams = module_dir_tree.getPageParams(cleanedUrl);
-  if (!cleanedUrl.startsWith("/mantra/") || cleanedUrl.includes("/sangrahAH/") || cleanedUrl.includes("/meta/") || pageParams.logicalName == "_index.md") {
+  if (!cleanedUrl.startsWith("/mantraH/viShNuH/") || cleanedUrl.includes("/sangrahAH/") || cleanedUrl.includes("/meta/") || pageParams.logicalName == "_index.md") {
     return 0;
   }
   if (!pageParams || !pageParams.hasOwnProperty("practice_weight")) {
