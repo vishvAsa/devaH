@@ -4,7 +4,7 @@ unicode_script: devanagari
 
 ---
 
-सायणो [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_5_-_Kasinath_Sastri_Agase_1946#page/n92/mode/1up)। ब्राह्मणम् [अत्र](../../../../kalpa/brAhmaNa/taittirIya/tattva/vidhi-shraddhA/)।
+सायणो [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_5_-_Kasinath_Sastri_Agase_1946#page/n92/mode/1up)। ब्राह्मणम् [अत्र](../../../../kalpaH/brAhmaNam/taittirIyam/tattvam/vidhi-shraddhA/)।
 
 ॐ +++(फलं)+++ तच् छं॒योर् +++(बार्हस्पत्याद्)+++ आवृ॑णीमहे ।  
 +++(देवान्)+++ गा॒तुं +++(=गमयितुं हवींषि)+++ य॒ज्ञाय॑, गा॒तुं य॒ज्ञप॑तये ।
