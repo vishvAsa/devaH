@@ -89,7 +89,7 @@ practice_weight: 0
 +++(तयोः)+++ विश्वा॑न्य् अ॒न्यो +++(सूर्यः)+++ भुव॑ना ऽभि॒चष्ट॑  
 ऋ॒तूँर् अ॒न्यो +++(चन्द्रमा)+++ वि॒दध॑ज् जायते॒ पुनः॑ ॥१८
 
-<div class="js_include" url="../../soma/Rk/navo_navo_bhavati.md"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="../../somaH/Rk/navo_navo_bhavati.md"  newLevelForH1="3" includeTitle="false"> </div>  
 
 ### अनुषङ्गाः
 सु॒किं॒शु॒कं श॑ल्म॒लिं वि॒श्वरू॑पं॒  
