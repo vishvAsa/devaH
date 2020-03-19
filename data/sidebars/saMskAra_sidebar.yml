@@ -4,16 +4,16 @@ title: भागाः
 contents:
   - title: मन्त्राः
     contents:
-      - url: recdir://mantra/
+      - url: recdir://mantraH/
   - title: कल्पः
     contents:
-        - url: recdir://kalpa/
+        - url: recdir://kalpaH/
   - title: वंशाः
     contents:
       - url: recdir://bloodlines/
   - title: ज्यौतिषम्
     contents:
-      - url: recdir://jyotisha
+      - url: recdir://jyotisham
   - title: संस्कृतम्
     contents:
       - url: recdir://sanskrit/

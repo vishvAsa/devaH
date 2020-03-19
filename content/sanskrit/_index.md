@@ -8,7 +8,7 @@ title: +रुचिरपत्त्राणि
     - sanskrit [code](https://sanskrit-coders.github.io/site/index.html).
 - saMskRta spreadsheets Copying encouraged :).
 
-- पाणिनीय[-व्याकरणे अत्र।](vyAkaraNa/)
+- पाणिनीय[-व्याकरणे अत्र।](vyAkaraNam/)
 - [अष्टाध्यायी-मूलस्रोतः](https://ashtadhyayi.github.io/ui/)।
 - [kosha](https://docs.google.com/spreadsheet/pub?key=0Al_QBT-hoqqVdEZuaS1GOFVSMjBSblFSbUVsczZyYWc&gid=4) (containing amarakosha, as explored in Shivaja Nair's thesis) \[as [spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0Al_QBT-hoqqVdE9faHc2eWlvaGFaUjFoc1JMT25ySlE#gid=10)\].
 - [काव्यार्थः, अर्थालङ्काराश्च](https://docs.google.com/spreadsheet/ccc?key=0Al_QBT-hoqqVdEdoc19BN0NESFlQSTh3QWMzMXRpSFE#gid=16)
