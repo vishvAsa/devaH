@@ -11,7 +11,7 @@ unicode_script: devanagari
 
 ## ऋक्
 
-<div class="js_include" url="../../indra/Rk/yad-dyAva.md"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../../indraH/Rk/yad-dyAva.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
 
 ## साम
@@ -76,7 +76,7 @@ unicode_script: devanagari
 हा+++([])+++ओवा॥चतुः॥हु+++([])+++वे।ह+++([])+++ओवा॥एवं चतुः॥ना+++([])+++जा, तमष्टरोऒ,दासाइ।ऐ+++([])+++होइ।आ+++([])+++इहि॥एवं चतुः॥ह+++([])+++ओवा॥पंच॥हु+++([])+++वे।ह+++([])+++ओवा॥एवं पंच॥है+++([])+++है हैहोवा॥पंच॥है+++([])+++है हैहोवाअ।ह+++([])+++उवाअ।ऊ+++([])+++उउ॥౽॥
 
 
-<div class="js_include" url="../../indra/paravastu-saama/idaM-hi-no-ojasA-ghRtasUktam.md"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../../indraH/paravastu-saama/idaM-hi-no-ojasA-ghRtasUktam.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
 ## ऋक्
 
@@ -91,11 +91,11 @@ unicode_script: devanagari
 
 <div class="js_include" url="../../misc-devas/Rk/tat-shaMyoH.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
-<div class="js_include" url="../../misc-devas/yajus/shanno-mitraH.md"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../../misc-devas/yajuH/shanno-mitraH.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
-<div class="js_include" url="../../misc-devas/yajus/sahanAvavatu.md"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../../misc-devas/yajuH/sahanAvavatu.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
-<div class="js_include" url="../../misc-devas/yajus/bhadraM-karNebhiH.md"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../../misc-devas/yajuH/bhadraM-karNebhiH.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
 ## ऋक्
 
@@ -132,7 +132,7 @@ unicode_script: devanagari
 अमां, धा, असाः।आ+++([])+++,अभि।वा+++([])+++त्सं, नास्वा।सारा+++([])+++इ।षू+++([])+++,धॆए, नावाः।आ+++([])+++,अइंद्रां।गा+++([])+++इर्भी, र्नावोवा, अ।मा+++([])+++,हेए॥౽॥
 
 ## ऋक्
-<div class="js_include" url="../../indra/Rk/mArgIyavam.md"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../../indraH/Rk/mArgIyavam.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
 ## साम
 त+++([])+++द्वो, गाया अ।सु+++([])+++ताइ, सचा, अ।पू+++([])+++रू, हु, उता,अअ।आ+++([])+++,होओ।या+++([])+++,सत्वानाइ।शं+++([])+++यत् गा, अवॆ।ना+++([])+++शौ+++([])+++उ।हौ+++([])+++,उहु+++([])+++वोवा+++([])+++।का+++([])+++इनोंहाइ॥౽॥
@@ -227,13 +227,13 @@ unicode_script: devanagari
 
 # पवित्रवर्गः।
 
-<div class="js_include" url="../../jala/Rk/Apo-hi-ShThA.md"  newLevelForH1="2" includeTitle="true"> </div> 
+<div class="js_include" url="../../jalam/Rk/Apo-hi-ShThA.md"  newLevelForH1="2" includeTitle="true"> </div> 
 
-<div class="js_include" url="../../soma/paravastu-saama/tarat-sa-mandI.md"  newLevelForH1="2" includeTitle="true"> </div> 
+<div class="js_include" url="../../somaH/paravastu-saama/tarat-sa-mandI.md"  newLevelForH1="2" includeTitle="true"> </div> 
 
-<div class="js_include" url="../../soma/Rk/yaH-pAvamAnIH.md"  newLevelForH1="2" includeTitle="true"> </div> 
+<div class="js_include" url="../../somaH/Rk/yaH-pAvamAnIH.md"  newLevelForH1="2" includeTitle="true"> </div> 
 
-<div class="js_include" url="../../indra/paravastu-saama/eto-nvindram.md"  newLevelForH1="2" includeTitle="true"> </div> 
+<div class="js_include" url="../../indraH/paravastu-saama/eto-nvindram.md"  newLevelForH1="2" includeTitle="true"> </div> 
 
 
 इंद्र शुद्धोहिनोरयं। शुद्धो रत्नानि दाशुषे।शुद्धो वृत्राणि जघ्नसे। शुद्धो वाजं शिषासती।
@@ -241,7 +241,7 @@ unicode_script: devanagari
 
 <div class="js_include" url="../../misc-devas/paravastu-saama/somaM-rAjAnam.md"  newLevelForH1="2" includeTitle="true"> </div> 
 
-<div class="js_include" url="../../indra/paravastu-saama/yata-indra.md"  newLevelForH1="2" includeTitle="true"> </div> 
+<div class="js_include" url="../../indraH/paravastu-saama/yata-indra.md"  newLevelForH1="2" includeTitle="true"> </div> 
 
 <div class="js_include" url="../../worlds/paravastu-saama/brahma-jajJNAnam.md"  newLevelForH1="2" includeTitle="true"> </div> 
 

@@ -17,7 +17,7 @@ practice_weight: 0
 या न॑ ऊ॒रू उ॑श॒ती+++(=कामयमाना)+++ वि॒श्रया॑ते॒  
 यस्या॑म् उ॒शन्तः॑+++(=कामयमाना)+++ प्र॒हरा॑म॒ शेप॑म् ॥३७
 
-<div class="js_include" url="../../../agni/Rk/tubhyam_agre_paryavahan.md"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../../../agniH/Rk/tubhyam_agre_paryavahan.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
 सोमः॑ प्रथ॒मो वि॑विदे  
 गन्ध॒र्वो वि॑विद॒ उत्त॑रः ।  
