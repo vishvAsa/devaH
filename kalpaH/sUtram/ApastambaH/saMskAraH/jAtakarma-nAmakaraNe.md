@@ -15,6 +15,9 @@ unicode_script: devanagari
 - सङ्कल्पः
 
 ## जातकर्म
+### कालः
+- "the opinion is there is no aashaucha (theetu) till 1.5hrs after birth..But there was mixed opinion and in very ancient times, jaatakarma was done with umbilical cord intact..So aashaucha surfaces as soon the "naalachchedana" is done"
+
 ### स्त्रीपक्षे
 कुमार्या अभिमन्त्रणम् - सर्व॑स्मादा॒त्मन॒स्संभू॑ताऽसि॒ सा जी॑व श॒रद॑श्श॒तम् । 
 
