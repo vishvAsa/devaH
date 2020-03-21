@@ -8,7 +8,7 @@ unicode_script: devanagari
 - २०१९ इति वर्षादारभ्य कॊरोनावैराणुरोगः प्रासरद् भयानकः। 
 
 ## पाठः
-{{< figure src="../../../images/corona-virus.jpg" title="" class="thumbnail">}}
+{{< figure src="../../images/corona-virus.jpg" title="" class="thumbnail">}}
 
 किरीटविषकीटाणुश्  
 चीनदेशसमुद्भवः ।
@@ -35,14 +35,14 @@ unicode_script: devanagari
 दुःस्वप्नो मानवेन्द्राणां  
 धुर्यो वीर्याणुसन्ततेः ॥
 
-{{< figure src="../../../images/hand-wash-steps.jpg" title="" class="thumbnail">}}
+{{< figure src="../../images/hand-wash-steps.jpg" title="" class="thumbnail">}}
 
 पाणिप्रक्षालनाभ्यास-  
 प्रवणानाम् अपार्श्वगः ।  
 दन्तुराङ्गो महामारी-  
 क्रीडाविभ्रमकन्दुकः ॥ (२३)
 
-{{< figure src="../../../images/corona-pandemic-map.jpg" title="" class="thumbnail">}}
+{{< figure src="../../images/corona-pandemic-map.jpg" title="" class="thumbnail">}}
 
 जगदाक्रमणाटोप-  
 स्फुट-रोमाञ्च-कञ्चुकः।  
