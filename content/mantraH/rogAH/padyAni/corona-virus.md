@@ -105,6 +105,8 @@ unicode_script: devanagari
 दुरन्तपटलीप्रावृट्-  
 कदम्बकुसुमाकृतिः॥
 
+{{< figure src="../../images/corona-growth-visualization.png" title="" class="thumbnail">}}
+
 प्रजाप्रजागरक्लेश-  
 प्रतिपादनकोविदः ।  
 कोविदो बहलोद्वेग-  
