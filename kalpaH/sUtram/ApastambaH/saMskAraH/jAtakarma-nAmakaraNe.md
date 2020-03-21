@@ -4,7 +4,7 @@ unicode_script: devanagari
 
 ---
 ## आपस्तम्बोक्तिः
-<div class="js_include" url="../gRhyam/karmANi/jAtakarma.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="../pramANAni/gRhyam/karmANi/jAtakarma.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 
 ## पूर्वाङ्गम्
