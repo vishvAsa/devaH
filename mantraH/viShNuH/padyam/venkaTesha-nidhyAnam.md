@@ -1,6 +1,7 @@
 ---
 title: श्रीवेङ्कटेशनिध्यानम्
 unicode_script: devanagari
+practice_weight: 0
 ---
 
 ईशानां जगतोऽस्य वेङ्कटपतेर् विष्णोः परां प्रेयसीं  
