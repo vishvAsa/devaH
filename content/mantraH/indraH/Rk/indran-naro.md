@@ -1,7 +1,7 @@
 ---
 title: इन्द्रन् नरो
 unicode_script: devanagari
-
+practice_weight: 0
 ---
 
 
