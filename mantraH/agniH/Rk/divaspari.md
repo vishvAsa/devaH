@@ -13,7 +13,7 @@ unicode_script: devanagari
 दि॒वस् परि॑ प्रथ॒मं ज॑ज्ञे अ॒ग्निर्  
 {{< figure src="../../images/agni-rising-from-a-vedI-giving-bearing-gifts.jpg" class="thumbnail pb-3">}}  
 अ॒स्मद् द्वि॒तीय॒म् परि॑ जा॒तवे॑दाः ।  
-{{< figure src="../../images/baku-fire-spring.jpg" class="thumbnail">}}
+{{< figure src="../../images/baku-fire-spring.jpg" class="thumbnail">}}  
 तृ॒तीय॑म॒प्सु नृ॒मणा॒ अज॑स्र॒म्  
 इन्धा॑न एनं जरते +++(=स्तौति)+++ स्वा॒धीः ।  
 
