@@ -38,7 +38,7 @@ In nearly all contemporary vedic recitation systems, the aShTAdhyAyI system is c
 - Frits Staal made a claim that certain nambUtiri-s recite udAtta in high-pitch pada&"ratha-pATha". He claimed this was retention of ancestral style of veda recitation or even accented Skt speech as recorded by pANini’s statement of "ucchair udAttaH |". \[[TW17](https://twitter.com/blog_supplement/status/818991564290719744)\]
 - प्रकृतिऋचः साम्नाम् उदात्तं स्वरिताद् \*ऊर्ध्वं\* दर्शयन्तीति भाति। यथा ऽष्टाध्याय्याम्, आचार्यसम्मतप्रातिशाख्यविकल्पेषु च।
 - यथा – तद्विष्णोः॑ पर॒मम्प॒दं सदा॑ पश्यन्ति सू॒रयः॑ । in sAmaveda becomes :
-    {{< figure src="../../images/tad-viShNoH-saama-Rk.png" title="तद्विष्णोः॑ पर॒मम्प॒दं सदा॑ पश्यन्ति सू॒रयः॑ । in sAmaveda becomes this" >}}
+    {{< figure src="../../images/tad-viShNoH-saama-Rk.png" title="तद्विष्णोः॑ पर॒मम्प॒दं सदा॑ पश्यन्ति सू॒रयः॑ । in sAmaveda becomes this" >}}  
     - The order of increasing pitch in this notation:  ४ > ३ > २ > १
 
 ### भाषान्तरेषु
