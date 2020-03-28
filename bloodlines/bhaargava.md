@@ -143,5 +143,7 @@ title: भार्गवाः
 - वध्र्यश्वः (विवृषणाश्वः इत्यर्थः :-)) → दिवोदासः राजा →मित्रायुः ब्रह्मिष्ठः च्यवनपिता → ततो भार्गवा मैत्रायवः। (purANa-index)
 
 ## अन्ये प्रसिद्धा भार्गवाः
-- कस्यचित् प्रिया [अत्र](https://sites.google.com/site/hinduvichaarah/system/errors/NodeNotFound?suri=wuid://defaultdomain/hinduvichaarah/gx:247136be5d4d5f38) दृश्याः।
 - अपरे \- पैलः ऋग्वेद-प्रचारकः व्यास-शिष्यः, काशकृत्स्नो वैयाकरणः। (बोधायन-प्रवराध्यायात्)
+
+### ऐतशायनाः
+- "Etaśa is in the kauṣītaki brāhmaṇa1 the name of a sage who is said to have cursed his children because they interrupted him in the midst of a rite; hence the Aitaśāyanas (descendants of etaśa) are declared to be the worst of the Bhṛgus. The same story appears in the aitareya Brāhmaṇā2 where, however, the sage's name is aitaśa, and the Aitaśāyanas are described as the worst of the Aurvas."
