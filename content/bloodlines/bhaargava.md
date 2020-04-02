@@ -17,7 +17,7 @@ title: भार्गवाः
 
 ## गोत्र-प्रवर-विचारः
 
-- श्रीवत्साः \- इमे जमदग्निप्रजाः।
+- श्रीवत्साः, वत्साः, वात्सायनाः \- इमे जमदग्निप्रजाः।
     - भार्गवच्यावनाप्नवानौर्वजामदग्न्येति होता।
     - जमदग्निवदूर्ववदप्नवानवच्च्यवनवद्भृगुवदित्यध्वर्युः।
 - पौलोमेयाः \- तदितरे।
@@ -143,7 +143,10 @@ title: भार्गवाः
 - वध्र्यश्वः (विवृषणाश्वः इत्यर्थः :-)) → दिवोदासः राजा →मित्रायुः ब्रह्मिष्ठः च्यवनपिता → ततो भार्गवा मैत्रायवः। (purANa-index)
 
 ## अन्ये प्रसिद्धा भार्गवाः
-- अपरे \- पैलः ऋग्वेद-प्रचारकः व्यास-शिष्यः, काशकृत्स्नो वैयाकरणः। (बोधायन-प्रवराध्यायात्)
+- अपरे \- पैलः ऋग्वेद-प्रचारकः व्यास-शिष्यः।
+- काशकृत्स्नो वैयाकरणः। (बोधायन-प्रवराध्यायात्)
+- Vāmana-bhaṭṭa-bāṇa (14th–15th cen. CE) hailed from Koṇḍavīḍu, a princely state in Andhra. In his prose poem Vema-bhūpāla-carita ("बाणादन्ये कवयः काणाः खलु सरसगद्यसरणीषु। इति जगति रूढमयशो वामनबाणोऽपमार्ष्टि वत्सकुलः॥")
+
 
 ### ऐतशायनाः
 - "Etaśa is in the kauṣītaki brāhmaṇa1 the name of a sage who is said to have cursed his children because they interrupted him in the midst of a rite; hence the Aitaśāyanas (descendants of etaśa) are declared to be the worst of the Bhṛgus. The same story appears in the aitareya Brāhmaṇā2 where, however, the sage's name is aitaśa, and the Aitaśāyanas are described as the worst of the Aurvas."
