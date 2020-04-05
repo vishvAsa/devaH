@@ -1,6 +1,7 @@
 ---
 title: यदद्य कच्च
 unicode_script: devanagari
+practice_weight: 0
 ---
 
 (सुकक्षः, इन्द्रः, गायत्री।)
