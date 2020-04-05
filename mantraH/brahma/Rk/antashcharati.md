@@ -1,6 +1,7 @@
 ---
 title: अङ्गश्चरति
 unicode_script: devanagari
+practice_weight: 0
 ---
 
 ओमन्तश्चरति॑ भूते॒षु॒  
