@@ -6,17 +6,20 @@ unicode_script: devanagari
 ## साधारणैर् उपनीतैः
 
 ### नित्यम्
-- सन्ध्यावन्दनम्
-    - चोदनम्
-        - तै आ \- २.२, ष ब्रा ५ ५ ४, बोधायनधर्मसूत्रम्।
-        - आपस्तम्बधर्मसूत्रे [ऽत्र](https://archive.org/stream/apastamba/ApastambaDharmaSutram#page/n175/mode/2up) (नैतत् केवलं स्नातकानां कृत इति सम्प्रदायः)।
-        - मनुस्मृताव् [अत्र](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc199561.html)।
-    - संस्काररत्नमालायाम् [प्रातर्विधिः](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_039_Samskara_Ratnamala_of_Bhatta_Gopinatha_Dikshita_Part_1_-_KS_Agase_1899#page/n249/mode/2up)।
-    - अथर्ववेदीय-शौनक-शाखायाम् [अत्र](http://www.ibiblio.org/sripedia/ramanuja/archives/aug03/msg00056.html)।
-- ब्रह्मयज्ञः
-    - याजुषो [अत्र प्रदर्शितः](https://www.youtube.com/watch?v=J1z1rsccjtc)।
-    - आपस्तम्बीये
-        - गृह्यसूत्रेटीका [अत्र](https://archive.org/stream/APASTHAMBAGRUHYASUTRAMSUDARSHANAHARADATHA/APASTHAMBA%20GRUHYASUTRAM%20%28SUDARSHANA%2CHARADATHA%29#page/n151/mode/2up)।
+#### सन्ध्यावन्दनम्
+- चोदनम्
+    - तै आ \- २.२, ष ब्रा ५ ५ ४, बोधायनधर्मसूत्रम्।
+    - आपस्तम्बधर्मसूत्रे [ऽत्र](https://archive.org/stream/apastamba/ApastambaDharmaSutram#page/n175/mode/2up) (नैतत् केवलं स्नातकानां कृत इति सम्प्रदायः)।
+    - मनुस्मृताव् [अत्र](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc199561.html)।
+- संस्काररत्नमालायाम् [प्रातर्विधिः](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_039_Samskara_Ratnamala_of_Bhatta_Gopinatha_Dikshita_Part_1_-_KS_Agase_1899#page/n249/mode/2up)।
+- अथर्ववेदीय-शौनक-शाखायाम् [अत्र](http://www.ibiblio.org/sripedia/ramanuja/archives/aug03/msg00056.html)।
+
+#### ब्रह्मयज्ञः
+- याजुषो [अत्र प्रदर्शितः](https://www.youtube.com/watch?v=J1z1rsccjtc)।
+- आपस्तम्बीये
+    - गृह्यसूत्रेटीका [अत्र](https://archive.org/stream/APASTHAMBAGRUHYASUTRAMSUDARSHANAHARADATHA/APASTHAMBA%20GRUHYASUTRAM%20%28SUDARSHANA%2CHARADATHA%29#page/n151/mode/2up)।
+
+### अन्यकर्माणि
 - परिषेचनम्
     - [अत्र निरूपितम्](https://www.youtube.com/watch?v=kJEFcB6pSvQ&index=5&list=PLZEYfTLzt2uuvIvA363qG4lNfY_SNh7Cj)।
 - पितृयज्ञः
