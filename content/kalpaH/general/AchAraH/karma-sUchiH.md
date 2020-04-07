@@ -3,10 +3,6 @@ title: कर्मसूचिः
 unicode_script: devanagari
 ---
 
-## 
-
-  
-
 ## साधारणैर् उपनीतैः
 
 ### नित्यम्
