@@ -1,5 +1,5 @@
 ---
-title: कर्मसूचिः
+title: नित्यकर्मसूचिः
 unicode_script: devanagari
 ---
 
