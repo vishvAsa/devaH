@@ -3,6 +3,15 @@ title: तैत्तिरीयप्रातिशाख्यम्
 unicode_script: devanagari  
 ---  
 
+## परिचयः
+- [आर्कैवि](https://archive.org/stream/AtharvaVedaPratishakhyaChaturadhyayi/taittiriya_pratishakhya#page/n0/mode/2up)।- टीकाः
+- [Whitney -  तैत्तिरीयप्रातिशाख्य](http://bangla.name/citi/taittiriya/tait_dev.htm)म्।
+- त्रिभाष्यरत्न-वैदिकाभरण-भाष्य-समेतम् [अत्र](https://archive.org/stream/in.ernet.dli.2015.313356/2015.313356.The-Taittiriya#page/n479/mode/2up)।
+- त्रिभाष्यरत्नो [ऽत्र](https://archive.org/stream/in.ernet.dli.2015.292717/2015.292717.The-Taittiriya#page/n3/mode/2up) च।  
+- श्रीरमण-पाठः [GP](https://plus.google.com/102398513169149764970/posts/QhwB7q7NLp4)।
+
+
+## पाठः
 ॐ  
 तैत्तिरीयप्रातिशाख्य  
 (Translation by W.D. Whitney, 1868)  
