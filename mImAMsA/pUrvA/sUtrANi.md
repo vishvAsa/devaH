@@ -1,5 +1,5 @@
 ---
-title: +पूर्वा
+title: सूत्राणि
 unicode_script: devanagari
 ---
 
