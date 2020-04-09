@@ -29,7 +29,7 @@ unicode_script: devanagari
 - विश्वनाथ-न्याय-पञ्चानन-कृत-न्याय-परिभाषा-ग्रन्थः (भाषापरिच्छेदः)
 
 ## टिप्पण्यः
-- विश्वासस्य [अत्र](https://docs.google.com/spreadsheets/d/1Q4C4b7yHeK-3fwgAPCdSTRjPIJFEN2NLBKObH9AC-dU/edit#gid=950757355)।
+- विश्वासस्य [अत्र](https://docs.google.com/spreadsheets/d/1Q4C4b7yHeK-3fwgAPCdSTRjPIJFEN2NLBKObH9AC-dU/edit#gid=950757355)। तत्रैव [प्रश्ना](https://docs.google.com/spreadsheets/d/1Q4C4b7yHeK-3fwgAPCdSTRjPIJFEN2NLBKObH9AC-dU/edit#gid=1103198300) असमाहिता अपि।
 - अन्नम्भट्ट-तर्कसङ्ग्रहे [चात्र](https://sites.google.com/site/samskrtamsfo/darsanam/nyayashastram/tarkasangrahah.1586341761225)।
 
 ## बोधनानि
