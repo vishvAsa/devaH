@@ -3,10 +3,19 @@ title: प्रभेदाः
 unicode_script: devanagari
 ---
 
+## शुद्धः
+- शुद्धः dependent , substitute, or enclitic svarita
+- "उदात्तादनुदात्तस्य स्वरितः" इत्यनेन जातः।
+
 ## जात्यः
 - जात्यः/ नित्यः/ independent/ innate
 - पदमध्ये संहिताजन्यः। "When an ancestral Udātta bearing syllable is innately lost due to certain natural saṃdhi-s (an innate version of theKṣaipra clause) then such syllables come with a Svarita tone. "  - [MT](https://manasataramgini.files.wordpress.com/2008/09/svaras_new.pdf)
+- उच्चारणमर्वाचीनम् - "on hrasva AV jAtyasvarita is stressed and in higher pitch like regular svarita. in dIrgha it is reduplicated but the second copy is uttered in slightly higher pitch than 1st."
 
+उदाहरणानि
+
+- वात्स्यः॒ क्व॑ - क्व॑शब्दः स्वरितः।
+- वि आपिथ
 
 ## अनित्यः
 ### कम्पः
