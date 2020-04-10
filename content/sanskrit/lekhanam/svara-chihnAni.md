@@ -29,12 +29,14 @@ unicode_script: devanagari
 - दीर्द्घस्वरितो रेखाद्वयान्वितः। अर्वाचीनोच्चारण एव विशेषः।
 
 ### शुद्धः
+- विवरणान्य् [अत्र](../../shixaa/svaraH/svaritaH/prabhedAH/)।
 - पाश्चात्याः - `S_d`
 - मैत्रायणीयाः - a horizontal line crossing the middle of the syllable
 or three vertical strokes above it or a dot below it 
 - काठक-संहिता - dot below
 
 ### जात्यः
+- विवरणान्य् [अत्र](../../shixaa/svaraH/svaritaH/prabhedAH/)।
 - `'` इति पाश्चात्याः। "sam.hita text in transliteration: at best only the udatta and jatya svarita are marked."
 - पाश्चात्याः - S_i
 - मैत्रायणीयाः - curve below
