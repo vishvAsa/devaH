@@ -1,5 +1,5 @@
 ---
-title: लेखनम्
+title: +लेखनम्
 ---
 
 ## Whitespace conventions
@@ -12,5 +12,5 @@ To this, my response is to note as follows: If you want to "keep it original" - 
 
 
 #### Related discussions
-- गद्य-लेखने सन्धिनियमपालने च रिक्तस्थानयोजने [अत्र](https://groups.google.com/d/msg/padyadhaaraa/ZY406Vm81I4/bfTFd1omfJUJ), [अत्र](https://groups.google.com/d/msg/bvparishat/69maR5wwmKw/6Fcm5fL2BgAJ) च। 
+- गद्य-लेखने सन्धिनियम-पालने च रिक्तस-्थान-योजने [अत्र](https://groups.google.com/d/msg/padyadhaaraa/ZY406Vm81I4/bfTFd1omfJUJ), [अत्र](https://groups.google.com/d/msg/bvparishat/69maR5wwmKw/6Fcm5fL2BgAJ) च। 
 

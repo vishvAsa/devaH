@@ -14,11 +14,13 @@ practice_weight: 0
 - [अत्र](http://www.folkways.si.edu/TrackDetails.aspx?itemid=10295) अनेकानि केरल-उत्तरपथ-ड्रविड-कलिङ्गादिषु वैदिकानि उच्चारणविधानानि श्रूयन्ते!
 - केरलविधानम् [अत्र](https://www.youtube.com/watch?v=ePdD7Nv3Jxg&list=PLm7v5mcn_O-ItmivvOY40KW0hcyjRJINM&index=20)।
 
-## सामवेदेतरेषु लक्षणानि
+## लिखितपाठ-विकाराः प्रसिद्धाः
+- लिखितपठनप्राचुर्याद् अर्वाचीनाः प्रायेण केचन विकारा सञ्जाताः। संशहेतुः - तस्यास्वाभाविकता, व्याकरणे ऽपि नोक्त इति।
 - "For the R.gveda the current practice in India is, apparently, to pronounce all
   syllables marked with the underbar ( anudatta and sannatara ) as anudatta , all
   unmarked syllables ( udatta and ekasruti ) as ekasruti , and syllables marked
   svarita as moving from udatta to ekasruti ." - Wikner in - [IA](https://archive.org/details/accents_201803)
+- "When Udātta-s come in succession they all remain middle tone, Ekaśruti. U-U...n=>U-U...n Example: "अ॒मान् सु तत्र॑"  - MT [अत्र](https://archive.org/details/accents_201803/mode/2up) ।
 
 ## स्वरादिविकाराः
 - पाठरक्षणार्थं रटनसौकर्यार्थं बालबोधार्थं वा विकृतिपाठा आश्रियन्ते। 
