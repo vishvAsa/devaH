@@ -14,7 +14,7 @@ practice_weight: 0
 - [अत्र](http://www.folkways.si.edu/TrackDetails.aspx?itemid=10295) अनेकानि केरल-उत्तरपथ-ड्रविड-कलिङ्गादिषु वैदिकानि उच्चारणविधानानि श्रूयन्ते!
 - केरलविधानम् [अत्र](https://www.youtube.com/watch?v=ePdD7Nv3Jxg&list=PLm7v5mcn_O-ItmivvOY40KW0hcyjRJINM&index=20)।
 
-## लिखितपाठ-विकाराः प्रसिद्धाः
+## लिखितपाठजन्य-विकाराः प्रसिद्धाः
 - लिखितपठनप्राचुर्याद् अर्वाचीनाः प्रायेण केचन विकारा सञ्जाताः। संशहेतुः - तस्यास्वाभाविकता, व्याकरणे ऽपि नोक्त इति।
 - "For the R.gveda the current practice in India is, apparently, to pronounce all
   syllables marked with the underbar ( anudatta and sannatara ) as anudatta , all
