@@ -9,13 +9,13 @@ unicode_script: devanagari
 
 ## जात्यः
 - जात्यः/ नित्यः/ independent/ innate
-- पदमध्ये संहिताजन्यः। "When an ancestral Udātta bearing syllable is innately lost due to certain natural saṃdhi-s (an innate version of theKṣaipra clause) then such syllables come with a Svarita tone. "  - [MT](https://manasataramgini.files.wordpress.com/2008/09/svaras_new.pdf)
+- पदमध्ये संहिताजन्यः। "When an ancestral Udātta bearing syllable is innately lost due to certain natural saṃdhi-s (an innate version of the Kṣaipra clause) then such syllables come with a Svarita tone. "  - [MT](https://manasataramgini.files.wordpress.com/2008/09/svaras_new.pdf)
 - उच्चारणमर्वाचीनम् - "on hrasva AV jAtyasvarita is stressed and in higher pitch like regular svarita. in dIrgha it is reduplicated but the second copy is uttered in slightly higher pitch than 1st."
 
 उदाहरणानि
 
-- वात्स्यः॒ क्व॑ - क्व॑शब्दः स्वरितः।
-- वि आपिथ
+- वात्स्यः॒ क्व॑ - क्व॑शब्दः स्वरितः। कु+अ॒=क्व॑। 
+- वि+आ॒पि॒थ॒ - व्या॑पिथ। वी॒र्या॑णि।
 
 ## अनित्यः
 ### कम्पः
