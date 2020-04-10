@@ -6,12 +6,15 @@ unicode_script: devanagari
 सूत्राण्य् [अत्र](https://docs.google.com/spreadsheets/d/1208pyOsYiZlS5fmm8tYEq2qbCzqWgPnMYNUf1-1uRJM/edit#gid=4)।
 
 ## उच्चारणविशेषाः
-- विस्तारः शिक्षाभागे [ऽत्र](../../shixaa/svara/)।
+- विस्तारः शिक्षाभागे [ऽत्र](../../shixaa/svaraH/)।
 - उच्चैरुदात्तः। नीचैरनुदात्तम्। समाहारस् स्वरितः। एकश्रुति दूरात् संबुद्धौ। उच्चैस्तरां वा वषट्कारः (यज्ञकर्मणि)। 
+- स्वरितप्रभेदेषु कम्पादिषु [तत्रैव](../../shixaa/svaraH/) दृश्यताम्।
 
 ## स्वरस्थानक्रमः
 - उदात्तः प्रधानः स्वरः ("अनुदात्तं पदम् एकवर्जम्।")।
 - उदात्तात्पूर्वं सन्नतरः, पश्चात् स्वरितः।  
+    - "When there is an Udātta on a syllable the syllable before it becomes Anudātta and the syllable after it becomes Svarita  i.e. X-U-X=> A-U-S " - [MT](https://manasataramgini.files.wordpress.com/2008/09/svaras_new.pdf)
+    - "When an originally unaccented syllable is sandwiched between an upstream Udātta syllable and a downstream Udātta or Svarita  syllable then it becomes an Anudātta syllable i.e. U-X-U=>U-A- यद् अ॒ङ्ग दा॒शुशे॒ त्वम्" - [MT](https://manasataramgini.files.wordpress.com/2008/09/svaras_new.pdf)
 - स्वरितात् संहितायामनुदात्तानाम् एकश्रुतिः।
 
 ## उदात्तस्थानम्
@@ -51,4 +54,6 @@ unicode_script: devanagari
 - न लुट्। "श्वः कर्ता॑। श्वः क॒र्तारौ॑। मासेन क॒र्तारः॑।"
 - यत् यदि हन्त कुवित् नेत् चेत् चण् कच्चित् यत्र इत्येतैर् निपातैर् युक्तं तिङन्तस्य न सर्वनिघातः। 
 
+
+## सूत्राणि
 <div class="spreadsheet" src="../svara-sUtrANi.json"></div>
