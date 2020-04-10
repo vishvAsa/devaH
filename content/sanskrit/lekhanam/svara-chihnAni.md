@@ -29,9 +29,6 @@ unicode_script: devanagari
 - दीर्द्घस्वरितो रेखाद्वयान्वितः। अर्वाचीनोच्चारण एव विशेषः।
 
 ### शुद्धः
-- शुद्धः dependent , substitute, or enclitic svarita
-- "उदात्तादनुदात्तस्य स्वरितः" इत्यनेन जातः। वात्स्यः॒ क्व॑ - क्व॑शब्दः स्वरितः।
-
 - पाश्चात्याः - `S_d`
 - मैत्रायणीयाः - a horizontal line crossing the middle of the syllable
 or three vertical strokes above it or a dot below it 
@@ -42,6 +39,7 @@ or three vertical strokes above it or a dot below it
 - पाश्चात्याः - S_i
 - मैत्रायणीयाः - curve below
 - काठक-संहिता - curve below only if an anudAtta follows, otherwise by a hook below.
+- शौनकशाखा - ‘᳡’ is used to depict such Svarita -s, i.e.: त॒न्वा᳡म॒हे. 
 
 ### अनित्यः
 - कम्पः - `सु॒प्र॒ऽअ॒व्ये॑ + यज॑मानाय -> सुप्रा॒व्ये॒३॒॑ यज॑मानाय`। विवरणान्य् [अत्र](../../shixaa/svaraH/svaritaH/kampaH/)।
