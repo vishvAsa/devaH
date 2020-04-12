@@ -47,7 +47,7 @@ unicode_script: devanagari
 उच्छु॒क्रेण॑ शो॒चिषा॒ द्यामिन॑क्षत् +++(=दीपयत्)+++।  
 
 ### ज्वालामुखी  
-{{< figure src="../../images/mud-volcano.jpg" title="Mud volcanoes" class="thumbnail">}}[!](https://en.wikipedia.org/wiki/Mud_volcanoes_in_Azerbaijan)
+{{< figure src="../../images/mud-volcano.jpg" title="Mud volcanoes" class="thumbnail">}}[!](https://en.wikipedia.org/wiki/Mud_volcanoes_in_Azerbaijan)  
 विश्व॑स्य के॒तुर् भुव॑नस्य॒ गर्भ॒  
 आ रोद॑सी अपृणा॒ज् +++(=अपूरयत्)+++ जाय॑मानः ।  
 वी॒डुं +++(=दृढं)+++ चि॒दद्रि॑मभिनत् परा॒यञ् +++(=परागच्छन्)+++  
