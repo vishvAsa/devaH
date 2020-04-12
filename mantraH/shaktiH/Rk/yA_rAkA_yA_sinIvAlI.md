@@ -1,7 +1,8 @@
 ---
-title: अथर्व-देवी-यागः
+title: या राका या सिनीवाली
 unicode_script: devanagari
 ---
+अथर्व-देवी-यागः।
 
 स्रोतो [ऽत्र](https://github.com/somasushma/tex-files/blob/master/AVdevIyAga/AV_devI_yAga.tex)।
 
