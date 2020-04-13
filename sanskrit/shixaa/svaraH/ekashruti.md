@@ -6,7 +6,7 @@ unicode_script: devanagari
 
 
 ## प्रातिशाख्येषु
-- तैत्तिरीय\-प्रातिशाख्ये \- सर्वमेकयमं पूर्वेषा सर्वमेकयमं पूर्वेषाम्॥१५.९॥ (According to the former ones, all is of one pitch)। टीका [ऽत्र](https://archive.org/stream/in.ernet.dli.2015.313356/2015.313356.The-Taittiriya#page/n479/mode/2up)।  
+- तैत्तिरीय\-प्रातिशाख्ये \- सर्वमेकयमं पूर्वेषाꣳ सर्वमेकयमं पूर्वेषाम्॥१५.९॥ (According to the former ones, all is of one pitch)। टीका [ऽत्र](https://archive.org/stream/in.ernet.dli.2015.313356/2015.313356.The-Taittiriya#page/n479/mode/2up)।  
     - पूर्वे = याज्ञिका इति केचित्, वैयाकरणा इत्यपरे, केचिच्छाखिन इत्यन्ये। ("नेदं सूत्रम् इष्टम्" इति तु टीकाकारौ।)  
 
 ## पाणिनिः 
