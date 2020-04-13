@@ -14,7 +14,7 @@ unicode_script: devanagari
 ### मुख्यांशाः
 - यथाश्रुतानुकरणम् प्रधानम्। लिखितपाठो गौणः, किञ्च कदाचिद् ग्राह्यतरः (सम्प्रदाये कदाचित् सन्देहास्पदा वर्णव्यत्ययास् तत्र तत्र विद्यन्ते)।
   - स्वरचिह्नानि किमर्थानीति सम्प्रदाये ज्ञानं नष्टप्रायम्। स्वरचिह्नानि कानीत्यवगन्तुं प्रयत्नो [ऽत्र](https://docs.google.com/document/d/1dHkElOzXoAue48_xVgP-LAlSSpmMQ9QKjUrnSazEG1M/edit#heading=h.xyzfui7ansvz)।
-  - This deviation from notation is seen in the myriad gAna traditions of other shAkhas as well. More at [svara page](../../../sanskrit/shixaa/svara/sAmaveda/)
+  - This deviation from notation is seen in the myriad gAna traditions of other shAkhas as well. More at [svara page](../../../sanskrit/shixaa/svaraH/sAmaveda/)
 - वर्णालङ्काराः मुख्यतमाः। यथा - प्रेङ्खास्वरः, गमकस्य विविधनिवेशनानि, मात्राः। 
 - सम्बद्धटिप्पणयो [ऽत्र](/notes/artha/skills/singing/)।
 

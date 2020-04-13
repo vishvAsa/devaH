@@ -32,6 +32,7 @@ unicode_script: devanagari
 
 ## सूर्यग्रहणमोक्षनिदर्शनम्  
 {{< figure src="../../../worlds/images/solar_eclipse_receeding.jpg" class="thumbnail">}}
+
 सूर्य॑म् ऋ॒तन् +++(=प्राप्तम्)+++ तम॑सो॒ ग्राह्या॒  
 यद्दे॒वा अमु॑ञ्च॒न्नसृ॑ज॒न् व्ये॑नसः +++(=व्यसृजन् एनसः)+++ ।  
 

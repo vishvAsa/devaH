@@ -13,7 +13,7 @@ unicode_script: devanagari
 दि॒वस् परि॑ प्रथ॒मं ज॑ज्ञे अ॒ग्निर्  
 {{< figure src="../../images/agni-rising-from-a-vedI-giving-bearing-gifts.jpg" class="thumbnail pb-3">}}  
 अ॒स्मद् द्वि॒तीय॒म् परि॑ जा॒तवे॑दाः ।  
-{{< figure src="../../images/baku-fire-spring.jpg" class="thumbnail">}}
+{{< figure src="../../images/baku-fire-spring.jpg" class="thumbnail">}}  
 तृ॒तीय॑म॒प्सु नृ॒मणा॒ अज॑स्र॒म्  
 इन्धा॑न एनं जरते +++(=स्तौति)+++ स्वा॒धीः ।  
 
@@ -47,7 +47,7 @@ unicode_script: devanagari
 उच्छु॒क्रेण॑ शो॒चिषा॒ द्यामिन॑क्षत् +++(=दीपयत्)+++।  
 
 ### ज्वालामुखी  
-{{< figure src="../../images/mud-volcano.jpg" title="Mud volcanoes" class="thumbnail">}}[!](https://en.wikipedia.org/wiki/Mud_volcanoes_in_Azerbaijan)
+{{< figure src="../../images/mud-volcano.jpg" title="Mud volcanoes" class="thumbnail">}}[!](https://en.wikipedia.org/wiki/Mud_volcanoes_in_Azerbaijan)  
 विश्व॑स्य के॒तुर् भुव॑नस्य॒ गर्भ॒  
 आ रोद॑सी अपृणा॒ज् +++(=अपूरयत्)+++ जाय॑मानः ।  
 वी॒डुं +++(=दृढं)+++ चि॒दद्रि॑मभिनत् परा॒यञ् +++(=परागच्छन्)+++  
