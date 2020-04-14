@@ -3,8 +3,10 @@ title: श्री-सूक्तम्
 unicode_script: devanagari
 
 ---
-+++(क्वचित् स्वरः सन्देहास्पदम्।)+++
+## परिचयः
+"This pAtha is from the book 'yAjusha mantra ratnakaram' in grantha script, re-printed by Sri Krishnamurti Shastrigal. It's original print is likely by vaidhika vardhini press from Kumbhakonam. What you see in this pAtha (as opposed to the more popular patha) is that it doesn't have multiple anudAttas in a row in the middle of phrases." इत्यजितः। तथापि क्वचित् स्वरः सन्देहास्पदम्।
 
+## पाठः
 हिर॑ण्यवर्णां॒ हरि॑णीं सुव॒र्णर॑ज॒तस्र॑जाम्।  
 च॒न्द्रां हि॒रण्म॑यीं ल॒क्ष्मीं जात॑वेदो म॒ आव॑ह।
 
