@@ -1,17 +1,39 @@
 ---
-title: +न्यायशास्त्रम्
+title: +न्याय-वैशेषिके
 unicode_script: devanagari
 ---
 
 ## परिचयः
-- लेखाः
-    - जगदीशः [अत्र](https://archive.org/stream/in.ernet.dli.2015.31521/2015.31521.Hindu-Realism-Being-An-Introduction-To-The-Metaphysics-Of-Nyayya-vaisheshika-System-Of-Philosophy#page/n79/mode/2up)।
-    - हिरियण्ण-पुस्तके [ऽत्र](https://archive.org/stream/OutlinesOfIndianPhilosophyByM.Hiriyanna/Outlines%20of%20Indian%20Philosophy%20by%20M.%20Hiriyanna#page/n231/mode/2up)।
-    - काक-सुभाषः [अत्र](https://archive.org/stream/arxiv-physics0310001/physics0310001#page/n12/mode/1up)।
-- न्याय-वैशेषिकयोः परस्पर-पूरकत्वम् अस्ति।
-    - वैशेषिकदर्शने पदार्थविज्ञानम्।
-    - न्यायदर्शने प्रमाणचिन्तनम्।
-    - कोशो [ऽत्र](https://archive.org/details/nyayakosa)।  
+### अद्भुतांशाः
+- वैशेषिकेषु
+  - क्रमेण पदार्थसुविभजने  यत्नः।
+  - परमाणवः, विशेषाः, इन्द्रिय-सन्निकर्षकल्पनम्। परिष्कार-परम्परा।
+- नैय्यायिकेषु
+  - प्रत्यक्षमूर्धन्यता। अनुमानकेन्द्रिता। व्याप्तिपरीक्षा। 
+  - धर्मग्रहणेनैव व्यक्तिग्रहणम्। 
+  - परिष्कार-परम्परा।
+
+### निकृष्टांशाः
+- वैशेषिकेषु
+  - पदार्थ-विभागे - अलाघवं क्वचित्, मोक्षकेन्द्रितत्वाद् अपूर्णता। 
+  - द्रव्यगुणवर्णने - आधुनिकविज्ञानेन सहासामञ्जस्यम्।
+- नैय्यायिकेषु
+  - प्रवेशे काठिन्यम् - अपर्याप्त-लक्ष्योदाहरणम् लक्षणावश्यकता-निरूपणे।
+
+### लेखाः
+- जगदीशः [अत्र](https://archive.org/stream/in.ernet.dli.2015.31521/2015.31521.Hindu-Realism-Being-An-Introduction-To-The-Metaphysics-Of-Nyayya-vaisheshika-System-Of-Philosophy#page/n79/mode/2up)।
+- हिरियण्ण-पुस्तके [ऽत्र](https://archive.org/stream/OutlinesOfIndianPhilosophyByM.Hiriyanna/Outlines%20of%20Indian%20Philosophy%20by%20M.%20Hiriyanna#page/n231/mode/2up)।
+- काक-सुभाषः [अत्र](https://archive.org/stream/arxiv-physics0310001/physics0310001#page/n12/mode/1up)।
+
+### न्याय-वैशेषिकयोः परस्पर-पूरकत्वम् अस्ति।
+- वैशेषिकदर्शने पदार्थविज्ञानम्।
+- न्यायदर्शने प्रमाणचिन्तनम्।
+- कोशो [ऽत्र](https://archive.org/details/nyayakosa)।  
+
+### लक्षणवचने क्रमः
+- उद्देशः। नामसङ्कीर्तनम्।
+- लक्षणम्। पदार्थस्य लक्षणवचनम्।
+- परीक्षा। लक्षणौचित्य-परीक्षा।
 
 ## सूत्राणि
 - [न्यायसूत्राणि](https://sa.wikibooks.org/wiki/%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0) \- गौतमप्रणीतानि
