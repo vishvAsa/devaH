@@ -12,7 +12,7 @@ unicode_script: devanagari
 - विपर्ययः
   - मिथ्याज्ञानं विपर्ययः। यथा शुक्तौ इदं रजतमिति॥
 - विपर्ययेषु तर्कः
-    - व्याप्यारोपेण व्यापकारोपास् तर्कः, यथा यदि वह्निर् न स्यात् तर्हि धूमोऽपि न स्यादिति॥ +++(अत्र धूमो व्यापकः, प्रत्यक्षं ज्ञायते। तन्नास्तीति वादी कश्चन यो दृढं विश्वसीति यद् वह्निर् नास्तीति।)+++
+    - व्याप्यारोपेण व्यापकारोपास् तर्कः, यथा यदि वह्निर् न स्यात् तर्हि धूमोऽपि न स्यादिति॥ +++(अत्र धूमो व्यापकः, प्रत्यक्षं ज्ञायते। तन्नास्तीति वादी कश्चन यो दृढं विश्वसीति यद् वह्निर् नास्तीति। ???)+++
     - "In dealing with an illogical person who denies that there is fire in the hill, we may have to urge upon him the consideration that, 'If there were not fire, there would not be smoke' : whereupon the illogical person, so long as he persists in the form of error under consideration, will seek to deny the smoke, in spite of the testimony of his senses, rather than admit the fire which constantly accompanies it."
     - such opinion as is open to "reductio ad absurdium" but is still illogically held. व्यक्तम् अपि व्याप्यम् तिरस्करोति काञ्चिदनुमितिं वारयितुम्।
     - हेतोः साध्य-साधकत्वं नास्ति इति अप्रयोजकत्व-शङ्काऽपि स्याद् आरोपिता अत्र।
