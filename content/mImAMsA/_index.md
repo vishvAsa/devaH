@@ -19,3 +19,7 @@ unicode_script: devanagari
   - श्रवणम्। तत्र द्वेधा पुनर्वचनम्।
   - मननम्। तत्र चिन्तनगोष्ठिश् छात्रेषु।
   - निदिध्यासनम्।
+
+## वेदवाङ्मयविभागाः
+<div class="spreadsheet" src="../veda-vANmayam.json"> </div>  
+
