@@ -23,7 +23,5 @@ title: +रुचिरपत्त्राणि
     - Audio blog/ uploads:
         - [zap-rss](https://zapier.com/engine/rss/85498/vishvas/) Older:[ipadio](https://www.ipadio.com/channels/VishvasVasuki) \[[rss](https://www.ipadio.com/channels/7ab409ca5457/rss)\].
         - Archive.org uploads.
-        -   
-            
 
 - [पद्यरचनाभ्यासः](https://docs.google.com/spreadsheet/ccc?key=0Al_QBT-hoqqVdFBKZzVsM3VUREYzVzMxcHhGZDJYdHc#gid=0) (versification practice.) Longer [verse kAvya-s here](https://vvasuki.github.io/kAvya/sviiyam/).
