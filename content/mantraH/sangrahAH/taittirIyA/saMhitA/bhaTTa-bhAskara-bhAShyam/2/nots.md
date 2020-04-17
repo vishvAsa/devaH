@@ -1,3 +1,8 @@
+---
+title: pradeepa nots
+unicode_script: devanagari
+---
+
 ###    मन्त्रः\n$1
 pyara start  ^p
 buck shlash /
