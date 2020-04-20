@@ -7,7 +7,7 @@ practice_weight: 0
 
 {{< figure src="../../images/sun_solar_flare.jpg" title="" class="thumbnail">}}
 
-<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive.org/download/mArtaNDa-daNDakaH/AUD-20141115-WA0006.mp3"></div>
+<div class="audioEmbed"  caption="शङ्करवाचनम्" src="https://archive.org/download/mArtaNDa-daNDakaH/AUD-20141115-WA0006.mp3"></div>
 
 
 ## मङ्गलश्लोकः
@@ -52,7 +52,7 @@ practice_weight: 0
 त्रिलोकैकपूज्याय सेन्दुग्रहज्यायसे ।  
 +++( You alone are worthy of the three worlds’ worship, eldest among the moon and celestial beings – to you I bow. )+++
 
-<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive.org/download/mArtaNDa-daNDakaH/AUD-20141115-WA0007.mp3"></div>
+<div class="audioEmbed"  caption="शङ्करवाचनम्" src="https://archive.org/download/mArtaNDa-daNDakaH/AUD-20141115-WA0007.mp3"></div>
 
 ## अवसानम्
 मित्रानुग्रहरूपे महति व्यसनातप-च्छिदि च्छत्रे ।  
