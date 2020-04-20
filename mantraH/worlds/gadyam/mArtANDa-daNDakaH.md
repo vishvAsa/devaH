@@ -11,45 +11,45 @@ practice_weight: 0
 
 
 ## मङ्गलश्लोकः
-मुष्टिर्वासरमल्लस्य ध्वान्तवैरिविभेदनः । आदित्यश्चक्रदम्पत्योः स्नेहग्रन्थिः पुनातु वः ॥  
+मुष्टिर् वासर-मल्लस्य ध्वान्त-वैरि-विभेदनः । आदित्यश् चक्र-दम्पत्योः स्नेह-ग्रन्थिः पुनातु वः ॥  
 +++(The sun, as the fist of Day the wrestler, shatters his enemy the night. May he, the knot of love that binds the cakra bird and his wife, purify you. )+++
 
 ## दण्डकः १
-जय हरिहयदिग्गजोद्दण्डशुण्डाग्रजाग्रन्-**नवाम्भोजनीकाश**  
+जय हरि-हय-दिग्गजोद्दण्ड-शुण्डाग्र-जाग्रन्-**नवाम्भोज-नीकाश**  
 +++(You resemble a new lotus opening at the tip of the upraised trunk of the elephant that guards Indra’s direction. )+++  
-नाकापगा+++(=नदी)+++निर्मलोर्मिच्छटाशीकरासङ्गशीतानुकूलानिलाश्लेष-सञ्जातसन्तोष**हेषारवो**दारदुर्वारवाजिव्रजोल्लासित**स्यन्दनालोक-निश्शोक**लोकत्रयी**कोक**+++(=चक्रवाक)+++सीमन्तिनी-बाष्पनिष्पादितार्घ्योपचार  
+नाकाऽऽपगा+++(=नदी)+++-निर्मलोर्मि-च्छटा-शीकराऽऽसङ्ग-शीतानु-कूलाऽनिलाऽऽश्लेष-सञ्जात-सन्तोष-**हेषारवो**दार-दुर्वार-वाजि-व्रजोल्लासित-**स्यन्दनाऽऽलोक-निश्शोक**-लोक-त्रयी-**कोक**+++(=चक्रवाक)+++-सीमन्तिनी-बाष्प-निष्पादिताऽऽर्घ्योपचार  
 +++(The female cakravaka birds of the three worlds attend to you with the arghya offering formed of their tears. They are freed from despondency by the sight of the chariot that shines with its team of irrepressible handsome horses who are neighing in satisfaction thanks to the embrace of a breeze pleasantly cooled by the pure heavenly rivers’ mass of waves. )+++
- त्रिवेदीप्रभो तेजसा दीप्र भोः ।  
+ त्रिवेदी-प्रभो तेजसा दीप्र भोः ।  
  +++(Oh Lord of the triple Vedas, ablaze with your own brilliance – victory!)+++
    
 
 ## दण्डकः २
 जय जगदभि-रामधाम+++(=काश)+++प्रसूते  
 +++(You are the origin of the light that so delights the world. )+++  
-सरोजाकरोत्सङ्गसङ्गायद्+इन्दिन्दिर+++(=बृहन्मधुप)+++श्रेणि-वीणारवाकर्णनव्यग्र**वाहावली**-वेगरोधाकुलीभूत-**सूताग्रणी**सत्वरोदस्तहैम**प्रतोदप्रभा**-कल्पिताकाल**विद्युल्लता**लङ्कृतव्योम**वीथी**विहार-स्पृहिन्न् अन्धकारद्रुमध्वंसन**व्याल**+++(=गज)+++ नव्यालवाल त्रयीवीरुधः ।  
+सरोजा-करोत्सङ्ग-सङ्गायद्+इन्दिन्दिर+++(=बृहन्मधुप)+++श्रेणि-वीणा-रवाऽऽकर्णन-व्यग्र-**वाहा-वली**-वेग-रोधाऽऽकुलीभूत-**सूताऽऽग्रणी**-सत्व-रोदस्त-हैम-**प्रतोद-प्रभा**-कल्पिताऽकाल-**विद्युल्-लता**ऽलङ्कृत-व्योम-**वीथी**-विहार-स्पृहिन्न् अन्धकार-द्रुम-ध्वंसन-**व्याल**+++(=गज)+++ नव्यालवाल त्रयी-वीरुधः ।  
 +++(Happily you roam the paths of the sky cloud-free yet decorated with lightning creepers created by the flash of the golden whip as the best of charioteers flicks it up. He is agitated – his progress has been hindered because his team of horses is no longer paying attention, engrossed instead in listening to the music of the vina that is formed of a line of bees swarming around the surface of a lotus pond. You are the elephant in rut who destroys the tree of ignorance, the fresh basin of water in which the creeper of the triple Vedas stands – victory!)+++
 
 ## दण्डकः ३
-जय लयपवनत्वराजित्वर-**स्यन्दनस्पन्दन**  
+जय लय-पवन-त्वरा-जित्वर-**स्यन्दन-स्पन्दन**  
 +++(Your chariot outpaces even the speed of the winds at the time of final dissolution. )+++  
-च्छन्दसामेकधाम  
+च्छन्दसाम् एक-धाम  
 +++(You are the one repository of the Vedas. )+++  
-त्रियामातमोव्रात-पातालकेलिक्रियादक्ष**रक्षोभुजङ्ग**व्रजक्षोभकृद्-वासराकार**पत्रीश्वरो**पाहृतस्वर्णपीयूषपात्रीभवन्**मण्डलोद्दण्ड**  
+त्रि-यामा-तमो-व्रात-पाताल-केलि-क्रिया-दक्ष-**रक्षो-भुजङ्ग**-व्रज-क्षोभ-कृद्-वासराकार-**पत्रीश्वरो**पाहृत-स्वर्ण-पीयूष-पात्रीभवन्-**मण्डलोद्दण्ड**  
 +++(Celebrated for your orb which becomes the golden jar of nectar offered by Day in the place of Garuda, lord of birds, who troubles the hordes of rakshasas standing in for snakes who are adroit at playing games in the web of the night’s darkness which forms Patala. )+++  
-चण्डेतरालोक**सम्भावितानेक**वन्दारुवृन्दारक स्वच्छवेलातिग-स्वच्छवे ।  
+चण्डेतराऽऽलोक-**सम्भावितानेक**-वन्दारु-वृन्दारक स्वच्छ-वेलातिग-स्वच्छवे ।  
 +++(Oh Martanda, you grace the gods who are forever praising you with a light which is anything but fierce, pure in your own boundless splendour – victory!)+++
 
-नम उदयगिरीन्द्रनिस्तन्द्रपारीन्द्र+++(=मृगेन्द्र)+++पाली+++(=कोण)+++**सटा**सान्द्र**नीहारबिन्दु**-च्छटा+++(=समूह)+++चौर्यनिष्णात**कोष्णातप**श्रीविमिश्रीभवद्बाल्य  
+नम उदय-गिरीन्द्र-निस्तन्द्र-पारीन्द्र+++(=मृगेन्द्र)+++पाली+++(=कोण)+++-**सटा**-सान्द्र-**नीहार-बिन्दु**-च्छटा+++(=समूह)+++चौर्यनिष्णात-**कोष्णातप**-श्री-विमिश्री-भवद्-बाल्य  
 +++(Your youth is attended by a glorious warm light which skillfully steals the web of snowflakes that lie thick upon the manes of the troop of awakening lions on the sunrise mountain.)+++  
-कल्या+++(=उषा)+++नलैक**स्फुलिङ्गाय** ते  
+कल्या+++(=उषा)+++-नलैक**स्फुलिङ्गाय** ते  
 +++(You are the single spark that lights the fire of dawn. )+++  
-वीतलिङ्गाय तेजस्विने  
+वीत-लिङ्गाय तेजस्विने  
 +++(Splendid, you cannot be characterised. )+++  
-स्वैरमभ्यस्तबिभ्यज्जन**त्राणलीलाय**  
+स्वैरम्-अभ्यस्त-बिभ्यज्-जन-**त्राण-लीलाय**  
 +++(You freely undertake the protection of the terror-struck – child’s play to you. )+++  
-नीलायताकाशवैकुण्ठ**वक्षोजुषे** कौस्तुभाय  
+नीलायताकाश-वैकुण्ठ-**वक्षो-जुषे** कौस्तुभाय  
 +++(You are the kaustubha jewel that lies upon the dark expanse of the sky that forms Vishnu’s chest.)+++  
-त्रिलोकैकपूज्याय सेन्दुग्रहज्यायसे ।  
+त्रिलोकैक-पूज्याय सेन्दु-ग्रह-ज्यायसे ।  
 +++( You alone are worthy of the three worlds’ worship, eldest among the moon and celestial beings – to you I bow. )+++
 
 <div class="audioEmbed"  caption="शङ्करवाचनम्" src="https://archive.org/download/mArtaNDa-daNDakaH/AUD-20141115-WA0007.mp3"></div>
