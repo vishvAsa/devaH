@@ -57,8 +57,8 @@ practice_weight: 0
 <div class="audioEmbed"  caption="शङ्करवाचनम्" src="https://archive.org/download/mArtaNDa-daNDakaH/AUD-20141115-WA0007.mp3"></div>
 
 ## अवसानम्
-मित्रानुग्रहरूपे महति व्यसनातप-च्छिदि च्छत्रे ।  
-श्रीशङ्करेण घटितं प्रीत्या गृह्णन्तु दण्डकं विबुधाः ॥  
+मित्राऽनुग्रह-रूपे महति व्यसनाऽऽतप-च्छिदि **च्छत्रे** ।  
+श्रीशङ्करेण **घटितं** प्रीत्या **गृह्णन्तु दण्डकं** विबुधाः ॥  
 +++(Let the wise gladly accept this daṇḍaka which Sri Shankar fixed upon the great umbrella – in the form of the grace of the sun – which destroys the burning heat of misfortune.)+++
 
 
