@@ -1,5 +1,5 @@
 ---
-title: +लोकाः
+title: +लोकान्तरम्
 ---
 
 {{< figure src="images/bhU-devI.png" title="" >}}
