@@ -10,7 +10,7 @@ unicode_script: devanagari
 - आथर्वणनक्षत्रकल्पे - "षट् कृत्तिका, एका रोहिणी, तिस्रो मृगशिर, एकार्द्रा, द्वे पुनर्वसू, एकः पुष्यः, षड् आश्लेषाः, षण् मघाः, चतस्रः फल्गुन्यः, पञ्च हस्त, एका चित्रा, एका स्वातिर्, द्वे विशाखे, चतस्रो ऽनुराधा, एका ज्येष्ठा, सप्त मूलम्, अष्टाव् अषाढा, एको ऽभिजित्, तिस्रः श्रवणः, पञ्च श्रविष्ठा, एका शतभिषा, चतस्रः प्रोष्ठपदौ, एका रेवती, द्वे अश्वयुजौ, तिस्रो भरण्य - इति सङ्ख्या परिमितं ब्रह्म॥" - ([MT](https://manasataramgini.wordpress.com/2017/07/01/a-note-on-the-asterisms-forming-the-nak%e1%b9%a3atra-s/))
 - ब्रह्मगुप्तः खण्डखाध्यके - "मूल अज अहिर्बुध्न्य अश्वयुग् अदिति इन्द्राग्नी फल्गुनी द्वितयम् । त्वाष्ट्र-गुरु-वारुण आर्द्र अनिल-पौष्णान्य् एक ताराणि ॥ ब्रह्म इन्द्र-यम-हरि इन्दु-त्रितयम् षड्-वह्नि-भुजग-पित्र्याणि । मैत्राषाड-चतुष्कम् वसु-रवि-रोहिण्य इति पञ्च ॥" तदा तु - "कृत्तिका: ६; रोहिणी: ५ (likely whole Hyades+Aldebaran); मृगशिरस्: ३; आर्द्रा: १; पुनर्वसू: २; पुष्य: १; आश्लेषा: ६; मघा: ५; फल्गुनि-स्: २ एअछ्; हस्त: ५; चित्रा: १; स्वाति: १; विशाख: २; अनुराधा: ४; ज्येष्ठा: ३; मूल: १; अषाढा-स्: ४ एअछ्; अभिजित्: ३; श्रवण: ३; श्रविष्ठा: ५; शतभिषा: १; प्रोष्ठपद-स्: २ एअछ्; रेवती: १; अश्वयुजौ: २; भरणि: ३।।"
   
-## कृत्तिकाः
+## कृत्तिकाः - अग्निः
   
 {{<figure src="../../images/naxatra/wiki/kRttikA.png" title="कृत्ति॑काः" class="thumbnail">}}
 {{<figure src="../../images/naxatra/stellarium/kRttikAH.png" title="कृत्ति॑काः" class="thumbnail">}}  
@@ -32,7 +32,7 @@ unicode_script: devanagari
 - "in Greek tradition there was an older record of 7 with Aratus claiming that one of them had faded away. This is generally believed to be Ambā (Greek Pleione/ 28 Tauri)."  - ([MT](https://manasataramgini.wordpress.com/2017/07/01/a-note-on-the-asterisms-forming-the-nak%e1%b9%a3atra-s/))
 - अत्र विषुवदिनम् इति तैत्तिरीयब्राह्मणाद् अनुमेयम् ~ २३०० BCE।
   
-## रोहिणी  
+## रोहिणी - प्रजापतिः
   
 {{<figure src="../../images/naxatra/wiki/kRttikA.png" title="रोहि॒णी" class="thumbnail">}}
 {{<figure src="../../images/naxatra/stellarium/rohiNI.png" title="रोहि॒णी" class="thumbnail">}}  
@@ -52,7 +52,7 @@ unicode_script: devanagari
 - प्रजापत्यनुसरणकथा पश्चादुच्यते।
 - विषुवदिनम् अत्रावर्तत ३००० BCE इति वर्षे।
 
-## मृगशीर्षम्
+## मृगशीर्षम् - सोमः
   
 {{<figure src="../../images/naxatra/wiki/mRgashIrSha.png" title="मृगशीर्षम्" class="thumbnail">}}
 {{<figure src="../../images/naxatra/stellarium/mRgashIrSham.png" title="मृगशीर्षम्" class="thumbnail">}}  
@@ -76,7 +76,7 @@ unicode_script: devanagari
 - मृगशीर्षकथा ऽध आर्द्राभागे दृश्या।
 
 
-## आर्द्रा
+## आर्द्रा - रुद्रः
   
 {{<figure src="../../images/naxatra/wiki/mRgashIrSha.png" title="आ॒र्द्रा" class="thumbnail">}}
 {{<figure src="../../images/naxatra/stellarium/ArdrA.png" title="आ॒र्द्रा" class="thumbnail">}}  
@@ -96,7 +96,7 @@ unicode_script: devanagari
 - Further, this is supported by the evidence of the Aitareya Brāhmaṇa on the famed āgnimāruta-śastra recitation:  प्रजापतिबाणो हि orion belt इति। स बाणो रोहिणीम् अनुसरते प्रजापतये। पूर्णकथा [ऽत्र](../../../../kalpaH/brAhmaNam/aitareya/tattvam/pashupati-prajApati-rohiNI/)।
 - "Further, the name Ārdrā means moist indicating a link with the wet season. The Iranian equivalent of Sirius, Tishtrya is also associated with rain suggesting that Ārdrā inherits this ancestral association."
 
-## पुनर्वसू  
+## पुनर्वसू - अदितिः
 
 {{<figure src="../../images/naxatra/wiki/punarvasU.png" title="पुन॒र्वसू" class="thumbnail">}}
 {{<figure src="../../images/naxatra/stellarium/punarvasU.png" title="पुन॒र्वसू" class="thumbnail">}}  
@@ -117,7 +117,7 @@ unicode_script: devanagari
 - रामायणे - "kumbhakarṇa-śiro bhāti kuṇḍalālaṅkṛtaṃ mahat । āditye’bhyudite rātrau madhyastha iva candramāḥ ॥"
 - "These allusions indicate that the two-headed nature of the constellation of Gemini was transposed on to the presiding deity Aditi and the inversion associated with the two heads along with the eastward and westward paths might indicate an old memory of the start of the ecliptic at Aditi in prehistoric times (>7000 years BP)."
   
-## तिष्यम् / पुष्यम्
+## तिष्यम् / पुष्यम् - बृहस्पतिः
   
 {{<figure src="../../images/naxatra/wiki/tiShya.png" title="तिष्यम्" class="thumbnail">}}
 {{<figure src="../../images/naxatra/stellarium/tiShyaH.png" title="तिष्यम्" class="thumbnail">}}  
@@ -136,7 +136,7 @@ unicode_script: devanagari
 - Ṛgveda - यु॒ष्माद॑त्तस्य मरुतो विचेतसो रा॒यः स्या॑म र॒थ्यो॒३॒॑ वय॑स्वतः । न यो युच्छ॑ति ति॒ष्यो॒३॒॑ यथा॑ दि॒वो॒३॒॑ऽस्मे रा॑रन्त मरुतः सह॒स्रिण॑म् ॥ 
     - " The comparison of great riches, in thousands, is indicative of the great mass of stars in the open cluster supporting the identification of the old Tiṣya with M44."
   
-## आश्रेषाः  
+## आश्रेषाः - सर्पाः
   
 {{<figure src="../../images/naxatra/wiki/AshreShA.png" title="आश्रेषाः" class="thumbnail">}}
 {{<figure src="../../images/naxatra/stellarium/AshreShAH.png" title="आश्रेषाः" class="thumbnail">}}  
@@ -156,7 +156,7 @@ unicode_script: devanagari
 - "It corresponds to the head of the Greek constellation of Hydra, suggesting that the link to a snake goes back to early Indo-European times. Āśleṣā is specifically associated with the head of the snake. Hence, the 6 stars should correspond to \theta , \zeta , \epsilon , \delta , \sigma , \eta Hydrae."
 - वेदाङ्गज्योतिषानुसारम् अस्य मध्य आसीद् अयनारम्भः ~ ११०० BCE इत्यस्मिन्।
   
-## मघाः
+## मघाः - पितरः
   
 {{<figure src="../../images/naxatra/wiki/maghA.png" title="मघा" class="thumbnail">}}
 {{<figure src="../../images/naxatra/stellarium/maghAH.png" title="मघा" class="thumbnail">}}  
@@ -175,7 +175,7 @@ unicode_script: devanagari
 ### टिप्पण्यः
 - "Atharvaveda Nakṣatra sūkta states that the summer solstice happened in this asterism pointing to a period of ~4400 YBP"
  
-## पूर्व-फल्गुन्यः 
+## पूर्व-फल्गुन्यः  - अर्यमा
   
 {{<figure src="../../images/naxatra/wiki/maghA.png" title="फल्गु॑न्यः" class="thumbnail">}}
 {{<figure src="../../images/naxatra/stellarium/pUrva-phAlgunyau.png" title="फल्गु॑न्यः" class="thumbnail">}}  
@@ -195,7 +195,7 @@ unicode_script: devanagari
     - विवरणानि [सौर-चान्द्र-मान-पृष्ठे](../../../../mantraH/worlds/Rk/naxatra-suuktam/)। 
 
   
-## उत्तर-फल्गुन्यः
+## उत्तर-फल्गुन्यः - भगः
   
 {{<figure src="../../images/naxatra/wiki/maghA.png" title="फल्गुन्यः" class="thumbnail">}}
 {{<figure src="../../images/naxatra/stellarium/uttara-phAlgunyau.png" title="फल्गुन्यः" class="thumbnail">}}  
@@ -211,7 +211,7 @@ unicode_script: devanagari
 भगा॑य॒ स्वाहा॒ फल्गु॑नीभ्या॒ꣳ॒ स्वाहा॑।  
 श्रेष्टाया॑य॒ स्वाहा॑।  
   
-## हस्तः
+## हस्तः - सविता
   
 {{<figure src="../../images/naxatra/wiki/hasta.png" title="हस्तः" class="thumbnail">}}
 {{<figure src="../../images/naxatra/stellarium/hastaH.png" title="हस्तः" class="thumbnail">}}  
@@ -227,7 +227,7 @@ unicode_script: devanagari
 ऽऽदद॒ते स्वाहा॑ पृण॒ते स्वाहा॑  
 प्र॒यच्छ॑ते॒ स्वाहा॑ प्रतिगृभ्ण॒ते स्वाहा॑।  
   
-## चित्रा
+## चित्रा - त्वष्टा
   
 {{<figure src="../../images/naxatra/wiki/chitrA.png" title="चित्रा" class="thumbnail">}}
 {{<figure src="../../images/naxatra/stellarium/chitrA.png" title="चित्रा" class="thumbnail">}}  
@@ -245,7 +245,7 @@ unicode_script: devanagari
 - "The star itself is one the nakṣatra-s mentioned in the RV (according to us contra white indological opinion)."
 - "In the TB 1.5.1.3 Citrā is described as an additional star of the god Indra."
 
-## निष्ट्या, स्वातिः
+## निष्ट्या, स्वातिः - वायुः
   
 {{<figure src="../../images/naxatra/wiki/niShTyA.png" title="निष्ट्या॑" class="thumbnail">}}
 {{<figure src="../../images/naxatra/stellarium/niShTyA_svAtiH.png" title="निष्ट्या॑" class="thumbnail">}}  
@@ -260,7 +260,7 @@ unicode_script: devanagari
 का॒म॒चारा॑य॒ स्वाहा॒ऽभिजि॑त्यै॒ स्वाहा॑।  
   
   
-## विशाखे
+## विशाखे - इन्द्राग्नी
   
 {{<figure src="../../images/naxatra/wiki/vishAkhA.png" title="विशा॑खे" class="thumbnail">}}
 {{<figure src="../../images/naxatra/stellarium/vishAkhA.png" title="विशा॑खे" class="thumbnail">}}  
@@ -288,7 +288,7 @@ unicode_script: devanagari
   
 पौ॒र्ण॒मा॒स्यै स्वाहा॒ कामा॑य॒ स्वाहा ग॑त्यै॒ स्वाहा॑  
   
-## अनूराधाः
+## अनूराधाः - मित्रः
   
 {{<figure src="../../images/naxatra/wiki/anUrAdhAH.png" title="अ॒नू॒रा॒धाः" class="thumbnail">}}
 {{<figure src="../../images/naxatra/stellarium/anUrAdhAH.png" title="अ॒नू॒रा॒धाः" class="thumbnail">}}  
@@ -304,7 +304,7 @@ unicode_script: devanagari
 मि॒त्राय॒ स्वाहा॑ऽनूरा॒धेभ्यः॒ स्वाहा॑।  
 मि॒त्र॒धेया॑य॒  स्वाहा॒ऽभिजि॑त्यै॒ स्वाहा॑।  
   
-## ज्येष्ठा
+## ज्येष्ठा - इन्द्रः
   
 {{<figure src="../../images/naxatra/wiki/anUrAdhAH.png" title="ज्येष्ठा" class="thumbnail">}}
 {{<figure src="../../images/naxatra/stellarium/anUrAdhAH.png" title="ज्येष्ठा" class="thumbnail">}}  
@@ -322,7 +322,7 @@ unicode_script: devanagari
 ### टिप्पणिः
 - "The TB describes this star as a second Rohiṇī keeping with the red color of the star."
 
-## मूलम्
+## मूलम् - निरृतिः
   
 {{< figure src="../../images/naxatra/wiki/anUrAdhAH.png" title="" class="thumbnail">}}  
 {{< figure src="../../images/naxatra/stellarium/mUlam.png" title="" class="thumbnail">}}  
@@ -340,7 +340,7 @@ unicode_script: devanagari
 ### टिप्पणिः
 "In the Rāmāyaṇa it is associated with Rākṣasa-s who are supposed to have emanated from Nirṛtti."
 
-## अषाढाः पूर्वाः
+## अषाढाः पूर्वाः - आपः
   
 {{< figure src="../../images/naxatra/wiki/aShADhAH.png" title="" class="thumbnail">}}  
 {{< figure src="../../images/naxatra/stellarium/pUrva-aShADhAH.png" title="" class="thumbnail">}}  
@@ -357,7 +357,7 @@ unicode_script: devanagari
   
 
 
-## अषाढाः उत्तराः
+## अषाढाः उत्तराः - विश्वे देवाः
   
 {{< figure src="../../images/naxatra/wiki/aShADhAH.png" title="" class="thumbnail">}}  
 {{< figure src="../../images/naxatra/stellarium/uttara-aShADhAH.png" title="" class="thumbnail">}}  
@@ -391,7 +391,7 @@ unicode_script: devanagari
 - "However, its name meaning the all conquering is equivalent to the Iranian name for the same star Vanant. This suggests that it might have been an ancient association."
 - "The Aitareya brāhmaṇa indicates that it was used to mark the day just before the svarasāman days during the annual sattra. Tilak we believe rightly realized this was the reason why Abhijit was important in the early period to mark this ritual day which in turn is critical for marking the days leading up to the Viśuvān day."
   
-## श्रोणा / श्रवणम्
+## श्रोणा / श्रवणम् - विष्णुः
   
 {{< figure src="../../images/naxatra/wiki/shroNA.png" title="" class="thumbnail">}}  
 {{< figure src="../../images/naxatra/stellarium/shroNA.png" title="" class="thumbnail">}}  
@@ -406,7 +406,7 @@ unicode_script: devanagari
 विष्ण॑वे॒ स्वाहा॑ श्रो॒णायै॒ स्वाहा॑।  
 श्लोका॑य॒ स्वाहा॑ श्रु॒ताय॒स्स्वाहा॑।  
   
-## धनिष्ठाः/ श्रविष्ठाः
+## धनिष्ठाः/ श्रविष्ठाः - वसवः
   
 {{< figure src="../../images/naxatra/wiki/dhaniShThA.svg" title="" class="thumbnail">}}  
 {{< figure src="../../images/naxatra/stellarium/dhaniShThA_shraviShThA.png" title="" class="thumbnail">}}  
@@ -421,7 +421,7 @@ unicode_script: devanagari
 वसु॑भ्यः॒ स्वाहा॒ श्रवि॑ष्ठाभ्यः॒ स्वाहा॑।  
 अग्रा॑य॒ स्वाहा॒ परी॑त्यै॒ स्वाहा॑।  
   
-## शतभिषग्
+## शतभिषग् - वरुणः
   
 {{< figure src="../../images/naxatra/wiki/shatabhiShaj.png" title="" class="thumbnail">}}  
 {{< figure src="../../images/naxatra/stellarium/shatabhiShaj.png" title="" class="thumbnail">}}  
@@ -439,7 +439,7 @@ unicode_script: devanagari
 ### टिप्पणिः
 "There is an asterism of Iranians known as Satavaēsa, which we hold to be the equivalent of the Vedic one. The Iranian asterism was associated with the sea while the Vedic one with Varuṇa. The possibility of Fomalhaut (\alpha  Pisces Austrinisis) being this star is not implausible."
   
-## प्रोष्ठपदाः/ भाद्रपदाः पूर्वाः
+## प्रोष्ठपदाः/ भाद्रपदाः पूर्वाः - अज एकपात्
   
 {{< figure src="../../images/naxatra/wiki/proShThapada.png" title="" class="thumbnail">}}  
 {{< figure src="../../images/naxatra/stellarium/pUrva-proShThapadau.png" title="" class="thumbnail">}}  
@@ -455,7 +455,7 @@ unicode_script: devanagari
 तेज॑से॒ स्वाहा॑ ब्रह्मवर्च॒साय॒ स्वाहा॑।  
   
 
-## प्रोष्ठपदाः/ भाद्रपदाः उत्तराः  
+## प्रोष्ठपदाः/ भाद्रपदाः उत्तराः  - अहिर् बिध्नियः
   
 {{< figure src="../../images/naxatra/wiki/proShThapada.png" title="" class="thumbnail">}}  
 {{< figure src="../../images/naxatra/stellarium/uttara-proShThapadau.png" title="" class="thumbnail">}}  
@@ -505,7 +505,7 @@ unicode_script: devanagari
 - "अश्विनौ व्यात्तम्" इत्युत्तरनारयणे। भरणीविषुवकाले। विवरणानि [अत्र](../../../../jyotisha/naxatram/chAndra-naxatram/)।
 - पश्चाद् विशुवस्थानम् अत्र।
   
-## भरणी
+## भरणी - यमः
   
 {{< figure src="../../images/naxatra/wiki/bharaNI.png" title="" class="thumbnail">}}  
 {{< figure src="../../images/naxatra/stellarium/bharaNI.png" title="" class="thumbnail">}}  
