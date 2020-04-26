@@ -8,7 +8,7 @@ unicode_script: devanagari
 - चार्वाका एव नाङ्गीकुर्वन्ति केचित्।
 
 ### प्रकाराः
-- अर्थापत्तिः - [अभिधापत्रं दृश्यताम्](../../sanskrit/vyAkaraNam/shabdabodhaH/arthAMshAH/abhidhA.md)।। 
+- अर्थापत्तिः - [अभिधापत्रं दृश्यताम्](../../sanskrit/vyAkaraNam/shabdabodhaH/00-arthAMshAH/abhidhA.md)।। 
 - अनुमानं द्विविधं - स्वार्थं परार्थं च॥ (अनुमितिर् इति वाच्यम् इति व्याख्यातारः।)
 
 #### स्वार्थम्
