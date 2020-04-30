@@ -1,5 +1,5 @@
 ---
-title: त्वन्नो अग्ने
+title: त्वन् नो अग्ने
 unicode_script: devanagari
 practice_weight: 5
 ---
