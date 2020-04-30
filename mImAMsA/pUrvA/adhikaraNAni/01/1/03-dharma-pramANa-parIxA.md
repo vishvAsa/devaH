@@ -1,5 +1,5 @@
 ---
-title: ०२ धर्म-प्रमाण-परीक्षा
+title: ०३ धर्म-प्रमाण-परीक्षा
 unicode_script: devanagari
 ---
 
