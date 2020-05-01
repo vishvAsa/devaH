@@ -45,6 +45,7 @@ unicode_script: devanagari
 <div class="js_include" url="../../misc-devas/Rk/dAmpatyam/viShNur_yonim.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
 
+## प्रासङ्गिक-जपाः
 ### मन्त्रः 5 
 अ॒नु॒ह॒वं प॑रिह॒वं प॑रीवा॒दं प॑रिक्ष॒पम् ।  
 दुस्स्व॑प्नं॒ दुरु॑दितं॒ तद्द्वि॒षद्भ्यो॑ दिशाम्य॒हम् ।  
