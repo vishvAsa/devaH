@@ -78,9 +78,9 @@ _____________
 दी॒र्घम् आयुः॑ कृणोतु वाम् ।  
 
 
-<div class="js_include" url="../../AdityaH/Rk/imam_me_varuNa.md"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="../../../AdityaH/Rk/imam_me_varuNa.md"  newLevelForH1="4" includeTitle="true"> </div>  
 
-<div class="js_include" url="../../agniH/Rk/tvan_no_agne.md"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="../../../agniH/Rk/tvan_no_agne.md"  newLevelForH1="4" includeTitle="true"> </div>  
 
 
 इति श्रीहरदत्तविरचिते एकाग्निकाण्डमन्त्रव्याख्याने अष्टमः खण्डः ॥
