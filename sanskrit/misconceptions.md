@@ -54,7 +54,7 @@ title: Misconceptions
 - Linguists say that Sanskrit \*borrowed\* from as well as lent words to other languages (a hallmark of living languages).
     - Sanskritization is often involved in the process of borrowing.
         - This involves coining newer more Sanskrit words that sound similar to the alien word.
-            - Eg. sultan -> सुरत्राणः chocolate-> चाकलेहः mughal -> मौद्गल। (Hammira-kaavya)
+            - Eg. sultan → सुरत्राणः chocolate→ चाकलेहः mughal → मौद्गल। (Hammira-kaavya)
         - Inspiration is drawn from the nirukta and the uNAdi sUtra-s of grammar to legitimize the use of these new words.
     - Examples
         - Borrowed words from farsi - कलम। दीनार। (both used by kShemendra)
