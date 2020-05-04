@@ -16,7 +16,7 @@ unicode_script: devanagari
 दु॒र्गां दे॒वीꣳ शर॑णम॒हं प्रप॑द्ये  
 सु॒तर॑सि+++(=सुतारयित्रि!)+++ तरसे॒+++(=तारयित्र्यै)+++ नमः॑॥
 
-<div class="js_include" url="agne_tvam_pAraya.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="../agne_tvam_pAraya/"  newLevelForH1="2" includeTitle="false"> </div>  
 
 विश्वा॑नि नो दु॒र्गहा॑ जातवेदः॒  
 सिन्धुं॒ न ना॒वा दु॑रि॒ताऽति॑ पर्षि।  

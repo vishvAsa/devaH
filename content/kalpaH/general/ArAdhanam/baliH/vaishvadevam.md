@@ -28,7 +28,7 @@ unicode_script: devanagari
 - गृहमेधिना ऽशनीयम् अन्नं संस्कृत्य, परनिर्मितञ्चेत् प्रोक्ष्य, "भूतम्" इत्युक्तः "तत् सुभूतम्। विराडन्नम्। तन् मा क्षायि" इति प्रतिवदेत्
 
 ### मन्त्रपाठः
-<div class="js_include" url="../../../../mantraH/misc-devas/yajuH/taittirIya-vaishvadevam.md"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" url="../../../../../mantraH/misc-devas/yajuH/taittirIya-vaishvadevam/"  newLevelForH1="3" includeTitle="true"> </div>  
 
 ### होमः
 - पूर्वपरिषेचनम्

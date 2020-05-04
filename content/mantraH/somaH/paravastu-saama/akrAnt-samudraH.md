@@ -7,7 +7,7 @@ practice_weight: 0
 
 ## ऋक्
 
-<div class="js_include" url="../Rk/akrAnt-samudraH.md"  newLevelForH1="3" includeTitle="false"> </div> 
+<div class="js_include" url="../../Rk/akrAnt-samudraH/"  newLevelForH1="3" includeTitle="false"> </div> 
 
 
 ## साम

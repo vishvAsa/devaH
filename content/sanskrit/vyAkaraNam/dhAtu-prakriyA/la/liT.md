@@ -3,9 +3,9 @@ title: लिट्
 unicode_script: devanagari
 ---
 
-<div class="js_include" url="../angAni/dhAtuvivekaH.md"  newLevelForH1="1" includeTitle="true"> </div>
+<div class="js_include" url="../../angAni/dhAtuvivekaH/"  newLevelForH1="1" includeTitle="true"> </div>
 
-<div class="js_include" url="../angAni/vivaxA-kalanam.md"  newLevelForH1="1" includeTitle="true"> </div>
+<div class="js_include" url="../../angAni/vivaxA-kalanam/"  newLevelForH1="1" includeTitle="true"> </div>
 
 ## अनुप्रयोगपक्षे
 - आम्-योजनम्, अनुप्रयोगः
@@ -44,10 +44,10 @@ unicode_script: devanagari
 
 ## कित्-कर्म
 सम्प्रसारणम्।
-<div class="js_include" url="../angAni/kNit.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../angAni/kNit/"  newLevelForH1="3" includeTitle="true"> </div>
 
 
-<div class="js_include" url="../angAni/abhyAsaH.md"  newLevelForH1="1" includeTitle="true"> </div>
+<div class="js_include" url="../../angAni/abhyAsaH/"  newLevelForH1="1" includeTitle="true"> </div>
 
 ## अभ्यासयोजनम्
 - अभ्यासस्य सम्प्रसारणम् पिति

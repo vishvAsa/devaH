@@ -10,4 +10,4 @@ unicode_script: devanagari
   - अनदन्ते ऽङ्गे - ते आते अन्ते, थे आथे ध्वे, ए आवहे, आमहे
   - स्मर्तुं सरलम् - त आताम् झ, थास्‌ आथाम्‌ ध्वम्‌, इड्‌ वहि महिङ्‌ + ए।
 
-<div class="js_include" url="puruSha-vachana-chitiH.md"  newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="../puruSha-vachana-chitiH/"  newLevelForH1="2" includeTitle="true"> </div>

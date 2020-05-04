@@ -91,9 +91,9 @@ ___________
 स्यान् न॑स् सू॒+++(~~सु~~)+++नुस् तन॑यो+++(=पौत्रः)+++  
 वि॒जावा+++(विजनक)+++ ऽग्ने॒ सा ते॑ सुम॒तिर् भू᳚त्व् अ॒स्मे+++(=स्मासु)+++ ।   
 
-<div class="js_include" url="../../../AdityaH/Rk/imam_me_varuNa.md"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="../../../../../AdityaH/Rk/imam_me_varuNa/"  newLevelForH1="4" includeTitle="true"> </div>  
 
-<div class="js_include" url="../../../agniH/Rk/tvan_no_agne.md"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="../../../../../agniH/Rk/tvan_no_agne/"  newLevelForH1="4" includeTitle="true"> </div>  
 
 
 ## क्षीरिवृक्षाद्यतिक्रमे जपः 
