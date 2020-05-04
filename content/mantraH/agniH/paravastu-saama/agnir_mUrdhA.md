@@ -6,7 +6,7 @@ unicode_script: devanagari
 
 ## ऋक्
 
-<div class="js_include" url="../../Rk/agnir-mUrdhA/"  newLevelForH1="3" includeTitle="false"> </div> 
+<div class="js_include" url="../../Rk/agnir_mUrdhA/"  newLevelForH1="3" includeTitle="false"> </div> 
 
 
 ## साम
@@ -16,13 +16,13 @@ unicode_script: devanagari
 - कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume2SatyavrataSamasrami1876bis_201804/page/n423)।
 
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/agnir-mUrdhA.mp3"></div>
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/agnir_mUrdhA.mp3"></div>
 <div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/agnir-mUrdhA.mp3"></div>
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/agnir_mUrdhA.mp3"></div>
 <div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1x" src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018/agnir-mUrdhA.mp3"></div>
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018/agnir_mUrdhA.mp3"></div>
 <div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1.5x" src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018-150p-speed/agnir-mUrdhA.mp3"></div>
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018-150p-speed/agnir_mUrdhA.mp3"></div>
 
 {हा+++([ऽ"प])+++उ}+++([त्रिः])+++।  
 {भ्रा+++(["टि])+++जा +++(["])+++, ओवा}+++([द्विः])+++॥ भ्रा+++([])+++जा, ओवा+++(")+++अ ।

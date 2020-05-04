@@ -28,7 +28,7 @@ unicode_script: devanagari
 
 ### पर्यवसानम्
 स वा ए॒ष य॒ज्ञस्, स॒द्यः प्रता॑यते स॒द्यस् सन्ति॑ष्ठते। तस्य॒ प्राक् सा॒यम् अ॑वभृ॒थो - 
-<div class="js_include" url="../../../../../mantraH/misc-devas/Rk/namo-brahmaNe/"  newLevelForH1="3" includeTitle="false"> </div>
+<div class="js_include" url="../../../../../mantraH/misc-devas/Rk/namo_brahmaNe/"  newLevelForH1="3" includeTitle="false"> </div>
 
 ततो॒ यत्किञ्च॒ ददा॑ति॒ सा दक्षि॑णा । (16) ।। 13 । 
 

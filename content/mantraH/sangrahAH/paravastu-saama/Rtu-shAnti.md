@@ -89,13 +89,13 @@ unicode_script: devanagari
 
 # पञ्च शांतिः
 
-<div class="js_include" url="../../../misc-devas/Rk/tat-shaMyoH/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../../../misc-devas/Rk/tat_shaMyoH/"  newLevelForH1="2" includeTitle="true"> </div>  
 
-<div class="js_include" url="../../../misc-devas/yajuH/shanno-mitraH/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../../../misc-devas/yajuH/shanno_mitraH/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 <div class="js_include" url="../../../misc-devas/yajuH/sahanAvavatu/"  newLevelForH1="2" includeTitle="true"> </div>  
 
-<div class="js_include" url="../../../misc-devas/yajuH/bhadraM-karNebhiH/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../../../misc-devas/yajuH/bhadraM_karNebhiH/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 ## ऋक्
 
