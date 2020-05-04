@@ -66,7 +66,7 @@ unicode_script: devanagari
 अथा॒ पत्या॑ त॒न्वꣳ॑ सꣳसृ॑जस्व ।। (1)
 
 ### स्नानम्  
-<div class="js_include" url="../../../../jalam/Rk/hiraNyavarNAsh-shuchayaH/"  newLevelForH1="4" includeTitle="true"> </div>
+<div class="js_include" url="../../../../jalam/Rk/hiraNyavarNAsh_shuchayaH/"  newLevelForH1="4" includeTitle="true"> </div>
 
 ### अहतस्य वाससः परिधानम्
 परि॑ त्वा गिर्-वणो॒+++(=सम्भक्तः)+++  
@@ -122,7 +122,7 @@ unicode_script: devanagari
 स त्वा॒ मन्म॑नसं+++(!)+++ कृणोतु ।   
 
 ## सप्तपदान्यभिप्रक्रमयति
-<div class="js_include" url="../../../../viShNuH/yajuH/ekam-iShe/"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="../../../../viShNuH/yajuH/ekam_iShe/"  newLevelForH1="3" includeTitle="false"> </div>  
 
 ## षोडश प्रधानाहुतिमन्त्राः
 सोमा॑य जनि॒+++(=जाया)+++विदे॒ स्वाहा॑ ।  

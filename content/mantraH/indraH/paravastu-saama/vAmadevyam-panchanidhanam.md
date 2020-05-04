@@ -5,7 +5,7 @@ unicode_script: devanagari
 
 ## ऋक्
 अधो वर्तमति प्रथमा ऽर्क्।
-<div class="js_include" url="../../Rk/kayA-nash-chitra/"  newLevelForH1="3" includeTitle="false"> </div>
+<div class="js_include" url="../../Rk/kayA_nash_chitra/"  newLevelForH1="3" includeTitle="false"> </div>
 
 ## निधनानि ५
 - [इह प्रजाम् इह रयिम् रराण!]  

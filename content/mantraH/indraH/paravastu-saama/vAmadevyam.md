@@ -6,7 +6,7 @@ unicode_script: devanagari
 
 ## ऋक्
 
-<div class="js_include" url="../../Rk/kayA-nash-chitra/"  newLevelForH1="3" includeTitle="false"> </div>
+<div class="js_include" url="../../Rk/kayA_nash_chitra/"  newLevelForH1="3" includeTitle="false"> </div>
 
 
 ## साम - वामदेव्यम्।

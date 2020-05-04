@@ -86,7 +86,7 @@ unicode_script: devanagari
 
 ### स्नापनम्
 
-<div class="js_include" url="../../../../../mantraH/AdityaH/Rk/druho-munchAmi/"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="../../../../../mantraH/AdityaH/Rk/druho_munchAmi/"  newLevelForH1="4" includeTitle="true"> </div>  
 
 ### दधि-घृत-प्राशनम्
 भूस्स्वाहा॒ भुव॒स्स्वाहा॒ सुव॒स्स्वाहा। ॐ स्वाहा॑ ।।

@@ -66,11 +66,11 @@ unicode_script: devanagari
 
 # पवित्रवर्गः
 
-<div class="js_include" url="../../../jalam/Rk/Apo-hi-ShThA/"  newLevelForH1="2" includeTitle="true"> </div> 
+<div class="js_include" url="../../../jalam/Rk/Apo_hi_ShThA/"  newLevelForH1="2" includeTitle="true"> </div> 
 
 <div class="js_include" url="../../../somaH/paravastu-saama/tarat-sa-mandI/"  newLevelForH1="2" includeTitle="true"> </div> 
 
-<div class="js_include" url="../../../somaH/Rk/yaH-pAvamAnIH/"  newLevelForH1="2" includeTitle="true"> </div> 
+<div class="js_include" url="../../../somaH/Rk/yaH_pAvamAnIH/"  newLevelForH1="2" includeTitle="true"> </div> 
 
 <div class="js_include" url="../../../indraH/paravastu-saama/eto-nvindram/"  newLevelForH1="2" includeTitle="true"> </div> 
 
