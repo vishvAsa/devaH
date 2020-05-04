@@ -7,7 +7,7 @@ practice_weight: 0
 ## ऋक्
 
 
-<div class="js_include" url="../../Rk/piba-somam/"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="../../Rk/piba_somam/"  newLevelForH1="3" includeTitle="false"> </div>  
 
 ## साम
 
