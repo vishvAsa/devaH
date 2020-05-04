@@ -83,7 +83,7 @@ ____________________
 प्रति॑ नस् सु॒मना॑ भव ।। (14)
 
 ## दम्पत्योः हृदयविश्लेषे हृदयसंसर्गेप्सोर्होमः।
-<div class="js_include" url="../../../AdityaH/Rk/prAtar-agnim/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../../../AdityaH/Rk/prAtar_agnim/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 ## 1.16 तमः खण्डः
 
