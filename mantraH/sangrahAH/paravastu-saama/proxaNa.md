@@ -53,7 +53,7 @@ unicode_script: devanagari
 
 <div class="js_include" url="../../../agniH/paravastu-saama/agna-AyUMShi/"  newLevelForH1="2" includeTitle="true"> </div> 
 
-<div class="js_include" url="../../../agniH/paravastu-saama/agnir-mUrdhA-bhrAjaH/"  newLevelForH1="2" includeTitle="true"> </div> 
+<div class="js_include" url="../../../agniH/paravastu-saama/agnir_mUrdhA_bhrAjaH/"  newLevelForH1="2" includeTitle="true"> </div> 
 
 <div class="js_include" url="../../../rudraH/paravastu-saama/niyutvAn-vAyo/"  newLevelForH1="2" includeTitle="true"> </div>
 
