@@ -7,7 +7,7 @@ practice_weight: 0
 
 ## ऋक्
 
-<div class="js_include" url="../Rk/paravastu-saama/manye-vAm-dyAvApRthivI.md"  newLevelForH1="3" includeTitle="false"> </div> 
+<div class="js_include" url="../../Rk/paravastu-saama/manye-vAm-dyAvApRthivI/"  newLevelForH1="3" includeTitle="false"> </div> 
 
 ## साम 
 
