@@ -134,9 +134,9 @@ _________
 ## होमः
 +++(ते च सर्वे माणवकस्यैव । द्वितीयचतुर्थाव् आचार्यस्येत्येके ।)+++
 
-<div class="js_include" url="../../../../../indraH/Rk/yogeyoge/"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" url="../../../../indraH/Rk/yogeyoge/"  newLevelForH1="3" includeTitle="true"> </div>  
 
-<div class="js_include" url="../../../../../misc-devas/Rk/imam_agna_AyuShe/"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" url="../../../../misc-devas/Rk/imam_agna_AyuShe/"  newLevelForH1="3" includeTitle="true"> </div>  
 
 ### शिष्टम्  
 श॒तम् इन् नु श॒रदो॒ अन्ति॑+++(कं)+++ देवा॒,  
@@ -207,7 +207,7 @@ _________
 
 ### आदित्योपस्थानम्
 +++(सूर्यस्)+++ तच् चक्षु॑र् दे॒व+++(नि)+++हि॑तं पु॒रस्ता॑च् छु॒क्र+++(द्ध)+++म् उ॒च्चर॑त् ।  
-<div class="js_include" url="../../../../../misc-devas/Rk/pashyema_sharadaH/"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="../../../../misc-devas/Rk/pashyema_sharadaH/"  newLevelForH1="3" includeTitle="false"> </div>  
 
 ### हस्तग्रहणमन्त्रः 
 यस्मि॑न् भू॒तञ् च॒ भव्य॑ञ् च॒  
