@@ -1,5 +1,5 @@
 ---
-title: एकाग्निकाण्डम् - टिप्पणयः
+title: +एकाग्निकाण्डम् - टिप्पणयः
 unicode_script: devanagari
 ---
 
@@ -188,15 +188,15 @@ ___________________
 यक्ष्म॒ꣳ॒ सर्व॑स्माद् आ॒त्मन॒स्  
 तम् इ॒मं विवृ॑हामि ते ।  
 
-<div class="js_include" url="vivAhaH/vashU-vAso-dAnam"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="vivAhaH/vadhU-vAso-dAnam"  newLevelForH1="2" includeTitle="true"> </div>  
 
 <div class="js_include" url="upanayanam/"  newLevelForH1="1" includeTitle="true"> </div>  
 
 
 
-## 2.7 तमः खण्डः
+## समावर्तनम्
 
-### मन्त्रः 1 
+### समिदाधानम्
 इ॒म२ꣳ स्तोम॒मर्ह॑ते जा॒तवे॑दसे॒ रथ॑मिव॒ संम॑हेमा मनी॒षया॑ ।  
 भ॒द्रा हि नः॒ प्रम॑तिरस्य स॒ꣳ॒सद्यग्ने॑ स॒ख्ये॑ मारि॑षामा व॒यं तव॑ ।  
 
