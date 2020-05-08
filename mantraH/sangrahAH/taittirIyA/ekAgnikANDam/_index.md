@@ -218,7 +218,7 @@ ____________
 नम॑स्ते अस्तु॒।  
 मा मा॑ हिꣳसीः ।  
 
-<div class="js_include" url="uapanayanam/digvapanam/"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" url="upanayanam/digvapanam/"  newLevelForH1="3" includeTitle="true"> </div>  
 
 ### मेखलाया उपगूहनम्
 इ॒दम् अ॒हम् अ॒मुष्या॑ऽऽमुष्याय॒णस्य॑+++(←नामनिर्देशः)+++ पा॒प्मान॒म् उप॑गूहा॒म्य्,  
