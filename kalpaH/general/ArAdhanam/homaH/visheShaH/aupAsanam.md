@@ -10,7 +10,7 @@ unicode_script: devanagari
 - स्रोतांसि
   - धर्मसिन्धाव् [अत्र](https://archive.org/details/DHARMASINDHU/page/n253)।
 
-<div class="js_include" url="../angAni/agni-raxA.md"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../../angAni/agni-raxA/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 ## होमक्रमः
 - ध्यानश्लोकः -  

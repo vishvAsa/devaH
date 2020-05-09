@@ -63,9 +63,9 @@ practice_weight: 0
 "प्रत्युष्टं रक्षः प्रत्युष्टा अरातय" इत्याहवनीये गार्हपत्ये वासिदं प्रतितपति ३  
 न पर्शुम् ४
 
-<div class="js_include" url="../angAni/barhir-AharaNam.md"  newLevelForH1="1" includeTitle="true"> </div>  
+<div class="js_include" url="../../angAni/barhir-AharaNam/"  newLevelForH1="1" includeTitle="true"> </div>  
 
-<div class="js_include" url="../angAni/idhma.md"  newLevelForH1="1" includeTitle="true"> </div>  
+<div class="js_include" url="../../angAni/idhma/"  newLevelForH1="1" includeTitle="true"> </div>  
 
 
 ## वेदनिर्माणम्

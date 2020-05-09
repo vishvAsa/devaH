@@ -10,7 +10,7 @@ unicode_script: devanagari
    hierarchy. dental < palatal < retroflex"
   - "Panini’s rule 8.4.40 ( स्तोः श्चुनाश्चुः) says that a dental stop or sibilant is replaced by the corresponding palatal stop or sibilant if followed or preceded by a palatal stop or sibilant, e.g., तच्च ."
   - "A palatal never becomes a dental. Panini’s rule 8.4.41 (ष्टुना ष्टुः ) says that a dental stop or sibilant is replaced by the corresponding retroflex stop or sibilant if followed or preceded by a retroflex stop or sibilant, e.g., रामष्टीकाम्. A retroflex consonant never becomes dental."
-  - "Similarly, there are rules to change palatals into retroflex consonants, e.g., राज् + भिस् = राड्भिः, but no retroflex consonant is ever changed into a palatal. This gives us a hierarchy of dental ->palatal -> retroflex, such that there are no changes in the reverse direction. "
+  - "Similarly, there are rules to change palatals into retroflex consonants, e.g., राज् + भिस् = राड्भिः, but no retroflex consonant is ever changed into a palatal. This gives us a hierarchy of dental →palatal → retroflex, such that there are no changes in the reverse direction. "
 
 ## इतिहासः
 ### अभिप्रायाः
@@ -40,7 +40,7 @@ unicode_script: devanagari
 - "ष् is not present in northern Dravidian languages and is absent from Old Kannada, Old Telugu and Old Tamil. ... the development of ष् in Sanskrit, by a special modification of the ruki rule, was a somewhat different process from the emergence of ट ठ ड ढ ण. However, later phonemicization of ष् is indirectly connected with the general levelling of all retroflex sounds."
 - "Now ष् is a cerebral by convention only. It is, like र् a cerebralizer, rather than a cerebral, has been differentiated from the palatal श्, its fellow hush-sound, party for graphical and partly for phonetic reasons. So we find अष्टौ, but अशीतिः, पृष्ट and प्रश्न."
 - "This phoneme is not carried into Middle Indian and for षष्, we find छ, which seems to show that ष् is a graphic variant of क्ष्, regular predecessor of छ् or ख् in Middle Indian. The later confusion of ष् and ख्, both phonetically and graphically (the Gujarati अक्षर for ख् is a form of नागरी ष्.)"
-- श्र् to ष् reduction: In prakrits - श्रयते -> षयति, श्मश्रु -> मषु, श्रमण -> षमन
+- श्र् to ष् reduction: In prakrits - श्रयते → षयति, श्मश्रु → मषु, श्रमण → षमन
 - "This “phonological retroflexion” may be viewed in a functional sense in that all three sounds ऋ, र्, and ष् are “cerebralizers,” if not all cerebrals themselves in the view of the Pratisakhyas. In later texts such as the Paniniya-SiksA, both ऋ and र्, along with ष् are classified as retroflexes, and thus all of them become “cerebralizers” and cerebrals."
   - "This “development” may be viewed as a phonetic development, but at the same time one may speculate that the phonological behavior of these sounds—their phonological or functional retroflexion- may have at least partially contributed to this phonetic shift. Thus, we find that the phonological requirements in Paninian grammar are greatly facilitated if we assume that r and r had the same point-of-articulation classification (Bare 1976:171)."
 
