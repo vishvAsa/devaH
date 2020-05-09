@@ -3,9 +3,9 @@ title: लुट्
 unicode_script: devanagari
 ---
 
-<div class="js_include" url="../angAni/dhAtuvivekaH.md"  newLevelForH1="1" includeTitle="true"> </div>
+<div class="js_include" url="../../angAni/dhAtuvivekaH/"  newLevelForH1="1" includeTitle="true"> </div>
 
-<div class="js_include" url="../angAni/vivaxA-kalanam.md"  newLevelForH1="1" includeTitle="true"> </div>
+<div class="js_include" url="../../angAni/vivaxA-kalanam/"  newLevelForH1="1" includeTitle="true"> </div>
 
 
 ## प्रत्ययनिर्माणम्
@@ -23,5 +23,5 @@ unicode_script: devanagari
 - [आनुकूल्यविचारोऽत्र](../../angAni/iDAgama-nishcayaH/)।
 
 
-<div class="js_include" url="../angAni/ArdhadhAtuka-kAryANi.md"  newLevelForH1="1" includeTitle="true"> </div>
+<div class="js_include" url="../../angAni/ArdhadhAtuka-kAryANi/"  newLevelForH1="1" includeTitle="true"> </div>
 
