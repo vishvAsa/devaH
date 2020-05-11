@@ -29,10 +29,10 @@ unicode_script: devanagari
 - भावः - [कृष्णयजुर्वेदविधौ](../kyv/) यथोक्तम्। अत्र तु प्रयुक्तौ मन्त्रौ सूर्यशब्दवृत्त्या चिताव् इति भाति।
 
 ### प्रातः
-<div class="js_include" url="../../../../mantraH/indraH/Rk/yad-adya-kachcha.md"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="../../../../../mantraH/indraH/Rk/yad_adya_kachcha/"  newLevelForH1="3" includeTitle="false"> </div>  
 
 ### सायम्
-<div class="js_include" url="../../../../mantraH/indraH/Rk/ud-ghed-abhi.md"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="../../../../../mantraH/indraH/Rk/ud_ghed_abhi/"  newLevelForH1="3" includeTitle="false"> </div>  
 
 
 ## गायत्रीमन्त्रजपः
@@ -44,6 +44,6 @@ unicode_script: devanagari
 - अभिवादनम्
 
 ### उपस्थानम् 
-<div class="js_include" url="../../../../mantraH/misc-devas/yajuH/sUrya-iva-dRshe.md"  newLevelForH1="3" includeTitle="false"> </div>  
-<div class="js_include" url="../../../../mantraH/AdityaH/Rk/adya-no-deva.md"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="../../../../../mantraH/misc-devas/yajuH/sUrya-iva-dRshe/"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="../../../../../mantraH/AdityaH/Rk/adya_no_deva/"  newLevelForH1="3" includeTitle="false"> </div>  
 

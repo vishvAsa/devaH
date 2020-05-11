@@ -32,4 +32,4 @@ unicode_script: devanagari
 षड्रात्री॑र् दीक्षि॒तो भ॑वति। षड्वा ऋ॒तव॑स् सव्वँत्स॒रस्, स॑व्वँत्स॒रादे॒वात्मानं॑ पुनीते।  
 ति॒स्रो रात्री॑र् दीक्षि॒तो भ॑वति। त्रि॒पदा॑ गाय॒त्री। गा॑यत्रि॒या ए॒वात्मानं॑ पुनीते।
 
-<div class="js_include" url="../dIxA.md"  newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="../../dIxA/"  newLevelForH1="2" includeTitle="true"> </div>

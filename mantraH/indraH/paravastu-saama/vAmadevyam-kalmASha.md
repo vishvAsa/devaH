@@ -8,7 +8,7 @@ practice_weight: 0
 ## ऋक्
 [अस्मिन् निम्ने निधामहे]  
 
-<div class="js_include" url="../Rk/kayA-nash-chitra.md"  newLevelForH1="3" includeTitle="false"> </div>
+<div class="js_include" url="../../Rk/kayA_nash_chitra/"  newLevelForH1="3" includeTitle="false"> </div>
 
 संयमन् नव्यायम्। अन्वियमन् न समायमन्।  
 ये के चोदरसर्पीणस् तेभ्यो नमः॥

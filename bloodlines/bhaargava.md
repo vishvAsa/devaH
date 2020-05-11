@@ -92,9 +92,9 @@ title: भार्गवाः
 
 ##### प्रजाः 
 - आप्नवानः
-- अरिष्टषेणः -> अनूपः ->नीरथः
-- प्रमतिः ->रुरुः ->शुनकः ->शौनकः
-    - नेमः -> स्यूमरष्मी -> इटन्तः
+- अरिष्टषेणः → अनूपः →नीरथः
+- प्रमतिः →रुरुः →शुनकः →शौनकः
+    - नेमः → स्यूमरष्मी → इटन्तः
     - प्रयोगः
 
 #### आप्नवानः 
@@ -138,7 +138,7 @@ title: भार्गवाः
 ##### प्रजाः 
 - भार्गवो रामः
 - अन्ये \- Ṛumaṇvān, Suhotra, Vasu  and Viśvāvasu
-    - >alekhana->sharkarakSha->sanka->pila->vihInara->barha->R^itabhAga->etaSha->aitaSha->somashuShman->jana->savarNa->jihItaya->maNDavit->suviShTa->vikarNa->... अत्र **श्रीवत्सगोत्रम्**!
+    - >alekhana→sharkarakSha→sanka→pila→vihInara→barha→R^itabhAga→etaSha→aitaSha→somashuShman→jana→savarNa→jihItaya→maNDavit→suviShTa→vikarNa→... अत्र **श्रीवत्सगोत्रम्**!
 
 
 #### भार्गवो रामः

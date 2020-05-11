@@ -6,7 +6,7 @@ practice_weight: 0
 
 ## ऋक्
 
-<div class="js_include" url="../Rk/yad-varcho-hiraNyasya.md"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="../../Rk/yad_varcho_hiraNyasya/"  newLevelForH1="3" includeTitle="false"> </div>  
 
 ## साम १
 

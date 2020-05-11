@@ -23,4 +23,4 @@ unicode_script: devanagari
 
 … यो ऽपू॑त इव॒ मन्ये॑त॒ +++(ब्रह्मचारी)+++ स इ॒त्थञ् जु॑हुयादि॒त्थम॒भिम॑न्त्रयेत। पुनी॑त ए॒वात्मान॒म्। आयु॑रे॒वात्मन् ध॑त्ते।
 
-<div class="js_include" url="../../tattvam/vara-prashaMsA.md"  newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="../../../tattvam/vara-prashaMsA/"  newLevelForH1="2" includeTitle="true"> </div>
