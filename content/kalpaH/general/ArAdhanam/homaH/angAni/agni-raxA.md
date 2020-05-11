@@ -33,7 +33,7 @@ unicode_script: devanagari
 - ततः भस्मारोपणम्। "After completing the aupasanam, I cover the entire agni with the bhasma kept aside. This regulates the airflow, as well as keeps the bran hot for many hours enabling it to fuse well (and form a "bun")."
 
 ### विशेषाः
-- बहूनाम् - (गोमयखण्डम् -> गोधुमतुषाः) इति क्रमः।
+- बहूनाम् - (गोमयखण्डम् → गोधुमतुषाः) इति क्रमः।
     - किञ्च वेङ्कटेशार्यः - "I tried initially with rice bran.  It did not work for me... Umi (paddy hust burns too fast and gives out lot of smoke. Also one needs huge quantities. Not suitable for cities."
 - बॆङ्गळूरुनगरे चन्द्रः - Gou Jwala Bricks (made out of Cow dung + Paddy husk) + Wheat/ ravA husk
 

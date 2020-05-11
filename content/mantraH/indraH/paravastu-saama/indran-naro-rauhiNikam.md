@@ -6,7 +6,7 @@ practice_weight: 0
 --- 
 
 ## ऋक्
-<div class="js_include" url="../Rk/indran-naro.md"  newLevelForH1="3" includeTitle="false"> </div>
+<div class="js_include" url="../../Rk/indran_naro/"  newLevelForH1="3" includeTitle="false"> </div>
 
 
 ## साम

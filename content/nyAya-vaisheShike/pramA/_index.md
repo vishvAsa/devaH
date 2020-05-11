@@ -22,4 +22,4 @@ unicode_script: devanagari
 - पौराणिकाः। प्रत्यक्षानुमानशब्दोपमानार्थापत्ति-अनुपलब्धि-सम्भव- ऐतिह्यानीति। (8 प्रमाणानि)
 
 ## प्रकाराः
-- उपमिताव् [अभिधापत्रं दृश्यताम्](../../sanskrit/vyAkaraNam/shabdabodhaH/arthAMshAH/abhidhA.md)।
+- उपमिताव् [अभिधापत्रं दृश्यताम्](../../sanskrit/vyAkaraNam/shabdabodhaH/00-arthAMshAH/abhidhA.md)।

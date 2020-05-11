@@ -10,7 +10,7 @@ practice_weight: 5
 
 १ ५ १ ०५०७  
 
-क꣢+++(य्)+++ ई꣣꣬ व्य꣢꣯क्ता꣣  
+क꣢+++(य्)+++ ईं꣣꣬ व्य꣢꣯क्ता꣣  
 न꣢रः꣣+++(=नेतारः)+++ स꣡नी꣢डा  
 रु꣣द्र꣢स्य꣣ म꣢र्या꣣+++(=मर्त्येभ्यो [हिताः])+++ अ꣢था꣣ स्व꣡श्वाः꣢ ।।433 ।।
 
@@ -18,7 +18,7 @@ practice_weight: 5
 
 {{< figure src="../../images/marut-group-on-a-horse-drawn-charriot-in-the-sky.png" title="" class="thumbnail">}}
 
-## साम १ का४ईइम्
+## साम १ काई५इम्
 - पारम्परिकगानमूलम् - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n6/mode/1up)।
 - कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n941)।
 

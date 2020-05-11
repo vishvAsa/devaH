@@ -34,7 +34,7 @@ unicode_script: devanagari
 ## ङित्-त्वकार्याणि
 गुणरोधः, नलोपः, सम्प्रसारणम्।
 
-<div class="js_include" url="kNit.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../kNit/"  newLevelForH1="3" includeTitle="true"> </div>
 
 ## श्यनि
 - ङित्-त्वकार्याणि।
