@@ -22,11 +22,11 @@ build:
         version: "0.61.0"
         theme: "sanskrit-documentation-theme-hugo"
         flags: --buildDrafts=true
-    - arjen/hugo-build:
-        version: "0.61.0"
-        theme: "sanskrit-documentation-theme-hugo"
-        flags: --buildDrafts=true
-        config: config_offline_android.toml
+#    - arjen/hugo-build:
+#        version: "0.61.0"
+#        theme: "sanskrit-documentation-theme-hugo"
+#        flags: --buildDrafts=true
+#        config: config_offline_android.toml
     # - lordlothar99/git-push:
     #   The push below fails for unknown reasons.
     #      host: github.com
