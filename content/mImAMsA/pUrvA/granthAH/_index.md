@@ -22,7 +22,7 @@ unicode_script: devanagari
     - क्वचित् शबरविचारस् तिरस्कृतः ७ स्थानेषु (गङ्गानाथग्रन्थे [ऽत्र](https://archive.org/stream/PurvaMimamsaInItsSourcesDr.GanganathJha/Purva%20Mimamsa%20In%20Its%20Sources%20-%20Dr.%20Ganganath%20Jha#page/n36/mode/1up))।
     - भाष्यादाव् अवर्तमानानि ६ सूत्राणि अत्र।  
         
-#### प्रथमाध्याये (जैमिनी १,१) **तर्कपादस्य** \- **श्लोकवार्त्तिका**
+#### प्रथमाध्याये (जैमिनी १,१) **तर्कपादस्य** \- **श्लोकवार्त्तिकम्**
 - आर्कैव्य् [अत्र](https://archive.org/details/in.ernet.dli.2015.273885)।  
 - अत्राङ्ग्लिकानुवादे सव्याख्ये [आर्कैवि](https://archive.org/stream/slokavartika015341mbp#page/n3/mode/2up),, [अत्रापि](https://archive.org/details/ShlokaVartikaOfKumarilaBhattaGanganathJha)।
 - विकिस्रोतस्य् [अत्र](https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A5%8D%E0%A4%B2%E0%A5%8B%E0%A4%95%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%95%E0%A4%AE%E0%A5%8D)।  
