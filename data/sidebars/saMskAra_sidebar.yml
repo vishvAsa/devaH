@@ -14,12 +14,6 @@ contents:
   - title: ज्यौतिषम्
     contents:
       - url: recdir://jyotisham
-  - title: संस्कृतम्
-    contents:
-      - url: recdir://sanskrit/
-  - title: मीमांसा
-    contents:
-      - url: recdir://mImAMsA/
   - title: न्यायशास्त्रम्
     contents:
       - url: recdir://nyAya-vaisheShike/
