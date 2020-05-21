@@ -135,7 +135,8 @@ _________
 
 ## उपदेशः  
 +++(आचार्यः कूर्चमारोहति)+++  
-+++(हे कूर्च!)+++ रा॒ष्ट्र॒भृद् अ॑स्याचार्याऽऽस॒न्दी, मा त्वद्+++(तः)+++ यो॑षम्+++(←यौतिः पृथग्भावे)+++ ।  
+<div class="js_include" url="../kUrcha-Asanam/"  newLevelForH1="4" includeTitle="false"> </div>  
+
 
 <div class="js_include" url="../../../../AdityaH/Rk/tat_savitur/"  newLevelForH1="4" includeTitle="true"> </div>  
 
