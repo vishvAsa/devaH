@@ -17,7 +17,7 @@ unicode_script: devanagari
 
 
 ## भूषणम्
-<div class="js_include" url=vAsas-saMskAraH/"  newLevelForH1="2" includeTitle="true"> </div> 
+<div class="js_include" url="vAsas-saMskAraH/"  newLevelForH1="2" includeTitle="true"> </div> 
 
 ### मौञ्ज्याः परिव्ययनमन्त्रौ 
 इ॒यं दुरु॑क्तात् परि॒-बाध॑माना॒  
@@ -135,7 +135,7 @@ _________
 
 ## उपदेशः  
 +++(आचार्यः कूर्चमारोहति)+++  
-<div class="js_include" url="../kUrcha-Asanam/"  newLevelForH1="4" includeTitle="false"> </div>  
+<div class="js_include" url="kUrcha-Asanam/"  newLevelForH1="4" includeTitle="false"> </div>  
 
 
 <div class="js_include" url="../../../../AdityaH/Rk/tat_savitur/"  newLevelForH1="4" includeTitle="true"> </div>  
