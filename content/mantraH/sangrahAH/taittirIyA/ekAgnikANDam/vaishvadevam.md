@@ -1,5 +1,5 @@
 ---
-title: वैश्वदेवं तैत्तिरीयम्
+title: वैश्वदेवम्
 unicode_script: devanagari
 ---
 
