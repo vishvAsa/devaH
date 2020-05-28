@@ -12,12 +12,12 @@ unicode_script: devanagari
 
 शश्व॒त् परि॑-कुपितेन॒  
 संक्रा॑मेणाऽवि॒च्छिदा॑ ।  
-उ॒लेन॒+++(=स्थूलेन)+++ परि॑षीतो ऽसि॒  
+उ॒लेन॒+++(=स्थूलेन)+++ परि॑-षीतो+++(=बद्धो)+++ ऽसि॒  
 परि॑षीतोऽस्य् उ॒लेन॑ ।  
 
 ## पलायितानयनम्
 +++(येन पथा दासकर्मकराः पलायेरन् तस्मिन्निण्वान्युप समाधायोत्तरा आहुतीर्जुहुयात्)+++  
-<div class="js_include" url="../prakIrNam/Avartana_vartaya/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../prakIrNam/Avartana_vartaya/"  newLevelForH1="2" includeTitle="false"> </div>  
 
 आ॒वर्त॑ने नि॒वर्त॑न आ॒वर्त॑न निवर्त॒नाय॒ स्वाहा॑ ।  
 

@@ -106,7 +106,7 @@ ____________________
 
 <div class="js_include" url="gRha-nirmANam/"  newLevelForH1="1" includeTitle="true"> </div>  
 
-<div class="js_include" url="gRha-gRhItAvoxaNam/"  newLevelForH1="1" includeTitle="true"> </div>  
+<div class="js_include" url="graha-gRhItAvoxaNam/"  newLevelForH1="1" includeTitle="true"> </div>  
 
 <div class="js_include" url="sarpa-baliH/"  newLevelForH1="1" includeTitle="true"> </div>  
 
