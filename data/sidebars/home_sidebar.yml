@@ -1,0 +1,33 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+title: भागाः
+contents:
+  - title: मन्त्राः
+    contents:
+      - url: recdir://mantraH/
+  - title: कल्पः
+    contents:
+        - url: recdir://kalpaH/
+  - title: वंशाः
+    contents:
+      - url: recdir://bloodlines/
+  - title: ज्यौतिषम्
+    contents:
+      - url: recdir://jyotisham
+  - title: न्यायशास्त्रम्
+    contents:
+      - url: recdir://nyAya-vaisheShike/
+  - title: प्रकीर्णम्
+    contents:
+      - title: Tags
+        url: /tags/
+      - title: Categories
+        url: /categories/
+  - title: Notes Home
+    url: https://vvasuki.github.io/notes/
+  - title: काव्यम्
+    url: https://vvasuki.github.io/kAvya/
+  - title: Vishvas's home page
+    url: https://vvasuki.github.io/
+#  - title: <i class="fas fa-hand-holding-heart"></i>Donate Via Vishvas
+#    url: https://vvasuki.github.io/interests/dharma-via-vishvas/

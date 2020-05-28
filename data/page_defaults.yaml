@@ -5,7 +5,7 @@
     layout: "page"
     comments: true
     search: true
-    sidebar: saMskAra_sidebar
+    sidebar: home_sidebar
     topnav: top_bar
     footernav: top_bar
     unicode_script: devanagari
