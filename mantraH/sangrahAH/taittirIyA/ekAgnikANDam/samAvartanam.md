@@ -26,7 +26,7 @@ ____________
 नम॑स्ते अस्तु॒।  
 मा मा॑ हिꣳसीः ।  
 
-<div class="js_include" url="upanayanam/digvapanam/"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" url="../upanayanam/digvapanam/"  newLevelForH1="3" includeTitle="true"> </div>  
 
 ## मेखलाया उपगूहनम्
 इ॒दम् अ॒हम् अ॒मुष्या॑ऽऽमुष्याय॒णस्य॑+++(←नामनिर्देशः)+++ पा॒प्मान॒म् उप॑गूहा॒म्य्,  
@@ -76,7 +76,7 @@ __________________
 श॒तꣳ श॒रद्भ्य॒ आयु॑षे॒ वर्च॑से जी॒वात्वै+++(=जीवनाय)+++ पुण्या॑य ।  
 
 ## dvitIya-vAsaH-paridhAnam
-<div class="js_include" url=upanayanam/vAsas-saMskAraH/"  newLevelForH1="3" includeTitle="false"> </div> 
+<div class="js_include" url="../upanayanam/vAsas-saMskAraH/"  newLevelForH1="3" includeTitle="false"> </div> 
 
 ## दशायां प्रवर्तो प्रबध्य जुहोति 
 आ॒यु॒ष्यं॑ वर्च॒स्यꣳ॑ सु॒वीर्यꣳ॑  
@@ -106,7 +106,7 @@ __________________
 स॒ꣳ॒राध॑न्यै दे॒व्यै स्वाहा॑ ।  
 प्र॒साध॑न्यै दे॒व्यै स्वाहा॑ ।  
 
-<div class="js_include" url="prakIrNam/saMrAjan_cha/"  newLevelForH1="3" includeTitle="false"> </div> 
+<div class="js_include" url="../prakIrNam/saMrAjan_cha/"  newLevelForH1="3" includeTitle="false"> </div> 
 
 
 ## स्रग्बन्धनम्

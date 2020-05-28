@@ -47,5 +47,6 @@ unicode_script: devanagari
 +++(सम्भोगयोग्यता)+++सिद्ध्यर्थे बभ्रु+++(गो)+++मूत्रेण +++(योनिं)+++ प्रक्षालयीत ४
 
 ## भृत्यरक्षा
-यं कामयेत नायं मच्छिद्येतेति जीव+++(गो)+++विषाणे +++(पूरयितुम्)+++ स्वं मूत्रमानीय सुप्तमुत्तराभ्यां +++(ऽपरि त्वा गिरेरऽमित्येताभ्यां)+++ त्रिः प्रसव्यं परिषिञ्चेत् ६  
+यं कामयेत नायम् अविच्छिद्येतेति जीव+++(गो)+++विषाणे +++(पूरयितुम्)+++ स्वं मूत्रमानीय सुप्तमुत्तराभ्यां +++(ऽपरि त्वा गिरेरऽमित्येताभ्यां)+++ त्रिः प्रसव्यं परिषिञ्चेत् ६  
++++("We do know from rodent studies that urinary proteins, like the lipocalin Major Urinary Protein & MHC fragments excreted in urine serve an important role in kin recognition and dominance hierarchies. It is known that sweat excreted MHC might play a role in human kin discrimination. Hence, the role of urinary scents in this regard even in humans should be considered a possibility, especially given that body odor does seem to play a role in human kin recognition. Thus, the ritual itself might be seen as a mechanism by which an individual is made to believe the other to be a kin by urinary odor conditioning." - [MT](https://twitter.com/blog_supplement/status/1265814177773498370))+++
 येन पथा दासकर्मकराः पलायेरन् तस्मिन्न् इण्वान्य् +++(दारुमयानि निगलानि)+++ उपसमाधायोत्तरा +++(ऽआवर्तन वर्तयेऽत्येताः)+++ आहुतीर् जुहुयात् ।  
