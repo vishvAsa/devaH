@@ -9,7 +9,7 @@ unicode_script: devanagari
 
 <div class="js_include" url="../../../../agniH/Rk/yas_tvA_hRdA/"  newLevelForH1="2" includeTitle="true"> </div>  
 
-<div class="js_include" url="../../../../indra/Rk/tve_suputra/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../../../../indraH/Rk/tve_suputra/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 ### सीमन्तोन्नयनम्
 भूर् भुव॒स् सुवः॑ 
