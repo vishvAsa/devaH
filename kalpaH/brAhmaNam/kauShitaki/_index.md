@@ -1,4 +1,4 @@
 ---
-title: +कैषितकि-ब्राह्मणम्
+title: +कैषितकि\शाङ्खायनम्
 unicode_script: devanagari
 ---
