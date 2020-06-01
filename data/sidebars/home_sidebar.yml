@@ -17,6 +17,12 @@ contents:
   - title: न्यायशास्त्रम्
     contents:
       - url: recdir://nyAya-vaisheShike/
+  - title: संस्कृतम्
+    contents:
+      - url: ../sanskrit/
+  - title: मीमांसा
+    contents:
+      - url: ../mImAMsA/
   - title: प्रकीर्णम्
     contents:
       - title: Tags
