@@ -2,6 +2,9 @@
 title: Heliocentrism, spherical earth
 ---
 
+## References
+Many of the uncited quotes and translations are by the mAnasatarangiNIkAra.
+
 ## Aryabhata 500 AD
 - "Aryabhata (born in 476 AD. ) appears to have held the view that the **stars did not revolve round the earth, but the latter revolved round itself** and gave the illustration of a man sitting in a moving boat feeling that it is the stationary objects on the banks that rush past in the opposite direction. ... This was more than eleven hundred years before Galileo and there is nothing to show that Aryabhata suffered in the least for his views."- PV Kane
 - "Aryabhata held that earth was a sphere and rotated on its axis, and that the eclipses were not the work of Ra.hu but caused by the shadow of the earth falling on the moon. Both these views were rejected and severely condemned by later astronomers like VarAhamihira and Brahmagupta."
@@ -23,6 +26,11 @@ theory about the diurnal motion of the earth in the following verse :  "प्�
 - Modern visualizations - [SD](https://www.youtube.com/watch?v=oELKxRPHR6U).
 - "The Srimad-Bhagavatam’s mode of presentation is very different from the familiar modern approach. Although the Bhagavatam’s “Earth” (disk- shaped Bhu-mandala) may look unrealistic, careful study shows that the Bhagavatam uses Bhu-mandala to represent at least four reasonable and consistent models: (1) a polar- projection map of the Earth globe, (2) a map of the solar system, (3) a topographical map of south-central Asia, and (4) a map of the celestial realm of the demigods."
 
+## lalla of lATa 750CE
+- गगन-मरुद्-अग्नि-जल-मृण्-मयो महाभूत-गुण-युतः स्वस्थः । कक्षाभिर् आवृतोऽयं भ-पञ्जरान्तश् च भूगोलः ॥ "The sphere of the earth formed of space, gas, heat, liquid, solid thus having the properties of the 5 great bhuta-s stands by itself in the celestial sphere surrounded by the celestial orbits."
+- मध्ये ऽयस्कान्तानां यथा स्थितो ऽयोगुडः ख-मध्यस्थः । तद्वद् अनाधारो ऽपि हि सर्वाधारो महीगोलः ॥ "Just as an iron ball when placed between magnets the earth-globe remains suspended in the midst of space without any support, while supporting all (that is on it)."
+- लङ्का प्राग्यमकोटिः पश्चाद् रोमकम् अधश् च सिद्धपुरम् । मेरुः स्थित उत्तरतो दक्षिणतो दैत्य-निलयः स्यात् । "Lankā (which is close to the equator), to the east is Yamakoti, Romaka to the west, Siddhapura on the opposite side of Lankā, Meru is at the north pole and abode of the Asura-s at the South Pole."
+
 ## pRthUdaka-svAmI  864 CE
 - He was a chaturvedin son of madhusUdana bhaTTa.
 - "भ-पञ्जरः स्थिरः । भूर् एवावृत्यावृत्य प्रति-दैवसिकौ उदयास्तमयौ सम्पादयति नक्षत्र-ग्रहाणाम् । आचार्यार्यभटेन+अपि भू-भ्रमणम् अभ्युपगतम्: “प्राणेनैति कलां भूः ।"" - "The celestial sphere is stationary. Only the earth keeps rotating and rotating, once everyday, causing the rising and setting of the stars and planets. The earth's rotation had been accepted by professor Aryabhatā: "the earth rotates by the angle of a kala in unit of time of a prāņa"".
@@ -35,6 +43,10 @@ theory about the diurnal motion of the earth in the following verse :  "प्�
 - He wrote goladIpikA.
 - गोलाकारं मण्डलम् अर्कादीनां स्मृतं गणक-मुख्यैः । दर्पण-वृत्ताकारं दूरगतत्वात् प्रदृश्यते ऽस्माभिः ॥ - The orbs of the sun and the like are known to be spheres according to great mathematicians. The appear like circular mirrors to us on account of their great distance. 
 - शशि-बिम्बे दर्पणवद् वृत्ते तस्यैक-देश-सित-लब्धिः । भनोः कर-सम्पाते व्यवधानाभावतो न संभवति ॥ २.४६-४७ - If the moon were like a plane circular mirror then only a part of it appearing lit by the rays of the sun falling on it is not possible because of the absence of obstruction.
+
+## kamalAkara-bhaTTa 1600s
+- son of Rāmakṛṣṇa Bhatta and a grandson of Nārāyaṇa Bhaṭṭa, from a highly regarded mahArATTa deshastha brAhmaNa family settled in kAshI.
+- भूगोलो जल-मग्नोऽस्ति जलाद बहिर् अपि स्थितः । तत्र+अधिको जलान्तः स्थो बहिः स्वल्पोऽस्ति गोलवित् ॥ १.१२४  "The earth-sphere is covered with water with some parts which are indeed above it. The greater part is underwater and the smaller part is above it. [thus) a geographer [knows)."
 
 ## appayya-dIxita 1540 CE, baTTatiri
 - Appayadikşita refers in the following passages to Aryabhata and his theory regarding the earth's motion - स्वर्ग-पृथिव्योः परस्परम् उपजीव्योपजीवक-भावस्य तुल्यतया स्वर्गो न प्रतिष्ठा पृथिवी प्रतिष्ठेति व्यवस्थितोक्त्य्-अयोगात् । किं तु निश्चलत्वम् इह प्रतिष्ठा-शब्दार्थः । तत् तु ज्योतिश्-चक्रान्तर्गतत्वेन भ्रमति स्वर्गे नास्ति, अस्ति तु पृथिव्याम् - "पृथिवी प्रतिष्ठेति" श्रुत्यन्तरात् । आर्यभटाद्य्-अभिमत-भू-भ्रमणादि-वादानां श्रुति-न्याय-विरोधेन हेयत्वात्।"
