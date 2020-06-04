@@ -1,5 +1,5 @@
 ---
-title: इतिहासः
+title: +इतिहासः
 unicode_script: devanagari
 ---
 
@@ -23,4 +23,3 @@ unicode_script: devanagari
     - "discussed the importance of modern astronomy with the ācarya of the Sriperumbudur śrīvaiṣṇava maṭha and convinced him to adopt a modern astronomical almanac, "
     - "demonstrated to his Vedic ritualist friends, Venkateshvara Dikshita and Sundaresha Shrautin, that the astronomical tables of the traditional astronomers of Andhra and Dramiḍa were otiose and that they badly mis-predicted basic astronomical events which are central to Vaidika rituals"
     - "during the solar eclipse of August 18, 1868 RA was able to demonstrate his predictions: He got the eclipse time correct with an error of 12 seconds using calculations done by his hand while the traditional astronomers performed dismally with a whopping 24 minute error. This had a strong effect and many traditional Hindus now switched over to his side. He then demolished the most recalcitrant traditional astronomers in a sadas of brāhmaṇa-s of the Dramiḍa country. Seeing this the Śaṃkara maṭha sent out a circular stating that the Vedic ritualists Venkateshvara Dikshita and Sundaresha Shrautin were correct in adopting modern theory and techniques for their rituals. His efforts were paralleled by those of Ketkar in Maharashtra and Venkatakrishna Raya in Andhra to get the Hindus to use modern astronomical calculations."
-
