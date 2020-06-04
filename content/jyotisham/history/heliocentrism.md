@@ -20,6 +20,8 @@ theory about the diurnal motion of the earth in the following verse :  "प्�
 
 ## bhAgavata-purANa
 - Geocentric, flat earth model. Example: 5.21.8 - [VB](https://vedabase.io/en/library/sb/5/21/8-9/). Zero calculations. Best treated as kavi-samaya type arthavAda.
+- Modern visualizations - [SD](https://www.youtube.com/watch?v=oELKxRPHR6U).
+- "The Srimad-Bhagavatam’s mode of presentation is very different from the familiar modern approach. Although the Bhagavatam’s “Earth” (disk- shaped Bhu-mandala) may look unrealistic, careful study shows that the Bhagavatam uses Bhu-mandala to represent at least four reasonable and consistent models: (1) a polar- projection map of the Earth globe, (2) a map of the solar system, (3) a topographical map of south-central Asia, and (4) a map of the celestial realm of the demigods."
 
 ## pRthUdaka-svAmI  864 CE
 - He was a chaturvedin son of madhusUdana bhaTTa.
