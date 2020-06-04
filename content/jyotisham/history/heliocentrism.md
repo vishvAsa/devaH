@@ -36,7 +36,7 @@ theory about the diurnal motion of the earth in the following verse :  "प्�
 
 ## pRthUdaka-svAmI  864 CE
 - He was a chaturvedin son of madhusUdana bhaTTa.
-- "भ-पञ्जरः स्थिरः । भूर् एवावृत्यावृत्य प्रति-दैवसिकौ उदयास्तमयौ सम्पादयति नक्षत्र-ग्रहाणाम् । आचार्यार्यभटेन+अपि भू-भ्रमणम् अभ्युपगतम्: “प्राणेनैति कलां भूः ।"" - "The celestial sphere is stationary. Only the earth keeps rotating and rotating, once everyday, causing the rising and setting of the stars and planets. The earth's rotation had been accepted by professor Aryabhatā: "the earth rotates by the angle of a kala in unit of time of a prāņa"".
+- "भ-पञ्जरः स्थिरः । भूर् एवावृत्यावृत्य प्रति-दैवसिकौ उदयास्तमयौ सम्पादयति नक्षत्र-ग्रहाणाम् । आचार्यार्यभटेन+अपि भू-भ्रमणम् अभ्युपगतम्: “प्राणेनैति कलां भूः ।"" - "The celestial sphere is stationary. Only the earth keeps rotating and rotating, once everyday, causing the rising and setting of the stars and planets. The earth's rotation had been accepted by professor Aryabhata: "the earth rotates by the angle of a kala in unit of time of a prāņa"".
 
 ## makkibhaTTa 1377AD
 - Commented on Sripati's Siddhantasekhara.
@@ -54,7 +54,7 @@ theory about the diurnal motion of the earth in the following verse :  "प्�
 ## appayya-dIxita 1540 CE, baTTatiri
 - Appayadikşita refers in the following passages to Aryabhata and his theory regarding the earth's motion - स्वर्ग-पृथिव्योः परस्परम् उपजीव्योपजीवक-भावस्य तुल्यतया स्वर्गो न प्रतिष्ठा पृथिवी प्रतिष्ठेति व्यवस्थितोक्त्य्-अयोगात् । किं तु निश्चलत्वम् इह प्रतिष्ठा-शब्दार्थः । तत् तु ज्योतिश्-चक्रान्तर्गतत्वेन भ्रमति स्वर्गे नास्ति, अस्ति तु पृथिव्याम् - "पृथिवी प्रतिष्ठेति" श्रुत्यन्तरात् । आर्यभटाद्य्-अभिमत-भू-भ्रमणादि-वादानां श्रुति-न्याय-विरोधेन हेयत्वात्।"
 - appayya vs bhaTTatiri argument about heliocentricism:
-  - Bhattathiri asked whether moon is closer to earth or the stars? Obviously moon (Since it occludes the stars).
+  - Bhattatiri asked whether moon is closer to earth or the stars? Obviously moon (Since it occludes the stars).
   - It is known that certain stars rise earlier than the moon the following day (which is actually due to the true motion of the moon). Bhattathiri’s argument is: How come a far away object can have shorter period? It is logical absurdity and appayya was summarily beaten.
   - Bhattathiri was a great astronomer. Not many know it- They just end with nArAyaNIyam and at most his paada saptati.
 
