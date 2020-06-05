@@ -48,7 +48,7 @@ theory about the diurnal motion of the earth in the following verse :  "प्�
 - शशि-बिम्बे दर्पणवद् वृत्ते तस्यैक-देश-सित-लब्धिः । भनोः कर-सम्पाते व्यवधानाभावतो न संभवति ॥ २.४६-४७ - If the moon were like a plane circular mirror then only a part of it appearing lit by the rays of the sun falling on it is not possible because of the absence of obstruction.
 
 ## kamalAkara-bhaTTa 1600s
-- son of Rāmakṛṣṇa Bhatta and a grandson of Nārāyaṇa Bhaṭṭa, from a highly regarded mahArATTa deshastha brAhmaNa family settled in kAshI.
+- Not the more famous kamalAkarabhaTTa who authored शूद्रकमलाकर. Son of nRsiMha-jyotirvid. Actually travelled to Tajikistan to observe their astronomy.
 - भूगोलो जल-मग्नोऽस्ति जलाद बहिर् अपि स्थितः । तत्र+अधिको जलान्तः स्थो बहिः स्वल्पोऽस्ति गोलवित् ॥ १.१२४  "The earth-sphere is covered with water with some parts which are indeed above it. The greater part is underwater and the smaller part is above it. [thus) a geographer [knows)."
 
 ## appayya-dIxita 1540 CE, baTTatiri
