@@ -18,11 +18,9 @@ contents:
     contents:
       - url: recdir://nyAya-vaisheShike/
   - title: संस्कृतम्
-    contents:
-      - url: ../sanskrit/
+    url: ../sanskrit/
   - title: मीमांसा
-    contents:
-      - url: ../mImAMsA/
+    url: ../mImAMsA/
   - title: प्रकीर्णम्
     contents:
       - title: Tags
