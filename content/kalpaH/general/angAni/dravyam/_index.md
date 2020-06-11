@@ -24,3 +24,15 @@ unicode_script: devanagari
   - यज्ञिय-काष्ठम् उत्तमम्
   - ताम्रम्
 
+## शब्दावली
+### द्राविडी
+- godhUma - wheat - गोधूम - godi
+- thaviDu - bran - बुषम् - bhUsA - भूसा
+    - Godi bhusa (coarse variety), Rava bhusa (fine wheat  bran)
+- umi - husk/ chaff - तुषः - hoTTu.
+- muTTaan - dung ball - gomaya goLa or sagaNi goLa
+- varaTTi - compressed dung cake - beraNI.
+- srai - twigs - chakke
+
+## क्रयणविकल्पाः
+- बॆङ्गळूरुनगरे [ऽत्र](https://docs.google.com/spreadsheets/d/1gqyhPl7TxE82o7FP_SHHB6rNHWBRsXI02o_P8EsaaJI/edit#gid=2054748483)।
