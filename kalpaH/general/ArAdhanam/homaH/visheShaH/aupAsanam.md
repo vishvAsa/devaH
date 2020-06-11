@@ -37,12 +37,4 @@ My current understanding of the last part - having performed the combined aupAsa
 
 The combination itself, I presume, can happen by the following sequence: agnaye svAhA, sUryAya svAhA, agnaye sviShTakRte svAhA surrounded by parishechanas, and perhaps with an upasthAna.
 
-## शब्दावली
-### द्राविडी
-- godhUma - wheat - गोधूम - godi
-- thaviDu - bran - बुषम् - bhUsA - भूसा
-    - Godi bhusa (coarse variety), Rava bhusa (fine wheat  bran)
-- umi - husk/ chaff - तुषः 
-- muTTaan - dung ball - gomaya goLa or sagaNi goLa
-- varaTTi - compressed dung cake - beraNI.
-- srai - twigs - chakke
+
