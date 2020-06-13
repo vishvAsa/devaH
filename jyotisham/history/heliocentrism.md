@@ -5,9 +5,14 @@ title: Heliocentrism, spherical earth
 ## References
 Many of the uncited quotes and translations are by the mAnasatarangiNIkAra.
 
+## Aitreya Brāhmaṇa 2.7 1kBCE or older
+- "The (sun) never really sets or rises. In that they think of him “He is setting", having reached the end of the day, he inverts himself; thus he makes evening below, day above. Again in that they think of him “He is rising in the morning”, having reached the end of the night he inverts himself; thus he makes day below, night above. He never sets; indeed he never sets." 
+- Subhash kAk on this passage: "One way to visualize it is to see the universe as the hollow of a sphere so that the inversion of the sun now shines the light on the world above ours. But this is impossible since the sun does move across the sky during the day and if the sun doesn't set or rise it doesn't move either. Clearly, the idea of “inversion" denotes nothing but a movement of the earth."
+
 ## Aryabhata 500 AD
 - "Aryabhata (born in 476 AD. ) appears to have held the view that the **stars did not revolve round the earth, but the latter revolved round itself** and gave the illustration of a man sitting in a moving boat feeling that it is the stationary objects on the banks that rush past in the opposite direction. ... This was more than eleven hundred years before Galileo and there is nothing to show that Aryabhata suffered in the least for his views."- PV Kane
-- "Aryabhata held that earth was a sphere and rotated on its axis, and that the eclipses were not the work of Ra.hu but caused by the shadow of the earth falling on the moon. Both these views were rejected and severely condemned by later astronomers like VarAhamihira and Brahmagupta."
+- In the words of Thurston: "Not only did Aryabhaṭa believe that the earth rotates, but there are glimmerings in his system (and other similar Indian systems) of a possible underlying theory in which the earth (and the planets) orbits the sun, rather than the sun orbiting the earth. The evidence is that the basic planetary periods are relative to the sun. For the outer planets this is not significant: both earth and sun are inside their orbits and so the time taken to go round the earth and the time taken to go round the sun are the same. The significant evidence comes from the inner planets: the period of the śīghrocca is the time taken by the planet to orbit the sun." 
+- "Aryabhata held that earth was a sphere and rotated on its axis, and that the eclipses were not the work of Rāhu but caused by the shadow of the earth falling on the moon. Both these views were rejected and severely condemned by later astronomers like VarAhamihira and Brahmagupta."
 - Al Beruni's mis-characterization - "Al bIrUni accepts that spherical part. He (al bIrUnI) says he wrote a work arguing against a moving earth and in favor of geocentricity."
 
 ## sUryasiddhAnta
