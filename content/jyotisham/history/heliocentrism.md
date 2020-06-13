@@ -9,15 +9,25 @@ Many of the uncited quotes and translations are by the mAnasatarangiNIkAra.
 - "The (sun) never really sets or rises. In that they think of him “He is setting", having reached the end of the day, he inverts himself; thus he makes evening below, day above. Again in that they think of him “He is rising in the morning”, having reached the end of the night he inverts himself; thus he makes day below, night above. He never sets; indeed he never sets." 
 - Subhash kAk on this passage: "One way to visualize it is to see the universe as the hollow of a sphere so that the inversion of the sun now shines the light on the world above ours. But this is impossible since the sun does move across the sky during the day and if the sun doesn't set or rise it doesn't move either. Clearly, the idea of “inversion" denotes nothing but a movement of the earth."
 
+## shatapatha-brAhmaNa 1k BCE
+- ŚB 4.1.5.16 describes the sun as puşkaramādityo, “the lotus of the sky”. ŚB 8.7.3.10 says :  
+
+  - tudasāvāditya imūmlokūnt sūtre samāvayate, tad yat tat sūtram vāyuh .... 
+  - The sun strings these worlds (the earth, the planets, the atmosphere] to himself on a thread. This thread is the same as the wind ..... 
+  
+- This suggests a **central role to the sun** in defining the motions of the planets and ideas such as these must have ultimately led to the theory of the śīghrocca and the mandocca cycles. 
+
+## sUryasiddhAnta
+- Earth is said to be a stationary globe around which sun, moon and five planets orbit, with sun (via śīghrocca position) playing a major role in propelling the outer planets.
+- "Thus everywhere on [the surface of] the terrestrial globe, people suppose their own place higher [than that of others], yet this globe is in space where there is no above nor below." —Surya Siddhanta, XII.53
+- Via S kAk: Surya Siddhānta (SS) seems to remember this pre-epicyclic astronomy of the earlier period. The uccas and the node (pāta) are thus described in SS 2.1-5: "Forms of time, of invisible shape, stationed in the zodaic, called the sīghrocca, mandocca, and node (pāta), are causes of the motion of the planets. The planets, attached to these points by cords of air, are drawn away by them, with the right and left hand, forward or backward, according to nearness, toward their own place. A wind, called pravaha, impels them toward their own ucсas, being drawn away forward and backward."
+
 ## Aryabhata 500 AD
 - "Aryabhata (born in 476 AD. ) appears to have held the view that the **stars did not revolve round the earth, but the latter revolved round itself** and gave the illustration of a man sitting in a moving boat feeling that it is the stationary objects on the banks that rush past in the opposite direction. ... This was more than eleven hundred years before Galileo and there is nothing to show that Aryabhata suffered in the least for his views."- PV Kane
 - In the words of Thurston: "Not only did Aryabhaṭa believe that the earth rotates, but there are glimmerings in his system (and other similar Indian systems) of a possible underlying theory in which the earth (and the planets) orbits the sun, rather than the sun orbiting the earth. The evidence is that the basic planetary periods are relative to the sun. For the outer planets this is not significant: both earth and sun are inside their orbits and so the time taken to go round the earth and the time taken to go round the sun are the same. The significant evidence comes from the inner planets: the period of the śīghrocca is the time taken by the planet to orbit the sun." 
+- S Kak - "The śīghrocca maps the motion of the planet around the sun to the corresponding set of points around the earth. This indicates a tradition of heliocentric astronomy as applied to the solar system. The sun, with its winds that hold the solar system together, is, in turn, taken to go around the earth."
 - "Aryabhata held that earth was a sphere and rotated on its axis, and that the eclipses were not the work of Rāhu but caused by the shadow of the earth falling on the moon. Both these views were rejected and severely condemned by later astronomers like VarAhamihira and Brahmagupta."
 - Al Beruni's mis-characterization - "Al bIrUni accepts that spherical part. He (al bIrUnI) says he wrote a work arguing against a moving earth and in favor of geocentricity."
-
-## sUryasiddhAnta
-- Earth is said to be a stationary globe around which sun, moon and five planets orbit.
-  - "Thus everywhere on [the surface of] the terrestrial globe, people suppose their own place higher [than that of others], yet this globe is in space where there is no above nor below." —Surya Siddhanta, XII.53
 
 ## Brahmagupta 628 CE
 - In his Brahmasiddhanta or Brahmasphutasiddhanta he has found fault with Aryabhata's
