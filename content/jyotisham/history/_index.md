@@ -9,11 +9,11 @@ unicode_script: devanagari
 - NUS 2001 thesis [here](http://www.math.nus.edu.sg/aslaksen/projects/lcl.pdf).
 
 ## Summary
-- 1. r̥gvedic astronomy (c. 4000 - 2000 B.C.) Motion of the sun and the moon, naksatras, planet periods. 
-- 2. Astronomy of the Brāhmaṇas (2000 - 1000 BC)[Yājñavalkya, śāndilya]: Astronomy represented by means of geometric altars; non uniform motion of the sun and the moon; intercalation for the lunar year; "strings of wind joined to the sun".
-- 3. Vedānga Jyotișa (c. 1300 B.C.) (Lagadha)
-- 4. Early Siddhāntic and early Purāņic(1000 BC-500 AD). Further development of the śīghrocca and mandocca cycles; the concept of kalpa. 
-
+- r̥gvedic astronomy (c. 4000 - 2000 B.C.) Motion of the sun and the moon, naksatras, planet periods. 
+- Astronomy of the Brāhmaṇas (2000 - 1000 BC)[Yājñavalkya, śāndilya]: Astronomy represented by means of geometric altars; non uniform motion of the sun and the moon; intercalation for the lunar year; "strings of wind joined to the sun".
+- Vedānga Jyotișa (c. 1300 B.C.) (Lagadha)
+- Early Siddhāntic and early Purāņic(1000 BC-500 AD). Further development of the śīghrocca and mandocca cycles; the concept of kalpa. 
+- Classical Siddhāntic period inaugurated by Aryabhaṭa.
 
 ## सूर्यसिद्धान्तादेर् दोषाः
 - Understanding precession in terms of trepidation (Details [here](../saura-mAnam/ayanachalanam/).
