@@ -124,10 +124,12 @@ The outer rim of layer 5 consists of 29 stomabhāgā bricks. The rest of the lay
 
 ## THE HALVES OF THE YEAR 
 ŚB 8.5.4.2 calls the stomabhāgās, that form the outer ring of 29 bricks, as "the yonder sun". Note that the gārhapatya altar is placed right in the middle of this ring, and the gārhapatya altar represents the earth. So the layer 5 of Figure 5 represents the earth at the center with the sun going around in a circle. Figure 6 shows layer 5 with the layer 1 inscribed within. Figure 7 shows the earth with the center of the sun's orbit at an offset. 
+
 On top of the central gārhapatya altar, lie the two perforated bricks at an offset to the center. The lower one is at the center. ŚB 8.7.3.9-10 says. 
-atha vikarṇīm ca svayamātonnām copadadhāti, vāyurvai vikarṇi dyauruttamā svayamātrṇa vāyum ca tuddivam copadadhātyu8ttame'upadadhātyuttane hi vāyuśca dyauśca .... tadasāvāditya imāmlokāntsūtre samāvayate, tadyattatsūtram vāyuḥsa sayaḥ sa vāyureșă sa vikurni .... 
-He then lays down the vikarṇi and svayamātiṇā (bricks), -- the vikarṇi is Vāyu (the wind), and the svayamātmā is the sky: he thus sets up both the wind and the sky. He lays them down as the last (highest), for wind and sky are the highest...... 
-[The] yonder sun strings these worlds (the earth and the atmosphere] to himselfon a thread. Now that thread is the same as the wind; and that wind is the same as this vikarṇi ..... 
+
+    atha vikarṇīm ca svayamātonnām copadadhāti, vāyurvai vikarṇi dyauruttamā svayamātrṇa vāyum ca tuddivam copadadhātyu8ttame'upadadhātyuttane hi vāyuśca dyauśca .... tadasāvāditya imāmlokāntsūtre samāvayate, tadyattatsūtram vāyuḥsa sayaḥ sa vāyureșă sa vikurni .... 
+    
+    He then lays down the vikarṇi and svayamātiṇā (bricks), -- the vikarṇi is Vāyu (the wind), and the svayamātmā is the sky: he thus sets up both the wind and the sky. He lays them down as the last (highest), for wind and sky are the highest...... [The] yonder sun strings these worlds (the earth and the atmosphere] to himself on a thread. Now that thread is the same as the wind; and that wind is the same as this vikarṇi ..... 
 
 
 {{< figure src="../../images/sb_altar_layer5_1.png" title="Figure 6. Layer 5, with the design of layer 1 inscribed within. " class="thumbnail">}}
@@ -135,23 +137,36 @@ He then lays down the vikarṇi and svayamātiṇā (bricks), -- the vikarṇi i
 {{< figure src="../../images/earth_solar_orbit_center.png" title="Figure 7. The earth and the centre of the sun's orbit." class="thumbnail">}}
  
 It is possible, indeed likely, that the meeting point of these two bricks, which is offset from the center of the circle, was taken to be the center of the motion of the sun. The vikarṇī, as the binding force of the sun, will then reach right down to the earth. 
+
 This inequality would have been easy to discover. The Indians used the reflection of the noon-sun in the water of a deep well to determine the solstice days. 
+
 Now note that the number of bricks placed in the four quadrants of the circle is not identical. This suggests that the two halves of the year were taken to be unequal. 
+
 If one assumes that the two halves of the year are directly in proportion to the brick counts of 14 and 15 in the two halves of the ring of the sun, this corresponds to day counts of 176 and 189. This division appears to have been for the two halves of the year into counts of 181 and 184. 
+
 The apparent motion of the sun is the greatest when the earth is at perihelion and the least when the earth is at aphelion. Currently, this speed is greatest on January 3. Figure 8 presents the current dates for the perihelion and the aphelion. The interval between successive perihelia, the anomalistic year, is 365.25964 days which is 0.01845 days longer than the tropical year on which our calendar is based. In 2000 calendar years, the date of the perihelion advances about 36 days. Or it advances about 185 days, a half-year, in 10000 years. The perihelion cycles, therefore, in about 20000 years. It is this relative shrinking of the summers and winters which causes ice ages with a period of about 20000 years.24 
+
 It is interesting to observe that the Greeks discovered the asymmetry in the quarters of the year around 400 BC. Euktemon is supposed to have discovered this asymmetry and beginning with the winter solstice he found the four intervals to be 92, 93, 90 and 90 days. Kallippos (c. 370 BC) is supposed to have improved upon these numbers by proposing 90, 94, 92 and 89 days. Modern calculations show that at this time, the four quarters of the year starting with the winter solstice were 90.4,94.1,92.3, and 88.6 days long. The period from the winter solstice to the summer solstice was then 184.5 days and the perihelion occurred more than a month prior to the winter solstice.“ 
+
 Considering the rites of the Brāhmaṇas it is best to assume that the insistence that there were exactly 180 days from the winter to the summer solstice was some kind of an idealization. Apparently the basis of this count was the observation that the period from the winter to the summer solstice was shorter than the corresponding period from the summer to the winter solstice. The approximate equality of these two halves of the year would occur when the perihelion is at either of the two solstices. Now, the perihelion was at the winter solstices in 1200 AD, but that is too late to have been the basis of the observations. The other possibility is that during the rites the perihelion occurred prior to June 21, but this would be true only before about 8800 BC. 
+
 But this gives periods which will be considered to be to early for the rites described in the Brāhmaṇas. There is no reason to doubt that the ancient Indians had found that the two halves of the year were asymmetric in a certain sense. From the observations of the Greeks it is clear that this asymmetry between the two halves of the year during the 1st millennium BC. was just the opposite of what we find in the Brāhmaṇas. These texts describe rites which should thus belong to a much earlier age. How much earlier we cannot be certain of at this time given the confusion regarding the chronology of early India. 
+
 A distinction should be made between the period of the rites and the time that these rites were written down. It is common for a religious tradition to be practised even after the astronomical basis for it ceases to have any meaning. For example, the biblical account of the creation of the universe in seven days may have been true in a metaphorical sense where each day represents the creation of the planets but three thousand years after the origin of this myth there are people who believe in it literally. 
+
 It is natural to assume that the myths of the ancient people were already very old when they were written down. This is a point which has been very powerfully made and substantiated by de Santillana and von Dechend before.26 What we obtain from the analysis presented in this paper is that the Vedic tradition was already as ancient as the archaeological record which has been traced back to at least 8000 B.C. in Mehrgarh in the unbroken tradition." 
-We can be certain that the first millennium B.C. for the rites of the Brāhmaṇas, as was assumed by the colonial historians of the 19th century, is absolutely ruled out. We have proposed that, being as conservative as possible, one may assign the 2nd millennium BC. as representing the period when the Brāhmaṇas were written down. This is supported by other evidence in these texts which refers to the 3rd and the 2nd millennia BC. This dating has the virtue of being supported by recent archaeological 
-findings. 28 
+
+We can be certain that the first millennium B.C. for the rites of the Brāhmaṇas, as was assumed by the colonial historians of the 19th century, is absolutely ruled out. We have proposed that, being as conservative as possible, one may assign the 2nd millennium BC. as representing the period when the Brāhmaṇas were written down. This is supported by other evidence in these texts which refers to the 3rd and the 2nd millennia BC. This dating has the virtue of being supported by recent archaeological findings. 28 
+
 Once the idea of the non-uniform motion of the sun had taken root, the idea of the apogee exercising a slowing force would be a natural development. 
 
 ## CONCLUSION 
 This paper on the orbit of the sun, together with the earlier work of Yājñavalkya on harmonizing the solar and the lunar years by means of the 95-year intercalary cycle, provides an explanation for the legend that Yājñavalkya was inspired by the sun. This "inspiration" here suggests Yājñavalkya's development of a theory related to the motion of the sun and its reconciliation with the motion of the moon. 
+
 The evidence from the design of the altar of layer 5 confirms that the year was divided into two parts: winter solstice to summer solstice being equal to 181 days, and midsummer-to-midwinter of 184 or 185 days. This means that the Brāhmaṇa rites could definitely not belong to the first millennium BC. This conclusion is of the greatest significance for the chronology of the Vedic texts and it invalidates the chronology popularized by Max Mūller. 
+
 The theory that the sun was the “lotus” (the central point of the sky and that it kept the worlds together by its “strings of wind” gave rise to a heliocentric tradition in India. The offset of the sun's orbit evolved into the notion of mandocca and the motions of the planets around the sun were tranferred to the earth's frame through the device of the sīghrocca. 
+
 The continuing analysis of the astronomical references in the Brāhmaṇas has made it clear that the theory that the Siddhantic astronomy was somehow derived from the Babylonians and the Greeks is wrong. What is emerging from texts, that are anterior, by any reckoning, to the eras of astronomical advance in Babylonia or in Greece is that astronomical ideas developed in India in stages and these stages can be seen in the different layers of the Vedic texts, the Brāhmaṇas, and the Vedānga Jyotiṣa. 
 
 {{< figure src="../../images/perihelion_aphelion_solstice_equinox_2000CE.png" title="Figure 8. The current dates of the perihelion and the aphelion. " class="thumbnail">}}
