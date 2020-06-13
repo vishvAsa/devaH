@@ -11,14 +11,14 @@ SUBHASH C. Kak*
 (Received 30 June 1997; after revision 12 January 1998) 
 
 ## Intro
-We show that the Brāhmaṇas recognize that the speed of the sun varies with the seasons. The year-long rites of the Brāhmaṇas were organized with the summer solstice (vişuvant) as the middle point. These rites counted the days upto the solstice and in the latter half of the year, and there is an asymmetry in the two counts. This is an astronomical parameter, which had hitherto escaped notice, that allows us to date the rites to a period much earlier than has been assumed. A fire altar described in the śatapatha Brāhmaṇa represents the motion of the sun and this motion is asymmetric with respect to the earth. The concept of a force field associated with the sun, likened to the wind in the śatapatha Brāhmaṇa, appears to be the basic idea which led to the notions of the mandocca and śīghrocca cycles which are fundamental to the later Siddhāntic astronomy. Key Words: Ancient astronomy, Mandocca, śatapatha Brāhmaṇa, śīghrocca, The sun. 
+We show that the Brāhmaṇas recognize that the speed of the sun varies with the seasons. The year-long rites of the Brāhmaṇas were organized with the summer solstice (viṣuvant) as the middle point. These rites counted the days upto the solstice and in the latter half of the year, and there is an asymmetry in the two counts. This is an astronomical parameter, which had hitherto escaped notice, that allows us to date the rites to a period much earlier than has been assumed. A fire altar described in the śatapatha Brāhmaṇa represents the motion of the sun and this motion is asymmetric with respect to the earth. The concept of a force field associated with the sun, likened to the wind in the śatapatha Brāhmaṇa, appears to be the basic idea which led to the notions of the mandocca and śīghrocca cycles which are fundamental to the later Siddhāntic astronomy. Key Words: Ancient astronomy, Mandocca, śatapatha Brāhmaṇa, śīghrocca, The sun. 
 
 ## INTRODUCTION 
 Several years ago, I described the astronomy of the śatapatha Brāhmaṇa in the pages of this journal' and elsewhere. [2,1,4] Most of that material was based on the astronomy of the fire altars described in the 10th kānḍa of the book which is entitled “Agnirahasya". The fire altars are made in a manner so that their areas correspond to the lengths of the lunar or the solar years and as there is a difference between the two types of year, an increase in the area of the fire altar that equals the difference is prescribed in its second construction. Finally, there is a prescription that 95 such altars be built in a sequence defining a 95-year cycle of intercalation. Here I present further details of the astronomy of the śatapatha Brāhmaṇa as deduced from the design of another altar described in the text. We suggest that a knowledge of the varying motion of the sun with respect to the four quarters of the year was known. 
 
 According to Eggeling, the śatapatha Brāhmaṇa represents the merging of two traditions, the first 9 kāṇdas are due to the school of Yājñavalkya and the kānḍas 10-14 due to the school of Sandilya. If one were to accept this theory, then the 95-year lunar-solar cycle of the fire altar astronomy should be called the Sāṇdilya cycle rather than the Yājñavalkya cycle. But this theory has been rejected by Caland who argues that kānḍas 10 is integral to the first nine. In the earlier papers we attributed the cycle to Yājñavalkya, accepting the tradition of the Mahābhārata 12.11739, where Yājñavalkya claims to have composed the śatapatha including the book on “Agnirahasya”. 
 
-In this paper we examine the altar designs from Yājñavalkya's 8th kānḍa, which have not been studied before. One design represents the sun's orbit in an asymmetric manner. We also look at other evidence that suggests it was known that the sun has a non-uniform motion. There were two years: the ritual one started with the winter solstice (mahāvrata day), and the civil one started with the spring equinox (vişuva). Vedic rites had a correspondence with the different stages of the year and, therefore, astronomy played a very significant role in that society. 
+In this paper we examine the altar designs from Yājñavalkya's 8th kānḍa, which have not been studied before. One design represents the sun's orbit in an asymmetric manner. We also look at other evidence that suggests it was known that the sun has a non-uniform motion. There were two years: the ritual one started with the winter solstice (mahāvrata day), and the civil one started with the spring equinox (viṣuva). Vedic rites had a correspondence with the different stages of the year and, therefore, astronomy played a very significant role in that society. 
 
 The specific asymmetry in the counts between the two halves of the year mentioned in the Brāhmaṇas makes it possible to date these rites and we show that they belong to a very early period although they are likely to have been written down in the second millennum BC. This discovery is in consonance with the other astronomical evidence in the Brāhmaṇas and recent archaeological findings. 
 
@@ -60,54 +60,69 @@ other texts. Further development of the śīghrocca and mandocca cycles; the con
 At the end of these stages stands the classical Siddhāntic period inaugurated by Aryabhaṭa. It is significant that these stages are well prior to the rise of mathematical astronomy in Babylonia and in Greece. The concepts of the śīghrocca and mandocca cycles indicate that the motion of the planets was taken to be fundamentally around the sun, which, in turn, was taken to go around the earth. 
 
 The mandocca, in the case of the sun and the moon, is the apogee where the angular motion is the slowest and in the case of the other planets it is the aphelion point of the orbit. For the superior planets, the śīghrocca coincides with the mean place of the sun, and in the case of an inferior planet, it is an imaginary point moving around the earth with the same angular velocity as the angular velocity of the planet round the sun; its direction from the earth is always parallel to the line joining the sun and the inferior planet. 
-The mandocca point serves to slow down the motion from the apogee to the perigee and speed up the motion from the perigee to the apogee. It is a representation of the 
-THE SUN'S ORBIT IN THE BrāhmaṇaS 
-179 
-non-uniform motion of the body, and so it can be seen as a direct development of the idea of the non-uniform motion of the sun and the moon. 
-The śīghrocca maps the motion of the planet around the sun to the corresponding set.of points around the earth. This indicates a tradition of heliocentric astronomy as applied to the solar system. The sun, with its winds that hold the solar system together, is, in turn, taken to go around the earth. 
+
+The mandocca point serves to slow down the motion from the apogee to the perigee and speed up the motion from the perigee to the apogee. It is a representation of the non-uniform motion of the body, and so it can be seen as a direct development of the idea of the non-uniform motion of the sun and the moon. 
+
+The śīghrocca maps the motion of the planet around the sun to the corresponding set of points around the earth. This indicates a tradition of heliocentric astronomy as applied to the solar system. The sun, with its winds that hold the solar system together, is, in turn, taken to go around the earth. 
+
 Surya Siddhānta (SS) seems to remember this pre-epicyclic astronomy of the earlier period. The uccas and the node (pāta) are thus described in SS 2.1-5: 
-Forms of time, of invisible shape, stationed in the zodaic, called the sīghrocca, mandocca, and node (pāta), are causes of the motion of the planets. The planets, attached to these points by cords of air, are drawn away by them, with the right and left hand, forward or backward, according to nearness, toward their own place. A wind, called pravaha, impels them toward their own ucсas, being 
-drawn away forward and backward. The antecedents of this system can be seen in the earlier texts. r̥gveda 10.136.2 speaks of the stars of the Ursa Major (the Seven Sages) having ropes of wind. (munayo vāta raśanāḥ). ŚB 4.1.5.16 describes the sun as puşkaramādityo, “the lotus of the sky”. ŚB 8.7.3.10 says : 
-tudasāvāditya imūmlokūntsūtre sumāvayate, tudvattutsūtrum vāyuh .... The sun strings these worlds (the earth, the planets, the atmosphere] to himself on a thread. 
-This thread is the same as the wind ..... This suggests a central role to the sun in defining the motions of the planets and ideas such as these must have ultimately led to the theory of the śīghrocca and the mandocca cycles. 
-ON THE NON-UNIFORM MOTION OF THE SUN With respect to an observer on the earth, the sun has two motions. First, is the daily motion across the sky. Second, is the shifting of the rising and setting directions. It is this second motion which defines the seasons. Its two extreme points are the solstices, and the points where the sun's orbit crosses the equator or when the nights equal the days are the equinoxes. 
-Aitreya Br. 4.18 describes how the sun reaches the highest point on the day called visuvant and how it stays still for a total of 21 days with the visuvant being the middle day of this period. In Pañcavimśa Brāhmaṇa. (Chapters 24 and 25), several year-long rites are described where the vișuvant day is preceded and followed by three-day periods called svarasāman days. This suggests that the sun was now taken to be more or less still in the heavens for a total period of 7 days. So it was clearly understood that the shifting of the rising and the setting directions had an irregular motion. 
-180 
-INDIAN JOURNAL OF HISTORY OF SCIENCE 
+Forms of time, of invisible shape, stationed in the zodaic, called the sīghrocca, mandocca, and node (pāta), are causes of the motion of the planets. The planets, attached to these points by cords of air, are drawn away by them, with the right and left hand, forward or backward, according to nearness, toward their own place. A wind, called pravaha, impels them toward their own ucсas, being drawn away forward and backward. 
+
+The antecedents of this system can be seen in the earlier texts. r̥gveda 10.136.2 speaks of the stars of the Ursa Major (the Seven Sages) having ropes of wind. (munayo vāta raśanāḥ). ŚB 4.1.5.16 describes the sun as puṣkaramādityo, “the lotus of the sky”. ŚB 8.7.3.10 says :  
+
+- tudasāvāditya imūmlokūnt sūtre samāvayate, tad yat tat sūtram vāyuh .... 
+- The sun strings these worlds (the earth, the planets, the atmosphere] to himself on a thread. This thread is the same as the wind ..... 
+
+This suggests a central role to the sun in defining the motions of the planets and ideas such as these must have ultimately led to the theory of the śīghrocca and the mandocca cycles. 
+
+## ON THE NON-UNIFORM MOTION OF THE SUN 
+With respect to an observer on the earth, the sun has two motions. First, is the daily motion across the sky. Second, is the shifting of the rising and setting directions. It is this second motion which defines the seasons. Its two extreme points are the solstices, and the points where the sun's orbit crosses the equator or when the nights equal the days are the equinoxes.
+ 
+Aitreya Br. 4.18 describes how the sun reaches the highest point on the day called visuvant and how it stays still for a total of 21 days with the visuvant being the middle day of this period. In Pañcavimśa Brāhmaṇa (Chapters 24 and 25), several year-long rites are described where the vișuvant day is preceded and followed by three-day periods called svarasāman days. This suggests that the sun was now taken to be more or less still in the heavens for a total period of 7 days. So it was clearly understood that the shifting of the rising and the setting directions had an irregular motion. 
+
 ŚB 4.6.2 describes the rite called gavām ayana, the “sun's walk" or the "cows' walk”. This is a rite which follows the motion of the sun, with its middle of the visuvant day. 
+
 Yajurveda (38.20) says that the āhavanīya or the sky altar is four-cornered since the sun is four-cornered, meaning thereby that the motion of the sun is characterized by four cardinal points: the two solstices and the two equinoxes. The āhavaniya altars described in the SB are also four-cornered. 
+
 With respect to the motion of the sun, SB 2.1.3 divides up the year into two halves in two different ways : 
-vasunto grīşmo varsāḥ, te devā stavah. śaraddhemantaḥ śiśiruste pitaro ya eva. sa yatrodagāvartate, deveśu tarhi ......, yatra dakṣiṇāvartate piirşu tarhi. The spring, the summer, and the rains, these seasons (represent) the gods; and the autumn, the winter, and the dewy season represent the fathers. When he (the sun) moves northwards, then he is among the gods .....; and when he moves 
-southwards, then he is among the fathers. The first classification divides the year from equinox to equinox, whereas the second classification does so from solstice to solstice. 
-The year-long rites list a total of 180 days before the solstice and another 180 days following the solstice. Since this is reckoning by solar days, it is not clear stated how the remaining 4 or 5 days of the year were assigned. But this can be easily inferred. 
-Note that the two basic days in this count are the vişuvant (summer solstice) and the mahāvrata day (winter solstice) which precedes it by.181 days in the above counts. Therefore, even though the count of the latter part of the year stops with an additional 180 days, it is clear that one needs another 4 or 5 days to reach the mahāvrata day in the winter. This establishes that the division of the year was in the two halves of 181 and 184 or 185 days. 
+
+    vasanto grīṣmo varsāḥ, te devā r̥tavah. śarad-dhemantaḥ śiśiraste pitaro ya eva. sa yatrodag āvartate, deveśu tarhi ......, yatra dakṣiṇāvartate pitr̥ṣu tarhi.  
+
+    The spring, the summer, and the rains, these seasons (represent) the gods; and the autumn, the winter, and the dewy season represent the fathers. When he (the sun) moves northwards, then he is among the gods .....; and when he moves southwards, then he is among the fathers. 
+    
+The first classification divides the year from equinox to equinox, whereas the second classification does so from solstice to solstice. 
+
+The year-long rites list a total of 180 days before the solstice and another 180 days following the solstice. Since this is reckoning by solar days, it is not clearly stated how the remaining 4 or 5 days of the year were assigned. But this can be easily inferred. 
+
+Note that the two basic days in this count are the ~~viṣuvant~~ (summer solstice)and the mahāvrata day (winter solstice) which precedes it by 181 days in the above counts. Therefore, even though the count of the latter part of the year stops with an additional 180 days, it is clear that one needs another 4 or 5 days to reach the mahāvrata day in the winter. This establishes that the division of the year was in the two halves of 181 and 184 or 185 days. 
+
 Corroboration of this is suggested by evidence related to an altar design from ŚB. 
-THE PLAN OF THE ALTARS The description of the agnicayana, or the building of the fire-altar, begins in the sixth kānḍa (book). But rather than speak of the altar of bricks, the text begins with an account of the creation of the universe. The significance of this is that the bricks are just meant to illustrate certain astronomical facts. As we know, the numerical and the area equivalences with respect to the bricks and astronomical and the area equivalences with respect to the bricks and astronomical data used in the Vedic books are just a means for presenting the facts and it is not clear that the altars were actually constructed. Indeed some of the "bricks” are made out of water or sometimes just loose earth sprinkled on an altar could itself stand for a brick. 
-THE SUN'S ORBIT IN THE BRAHMANAS 
-181 
+
+## THE PLAN OF THE ALTARS 
+The description of the agnicayana, or the building of the fire-altar, begins in the sixth kānḍa (book). But rather than speak of the altar of bricks, the text begins with an account of the creation of the universe. The significance of this is that the bricks are just meant to illustrate certain astronomical facts. As we know, the numerical and the area equivalences with respect to the bricks and astronomical and the area equivalences with respect to the bricks and astronomical data used in the Vedic books are just a means for presenting the facts and it is not clear that the altars were actually constructed. Indeed some of the "bricks” are made out of water or sometimes just loose earth sprinkled on an altar could itself stand for a brick. 
+
 Book 7 described the construction of a gārhapatya altar. Book 8 describes the construction of an altar in five layers. 
-Out of these layers, the first represents the terrestrial world;" the second layer is the near atmosphere; • the third layer is the air or the middle atmosphere;' the fourth layer is the high atmosphere below the heavens;20 and the fifth layer is the sky.. Note that the first layer is round, which is the usual figure for the earth; the second layer is square; the third shows the cardinal directions; the fourth is square; and the fifth represents the orbit of the sun. 
+
+Out of these layers, the first represents the terrestrial world;" the second layer is the near atmosphere; 19 the third layer is the air or the middle atmosphere;' the fourth layer is the high atmosphere below the heavens;20 and the fifth layer is the sky. 21 Note that the first layer is round, which is the usual figure for the earth; the second layer is square; the third shows the cardinal directions; the fourth is square; and the fifth represents the orbit of the sun. 
+
 The whole altar is just an expansion of the tripartite system of the world:-- 
 “the first layer is this very (terrestrial) world; and the uppermost (layer) is the sky; and those three (intermediate layers) are the air”. These layers are shown in the Figures 1 through 5. 
-Figure 1. Layer 1, the earth. 
-182 
-INDIAN JOURNAL OF HISTORY OF SCIENCE 
-WWE. 
-Figure 2. Layer 2, the lower atmosphere. 
-N 
-E 
-Figure 3. Layer 3, the mid-atmosphere. 
-THE SUN'S ORBIT IN THE BRAHMAṇAS 
-183 
-W 
-Figure 4. Layer 4, the upper atmosphere. 
-S 
-Figure 5. Layer 5, the orbit of the sun. 
-184 
-INDIAN JOURNAL OF HISTORY OF SCIENCE 
+
+{{< figure src="../../images/sb_altar_layer1.png" title="Figure 1. Layer 1, the earth" class="thumbnail">}}
+
+{{< figure src="../../images/sb_altar_layer2.png" title="Layer 2, the lower atmosphere. " class="thumbnail">}}
+
+{{< figure src="../../images/sb_altar_layer3.png" title="Layer 3, the mid-atmosphere. " class="thumbnail">}}
+
+{{< figure src="../../images/sb_altar_layer4.png" title="Layer 4, the upper atmosphere." class="thumbnail">}}
+
+{{< figure src="../../images/sb_altar_layer5.png" title="Layer 5, the orbit of the sun." class="thumbnail">}}
+
 The fifth layer, being a representation of the sky, presents a most interesting overview of the understanding of the physical universe. The details of how the bricks of the fifth layer are to be laid are described in the fifth adhyāya of the 8th kānḍa. Note that there are some differences between our Figure 5 and that drawn by Eggeling,29 who has used incorrect sizes for many of the bricks that go inside the ring. When the size of each stomabhāgā brick is one unit square, the outer diameter of the ring should be 11 units rather than the 12 units which has been used by Eggeling. This becomes clear when Eggeling's drawing for the fifth layer is compared to those of the first and third layers and we find that the viśvajyoti (V) bricks do not line up as they are supposed to. 
-The outer rim of layer 5 consists of 29 stomabhāgā bricks. The rest of the layer consists of 5 nākasad upon which are placed 5 pañcacūdā bricks; chandyasyā bricks representing the metres of which three each of tristubh, jagatī, and anustubh are within the ring of the stomabhāgā bricks. In the middle is the gārhapatya altar of 8 bricks upon which is placed a second layer of 8 bricks called the punaściti. Just within the ring on the east are 2 stavyā, and the lone viśvajyoti (V). Finally, on top of the punaściti are placed two perforated bricks called vikarṇi and svayamātṇṇṇā. 
-THE HALVES OF THE YEAR 
+
+The outer rim of layer 5 consists of 29 stomabhāgā bricks. The rest of the layer consists of 5 nākasad upon which are placed 5 pañcacūdā bricks; chandyasyā bricks representing the metres of which three each of tristubh, jagatī, and anustubh are within the ring of the stomabhāgā bricks. In the middle is the gārhapatya altar of 8 bricks upon which is placed a second layer of 8 bricks called the punaściti. Just within the ring on the east are 2 stavyā, and the lone viśvajyoti (V). Finally, on top of the punaściti are placed two perforated bricks called vikarṇi and svayamātr̥ṇṇā. 
+
+## THE HALVES OF THE YEAR 
 ŚB 8.5.4.2 calls the stomabhāgās, that form the outer ring of 29 bricks, as "the yonder sun". Note that the gārhapatya altar is placed right in the middle of this ring, and the gārhapatya altar represents the earth. So the layer 5 of Figure 5 represents the earth at the center with the sun going around in a circle. Figure 6 shows layer 5 with the layer 1 inscribed within. Figure 7 shows the earth with the center of the sun's orbit at an offset. 
 On top of the central gārhapatya altar, lie the two perforated bricks at an offset to the center. The lower one is at the center. ŚB 8.7.3.9-10 says. 
 atha vikarṇīm ca svayamātonnām copadadhāti, vāyurvai vikarṇi dyauruttamā svayamātrṇa vāyum ca tuddivam copadadhātyu8ttame'upadadhātyuttane hi vāyuśca dyauśca .... tadasāvāditya imāmlokāntsūtre samāvayate, tadyattatsūtram vāyuḥsa sayaḥ sa vāyureșă sa vikurni .... 
@@ -147,7 +162,7 @@ THE SUN'S ORBIT IN THE BRAHMANAS
 189 
 significance for the chronology of the Vedic texts and it invalidates the chronology popularized by Max Mūller. 
 The theory that the sun was the “lotus” (the central point of the sky and that it kept the worlds together by its “strings of wind” gave rise to a heliocentric tradition in India. The offset of the sun's orbit evolved into the notion of mandocca and the motions of the planets around the sun were tranferred to the earth's frame through the device of the sīghrocca. 
-The continuing analysis of the astronomical references in the Brāhmaṇas has made it clear that the theory that the Siddhantic astronomy was somehow derived from the Babylonians and the Greeks is wrong. What is emerging from texts, that are anterior, by any reckoning, to the eras of astronomical advance in Babylonia or in Greece is that astronomical ideas developed in India in stages and these stages can be seen in the different layers of the Vedic texts, the Brāhmaṇas, and the Vedānga Jyotişa. 
+The continuing analysis of the astronomical references in the Brāhmaṇas has made it clear that the theory that the Siddhantic astronomy was somehow derived from the Babylonians and the Greeks is wrong. What is emerging from texts, that are anterior, by any reckoning, to the eras of astronomical advance in Babylonia or in Greece is that astronomical ideas developed in India in stages and these stages can be seen in the different layers of the Vedic texts, the Brāhmaṇas, and the Vedānga Jyotiṣa. 
 Vernal equinox 
 March 20 
 SPRING 
@@ -181,12 +196,12 @@ R
 oo 
 REFERENCES AND NOTES 
 1. Kak, S.C. “Astronomy in the śatapatha Brāhmaṇa”, Indian Journal of History of Science, 
-28 (1993), 15-34. Kak, S.C. "Astronomy of the Vedic Altars and the Rigveda", Mankind Quarterly, 33 (1992), 43-55. Kak, S.C. “Astronomy of the Vedic Altars", Vistus in Astronomy, 36 (1993), 117-140. S.C. Kak, The Astronomical Code of the r̥gveda. Aditta, New Delhi (1994). J. Eggeling, (tr.), The śatapatha Brāhmaṇa. Motilal Banarsidass, Delhi, 1988 (1882 1900). W. Caland (ed.), The śatapatha Brāhmaṇa in the Kūnvīya Recension. Motilal Banarsidass, Delhi, 1983 (1926); page 5 of the Introduction. For a review of the evidence regarding the drying up of the Sarasvati around 1900 B.C. see Kak, The Astronomcal Code .... or see J.M. Kenoyer, “The Indus valley tradition of Pakistan and Western India”, Journal of World Prehistory, 5 (1991), 331-385. H.P. Francfort, “Evidence for Harappan irrigation system in Haryana and Rajasthan”, Eastern, Anthropologist, 45(1992), 87-103. Note that the earliest calendar in India was the Saptarși calendar with a cycle of 2700 years, with a 100 years assigned to each nakşatra. It appears that the discrepancy between the Aryabhaṭa and Varāhmihira accounts arose when a back-calculation was made where instead of 27 naksutras, 28 nakşatras were used. For a discussion of this issue see Kak, The Astronomical Code ..... See Notes 2, 3, 4. Also see D. Frawley, “Planets in the Vedic literature", Indian Journal of History of Science, 29 (1994) 495-506; S.C. Kak, “Knowledge of the planets in the third millennium BC”, Quarterly Journal of 
+28 (1993), 15-34. Kak, S.C. "Astronomy of the Vedic Altars and the Rigveda", Mankind Quarterly, 33 (1992), 43-55. Kak, S.C. “Astronomy of the Vedic Altars", Vistus in Astronomy, 36 (1993), 117-140. S.C. Kak, The Astronomical Code of the r̥gveda. Aditta, New Delhi (1994). J. Eggeling, (tr.), The śatapatha Brāhmaṇa. Motilal Banarsidass, Delhi, 1988 (1882 1900). W. Caland (ed.), The śatapatha Brāhmaṇa in the Kūnvīya Recension. Motilal Banarsidass, Delhi, 1983 (1926); page 5 of the Introduction. For a review of the evidence regarding the drying up of the Sarasvati around 1900 B.C. see Kak, The Astronomcal Code .... or see J.M. Kenoyer, “The Indus valley tradition of Pakistan and Western India”, Journal of World Prehistory, 5 (1991), 331-385. H.P. Francfort, “Evidence for Harappan irrigation system in Haryana and Rajasthan”, Eastern, Anthropologist, 45(1992), 87-103. Note that the earliest calendar in India was the Saptarși calendar with a cycle of 2700 years, with a 100 years assigned to each nakṣatra. It appears that the discrepancy between the Aryabhaṭa and Varāhmihira accounts arose when a back-calculation was made where instead of 27 naksutras, 28 nakṣatras were used. For a discussion of this issue see Kak, The Astronomical Code ..... See Notes 2, 3, 4. Also see D. Frawley, “Planets in the Vedic literature", Indian Journal of History of Science, 29 (1994) 495-506; S.C. Kak, “Knowledge of the planets in the third millennium BC”, Quarterly Journal of 
 the Royal Astrinomical Society, 37 (1996) 709-715. 10. Burgess, E. The Sūrya Siddhānta. Delhi: Motilal Banarsidass, 1989 (1860); 
 See also Indian Journal of History of Science, 20 (1985), and B.L. van der Waerden, “Two 
 treatises on Indian astronomy”, Journal for the History of Astronomy, 11 (1980) 50-84. 11. Billard, R. L'Astronomie Indienne. Ecole Francaise d'Extreme Orient, Paris (1971). 12. Van der Waerden, B.L. "The conjunction of 3102 B.C.". Centaurus, 24 (1980) 117-131. 13. Thurston, H. Early Astronomy. Springer-Verlag, New York (1994), p. 188. 14. Kramrisch, S. The Presence of Siva. Princeton University Press, Princeton (1981), pp. 
 42-43. 15. In addition to the references above, see S.C. Kak, “The astronomy of the age of geometric 
-altars”, Quarterly Journal of the Royal Astronomyical Societyr, 36 (1995) 385-396. 16. T.S. Kuppanna Sastry, Vedūnga Jyotişa of Lagadha. Indian National Science Academy, 
+altars”, Quarterly Journal of the Royal Astronomyical Societyr, 36 (1995) 385-396. 16. T.S. Kuppanna Sastry, Vedūnga Jyotiṣa of Lagadha. Indian National Science Academy, 
 New Delhi (1985). 17. ŚB 8.2.1.1 18. ŚB 8.3.1.1 19. ŚB 8.4.1.1 20. ŚB 8.5.1.1 21. ŚB 8.6.1.1 22. ŚB 8.5.4.12 
 THE SUN'S ORBIT IN THE BRAHMANAS 
 191 

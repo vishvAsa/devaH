@@ -3,6 +3,7 @@ title: +मानम्
 unicode_script: devanagari
 ---
 
+## कालमानम्
 - मुहूर्तनामानि [अत्र](https://imgur.com/Nx2J5VU), [अत्र](https://twitter.com/JoeAgneya/status/923818607154315269)।
 - वैदिकपरम्परायां कालगणना एतेन प्रकारेण क्रियते-
     - (२)त्रुट्योः- एकः(१)लवः । 
@@ -29,6 +30,14 @@ unicode_script: devanagari
 
 ## चन्द्रदर्शनम्
 शतपथब्राह्मणे – तद्धैके दृष्ट्वोपवसन्ति। श्वो नोदेतेत्यभ्रस्य वा हेतोरनिर्ज्ञाय वाऽथोतोपवसन्त्यथैनमुताभ्युदेति स यद्यगृहीतं हविरभ्युदियात्प्रज्ञातमेव तदेषैव व्रतचर्या यत्पूर्वेद्युर्दुग्धं दधि हविरातञ्चनं तत्कुर्वन्ति प्रति प्रमुञ्चन्ति वत्सांस्तान्पुनरपाकुर्वन्ति (११।१।४।१) इत्युक्तम्।
+
+## मन्दोच्च-शीघ्रोच्च-स्थाने
+- mandocca
+  - in the case of the sun and the moon, is the apogee where the angular motion is the slowest.
+  - In the case of the other planets it is the aphelion point of the orbit. 
+- śīghrocca
+  - For the superior planets, the śīghrocca coincides with the mean place of the sun
+  - In the case of an inferior planet, it is an imaginary point moving around the earth with the same angular velocity as the angular velocity of the planet round the sun; its direction from the earth is always parallel to the line joining the sun and the inferior planet.
 
 ## दृक्-तुल्यता-प्राधान्यम्
 - While the practice has degenerated in the last hundred years or two, from my discussions with shrI RN Iyengar, it seems to have been the case that the jyotiSha mistakes in nirNaya grantha-s did not automatically hold sway over all vaidika-s (who were quite decentralized) - each hamlet or village had a local jyotiSha expert who would make observations by placing shanku-s and constructing requisite instruments.
