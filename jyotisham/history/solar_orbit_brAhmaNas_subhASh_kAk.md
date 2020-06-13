@@ -58,6 +58,7 @@ are the Sulbasūtras, the Mahābhārata, the early Purāṇas, Sūryasiddhanta a
 other texts. Further development of the śīghrocca and mandocca cycles; the concept of kalpa. 
 
 At the end of these stages stands the classical Siddhāntic period inaugurated by Aryabhaṭa. It is significant that these stages are well prior to the rise of mathematical astronomy in Babylonia and in Greece. The concepts of the śīghrocca and mandocca cycles indicate that the motion of the planets was taken to be fundamentally around the sun, which, in turn, was taken to go around the earth. 
+
 The mandocca, in the case of the sun and the moon, is the apogee where the angular motion is the slowest and in the case of the other planets it is the aphelion point of the orbit. For the superior planets, the śīghrocca coincides with the mean place of the sun, and in the case of an inferior planet, it is an imaginary point moving around the earth with the same angular velocity as the angular velocity of the planet round the sun; its direction from the earth is always parallel to the line joining the sun and the inferior planet. 
 The mandocca point serves to slow down the motion from the apogee to the perigee and speed up the motion from the perigee to the apogee. It is a representation of the 
 THE SUN'S ORBIT IN THE BrāhmaṇaS 
