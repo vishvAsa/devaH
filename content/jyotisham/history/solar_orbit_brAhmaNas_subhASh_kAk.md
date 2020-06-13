@@ -37,7 +37,7 @@ the literature.
 
 It is also being recognized that the Siddhāntic astronomy has features which are unique to India and it represents an independent tradition. In the words of Thurston:
 
-    "Not only did Aryabhaṭa believe that the earth rotates, but there are glimmerings in his system (and other similar Indian systems) of a possible underlying theory in which the earth (and the planets) orbits the sun, rather than the sun orbiting the earth. The evidence is that the basic planetary periods are relative to the sun. For the outer planets this is not significant: both earth and sun are inside their orbits and so the time taken to go round the earth and the time taken to go round the sun are the same. The significant evidence comes from the inner planets: the period of the śīghrocca is the time taken by the planet to orbit the sun." 
+"Not only did Aryabhaṭa believe that the earth rotates, but there are glimmerings in his system (and other similar Indian systems) of a possible underlying theory in which the earth (and the planets) orbits the sun, rather than the sun orbiting the earth. The evidence is that the basic planetary periods are relative to the sun. For the outer planets this is not significant: both earth and sun are inside their orbits and so the time taken to go round the earth and the time taken to go round the sun are the same. The significant evidence comes from the inner planets: the period of the śīghrocca is the time taken by the planet to orbit the sun." 
 
 It is not clear that Aryabhaṭa was the originator of the idea of the rotation of the earth. It appears that the rotation of the earth is inherent in the notion that the sun never sets that we find in the Aitreya Brāhmaṇa 2.7: 
 
@@ -86,9 +86,9 @@ Yajurveda (38.20) says that the āhavanīya or the sky altar is four-cornered si
 
 With respect to the motion of the sun, SB 2.1.3 divides up the year into two halves in two different ways : 
 
-    vasanto grīṣmo varsāḥ, te devā r̥tavah. śarad-dhemantaḥ śiśiraste pitaro ya eva. sa yatrodag āvartate, deveśu tarhi ......, yatra dakṣiṇāvartate pitr̥ṣu tarhi.  
+"vasanto grīṣmo varsāḥ, te devā r̥tavah. śarad-dhemantaḥ śiśiraste pitaro ya eva. sa yatrodag āvartate, deveśu tarhi ......, yatra dakṣiṇāvartate pitr̥ṣu tarhi."  
 
-    The spring, the summer, and the rains, these seasons (represent) the gods; and the autumn, the winter, and the dewy season represent the fathers. When he (the sun) moves northwards, then he is among the gods .....; and when he moves southwards, then he is among the fathers. 
+"The spring, the summer, and the rains, these seasons (represent) the gods; and the autumn, the winter, and the dewy season represent the fathers. When he (the sun) moves northwards, then he is among the gods .....; and when he moves southwards, then he is among the fathers. "
     
 The first classification divides the year from equinox to equinox, whereas the second classification does so from solstice to solstice. 
 
@@ -127,9 +127,9 @@ The outer rim of layer 5 consists of 29 stomabhāgā bricks. The rest of the lay
 
 On top of the central gārhapatya altar, lie the two perforated bricks at an offset to the center. The lower one is at the center. ŚB 8.7.3.9-10 says. 
 
-    atha vikarṇīm ca svayamātonnām copadadhāti, vāyurvai vikarṇi dyauruttamā svayamātrṇa vāyum ca tuddivam copadadhātyu8ttame'upadadhātyuttane hi vāyuśca dyauśca .... tadasāvāditya imāmlokāntsūtre samāvayate, tadyattatsūtram vāyuḥsa sayaḥ sa vāyureșă sa vikurni .... 
-    
-    He then lays down the vikarṇi and svayamātiṇā (bricks), -- the vikarṇi is Vāyu (the wind), and the svayamātmā is the sky: he thus sets up both the wind and the sky. He lays them down as the last (highest), for wind and sky are the highest...... [The] yonder sun strings these worlds (the earth and the atmosphere] to himself on a thread. Now that thread is the same as the wind; and that wind is the same as this vikarṇi ..... 
+"atha vikarṇīm ca svayamātr̥ṇṇām copadadhāti, vāyur vai vikarṇi dyaur uttamā svayam ātr̥ṇṇa vāyum ca tuddivam copadadhāty u8ttame'upadadhātyuttane hi vāyuśca dyauśca .... tadasāvāditya imāmlokāntsūtre samāvayate, tadyattatsūtram vāyuḥsa sayaḥ sa vāyureșă sa vikurni ...." 
+
+"He then lays down the vikarṇi and svayamātiṇā (bricks), -- the vikarṇi is Vāyu (the wind), and the svayamātmā is the sky: he thus sets up both the wind and the sky. He lays them down as the last (highest), for wind and sky are the highest...... [The] yonder sun strings these worlds (the earth and the atmosphere] to himself on a thread. Now that thread is the same as the wind; and that wind is the same as this vikarṇi ....." 
 
 
 {{< figure src="../../images/sb_altar_layer5_1.png" title="Figure 6. Layer 5, with the design of layer 1 inscribed within. " class="thumbnail">}}
