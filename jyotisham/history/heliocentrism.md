@@ -37,9 +37,11 @@ theory about the diurnal motion of the earth in the following verse :  "प्�
 - "The Pancasiddhantika (13. 6) of Varahamihira refers to this+++(AryabhaTa's)+++ view and rejects it, not on the ground that it is opposed to the Veda, but on the ground that, if that view were correct, hawks and other birds flying high up in the sky would not be able to come back to their nests without fail He did not know that the atmosphere also goes with the earth. "- PV Kane
 
 ## bhAgavata-purANa
-- Geocentric, flat earth model. Example: 5.21.8 - [VB](https://vedabase.io/en/library/sb/5/21/8-9/). Zero calculations. Best treated as kavi-samaya type arthavAda.
-- Modern visualizations - [SD](https://www.youtube.com/watch?v=oELKxRPHR6U).
-- "The Srimad-Bhagavatam’s mode of presentation is very different from the familiar modern approach. Although the Bhagavatam’s “Earth” (disk- shaped Bhu-mandala) may look unrealistic, careful study shows that the Bhagavatam uses Bhu-mandala to represent at least four reasonable and consistent models: (1) a polar- projection map of the Earth globe, (2) a map of the solar system, (3) a topographical map of south-central Asia, and (4) a map of the celestial realm of the demigods."
+- References to "bhUgola" in multiple purANa-s including bhAgavata -  https://i.imgur.com/GsxAOcY.png .
+- Yet, People claim geocentric, flat earth model in some places. Example: 5.21.8 - [VB](https://vedabase.io/en/library/sb/5/21/8-9/). Zero calculations. Best treated as kavi-samaya type arthavAda.
+    - Modern visualizations - [SD](https://www.youtube.com/watch?v=oELKxRPHR6U).
+    - "The Srimad-Bhagavatam’s mode of presentation is very different from the familiar modern approach. Although the Bhagavatam’s “Earth” (disk- shaped Bhu-mandala) may look unrealistic, careful study shows that the Bhagavatam uses Bhu-mandala to represent at least four reasonable and consistent models: (1) a polar- projection map of the Earth globe, (2) a map of the solar system, (3) a topographical map of south-central Asia, and (4) a map of the celestial realm of the demigods."
+
 
 ## lalla of lATa 750CE
 - गगन-मरुद्-अग्नि-जल-मृण्-मयो महाभूत-गुण-युतः स्वस्थः । कक्षाभिर् आवृतोऽयं भ-पञ्जरान्तश् च भूगोलः ॥ "The sphere of the earth formed of space, gas, heat, liquid, solid thus having the properties of the 5 great bhuta-s stands by itself in the celestial sphere surrounded by the celestial orbits."
@@ -52,6 +54,9 @@ theory about the diurnal motion of the earth in the following verse :  "प्�
 ## pRthUdaka-svAmI  864 CE
 - He was a chaturvedin son of madhusUdana bhaTTa.
 - "भ-पञ्जरः स्थिरः । भूर् एवावृत्यावृत्य प्रति-दैवसिकौ उदयास्तमयौ सम्पादयति नक्षत्र-ग्रहाणाम् । आचार्यार्यभटेन+अपि भू-भ्रमणम् अभ्युपगतम्: “प्राणेनैति कलां भूः ।"" - "The celestial sphere is stationary. Only the earth keeps rotating and rotating, once everyday, causing the rising and setting of the stars and planets. The earth's rotation had been accepted by professor Aryabhata: "the earth rotates by the angle of a kala in unit of time of a prāņa"".
+
+## वेदान्तदेशिकः
+- He has written a work called भूगोलनिर्णय .
 
 ## makkibhaTTa 1377AD
 - Commented on Sripati's Siddhantasekhara.
