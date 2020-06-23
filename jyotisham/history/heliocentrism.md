@@ -37,8 +37,8 @@ theory about the diurnal motion of the earth in the following verse :  "प्�
 - "The Pancasiddhantika (13. 6) of Varahamihira refers to this+++(AryabhaTa's)+++ view and rejects it, not on the ground that it is opposed to the Veda, but on the ground that, if that view were correct, hawks and other birds flying high up in the sky would not be able to come back to their nests without fail He did not know that the atmosphere also goes with the earth. "- PV Kane
 
 ## bhAgavata-purANa
-- References to "bhUgola" in multiple purANa-s including bhAgavata -  https://i.imgur.com/GsxAOcY.png .
-- Yet, People claim geocentric, flat earth model in some places. Example: 5.21.8 - [VB](https://vedabase.io/en/library/sb/5/21/8-9/). Zero calculations. Best treated as kavi-samaya type arthavAda.
+- References to "bhUgola" in multiple purANa-s including bhAgavata -  https://i.imgur.com/GsxAOcY.png . Following interpretation by vedAntadeshika, atleast some of this may have referred to a spherical manifold (गोलकटाह) rather than a full sphere.
+- People claim geocentric, flat earth model in some places. Example: 5.21.8 - [VB](https://vedabase.io/en/library/sb/5/21/8-9/). Zero calculations. Best treated as kavi-samaya type arthavAda.
     - Modern visualizations - [SD](https://www.youtube.com/watch?v=oELKxRPHR6U).
     - "The Srimad-Bhagavatam’s mode of presentation is very different from the familiar modern approach. Although the Bhagavatam’s “Earth” (disk- shaped Bhu-mandala) may look unrealistic, careful study shows that the Bhagavatam uses Bhu-mandala to represent at least four reasonable and consistent models: (1) a polar- projection map of the Earth globe, (2) a map of the solar system, (3) a topographical map of south-central Asia, and (4) a map of the celestial realm of the demigods."
 
