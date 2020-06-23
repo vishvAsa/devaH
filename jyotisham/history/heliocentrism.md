@@ -56,7 +56,9 @@ theory about the diurnal motion of the earth in the following verse :  "प्�
 - "भ-पञ्जरः स्थिरः । भूर् एवावृत्यावृत्य प्रति-दैवसिकौ उदयास्तमयौ सम्पादयति नक्षत्र-ग्रहाणाम् । आचार्यार्यभटेन+अपि भू-भ्रमणम् अभ्युपगतम्: “प्राणेनैति कलां भूः ।"" - "The celestial sphere is stationary. Only the earth keeps rotating and rotating, once everyday, causing the rising and setting of the stars and planets. The earth's rotation had been accepted by professor Aryabhata: "the earth rotates by the angle of a kala in unit of time of a prāņa"".
 
 ## वेदान्तदेशिकः
-- He has written a work called भूगोलनिर्णय .
+- He has written a work called भूगोलनिर्णय . Seems to closely follow bhAgavata. 
+- "गोल" seems to refer to "गोलकटाह", a spherical manifold, according to the commentary -  "एवं सूर्याण्डगोलकटाहयोर्मध्ये पञ्चविंशतिकोटियोजनत्वम् ऊर्द्ध्वमधश्चेत्यण्डकटाहान्तरविव
+रोच्छ्रायस्य पञ्चाशत्कोटियोजनत्वं सिद्धम् ॥"
 
 ## makkibhaTTa 1377AD
 - Commented on Sripati's Siddhantasekhara.
