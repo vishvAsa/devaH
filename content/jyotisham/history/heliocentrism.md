@@ -37,7 +37,7 @@ theory about the diurnal motion of the earth in the following verse :  "प्�
 - References to "bhUgola" in multiple purANa-s including bhAgavata -  [IMG](https://i.imgur.com/GsxAOcY.png) . As is clear from interpretations by vedAntadeshika and later bhAgavata-s, this is to be understood as a spherical manifold (गोलकटाह) or hemisphere rather than a full sphere. 
 - Essentially a flat earth model. 
 - Example: 5.21.8 - [VB](https://vedabase.io/en/library/sb/5/21/8-9/). Zero calculations. Best treated as kavi-samaya type arthavAda.
-- Also see late bhAgavata-s.
+- Also see late bhAgavata-s (below).
 
 ## lalla of lATa 750CE
 - गगन-मरुद्-अग्नि-जल-मृण्-मयो महाभूत-गुण-युतः स्वस्थः । कक्षाभिर् आवृतोऽयं भ-पञ्जरान्तश् च भूगोलः ॥ "The sphere of the earth formed of space, gas, heat, liquid, solid thus having the properties of the 5 great bhuta-s stands by itself in the celestial sphere surrounded by the celestial orbits."
