@@ -2,11 +2,6 @@
 title: +अधिमन्त्रम्
 ---
 
-
----
-title: mantra and yantra
----
-
 ## Mantra-s
 
 ### What is the power of mantra-s?
@@ -19,6 +14,13 @@ Many attribute supernatural effects beyond it - mAraNa, vashIkaraNa, uchChATana,
 - Greater the siddhi, tougher the things that are said to be possible. Master tAntrikas sometimes train from childhood, with a big syllabus of mantra-s and rituals - and have siddhi-s over multiple mantra-s. The deshika-s among them are said to even be capable of making new effective mantra-s for disciples.
 
 ### Whence the power of mantra-s?
+
+#### Consciousness
+Via [MT](https://twitter.com/blog_supplement/status/1276021150229901312): I would say the mantra-s are conscious (rather than living) with shabda-tanu just as a living being is conscious with an ANava-tanu. The other sounds are conscious too just as a stone or dead wood is conscious but they are almost entirely of the guNa tamas.
+
+However, a mantra like a living organism has the additional enrichment of sattva which impinges on that consciousness. That makes them different from just a random sound. That sattva in the mantra is seen in the form of its Chandas, bIja combination and other features which map to the deity of the mantra. That's why I'm an opponent of the kautsa thought. 
+
+Finally, I'd add the same concept also extends to yantra-s: what distinguishes them from a random assortment of points or lines. This widely used in sAdhanA by the erudite sAdhaka-s but the theory was less developed in most popular traditional sources as H tended to focus more on the linguistic side. 
 
 #### Embodiment and reverance
 - raurava-tantra: "न मीमांस्या विचार्या वा मन्त्राः स्वल्पधिया नरैः। प्रमाणमागमं कृत्वा श्रद्धातव्यं हितैषिभिः॥ सर्वे मन्त्रात्मक देवास् सर्वे मन्त्राः शिवात्मकाः। शिवात्मकमिदं ज्ञात्वैवमेवानुचिन्तयेत्॥ ... यावन्तो रुद्रदेवाश्च रक्षोयक्ष महेश्वराः। तावन् मन्त्राह् समाख्यातस् तेषाम् सम्ख्या न विद्यते॥ देशभाषा-निबद्धाश्च दिव्याक्षरपदैर्युताः। सर्वज्ञाः सर्वगाः शुद्धाः सर्वे सर्वज्ञ भाविताः॥"
