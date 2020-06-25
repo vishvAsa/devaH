@@ -34,8 +34,9 @@ theory about the diurnal motion of the earth in the following verse :  "प्�
 - "The Pancasiddhantika (13. 6) of Varahamihira refers to this+++(AryabhaTa's)+++ view and rejects it, not on the ground that it is opposed to the Veda, but on the ground that, if that view were correct, hawks and other birds flying high up in the sky would not be able to come back to their nests without fail He did not know that the atmosphere also goes with the earth. "- PV Kane
 
 ## bhAgavata-purANa
-- References to "bhUgola" in multiple purANa-s including bhAgavata -  [IMG](https://i.imgur.com/GsxAOcY.png) . Following interpretation by vedAntadeshika, atleast some of this may have referred to a spherical manifold (गोलकटाह) rather than a full sphere.
-- People claim geocentric, flat earth model in some places. Example: 5.21.8 - [VB](https://vedabase.io/en/library/sb/5/21/8-9/). Zero calculations. Best treated as kavi-samaya type arthavAda.
+- References to "bhUgola" in multiple purANa-s including bhAgavata -  [IMG](https://i.imgur.com/GsxAOcY.png) . As is clear from interpretations by vedAntadeshika and later bhAgavata-s, this is to be understood as a spherical manifold (गोलकटाह) or hemisphere rather than a full sphere. 
+- Essentially a flat earth model. 
+- Example: 5.21.8 - [VB](https://vedabase.io/en/library/sb/5/21/8-9/). Zero calculations. Best treated as kavi-samaya type arthavAda.
 - Also see late bhAgavata-s.
 
 ## lalla of lATa 750CE
