@@ -33,12 +33,6 @@ theory about the diurnal motion of the earth in the following verse :  "प्�
 ## varAhamihira ~600CE
 - "The Pancasiddhantika (13. 6) of Varahamihira refers to this+++(AryabhaTa's)+++ view and rejects it, not on the ground that it is opposed to the Veda, but on the ground that, if that view were correct, hawks and other birds flying high up in the sky would not be able to come back to their nests without fail He did not know that the atmosphere also goes with the earth. "- PV Kane
 
-## bhAgavata-purANa
-- References to "bhUgola" in multiple purANa-s including bhAgavata -  [IMG](https://i.imgur.com/GsxAOcY.png) . As is clear from interpretations by vedAntadeshika and later bhAgavata-s, this is to be understood as a spherical manifold (गोलकटाह) or hemisphere rather than a full sphere. 
-- Essentially a flat earth model. 
-- Example: 5.21.8 - [VB](https://vedabase.io/en/library/sb/5/21/8-9/). Zero calculations. Best treated as kavi-samaya type arthavAda.
-- Also see late bhAgavata-s (below).
-
 ## lalla of lATa 750CE
 - गगन-मरुद्-अग्नि-जल-मृण्-मयो महाभूत-गुण-युतः स्वस्थः । कक्षाभिर् आवृतोऽयं भ-पञ्जरान्तश् च भूगोलः ॥ "The sphere of the earth formed of space, gas, heat, liquid, solid thus having the properties of the 5 great bhuta-s stands by itself in the celestial sphere surrounded by the celestial orbits."
 - मध्ये ऽयस्कान्तानां यथा स्थितो ऽयोगुडः ख-मध्यस्थः । तद्वद् अनाधारो ऽपि हि सर्वाधारो महीगोलः ॥ "Just as an iron ball when placed between magnets the earth-globe remains suspended in the midst of space without any support, while supporting all (that is on it)."
@@ -50,10 +44,6 @@ theory about the diurnal motion of the earth in the following verse :  "प्�
 ## pRthUdaka-svAmI  864 CE
 - He was a chaturvedin son of madhusUdana bhaTTa.
 - "भ-पञ्जरः स्थिरः । भूर् एवावृत्यावृत्य प्रति-दैवसिकौ उदयास्तमयौ सम्पादयति नक्षत्र-ग्रहाणाम् । आचार्यार्यभटेन+अपि भू-भ्रमणम् अभ्युपगतम्: “प्राणेनैति कलां भूः ।"" - "The celestial sphere is stationary. Only the earth keeps rotating and rotating, once everyday, causing the rising and setting of the stars and planets. The earth's rotation had been accepted by professor Aryabhata: "the earth rotates by the angle of a kala in unit of time of a prāņa"".
-
-## वेदान्तदेशिकः
-- He has written a work called भूगोलनिर्णय . Seems to closely follow bhAgavata. 
-- "गोल" seems to refer to "गोलकटाह", a spherical manifold, according to the commentary -  "एवं सूर्याण्डगोलकटाहयोर्मध्ये पञ्चविंशतिकोटियोजनत्वम् ऊर्द्ध्वमधश्चेत्यण्डकटाहान्तरविवरोच्छ्रायस्य पञ्चाशत्कोटियोजनत्वं सिद्धम् ॥"
 
 ## makkibhaTTa 1377AD
 - Commented on Sripati's Siddhantasekhara.
@@ -84,7 +74,17 @@ theory about the diurnal motion of the earth in the following verse :  "प्�
   - "Indeed it is known the earth rotates, the Marut-s [atmospheric winds] rotate in opposite direction most marvellously, thus are caused to rotate all the heavenly bodies as if along with the celestial globe. This rotation is the movement of the waters. The forms of Rudra are known to be eight of which Appaya Dīkşita shines as that form which is stationary (or: without delusion)."
   - This can be "a reflexive attempt at correcting Appayya's insistence on a geocentric, geostationary cosmology in commenting on a shrutivAkya".
 
-## Late bhAgavata-s
+## bhAgavata-s
+### bhAgavata-purANa
+- References to "bhUgola" in multiple purANa-s including bhAgavata -  [IMG](https://i.imgur.com/GsxAOcY.png) . As is clear from interpretations by vedAntadeshika and later bhAgavata-s, this is to be understood as a spherical manifold (गोलकटाह) or hemisphere rather than a full sphere. 
+- Essentially a flat earth model. 
+- Example: 5.21.8 - [VB](https://vedabase.io/en/library/sb/5/21/8-9/). Zero calculations. Best treated as kavi-samaya type arthavAda.
+- Also see late bhAgavata-s (below).
+
+### वेदान्तदेशिकः (1268–1369)
+- He has written a work called भूगोलनिर्णय . Seems to closely follow bhAgavata. 
+- "गोल" seems to refer to "गोलकटाह", a spherical manifold or section, according to the commentary -  "एवं सूर्याण्डगोलकटाहयोर्मध्ये पञ्चविंशतिकोटियोजनत्वम् ऊर्द्ध्वमधश्चेत्यण्डकटाहान्तरविवरोच्छ्रायस्य पञ्चाशत्कोटियोजनत्वं सिद्धम् ॥"
+
 ### विश्वनाथ-चक्रवर्ति-ठाकुरः ( c. 1626 – c. 1708)
 - विश्वनाथ-चक्रवर्ति-ठाकुरः इत्यसाव् एवम् अलिखत् " एतावाल्ँ लोक-विन्यासो मान-लक्षण-संस्थाभिर् विचिन्तितः कविभिः। स तु पञ्चाशत्-कोटि-गणितस्य भू-गोलस्य तुरीय-भागो ऽयं लोकालोकाचलः।" इति भागवतवाक्यव्याख्याने - स तु लोकालोकस् तु भू-गोलकस्य भू-सम्बन्धाण्ड-गोलकस्येत्य् अर्थः; सूर्यस्येव भुवो ऽप्य् +++(ब्रह्म+)+++अण्ड-गोलकयोर् मध्य-वर्तित्वात् ख-गोलम् इव। **भू-गोलम्** अपि पञ्चाशत्-कोटि-योजन-प्रमाणम्। तस्य तुरीय-भागः सार्ध-द्वादश-कोटि-योजन-विस्तारोच्छ्राय इत्य् अर्थः। **भूस्** तु चतुस्-त्रिंशल्-लक्षोनपञ्चाशत्-कोटि-प्रमाणा (५० कोटि - .३४) ज्ञेया। … अत एवाण्ड-गोलकात् सर्वतो दिक्षु सप्त-दश-लक्ष-योजनावकाशे (.१७ कोटि) वर्तमाने सति पृथिव्याः **शेष-नागेन धारणं, दिग्-गजैश् च निश्चली-करणं** सार्थकं भवेद्, अन्यथा तु व्याख्यान्तरे पञ्चाशत्-कोटि-प्रमाणत्वाद् अण्ड-गोलक-लग्नत्वे तत् तत् सर्वम् अकिञ्चित्-करं स्यात् चाक्षुषे मन्वन्तरे चाकस्मान् मज्जनं, श्री-वराह-देवेनोत्थापनं च दुर्घटं स्याद्, इत्य् आदिकं विवेचनीयम्।
 - नाम, ब्रह्माण्डगोलकस्य भागौ द्वौ - भूगोलम्, खगोलञ्चेति। तयोर् मध्ये वर्तते भूमण्डलम्।
