@@ -1,9 +1,8 @@
 ---
-title: Errors
+title: वाक्यपञ्चाङ्गम्
 ---
 
 ## Errors
-### वाक्यपञ्चाङ्गेषु
 - Understanding precession in terms of trepidation (Details [here](../saura-mAnam/ayanachalanam/).
 - vAkya-panchAnga-s oft give erroneous results regarding graha-s
   - This manifests in inability to precisely predicting eclipses. Hence, contemporary ritualists fully use dRk-panchAnga-s for grahaNa-observations.
@@ -12,7 +11,11 @@ title: Errors
 - Wrong tithi boundaries.
   - June 21 2020 was a special day - it was the solstice day, there was an annular solar eclipse visible from India (with peak at 11:47:35 am IST), and it naturally was amAvAsyA until 11:47:35 am IST. vAkya-panchAnga-s had obvious errors with regards to sun-moon conjunction (and consequently eclipse and end of amAvAsyA) - so tithi junction was till 12:30 or so. Some ritualists simply followed pop culture and used more accurate dRk-panchAnga-s for eclipse observances; while following vAkya-panchanga regarding parva-rituals! Such inconsistency! So, they incorrectly conducted sthAlIpAka the following day. (Not to mention, they must have continued saying "uttarAyaNe" in their sankalpa-s as well.)
 
-## Error correction
+## History
+- In Shaka 444 i.e. 522 CE, mean longitudes of the Old SS and Aryabhatiya etc. tallied almost exactly with the so called sayana i.e. tropical mean longitudes of planets as per modern astronomy.
+- "These are thus works like Grahalaghva and Makaranda, both of them having been based on the Surya Siddhanta formulae with some insignificant "beeja corrections"."
+
+### Error correction
 - अयनचलनप्रतिक्रिया दृक्तुल्यताप्राधान्यम् च अन्यत्र\+ उक्तम्।
 - shankAr dIxit and the shrautin of Colaba [MT_TW](https://twitter.com/blog_supplement/status/907061604981903360)
 - raghunAthAchAri, \[[MT](https://manasataramgini.wordpress.com/2015/06/02/remembering-raghunathachari/)\].
