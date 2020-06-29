@@ -12,6 +12,7 @@ unicode_script: devanagari
 - r̥gvedic astronomy (c. 4000 - 2000 B.C.) Motion of the sun and the moon, naksatras, planet periods. 
 - Astronomy of the Brāhmaṇas (2000 - 1000 BC)[Yājñavalkya, śāndilya]: Astronomy represented by means of geometric altars; non uniform motion of the sun and the moon; intercalation for the lunar year; "strings of wind joined to the sun".
 - Vedānga Jyotișa (c. 1300 B.C.) (Lagadha)
+    - "The Vedāñga Jyotiṣa states that the summer solstice began in the middle of this constellation (आश्लेषाः) suggesting that it was composed around ~3350 YBP."
 - Early Siddhāntic and early Purāņic(1000 BC-500 AD). Further development of the śīghrocca and mandocca cycles; the concept of kalpa. 
 - Classical Siddhāntic period inaugurated by Aryabhaṭa.
 
