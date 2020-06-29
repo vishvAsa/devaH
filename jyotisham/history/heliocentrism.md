@@ -16,6 +16,7 @@ Many of the uncited quotes and translations are by the mAnasatarangiNIkAra.
 
 ## sUryasiddhAnta
 - Earth is said to be a stationary globe around which sun, moon and five planets orbit, with sun (via śīghrocca position) playing a major role in propelling the outer planets.
+- "It calculates the earth's diameter to be 8,000 miles (modern: 7,928 miles), diameter of moon as 2,400 miles (actual ~2,160) and the distance between moon and earth to be 258,000 miles (actual ~238,000)."
 - "Thus everywhere on [the surface of] the terrestrial globe, people suppose their own place higher [than that of others], yet this globe is in space where there is no above nor below." —Surya Siddhanta, XII.53
 - Via S kAk: Surya Siddhānta (SS) seems to remember this pre-epicyclic astronomy of the earlier period. The uccas and the node (pāta) are thus described in SS 2.1-5: "Forms of time, of invisible shape, stationed in the zodaic, called the sīghrocca, mandocca, and node (pāta), are causes of the motion of the planets. The planets, attached to these points by cords of air, are drawn away by them, with the right and left hand, forward or backward, according to nearness, toward their own place. A wind, called pravaha, impels them toward their own ucсas, being drawn away forward and backward."
 
