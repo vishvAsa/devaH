@@ -2,6 +2,14 @@
 title: वाक्यपञ्चाङ्गम्
 ---
 
+- For general context, see [here](../).
+
+## History
+- In Shaka 444 i.e. 522 CE, mean longitudes of the Old SS and Aryabhatiya etc. tallied almost exactly with the so called sayana i.e. tropical mean longitudes of planets as per modern astronomy.
+- "These are thus works like Grahalaghva and Makaranda, both of them having been based on the Surya Siddhanta formulae with some insignificant "beeja corrections"."
+- "There are several Vakya panchangams in Tamil nadu, the famous  being the Pampu (snake) panchangam, Thanigai Panchangam, Sri Rangam Panchangam, Garudan Panchangam, Arcot  Sitarama Iyer panchangam  and so on. There will invariably be a difference in timings between drik Ganitha and  Vakya Panchangam. But they invariably take the Drik calculation to show correct timings of eclipses (so that they make believe their system is ancient and also accurate). Some of them, especially Arcot Sita Rama Iyer panchangam, make some predictions about weather and politics that have proved accurate.  May be a case of making correct predictions from wrong data."
+- "There is a textual record that till as late as 1996 the most reputed panchanga-maker of Kashmir [Vijayeshwar-Panchang] was giving the timings of tithi, nakshatra etc. as per "Khaṇḍa-khādyaka" a sixth century ''handbook" of Brahmagupta, for the last about 100 years whereas he had switched over to "drik-ganita" for planetary positions very recently then!"
+
 ## Errors
 - Understanding precession in terms of trepidation (Details [here](../saura-mAnam/ayanachalanam/).
 - vAkya-panchAnga-s oft give erroneous results regarding graha-s
@@ -10,10 +18,7 @@ title: वाक्यपञ्चाङ्गम्
   - Apr 13, 2017: Vakya Panchanga said Budha supposedly in Ashvini 3rd qtr transited Surya in Bharani 4th qtr - but NASA showed Mercury passing Surya. [TW](https://twitter.com/ShriramanaS/status/852378750909988864)
 - Wrong tithi boundaries.
   - June 21 2020 was a special day - it was the solstice day, there was an annular solar eclipse visible from India (with peak at 11:47:35 am IST), and it naturally was amAvAsyA until 11:47:35 am IST. vAkya-panchAnga-s had obvious errors with regards to sun-moon conjunction (and consequently eclipse and end of amAvAsyA) - so tithi junction was till 12:30 or so. Some ritualists simply followed pop culture and used more accurate dRk-panchAnga-s for eclipse observances; while following vAkya-panchanga regarding parva-rituals! Such inconsistency! So, they incorrectly conducted sthAlIpAka the following day. (Not to mention, they must have continued saying "uttarAyaNe" in their sankalpa-s as well.)
-
-## History
-- In Shaka 444 i.e. 522 CE, mean longitudes of the Old SS and Aryabhatiya etc. tallied almost exactly with the so called sayana i.e. tropical mean longitudes of planets as per modern astronomy.
-- "These are thus works like Grahalaghva and Makaranda, both of them having been based on the Surya Siddhanta formulae with some insignificant "beeja corrections"."
+- Sometimes saura-paxa-panchAnga-s are not even able to determine if an eclipse will "happen" or not.
 
 ### Error correction
 - अयनचलनप्रतिक्रिया दृक्तुल्यताप्राधान्यम् च अन्यत्र\+ उक्तम्।
