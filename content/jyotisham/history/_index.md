@@ -13,9 +13,19 @@ unicode_script: devanagari
 - Astronomy of the Brāhmaṇas (2000 - 1000 BC)[Yājñavalkya, śāndilya]: Astronomy represented by means of geometric altars; non uniform motion of the sun and the moon; intercalation for the lunar year; "strings of wind joined to the sun".
 - Vedānga Jyotișa (c. 1300 B.C.) (Lagadha)
     - "The Vedāñga Jyotiṣa states that the summer solstice began in the middle of this constellation (आश्लेषाः) suggesting that it was composed around ~3350 YBP."
+    - "Dating by precession gives the date of the VJ as being around 1300 BC because the it states that the winter solistice was in the beginning for shraviShThA and summer in the mid-point of AshleShA."
 - Early Siddhāntic and early Purāņic(1000 BC-500 AD). Further development of the śīghrocca and mandocca cycles; the concept of kalpa. 
 - Classical Siddhāntic period inaugurated by Aryabhaṭa. See excerpts about heliocentrism [here](heliocentrism/). 
 - For medieval reliance on drifting approximations, see [vAkyapanchAnga](vAkyapanchAnga/) page.
+
+## Axial Precession
+- Precession is caused by the gravitational pull of the Sun and the Moon on the Earth.
+
+### ध्रुवनिर्णये
+- ध्रुव-शिशुमार-वन्दने [ऽत्र](https://agnimaan.wordpress.com/2018/02/04/salute-the-dolphin-ursa-minor-every-night-after-sandhyavandanam/)।
+
+## Year length
+- Via [MT](https://manasataramgini.wordpress.com/2006/12/02/vedanga-jyotisha-and-other-ramblings-on-early-hindu-calenders/): "From the early times the Arya knew of the year being approximately 365 days– the sAmidhenI hymns contain 360 syllables in the form of 15 gAyatrI-s + the oM bhurbhuvasvaroM forming the year by supplying the remaining days and its fraction. Two great vedic shrauta masters, the pa~nchAla prince babara prAvAhaNi and sArvaseni shaucheya declare the logic behind the pa~ncharAtra sacrifice. They say that the year which is the ya~jna is complete only by adding the 5 days. They say that 4 days is too few while 6 days is two many so to complete the year we add 5 last days to the year . This is how the 365 day approximate year is laid out (TS 7.1.10). Right in the R^igveda the shunaHshepa, the son of ajigarta notes that the intercalary month is used to correct for the imperfect match of the lunar and solar years (RV1.25.8)."
 
 ## Re-entry of दृक्-पञ्चाङ्ग
 - Prof. Priyavrat Sharma, the publisher of Martanda Panchanga, from Punjab, over the last more than fifty years - "पंचांगनिर्माण के दो पक्ष (Systems) भारत में प्रचलित हैं -(i) सौरपक्ष, (ii) दृक्पक्ष। सौरपक्ष 'सूर्यसिद्धान्त' आदि प्राचीन भारतीय सिद्धान्तग्रन्थों और दृक्पक्ष लीवेरियर न्यूब हॉनसेन आदि पाश्चात्त्य नक्षत्रविदों की वेधसिद्ध (Based on observation) गणना (Calculation) पर आधारित है।"
