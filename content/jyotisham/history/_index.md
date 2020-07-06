@@ -12,8 +12,6 @@ unicode_script: devanagari
 - r̥gvedic astronomy (c. 4000 - 2000 B.C.) Motion of the sun and the moon, naksatras, planet periods. 
 - Astronomy of the Brāhmaṇas (2000 - 1000 BC)[Yājñavalkya, śāndilya]: Astronomy represented by means of geometric altars; non uniform motion of the sun and the moon; intercalation for the lunar year; "strings of wind joined to the sun".
 - Vedānga Jyotișa (c. 1300 B.C.) (Lagadha)
-    - "The Vedāñga Jyotiṣa states that the summer solstice began in the middle of this constellation (आश्लेषाः) suggesting that it was composed around ~3350 YBP."
-    - "Dating by precession gives the date of the VJ as being around 1300 BC because the it states that the winter solistice was in the beginning for shraviShThA and summer in the mid-point of AshleShA."
 - Early Siddhāntic and early Purāņic(1000 BC-500 AD). Further development of the śīghrocca and mandocca cycles; the concept of kalpa. 
 - Classical Siddhāntic period inaugurated by Aryabhaṭa. See excerpts about heliocentrism [here](heliocentrism/). 
 - For medieval reliance on drifting approximations, see [vAkyapanchAnga](vAkyapanchAnga/) page.
@@ -34,3 +32,8 @@ unicode_script: devanagari
 - "लेकिन भारत के पञ्चांगकारों के एक वर्ग ने सौरपक्षीय ग्रहस्थिर वेधदृश्य खगोलीय ग्रहस्थिति आदि से बिल्कुल मेल नहीं खाती- यह भलीभान्ति जानते हुए भी दृक्पा गणना को स्वीकार नहीं किया। वे इस पक्ष को पाश्चात्त्य(यावन)उद्गम का होने के कारण अग्राह्य समझते उनका मत था कि- सूर्यसिद्धान्त आदि हमारे पंचांगाधारग्रन्थ सूर्य भगवान् या हमारे ऋषियों द्वारा बनाए हैं, वे पवित्र हैं, उन्हें ही हमें मान्यता देनी चाहिए।"
 - "अपि दोनों वर्गों के पंचांगों से निर्णीत व्रत-पर्व आदि के दिनों में भी अनेकत्र अन्तर आने लगा, जिससे धागे हिन्दू समाज संकट में पड़ गया। रामनवमी, कृष्णजन्माष्टमी, दशहरा, दिवाली, एकादशी आदि व्रतपर्वो यथार्थ दिन के निर्णय में अनेक बार इन दोनों पक्षों के पंचांगकारों में वैमत्य से विक्षुब्ध धार्मिक जन …"
 - "… उच्चस्तरीय "पंचांग- संशोधन-समिति" (Calender Reform Committee) का गठन किया, जिसमें होमी भाभा जैसे भौतिक शास्त्री भी थे। इस समिति ने पंचांगविशेषज्ञों से विस्तृत विचार-विमर्श के अनन्तर दृकपक्षीय पंचांगगणना को प्रामाणिक ठहराया और भारतसरकार को इसी पक्षानुसार निर्णीत व्रत-पों के दिनों को ही अवकाश आदि के लिए मान्यता देने का परामर्श दिया और भारत के अशेष भारतीय पंचांगकारों को भी इसी पक्षानुसार पंचांगनिर्माण के लिए प्रेरित किया। इसी कमेटी के परामर्श से भारतसरकार द्वारा English, संस्कृत, उर्दू एवम् भारत की गुजराती, मराठी आदि बारह प्रान्तीय भाषाओं में दृकपक्षीय 'राष्ट्रीय पञ्चांग' को प्रतिवर्ष प्रकाशित किया जा रहा है।"
+
+## vedAnga-jyotiSha
+- See timing based on [equinotical records](equinotical_records).
+- "Interestingly, the total variation in day-light time is given as 6 muhUrta-s which corresponds approximately to the latitude of 35° N. This will be north of kubhA (kabul in modern Afghanistan), and might imply that the observations were inherited from the time the Aryas occupied the BMAC archaeological sites." - [MT](https://manasataramgini.wordpress.com/2006/12/02/vedanga-jyotisha-and-other-ramblings-on-early-hindu-calenders/)
+- "* Time is kept using a water-clock. The volume of water of weight 50 pala-s, at room temperature, is one Adhaka (a volume measure)."
