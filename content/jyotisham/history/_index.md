@@ -5,7 +5,7 @@ unicode_script: devanagari
 
 ## References
 - [TIFR06](http://www.tifr.res.in/~archaeo/papers/Others/Possible%20period%20of%20the%20design%20of%20Nakshatras.pdf), [MT](https://manasataramgini.wordpress.com/2017/07/01/a-note-on-the-asterisms-forming-the-nak%E1%B9%A3atra-s/).
-- sAha-lahiri-calendar committee report - [Archive](https://archive.org/details/HistoryOfCalendarPanchangaCommittee).
+- sAha-lahiri-calendar committee report - History section: [Archive](https://archive.org/details /HistoryOfCalendarPanchangaCommittee).
 - NUS 2001 thesis [here](http://www.math.nus.edu.sg/aslaksen/projects/lcl.pdf).
 
 ## Summary

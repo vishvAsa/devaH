@@ -17,9 +17,6 @@ title: Coordinates
 ## Equatorial
 {{< figure src="../images/celestial-equator.jpg" title="Celestial equator and pole star" >}}
 
-
-
-
 ### Apparent solar motion
 - Angle between the ecliptic and the celestial equator (they meet at equinotical points) is around 23 deg.
 - Among celestial equatorial system logitudes: equinotical and solstical colures.
@@ -35,4 +32,7 @@ title: Coordinates
 
 ### अस्य प्राचीनः प्रयोगः
 -  shukla-yajurvedasya shatapathabrAhmaNe: "एता ह वै प्राच्यै दिशो न च्यवन्ते | सर्वाणि ह वा अन्यानि नक्षत्राणि प्राच्यै दिशश्च्यवन्ते तत्प्राच्यामेवास्यैतद्दिश्याहितौ भवतस्तस्मात्कृत्तिकास्वादधीत"। Proper East. 90deg from north. Possible only if the star is on the celestial equator. Then the star will rise exactly at east. Krttikas on celestial equator around 2900BCE (two centuries before and after can be considered as acceptable)। \[[TW](https://twitter.com/agnimaan/status/984433779967082496)\]
+
+## Ecliptic with equatorial projection
+- Aka "Polar longitude" (ecliptic longitude, but projection on meridian lines) in [astro.com](https://www.astro.com/swisseph/swisseph.htm#_Toc19109057). Certain ayanAMsha-s are defined based on this system.
 
