@@ -1,8 +1,9 @@
 +++
-title = "02 PART-A INTRODUCTORY"
+title = "02 PART-A"
 
 +++
 
+## Introductory
 In India there is at present a terrible calendar confusion. 
 
 For official purposes, India has been using the Gregorian calendar since the imposition of the British rule in 1757. As the Gregorian calendar, on account of historic reasons, has attained the status of a World Calendar, it is still being used for official purposes after the attainment of Independence. There is a proposal sponsored by India before the UNO for the intro duction of a new World Calendar for civil and administrative purposes in place of the Gregorian calendar, which is inconvenient and unscientific (vide C $2.7). 
@@ -47,7 +48,7 @@ But a far more potent cause for the adherence to the wrong value was the failure
 
 The Indian year is thus longer than the tropical year by 0.01656 days, and this error has been accumulating for nearly 1400 years with the result that the solar year, instead of starting on the day following the vernal equinox (21st March) as it did in the time of Varahamihira starts nearly 23-24 days later. Thus the year beginning as laid down by our almanac-makers has lost all connection with the actual year-beginning (the day following the vernal equinoctial day) as contemplated by the Sūrya Siddhanta, and the festivals as given by the Indian almanacs are being celebrated very frequently in wrong seasons. If Sarat Pūrimā is celebrated in the Hemanta season, as would happen in the year 1955, it is obvious that our almanacs are following neither the Scriptures nor Science. 
 
-## LENGTHS OF THE SOLAR MONTHS : 
+### LENGTHS OF THE SOLAR MONTHS : 
 
 The Hindu solar month-lengths vary from 29 to 32, as the time of passing 30° of the ecliptic varies, accord ing to older data given in the Sarya Siddhanta from 29.32 days to 31.64 days. These varying lengths, as is well-known, can be understood only from Kepler's first two laws, which were explained fully by Newton in 1687 on the basis of dynamics and law of universal gravitation, but these laws and their explanation were unknown to astronomers in 400 A.D. Further these month-lengths are different in the three Siddhāntas be cause they were calculated according to three different formulæ. On account of the ignorance of Kepler's laws. and of the shift of the equinoctial lines in the Earth's orbit ( vide C $ 5:6) the ancient astronomers probably assumed that the times of passage through 30° as calculated according to formulæ given by them would be valid for all times. But we now know this assumption to be incorrect, and cannot stick to the lengths as given in the Siddhantas, which also differ amongst themselves. 
 
@@ -57,7 +58,7 @@ We have recommended the SAKA era, as this is the era par excellence used by all 
 
 The new solar calendar is scientific, applicable to all parts of India, and follows the Sūrya Siddhānta in all essential points, and is absolutely sound as regards its astronomical basis. The conventions have been revised with the sole object of having a uniform system for the whole of India. 
 
-## THE LUNAR CALENDAR : 
+### THE LUNAR CALENDAR : 
 
 The lunar calendar depends on the correct calculation of the moments of conjunction (Amāvasyā), opposition (Paurnamāsi) and of the tithis (i.e., the moments when the moon gains 12° or its integral multiple on the sun). The Indian calendar-makers use for this purpose the formulæ on lunar motion given in the three Siddhāntas. But as these are known to be inaccurate, they use certain corrections called bīja introduced by later Indian astronomers. 
 
@@ -65,7 +66,7 @@ It is now well-known that the motion of the moon is very irregular and complex, 
 
 But other ancient and modern nations did not follow the Egyptians, and it became the chief duty on the part of their astronomers to observe the moon from day to day, and evolve mathematical formula from which the ephemerides of the moon could be calculated. As Neugebauer has shown (Exact Sciences in Antiquity), ancient Babylonian astronomy (700 B.C. 300 B.C.) was largely centred round devising, , from actual observations of the moon's position, mathematical formulæ, which would enable them to calculate the longitude of the moon in advance. These attempts were continued by the Greeks, Indians, Arabs and medieval Europeans and are still being continued. For the calculation of the moon's position, formulæ are employed which require' twenty pages of printed matter, containing about 1,500 terms in all. They have been evolved as measurements have become more refined and accurate, with the progress of astronomy ; and were, of course, unknown to astronomers of ancient times. 
 
-## Effect of Indian Lunar Calendars
+### Effect of Indian Lunar Calendars
 
 As the orthodox Indian calendar-maker still uses the old formulæ dating from 400 A.D., his calculations of the ending moments of tithis do not agree with those given by the Nautical Almanacs, which are based on modern formulæ and are verified by actual observations as shown in the following example: 
 
@@ -83,7 +84,8 @@ The Committee has taken the view that the ending moments of tithis should be giv
 
 In course of fixing the festivals of different states in the Reformed Calendar, it has been found that different conventions are followed in different states in the matter of fixation of the same festival. For example it may be quoted that in 1954 Janmāṣtami was observed on the 21st August in North India and on the 20th, 21st and 22nd in other parts of India. Rāmanavami was observed in Bengal on 24th March, 1953, while it was celebrated on the preceding day in upper India. The calculation of the ending moment of tithi is not the cause for such discrepancies in this case, but the difference in convention is solely responsible. We have followed all these differences of conventions in the state-wise fixation of the dates of festivals, as far as practicable. We are however of opinion that a uniform convention should be followed throughout India in this matter also. In order to explore the possibilities of such unification, it is desirable that necessary steps should be taken by the Government. The Ephemerides Committee which we have recommended may be entrusted with this work. 
 
-## APPOINTMENT OF THE COMMITTEE 
+## Committee work
+### APPOINTMENT OF THE COMMITTEE 
 
 The Council of Scientific and Industrial Research appointed in November 1952, a Calendar Reform Committee with:Prof. M.N. Saha, F.R.S., as Chairman and six other members (vide their letter No. 144 Bd. (G. P.)/52 dated the 11th November, 1952, intimating the decision of the Governing Body meeting held on 13. 8. 52) as follows: 
 
@@ -103,78 +105,59 @@ The terms of referencë are as follows :-.
 
 The Committee has been entrusted with the task of "examining all the existing calendars which are being followed in the country at present and after a scientific study of the subject, submit proposals for an accurate and uniform calendar for the whole of India." 
 
-## COMMITTEE MEETINGS 
+### COMMITTEE MEETINGS 
 The Committee had three meetings and have now finalized their recommendations to Government. 
 
-1. The first meeting was held at 10 A.M. on Saturday, the 21st February, 1953, in the C.S.I.R. Secretariat Buildings, Old Mill Road, New Delhi, and it continued also on the 23rd February. The Prime Minister sent a message and Shri K. D. Malaviya Deputy Minister, Natural Resources and Scientific Research, inaugurated the meeting. The proceedings of the meeting will be found in Annexure I. 
+#### 1
+The first meeting was held at 10 A.M. on Saturday, the 21st February, 1953, in the C.S.I.R. Secretariat Buildings, Old Mill Road, New Delhi, and it continued also on the 23rd February. The Prime Minister sent a message and Shri K. D. Malaviya Deputy Minister, Natural Resources and Scientific Research, inaugurated the meeting. The proceedings of the meeting will be found in Annexure I. 
 
 After discussion on the several points mentioned by the Chairman, the Committee arrived at certain decisions and adopted the following resolutions : 
 
 - (1) The tropical year of 365.2422 days should be adopted for the purpose of calendar making. 
-- (2) A scientific civil solar calendar to be hence forth called the National Calendar for purposes of dating should have its first day after the vernal equinox day, i.e., on the 22nd March. But for religious purposes the calculations may start 23° 15' ahead. of the V. E. point, for sometime to come ( as a conces sion to the prevailing custom ). 
+- (2) A scientific civil solar calendar to be hence forth called the National Calendar for purposes of dating should have its first day after the vernal equinox day, i.e., on the 22nd March. But for religious purposes the calculations may start 23° 15' ahead. of the V. E. point, for sometime to come ( as a concession to the prevailing custom ). 
 - (3) The Saka era should be adopted for the reformed Indian Calendar. 
-- (4) All calculations should be made for a central station in India situated at 823° East Longitude and 23° 11' North Latitude (latitude of Ujjain). 
+- (4) All calculations should be made for a central station in India situated at 82.5° East Longitude and 23° 11' North Latitude (latitude of Ujjain). 
+- (5) The day should be reckoned from midnight to midnight of the central station for civil purposes, but for religious purposes the local sunrise system may be followed. 
 
- respect to the stars ; otherwise the nakṣatra divisions would lose all connections with the stars or star-groups contained in those nakṣatras. For this purpose, the ayanamsa of 23° 15' should relate to 21st March, 1956, the middle of the five yearly period. 
+The Committee made the following recommendations to the Government of India : 
+
+- (i) A tentative national calendar for the whole of India should be prepared for five years in advance, showing dates, days, months, tithi's (lunar days) and naksatras (lunar asterisms). 
+- (ii) Steps should be taken to compile an Indian Ephemeris and Nautical Almanac by the Government of India showing in advance positions of the sun, the moon, planets and other important heavenly bodies. 
+- (iii) There should be a National Observatory at a suitable place provided with modern equipments, apparatus and time-service. 
+
+The Council of Scientific and Industrial Research accepted the first recommendation and appointed Shri N. C. Lahiri and Prof. R. V. Vaidya, members of the Committee, as whole-time workers for the purpose of implementation of this recommendation, and also provided them with necessary assistants. The experimental National Calendar of India for the five years 1954-55 to 1958-59 A.D. (Saka 1876 to 1880) has ingly been prepared and will be found as Part B. 
+
+#### II 
+The second meeting of the Calendar Reform Committee was held on the 8th March, 1954, at 10 A.M. in the C.S.I.R. Building, New Delhi, In this meeting the detailed methods of preparation of the Reformed Calendar were discussed and certain resolutions were adopted which will be found in the proceedings of the meeting given in Annexure II. The question of adopting variable ayanānsa was discussed, but no final decision could be taken in the meeting. The Chairman decided the question later after taking opinion of members by correspondence. The following are the principal points decided : 
+
+- (1) Caitra (pronounced as Chaitra) should be the first solar month of the year starting on the day following vernal equinox, and the names of the solar months should be Caitra, Vaiśākha, etc. 
+- (2) The lengths of the civil solar months be fixed as follows: Caitra~ 30 & 31 days (31 days in a leap-year), Vaisakha-31, Jyaiṣtha-31, Aṣadha-31 Śrāvana–31, Bhadra-31, Ăśvina--30, Kartika-30, Agrahāyana--30, Parıṣa-30, Magha-30, and Phalguna-30 days. Leap years should correspond with the leap-years of the Gregorian calendar. 
+- (3) The nakṣatras should be calculated with a variable ayanāmśa, so that they remain fixed with respect to the stars ; otherwise the nakṣatra divisions would lose all connections with the stars or star-groups contained in those nakṣatras. For this purpose, the ayanamsa of 23° 15' should relate to 21st March, 1956, the middle of the five yearly period. 
 
 The calculations of the Reformed Calendar for five years, have been revised in the light of the above decisions. 
 
-III. The third and the final meeting of the Calendar Reform Committee was held on the 13th September, 1954, at 100 A.M. in the C.S.I.R. Building, New Delhi. In this meeting, the Reformed Calendar for five years, the resolutions so far adopted and the final report were approved for submission. The proceedings will be found as Annexure III. 
-
-(5) The day should be reckoned from midnight to midnight of the central station for civil purposes, but for religious purposes the local sunrise system may be followed. 
-
-The Committee made the following recommenda tions to the Government of India : 
-
-(i) A tentative national calendar for the whole of India should be prepared for five years in advance, showing dates, days, months, tithi's (lunar days) and naksatras (lunar asterisms). 
-
-(ii) Steps should be taken to compile an Indian Ephemeris and Nautical Almanac by the Government of India showing in advance positions of the sun, the moon, planets and other important heavenly bodies.. 
-
-(iii) There should be a National Observatory at a suitable place provided with modern equipments, apparatus and time-service. 
-
-The Council of Scientific and Industrial Research accepted the first recommendation and appointed Shri N. C. Lahiri and Prof. R. V. Vaidya, members of the Committee, as whole-time workers for the purpose of implementation of this recommendation, and also provided them with necessary assistants. The experi mental National Calendar of India for the five years 1954-55 to 1958-59 A.D. (Saka 1876 to 1880) has accord ingly been prepared and will be found as Part B. 
-
-II. The second meeting of the Calendar Reform Committee was held on the 8th March, 1954, at 10 A.M. in the C.S.I.R. Building, New Delhi, In this meeting the detailed methods of preparation of the Reformed Calendar were discussed and certain resolutions were adopted which will be found in the proceedings of the meeting given in Annexure II. The question of adopting variable ayanānsa was discussed, but no final decision could be taken in the meeting. The Chairman decided the question later after taking opinion of members by correspondence. The following are the principal points decided : 
-
-(1) Caitra (pronounced as Chaitra) should be the first solar month of the year starting on the day following vernal equinox, and the names of the solar months should be Caitra, Vaiśākha, etc. 
-
-(2) The lengths of the civil solar months be fixed as follows: 
-
-EXAMINATION OF THE EXISTING CALENDARS 
-
-With a view to examining the existing calendars, as per terms of reference, all the Pañcanga makers in different states of India were requested by a Press communique' issued by the C.S.I.R. in March 1953, to send 3 copies of their Pañcăngas covering the year 1953-54. As a result of this request many calendars were received from different parts of India, a list of which is given as Annexure V. Some difficulty was experienced in studying the exact nature of these calendars due to language difficulty and want of the required data in these calendars. Accordingly a questionnaire was issued in November 1953, to all these and also to some other calendar makers whose addresses were known, requesting them to furnish certain data relating to their calendars. The questionnaire together with the replies so far received will be found as Annexure VI. 
-
-SUGGESTIONS RECEIVED FOR CALENDAR REFORM 
-
-We have received various suggestions for calendar reform from different persons. A summary of these suggestions will be found in Annexure VII. All the suggestions have been examined in the Committee meetings before finalization of the recommendations of the Committee. Some of the suggestions favour the continuance of the present inaccurate system of calendar making. But on the other hand there are many persons and organizations who have suggested that accurate and scientific calendar, as recommended by the Committee should be adopted. 
-
-Caitra~ 30 & 31 days (31 days in a leap-year), Vaisakha-31, Jyaiṣtha-31, Aṣadha-31 Śrāvana–31, Bhadra-31, Ăśvina--30, Kartika-30, Agrahāyana--30, Parıṣa-30, Magha-30, and Phalguna-30 days. Leap years should correspond with the leap-years 
-
-of the Gregorian calendar. 
-
-(3) The nakṣatras should be calculated with a variable ayanāmśa, so that they remain fixed with 
-
-HOLIDAYS We have prepared tables ( vide B) giving dates of various religious festivals and holidays observed in different states of India in four categories, 
-
-\--- 
+#### III.
+The third and the final meeting of the Calendar Reform Committee was held on the 13th September, 1954, at 100 A.M. in the C.S.I.R. Building, New Delhi. In this meeting, the Reformed Calendar for five years, the resolutions so far adopted and the final report were approved for submission. The proceedings will be found as Annexure III. 
 
 *The Chairman submitted the report to the President, Council of Scientific and Industrial Research, at the Board's meeting on the 14th September, 1954. 
 
- 
+### EXAMINATION OF THE EXISTING CALENDARS 
 
-viz., solar, luni-solar, Christian and Moslem. Many festivals and holidays are common in all states, others are different. A festival which is considered very important in one state (e.g., Dussera or Durga Pujā in Bengal ) may be considered secondary in other regions (e.g., in Western India). There are holidays confined only to certain states. It is hoped that the Central Government may make choice of such holidays which should be considered as Central, for obviously they cannot accept all holidays current in India, as there would then be few working days left. 
+With a view to examining the existing calendars, as per terms of reference, all the Pañcanga makers in different states of India were requested by a Press communique' issued by the C.S.I.R. in March 1953, to send 3 copies of their Pañcăngas covering the year 1953-54. As a result of this request many calendars were received from different parts of India, a list of which is given as Annexure V. Some difficulty was experienced in studying the exact nature of these calendars due to language difficulty and want of the required data in these calendars. Accordingly a questionnaire was issued in November 1953, to all these and also to some other calendar makers whose addresses were known, requesting them to furnish certain data relating to their calendars. The questionnaire together with the replies so far received will be found as Annexure VI. 
 
-On account of shortness of time, it has not been found possible to give planetary data except the heliacal rising and setting of Jupiter and Venus. These 
+### SUGGESTIONS RECEIVED FOR CALENDAR REFORM 
 
-are not necessary for calculation of the dates and moments of religious festivals, except in a few rare cases like the Kumbha Mela. The Ephemerides Committee, if it comes into existence, may be entrusted with this work. 
+We have received various suggestions for calendar reform from different persons. A summary of these suggestions will be found in Annexure VII. All the suggestions have been examined in the Committee meetings before finalization of the recommendations of the Committee. Some of the suggestions favour the continuance of the present inaccurate system of calendar making. But on the other hand there are many persons and organizations who have suggested that accurate and scientific calendar, as recommended by the Committee should be adopted. 
 
+### HOLIDAYS 
+We have prepared tables ( vide B) giving dates of various religious festivals and holidays observed in different states of India in four categories, viz., solar, luni-solar, Christian and Moslem. Many festivals and holidays are common in all states, others are different. A festival which is considered very important in one state (e.g., Dussera or Durga Pujā in Bengal ) may be considered secondary in other regions (e.g., in Western India). There are holidays confined only to certain states. It is hoped that the Central Government may make choice of such holidays which should be considered as Central, for obviously they cannot accept all holidays current in India, as there would then be few working days left. 
+
+On account of shortness of time, it has not been found possible to give planetary data except the heliacal rising and setting of Jupiter and Venus. These are not necessary for calculation of the dates and moments of religious festivals, except in a few rare cases like the Kumbha Mela. The Ephemerides Committee, if it comes into existence, may be entrusted with this work. 
+
+### Acknowledgement
 In the compilation of the Reformed Indian Calendar, we have received invaluable help from Sir Harold Spencer Jones, Astronomer Royal of the United Kingdom, who provided us with certain advance data facilitating our calculations. The grateful thanks of the Committee are due to him. We also wish to thank our correspondents, many of whom helped us with valuable data and information. 
 
-FINAL RECOMMENDATIONS OF THE COMMITTEE 
-
-31 
-
-» 
-
+## FINAL RECOMMENDATIONS OF THE COMMITTEE 
 The calendar has got two distinct uses, viz., civil and religious. The Indian calendars, in the particular form it has assumed in different parts of the country, are used for the purpose of dating not only by the rural, but also by a large section of the urban popula tion. On account of the fact, as mentioned above, that the usage of one area differs from another, the Committee recommends that the unified National Calendar should be used uniformly in all states of India, for civil purposes wherever necessary, in place of local calendars. 
 
 30 
