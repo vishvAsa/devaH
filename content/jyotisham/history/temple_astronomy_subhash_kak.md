@@ -30,13 +30,13 @@ The primary Vedic number is three, representing the tripartite division of the p
 The Hindu temple also represents the Meru mountain, the navel of the earth. The Brihat Samhita 56 lists the many design requirements that the temple building must satisfy. For example, it says “the height of the temple should be double its width, and the height of the foundation above the ground with the steps equal to a third of this height. The sanctum sanctorum should be half the width of the temple” and so on. It also lists twenty types of temples that range from one to twelve storeys in height. 
 
 ## Angkor traits
-{{< figure src="../../images/temples/angkor_pic.png" title="Figure 1 Angkor" class="thumbnail">}}
+{{< figure src="../images/temples/angkor_pic.png" title="Figure 1 Angkor" class="thumbnail">}}
 
 We first summarize some relevant characteristics of the Angkor Wat temple that emphasize the relationship of the design to astronomy. This will be followed by sections on the Vedic antecedents of the temple and the medieval expression of the philosophy behind its design. We will also consider the question of the chaitya hall with its pointed arch as an alternate tradition within India that has been connected to the Lycian arch which may have influenced the design of the cathedral. 
 
 The most impressive aspect of the temple representation is that it occurs both at the level of the part as well as the whole in a recursive fashion, mirroring the Vedic idea of the microcosm symbolizes the macrocosm at various levels of expressions. This is done not only in the domain of numbers and directions, but also using appropriate mythological themes, and historical incidents. The mythological scenes skillfully use the oppositions and complementarities between the gods, goddesses, asuras, and humans defined over ordinary and sacred time and space. 
 
-{{< figure src="../../images/temples/angkor_scenes.png" title="Figure 2" class="thumbnail">}}
+{{< figure src="../images/temples/angkor_scenes.png" title="Figure 2" class="thumbnail">}}
 
 Speaking just of numbers, the various lengths and circumferences of units representing the motion of the moon may equal 27, 28, 29 (nakshatras or days of the month), 354 (days of the lunar year), or 360 (tithis of the lunar year). Other lengths represent the solar year (360, 365, or 366) or larger time cycles. For example, the west-east axis represents the periods of the yugas. The width of the moat is 439.78 cubit; the distance from the first step of the western entrance gateway to balustrade wall at the end of causeway is 867.03 cubit; the distance from the first step of the western entrance gateway to the first step of the central tower is 1,296.07 cubit; and the distance from the first step of bridge to the geographic center of the temple is 1,734.41 cubit. These correspond to the periods of 432,000; 864,000; 1,296,000; 1,728,000 years for the Kali, Dvapara, Treta, and Krita yuga, respectively. It has been suggested that the very slight discrepancy in the equations might be due to human error or erosion or sinking of the structure. 
 

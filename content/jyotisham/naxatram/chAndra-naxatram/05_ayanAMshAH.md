@@ -11,7 +11,6 @@ title: ०५ अयनांशाः
     - swe.TRUE_CITRA was what was intended by the calendar reform committee - sticking to swe.SIDM_LAHIRI does not make theoretical sense, and practically, the difference between the two is not much (as of 2000-s).
 - True mUlA
 - True pushya
-- प्राचीन एव सूर्यसिद्धान्ते तु वर्तते। वेदाङ्गज्योतिषे?
 
 ## Tropicalization सायनीकरणम्
 Here, one sets the ayanAmsha to adjust for precession. See [equinotical records](../../../history/equinotical_records/).

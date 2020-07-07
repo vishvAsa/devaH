@@ -5,15 +5,20 @@ title: Coordinates
 - Terms [here](http://www.physics.csbsju.edu/astro/terms.html).
 
 ## Ecliptic 
--  [![](https://i.imgur.com/Xd8pu1L.png)](https://i.imgur.com/Xd8pu1L.png)
-    [![](https://i.imgur.com/JA7Mjcv.png)](https://i.imgur.com/JA7Mjcv.png)
+
+{{< figure src="../ecliptic_coordinates.png" title="" class="thumbnail">}}
+
+{{< figure src="../images/equatorial-coordsystem-with-ecliptic.png" title="" class="thumbnail">}}
 
 - Sun is always at 0 deg latitude. It's longitude (determinable using background stars) is 0 deg (=0 RA) during march vernal equinox, 90 deg (= 6h RA) during summer solstice, 270 (= 18h RA) during winter solstice etc..
 - Latitudes are parallel to each other, longitudes pass through the same two poles.
 - The 0 deg and 180 deg longitude together form the equinotical colure.
 
 ## Equatorial
-{{< figure src="../../images/celestial-equator.jpg" title="Celestial equator and pole star" >}}
+{{< figure src="../images/celestial-equator.jpg" title="Celestial equator and pole star" >}}
+
+
+
 
 ### Apparent solar motion
 - Angle between the ecliptic and the celestial equator (they meet at equinotical points) is around 23 deg.
