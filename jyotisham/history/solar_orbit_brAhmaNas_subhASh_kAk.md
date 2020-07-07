@@ -108,15 +108,15 @@ Out of these layers, the first represents the terrestrial world;" the second lay
 The whole altar is just an expansion of the tripartite system of the world:-- 
 “the first layer is this very (terrestrial) world; and the uppermost (layer) is the sky; and those three (intermediate layers) are the air”. These layers are shown in the Figures 1 through 5. 
 
-{{< figure src="../../images/altar/sb_altar_layer1.png" title="Figure 1. Layer 1, the earth" class="thumbnail">}}
+{{< figure src="../images/altar/sb_altar_layer1.png" title="Figure 1. Layer 1, the earth" class="thumbnail">}}
 
-{{< figure src="../../images/altar/sb_altar_layer2.png" title="Layer 2, the lower atmosphere. " class="thumbnail">}}
+{{< figure src="../images/altar/sb_altar_layer2.png" title="Layer 2, the lower atmosphere. " class="thumbnail">}}
 
-{{< figure src="../../images/altar/sb_altar_layer3.png" title="Layer 3, the mid-atmosphere. " class="thumbnail">}}
+{{< figure src="../images/altar/sb_altar_layer3.png" title="Layer 3, the mid-atmosphere. " class="thumbnail">}}
 
-{{< figure src="../../images/altar/sb_altar_layer4.png" title="Layer 4, the upper atmosphere." class="thumbnail">}}
+{{< figure src="../images/altar/sb_altar_layer4.png" title="Layer 4, the upper atmosphere." class="thumbnail">}}
 
-{{< figure src="../../images/altar/sb_altar_layer5.png" title="Layer 5, the orbit of the sun." class="thumbnail">}}
+{{< figure src="../images/altar/sb_altar_layer5.png" title="Layer 5, the orbit of the sun." class="thumbnail">}}
 
 The fifth layer, being a representation of the sky, presents a most interesting overview of the understanding of the physical universe. The details of how the bricks of the fifth layer are to be laid are described in the fifth adhyāya of the 8th kānḍa. Note that there are some differences between our Figure 5 and that drawn by Eggeling,29 who has used incorrect sizes for many of the bricks that go inside the ring. When the size of each stomabhāgā brick is one unit square, the outer diameter of the ring should be 11 units rather than the 12 units which has been used by Eggeling. This becomes clear when Eggeling's drawing for the fifth layer is compared to those of the first and third layers and we find that the viśvajyoti (V) bricks do not line up as they are supposed to. 
 
@@ -132,7 +132,7 @@ On top of the central gārhapatya altar, lie the two perforated bricks at an off
 "He then lays down the vikarṇi and svayamātiṇā (bricks), -- the vikarṇi is Vāyu (the wind), and the svayamātmā is the sky: he thus sets up both the wind and the sky. He lays them down as the last (highest), for wind and sky are the highest...... [The] yonder sun strings these worlds (the earth and the atmosphere] to himself on a thread. Now that thread is the same as the wind; and that wind is the same as this vikarṇi ....." 
 
 
-{{< figure src="../../images/altar/sb_altar_layer5_1.png" title="Figure 6. Layer 5, with the design of layer 1 inscribed within. " class="thumbnail">}}
+{{< figure src="../images/altar/sb_altar_layer5_1.png" title="Figure 6. Layer 5, with the design of layer 1 inscribed within. " class="thumbnail">}}
 
 {{< figure src="../../images/earth_solar_orbit_center.png" title="Figure 7. The earth and the centre of the sun's orbit." class="thumbnail">}}
  
