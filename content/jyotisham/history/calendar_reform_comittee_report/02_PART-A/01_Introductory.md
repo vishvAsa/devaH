@@ -24,11 +24,13 @@ Let us give some idea of the Science as well as of the Conventions in use for th
 - (1) The year should be properly defined, and the year-length taken should be astronomically correct. 
 - (2) The seasons should be properly defined, and should start on proper dates. 
 - (3) The day should start from midnight. 
+
 An examination of Chap. XIV of the Surya Siddhānta (vide C$ 5.6) shows that the author of this famous treatise accepted these principles and laid down the following rules for the compilation of a calendar : 
 
 - (1) The year should start from the instant when the sun crosses the vernal equinoctial point and the length of the year should therefore be tropical (sāyana). 
 - (2) The seasons should consist of two solar months, each defined by the time taken by the sun to traverse 30° of the sun's path (the ecliptic). 
-- (3) The day should be from midnight (ardharātråka system) for purposes of astronomical calculations. 
+- (3) The day should be from midnight (ardharātraka system) for purposes of astronomical calculations. 
+
 These principles do not alone suffice to define the calendar, for the year does not consist of a whole number of days, but its length (length of the tropical year) is approximately 365.2422 mean solar days. The time taken by the sun to traverse 30° of the arc of the ecliptic varies from 29.44 days to 31.46 days. 
 
 The Calendar Committee has tried to rectify this fundamental error, by recommending, as laid down by the Sūrya Siddhānta, that the year should begin on the day after the vernal equinox, and the year-length should be sāyana. 
