@@ -389,8 +389,6 @@ The Year : and its smaller subdivisions, viz., the seasons.
 
 158 
 
- 
-
 meridian of the place. We have the relation : 3651 mean solar days=3661 sidereal days. Rotation of the earth = 23h 56m 45.100 mean solar time. Sidereal day 
 
 =23 56 4.091 „ „ Mean solar day =24 3 56. 555 sidereal time 
@@ -503,8 +501,6 @@ p. 716.
 
 160 
 
- 
-
 combined = Ahorātra) into 12 hours of 30 Gesh each, Gesh being=4 minutes. The Egyptians divided the day light time into 12 hours, and the night into 12 hours. Later in medieval times, the 24-hour division for the whole day (day and night) has been adopted. The division into A.M. and P.M. were for the sake of convenience, so that the maximum number of times a bell has to be rung, on the completion of an hour, would not exceed 12, for apparently ringing a bell 24 times would be a torture of the flesh. 
 
 The broad divisions of the day were secured by the Hindus in two ways. They divided the day-time (from sunrise to sunset) into 4 equal parts each called a prahara or yāma. The night time was also similarly divided into 4 equal praharas. The prahara is so popular a unit in Indian time measurement that even the lay man expresses time in terms of praharas and half praharas. "An alternative systein of division of the time is the ‘muhurta obtained by dividing the daytime into 15 muhūrtas determined by gnomon shadow lengths. The day muhurtas were measured from lengths of shadows of the gnomon. The night muhurtas are similarly the fifteenth part of the night time. 
@@ -572,8 +568,6 @@ uales,
 Though the Flux of Time is a continuous process, it is divided for the sake of convenience and for natural reasons too, into years, months and days. The years are mostly .counted from the beginning of an era, so that if we wish to date a memorable event, 
 
 162 
-
- 
 
 'Julian Days' after his father, Julius Scaliger. The Julian period in years is .. 
 
@@ -759,8 +753,6 @@ The story of the calendar in Egypt has been given in full, because the ancient E
 
 166 
 
- 
-
 7. Bāgayadi 8. ... 9. Atriyadija 10. Anāmaka 11. Margazana 12. Viyachna 
 
 The Persians did not have weeks or decads, but named the successive days of the month serially according to their gods or religious principles, as below : 
@@ -923,8 +915,6 @@ Sept. 17 # Genius
 
 *168 
 
- 
-
 The seven-day week was abandoned for a week of 10 days. The month names were invented by the poet member of the committe. The last five days were dedicated to the service of the poor ( Sans-Culottides ) and did not form part of any month. 
 
 After 13 years of service, the French Revolution calendar was abolished by Napoleon Bonaparte, then emperor of France, as part of his bargain with the Roman Catholic Church for his coronation by the Pope. 
@@ -980,8 +970,6 @@ Further, the day was divided into 24 hours, and each of the seven gods was suppo
 *Planets used not in modern sense but in the old sense of a wander ing heavenly body. 
 
 170 
-
- 
 
 hours of Saturday were watched by the seven gods in rotation as follows : 
 
@@ -1431,8 +1419,6 @@ The Chaldean astronomers (as the Babylonians were called after 600 B.C.) appear 
 
 176 
 
- 
-
 work out at the discovery of mathematical relation ships between these two periods having the form-- 
 
 m lunar monthsen solar years 
@@ -1553,8 +1539,6 @@ But the use of the Nabɔnassar era appears to have been confined to astronomers.
 
 178 
 
- 
-
 spread over all these countries, as is apparent from contemporary inscriptions and coin-datings mentioned in $ 5.5. The months were amānta, i.e., started after the new-noon was completed and were pegged on to the solar year which started on the day of the vernal equinox. The Nisan was the first lunar month after the vernal equinox. There were 7 intercalary months in a period of 19 years. The correspondence between Chaldean and Greek months and the position of the intercalary months have been worked out by Prof. Pannekoek between the years 134-247 of the Seleuci dean era, as already given (vide $ 3.2 and 3.3) along with their Indian equivalent lunar months. 
 
 to record events in their regnal years as this had a great propaganda value for the royal family which they were unwilling to forego. : It is now known that the other ancient eras, like that of the Greek Olympiads (776 B.C.) or the era of Foundation of Rome (753 B.C.) are extrapolated eras, The ancient Greek method of dating by Olympiads is of uncertain origin, but the system was critically examined by the Alexandrian chronologists, parti cularly Eratosthenes (3rd century B.C.), the founder of scientific chronology. According to the Encyclopaedia Britannica, 14th edition, Greek chronology is not reliable till the 50th Olympiad (i.e. 576 B.C.). The era was therefore invented a long time after its alleged year of starting. The era of the Foundation of Rome had a similar history (see Encyclopaedia Britannica, 14th edition, Chronology). The starting years of these eras are suspiciously close to that of the Nabonassar era (747 B.C.). Probably both these eras were plagiarized from the era of Nabonassar after the savants of ancient Greece and Rome acquired the time-sense.. 
@@ -1616,8 +1600,6 @@ The Jewish Era of Creation The Jews use an Era (Anno Mundi, libriath olum) or 'E
 C. B.-31 
 
 180 
-
- 
 
 30. 
 
@@ -1862,8 +1844,6 @@ B:'...'..
 Fig. 3–Showing the positions of the sun, moon and planets among the stars in July, 1953. The table given on p. 176 is based on mean values The central horizontal line is the line of the of the lengths of the year and the synodic month, celestial equator ($ 4.4), and the sinuous line represents which is equivalent to the assumption that the sun the ecliptic or the sun's path (8 4.5), but we may 
 
 182 
-
- 
 
 The, 
 
@@ -2238,8 +2218,6 @@ S
 A. Pannekoek: The Origin of Astronomy. + 0. Neugebauer : Babylonian Planetary Theory. 
 
 186 
-
- 
 
 Rahu with the symbol &, and the descending node is called Ketie with the symbol 89, the names of the two 
 
@@ -2805,8 +2783,6 @@ C. R.-32
 
 188 
 
- 
-
 4.3 THE GNOMON Observations of the positions of the sun, the moon, planets and stars are now made very accurately with elaborate instruments installed in observatories. But these instruments have been evolved after thousands of years of experience and application of human ingenuity, and have undergone radical changes in design and set-up with every great technological discovery. But let us see how the early astronomers who had no instruments or very primitive ones made observations, collected the fundamental data, and evolved the basic astronomical ideas. 
 
 The earliest instrument used-by primitive astrono mers appears to have been the gnomon; which we now describe. 
@@ -2904,8 +2880,6 @@ The best example of the ability of the ancient people to observe the cardinal po
 * Neugebauer : Babylonian Planetary Theory, Proc. Amer. Philos. Soc. Vol. 98 : 1, 1954, p. 64. 
 
 190 
-
- 
 
 the book of Job (the Bible) and in Homer. In the last, the star-groups are used by sailors to find out their orientation. Representations of star-groups are found in ancient Babylonian boundary stones of about 1300 B.C. (see Fig. 15). 
 
@@ -3177,8 +3151,6 @@ evidences.
 
 194 
 
- 
-
 The hesitation of the medieval astronomers in accepting precession can be easily understood. Most of them earned their livelihood by practising the 'Astrological Cult which was reared on the basis that the signs of the zodiac are fixed, and coincident with certain star-groups ; but this assumption crumbles to the ground if precession is accepted. But as historical records now show, though astronomers 'had clearly recognized that the initial point should be the point of intersection of the equator and the ecliptic, there was no unanimity even amongst ancient astronomers of different ages regarding the location of this point in the heavens, because it was not occupied by any prominent star at any epoch and the ancients were unaware of the importance of its motion (vide $ 4:9). 
 
 The attention of mankind was drawn in remote antiquity to the five star-like bodies : 
@@ -3282,8 +3254,6 @@ Yet, with all those observations, these reports represent is considerable astron
 C.R.-33 
 
 196 
-
- 
 
 collected ; it implies a detailed knowledge of facts about their motion."* 
 
@@ -3447,8 +3417,6 @@ The Origin of Astronomy, p. 352.
 
 198 
 
- 
-
 cuts the horizon at the east and west points as deter mined by the gnomon. 
 
 The Ecliptic :_From archæological records, it is generally held that a knowledge of the star-groups lying 
@@ -3552,8 +3520,6 @@ o A. Sachs, Babylonian Horoscopes, p. 53, Journal of Cuneiform Studies, Vol. VI,
 \- 
 
 200 
-
- 
 
 Precession of Equinoxes But the first point of Aries is not a fixed point on the ecliptic, though all ancient astronomers belived it to be fixed once for all. It moves steadily to the west at the rate of 50" per 
 
@@ -3723,8 +3689,6 @@ ere
 
 202 
 
- 
-
 borrowed tþeir script* from the Phoenicians, their coinage from the Lydians, their preliminary ideas of geometry from the Egyptians and of astronomy from the Chaldeans. But they enriched all these sciences beyond measure by their own original thoughts and contributions. As Plato (428-348 B.C.) proudly remarks : "...whatever the Greeks acquire from foreigners, is turned by them into something nobler." 
 
 Greek science goes no further back than Thales of Miletus (624-548 B.C.), who is reckoned to be the first of the seven sages of Greece. Considerable knowledge of astronomy and physics was ascribed to him by later writers. He is supposed to have predicted the occurrence of an almost total solar eclipse, which occurred on May 28, 585 B.C., on the basis of his knowledge of the Chaldean Saros. These stories are now disbelieved by scholars well versed in Assyriology, for according to their finding, the Chaldeans them selves before 400 B.C., had no knowledge of the Saros of 18 years 10% days used later to predict the eclipses, but they used other methods with only partial success. Thales might have used one of these methods, but not certainly the Chaldean Saros. Considering the crude state of Greek civilization in Thales' times, these scholars think that it is a fairytale of modern times that Thales knew anything about the Saros. Thales lived in a coastal city of Asia Minor which had active contact with the great civilizations of the Near East, and probably much of the knowledge ascribed to him were picked up from Babylon and Egypt. 
@@ -3780,8 +3744,6 @@ Hipparchos, had probably some knowledge of plane and spherical trigonometry nece
 C. R. – 34 
 
 204 
-
- 
 
 of astronomical problems, e. g., finding out the time of rise of zodiacal signs during the year, a problem of great importance to horoscopic astrology. It is the current opinion that he used the double chord, illustrated below : 
 
@@ -3864,8 +3826,6 @@ By the time of Ptolemy, (and probably much earlier), a complex system of astrolo
 calculated in advance from planetary positions in the signs. Though a few rational men like Seneca and Cicero were as much sceptical about the claims of astrology as the modern man, the general mass became converted to its claims, even astronomers not excepted. Even the great Ptolemy wrote a treatise "The-Tetrabiblos' exposing the principles of Astrology. 
 
 206 
-
- 
 
 ·In fact, belief in astrology was one of the main incentives for the observation of the positions of heavenly bodies in ancient and medieval times which were carried out by medieval astronomers with so much zeal under the willing patronage of influential persons. 
 
@@ -4663,8 +4623,6 @@ The Mauryas kept out the Greeks till 186 B.C., when on the break-up of their emp
 
 214 
 
- 
-
 Ptolemy (150 A.D.), and in the Near East under the Seleucids (300 B.C. to 100 A.D.), penetrated into India, being brought by astronomers belonging to the Saka countries, who later were absorbed into Indian society as Śakadvipi or Scythian Brahmins. The borrowings appear to be more from Seleucid Babylon than from the west. The knowledge of Graeco Chaldean astronomy was the basis on which the calendar prescribed by the Surya Siddhānta and other Siddhāntas were built up. It completely replaced the former Vedānga Jyotiṣa calendar and by about 400 A.D, when the Vedānga Jyotiṣa calendar had completely disappeared from all parts of India. 
 
 From 400 A.D. to 1200 A.D., almost the whole of India used calendars based on Siddhanta Jyotiṣa for date-recording. All Indian astronomers used the Saka era for purposes of accurate calculations, but its use for date-recording by kings and writers was generally confined to parts of the South. In general, the Indian dynasties used eras of their own, or regnal years, though the annual calendar was compiled according to rules laid down either in the Surya Siddhānta, the Arya Siddhānta or the Brahma Siddhānta. These did not much differ in essentials. 
@@ -4750,8 +4708,6 @@ Let us see what information we can gather about the calendar which they must hav
 + It appears that Max Mūller has been a bit dogmatic in his opinion. Shortly after his death the names of the Vedic gode, Indra, Varuna, Mitra and the Nāśatyas in their Rg-Vedic forms were discovered in the Hittite clay tablets discovered at Boghaz Kuei in Asia Minor. They have been assigned to about 1450 B.C. More evidences about the Vedic Aryans were discovered in the excavations in the Sarasvati valley now being undertaken by the Archaelogical Dept. of the Govt. of India. Further, fresh evidences are expected also in the archaelogical work undertaken in Afghanistan, Iran and Central Asia. 
 
 216 
-
- 
 
 Translation: Twelve spoke-boards: One wheel : three pavels. Who understands these? In these there are 360 sankus (rods) put in like pegs which do not get loosened". 
 
@@ -4867,8 +4823,6 @@ This hymn is repeated in the Atharva Samhita as follows:
 
 218 
 
- 
-
 just as in English we very often say 'A young lady of According to their practical purposes, in exactlý the order in eighteen summers'. 
 
 which they were used at the sacrifice. These are, in fact, Summary : The above passages show that the 
@@ -4982,8 +4936,6 @@ One of the peculiar features of the Indian calendars is the use of the Nakṣatr
 O. R.-36 
 
 220 
-
- 
 
 VITI 
 
@@ -5297,8 +5249,6 @@ The history of the Indian calendar from the end of the Yajurveda period to the b
 
 222 
 
- 
-
 Table 1:1. Duration of Vedic Tithi 
 
 English Date 
@@ -5457,8 +5407,6 @@ The beginning of the yuga would go ahead of the winter solstice in 30 years by 4
 
 224 
 
- 
-
 The mistake was .000305 days on the lower side of 1 nakṣatra in 3279 days or about 9 years. 
 
 But if we do not have the intercalary month on the 30th year, the "yuga-beginning is brought back to 29.53–28.110- 1.421 days before the W.S. day. The same process is repeated for the next period of 30 years. The yugd-beginning is thus brought back to 2.842 days before the W.S. day. 
@@ -5611,8 +5559,6 @@ As already shown, the actual length of 62 lunar months is 1830.8965 days, while 
 
 226 
 
- 
-
 calculated sunget. So the apparent length of the day is increased bg 2* 44 min. or by 9 minutes. Therefore for the latitude of Babylon we have the length of maximum day-light 14h 12m +9m 14h 21m, and the night is gb 399 The ratio is now 1.49. Taking the effect of refraction into consideration the ratio for Gandhar also becomes 1.46, which is not much different from · 1.50 as for Babylon. So it is not necessary to assume that the ratio was obtained from Babylonian sources. 
 
 : We get from this the time of composition of the Mahābhārata as about 450 B.C. or sometime earlier.. 
@@ -5742,8 +5688,6 @@ out particularly. It appears from the records that in Asoka's time, the principl
 C. R.--37 
 
 228 
-
- 
 
 No records bearing a date of the imperialdynasties following the Mauryas, viz., the Sungas, and Kanvas (186 B.C.-45 A:D.) are known. But the next imperial dynasty, the Satavahanas have left plenty of dated records. In these, the same system of date-recording by regnal years, the seasons, the pakṣas, and tithis are found. There are 8 pakṣas in a season of four months, and they were serially numbered from 1 to 8. The odd ones were Krṣņa pakṣas, the even ones Sukla paksas. 
 
@@ -5971,8 +5915,6 @@ The kings appear to have retained full control of the whole of modern Afghanista
 
 232 
 
- 
-
 éra. Herzfeld had established that Vasudeva II, who appears to have come after Kaniska III about 210 A.D., was deprived of Bactria by Ardeshir I, the founder of the Sasanid dynasty of Persia. The Sasanids converted Bactria into a royal.province under the charge of the crown prince, who struck coins closely imitating those of the Kuṣānas. Vasudeva II is also mentioned in the Armenian records of Moise of Khorene, a Jewish scholar, under the name Vabsadjan, as an Indian king who tried to form a league with Armenia and other older powers against the rising imperialism of Ardeshir. Vasudeva II is also thought to have sent an embassy to China about 230 A.D *. . 
 
 The second Sassanian king Shapur I, claims to have conquered sometime after 240 A.D. 'PSKVR', which has been identified with Puruṣapura or Peshawar, the capital of the Kuṣānas. This has also been confirmed by the French excavations at Begram (Kapisi) in Afghanistan, which was destroyed by Shapur between 242 and 250 A.D. But this probably was not a permanent occupation but a raid, as a Kuṣāna king or Shah is mentioned in the Paikuli inscription of the Sasanid king Narseb (293-302 A.D.). 
@@ -6044,8 +5986,6 @@ The earliest authentic instance of the use of Saka era by name is supplied by th
 Śaka Era in the South-West. Besides the earlier Sakas belonging to the Maues group, and the Kuṣānas, there was another groupof Saka kings, who penetrated into the south-western part of India. The earliest representative of this group was Nahapana and his son-in-law Uṣavadata. Their records are dated in years 41 to 46 of an unknown era. They use Indian lunar honths and days (probably tathis). These Sakas ruled in Rajputana, Malwa, and northern Maharastra and were engaged in continuous warfare with the Satavahana ruler Gautamiputra Satakarni who claim to have destroyed them root and branch. 
 
 234 
-
- 
 
 used for calendaricat calculation by the · Indian astronomers. 
 
@@ -6210,8 +6150,6 @@ A Yuga of 2850 years = 19 x 5x 30 years ;
 150 gears=54787 days ; 
 
 1 year = 365.2467 «lays. The number of intercalary months in the yuga is given as 1050, i.e., there are 7 intercalarý months in 19 years. 
-
- 
 
 and reminds one of the Iranian calendar in which each one of thirty days of the month is named after a god or principle (see $ 2.3). The names of the lords of the days as given in the Paulisa Siddhanta are of course all Indian. 
 
@@ -6671,8 +6609,6 @@ C.B.-39
 
 244 
 
- 
-
 e 
 
 In the Sarya Siddhanta, a formula is given for finding the true longitude of the sun from its mean longitude. As the length of a month is the time taken by the sun to traverse arcs of 30° each along the ecliptic by its true motion, the lengths of the different months can be worked out when its true longitudes on different dates of the year are known. The true longitude is obtained by the Sūrya Siddhanta with the help of the following formula : 
@@ -6768,8 +6704,6 @@ Let us now restate the problems which arise when, with reference to India, we wa
 The lunar month consists of 29.5306 days and 12 such lunar months fall short of the solar year by 10.88 days. After about 2 or 3 years one additional or inter calary lunar month is therefore necessary to make up the year; and in 19 years there are 7 such intercalary months. In Babylon and Greece there were fixed rules 
 
 246 
-
- 
 
 have been introduced. Taking the mean vaules of the lunation-period and of the length of the solaryear, the time when one extra month (i.e., intercalary month) will have to be introduced can easily be determined. But the luminaries do not move with uniform angular motions (throughout their period of revolution and so the determination af the intercalary month on the basis of the actual movement of the sun and the moon is a very difficult problem. The calculations according to the mean motions are however shown below. 
 
@@ -7169,8 +7103,6 @@ Comparing the above limits with the actual leagths of months stated before, it i
 
 250 
 
- 
-
 The maximum duration of a lunar month, on the other hand, exceeds the lengths of the solar months only in case of solar Agrahāyanan Pausa and Māgha. So a kṣaya month is possible only in these three months. 
 
 A list is given below showing the actual intercalary months occurring during the period Saka 1823 (1901-2 A. D.) to Saka 1918 (1996-97 A. D.) on the basis of Sūrya Siddhānta calculations. 
@@ -7531,8 +7463,6 @@ Hence we see that the assumed positions of the mean planets at the beginning of 
 
 254 
 
- 
-
 Aryabhata says that when he was 23 years old, 3600 years of. Kali bad elapsed. According to his Ārdharātrika system: 
 
 3600 years - 1/1200 of a Mahāyuga=1314931.5 days. Again according to his Audayika system :. 
@@ -7656,8 +7586,6 @@ Mithradates I. Recently Dr. Van Lohuizen de Leeuw has discus sed the starting po
 "WOW 
 
 256 
-
- 
 
 in which the Parthian emperor Phraates II was defea- ted and killed, and the rich. province of Bactria was occupied by the Sakas. They founded an era to com memorate their victory over the Parthians which their successors took to India, as they expanded and put an end to the Bactrian Greek principalities in Afghanistan and north-west Punjab. She suggests that the old Śaka era was also used by the Kuṣanas, who were after all a Sakish ruling tribe, but from the time of Kaniska with hundreds omitted. 
 
@@ -9512,8 +9440,6 @@ ai
 C.R.-42 
 
 268 
-
- 
 
 Translation 1. While the celestial bodies move in the sky from north to south and again from south to north, a very small variation takes place in their doolination. 
 
