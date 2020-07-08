@@ -9,7 +9,7 @@ unicode_script: devanagari
 - ऋतवः स्वभावतः सौराः, न चान्द्राः। 
 - वर्षमाने विभागद्वयम् - Tropical (सायन-वर्षम्) vs sideral इति। 
 - Tropical year depends on earth's axis. Siderial year depends on sun's position against the background of stars (PS: sun itself is moving).
-- Tropical year is 20 minutes shorter than sidereal year, because earth's axis of rotation is also moving besides the earth itself. (Intro videos: [YT](https://www.youtube.com/watch?v=adzx547ptck)).
+- Tropical year is 20 minutes 24 seconds (~ 3.9003e-5 tropical year) shorter than sidereal year, because earth's axis of rotation is also moving besides the earth itself. (Intro videos: [YT](https://www.youtube.com/watch?v=adzx547ptck)).
 - Tropical year gets the season's right, but places the earth on the opposite side of the sun eventually in 15000 CE. 
 - Tropical year is approximately 365.242189 days long on average. Its length changes slightly over time.
 
@@ -29,3 +29,6 @@ unicode_script: devanagari
 
 ## Year length
 - Via [MT](https://manasataramgini.wordpress.com/2006/12/02/vedanga-jyotisha-and-other-ramblings-on-early-hindu-calenders/): "From the early times the Arya knew of the year being approximately 365 days– the sAmidhenI hymns contain 360 syllables in the form of 15 gAyatrI-s + the oM bhurbhuvasvaroM forming the year by supplying the remaining days and its fraction. Two great vedic shrauta masters, the pa~nchAla prince babara prAvAhaNi and sArvaseni shaucheya declare the logic behind the pa~ncharAtra sacrifice. They say that the year which is the ya~jna is complete only by adding the 5 days. They say that 4 days is too few while 6 days is two many so to complete the year we add 5 last days to the year . This is how the 365 day approximate year is laid out (TS 7.1.10). Right in the R^igveda the shunaHshepa, the son of ajigarta notes that the intercalary month is used to correct for the imperfect match of the lunar and solar years (RV1.25.8)."
+
+## National tropical / sAyana calendar
+The calendar known as ‘National Calendar’ was introduced by the Govt. of India with effect from 22 March 1957, corresponding to the 1st day of the year of this calendar which was 1 Chaitra 1879 Saka Era. Report excerpts [here](../history/calendar_reform_comittee_report/02_PART-A/03_FINAL_RECOMMENDATIONS/).
