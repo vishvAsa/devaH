@@ -3,10 +3,7 @@ title = "+Calendar committee report"
 
 +++
 
-
- GOVERNMENT OF INDIA 
-
-
+GOVERNMENT OF INDIA 
 
 सत्यमेव जयते 
 
@@ -23,5 +20,4 @@ Old Mill Road,
 New Delhi, 
 
 सत्यमेव जयते 
-
 

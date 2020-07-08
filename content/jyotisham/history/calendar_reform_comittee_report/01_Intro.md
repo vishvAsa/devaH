@@ -17,8 +17,6 @@ Jawaharlal Nehru
 
 New Delhi, February 18, 1953. 
 
-
-
 ## MEMBERS OF THE CALENDAR REFORM COMMITTEE 
 
 CHAIRMAN Prof. M. N.Saha, D. Sc., F. R. S., M. P., Director, Institute of Nuclear Physics, 92, Upper Circular Road, Calcutta-9.. 
@@ -39,8 +37,6 @@ Shri N. C. Lahiri, M. A., 55A, Raja Dinendra Street, Calcutta-6.
 
 Shri N. C. Lahiri acted as the Secretary of the Committee. 
 
-
-
 ## TRANSLITERATION 
 
 The scheme of transliteration of Sanskrit alphabets into Roman script adopted in this publication is the same as generally followed. The corresponding scripts are given below : 
@@ -48,8 +44,6 @@ The scheme of transliteration of Sanskrit alphabets into Roman script adopted in
 ...
 
 N. B. Diacritical marks have not generally been used in names of persons belonging to recent times as well as in well-known geographical names, 
-
-
 
 ## PREFACE 
 

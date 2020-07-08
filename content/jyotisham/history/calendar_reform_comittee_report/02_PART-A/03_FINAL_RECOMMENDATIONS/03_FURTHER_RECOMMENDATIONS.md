@@ -1,5 +1,5 @@
 +++
-title = "05 FURTHER RECOMMENDATIONS"
+title = "03 FURTHER RECOMMENDATIONS"
 
 +++
 
@@ -21,21 +21,33 @@ We hope that the Government of India would make early arrangements for implement
 
 
 
-
-
 M. N. SAHA  
+
+
 
 J. S. KARANDIKAR  
 
+
+
 A. C. BANERJI  
+
+
 
 K. L. DAFTARI *  
 
+
+
 GORAKH PRASAD  
+
+
 
 R. V. VAIDYA  
 
+
+
 N. C. LAHIRI  
+
+
 
 NEW DELHI The 13th Sept. 1954. 
 
