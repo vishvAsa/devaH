@@ -131,7 +131,7 @@ The Council of Scientific and Industrial Research accepted the first recommendat
 The second meeting of the Calendar Reform Committee was held on the 8th March, 1954, at 10 A.M. in the C.S.I.R. Building, New Delhi, In this meeting the detailed methods of preparation of the Reformed Calendar were discussed and certain resolutions were adopted which will be found in the proceedings of the meeting given in Annexure II. The question of adopting variable ayanānsa was discussed, but no final decision could be taken in the meeting. The Chairman decided the question later after taking opinion of members by correspondence. The following are the principal points decided : 
 
 - (1) Caitra (pronounced as Chaitra) should be the first solar month of the year starting on the day following vernal equinox, and the names of the solar months should be Caitra, Vaiśākha, etc. 
-- (2) The lengths of the civil solar months be fixed as follows: Caitra~ 30 & 31 days (31 days in a leap-year), Vaisakha-31, Jyaiṣtha-31, Aṣadha-31 Śrāvana–31, Bhadra-31, Ăśvina--30, Kartika-30, Agrahāyana--30, Parıṣa-30, Magha-30, and Phalguna-30 days. Leap years should correspond with the leap-years of the Gregorian calendar. 
+- (2) The lengths of the civil solar months be fixed as follows: Caitra~ 30 & 31 days (31 days in a leap-year), Vaisakha-31, Jyaiṣtha-31, Aṣadha-31 Śrāvana–31, Bhadra-31, āśvina--30, Kartika-30, Agrahāyana--30, Parıṣa-30, Magha-30, and Phalguna-30 days. Leap years should correspond with the leap-years of the Gregorian calendar. 
 - (3) The nakṣatras should be calculated with a variable ayanāmśa, so that they remain fixed with respect to the stars ; otherwise the nakṣatra divisions would lose all connections with the stars or star-groups contained in those nakṣatras. For this purpose, the ayanamsa of 23° 15' should relate to 21st March, 1956, the middle of the five yearly period. 
 
 The calculations of the Reformed Calendar for five years, have been revised in the light of the above decisions. 
@@ -143,7 +143,7 @@ The third and the final meeting of the Calendar Reform Committee was held on the
 
 ### EXAMINATION OF THE EXISTING CALENDARS 
 
-With a view to examining the existing calendars, as per terms of reference, all the Pañcanga makers in different states of India were requested by a Press communique' issued by the C.S.I.R. in March 1953, to send 3 copies of their Pañcăngas covering the year 1953-54. As a result of this request many calendars were received from different parts of India, a list of which is given as Annexure V. Some difficulty was experienced in studying the exact nature of these calendars due to language difficulty and want of the required data in these calendars. Accordingly a questionnaire was issued in November 1953, to all these and also to some other calendar makers whose addresses were known, requesting them to furnish certain data relating to their calendars. The questionnaire together with the replies so far received will be found as Annexure VI. 
+With a view to examining the existing calendars, as per terms of reference, all the Pañcanga makers in different states of India were requested by a Press communique' issued by the C.S.I.R. in March 1953, to send 3 copies of their Pañcāngas covering the year 1953-54. As a result of this request many calendars were received from different parts of India, a list of which is given as Annexure V. Some difficulty was experienced in studying the exact nature of these calendars due to language difficulty and want of the required data in these calendars. Accordingly a questionnaire was issued in November 1953, to all these and also to some other calendar makers whose addresses were known, requesting them to furnish certain data relating to their calendars. The questionnaire together with the replies so far received will be found as Annexure VI. 
 
 ### SUGGESTIONS RECEIVED FOR CALENDAR REFORM 
 
@@ -158,93 +158,54 @@ On account of shortness of time, it has not been found possible to give planetar
 In the compilation of the Reformed Indian Calendar, we have received invaluable help from Sir Harold Spencer Jones, Astronomer Royal of the United Kingdom, who provided us with certain advance data facilitating our calculations. The grateful thanks of the Committee are due to him. We also wish to thank our correspondents, many of whom helped us with valuable data and information. 
 
 ## FINAL RECOMMENDATIONS OF THE COMMITTEE 
-The calendar has got two distinct uses, viz., civil and religious. The Indian calendars, in the particular form it has assumed in different parts of the country, are used for the purpose of dating not only by the rural, but also by a large section of the urban popula tion. On account of the fact, as mentioned above, that the usage of one area differs from another, the Committee recommends that the unified National Calendar should be used uniformly in all states of India, for civil purposes wherever necessary, in place of local calendars. 
+The calendar has got two distinct uses, viz., civil and religious. The Indian calendars, in the particular form it has assumed in different parts of the country, are used for the purpose of dating not only by the rural, but also by a large section of the urban population. On account of the fact, as mentioned above, that the usage of one area differs from another, the Committee recommends that the unified National Calendar should be used uniformly in all states of India, for civil purposes wherever necessary, in place of local calendars. 
 
-30 
+### RECOMMENDATIONS FOR CIVIL CALENDAR 
+- (1) The Saka era should be used in the unified national calendar. The year 1954-55 A.D. corresponds to 1876 Saka or in other words the year 1954 A.D. corresponds to 1875-76 Saka. 
+- (2) The year should start from the day following the vernal equinox day. 
+- (3) A normal year would consist of 365 days while a leap-year would have 366 days. After adding 78 to the Saka era, if the sum is divisible by 4, then it is a leap-year. But when the sum becomes a multiple of 100, it would be a leap-year only when it is. divisible by 400, otherwise it would be a common year. 
+  - The years Śaka 1878, 1882, 1886, 1890, 1894 etc., are leap-years consisting of 366 days each. But the gears 2022, 2122, 2222 and again 2422, 2522, 2622 Saka are not leap-years, while 1922, 2322, 2722 Saka are leap-years. 
+- (4) Caitra ( pronounced as Chaitra ) should be the first month of the year, and the lengths of the different months would be fixed as follows: 
+  - Caitra 30 days (31 days in a leap-year ), Vaisakha-31, Jyaiṣtha-31, Aṣadha-31 Śrāvana–31, Bhadra-31, āśvina-30, Kartika-30, Agrahāyana--30, Pauṣa-30, Magha-30, and Phalguna-30 days.
+  - Corresponding dates :- The dates of the reformed Indian calendar would thus have a permanent correspondence with the dates of the present Gregorian calendar. The corresponding dates are as follows :
+    - Indian Calendar ... Gregorian Calendar 
+    - Caitra 1 ... March 22 in a common year & March 21 in a leap-year. 
+    - Vaisakha 1 April 21
+    - Jyaiştha 1 ... May 22
+    - Aşadha ... June 22
+    - Srāvana 1 ... July 23
+    - Bhadra August 23
+    - Āśvina 1 September 23 
+    - Kārtika 1 October 23 
+    - Agrahāyana 1 November 22
+    - Pausa 1 December 22 
+    - Māgha 1 January 21
+    - Phālguna 1 ... February 20 
+  - The Indian seasons would thus be permanently fixed with respect to the reformed calendar, as follows : 
+    - Seasons, Calendar months 
+    - Griṣma (Summer) 
+    - Vaisakha & Jyaiṣtha Varṣā (Rains ) 
+    - Āsādha & Srāvana Śarat (Autumn) 
+    - Bhadra & Āśvina Hemanta (Late Autumn)
+    - Kartika & Agrahāyana Sisira ( Winter ) 
+    - Pausa & Magha Vasanta ( Spring ) 
+    - Phalguna & Caitra (Summer) 
 
-May 
+In course of implementation of these recommendations, the states now having the solar calendar for civil and partly religious purposes which start the year from Vaisakha 1 ( April 14 ), will have to begin the year 23 days earlier, but the first month will be Cailra. The effect of this on the states are as follows: 
 
-22 
-
-Śrāvana 
-
-31 days Bhadra Āśvina 30 Kartika Agrahāyana 
-
-(Mārgasirṣa) 30 » Pausa Magha 
-
-Phalguna 30 » Corresponding dates :--The dates of the reformed Indian calendar would thus have a permanent corres pondence with the dates of the present Gregorian calendar. The corresponding dates are as follows : 
-
-Indian Calendar 
-
-Gregorian Calendar Caitra 1 
-
-March 22 in a common year 
-
-& March 21 in a leap-year. Vaisakha 1 ... April Jyaiṣtha 1 ... Aṣādha 1 ... June Śrāvana 
-
-July Bhadra 
-
-August Āývina 1 ... September Kartika 1 ... October 23 Agrahāyana 1 
-
-November 22 Pausa 1 
-
-December 22 Māgha 1 ... January 21 Phālguna 1 ... February 20 
-
-The Indian seasons would thus be permanently fixed with respect to the reformed calendar, as follows : 
-
-Seasons 
-
-Calendar months Griṣma (Summer) 
-
-Vaisakha & Jyaiṣtha Varṣā (Rains ) 
-
-Āsādha & Srāvana Śarat (Autumn) 
-
-Bhadra & Āśvina Hemanta (Late Autumn)... Kartika & Agrahāyana Sisira ( Winter ) 
-
-Pausa & Magha Vasanta ( Spring ) 
-
-Phalguna & Caitra 
-
-RECOMMENDATIONS FOR CIVIL CALENDAR (1) The Saka era should be used in the unified national calendar. The year 1954-55 A.D. corresponds to 1876 Saka or in other words the year 1954 A.D. corresponds to 1875-76 Saka. 
-
-(2) The year should start from the day following the vernal equinox day. 
-
-(3) A normal year would consist of 365 days while a leap-year would have 366 days. After adding 78 to the Saka era, if the sum is divisible by 4, then it is a leap-year. But when the sum becomes a multiple of 100, it would be a leap-year only when it is. divisible by 400, otherwise it would be a common year. 
-
-The years Śaka 1878, 1882, 1886, 1890, 1894 etc., are leap-years consisting of 366 days each. But the gears 2022, 2122, 2222 and again 2422, 2522, 2622 Saka are not leap-years, while 1922, 2322, 2722 Saka are leap-years. 
-
-(4) Castra ( pronounced as Chaitra ) should be the first month of the year, and the lengths of the different months would be fixed as follows: 
-
-Caitra 30 days (31 days in a leap-year ) Vaisakha 31 days Jyaiṣtha 31 * Āsādha 
-
-Home Pro 
-
-31 » 
-
- 
-
-In course of implementation of these recommenda tions, the states now having the solar calendar for civil and partly religious purposes which start the year from Vaisakha 1 ( April 14 ), will have to begin the year 23 days earlier, but the first month will be Cailra. The effect of this on the states are as follows: 
-
-(6) As usual the lunar months for religious pur poses would commence from the moment of new-moon and would be named after the saura māsa in which the new-moon falls. If there be two new-moons during the period of a saura māsa, the lunar month beginning from the first new-moon is the adhika or mala and the lunar month beginning from the moment of the second new-moon is the suddha or nija, as usual. 
-
-Bengal, Orissa, 
-
-& Assam : 
-
-Solar months start approximately seven days later than now, 
-
-Tamil Nad : Solar months start approximately 
-
-23 days earlier than now, for the month called Vaisakha (14th April-14th May) in Bengal and Orissa is called Chittirai or Caitra in Tamil Nad. 
+- Bengal, Orissa, & Assam : Solar months start approximately seven days later than now, 
+- Tamil Nad : Solar months start approximately 23 days earlier than now, for the month called Vaisakha (14th April-14th May) in Bengal and Orissa is called Chittirai or Caitra in Tamil Nad. 
 
 Those who use the Caitrādi lunar calendar also for civil purposes, would however experience no great difficulty in adopting this unified calendar, as they have at present the beginning of their year varying from 15th March to 13th April, and the first month is Caitra. 
+
+
+## RECOMMENDATIONS FOR RELIGIOUS CALENDAR 
+- (6) As usual the lunar months for religious purposes would commence from the moment of new-moon and would be named after the saura māsa in which the new-moon falls. If there be two new-moons during the period of a saura māsa, the lunar month beginning from the first new-moon is the adhika or mala and the lunar month beginning from the moment of the second new-moon is the suddha or nija, as usual. 
+
 
 (7) The moments of moon's exit from a nakṣatra division of 13° 20' each or sun's entry into it, would be calculated with a variable ayanāmsa j.e., on the supposition that they are fixed with respect to the stars. The value of this ayanāinsa would amount to 23° 15' 0" on 21st March, 1956. Thereafter it would gradually increase with the usual annual rate, the mean value of which is about 50".27. 
 
 These arrangements would ensure that the religious festivals, and observances determined by the sun (such as the Mahäviṣuva samkrānti, Uttarāyaṇa samkrānti, Dakṣināyana samkrānti) would follow astronomically correct seasons, but those determined by the lunar calendar would continue to be observed in times conforming to the present practice, and the correction we have introduced in the length of the year would prevent their further shift in relation to the seasons. 
-
-RECOMMENDATIONS FOR RELIGIOUS CALENDAR 
 
 (5) The calculation of solar ( saura ) months necessary for determining the lunar months of the same name, will start 23° 15' ahead of the vernal equinoctial point. This tallies with the present practice of most almanac-makers. 
 

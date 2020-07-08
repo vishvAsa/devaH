@@ -101,7 +101,7 @@ Pañcangas. In reply to our request 60 Pañcangas p. 179).
 
 (Almanacs) were received from different parts of the Indian Calendars 
 
-country and were examined (p. 21). To facilitate or Pañcăngas. .used for fixing up dates and 
+country and were examined (p. 21). To facilitate or Pañcāngas. .used for fixing up dates and 
 
 examination of the calendars, a questionnaire was moments of Hindu, Bauddha issued to which 51 replies were received (pp. 23-31). and Jaina festivals in different In addition to the above, 48 persons offered their States of India, and in many 
 
