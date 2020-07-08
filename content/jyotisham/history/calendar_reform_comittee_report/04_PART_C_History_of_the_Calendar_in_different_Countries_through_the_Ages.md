@@ -1895,7 +1895,7 @@ Names of certain nakṣatras' are found in the oldest scriptures of India, viz.,
 
 Taittiriya Brāhmana, i, 1, 2, 1. Krttikā svagnimādadhita. 
 
-Mukham vă etanna ksatrānām, Yatkrttikā. Translation: One should consecrate the (sacred) fire in the Krttikās ;--the Kritikās are the mouth of the nakṣatras. 
+Mukham vā etanna ksatrānām, Yatkrttikā. Translation: One should consecrate the (sacred) fire in the Krttikās ;--the Kritikās are the mouth of the nakṣatras. 
 
 CALENDARIC ASTRONOMY 
 
@@ -5037,7 +5037,7 @@ Soma
 
 Orionis 
 
-83 031 - 13 22 32 Invakā 4. Ardră 
+83 031 - 13 22 32 Invakā 4. Ardrā 
 
 Rudra 
 
@@ -5083,7 +5083,7 @@ B Loonis
 
 170 55 23 + 12 16 13 Uttara Phalguni 11. Hasta 
 
-Savită 
+Savitā 
 
 8 Corvi 
 
@@ -5753,9 +5753,9 @@ Some examples are given below :
 
 Data patikā Savachare 10+8 vāsapakhe 2 divase 1 
 
-(dattă pritika Samvatsare aṣtādase 18 Varsāpakṣe 
+(dattā pritika Samvatsare aṣtādase 18 Varsāpakṣe 
 
-divtiye 2 divase prathame 1). i.e. the inscription was recorded in the eighteenth year elapsed since the coronation on the first day of the second Paksa of the Varṣă season, i.e., in the lunar month of Śrāvana, on the first day after new moon (Sukla pakṣa). 
+divtiye 2 divase prathame 1). i.e. the inscription was recorded in the eighteenth year elapsed since the coronation on the first day of the second Paksa of the Varṣā season, i.e., in the lunar month of Śrāvana, on the first day after new moon (Sukla pakṣa). 
 
 There are other Satavahana inscriptions similarly dated as summarized in the table below : 
 
@@ -5767,7 +5767,7 @@ pp. 220-221) Ramno Siri Virapurisadatasa Sava 6 vā pa 6 di 10
 
 (Rājfiah Sri Virapuruṣadattasya sainvatsare 
 
-ṣaṣthe 6 rarṣāpakṣe ṣaṣthe 6 divase daśame 10. On the sixth year of King Sri Virapuruṣadatta on 'the 6th pakṣa of the varṣă season, on the tenth day. The sixth of varṣā pakṣa is month of Aśvina, second or light half (Sukla pakṣa). - It is obvious from the above inscriptional evidences, that continuous era-recording was not used by Indian dynasts up to the time of the Satavahanas, and no ancient books, not even the Mahabhārata mentions an era. 
+ṣaṣthe 6 rarṣāpakṣe ṣaṣthe 6 divase daśame 10. On the sixth year of King Sri Virapuruṣadatta on 'the 6th pakṣa of the varṣā season, on the tenth day. The sixth of varṣā pakṣa is month of Aśvina, second or light half (Sukla pakṣa). - It is obvious from the above inscriptional evidences, that continuous era-recording was not used by Indian dynasts up to the time of the Satavahanas, and no ancient books, not even the Mahabhārata mentions an era. 
 
 As no era is mentioned, it has been difficult to work out a chronology of the early Indian dynasts including the Satavahanas. 
 
@@ -5789,13 +5789,13 @@ Sāta kanisa
 
 22-6 1-7 1126 R. G. Sātakanisa 
 
-24-V 4-5 1146 R. G. Sami Siriyaña Sătakanisa 
+24-V 4-5 1146 R. G. Sami Siriyaña Sātakanisa 
 
 7-H 1 1147 R. V. Sāmi Siri-Pulumāisa 
 
 2-8 8 90 (Sircar)-Siri-Pulumāvisa 
 
-8-H 2-1 R moans raño, V-Văsiţhiputasa, G-Gotamiputasa. 
+8-H 2-1 R moans raño, V-Vāsiţhiputasa, G-Gotamiputasa. 
 
 The number in the first column indicates the serial number of the inscription in Lūders' list. The last column contains dates, in an abridged form ; e.g., in 1123, we have 19, G 2-13. Here '19' is the regnal year, G denotes Griṣma or summer season, '2' following G denotes the second pakṣa, i.e., the second half of the month of Caitra, megaftituting the Sukla pakṣa, and the last numeral '13' denotes the day. But it is not clear whether the day is the lunar day, i.e., the tithi or the solar day. Even if it be the tithi, it is probably not the Siddhāntic tithi, but the old Brahmaṇic or Vedanga tithi. 
 
@@ -7079,7 +7079,7 @@ Jyestha S Aṣādha K Aṣadha 8 Śrāvaņa K Śrāvanas Bhādra K Bhadra s A ś
 
 9 Bhādra 24 Bhadra 
 
-8 Āśvina 23 Ăśvina 
+8 Āśvina 23 āśvina 
 
 6 Kārtika 21. Kärtike 
 
@@ -7635,7 +7635,7 @@ The conclusion is that the champions of the Vikrama era have still to prove the 
 
 (e) Tho Saka Bra The Saka Era is the era par excellence which has been used by Indian astronomers all over India in their calculations since the time of the astronomer Varaha mihira (died 587 A.D.) and probably earlier. The Indian almanac-makers, even now, use the Saka era for calculations, and then convert the calculations to their own systems. 
 
-This era is extensively used over the whole of India except in Tinnevelly and part of Malabar, and is more widely used than any otber era. It is also called Saka Kala, Saka Bhapa Kala, Sakendra Kala, and Salivabana Saka and also saka Samvat. Its years are Caitrādi for luni-solar reckoning and Meṣādi for solar reckoning. In the luni-solar reckoning the months are pūrnimântă in the North and amāntā in Southern India. The reckoning of the Saka era begins with the vernal equi nox of 78 A.D., and is measured by expired years, so the year between the vernal equinox of 78 A.D. to that of 79 A.D. is zero of Saka era. In some pañcangais of Southern India the current year is however seen to be used instead of the elapsed year, where the number of year of the era is one more than the era in general use 
+This era is extensively used over the whole of India except in Tinnevelly and part of Malabar, and is more widely used than any otber era. It is also called Saka Kala, Saka Bhapa Kala, Sakendra Kala, and Salivabana Saka and also saka Samvat. Its years are Caitrādi for luni-solar reckoning and Meṣādi for solar reckoning. In the luni-solar reckoning the months are pūrnimântā in the North and amāntā in Southern India. The reckoning of the Saka era begins with the vernal equi nox of 78 A.D., and is measured by expired years, so the year between the vernal equinox of 78 A.D. to that of 79 A.D. is zero of Saka era. In some pañcangais of Southern India the current year is however seen to be used instead of the elapsed year, where the number of year of the era is one more than the era in general use 
 
 But we are not yet sure about the origin of this era. It has been traced back to the Saka satraps of Ujjain, from the year 52 (130 A.D.) to the end of the dynasty about 395 A.D. But in their own records, they merely record it as year so and so, but there is not the slightest doubt that the era used by them subsequently became known as the Saka era (ride: 5.5) 
 
@@ -9725,7 +9725,7 @@ paraviddhā & Orissa-pūryaviddhā) Vaiśākha S 11-Delete Lakṣmīnārāyaṇ�
 
 (Orissa) Jyaiṣtha S 11--Delete Rukmiņi vivāha (Orissa) Aṣādha 811Delete Ravinārāyaṇa ekādasi : 
 
-. (Orissa) Page 103, Śrăvana K 5–Insert and rātrivyāpini' after 
+. (Orissa) Page 103, Śrāvana K 5–Insert and rātrivyāpini' after 
 
 pārvaviddhā Bhādra S 5--Delete Guru pañcami (Orissa) 
 
@@ -9795,7 +9795,7 @@ London, 1952. - (1937) The measurement of time, published in the
 
 Reports on Progress in Physics, Vol. IV, London. Journal of Calendar Reform, New York. Keith, Dr. Berriedalo—The Veda of the Black Yajur School 
 
-entitled Taittiriya Samhitā, Part. 2. Khandakhădyaka of Brahmagupta--Edited with an 
+entitled Taittiriya Samhitā, Part. 2. Khandakhādyaka of Brahmagupta--Edited with an 
 
 introduction by Babua Misra-translated by P. C. 
 
@@ -10159,7 +10159,7 @@ Fasli, 257, 258; Dharma Sindhu, 19, 101
 
 French Revolution, 187 ; Dhruva (celestial pole), 190, 192 
 
-Gangă, 257, 258; Dhruvaka (polar long.), 192, 262, 263, 267 
+Gangā, 257, 258; Dhruvaka (polar long.), 192, 262, 263, 267 
 
 Gupta, 255, 257, 258; of junction;stars, 264, 265 
 
@@ -10445,7 +10445,7 @@ Madhyahpa, 101, 108 Mahabharata, 170, 183, 185, 219, 221, 227, 228,
 
 month reckoning in, 185; 
 
-· time of compilation 226, 262 Mahadvadasi, defined, 107 Mahdyuga, 160, 162, 217, 254 Maire (inscription), 229 Maitrāyant Samhită, 218 Malamis, 246, (see also intercalary month), Mamine Obert (inscription), 231 
+· time of compilation 226, 262 Mahadvadasi, defined, 107 Mahdyuga, 160, 162, 217, 254 Maire (inscription), 229 Maitrāyant Samhitā, 218 Malamis, 246, (see also intercalary month), Mamine Obert (inscription), 231 
 
 278 
 
@@ -10547,7 +10547,7 @@ Vasiṣtha, 236, 237 Siddhanta Sekhara of Bripati, 162 Siddhānta Siromani of Bh
 
 269 . Sidereal time, 158 Signs, of the zodiac, 192, 193, 194, 196, 206, 
 
-· 223, 224, 237, 239, 240 Siksă, 214 Sircar, D. C., 228, 231, 233, 234 Sirius, 164 Sivaratri, 108 Sky and Telescope, 177 Solar day, mean, 157, 158; 
+· 223, 224, 237, 239, 240 Siksā, 214 Sircar, D. C., 228, 231, 233, 234 Sirius, 164 Sivaratri, 108 Sky and Telescope, 177 Solar day, mean, 157, 158; 
 
 division of, 159 ; 
 
