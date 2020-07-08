@@ -15,3 +15,4 @@ unicode_script: devanagari
 - This conflation finds some justification (ie relying on the "mean uttarAyaNa point") if one relies on the now defunct theory of Trepidation from sUrya-siddhAnta.
 - "प्रायेण १५०० अब्दपूर्वं मकरराशौ उत्तरायणं भवति स्मेति गतानुगतिकतया अधुना इत्थं प्रचलति। वैदिकवत्सरारम्भोऽपि वास्तविकेन उत्तरायणेनैव सह सम्बद्धः, प्रायेण तत्पूर्वस्थायां शुक्लप्रतिपदायां भवतीति मया विस्तरेणोपस्थापितमेव।" \- सम्मोदार्यः।
 - "In 272 BC, Makara Sankramana was on Dec 21. In 1000 AD, Makara Sankramana was on Dec 31 and now it falls on January 14. After 9000 years, it will be in June. As a result, it will indicate the start of Dakshinayanam, if corrections are not incorporated as per drik calculations."
+- "(365.25876 - 365.2422)*1600"
