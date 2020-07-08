@@ -10,19 +10,19 @@ title = "01 CIVIL CALENDAR"
 - (4) Caitra ( pronounced as Chaitra ) should be the first month of the year, and the lengths of the different months would be fixed as follows: 
     - Caitra 30 days (31 days in a leap-year ), Vaisakha-31, Jyaiṣtha-31, Aṣadha-31 Śrāvana–31, Bhadra-31, āśvina-30, Kartika-30, Agrahāyana--30, Pauṣa-30, Magha-30, and Phalguna-30 days.
     - Corresponding dates :- The dates of the reformed Indian calendar would thus have a permanent correspondence with the dates of the present Gregorian calendar. The corresponding dates are as follows :
-    - Indian Calendar ... Gregorian Calendar 
-    - Caitra 1 ... March 22 in a common year & March 21 in a leap-year. 
-    - Vaisakha 1 April 21
-    - Jyaiştha 1 ... May 22
-    - Aşadha ... June 22
-    - Srāvana 1 ... July 23
-    - Bhadra August 23
-    - Āśvina 1 September 23 
-    - Kārtika 1 October 23 
-    - Agrahāyana 1 November 22
-    - Pausa 1 December 22 
-    - Māgha 1 January 21
-    - Phālguna 1 ... February 20 
+        - Indian Calendar ... Gregorian Calendar 
+        - Caitra 1 ... March 22 in a common year & March 21 in a leap-year. 
+        - Vaisakha 1 April 21
+        - Jyaiştha 1 ... May 22
+        - Aşadha ... June 22
+        - Srāvana 1 ... July 23
+        - Bhadra August 23
+        - Āśvina 1 September 23 
+        - Kārtika 1 October 23 
+        - Agrahāyana 1 November 22
+        - Pausa 1 December 22 
+        - Māgha 1 January 21
+        - Phālguna 1 ... February 20 
 - The Indian seasons would thus be permanently fixed with respect to the reformed calendar, as follows : 
     - Seasons, Calendar months 
     - Griṣma (Summer) 
