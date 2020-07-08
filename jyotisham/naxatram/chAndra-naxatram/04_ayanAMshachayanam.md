@@ -2,7 +2,7 @@
 title: ०४ अयनांशचयनम्
 
 ---
-The ayanAMsha to be used in a particular ritual context should be determined from the vidhi-vAkya-s enjoining that particular ritual action. 
+The ayanAMsha used to determine nakShatra or lunar month in a particular ritual context should be determined from the vidhi-vAkya-s enjoining that particular ritual action. 
 
 ## Apastamba example
 - Take upAkarma. Apastamba says: "(आर्तव)श्रवणा(पूर्व)पक्ष ओषधीषु जातासु हस्तेन पौर्णमास्यां वा ऽध्यायोपाकर्म २". So, when do saplings sprout? At the beginning of the (khArif) rainy season, around the summer solstice time in north India. This happened to be shrAvaNa around 1000BCE.  The crops don't srout when xyz-ayanAMsha based month happens to be "shrAvaNa". That's when adhyAya-upAkarma should be celebrated. Effectively, the naxatra-chakra should be "tropicalized" so that shrAvaNa pUrNimA falls around the time of solstice. People who claim to follow Apastamba by celebrating sometime in August are the same sort of comedians (unwitting or otherwise) who would "show" arundhati at noon during faux-vivAha rituals.

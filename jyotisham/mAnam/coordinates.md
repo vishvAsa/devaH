@@ -36,3 +36,6 @@ title: Coordinates
 ## Ecliptic with equatorial projection
 - Aka "Polar longitude" (ecliptic longitude, but projection on meridian lines) in [astro.com](https://www.astro.com/swisseph/swisseph.htm#_Toc19109057). Certain ayanAMsha-s are defined based on this system.
 
+## ayanAMsha-offset ecliptic coordinates
+- See [chAndra-naxatram page](../../naxatram/).
+

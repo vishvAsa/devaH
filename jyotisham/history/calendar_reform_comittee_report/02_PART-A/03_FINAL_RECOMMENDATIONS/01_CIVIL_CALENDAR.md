@@ -13,8 +13,8 @@ title = "01 CIVIL CALENDAR"
         - Indian Calendar ... Gregorian Calendar 
         - Caitra 1 ... March 22 in a common year & March 21 in a leap-year. 
         - Vaisakha 1 April 21
-        - Jyaiştha 1 ... May 22
-        - Aşadha ... June 22
+        - Jyaiṣtha 1 ... May 22
+        - Aṣadha ... June 22
         - Srāvana 1 ... July 23
         - Bhadra August 23
         - Āśvina 1 September 23 
