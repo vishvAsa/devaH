@@ -55,7 +55,7 @@ A statement has been appended showing the general rules for fixing 'the dates of
 
 (10) Transit of the Sun-Meṣadi, Vrṣadi are 
 
-the moments when the longitude of the Sun equals 23° 15', 59o.15 etc. Sun's entry into nakṣatras have been calculated in the same way as in the case of the moon, rix., adopting variable ayanāmśa. Sun's transits over every 30th degree of arc commencing from the vernal equinoc tial point have been designated by Trop, Aries, Trop. Taurus, etc. 
+the moments when the longitude of the Sun equals 23° 15', 59o.15 etc. Sun's entry into nakṣatras have been calculated in the same way as in the case of the moon, rix., adopting variable ayanāṁśa. Sun's transits over every 30th degree of arc commencing from the vernal equinoc tial point have been designated by Trop, Aries, Trop. Taurus, etc. 
 
 III. List of Holidays The list of holidays for the Government of India as well as for all the States has been prepared for the five years 1954-55 to 1958-59 A.D., on the basis of the Reformed Calendar, 
 
@@ -613,7 +613,7 @@ REFORMED CALENDAR OF INDIA
 
 FOR SAKA ERA 1876 ( 1954-55 A.D.) Month of JY AISTHA (JYEṣTHA) (31 Days) 
 
-Ayanāmsa on 18t=23° 13' 37" 
+ayanāṁśa on 18t=23° 13' 37" 
 
 Mithuna : Suci Summer 2nd Month 
 
@@ -719,7 +719,7 @@ Thu Fri Sat 1. .
 
 Ow ervo 
 
-P. Bhädra padā! 10 U. Bhadrapadā. 8 24 Revati 
+P. Bhādra padā! 10 U. Bhadrapadā. 8 24 Revati 
 
 6 7 Asvini 
 
@@ -929,7 +929,7 @@ REFORMED CALENDAR OF INDIA
 
 FOR SAKA ERA 1876 (1954-55 A.D.) Month of A SADHA (31 Days) 
 
-Ayanāmsa on 1st=23° 19' 32" 
+ayanāṁśa on 1st=23° 19' 32" 
 
 Karkata : Nabhas Rains 1st Month 
 
@@ -995,7 +995,7 @@ Fri Sat
 
 CĀNDRA JYAIṣTHA 
 
-5-Yogini (Gandhári) ebidasi (Smärta). 
+5-Yogini (Gandhári) ebidasi (Smārta). 
 
 25 
 
@@ -1027,7 +1027,7 @@ bo wa
 
 K 30 | 17 
 
-Wäd 
+Wād 
 
 hu July 
 
@@ -1199,7 +1199,7 @@ REFORMED CALENDAR OF INDIA
 
 FOR SAKA ERA 1876 (1954-55 A.D.) Month of ŚR A V A N A ( 31 Days ) 
 
-Ayanāmsa on 1st=29° 13' 37" 
+ayanāṁśa on 1st=29° 13' 37" 
 
 Simba : Nabhasya Rains and Month 
 
@@ -1277,7 +1277,7 @@ Asvini Bharani Kșttikā Robiņi Mțgaśiras
 
 2-Ker puja (Tripura). 
 
-3.Vyatīpāta | 4-Kāmikä ekā labi. 
+3.Vyatīpāta | 4-Kāmikā ekā labi. 
 
 (6h 22m) 
 
@@ -1417,7 +1417,7 @@ Bahulā caturthi (Madhya Dosa). 27-Raksā pañcami (Orissa), Tithi of Sri Madhav
 
 Deva (Assam). 
 
-28-Hala gasthi. 28-Vyatīpāta 29-Gitalā saptami, Janmastami-Smärta (8. India), 
+28-Hala gasthi. 28-Vyatīpāta 29-Gitalā saptami, Janmastami-Smārta (8. India), 
 
 (186 350) Sri Jayanti. 
 
@@ -1617,7 +1617,7 @@ SAURA
 
 A ŚVINA 
 
-2-Ajā ekadasi, Kalīdalada ekadasi (Orissa). 3-Paryusana parvärambha (Jain-pañcami paksa). 4-Aghora caturdabi (Bengal & Orissa). 6-Aloka amāvasya (Bengal), Kubotpātini (Pithorl) 
+2-Ajā ekadasi, Kalīdalada ekadasi (Orissa). 3-Paryusana parvārambha (Jain-pañcami paksa). 4-Aghora caturdabi (Bengal & Orissa). 6-Aloka amāvasya (Bengal), Kubotpātini (Pithorl) 
 
 & MÅvagyĀJudaptapuri amāvasya (Orissa). 7-Rudra vrata 8-Tithi of Sri Sankara Deva (Asgam). 9-Haritālika trtīyā, Gauri třtiya (Mysore). 10-Ganesa caturthi, Varadā caturthi, Saubhagya 
 
@@ -1627,7 +1627,7 @@ Haritálī caturthi. 11-Rṣi pañcami & Rakgå pañcami (Bengal), bamvatsari
 
 (Bombay, Surat & Ahmedabad), Paryugapa k parva sa mapana' (Jain-pañcami paksa), Guru pañcami 
 
-(Orissa). 12-Būrya pasthi, Lolārka sasthi, Carpaţä sasthi (Bengal), 
+(Orissa). 12-Būrya pasthi, Lolārka sasthi, Carpaţā sasthi (Bengal), 
 
 Somanátha vrata (Orissa), Manthina pasthi (Bengal), 
 
@@ -1639,7 +1639,7 @@ sayani (Orissa). 15-Aduḥkba navami, Nandā navami, Tala navami
 
 Våmana jayanti, First Onam Day (8. India. Dol Gyaras (Madhya Bharat), Heikra Hitamba (Manipur), 
 
-Laksminäniyada ekadasi (Orissa). 19-Sakrotthāna, Kalki dvadasi, Visņu parivartanotsava, 
+Laksmināniyada ekadasi (Orissa). 19-Sakrotthāna, Kalki dvadasi, Visņu parivartanotsava, 
 
 Thiru Onam Day (8. India), 20-Ananta caturdasi, 'Third Onam Day (8. India). 21-Indra-Govinda půjā (Orissa), Fourth Odam Day 
 
@@ -1685,7 +1685,7 @@ Wod
 
 15 
 
-Satabhiṣaj P. Bhadrapada U. Bhädrapedā Rovati Asvini Bharani 
+Satabhiṣaj P. Bhadrapada U. Bhādrapedā Rovati Asvini Bharani 
 
 16 
 
@@ -1909,7 +1909,7 @@ SAURA A VINA
 
 11-Mahāgasthi, Durgāśasthi (Bengal), Tay 
 
-(Orissa). 12-Durgā pūji, Sarasvatī sthapana, Oli hodanig Wain). 13-Mahastami, Viristami, menenati pojil 14-Mabånavami, Ayadha paji, Barasvati balidäna. 
+(Orissa). 12-Durgā pūji, Sarasvatī sthapana, Oli hodanig Wain). 13-Mahastami, Viristami, menenati pojil 14-Mabånavami, Ayadha paji, Barasvati balidāna. 
 
 3 
 
@@ -1941,7 +1941,7 @@ P. Bhādrapada 23 55 U. Bhādrapada 21 17 Rovati
 
 17-Padmapáva dvadasi. (156 27m) 420-Full Moon 
 
-19-Kojāgari Lakṣmi pājs, Kumina pärpimi (Orissa). (105 40m) 
+19-Kojāgari Lakṣmi pājs, Kumina pārpimi (Orissa). (105 40m) 
 
 20-Oli ends (Jain), Maharsi Valmiki's birthday (Punjab). 21-Asūnya sayana vrata. 
 
@@ -1963,7 +1963,7 @@ Sat SUN
 
 Der HA CO 
 
-Bharani Krttikā Rohini Mṣgasiras Ardrä 
+Bharani Krttikā Rohini Mṣgasiras Ardrā 
 
 23-Karaka caturthi, Dabaratha catarth! (Bengal). 
 
@@ -2109,7 +2109,7 @@ on
 
 Bhūta caturdasi (Bengal), Káli pūjá, Dipávali, 
 
-Hanumat janmadina. 4-Dipávali, Mahālakṣmi pūja, Mahävira nirvāņa (Jain), 
+Hanumat janmadina. 4-Dipávali, Mahālakṣmi pūja, Mahāvira nirvāņa (Jain), 
 
 Kethar Gauri vrata (8. India). 5-Bali pūja, Govardhana pūjā, Dyuta, pratipad, 
 
@@ -2209,7 +2209,7 @@ Kártiki pūrnimi, Annábhigekam (B. India), Pugkar. Fair (Ajmer).
 
 26 
 
-9 59 | 25 | P. Bhādrapada 10 7 3 | U. Bhädrà pada 8 19. 27 33) (27 Royati 
+9 59 | 25 | P. Bhādrapada 10 7 3 | U. Bhādrà pada 8 19. 27 33) (27 Royati 
 
 29 37 23 53 
 
@@ -2389,7 +2389,7 @@ er i CON
 
 25 
 
-4-New Moon 4-Dipávali amavasyä (Orissa). 
+4-New Moon 4-Dipávali amavasyā (Orissa). 
 
 (18h 0)5-Rudropavasa. 
 
@@ -2413,11 +2413,11 @@ Jyosthā Mūla P. Aṣādhā U. Āsādhā Sravana
 
 8-Vyatipāta 
 
-(224 22m) 9-Näga pañcami (2nd), Sahid Day of Śri Guru Teg 
+(224 22m) 9-Nāga pañcami (2nd), Sahid Day of Śri Guru Teg 
 
 Bahadur ( Punjab ). | 10-Guha gasthi (Bengal), Mūlakarūpiņi sasthi (Bengal), 
 
-Prävarana sasthi (Orissa), Skanda Basthi, Campā 
+Prāvarana sasthi (Orissa), Skanda Basthi, Campā 
 
 ṣaṣthi (Maharastra), Subrahmanya gasthi (Coorg). 11-Mitra saptami. 
 
@@ -2477,7 +2477,7 @@ Aśvini Bharaại Krttikā Robiņi Mrgasiras Ardrā
 
 16-Akhanda dvādasi, Matsya dvadasi, Kyañjana and 
 
-Dāna dvādasi (Orissa), Bharani Dipam (8. India ). 17-Päsaņa caturdasi (Bengal & Orissa); 
+Dāna dvādasi (Orissa), Bharani Dipam (8. India ). 17-Pāsaņa caturdasi (Bengal & Orissa); 
 
 Kfttikā dīpam ( 8. India ). 18-Dattatreya jayanti, Vaikhānas dipam ( 8. India ). 
 
@@ -2603,7 +2603,7 @@ w who I BO
 
 1-Uttarayana Day. 
 
-Visākbä Antrādhā Jyosthā Mūla 
+Visākbā Antrādhā Jyosthā Mūla 
 
 P. Āsādhā 
 
@@ -2677,7 +2677,7 @@ o
 
 14-Samba daśami (Orissa), Putradā (Gandhårl) ekadasi 
 
-(Smärta). 15-Vaikuntha ekādasi (Madras), Putrada ekādasi. 
+(Smārta). 15-Vaikuntha ekādasi (Madras), Putrada ekādasi. 
 
 (Vaiṣpava and in Bengal for all), Kūrma dvådasi. 
 
@@ -3047,7 +3047,7 @@ U. Phalguni Hasta Citrā Svāti Viśākbā
 
 Satabhiraj (13b 29m) 
 
-26-Sitäṣtami. 
+26-Sitāṣtami. 
 
 34 
 
@@ -3089,7 +3089,7 @@ REFORMED CALENDAR OF INDIA
 
 FOR SAKA ERA 1876 (1954-55 A.D.) Month of PHALGUNA ( 30 Days ) 
 
-Ayanāmsa on lst=23° 14' 7" 
+ayanāṁśa on lst=23° 14' 7" 
 
 Mina : Madhu Spring 1st Month 
 
@@ -3245,7 +3245,7 @@ Tue
 
 16-Cãturmisya caturdabi (Jain), Masi magham-nakgatra. 
 
-canon (8. India). 17-Full Moon | 17--Holikadahana, Dolayatri, Máśī magham-pärpima 
+canon (8. India). 17-Full Moon | 17--Holikadahana, Dolayatri, Máśī magham-pārpima 
 
 (215 110) 1 canon (8. India), Birthday of Sri Caitanya. 19-Vyatipāta 18-Loli, Vasantotsave. 
 
@@ -3603,7 +3603,7 @@ Satabhigaj 25 | P. Bhādrapadā| 9 13
 
 (15h 17m) 
 
-28-Varuthini (Gāndhäri) ekādasi (8marta). 29-Varūthini ekādaśī (Vaiṣņava and in Bengal for all). 
+28-Varuthini (Gāndhāri) ekādasi (8marta). 29-Varūthini ekādaśī (Vaiṣņava and in Bengal for all). 
 
 Tue Wed Apr. 20 
 
@@ -3625,7 +3625,7 @@ REFORMED CALENDAR OF INDIA
 
 FOR SAKA ERA 1877 (1955-56 A.D.) Month of VAIŚ A K H A ( 31 Days ) 
 
-Ayanāmśa on 1st=23° 14' 14" 
+ayanāṁśa on 1st=23° 14' 14" 
 
 Vrpa : Sukra 
 
@@ -3743,7 +3743,7 @@ COOL
 
 6-Sankara's Birthday. 7-Candana sasthi (Bengal). 8-Gangotpatti, Jahnu saptami (Bengal), 
 
-Sarkarā saptami. 10-Vyatipāta | 10-Sitä navami (Bengal & Orissa). 
+Sarkarā saptami. 10-Vyatipāta | 10-Sitā navami (Bengal & Orissa). 
 
 (8h 58m) 
 
@@ -4213,7 +4213,7 @@ m
 
 \-- 
 
-1-Dakṣināyana Day. 
+1-Dakṣiṇāyana Day. 
 
 \- 
 
@@ -4365,15 +4365,15 @@ Fri Sat SUN Mon
 
 oser HA CON 
 
-Dhaniṣthā Satabhiṣaj P. Bhädrapada 
+Dhaniṣthā Satabhiṣaj P. Bhādrapada 
 
 000 vol 
 
-19-Näga pañcami ( Bengal ). 
+19-Nāga pañcami ( Bengal ). 
 
 . 
 
-21-Ker pūjä (Tripura), Sitalā saptami (Orissa). 
+21-Ker pūjā (Tripura), Sitalā saptami (Orissa). 
 
 23 
 
@@ -4481,7 +4481,7 @@ FOR SAKA ERA 1877 (1955-56 A.D.)
 
 Simha : Nabhasya Month of ŚR A V A N A (31 Days) Rains and Month 
 
-Ayanāmsa on 1st=23° 14' 28" 
+ayanāṁśa on 1st=23° 14' 28" 
 
 Nakṣatra 
 
@@ -4569,7 +4569,7 @@ Hasta
 
 Citrã 15 Svāti 
 
-1-Aại pūram (S. India-For some). 2-Nāga pañcami, Jägratgauri pañcami (Orissa). 3-Luạthana ṣaṣthi (Bengal). 
+1-Aại pūram (S. India-For some). 2-Nāga pañcami, Jāgratgauri pañcami (Orissa). 3-Luạthana ṣaṣthi (Bengal). 
 
 13 49 
 
@@ -4731,11 +4731,11 @@ pañcami pakṣa).
 
 25-Aghora caturdaśī (Bengal & Orissa). ¡25-Enters 
 
-Maghä ļ (275 24") 
+Maghā ļ (275 24") 
 
 26-Kuśotpātini (Pithorī) amāvagyā, Āloka amāvasyā 25-Simhādi 26-New Moon 
 
-(Bengal), Saptapuri amāvasyä (Orissa), Manasā půjā (271 36m)! (256 28m) 
+(Bengal), Saptapuri amāvasyā (Orissa), Manasā půjā (271 36m)! (256 28m) 
 
 (Bengal). 28-Tithi of Śrī Sankara Deva (Assam). 
 
@@ -5325,7 +5325,7 @@ So ở sa
 
 Citrā (21 41") 
 
-16-Mahālakṣmi vrata, Jitäṣtami (Bengal), Mūlastmi 
+16-Mahālakṣmi vrata, Jitāṣtami (Bengal), Mūlastmi 
 
 (Orissa). 17-Abidhavā navamī, Mātr navamī, Durgā navami 
 
@@ -5389,7 +5389,7 @@ OOTHA HA CO
 
 (Maharastra). 29-Sarasvati sthapana. 30-Durga ṣaṣthi, Sarasvati pūjā, Tapah ṣaṣthi (Orissa). 
 
-Viśākhä Anurādhā Jyesthā Mūla 
+Viśākhā Anurādhā Jyesthā Mūla 
 
 P. Āsādhā 
 
@@ -5415,7 +5415,7 @@ REFORMED CALENDAR OF INDIA
 
 FOR SAKA ERA 1877 (1955-56 A.D.) Month of KĀRTIKA (30 Days) 
 
-Ayanāmsa on 1st=23° 14' 39" 
+ayanāṁśa on 1st=23° 14' 39" 
 
 Vrścika : Sahas Hemanta 1st Month 
 
@@ -5667,7 +5667,7 @@ Lajpat Rai. 28-Enters
 
 Anurādha 
 
-27-Näga caturthi. 
+27-Nāga caturthi. 
 
 28-Jõāna pañcami (Jain). 20-yatipata 29-Sūrya ṣaṣthi, Chhat (Bihar), Nāļi ṣaṣthi (Bengal), 
 
@@ -5999,7 +5999,7 @@ CĀNDRA MĀRGASĪRSA
 
 Bāhādur (Punjab). 29-Campā ṣaṣthi (Maharastra), Skanda ṣaṣthi, Guba 
 
-ṣaṣthi (Bengal) Prävarani ṣaṣthi (Orissa), Mūla 
+ṣaṣthi (Bengal) Prāvarani ṣaṣthi (Orissa), Mūla 
 
 karūpiņi ṣaṣthi (Bengal), Subrāhmanya ṣaṣthí (Coorg.) 30-Mitra saptamī. 
 
@@ -6251,7 +6251,7 @@ U. Āiṣādhā
 
 (86 31m) 
 
-22-Vakula amavasyā (Orissa). 23-Bhogi (8. India). 24-Tila samkrānti, Pongal (S. India). 
+22-Vakula amavasyā (Orissa). 23-Bhogi (8. India). 24-Tila saṁkrānti, Pongal (S. India). 
 
 Māgha bihu (Assam), Makarādi snāna. 25-Mattu pongal (8. India). 
 
@@ -6313,7 +6313,7 @@ REFORMED CALENDAR OF INDIA
 
 FOR SĄKA ERA 1877 (1955-56 A.D.) Month of MĀGHA ( 30 Days ) 
 
-Ayanāmsa on 1st=23° 14' 53" 
+ayanāṁśa on 1st=23° 14' 53" 
 
 Kumbha:: Tapasya Winter 2nd Month 
 
@@ -6567,7 +6567,7 @@ pūjā ( Bengal ). 322 15 6
 
 Dhanisthā 18 12 
 
-22-New Moon 22-Mauni amāvasyā (Uttar Pradesh ), Thai amāvasyä 
+22-New Moon 22-Mauni amāvasyā (Uttar Pradesh ), Thai amāvasyā 
 
 23-Kumbhādi 323 15 48 
 
@@ -7035,7 +7035,7 @@ Tue Wed Thu Fri
 
 5 18 49 6 18 11 7 17 31 8 16 48 9 16.4 
 
-U. Phalguni Hasta Citrā Sväti 
+U. Phalguni Hasta Citrā Svāti 
 
 Viśākhā 
 
@@ -7091,7 +7091,7 @@ HA WAOH
 
 14 
 
-14-Sītalāstami, Vargītapärambha (Jain). 
+14-Sītalāstami, Vargītapārambha (Jain). 
 
 11 
 
@@ -7383,7 +7383,7 @@ Sat
 
 ܝܟ ܟܬ ܝ ܤ ܗ 
 
-| 16 Viśākhä | 17 · Anurādhā. 
+| 16 Viśākhā | 17 · Anurādhā. 
 
 18 Jyeṣthā 119 Mu. 
 
@@ -7735,7 +7735,7 @@ OR HA HA W
 
 Mūla 
 
-P. Āsādhä U. Āsādhā Sravana Dhaniṣthā 
+P. Āsādhā U. Āsādhā Sravana Dhaniṣthā 
 
 \- 
 
@@ -7899,7 +7899,7 @@ Tue Wed
 
 8 Puṣya 
 
-| Āśleṣā | 10' Maghä 
+| Āśleṣā | 10' Maghā 
 
 11 | P. Phalguni 
 
@@ -7963,7 +7963,7 @@ Ardra
 
 | 11 
 
-(136 54m) 1 27-Venus 29- Nirjalā ekādasi (Vaiṣnava), Sri Ráms dvadasi, 16 | Visākhä i 13 
+(136 54m) 1 27-Venus 29- Nirjalā ekādasi (Vaiṣnava), Sri Ráms dvadasi, 16 | Visākhā i 13 
 
 31. Trop. I sets in Campaka dvādasi (Orissa), Vaňjuli mabād vādasi. Anuradha | 16 2 
 
@@ -8049,9 +8049,9 @@ Fri June 22 Sat SUN Mon Tue
 
 con fond en 
 
-Jyesthā Mūla P. Āsādhä U. Āsādha Sravana 
+Jyesthā Mūla P. Āsādhā U. Āsādha Sravana 
 
-1-Vaidbrti | 1-Campaka caturdaśī (Bengal), Vatasävitri vrata (Deccan). 
+1-Vaidbrti | 1-Campaka caturdaśī (Bengal), Vatasāvitri vrata (Deccan). 
 
 (29h 14m) 2-Snāna yātrā (Bengal & Orissa). 2-Full Moon 
 
@@ -8225,7 +8225,7 @@ Citrā
 
 24-Karkādi 
 
-25-Manasā pūjä begins (Bengal). (25h 3m) 
+25-Manasā pūjā begins (Bengal). (25h 3m) 
 
 26-Punaryatrā (Bengal & Orissa). Tue 
 
@@ -8371,7 +8371,7 @@ h m U. Āsādhā 9 33 Sravaņa
 
 6 
 
-6-Näga pañcami (Bengal). 
+6-Nāga pañcami (Bengal). 
 
 oser 
 
@@ -8509,7 +8509,7 @@ Tue
 
 Svāti Viśākhā Anurādhā Jyeșthā 
 
-17-Āại pūram (S. India). 18-Madhusravā (Gujerat). 19-Näga pañcams, Jāgratgauri pañcami, Varalakṣmi 
+17-Āại pūram (S. India). 18-Madhusravā (Gujerat). 19-Nāga pañcams, Jāgratgauri pañcami, Varalakṣmi 
 
 vrata (8. India). 20-Luņthana ṣaṣthi (Bengal). 24-Independence Day. 
 
@@ -8963,7 +8963,7 @@ REFORMED CALENDAR OF INDIA
 
 FOR SAKA ERA 1878 (1956-57 A.D.) Month of A ŚVIN A ( 30 Days ) 
 
-Ayanāmśaon 1st=280 15' 24" 
+ayanāṁśaon 1st=280 15' 24" 
 
 Tulā : Urja Autumn 2nd Month 
 
@@ -9057,7 +9057,7 @@ Thu
 
 Mrgasiras 
 
-5-Mahālakṣmi vrata, Jitäṣtami (Bengal), Mūlastami 
+5-Mahālakṣmi vrata, Jitāṣtami (Bengal), Mūlastami 
 
 (Orissa). 6-Mātặnavami, Abidhavā navami, Durgā navami 
 
@@ -9229,7 +9229,7 @@ KĀRTIKA
 
 22 18 
 
-27-Kojāgari Lakṣmi pājā, Kumära pūrņima, Oli ends 27-Full Moon. (Jain), Maharṣi Vālmiki's Birthday (Punjab). 
+27-Kojāgari Lakṣmi pājā, Kumāra pūrņima, Oli ends 27-Full Moon. (Jain), Maharṣi Vālmiki's Birthday (Punjab). 
 
 (22h 54m) 27-Annabhiṣekam (8. India). 
 
@@ -9409,7 +9409,7 @@ Wed 31 | 217 32 46 Thu | Nov. 1 218 32 49
 
 wo 
 
-9-Dhana trayodasi, Yama dipadāna. 10-Naraka caturdaśi, Kālī pūja, Dipävalī, Bhūta 
+9-Dhana trayodasi, Yama dipadāna. 10-Naraka caturdaśi, Kālī pūja, Dipāvalī, Bhūta 
 
 caturdasi (Bengal), Hanumat janmadina, Sastråhata caturdasi. 
 
@@ -9443,13 +9443,13 @@ HM WAO
 
 Visākbā (224 18m) 
 
-111. New Moon 11-Dipävali, Mahålakomi pūjā, Mahavira pirvāna (Jain), 
+111. New Moon 11-Dipāvali, Mahålakomi pūjā, Mahavira pirvāna (Jain), 
 
 (226 1340) 
 
 | Kethār gauri vrata (8. India). 
 
-12-Govardhana pūjā, Bali pūjā, Dyūta pratipad, Annakūta. 13-Yama dvitīyā, Bhrätýdvitīyā, Dwāt pūjā (Bihar). 14-Alocanā gauri vrata. 15-Nāga caturthi. 16-Jõāna pañcami (Jain). 17-8ůrya saṣthī, Nádi ṣaṣthi (Bengal), Skanda gasthi 
+12-Govardhana pūjā, Bali pūjā, Dyūta pratipad, Annakūta. 13-Yama dvitīyā, Bhrātýdvitīyā, Dwāt pūjā (Bihar). 14-Alocanā gauri vrata. 15-Nāga caturthi. 16-Jõāna pañcami (Jain). 17-8ůrya saṣthī, Nádi ṣaṣthi (Bengal), Skanda gasthi 
 
 (Madras), Chhat (Bibar). 19-Vyatīpāta 
 
@@ -9513,7 +9513,7 @@ Thu Fri
 
 21-Jagaddhātri pājā (Bengal), Akṣaya navami, Durgå 
 
-navami, Gauri vrata (Bengal), Viṣņu trirätra, Anla 
+navami, Gauri vrata (Bengal), Viṣņu trirātra, Anla 
 
 navami (Orissa). 
 
@@ -9531,7 +9531,7 @@ caturdaśī::(Bengal & Orissa). 1 (12h 14m)
 
 27-Lunar 2 
 
-Tripurotsava, Rásayātrā, Death Anniversary of Lala Anurädhā 
+Tripurotsava, Rásayātrā, Death Anniversary of Lala Anurādhā 
 
 Eclipse 
 
@@ -9577,7 +9577,7 @@ REFORMED CALENDAR OF INDIA
 
 FOR SAKA ERA 1878 (1956-57 A.D.) 
 
-Dhanuḥ : Sabasya Ayanāmsa on 1st=23° 15' 31" Month of A GRAHA YAŅA (MĀRGAŚĪRṣA) (30 Days) Hemanta and Month 
+Dhanuḥ : Sabasya ayanāṁśa on 1st=23° 15' 31" Month of A GRAHA YAŅA (MĀRGAŚĪRṣA) (30 Days) Hemanta and Month 
 
 Solar 
 
@@ -9725,7 +9725,7 @@ PAUSA
 
 (136 42) 11-Solar 
 
-11-Dīpāvali amāvasyä (Orissa), Cadāmaņi yoga. Eclipse | 12-Rudropavisa. (partial) visible in 
+11-Dīpāvali amāvasyā (Orissa), Cadāmaņi yoga. Eclipse | 12-Rudropavisa. (partial) visible in 
 
 India. '14-Vyatipāta : (13b 21m) 16-Någa pañcami (2nd), Sahid Day of Sri Guru Teg 
 
@@ -9841,7 +9841,7 @@ FOR SAKA ERA 1878 (1956-57 A.D.) Month of PAUȘ A (30 Days)
 
 Makara : Tapas Winter 1st Month 
 
-Ayanāmsa on 1st=23° 18' 86" 
+ayanāṁśa on 1st=23° 18' 86" 
 
 Tithi 
 
@@ -10491,7 +10491,7 @@ Viśākbā Anurādhā
 
 21 
 
-2-Sākástakā, Sitäṣtami. 
+2-Sākástakā, Sitāṣtami. 
 
 331 5 356 31 17 57 332 6 2 333 6 27 334 6 52 335 7 15 
 
@@ -10679,7 +10679,7 @@ P. Phalguni
 
 7 52 12 U. Phalguni 
 
-24-Cāturmäsya caturdaśī (Jain), Holikadahana. 
+24-Cāturmāsya caturdaśī (Jain), Holikadahana. 
 
 (7h 54m) 25-Full Moon 28 32) 
 
@@ -10945,7 +10945,7 @@ Tue
 
 beginning (Jain). 17-Vasanti pūjā (Bengal). 18-Annapurņā pūjā (Bengal), Bhavani utpattī, 
 
-Asokāstami, Râma navami (Smärta), Rāma jayanti. 19-Rāma navami (Vaiṣņava and in Bengal for ali). 20-Dharmarāja daśami, Kámadá ekādasi (Gândhåri). 
+Asokāstami, Râma navami (Smārta), Rāma jayanti. 19-Rāma navami (Vaiṣņava and in Bengal for ali). 20-Dharmarāja daśami, Kámadá ekādasi (Gândhåri). 
 
 13 5 10 50 
 
@@ -11407,7 +11407,7 @@ REFORMED CALENDAR OF INDIA
 
 FOR SAKA ERA 1879 ( 1957-58 A.D.) 
 
-Mithuna : Suci Ayanāmsa on 1st 23° 18' 54" Month of JY AISTH A (JYEṣTHA) (31 Days) Summer and Month Tithi 
+Mithuna : Suci ayanāṁśa on 1st 23° 18' 54" Month of JY AISTH A (JYEṣTHA) (31 Days) Summer and Month Tithi 
 
 Nakṣatra --- - - 
 
@@ -11513,7 +11513,7 @@ Ağvini 18 8 Bharani
 
 (170 gm) 
 
-6-Sávitri caturdaśī ( Bengal). 7-Phalabāriņi Kälikā pājś (Bengal). 8-Sāvitri amāvasyā (Orissa), Vatasāvitri vrata. 9-Dasa barā spānārambha. 
+6-Sávitri caturdaśī ( Bengal). 7-Phalabāriņi Kālikā pājś (Bengal). 8-Sāvitri amāvasyā (Orissa), Vatasāvitri vrata. 9-Dasa barā spānārambha. 
 
 Thu 
 
@@ -11567,7 +11567,7 @@ Magbā 23 34 | 11 P. Phalguni
 
 73 6 31 74 3 58 
 
-CANDRA VAIŚÄKHA SAURA JYAIṣ T HA CĀNDRA JYAIṣ T HA SAURA Ā SĀ DIAL 
+CANDRA VAIŚāKHA SAURA JYAIṣ T HA CĀNDRA JYAIṣ T HA SAURA Ā SĀ DIAL 
 
 16 
 
@@ -11623,7 +11623,7 @@ want
 
 15 36 | 17 | Anurādhā 15 32 18 ! Jyesthā 15 55 19 Mūla 16 47 P. Aṣādhā 18 8 21 U. Aṣādbā 
 
-21-Campaka caturdaść (Bengal), Vatasävitri 
+21-Campaka caturdaść (Bengal), Vatasāvitri 
 
 (Deccan). 22-Full Moon 22-Snāda yatra (Bengal & Orissa). 
 
@@ -11649,7 +11649,7 @@ Sravana Dhaniṣthā Satabhiṣaj P. Bhadrapadā 11 U. Bhādrapada 14
 
 131-Enters 
 
-Arärā 
+Arārā 
 
 (206 10m) 31-Trop. 
 
@@ -12069,7 +12069,7 @@ Wed
 
 31 
 
-7-Madhusravä (Gujerat), Āņi pūram (8. India - for some). 8-Adi pūram (South India – for some), Jāgratgauri 
+7-Madhusravā (Gujerat), Āņi pūram (8. India - for some). 8-Adi pūram (South India – for some), Jāgratgauri 
 
 pancami (Orissa). 9-Nāga pañcami. 10-Lunthana ṣaṣthi (Bengal), Tilak Commemoration 
 
@@ -12183,7 +12183,7 @@ Fri
 
 (155 23") 25-Enters 
 
-Maghä (15h 51") 
+Maghā (15h 51") 
 
 Sat 
 
@@ -12405,7 +12405,7 @@ Sravana
 
 13-Parivartana (Padmā) ekādaśī, Dol Gyaras (Madhya 7 164 6 6 5 45 
 
-Dhaniṣthä 
+Dhaniṣthā 
 
 Bharat), Heikra Hitomba (Mauipur). 17 SUN 8 165 4 20 
 
@@ -12605,7 +12605,7 @@ Tue Wed Thu Fri
 
 180 40 33 181 39 21 182 38 12 183 37 5 
 
-P. Phalguni U. Phalguni Hasta Citrā Svāti Visākhä 
+P. Phalguni U. Phalguni Hasta Citrā Svāti Visākhā 
 
 | 1-Trop. Libra 1-Vaidhști 
 
@@ -12619,7 +12619,7 @@ Hasta (205 59m)
 
 15 16 
 
-5-Mäna caturthi (Bengal), Upanga lalitā vrata 
+5-Māna caturthi (Bengal), Upanga lalitā vrata 
 
 (Maharastra). 
 
@@ -12775,7 +12775,7 @@ SUN.
 
 30-Naraka caturdasī, Kāli pūjā, , Bhūta caturdası 
 
-(Bengal), Hanumat Janmadina, Sastrāhata caturdasi, Dīpāvalí, Mahälakými pūjā, Kethår Gauri vrata (8. India). 
+(Bengal), Hanumat Janmadina, Sastrāhata caturdasi, Dīpāvalí, Mahālakými pūjā, Kethår Gauri vrata (8. India). 
 
 Aslogā Maghā P. Phalguni: U. Phalguni Hasta 
 
@@ -12853,7 +12853,7 @@ m
 
 an 54 
 
-Cändra 
+Cāndra 
 
 Āśvina 
 
@@ -12881,7 +12881,7 @@ Fri Sat
 
 18 35 
 
-Viśākhā Anurädbā Jyesthā 
+Viśākhā Anurādbā Jyesthā 
 
 1-Enters | 1-New Moon 
 
@@ -13127,7 +13127,7 @@ REFORMED CALENDAR OF INDIA
 
 FOR SAKA ERA 1879 (1957-58 A.D.) 
 
-Dhanuḥ : Sahasya Ayanāmsa on 1st=23° 16' 17" Month of AGRA HĀY AŅA (MĀRGAŚĪRṣA) (30 Days) Hemanta 2nd Month 
+Dhanuḥ : Sahasya ayanāṁśa on 1st=23° 16' 17" Month of AGRA HĀY AŅA (MĀRGAŚĪRṣA) (30 Days) Hemanta 2nd Month 
 
 Tithi 
 
@@ -13233,7 +13233,7 @@ P. Bhadrapadā | U. Bhādrapadā
 
 6-Campā ṣaṣthi (Maharastra), Guha ṣaṣthi (Bengal ), 
 
-Mūlakarūpiņi ṣaṣthi (Bengal), Prävarana. Sasthi (Orissa ), Skanda ṣaṣthi, Subrābmanya ṣaṣthi 
+Mūlakarūpiņi ṣaṣthi (Bengal), Prāvarana. Sasthi (Orissa ), Skanda ṣaṣthi, Subrābmanya ṣaṣthi 
 
 (Coorg). 7-Mitra saptami. 
 
@@ -13429,7 +13429,7 @@ Svāti Visakhã Anurādha Jyesthā Mūla
 
 6 39 17 17 K 30 
 
-30-Vakula:amävasyā ( Orissa ). 
+30-Vakula:amāvasyā ( Orissa ). 
 
 N. B.--All timings are given in I. S. T. or the local time of the meridian of 821° E. Long. 
 
@@ -13699,7 +13699,7 @@ Evo
 
 Tue 
 
-23-Bhogi (8. India). 24-Pongal (S. India), Māgh bihu (Assam), Tila samkrānti, 
+23-Bhogi (8. India). 24-Pongal (S. India), Māgh bihu (Assam), Tila saṁkrānti, 
 
 Makaradi snāna. 25-Vyatipāta | 25-8attila ekādasi, Mattu pongal (8. India). 
 
@@ -14045,7 +14045,7 @@ SAURA PHALGUNA
 
 Candra 
 
-Phälguna 
+Phālguna 
 
 30-Enters 
 
@@ -14175,7 +14175,7 @@ SAURA PHALGUNA
 
 88 
 
-11-Amalaki ekādasi, Ravinārāyana ekādasi (Orissa). 12-NȚsimha dvadasi. 13-Cāturmäsya caturdaśi (Jain). 14-Holikādahana, Dolayātrā, Mäsi magham (South 
+11-Amalaki ekādasi, Ravinārāyana ekādasi (Orissa). 12-NȚsimha dvadasi. 13-Cāturmāsya caturdaśi (Jain). 14-Holikādahana, Dolayātrā, Māsi magham (South 
 
 India), Birthday of Sri Caitanya. 15-Holi, Vasantotsava. 
 
@@ -14223,7 +14223,7 @@ or or Ort
 
 15 
 
-Hasta Citrä Svāti Visakhā 
+Hasta Citrā Svāti Visakhā 
 
 Mon 
 
@@ -14273,7 +14273,7 @@ Tue Wed Thu Fri Mar. 21
 
 18 Jyeṣthā 19 47 
 
-21-Sītalāstami, Varṣitapärambha (Jain). 19 Mūla 
+21-Sītalāstami, Varṣitapārambha (Jain). 19 Mūla 
 
 20 23 P. Āsādhā 21 35 
 
@@ -14291,7 +14291,7 @@ U.Bhādra 10 22 Satabhiṣaj
 
 pada 
 
-27-Väruņi ( upto 10h 22m). 12 45 
+27-Vāruņi ( upto 10h 22m). 12 45 
 
 (22h 46m) 29-New Moon | 15 20 
 
@@ -14413,7 +14413,7 @@ Mrgasiras Ardra Punarvasu Pusya Azleṣā
 
 6-Vasanti pūjā (Bengal), Oli beginning (Jain). 7-Annapūrņā pūjā (Bengal), Abokāstami, Bhavani 
 
-utpatti. 8-Rāma navams, Śrī Rāma jayanti. 9-Dharmaräja daśami. 10-Kämada ekādasi, Dolotsava. 
+utpatti. 8-Rāma navams, Śrī Rāma jayanti. 9-Dharmarāja daśami. 10-Kāmada ekādasi, Dolotsava. 
 
 10-Enters 
 
@@ -14459,7 +14459,7 @@ Thu
 
 14 
 
-11-Madana dvādasī, Vamana dvädasi, Viṣņu . 
+11-Madana dvādasī, Vamana dvādasi, Viṣņu . 
 
 damanotsava. 12- Apanga trayodasi, Mahavira jayanti (Jain), 
 
@@ -14757,7 +14757,7 @@ Tue
 
 26 
 
-10-Mohini ekādasi, Trispráā mahädvādaśī, Parasurāma 
+10-Mohini ekādasi, Trispráā mahādvādaśī, Parasurāma 
 
 dvādasi, Rukmini & Pipitaki dvadasi (Bengal and Orissa). 
 
@@ -14937,7 +14937,7 @@ REFORMED CALENDAR OF INDIA
 
 FOR SAKA ERA 1880 ( 1958-59 A.D.) Month of JY AISTHA (JYEṣTHA) (31 Days) 
 
-Ayanāmśa on 1st=23° 16' 40" 
+ayanāṁśa on 1st=23° 16' 40" 
 
 Mithuna : Suci Summer and Month 
 
@@ -15191,7 +15191,7 @@ Tue
 
 Wed Thu Fri. 20 Sat June 21 
 
-Rohini Msgaśiras Ardrä Punarvasu Puṣya A śleṣā 
+Rohini Msgaśiras Ardrā Punarvasu Puṣya A śleṣā 
 
 SAURA ĀṣA DHA 
 
@@ -15223,7 +15223,7 @@ REFORMED CALENDAR OF INDIA
 
 FOR SAKA ERA 1880 (1958-59 A.D.) Month of A SADHA (31 Days) 
 
-Ayanāmsa on 1st=23° 16' 45" 
+ayanāṁśa on 1st=23° 16' 45" 
 
 Karkata : Nabhas Rains 1st Month 
 
@@ -15753,7 +15753,7 @@ Fri 25 | Sat
 
 cu OH 
 
-24-New Moon 25-Simhädi 
+24-New Moon 25-Simhādi 
 
 1 (9b 3m) (21b 1m) 25-Enters 
 
@@ -15761,7 +15761,7 @@ Maghā (21 48m)
 
 23-Adi amāyabya (. India). 24-Independence Day. 
 
-Karkataka vāvu (T. C. State). 25-Aại pūram (8. India), Manasā pājā (Bengal). 26-Madhusravå (Gujerat). 27-Haritāli caturthi, Jāgrat gauri pañcami (Orissa). 28-Näga pañcami, 29-Lunghana gasthi (Bengal). 
+Karkataka vāvu (T. C. State). 25-Aại pūram (8. India), Manasā pājā (Bengal). 26-Madhusravå (Gujerat). 27-Haritāli caturthi, Jāgrat gauri pañcami (Orissa). 28-Nāga pañcami, 29-Lunghana gasthi (Bengal). 
 
 26 
 
@@ -15815,7 +15815,7 @@ Thu
 
 S 
 
-| 31-Dūrvästami, Varalakṣmi vrata (8. India). 
+| 31-Dūrvāstami, Varalakṣmi vrata (8. India). 
 
 REFORMED CALENDAR OF INDIA 
 
@@ -16019,7 +16019,7 @@ samāpang (Jaio-pañcam pakṣa). 27-Surya sasthi, Manthåna sasthi, Lolarka gas
 
 Carpatā sasthi (Bengal), Somanátha vratárambha 
 
-(Orissa). 28-Muktábharaṇa vrata, Lalita saptami (Bengal). 29-Rädhästami & Dūrvastami (Bengal), Mabalakomi 
+(Orissa). 28-Muktábharaṇa vrata, Lalita saptami (Bengal). 29-Rādhāstami & Dūrvastami (Bengal), Mabalakomi 
 
 vrata, Durgā sayani (Orissa).. 30-Aduḥkha navami, Nandā navami, Tāla navami 
 
@@ -16131,7 +16131,7 @@ REFORMED CALENDAR OF INDIA
 
 FOR śAKA ERA 1880 (1958-59 A.D.) Month of A ŚVINA (30 Days ) 
 
-Ayanāmsa on 1st=23° 16' 56" 
+ayanāṁśa on 1st=23° 16' 56" 
 
 Tulā : ūrja Autumn 2nd Month 
 
@@ -16375,7 +16375,7 @@ pūjā. 30.Vyatipāta
 
 28-Mahāstami, Sarasvati visarjana, Ayudha půjā, JU-Jupiter . Vírastamī. 
 
-sets in the 29-Mahānavami, Vijayā daśami, Dasaharä. West.. ] 30-Vijaya daśami (Bengal). 
+sets in the 29-Mahānavami, Vijayā daśami, Dasaharā. West.. ] 30-Vijaya daśami (Bengal). 
 
 18 
 
@@ -16411,7 +16411,7 @@ FOR SAKA ERA 1880 (1958-59 A.D.)
 
 Vrścika : Sahas . Month of K ARTIK A (30 Days) Hemanta Ist Month 
 
-Ayanāmsa on 1st=23° 16' 59" 
+ayanāṁśa on 1st=23° 16' 59" 
 
 Tithi 
 
@@ -16609,7 +16609,7 @@ Hanumat janmadina, Sastnáhata caturdasi,
 
 Mahālakomi pūjā, Káli.pūjā, Dipávali. 20-New Moon 
 
-Moon 20-Mahåvira nirvana (Jain), Govardhana pūji, Bali (126 4u) ipůjá, Kethär Gauri vrata (8. India), Annakūta. 
+Moon 20-Mahåvira nirvana (Jain), Govardhana pūji, Bali (126 4u) ipůjá, Kethār Gauri vrata (8. India), Annakūta. 
 
 21-Bhråtę dvitiyā, Yama dvitiya, Dyūta pratipad 
 
@@ -16621,7 +16621,7 @@ Moon 20-Mahåvira nirvana (Jain), Govardhana pūji, Bali (126 4u) ipůjá, Keth�
 
 rises in 
 
-28-Aksaya navami, Jagaddhatri pūjä (Bengal), Vippu the East. 
+28-Aksaya navami, Jagaddhatri pūjā (Bengal), Vippu the East. 
 
 trinātra, Durgā navami & Gauri vrata (Bengal), Anlå 
 
@@ -16671,7 +16671,7 @@ Nov. 21
 
 REFORMED CALENDAR OF INDIA FOR SAKA ERA 1880 (1958-59 A.D.) 
 
-Dhanuḥ : Sahasya Ayanāmsa on 1st=23° 17' 3" Month of A GRAHA YANA (MARGAŚİRṣA) (30 Days ) Hemanta 2nd Month 
+Dhanuḥ : Sahasya ayanāṁśa on 1st=23° 17' 3" Month of A GRAHA YANA (MARGAŚİRṣA) (30 Days ) Hemanta 2nd Month 
 
 Tithi 
 
@@ -16815,7 +16815,7 @@ SAURA MARGASIRSA
 
 Jyesthā (205 57m) 
 
-12-Kalastami, Bhairava jayanti. 13-Prathamastami (Orissa). 14-Käñji Anli navami (Orissa). 
+12-Kalastami, Bhairava jayanti. 13-Prathamastami (Orissa). 14-Kāñji Anli navami (Orissa). 
 
 [97]. 
 
@@ -16909,7 +16909,7 @@ CANDRA MĀRGASIRṣA
 
 Bahadur. 25-Campå sasthi (Maharastra), Skanda fasthi, Guha 
 
-sasthi & Mūlakarūpini pasthi (Bengal), Prävarana 
+sasthi & Mūlakarūpini pasthi (Bengal), Prāvarana 
 
 pasthi (Orissa), Subrahmanya gasthi (Coorg). 26-Mitra saptami. 
 
@@ -17075,7 +17075,7 @@ SAURA PAUSA
 
 13 
 
-U. Phalguni Hasta Citrā Svātī Visakhä. 
+U. Phalguni Hasta Citrā Svātī Visakhā. 
 
 [ 
 
@@ -17195,7 +17195,7 @@ N.B.-All timings are given in. I. 8. T. or the local time of the meridian of 821
 
 FOR SAKA ERA 1880 (1958-59 A.D.) Month of M A GH A (30 Days) 
 
-Ayanāmsa on 1st=23° 17' 12" 
+ayanāṁśa on 1st=23° 17' 12" 
 
 Kumbba : Tapasya 
 
@@ -17405,7 +17405,7 @@ P. Āsādhā U. Āsādhā Sravaņa Dhanisthā Satabhiṣaj
 
 " 18-Mauni amavasyā (Uttar Pradesh), Thai amavasyā 
 
-(S. India), Triveni amāvasyä (Orissa), Makara våvu (T.C. State). 
+(S. India), Triveni amāvasyā (Orissa), Makara våvu (T.C. State). 
 
 8 
 
@@ -17567,7 +17567,7 @@ Punarvasu Puṣya Aślesa Maghā
 
 P. Phalguni 
 
-1-Varāha dvadasi, Bhīṣma dvādasi, Āmalaki dvädasi 
+1-Varāha dvadasi, Bhīṣma dvādasi, Āmalaki dvādasi 
 
 and Santāna dvādasi (Orissa). 3-Agni utsaval Orissa). 4- Māghi pūrņimå, Guru Ravi Das's Birthday (Punjab), 
 
@@ -17611,7 +17611,7 @@ Sat
 
 SUN Mar. 1 
 
-CĀNDRA MÄG H A 
+CĀNDRA MāG H A 
 
 [ 
 
@@ -17657,7 +17657,7 @@ Mūla 16 39 P. Āsādhā 15 44 U. Āsādhā 15. 13 Śravaņa
 
 13-Enters 
 
-P.Bhädra padā (20h 26m) 
+P.Bhādra padā (20h 26m) 
 
 16 
 
@@ -17789,7 +17789,7 @@ Most of the festivals are determined on the basis of the lunar (i.e. luni-solar)
 
 The festivals are arranged according to the amanta (i.e. new-moon ending) lunar months commencing from Caitra Sukla. The numbers relate to the tithi with the pakṣa (S means Sukla pakṣa, and K Krsna pakṣa). 
 
-As regards the hour of the day in which a religious festival is to be performed, the prescribed time is noon (madhyāhna) or fore-noon (pārvāhna) except in case of some festivals for which the prescribed periods are different from the general rule. Here noon or madhyānna relates to the period of time from 24 minutes (one ghatikā) before mid-day upto the same time after it. This is the most appropriate time. If this time is not covered by the täthi on any day, the festival is to be observed on the succeeding day of the tithi. Sometimes the madhyāhna is taken to represent a wider period than the above, viz., the 7th, 8th and 9th muhartas of the day commencing from sunrise, a muharta being ith part of the day-time. In Bengal, where however a different rule is followed, the requisite tithi must cover at least one muhurta of purvahna of the day i.e., of the first ird part of the day-time. If the tithi does not cover such a period on any day, then pūrvāhna will have to be taken to represent the period from sunrise to mid-day. In cases where the prescribed hours of the day for the festivals are different from the general rule, the required periods to be covered by the tithi have been specially mentioned in the list in most cases. 
+As regards the hour of the day in which a religious festival is to be performed, the prescribed time is noon (madhyāhna) or fore-noon (pārvāhna) except in case of some festivals for which the prescribed periods are different from the general rule. Here noon or madhyānna relates to the period of time from 24 minutes (one ghatikā) before mid-day upto the same time after it. This is the most appropriate time. If this time is not covered by the tāthi on any day, the festival is to be observed on the succeeding day of the tithi. Sometimes the madhyāhna is taken to represent a wider period than the above, viz., the 7th, 8th and 9th muhartas of the day commencing from sunrise, a muharta being ith part of the day-time. In Bengal, where however a different rule is followed, the requisite tithi must cover at least one muhurta of purvahna of the day i.e., of the first ird part of the day-time. If the tithi does not cover such a period on any day, then pūrvāhna will have to be taken to represent the period from sunrise to mid-day. In cases where the prescribed hours of the day for the festivals are different from the general rule, the required periods to be covered by the tithi have been specially mentioned in the list in most cases. 
 
 When the requisite tithi .covers the prescribed time on two successive days, the festival is to be observed in such a case on the first day where marked 'Purvaviddha, and on the second day where marked * Paraviddha'. Further explanations of terms have been given later. 
 
@@ -18099,7 +18099,7 @@ vyāpini ). S 5 Jñana pañcami (Jain). S 6 Nadi ṣaṣthi, Skanda ṣaṣthi (
 
 ṣaṣthi, Chhat (Bihar). S 8 Gopāṣtam, Goṣthâștami. S 9 Akṣaya navami (purvāhnavyāpini), Jagaddhatri 
 
-pūjā (Bengal). (udayavyāpini one muhurta), Anlā navami (Orissa), Durgā navami (pärva 
+pūjā (Bengal). (udayavyāpini one muhurta), Anlā navami (Orissa), Durgā navami (pārva 
 
 viddha), Gauri vrata. S 11 Tulasi vivāha, Bhīṣma pañcaka, Probodhanī 
 
@@ -18209,7 +18209,7 @@ Karkādi-Manasā paja begins (Bengal). Simhadi-Manasā puja ends (Bengal). This 
 
 principal day of the paja. Kanyadi--Visvakarma paja (Bengal). Tuladi—Kāveri samkramana snāna (Coorg). Vrścikādi-Kartika paja (Bengal) Makarādi-Makarādi snāna, Magh Bihu (Assam), 
 
-Tila samkrānti, Pongal (S. India), Bhogi (S. India-on the day before Pongal), Mattu Pongal (S. India-on the day after Pongal). 
+Tila saṁkrānti, Pongal (S. India), Bhogi (S. India-on the day before Pongal), Mattu Pongal (S. India-on the day after Pongal). 
 
 Criteria of some festivals for South India 
 
@@ -18239,7 +18239,7 @@ Kethār Gauri Vrata :-Amāvasyā (K 30) of lunar Asvina-if caturdaśī extends u
 
 Annābhiṣekam :--Parnima' of saura Kārtika (pradoṣavyāpinī). The combination of Aśvini nakṣatra is favourable. 
 
-Bharani Dipam :--Observed in Bharani nakṣatra of saura Märgaśīrṣa (pradoṣavyāpinī). 
+Bharani Dipam :--Observed in Bharani nakṣatra of saura Mārgaśīrṣa (pradoṣavyāpinī). 
 
 Krttikā Dipam :--Observed in Kịttika nakṣatra of saura Mārgaśīrṣa (pradoṣavyāpinī). 
 
@@ -18351,7 +18351,7 @@ following cases :--- No. 8. Sarya Savarni
 
 on two successive days, the second day is called No. 9. Dakṣa ṣavarni 
 
-Unmilani Mahädvādaśī. Instead of Srāvana K 30, it is Magha K 30. 
+Unmilani Mahādvādaśī. Instead of Srāvana K 30, it is Magha K 30. 
 
 (2) When the 12th tithi is current at sunrise on 
 
@@ -18867,7 +18867,7 @@ Kimstughna
 
 Vayu In each tithi there are two karanas covering the N.B.-As regards the sthira karanas, viz., the last. two halves of the tithimana. A karana is therefore four, the above order is according to the Sūrya Siddhānta. completed when the moon gains every 6° on But later authorities have adopted the order Sakuni, the sun. 
 
-Catuspada, Näga and Kimstugħna (or Kintughna). 
+Catuspada, Nāga and Kimstugħna (or Kintughna). 
 
 Viṣti 
 
@@ -18951,7 +18951,7 @@ saura Bhadra except Bengal). Dyūta pratipad-Kartika S 1.
 
 Indira ekadasi-Bhadra K 11. Indra-Govinda paja (Orissa)—Bhadra S 15. 
 
-Jagaddhatri pājā (Bengal)--Kartika S 9. Jagratgauri pañcamı (Orissa) --Śrāvana S 5. Jahnu saptami–Vaisakha $ 7 Jalakrida ekādaśī (Orissa)--Vaisakha K 11. JanmaṣtamiSravana K 8. Jaya ekadasi-Magha S 11. Jayanti-(see p. 107). Jhulanayātrā-Sravana S 11. Jhulanayātra samāpana-Śrāvana S 15. Jimatavahana puja-Bhadra K 8. Jitāṣtami—Bhädra K 8. Jnana pañcami (Jain)-Kartika S 5. 
+Jagaddhatri pājā (Bengal)--Kartika S 9. Jagratgauri pañcamı (Orissa) --Śrāvana S 5. Jahnu saptami–Vaisakha $ 7 Jalakrida ekādaśī (Orissa)--Vaisakha K 11. JanmaṣtamiSravana K 8. Jaya ekadasi-Magha S 11. Jayanti-(see p. 107). Jhulanayātrā-Sravana S 11. Jhulanayātra samāpana-Śrāvana S 15. Jimatavahana puja-Bhadra K 8. Jitāṣtami—Bhādra K 8. Jnana pañcami (Jain)-Kartika S 5. 
 
 K 
 
@@ -18969,7 +18969,7 @@ Kajjalı trtiya-Śrāvana K 3. Kalabhairava jayanti-Kartika K 8. Kalastami-Karti
 
 nakṣatra Rohini, yoga Vyatipata, Sun in 
 
-Hasta and Tuesday. Karaka caturthi-Asvina K 4. . Karaṣtami (Maharastra). Asviná K 8. Kardama ṣaṣthi (Bengal)-Aṣadha S 6. Karkatakä vavu (Travancore-Cochin)-K 30 of 
+Hasta and Tuesday. Karaka caturthi-Asvina K 4. . Karaṣtami (Maharastra). Asviná K 8. Kardama ṣaṣthi (Bengal)-Aṣadha S 6. Karkatakā vavu (Travancore-Cochin)-K 30 of 
 
 saura Śravána. 
 
@@ -18997,7 +18997,7 @@ into Makara of the religious calendar. Maṁsāṣtaka-Pauṣa K 8. Māna caturt
 
 saura Phalguna (also observed on the 
 
-pūrnimā day). Masyadhāra pūjā (Bihar)-Kārtika S 2. Matr navami-Bhadra K 9. Matsya dvadasi-Margaśīrṣa S 12. Mattu Pongal (South India) —The day after Pongal. Mauna ekadasi (Jain)--Märgaśīrṣa S 11. Mauni amāvasya (Uttar Pradesh)-Pauṣa K 30. Meru trayodaśí (Jain) - Pauṣa K 13. Mitra saptami-Margaśırṣa S 7. Mohini ekādasi-Vaisakha S 11. Mokṣada ekādaśí —Margaśırṣa S 11. Muktabharana vrata-Bhadra S 7. Malakarūpini ṣaṣthi-Margasirsa S 6. Malaṣtami (Orissa)—Bhadra K 8. 
+pūrnimā day). Masyadhāra pūjā (Bihar)-Kārtika S 2. Matr navami-Bhadra K 9. Matsya dvadasi-Margaśīrṣa S 12. Mattu Pongal (South India) —The day after Pongal. Mauna ekadasi (Jain)--Mārgaśīrṣa S 11. Mauni amāvasya (Uttar Pradesh)-Pauṣa K 30. Meru trayodaśí (Jain) - Pauṣa K 13. Mitra saptami-Margaśırṣa S 7. Mohini ekādasi-Vaisakha S 11. Mokṣada ekādaśí —Margaśırṣa S 11. Muktabharana vrata-Bhadra S 7. Malakarūpini ṣaṣthi-Margasirsa S 6. Malaṣtami (Orissa)—Bhadra K 8. 
 
 Lakṣmīnārāyana ekādaśī (Orissa)-S 11 of any month 
 
@@ -19049,7 +19049,7 @@ Purnima of saura Caitra (see p. 106 ). Papamocani ekadasi-Phalguna K 11. Parasur
 
 Margaśirṣa. Paśankuśa (papāňkusa) ekadası-Asvina S 11. Pauṣa daśami (Jain)-Margaśirṣa K 10. Phagu daśamı (Orissa)-Phalguna S 10. Phalaharini Kalika paja (Bengal)-Vaisakha K 30. Phuladola (Bengal & Orissa)--Vaisakha S 15. Pipitaki dvadasi (Bengal)—Vaisakha S 12. Pithori amāvasyā—Śrāvana K 30. Pongal (South India)-The day of transit of the 
 
-sun into Makara of the religious calendar. Prabodhani ekādasi --Kārtika S 11. Prabodhanotsava-Kartika S 12. Prathamaṣtami (Orissa)-Kartika K 8. Prävarana ṣaṣthi (Orissa)-Margaśirṣa $ 6. Punaryātrā-Aṣadha S 10 (9th day from Rathayātra). Papāṣtaka-Mārgaśīrṣa K 8. Puskar Fair (Ajmer)—Kārtika S 15. Puṣyābhisekayātrā - Pauṣa S 15 (Special when 
+sun into Makara of the religious calendar. Prabodhani ekādasi --Kārtika S 11. Prabodhanotsava-Kartika S 12. Prathamaṣtami (Orissa)-Kartika K 8. Prāvarana ṣaṣthi (Orissa)-Margaśirṣa $ 6. Punaryātrā-Aṣadha S 10 (9th day from Rathayātra). Papāṣtaka-Mārgaśīrṣa K 8. Puskar Fair (Ajmer)—Kārtika S 15. Puṣyābhisekayātrā - Pauṣa S 15 (Special when 
 
 combined with Puṣya nakṣatra). Putrada ekadası-Srāvana S 11, Pausa S 11. 
 
@@ -19099,7 +19099,7 @@ Tala navami (Bengal & Orissa)-Bhadra S 9. Tapaḥ ṣaṣthi (Orissa)--Asvina $ 
 
 (see p. 106). Thai paṣam Puṣya nakṣatra of saura Māgha 
 
-(see p. 106). Tila caturth1--Māgha S 4. Tila samkrānti-The day of transit of the sun into 
+(see p. 106). Tila caturth1--Māgha S 4. Tila saṁkrānti-The day of transit of the sun into 
 
 Makara of the religious calendar.. Trilocanaṣtami (Bengal)-Vaisakha K 8. Tripurotsava-Kartika S 15. Trisprsā mahadvadasi-When 11th, 12th & 13th 
 
@@ -19925,7 +19925,7 @@ Bewabay and Saurashtra Bombay and Saurashtra Assam
 
 K 8 of Saura 
 
-Bhädra with Rohiņi nak 
+Bhādra with Rohiņi nak 
 
 satra Srāvana K 13 Aug. 26 Srāvana K 30 Aug. 28 $ 2 of Saura Aug. 30 
 
@@ -20155,7 +20155,7 @@ Oct. 12
 
 3. Mahāla yā Amāvasyā, i Madhya Pradesh, Madras, Bhādra K 30 
 
-Pits mokṣa Amävasyā, ; Orissa, West Bengal, Pitr Amāvagyā, Sarva Jammu & Kashmir, Pitr Amāvasyā 
+Pits mokṣa Amāvasyā, ; Orissa, West Bengal, Pitr Amāvagyā, Sarva Jammu & Kashmir, Pitr Amāvasyā 
 
 Madhya Bharat, Mysore, Rajasthan, Coorg and 
 
@@ -20325,7 +20325,7 @@ Birthday
 
 Himachal Pradesh 49. Dhan Teras Saurashtra and Kutch | Āśvina K 13 50. Naraka Caturdasī, Bombay, Mysore, Sau-" Aøvina K 14 
 
-Käli Caudas 
+Kāli Caudas 
 
 rashtra and Kutch Kali Pūjā 
 
@@ -22227,7 +22227,7 @@ Dates of Festivals
 
 1958-59 Saka 1880 
 
-Indian New Year's Day* Meṣa Samkrānti Independence Day Mahatma Gandhi's Birthday English New Year's Day Netaji's Birthday Republic Day Mahāviṣuya Day* 
+Indian New Year's Day* Meṣa saṁkrānti Independence Day Mahatma Gandhi's Birthday English New Year's Day Netaji's Birthday Republic Day Mahāviṣuya Day* 
 
 1954-55 Śaka 1876 Mar. 22 Apr, 13 Aug. 15 Oct. 2 Jan. 1: Jan. 23 Jan. 26 Mar. 21, 
 
@@ -22249,7 +22249,7 @@ Mar. 22 Apr. 13 Aug. 15 Oct. 2 Jan. 1 Jan: 23 Jan. 26 Mar. 21,
 
 1959 
 
-Daśabarā Rathayātrā Punaryätrā Jhulanayātrā Janmāṣtami Mabālayā Amāvasyā Durgā Pūjā Lakṣmi Pūjā Kāli Pūjā Bbrāts Dvitīyā Jagaddhātri Pūjā Sri Pañcami Mabāśivarātri 
+Daśabarā Rathayātrā Punaryātrā Jhulanayātrā Janmāṣtami Mabālayā Amāvasyā Durgā Pūjā Lakṣmi Pūjā Kāli Pūjā Bbrāts Dvitīyā Jagaddhātri Pūjā Sri Pañcami Mabāśivarātri 
 
 June 11 July 2 July 10 Aug. 10 Aug. 21 Sep. 26 Oct. 4-7 Oct. 11 Oct. 25 Oct. 28 Nov. 5 Jan. 28 Feb. 20 
 
@@ -22335,7 +22335,7 @@ Dates of Festivals
 
 Indian Now Year's Day* Independence Day Mahatma Gandhi's Birthday English New Year's Day 
 
-Tila Samkrānti Republic Day Mahāviṣuva Day* 
+Tila saṁkrānti Republic Day Mahāviṣuva Day* 
 
 (Jamshedi Nauroj) 
 
@@ -22361,7 +22361,7 @@ Mar. 22 Aug 15 Oct. 2 Jan. 1 Jan. 14 Jan. 26 Mar. 21,
 
 Ramanavami Mabāyir's Birthday Raksā. Bandhana Gokulāstami Ganosa Caturthi 
 
-Ananta Caturdasī Dasgera Diwali. Guru Nanak's Birthday Guru Govinda Singh's Birthday Mahäsivarātri 
+Ananta Caturdasī Dasgera Diwali. Guru Nanak's Birthday Guru Govinda Singh's Birthday Mahāsivarātri 
 
 Apr. 11 Apr. 15 Aug. 14 Aug. 21 Sep., 1 Sep. 11 Oct. 6-7 Oct. 25-26 Nov. 10 Jan. 1 Feb. 20 
 
@@ -22623,7 +22623,7 @@ Dates of Festivals
 
 1958-59 Saka 1880 
 
-Indian New Year's Day* Independence Day Mahatma Gandhi's Birthday English New Year's Day Tila Samkrānti Republic Day Mahāviṣuya Day* 
+Indian New Year's Day* Independence Day Mahatma Gandhi's Birthday English New Year's Day Tila saṁkrānti Republic Day Mahāviṣuya Day* 
 
 (Nauroj) 
 
@@ -23467,7 +23467,7 @@ Sep. 9 Sept. 9 Sep. Mahatma Gandhi's Birthday
 
 Oct. 2 Oct. 2 Oct. 2 English New Year's Day 
 
-Jan. 1 Jan. 1 Jan. 1 Jan. Tila Samkrānti 
+Jan. 1 Jan. 1 Jan. 1 Jan. Tila saṁkrānti 
 
 Jan. 14 .Jan. 14 Jan. 13 Jan. Republic Day 
 
@@ -24247,7 +24247,7 @@ Mar. 31,
 
 1957 Apr. 8 
 
-Värupi 
+Vārupi 
 
 Mar. 22, 
 
