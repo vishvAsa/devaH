@@ -16,11 +16,12 @@ unicode_script: devanagari
 ## Siderial vs synodic month
 Because the Earth is constantly moving along its orbit about the Sun, the Moon must travel slightly more than 360° to get from one new moon to the next. Thus, the synodic month, or lunar month, is longer than the sidereal month. A sidereal month lasts 27.322 days, while a synodic month lasts 29.531 days.
 
+## Saros
 Saros is a period of exactly 223 synodic months (approximately 6585.3211 days, or 18 years, 11 days, 8 hours), that can be used to predict eclipses of the Sun and Moon. One saros period after an eclipse, the Sun, Earth, and Moon return to approximately the same relative geometry, a near straight line, and a nearly identical eclipse will occur, in what is referred to as an eclipse cycle. A sar is one half of a saros.
 
 ## सौर-चान्द्रम् उत्तरायणम्, विषुवादिकञ्च।
 - सौरचान्द्र-उत्तरायणे वैदिक\-वर्षारम्भः।
-    - "पुनरपि शुक्लप्रतिपदात एव अयनस्य मासस्य ऋतोश्च व्यवहारो भवतीति कारणात्, सूर्यस्य दृक्सिद्धादुत्तरायणकालात् निर्धार्यमाणस्य तपोमासस्य (माघमासस्य)शुक्लप्रतिपदाया आरभ्य, सहस्यामावास्यायां समाप्तिं गच्छन् वत्सर एव देवानामप्यहोरात्रत्वेन गृह्यते न तु शुद्धात् सौरोत्तरायणादिति शम् ।" 
+    - "पुनरपि शुक्लप्रतिपदात एव अयनस्य मासस्य ऋतोश्च व्यवहारो भवतीति कारणात्, सूर्यस्य दृक्सिद्धाद् उत्तरायणकालात् निर्धार्यमाणस्य तपोमासस्य (माघमासस्य)शुक्लप्रतिपदाया आरभ्य, सहस्यामावास्यायां समाप्तिं गच्छन् वत्सर एव देवानामप्यहोरात्रत्वेन गृह्यते न तु शुद्धात् सौरोत्तरायणादिति शम् ।" 
 - सद्यःकालीन उत्तरायणभ्रान्तौ "[सौरमानम्](../saura-mAnam/) =\> [अयनारम्भः](../saura-mAnam/solstice/)" इत्यस्मिन् द्रष्टव्यम्।
 
 ### फाल्गुनय् उत्तरायणम्
