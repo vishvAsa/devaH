@@ -1,5 +1,5 @@
 +++
-title = "Units of time and Adhikamasa (intercalary month)"
+title = "2 Units of time and Adhikamasa (intercalary month)"
 unicode_script = "devanagari"
 +++
 
@@ -58,7 +58,7 @@ In next article in this series detailed account of currently available version o
 
 _Note VJ= Vedanga Jyotisham and verse numbers are for Yajurvedic version of the same_
 
-**References**
+## References
 
 - Shatapatha Brahmana (12/3/2/5, 11/1/4, 11/1/5 )
 - Kautaliya Arthashastra (2/20)
