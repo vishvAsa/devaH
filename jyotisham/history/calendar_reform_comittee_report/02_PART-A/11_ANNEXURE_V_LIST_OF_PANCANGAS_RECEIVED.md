@@ -93,7 +93,7 @@ Melapavur, Dist. Tirunelvelli. 35. Drigganitha Panchangam (Tamil)
 
 Thillai Vasam, Madduvil North 
 
-Chavakachcheri, S. India. 36. Bharatiya Ephemeries of Planets' Positions 
+Chavakachcheri, S. India. 36. Bharatīya Ephemeries of Planets' Positions 
 
 (Telegu) P.O. Podagatlapalli, Dist. East Godavari. 37. Pathuri Vari Panchang ( Telegu) 
 

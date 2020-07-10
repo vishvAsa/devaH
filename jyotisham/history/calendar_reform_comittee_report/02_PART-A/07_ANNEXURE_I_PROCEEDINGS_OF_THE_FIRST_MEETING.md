@@ -38,13 +38,14 @@ While making those suggestions before you I am aware of the difficulties. Calend
 
 6. The Chairman on behalf of the Committee, gratefully thanked the Deputy Minister for having graced the occasion by his presence and having inaugurated the work of the Committee. The Deputy Minister had laid down the lines on which the Committee may proceed. With the encouragement of the Government, the Committee hoped to be able to accomplish the desired objective, for without State support the discussions would be dead letter. 
 
-7. The Chairman pointed out that in India there were 30 or more different calendars. In Banaras alone they had four calendars and it was quite common that important Hindu festivals like Ganeśa Caturthi and Sarasvati Pujā were celebrated on different days in different parts of the country or even at the same city as happened this year at Calcutta. The Committee should aim at placing before the Government proposals for a uniform scientific calendar which would be acceptable to all. The task was not an easy matter. 
+7. The Chairman pointed out that in India there were 30 or more different calendars. In Banaras alone they had four calendars and it was quite common that important Hindu festivals like Ganeśa Caturthī and Sarasvatī Pūjā were celebrated on different days in different parts of the country or even at the same city as happened this year at Calcutta. The Committee should aim at placing before the Government proposals for a uniform scientific calendar which would be acceptable to all. The task was not an easy matter. 
 
-8. Tracing out the history of the movement for calendar reform, the Chairman said that the idea was not a new one. The Indian luni-solar calendar up to 400 A.D. was very crude, but great astronomers of India after 400 A.D. in Pataliputra, Bhilmal in Rajasthan and in Ujjain particularly had made very great contributions to mathematical knowledge, to astronomy and to other branches of science. They 
+8. Tracing out the history of the movement for calendar reform, the Chairman said that the idea was not a new one. The Indian luni-solar calendar up to 400 A.D. was very crude, but great astronomers of India after 400 A.D. in Pataliputra, Bhilmal in Rajasthan and in Ujjain particularly had made very great contributions to mathematical knowledge, to astronomy and to other branches of science. They laid down the formulæ for the future generations and advised them to get their calculations verified by means of observations of the sun, the moon and the planets, which are our time-makers. 
 
-laid down the formulæ for the future generations and advised them to get their calculations verified by means of observations of the sun, the moon and the planets, which are our time-makers. 
+13. The great pioneer of calendar-studies was Sankara Balakrishna Dixit, whose history of Bharatīya Jyotiṣa-śāstra is a standard authoritative work, but his work is in Marathi and unaccessible to majority of India. The Chairman expressed the hope that it should be translated into English for the use of all.* 
 
-13. The great pioneer of calendar-studies was Sankara Balakrishna Dixit, whose history of Bharatiya Jyotiṣa-Sastra is a standard authoritative work, but his work is in Marathi and unaccessible to majority of India. The Chairman expressed the hope that it should be translated into English for the use of all.* 
+\* The Council of Scientific anda Industrial Research has since made arrangements for having the book translated into English and Prof. R. V. Vaidya, a member of the Committee has been entrusted with the work. 
+
 
 9. At the present moment, the Ahargana or the heap of days is in usage for accurate chronological calculations. The idea was first evolved by Hindu astronomers about 400 A.D. This was invented only in the 16th century in Europe by Joseph Scaliger. The Siddhantic astronomers started the year from the day after the Vernal Equinox but the older tradition was, as many Indian savants had pointed out, to begin the calendar from Winter Solstice. 
 
@@ -64,7 +65,6 @@ laid down the formulæ for the future generations and advised them to get their 
 
 12. In India, the idea of Indian Calendar reform originated from Maharashtra Lokamanya Shri Bal Gangadhar Tilak well-known as a great political figure of the last generation was, as is well-known, a great savant and antiquarian and initiated calendar reform in Maharashtra. He started a new reformed calendar which is still being published at Poona. 
 
-* The Council of Scientific and Industrial Research has since made arrangements for having the book translated into English and Prof. R. V. Vaidya, a member of the Committee has been entrusted with the work. 
 
 12 
 

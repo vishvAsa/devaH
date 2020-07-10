@@ -201,7 +201,7 @@ College, 51 Budhwar, Poona City. Letter advocating,
 
 (i) Reform of World Calendar. (ii) Reform of Indian Calendar :-- 
 
-(a) Length of the year to be 3658 56 48 576.65 (b) Beginning of the year to be 22nd December or 21st March (c) Number of days of the months as follows :-30, 30, 30, 30, 31, 31, 31, 31, 31, 30, 30, 30, (a) Standard meridian of India as that of Banaras or Delhi, (o) Names of the months should be the Vedic names, viz., Tapas, Tapasya etc., (f) Name of the calendar to be “Bharatiya Saura Kālāyana." 
+(a) Length of the year to be 3658 56 48 576.65 (b) Beginning of the year to be 22nd December or 21st March (c) Number of days of the months as follows :-30, 30, 30, 30, 31, 31, 31, 31, 31, 30, 30, 30, (a) Standard meridian of India as that of Banaras or Delhi, (o) Names of the months should be the Vedic names, viz., Tapas, Tapasya etc., (f) Name of the calendar to be “Bharatīya Saura Kālāyana." 
 
 V 
 

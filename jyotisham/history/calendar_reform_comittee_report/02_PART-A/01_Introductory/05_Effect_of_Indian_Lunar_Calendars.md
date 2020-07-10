@@ -25,7 +25,7 @@ The Committee has made another radical departure. According to conventions laid 
 
 
 
-If the different almanac-makers calculate the tithi not according to the Nautical Almanac, but according to different Indian astronomical treatises, the moment of the tithi may differ by as much as five hours, and the same festival, say the Dussera (or Durga Pujā) may be fixed on two successive days in the same city, as happend in Calcutta in the case of Durga Pujā in 1952 and Sarasvati Puja in 1953. Which set of Pandits is to be followed by the Government in fixing up the date of holidays in such cases ? 
+If the different almanac-makers calculate the tithi not according to the Nautical Almanac, but according to different Indian astronomical treatises, the moment of the tithi may differ by as much as five hours, and the same festival, say the Dussera (or Durga Pūjā) may be fixed on two successive days in the same city, as happend in Calcutta in the case of Durga Pūjā in 1952 and Sarasvatī Puja in 1953. Which set of Pandits is to be followed by the Government in fixing up the date of holidays in such cases ? 
 
 
 
