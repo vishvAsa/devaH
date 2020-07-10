@@ -117,7 +117,7 @@ Board, The Sandesh Pratyaksha Panchang, 22, Saraswati Society, Sarkhej Road. Ahm
 
 Letter dated 1. 5. 53. 
 
-(i) The initial point of the fixed zodiac to be decided, (ii) Favours acceptance of the modern elements of planetary motion in pancānga calculations. Letter dated 26. 2. 54. 
+(i) The initial point of the fixed zodiac to be decided, (ii) Favours acceptance of the modern elements of planetary motion in pañcāṅga calculations. Letter dated 26. 2. 54. 
 
 (i) Suggests collection of opinion from the compilers of dřggaạita almanacs by votes on the following two items : (a) whether the year should be tropical or sidereal, (b) ayanāṁśa on a given date ; and the opinion of the. majority members is to be accepted. (ii) Calculations of Nakṣatras and the daily Yogas ( Viṣkumbha etc.) are to be postponed till the final decision on the adoption of the amount of ayanāṁśa. (iii) Nearly 60 almanacs in India are following Citrā-paksa whose ayanāṁsa is nearly 23° 12' on 21. 3. 54 and as such adoption of Citrā paksa in fixing the initial point of the nirayaņa zodiac is suggested. 
 

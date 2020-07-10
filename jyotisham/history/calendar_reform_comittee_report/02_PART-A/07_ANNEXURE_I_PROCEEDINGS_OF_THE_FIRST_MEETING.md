@@ -97,7 +97,7 @@ According to the other proposal the year was to consist of **4 quarters, each of
 25. The general question as to whether or not Government of India should undertake reform of the various Hindu calendars in India and have one uniform calendar for the whole of India was discussed. 
 
 ## Constraints
-Dr. Gorakh Prasad said that it will be in the fitness of things for the Government to initiate the reform and pointed out that only minimum necessary changes in the prevailing custom should be effected to avoid public resentment and opposition. He emphasized this point. He also pointed out that in the past there had been hero worship and guru-worship and due to personal animosity and financial considerations several anomalies have crept in. Even today pancānga making was a financial proposition. Astrology flourished on the principle “Remember it if it fits and forget it if it misses." 
+Dr. Gorakh Prasad said that it will be in the fitness of things for the Government to initiate the reform and pointed out that only minimum necessary changes in the prevailing custom should be effected to avoid public resentment and opposition. He emphasized this point. He also pointed out that in the past there had been hero worship and guru-worship and due to personal animosity and financial considerations several anomalies have crept in. Even today pañcāṅga making was a financial proposition. Astrology flourished on the principle “Remember it if it fits and forget it if it misses." 
 
 Shri Lahiri said that proposals concerning religious festivals should be got ratified by eminent Pandits. 
 
@@ -105,7 +105,7 @@ Prof. Vaidya said that as we have got a democracy, Government of the people and 
 
 Dr. Daftari pointed out, however, that the Committee had been definitely assigned the task of submitting proposals to the Government for a reform in the calendar and as such the general question whether the Government should undertake it or not did not arise. He laid emphasis on the fact that our present calendars were absurd in the sense that the seasons were moving backward and wanted that this should be stopped. 
 
-The Committee **resolved that a National Solar Calendar for civil purposes** should be prepared by the Committee under the auspices of the Central Government and that **the lunar pancānga should be pegged on to this** calendar. 
+The Committee **resolved that a National Solar Calendar for civil purposes** should be prepared by the Committee under the auspices of the Central Government and that **the lunar pañcāṅga should be pegged on to this** calendar. 
 
 ## World calendar reform
 26. Whether India should support the proposals of the W.C.A. was discussed. 
@@ -132,7 +132,7 @@ Dr. Gorakh Prasad pointed out that a suggestion to shift the year back by 23 day
 
 Dr. Daftari opined that this error of 23 days can be left over as it was and allowed to remain as a permanent constant error. The increase of the error should be stopped. 
 
-Shri Karandikar said that the Government should have a solar year beginning from Vernal Equinox. He desired the length of the year to be tropical. He suggested that after shifting back by 23 days the V. E. day, viz., 21st March may be the beginning of the solar year, but the pancāngas may start the lunar year from Caitra suklādi. 
+Shri Karandikar said that the Government should have a solar year beginning from Vernal Equinox. He desired the length of the year to be tropical. He suggested that after shifting back by 23 days the V. E. day, viz., 21st March may be the beginning of the solar year, but the pañcāṅgas may start the lunar year from Caitra suklādi. 
 
 
 ## 29. Vernal Equinox & Winter Solstice. 

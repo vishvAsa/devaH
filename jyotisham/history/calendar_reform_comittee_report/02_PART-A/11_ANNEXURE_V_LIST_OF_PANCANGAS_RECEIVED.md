@@ -3,7 +3,7 @@ title = "11 ANNEXURE V LIST OF PANCANGAS RECEIVED"
 
 +++
 
-The following pancāngas have been received from different parts of India in response to the request issued through the Press in March, 1953, for furnishing the office with three copies of the pancāngas covering the year 1953-54. 
+The following pañcāṅgas have been received from different parts of India in response to the request issued through the Press in March, 1953, for furnishing the office with three copies of the pañcāṅgas covering the year 1953-54. 
 
 1. Janmabhoomi (Gujrati ) 
 
