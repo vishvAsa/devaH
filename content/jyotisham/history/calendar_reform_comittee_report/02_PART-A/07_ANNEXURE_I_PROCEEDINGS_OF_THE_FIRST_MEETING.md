@@ -3,87 +3,42 @@ title = "07 ANNEXURE I PROCEEDINGS OF THE FIRST MEETING"
 
 +++
 
-The first meeting of the Indian Calendar Reform 4. Shri K. D. Malaviya, Deputy Minister, Natural Committee, C.S.I.R., was held at 10 A.M. on Saturday, Resources and Scientific Research, Government of the 21st February, 1953, in the C.S.I.R. Secretariat India, inaugurated the first meeting of the Calendar Buildings, Old Mill Road, New Delhi. The meeting Reform Committee. Shri Malaviya said :-- continued also on the 23rd February, 1953. 
+The first meeting of the Indian Calendar Reform Committee, C.S.I.R., was held at 10 A.M. on Saturday, the 21st February, 1953, in the C.S.I.R. Secretariat Buildings, Old Mill Road, New Delhi. The meeting continued also on the 23rd February, 1953. 
+The following were present :
+- Prof. M. N. Saha, Chairman 
+- Dr. K.L. Daftari, Member 
+- Dr. Gorakh Prasad, Shri J. S. Karandikar, Shri N. C. Lahiri, Prof. R. V. Vaidya, Shri A. Ghosh, 
+- By invitation Dr. P. K. Kichlu, Dr. Lal C. Verman, Shri S. Basu, Shri K. G. Krishnamurthi, Asst. Secy., C.S.I.R. 
 
-"It is my very pleasant duty to extend to the Members The following were present : 
+2. The Hon'ble Shri K. D. Malaviya, Deputy Minister, Natural Resources & Scientific Research, inaugurated the proceedings. 
 
-of the Calendar Reform Committee a hearty welcome on Prof. M. N. Saha, 
+3. The Prime Minister, who could not be personally present, sent the following message : 
 
-Chairman 
+<div class="js_include" url="../../01_Intro/01_Nehrus_MESSAGE/"  newLevelForH1="2" includeTitle="true"> </div>  
 
-behalf of the Government of India. Dr. K. L. Daftari, 
+4. Shri K. D. Malaviya, Deputy Minister, Natural Resources and Scientific Research, Government of India, inaugurated the first meeting of the Calendar Reform Committee. Shri Malaviya said : 
 
-Member Dr. Gorakh Prasad, 
+"It is my very pleasant duty to extend to the Members of the Calendar Reform Committee a hearty welcome on behalf of the Government of India. 
 
-You are meeting here this morning not for any academic Shri J. S. Karandikar, 
+You are meeting here this morning not for any academic discussion on a subject of scientific interest, but for giving a practical lead to the country on a very important task, that is, of bringing about a uniformity in the Indian Calendar. You know how fundamentally important is the concept of calendar for our civilized life, for without a calendar no country can get on with its day-to-day work. 
 
-discussion on a subject of scientific interest, but for giving 
+The concept of month and year starts from accepting day as the unit. I learn that the Indian astronomers of the Siddhāntic period. 400 A.D. to 1200 A.D., were the first to invent the idea of Ahargaṇa or heap of days for time reckonings. This device was introduced into European astronomy in 1582 A.D. by Joseph Scaliger. At the same time it is said by the modern astronomers that a critical review of the Vedāṅga Jyōtiṣa calendar shows that purely Indian systems of time reckoning up to the early centuries of the Christian era were very crude compared to the contemporary Graeco-Chaldean time reckonings of the Near East. 
 
-a practical lead to the country on a very important task, Shri N. C. Lahiri, 
+It is rather strange to find that while most of Christendom, in spite of diversity of race and country, follows one single calendar which has become the world calendar, while all the Islamic countries follow also a single calendar, the different States and provinces of India have followed and are following not loss than 30 different calendars differing in the era beginning, the initial date of the year, and to some extent in the methods of calculation. Though these calendars are used for social purposes, and for fixing up the religious holidays, their very diversity causes a great deal of inconvenience to the public and the State. The same holiday may be observed in different parts of the country and even in the same locality at intervals of one day according to the method of calculations. In some cases, as for example, in the case of the Car Festival of Puri, the days in the Bengal and Orissa calendars have sometimes differed by as much as month. Why is it so? I understand that calendars were put on a scientific basis about 1,500 years ago : the rules laid down by our astronomers were based on scientific knowledge as then known and they always took the precaution of laying down the rule for the coming generations that they should always correct their calculations by means of exact observations of the sun, the moon and other heavenly bodies, which serve as time-keepers. 
 
-that is, of bringing about a uniformity in the Indian Prof. R. V. Vaidya, 
-
-Calendar. You know how fundamentally important is the Shri A. Ghosh, 
-
-By invitation 
-
-concept of calendar for our civilized life, for without a Dr. P. K. Kichlu, 
-
-calendar no country can get on with its day-to-day work. Dr. Lal C. Verman, Shri S. Basu, 
-
-The concept of month and year starts from accepting Shri K. G. Krishnamurthi, Asst. Secy., C.S.I.R. day as the unit. I learn that the Indian astronomers of 2. The Hon'ble Shri K. D. Malaviya, Deputy 
-
-the Siddhāntic period, 400 A.D. to 1200 A.D., were the first Minister, Natural Resources & Scientific Research, 
-
-to invent the idea of Ahargana or heap of days for time 
-
-reckonings. This device was introduced into European inaugurated the proceedings. 
-
-astronomy in 1582 A.D. by Joseph Scaliger. At the same 3. The Prime Minister, who could not be 
-
-time it is said by the modern astronomers that a critical personally present, sent the following message : 
-
-review of the Vedānga Jyotiṣa calendar shows that purely "I am glad that the Calendar Reform Committee has 
-
-Indian systems of time reckoning up to the early centuries started its labours. The Government of India has entrusted 
-
-of the Christian era were very crude compared to the to it the work of examining the different calendars followed 
-
-contemporary Graeco-Chaldean time reckonings of the in this country and to submit proposals to the Government 
-
-Near East. for an accurate and uniform calendar based on a scientific study for the whole of India. I am told that we have at It is rather strange to find that while most of present thirty different calendars, differing from each other Christendom, in spite of diversity of race and country, in various ways, including the methods of time reckoning. follows one single calendar which has become the world These calendars are the natural result of our past political calendar, while all the Islamic countries follow also a single and cultural history and partly represent past political calendar, the different States and provinces of India have divisions in the country. Now that we have attained followed and are following not less than 30 different independence, it is obviously desirable that there should be calendars differing in the era beginning, the initial date of a certain uniformity in the calendar for our civic, social the year, and to some extent in the methods of calculation. and other purposes and that this should be based on a Though these calendars are used for social purposes, and scientific approach to this problem. 
-
-for fixing up the religious holidays, their very diversity It is true that for Governmental and many other public causos a great deal of inconvenience to the public and the purposes we follow the Gregorian calendar, which is used State. The same holiday may be observed in different in the greater part of the world. The mere fact that it is parts of the country and even in the same locality at largely used, makes it important. It has many virtues, intervals of one day according to the method of calculations. but even this has certain defects which make it unsatisfactory In some cases, as for example, in the case of the for universal use. 
-
-Car Festival of Puri, the days in the Bengal and It is always difficult to change a calendar to which Orissa calendars have sometimes differed by as much as a people are used, because it affects social practices. But · month. Why is it so ? I understand that calendars were the attempt has to be made even though it may not be as put on a scientific basis about 1,500 years ago ; the rules complete as desired. In any event, the present confusion laid down by our astronomers were based on scientific in our own calendars in India ought to be removed. 
-
-knowledge as then known and they always took the precau I hope that our scientists will give a lead in this tion of laying down the rule for the coming generations that 
-
-they should always correct their calculations by means of 
-
-matter." 
-
-· 
-
-O.R. -2 
-
-10 
-
-exact observations of the sun, the moon and other heavenly bodies, which serve as time-keepers: 
-
-Up to 1200 A.D., before India passed under foreign invaders, our astronomers at Ujjain and other centres, always took the trouble of correcting their calculations from direct observations of the heavenly bodies. But, after 1200 A.D., the indigonous centres of astronomical study were all broken up, and the new rulers did not take the trouble of setting up fresh centres till towards the end of the Moghul rule, when Maharja Jai Singh of Amber established five observatorios at Ujjain, Jaipur and other centres for astronomical studies after the pattern of the famous obser vatory of Ulugh Begh at Samarkand. Our calendar-makers, being for long left to their own resources, and having no astronomical observatories had to fall back for calculations on rules which were insufficient and incorrect and which vitiated all the results. Therefore, confusion crept in the calendars, and they have become diversified according to local usage and customs. This condition is representative of 800 years of suppression, and is symbolic of the history of India. 
+Up to 1200 A.D., before India passed under foreign invaders, our astronomers at Ujjain and other centres, always took the trouble of correcting their calculations from direct observations of the heavenly bodies. But, after 1200 A.D., the indigenous centres of astronomical study were all broken up, and the new rulers did not take the trouble of setting up fresh centres till towards the end of the Moghul rule, when Maharja Jai Singh of Amber established five observatories at Ujjain, Jaipur and other centres for astronomical studies after the pattern of the famous observatory of Ulugh Begh at Samarkand. Our calendar-makers, being for long left to their own resources, and having no astronomical observatories had to fall back for calculations on rules which were insufficient and incorrect and which vitiated all the results. Therefore, confusion crept in the calendars, and they have become diversified according to local usage and customs. This condition is representative of 800 years of suppression, and is symbolic of the history of India. 
 
 Now that we are an independent nation and are making all efforts to bring about integration in our national life, it is obvious that an important item like the calendar cannot be left in the present confused state. We use for civil and administrative purposes the Gregorian Calendar which has been imposed by the British Rulers. This calendar is not their invention but like the Roman script, it was imposed on them by their Roman civilisers who got it partly from Egypt. On account of the dominance of the Christian powers during the last two centuries, it has become the World Calendar. But on principle it is a very inconvenient and unscientific calendar compared to ours, and needs reform. 
 
-There is a proposal before the U.N.O. by the World Calendar Association for the revision of the Gregorian calendar. One of the tasks of the present Committee would be to make suggestions to this world-body for the evolution of a world calendar which will be scientific and can command the consent of all nations. Our Moham medan fellow citizens will continue to use the Hedjira calendar for fixing their religious holidays and we leave them there. The la bours of the present Calendar Committee is to make a scientific study of all the calendars of indigenous origin, and make suggestions for a unified calendar for the guidance of administration, for social purposes, and as far as practicable, for fixing up the religious holidays for India. I am assured by my astronomical friends assembled here that this is quite possible. We shall be looking forward to your evolving a formula which would be acceptable to the different people and States of India, and the Government of India will give serious considerations to the adoption of your proposals. I need hardly add that this should be based on science, should take due consideration of the customs and religious festivals in different parts of the country and at the same time would be a calendar which the different communities and States can adopt. 
+There is a proposal before the U.N.O. by the World Calendar Association for the revision of the Gregorian calendar. One of the tasks of the present Committee would be to make suggestions to this world-body for the evolution of a world calendar which will be scientific and can command the consent of all nations. Our Mohammedan fellow citizens will continue to use the Hedjira calendar for fixing their religious holidays and we leave them there. The labours of the present Calendar Committee is to make a scientific study of all the calendars of indigenous origin, and make suggestions for a unified calendar for the guidance of administration, for social purposes, and as far as practicable, for fixing up the religious holidays for India. I am assured by my astronomical friends assembled here that this is quite possible. We shall be looking forward to your evolving a formula which would be acceptable to the different people and States of India, and the Government of India will give serious considerations to the adoption of your proposals. I need hardly add that this should be based on science, should take due consideration of the customs and religious festivals in different parts of the country and at the same time would be a calendar which the different communities and States can adopt. 
 
-While making those suggestions before you I am aware of the difficulties. Calendar reform can be suggested by scientists, but it can be carried into practice only by those who have religious or political authority. The ancient Roinan calendar could be reformed only by a dictator like Julius Caesar, and later on by the religious dictator of Christendom, Pope Gregory XIII, and the ancient luni-solar calondar only by the authority of the Prophet. But we are now under a democracy. Whatever proposals you may make would have to be submitted to the public for their opinion, and I am quite sure that our public would not resent any innovation simply because it is a new thing, just as they do not reject electricity or new machines. I hope the public response would be encouraging and the Government would find it possible to give serious consideration to your proposals." 
+While making those suggestions before you I am aware of the difficulties. Calendar reform can be suggested by scientists, but it can be carried into practice only by those who have religious or political authority. The ancient Roman calendar could be reformed only by a dictator like Julius Caesar, and later on by the religious dictator of Christendom, Pope Gregory XIII, and the ancient luni-solar calendar only by the authority of the Prophet. But we are now under a democracy. Whatever proposals you may make would have to be submitted to the public for their opinion, and I am quite sure that our public would not resent any innovation simply because it is a new thing, just as they do not reject electricity or new machines. I hope the public response would be encouraging and the Government would find it possible to give serious consideration to your proposals." 
 
 5. Prof. M. N. Saha, the Chairman, on behalf of the members of the Committee, expressed grateful thanks to the Prime Minister for his kind message. The Committee regretted that the Prime Minister could not personally inaugurate the deliberations of the Committee. Prof. Saha, however, assured the Committee that the Prime Minister had his heart and soul in the matter, and that he wanted the Committee to get on with its work and evolve scientific proposals for preparation of a uniform calendar for the whole of India and for the benefit of the country. 
 
 6. The Chairman on behalf of the Committee, gratefully thanked the Deputy Minister for having graced the occasion by his presence and having inaugurated the work of the Committee. The Deputy Minister had laid down the lines on which the Committee may proceed. With the encouragement of the Government, the Committee hoped to be able to accomplish the desired objective, for without State support the discussions would be dead letter. 
 
-7. The Chairman pointed out that in India there were 30 or more different calendars. In Banaras alone they had four calendars and it was quite common that important Hindu festivals like Ganesa Caturthi and Sarasvati Pujā were celebrated on different days in different parts of the country or even at the same city as happened this year at Calcutta. The Committee should aim at placing before the Government proposals for a uniform scientific calendar which would be acceptable to all. The task was not an easy matter. 
+7. The Chairman pointed out that in India there were 30 or more different calendars. In Banaras alone they had four calendars and it was quite common that important Hindu festivals like Ganeśa Caturthi and Sarasvati Pujā were celebrated on different days in different parts of the country or even at the same city as happened this year at Calcutta. The Committee should aim at placing before the Government proposals for a uniform scientific calendar which would be acceptable to all. The task was not an easy matter. 
 
 8. Tracing out the history of the movement for calendar reform, the Chairman said that the idea was not a new one. The Indian luni-solar calendar up to 400 A.D. was very crude, but great astronomers of India after 400 A.D. in Pataliputra, Bhilmal in Rajasthan and in Ujjain particularly had made very great contributions to mathematical knowledge, to astronomy and to other branches of science. They 
 
