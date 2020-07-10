@@ -427,7 +427,7 @@ The present duration of a lunation=29:5305881 days or 294 12h 44m 2.8. There are
 
 In some countries, the ancients took the year to be the period when the sun returned to the same point in its path (the ecliptic). This is the time of revolution of the earth in its orbit round the sun. The tropical year, or the year of seasons, is the time of passage of the sun from one vernal equinox to the next vernal equinox. The two years would have been the same, if the vernal equinoctial point (hereafter called the vernal point) were fixed. But as narrated in Chapter IV, it recedes to the west at the rate of 50" per year. The tropical year is there fore less than the sidereal year by the time taken by the sun to traverse 50", i.e., by .014167 days or 204 246. 
 
-For calendarical purpose, it is unmeaning to use the sidereal year (3654.256362), as then the dates would not correspond to seasons. The use of the tropical year is enjoined by the Hindu astronomical treatises like the Sūrya Siddhanta and the Pasca Siddhāntikā. But these passages have been misunder stood, and Indian calendar makers have been using the sidereal year with a somewhat wrong length since the fifth century A.D. 
+For calendarical purpose, it is unmeaning to use the sidereal year (3654.256362), as then the dates would not correspond to seasons. The use of the tropical year is enjoined by the Hindu astronomical treatises like the Sūrya Siddhānta and the Pasca Siddhāntikā. But these passages have been misunder stood, and Indian calendar makers have been using the sidereal year with a somewhat wrong length since the fifth century A.D. 
 
 The Year and the Seasons : The year is the period taken by the seasonal characteristics to recur. The early people had but a vague notion of the length of the year in terms of the day. In the earliest mythology of most nations, the year was taken to have comprised 360 days, consis ting of 12 months each of 30 days. They apparently thought that the moon's phases recur at intervals of 30 days. 
 
@@ -507,7 +507,7 @@ The broad divisions of the day were secured by the Hindus in two ways. They divi
 
 As the durations of day and night are not equal except on the vernal and autumnal equinox days, the prahara and muhurta of the day-time have not the same durations as those of their nocturnal counterparts, On equinox days, they are however equal, when 
 
-the same as the number of minutes ( kala or liptika :) in a circle. In Siddhantas (astronomical treatises of the Hindus) there are conceptions with nomenclatures of still smaller divisions of time, but they had no practi cal utility. 
+the same as the number of minutes ( kala or liptika :) in a circle. In Siddhāntas (astronomical treatises of the Hindus) there are conceptions with nomenclatures of still smaller divisions of time, but they had no practi cal utility. 
 
 None of the time-periods of the sun, and the moon, viz., the year and the season, and the lunations and half-lunations are integral multiples of the day ; on the other hand, the figures run to several places of decimals. How did the ancients, who quickly dis covered that the time-periods were not integral multi ples of the day, express their findings? 
 
@@ -549,7 +549,7 @@ We have therefore devoted Chap. IV to calendaric astronomy, which was evolved by
 
 In Chap. V, we have described the various stages of the development of the Indian calendar :--the empiri cal stage (Rg-Vedic), the mean motion stage (Vedanga 
 
-Jyotiṣa), and the scientific stage (Siddhanta Jyotiṣa). From 1200 A.D., astronomical studies became decadent in India, and we have analysed the cause of decadence, We have given a full account of precession, as most Indian calendar makers still believe in the false theory of Trepidation which disappeared from Europe after 1687 A. D. 
+Jyotiṣa), and the scientific stage (Siddhānta Jyotiṣa). From 1200 A.D., astronomical studies became decadent in India, and we have analysed the cause of decadence, We have given a full account of precession, as most Indian calendar makers still believe in the false theory of Trepidation which disappeared from Europe after 1687 A. D. 
 
 say the birth day of George Washington, it can be seen from an inspection of his birth register that it took place on Feb.11, of the year 1732. But this practice by itself does not enable à scientific chrono logist to fix up the event unambiguously on the absolute Scale of Time, unless the whole history of the particular method of date-recording is completely and accurately known One must know the lengths of the individual months, the leap-year rules, and the history of calendar reform. In the particular case mentioned, though George Washington. according to his birth register is stated to have been born on Feb. 11, 1732, his birth-day is celebrated on Feb. 22. Why? Because Feb. 11 was the date according to the Julian calendar. But in 1752, England (America was then a colony of England) adopted the reformed Gregorian calendar, and by an Act of Parliament, declared Sept. 3 to be Sept.14, a difference of 11. days. Following the Gregorian calendar, Washington's birth-day had to be shifted to Feb. 22. A scientific chronologist, say of China, would find it difficult to locate Washington's birth-day unless he knew the whole history of the Gregorian calendar. 
 
@@ -591,7 +591,7 @@ Kaliyuga
 
 17 February, 3102 B.C. ... 588,465 Nabonassar 26 February, 747 B.C. 1,448,638 Philippi 
 
-... 12 November, 324 B.C. 1,603,398 Saka era ... 15 March, 78 A.D. 1,749,621 Diocletian ... 29 August, 284 A.D. 1,825,030 Hejira ... 16 July, 622 A.D. 1,948,440 Jezdegerd ... 16 June, 632 A.D. 1,952,063 
+... 12 November, 324 B.C. 1,603,398 śaka era ... 15 March, 78 A.D. 1,749,621 Diocletian ... 29 August, 284 A.D. 1,825,030 Hejira ... 16 July, 622 A.D. 1,948,440 Jezdegerd ... 16 June, 632 A.D. 1,952,063 
 
 (Persian) Burmese era ... 21 March, 638 A.D. 1,954,167 Newar era ... 20 October, 879 A.D. 2,042,405 Jelali era ... 15 March, 1079 A.D. 2,115,236 
 
@@ -621,7 +621,7 @@ But evidently this practice involves very large numbers; and is inconvenient to 
 
 Pancasiddhāntikā of Varahamihira. (3) 587 Śaka era or 665 A.D. as is found in the 
 
-Khandakhadyaka of Brahmagupta. 854 Saka era or 932. A.D, as is found in the 
+Khandakhadyaka of Brahmagupta. 854 śaka era or 932. A.D, as is found in the 
 
 Laghumānasa of Munjala. (5) 961 Śaka era or 1039 A.D. in the Siddhānta 
 
@@ -1319,7 +1319,7 @@ Luni-solar adjustment can be satisfactorily made if we have accurate knowledge o
 
 The Egyptians appear to have been the only cultural nation of antiquity who discarded the moon entirely as a time-marker. Other contemporaneous cultural nations, e.g. the Sumero-Akkadians of Babylon, and the Vedic Indians retained both the sun and the moon as time-markers, the sun for the year, the moon for the month. 
 
-The Indian astronomers called the moon māsakrt, (month-maker) and before the Siddhanta Jyotiṣa time, the moon was considered more important as a time marker than the sun (vide $5). It was the same with other nations too, for as Pannekoek remarks, we find the opinion written in the sacred books of many nations "For regulating time, the moon has been created". 
+The Indian astronomers called the moon māsakrt, (month-maker) and before the Siddhānta Jyotiṣa time, the moon was considered more important as a time marker than the sun (vide $5). It was the same with other nations too, for as Pannekoek remarks, we find the opinion written in the sacred books of many nations "For regulating time, the moon has been created". 
 
 The retention of both the sun and the moon, however, gives rise to a multitude of problems, of which a fair summary is given by Pannekoek as follows,* 
 
@@ -1559,7 +1559,7 @@ The Parthian Era Since the introduction of the Seleucidean era, the practice aro
 
 Though kings bearing Parthian names ruled at Taxila about the first century B.C. to first century A.D., e.g., king Gondophernes, no clear evidence of the use of the Parthian era on Indian soil has yet been found. 
 
-It is very likely that the Saka era, with its methods of calendar-reckoning, which came into vogue in India during the Siddhanta Jyotiṣa times, was started by the Saka tribes when they attained prominence, and started an era of their own, in imitation of the Parthians. They, however, retained the Graeco Chaldean method of lunar month-reckoning and probably the same system of intercalary months. - 
+It is very likely that the śaka era, with its methods of calendar-reckoning, which came into vogue in India during the Siddhānta Jyotiṣa times, was started by the śaka tribes when they attained prominence, and started an era of their own, in imitation of the Parthians. They, however, retained the Graeco Chaldean method of lunar month-reckoning and probably the same system of intercalary months. - 
 
 \- 
 
@@ -1881,7 +1881,7 @@ CALENDARIC ASTRONOMY
 
 183 
 
-Later during Siddhanta Jyotiṣa times the enumeration started with Aśvini bafi Arietis).. and this tis. still reckoned to be the first of the naksatras, although the vernal point has now receded to the Uttdralltādrapada group which should accordingly be taken as the first nakṣatra. But the change has not been done because the Indian astrologers have failed to correct the calendar for the precession of equinoxes. 
+Later during Siddhānta Jyotiṣa times the enumeration started with Aśvini bafi Arietis).. and this tis. still reckoned to be the first of the naksatras, although the vernal point has now receded to the Uttdralltādrapada group which should accordingly be taken as the first nakṣatra. But the change has not been done because the Indian astrologers have failed to correct the calendar for the precession of equinoxes. 
 
 The Chinese start their Hsius with Citrā or a Virginis. This refers probably to the time when a Virginis was near the autumnal equinoctial point (285 A.D.). The Arabs start their Manzils with B Arietis (Ash-Sharaţāni). 
 
@@ -1921,7 +1921,7 @@ itt:1 1 1 1 1
 
 nible 5.–Stars of the Naksatra divisions. 
 
-Positions of the Junction Stars of Naksatta Divisions of the Siddhantas, 
+Positions of the Junction Stars of Naksatta Divisions of the Siddhāntas, 
 
 Name of 
 
@@ -2155,7 +2155,7 @@ B Delphini +31 65
 
 9 21 
 
-the position of the autumnal equinox at the time The divisions of nakṣatras shown in the table, as when the table was compiled. The figures in the last already stated, has been based on the assumption that column represent the position of the star in the naksatra the star Spica occupies the 180th degree of the lunar division of that name. It seems that a few of the zodiac. This arrangement agrees with the statement Yogatārās, vix, No. 6 Àrdrā, No. 15 Srātī, No. 18 of the Veilājiga Jyotiṣa that the Dhaniṣthā star Jyeṣthā, No. 20 Purvāṣādha, No. 21 Uttarāṣaqlā, (a or B Delphini) marked the beginning of the No. 22 Śrarana, and No. 23 Dhaniṣthā fall outside the Dhaniṣthū division, and also of the Varala's Surya nakṣatra division of which they are supposed to form the Siddhanta that Regulus (2 Leonis) is situated at the 6th Yogatārā. Matters do not improve much, if we shift degree of the Maghā division. the beginning of each division so as to place ś Piscium (Revati) at the end of the Revati division or in 
+the position of the autumnal equinox at the time The divisions of nakṣatras shown in the table, as when the table was compiled. The figures in the last already stated, has been based on the assumption that column represent the position of the star in the naksatra the star Spica occupies the 180th degree of the lunar division of that name. It seems that a few of the zodiac. This arrangement agrees with the statement Yogatārās, vix, No. 6 Àrdrā, No. 15 Srātī, No. 18 of the Veilājiga Jyotiṣa that the Dhaniṣthā star Jyeṣthā, No. 20 Purvāṣādha, No. 21 Uttarāṣaqlā, (a or B Delphini) marked the beginning of the No. 22 Śrarana, and No. 23 Dhaniṣthā fall outside the Dhaniṣthū division, and also of the Varala's Surya nakṣatra division of which they are supposed to form the Siddhānta that Regulus (2 Leonis) is situated at the 6th Yogatārā. Matters do not improve much, if we shift degree of the Maghā division. the beginning of each division so as to place ś Piscium (Revati) at the end of the Revati division or in 
 
 4.2 LONG PERIOD OBSERVATIONS OF THE MOON: other words at the beginning of the Aścini division. 
 
@@ -3677,7 +3677,7 @@ It was the Greeks who introduced geometrical methods to deal with positions of h
 
 Though the calendar, as we have seen, gave the first stimulus for the cultivation of the astronomical 
 
-It has been considered neccessary to give a short account of Greek contributions to astronomy, because there is a widespread view that it was Grezk astro nomy which formed the basis of calendar reform in India which took place about 400 A.D. ( Siddhanta Jyotiṣa calendar). Let us see how far this view is correct. The Greeks themselves appear to have made no use of astronomy for the reform of their own calendars, as was done later in India. They cultivated astronomy partly as pure science, partly as an indispensable adjunct to astrology. 
+It has been considered neccessary to give a short account of Greek contributions to astronomy, because there is a widespread view that it was Grezk astro nomy which formed the basis of calendar reform in India which took place about 400 A.D. ( Siddhānta Jyotiṣa calendar). Let us see how far this view is correct. The Greeks themselves appear to have made no use of astronomy for the reform of their own calendars, as was done later in India. They cultivated astronomy partly as pure science, partly as an indispensable adjunct to astrology. 
 
 It is now well-known that Greek civilization had a long past going back to at least 1500 B.C. The remains of this civilization have been found in Crete (Minoan), and on the Greek mainland itself (Mycenean). Inscriptions have been found in strange scripts (Linear A, and B) which defied decipherment till 1952. We have therefore as yet no knowledge of the calendar in the Mycenean age of Greece (1400 B.C.—1000 B.C.). but probably they will now be forthcoming. 
 
@@ -3763,7 +3763,7 @@ Ptolemy's chief contribution to astronomy was his elaborate theory of planetary 
 
 Ptolemy wrote a treatise on astrology known as the “Tetrabiblos" which long remained the Bible of the astrologers. 
 
-After Ptolemy, there were no great figure in astronomy except few commentators and workers of mediocre ability like Theon of Alexandria (about 370 A.D.), who initiated the false theory of trepidation of the equinoxes, and Paulus of Alexandria (fl. 378 A.D.) who wrote an 'astrological introduction. He is supposed to have been the inspirer of the Indian Siddhanta known as 'Paulisa' Siddhanta (vide $ 56), but this hypothesis started by Alberuni has never been proved. With the advent of Christianty, and after murder of the learned Hypatia (415 A.D.), the 'light' goes out of Greece. 
+After Ptolemy, there were no great figure in astronomy except few commentators and workers of mediocre ability like Theon of Alexandria (about 370 A.D.), who initiated the false theory of trepidation of the equinoxes, and Paulus of Alexandria (fl. 378 A.D.) who wrote an 'astrological introduction. He is supposed to have been the inspirer of the Indian Siddhānta known as 'Paulisa' Siddhānta (vide $ 56), but this hypothesis started by Alberuni has never been proved. With the advent of Christianty, and after murder of the learned Hypatia (415 A.D.), the 'light' goes out of Greece. 
 
 The Greek contributions to astronomy are : 
 
@@ -4605,7 +4605,7 @@ INDIAN CALENDAR
 
 213 
 
-tional period from 100 A.D. to 400 A.D. is one of the . darkest periods in Indian chronology. Due to successive invasions by Macedonian and Bactrian Greeks ( Yavanas ), Parthians (Pallavas ), Saka's and Kuṣānas, the period from 300 B.C. to 200 A.D. is one of large foreign contacts which profoundly modified Indian life in arts, sciences, sculpture and state-craft. But the history of this period was entirely forgotten and is being recovered bit by bit from inscriptions, foreign references, and from artefacts recovered in excavations of the sites occupied by invaders of this period. Let us give a bird's eye view of the history of this period, imperfect as it is, so that the reader may follow without strain our account of the transition of the Vedanga Jyotiṣa calendar to Siddhāntic calendar. 
+tional period from 100 A.D. to 400 A.D. is one of the . darkest periods in Indian chronology. Due to successive invasions by Macedonian and Bactrian Greeks ( Yavanas ), Parthians (Pallavas ), śaka's and Kuṣānas, the period from 300 B.C. to 200 A.D. is one of large foreign contacts which profoundly modified Indian life in arts, sciences, sculpture and state-craft. But the history of this period was entirely forgotten and is being recovered bit by bit from inscriptions, foreign references, and from artefacts recovered in excavations of the sites occupied by invaders of this period. Let us give a bird's eye view of the history of this period, imperfect as it is, so that the reader may follow without strain our account of the transition of the Vedanga Jyotiṣa calendar to Siddhāntic calendar. 
 
 In 323 B.C., Alexander of Macedon raided the Punjab, but this incident by itself had no such profound influence on Indian life as is generally made out. Its influence was rather indirect. In India, it gave rise to a great national movement of unification under Candragupta and Canakya. In the former empire of Darius, it gave rise to a number of Greek states which became the focus of radiation of Greek culture throughout the East. The most important were Egypt under the rule of the Ptolemies, with capital at Alexandria, and the Near East under the Seleucids with capital at Babylon, which was succeeded a few years later by Seleucia a few miles distant from later Baghdad. In 306 B.C., Candragupta ind Seleucus faced each other, but the Greek army was rolled back to the borders of modern Iran, and almost the whole of modern Afghanistan except Bactria (modern Balkh) constituting the four satrapies of the old Persian empire were ceded to India. They continued to be politically and culturally parts of India till the tenth century A.D. 
 
@@ -4613,19 +4613,19 @@ In 323 B.C., Alexander of Macedon raided the Punjab, but this incident by itself
 
 But inspite of these political happenings, Greek remained the language of culture throughout the whole Near East, from Asia Minor to North-Western. India. The Parthians since 128 B.C. called themselves 'Philhellens' or lover of Greek culture and used Greek on their coins, and the Graeco-Chaldean method of date-recording on their inscriptions. But about 140 B.C., a new power was on the move, viz., the Sakas from Central Asia ; they began to emerge as a ruling race from about 138 B.C. In 129 B.C. they attacked Bactria, and by 123 B.C. they wrested it completely out of the Parthian empire, after defeating and killing on the battlefield two successive Parthian emperors, vix., Phraates II (128 B.C.) and Artabanus I (123 B.C.). 
 
-The early Śakas appear from their coins to have been under the spell of Greek civilization, and used Greek as a language of culture and put motifs taken from Greek mythology on their coins. Pressed by the next Parthian emperor, Mithradates II (123—90 B.C.), they poured by 80 B.C.,. into the whole of what is modern Afghanistan, except the Kabul valley, which the Greeks held for sometime. Their new territory became known as "Sakasthan' comprising modern Afghanistan and parts of N.W. India. From Afghanistan, they poured in successive streams to Malwa, Guzrāt, Taxila about 70 B.C., and to Mathura, somewhat later and had put an end to the numerous Greek principalities in the Punjab. Their further progress was barred by the Satavahanas in the South, and numerous small kingdoms which arose in the Gangetic valley on the break-up of the Sunga and Kanva empires (45 A.D.). After 50 A.D., the Sakas of the North were supplanted by the Kuṣānas belonging to a kindred race, and speaking the Saka language ; they ruled Northern India from their. capitals at Peshawar and Mathurā up to at least 170 A.D. Contemporaneously with them, were the Saka Satrap houses of Ujjain, who started ruling from about first century of the Christian era. 
+The early Śakas appear from their coins to have been under the spell of Greek civilization, and used Greek as a language of culture and put motifs taken from Greek mythology on their coins. Pressed by the next Parthian emperor, Mithradates II (123—90 B.C.), they poured by 80 B.C.,. into the whole of what is modern Afghanistan, except the Kabul valley, which the Greeks held for sometime. Their new territory became known as "Sakasthan' comprising modern Afghanistan and parts of N.W. India. From Afghanistan, they poured in successive streams to Malwa, Guzrāt, Taxila about 70 B.C., and to Mathura, somewhat later and had put an end to the numerous Greek principalities in the Punjab. Their further progress was barred by the Satavahanas in the South, and numerous small kingdoms which arose in the Gangetic valley on the break-up of the Sunga and Kanva empires (45 A.D.). After 50 A.D., the Sakas of the North were supplanted by the Kuṣānas belonging to a kindred race, and speaking the śaka language ; they ruled Northern India from their. capitals at Peshawar and Mathurā up to at least 170 A.D. Contemporaneously with them, were the śaka Satrap houses of Ujjain, who started ruling from about first century of the Christian era. 
 
 . A chart of these historical incidents is attached for the sake of elucidation as they are necessary for the comprehension of the extent and amount of Greek culture, which was propagated into India, not so much through the Greeks directly, but as it appears now, indirectly through the early Śakas and their successors, the Kuṣānas. 
 
-It now appears very probable that it was during the regime of the Saka and Kozana rulers (100 B.C. 200 A.D.) that a knowledge of the Graeco-Chaldean astronomy, which had developed in the Grecian world after 300 B.C. and ended with the astronomer 
+It now appears very probable that it was during the regime of the śaka and Kozana rulers (100 B.C. 200 A.D.) that a knowledge of the Graeco-Chaldean astronomy, which had developed in the Grecian world after 300 B.C. and ended with the astronomer 
 
 The Mauryas kept out the Greeks till 186 B.C., when on the break-up of their empire, the Greek settlers in Bactria who had revolted from their overlords, the Seleucids, began to make inroads into India. There were two rival Greek houses, the earlier, the Euthydemids who under Demetrius and Menander (175 B.C.) took possession of the Punjab and Sind between 180 B.C. to 150 B.C. and threatened even Pataliputra but were rolled back beyond the Jamuna by the Sungas ; the line of Eukratidas who ousted Demetrius and his line from Bactria and Afghanistan propter about 160 B.C., reigned in Afghanistan up to 50 B.C. But there rose about 226. B.C., a great barrier between the Eastern Greeks (Bactrians and Indian Greeks) and the Western Greeks in the shape of the Parthian empire (248 B.C.), which became very powerful under Mithradates I 
 
 214 
 
-Ptolemy (150 A.D.), and in the Near East under the Seleucids (300 B.C. to 100 A.D.), penetrated into India, being brought by astronomers belonging to the Saka countries, who later were absorbed into Indian society as Śakadvipi or Scythian Brahmins. The borrowings appear to be more from Seleucid Babylon than from the west. The knowledge of Graeco Chaldean astronomy was the basis on which the calendar prescribed by the Surya Siddhānta and other Siddhāntas were built up. It completely replaced the former Vedānga Jyotiṣa calendar and by about 400 A.D, when the Vedānga Jyotiṣa calendar had completely disappeared from all parts of India. 
+Ptolemy (150 A.D.), and in the Near East under the Seleucids (300 B.C. to 100 A.D.), penetrated into India, being brought by astronomers belonging to the śaka countries, who later were absorbed into Indian society as Śakadvipi or Scythian Brahmins. The borrowings appear to be more from Seleucid Babylon than from the west. The knowledge of Graeco Chaldean astronomy was the basis on which the calendar prescribed by the Surya Siddhānta and other Siddhāntas were built up. It completely replaced the former Vedānga Jyotiṣa calendar and by about 400 A.D, when the Vedānga Jyotiṣa calendar had completely disappeared from all parts of India. 
 
-From 400 A.D. to 1200 A.D., almost the whole of India used calendars based on Siddhanta Jyotiṣa for date-recording. All Indian astronomers used the Saka era for purposes of accurate calculations, but its use for date-recording by kings and writers was generally confined to parts of the South. In general, the Indian dynasties used eras of their own, or regnal years, though the annual calendar was compiled according to rules laid down either in the Surya Siddhānta, the Arya Siddhānta or the Brahma Siddhānta. These did not much differ in essentials. 
+From 400 A.D. to 1200 A.D., almost the whole of India used calendars based on Siddhānta Jyotiṣa for date-recording. All Indian astronomers used the śaka era for purposes of accurate calculations, but its use for date-recording by kings and writers was generally confined to parts of the South. In general, the Indian dynasties used eras of their own, or regnal years, though the annual calendar was compiled according to rules laid down either in the Surya Siddhānta, the Arya Siddhānta or the Brahma Siddhānta. These did not much differ in essentials. 
 
 When India since 1200 A.D. fell under Islamic domination, the rulers introduced the lunar Hejira calendar for civil and administrative purposes as well. Indian calendars were retained only in isolated localities where Hindus happened to maintain their ndependence, or used only for religious purposes. The emperor Akber in 1584 tried to suppress the Hejira calendar for administrative purposes by the Tarikh-Ilahi, a modified version of the solar calendar of. Iran, but this fell in disuse from about 1630., Since the advent of British rule in 1757, the Gregorian calendar has been used for civil and administrative purposes, which is still being continued. 
 
@@ -4913,7 +4913,7 @@ There are several points to be noticed in this list, which may be compared with 
 
 First, the nakṣatras start with Krttikās which all authorities identify with the conspicuous group Pleiades. What is the significance of this ? 
 
-At the present times, the naksatras start with Asvini, of which the junction star is a or B. Arietis. This custom, Aśvinyādi, was introduced in Siddhanta Jyotiṣa time ( 500 A.D.), when the astronomical first point of Aries was near the end of the Revati nakṣatra ( $ Piscium ), or the beginning of Afvini. We do not enter into the controversy about the exact location of this point by the Siddhanta astronomers, which is fully discussed in Appendix 5-B. At present, the astronomical first point had shifted by as much as 19° from ś Piscium, but the orthodox Indian calendar makers do not admit in the continued precession of the equinoxes, and still count the nakṣatras from Atvini. 
+At the present times, the naksatras start with Asvini, of which the junction star is a or B. Arietis. This custom, Aśvinyādi, was introduced in Siddhānta Jyotiṣa time ( 500 A.D.), when the astronomical first point of Aries was near the end of the Revati nakṣatra ( $ Piscium ), or the beginning of Afvini. We do not enter into the controversy about the exact location of this point by the Siddhānta astronomers, which is fully discussed in Appendix 5-B. At present, the astronomical first point had shifted by as much as 19° from ś Piscium, but the orthodox Indian calendar makers do not admit in the continued precession of the equinoxes, and still count the nakṣatras from Atvini. 
 
 In all older literatures, on the other hand, including the great epic Mahābhārala, whose composition or compilation may be dated about 400 B.C., the first nakṣatra is Krttikā, It therefore stands to reason to assume that at one time, when the nakṣatra enumeration started, the Pleiades were close to the astronomical first point of Aries, or rose near the true east. This is implied in the following verse which S. B. Dikṣit picked out of the Satapatha Brāhmaṇa : 
 
@@ -5245,7 +5245,7 @@ Titbi
 
 'Tithi' or 'Lunar Day' is a very important concep tion in Hindu astronomy, for holidays are always dated by the tithi. According to Siddhāntic definition, a lithi 
 
-The history of the Indian calendar from the end of the Yajurveda period to the beginning of the Siddhanta Jyotiṣa period is very imperfectly known though there are plenty of calendaric references in the Brāhmanās, Sūtras, and the epic Mahābhārata and various literature. On time-scale, it extends from 
+The history of the Indian calendar from the end of the Yajurveda period to the beginning of the Siddhānta Jyotiṣa period is very imperfectly known though there are plenty of calendaric references in the Brāhmanās, Sūtras, and the epic Mahābhārata and various literature. On time-scale, it extends from 
 
 222 
 
@@ -5361,9 +5361,9 @@ There are several other calendarical treatises which can be assigned to this per
 
 A short account of the calendaric rules followed in these treatises is given in Varāhamihira's Pañca Siddhāntika, Chap. XII, where the rules are collected as "Paitāmaha Siddhānta" or Astronomical Calendar according to Grandfather Brahma, the Creator, in Hindu mythology. That shows the high antiquity of the rules. Varāhamihira, as well as Brahmagupta describe the rules as very "inaccurate" (Daravibhrastau, furthest from truth in Varahamihira's language) though they pay a formal courtesy to the supposed authors. But such has been the case with calendars of all ancient nations, including the Babylonians at this period and a critical account of the Vedānga Jyotiṣa is important from the historical point of view. 
 
-It may be remarked here that there are minor differences between Vedānga Jyotiṣa, the Jain systems, and the Paitāmaha Siddhanta, which appear to be the latest of this group. The older treatises have a year of 366 days, while the Paitamaha Siddhanta has a year of 365-3569 days (Dıkṣit). 
+It may be remarked here that there are minor differences between Vedānga Jyotiṣa, the Jain systems, and the Paitāmaha Siddhānta, which appear to be the latest of this group. The older treatises have a year of 366 days, while the Paitamaha Siddhānta has a year of 365-3569 days (Dıkṣit). 
 
-There is an extensive literature on Vedanga Jyotoṣa which has been studied by Dr. G. Thibaut, S. B. Diksit, S. K. Pillai, and Dr. R. Shama Sastry, amongst others. We hiere give an account of the calendar according to the Paitāmaha Siddhanta. 
+There is an extensive literature on Vedanga Jyotoṣa which has been studied by Dr. G. Thibaut, S. B. Diksit, S. K. Pillai, and Dr. R. Shama Sastry, amongst others. We hiere give an account of the calendar according to the Paitāmaha Siddhānta. 
 
 The Vedānga Jyotisa further describes measure ments of the subdivisions of the day by means of the clepsydra, as well as by gnomon-shadows. 
 
@@ -5775,7 +5775,7 @@ Our studies given in $ 33, shows that a mathe matically accurate luni-solar cale
 
 This system of date-recording spread far and wide in the Near East and was adopted by other ruling dynasties, viz., the Parthians, who however used an era starting from 248 B.C. They used Macedonian months without alteration. : . It can now be shown that this system penetrated gradually into India. 
 
-GROUP A 1. Maira : [sam 58]. 2. ṣahdaur A: ra [ja] no Damijadasa saka-sa.... 
+GROUP A 1. Maira : [sam 58]. 2. ṣahdaur A: ra [ja] no Damijadasa śaka-sa.... 
 
 [sasti...60]. 
 
@@ -5813,7 +5813,7 @@ kṣatrapasa. . 19. Dewai : sam 200 Vesakhasa masasa dirase
 
 i athamo 8 itra khanasa. 
 
-Era or eras of unknown origin began to be mentioned in certain inscriptions found in the North Western Punjab and the Kabul valley about the first century B.C. Some of them mention kings belonging to the Saka tribes who ruled Ariana (west and southern Afghanistan comprising the Herat regions-Area), the Kandahar regions (Arachosia), and Gandhara (N.W. Punjab) between the second century B.C. and the first 
+Era or eras of unknown origin began to be mentioned in certain inscriptions found in the North Western Punjab and the Kabul valley about the first century B.C. Some of them mention kings belonging to the śaka tribes who ruled Ariana (west and southern Afghanistan comprising the Herat regions-Area), the Kandahar regions (Arachosia), and Gandhara (N.W. Punjab) between the second century B.C. and the first 
 
 230 
 
@@ -5835,9 +5835,9 @@ This series starts with the year 58, if Cunningham's reading of (1) with the add
 
 We now take the second group of inscriptions which are those of the Kuṣānas, who ruled in North India in the second century A.D. 
 
-· Date of records of Group A None of the inscriptions of Group A appear to be 'Royal Records' but some contain names of kings, e.g., No. 6, which mentions a Mahārājā Mahamta Moga, who is taken to be identical with a king whose coins have been found in large numbers in Gandhara. He calls himself 'Maves' in the Greek inscription on the obverse, and Moasa (i.e. of Moa) in Kharoṣthi on the reverse. The title given there usually is Maharajasa Rajatirajasa Mahantasa. It is held that King Moga was Saka leader who starting from a base in Seistan or Arachosia, invaded Gandhara through the southern route, sailed up the Indus, and ousted the Greek rulers Archebius from Taxila, Artemidorus from Puṣkalavati and Telephos from Kapsā (Bachhofer, 1936) and founded a large empire comprising parts of Afghanistan, Gandbara and the Punjab. 
+· Date of records of Group A None of the inscriptions of Group A appear to be 'Royal Records' but some contain names of kings, e.g., No. 6, which mentions a Mahārājā Mahamta Moga, who is taken to be identical with a king whose coins have been found in large numbers in Gandhara. He calls himself 'Maves' in the Greek inscription on the obverse, and Moasa (i.e. of Moa) in Kharoṣthi on the reverse. The title given there usually is Maharajasa Rajatirajasa Mahantasa. It is held that King Moga was śaka leader who starting from a base in Seistan or Arachosia, invaded Gandhara through the southern route, sailed up the Indus, and ousted the Greek rulers Archebius from Taxila, Artemidorus from Puṣkalavati and Telephos from Kapsā (Bachhofer, 1936) and founded a large empire comprising parts of Afghanistan, Gandbara and the Punjab. 
 
-He is generally held to have been a Saka, but some hold without sufficient reason that he was a Parthian. He is the firstwef Indo-Scythian kings known to numismatics. He was followed by other Indo-Scythian kings in Gandhara, who are known from wide variety of coins issued, viz., Azes I, .Azilises and Azes II. But there is no clear reference to them in these ins criptions except the word 'Ayasa' in Nos. 10 and 15, 
+He is generally held to have been a śaka, but some hold without sufficient reason that he was a Parthian. He is the firstwef Indo-Scythian kings known to numismatics. He was followed by other Indo-Scythian kings in Gandhara, who are known from wide variety of coins issued, viz., Azes I, .Azilises and Azes II. But there is no clear reference to them in these ins criptions except the word 'Ayasa' in Nos. 10 and 15, 
 
 GROUP B The Kuṣāna Inscriptions after Kaniska : 24. Kaniṣka casket: sam 1 mal harayasa ] 
 
@@ -5895,7 +5895,7 @@ year 41, Huviska from 33-60,
 
 Vasudeva from 62-98. The King's name and the titles are given in full, and in the genitive. The era is generally ascribed to the famous Kaniṣka as we have a record of his first year. 
 
-Their method of date-recording is the same as in Group A, viz., (see No. 25.) the year of the era, the month name in Greek or Sanskrit, the ordinal number of the day, then, the phrase equivalent to asyāin pūrvāyām ( before these to but in these inscriptions, it is expressed in the form ise kṣunami or its variant, which has been interpreted by. Konow as equivalent of asyāîn or etasyām pūrvāyān in the Khotani Saka language which Konow thinks was the mother tongue of kings of the Kaniṣka group and which they use in their inscriptions. In fact kings of this group use a number of Khotani Saka words, and from their wide range of coins are known to have put in a medley of Greek, Iranian, and Indian gods including Buddha on their coins, but the names of the gods are not in their original Indian, Iranian or Greek form but'invari ably in the form used in the Khotani Saka language. 
+Their method of date-recording is the same as in Group A, viz., (see No. 25.) the year of the era, the month name in Greek or Sanskrit, the ordinal number of the day, then, the phrase equivalent to asyāin pūrvāyām ( before these to but in these inscriptions, it is expressed in the form ise kṣunami or its variant, which has been interpreted by. Konow as equivalent of asyāîn or etasyām pūrvāyān in the Khotani śaka language which Konow thinks was the mother tongue of kings of the Kaniṣka group and which they use in their inscriptions. In fact kings of this group use a number of Khotani śaka words, and from their wide range of coins are known to have put in a medley of Greek, Iranian, and Indian gods including Buddha on their coins, but the names of the gods are not in their original Indian, Iranian or Greek form but'invari ably in the form used in the Khotani śaka language. 
 
 The method of date-recording followed by the Kuṣānas, in spite of its identity with that of Group A shows some interesting variations. In the Kharoṣthi inscriptions of the Kuṣānas, the months are mostly Greek, less so in Sanskrit ( Caitra, Vaiśākha, etc. ). The days run from 1 to 30 and clearly they are not tithis but solar days. When we turn to Brahmi inscrip tions, we find that the month names are mostly seasonal : Griṣma, Varṣā, or Hemanta as in the Satava hana records. But since 4 is the maximum number attached to these, and the day numbers run from 1 to 30, the number after the season denotes a month, not a pakṣa and the damnare solar. Thus G 4 denotes the fourth month of the Grisma season, viz, Aṣādha, and not the fourth paksa as was the case with the Satavābanas, which would be the second half of 
 
@@ -5937,7 +5937,7 @@ So we come to this conclusion :
 
 The records of Kuṣana kings, after Kaniska I range from year 1 to 98. In the second century of -the Kaniska era, hundreds are omitted and such records have been found up.to year 157, i.e., year 235 of the Christian era. 
 
-This raises a strong presumption that Kaniska was not the founder of the era, but he used one already in vogue, but omitted the hundreds. · Thus year 1 of Kaniska is really year 1 plus some hundred, may be 1, 2, or 3. L. de Leeuw does not expressly suggest this, though it is apparent from her reasoning that year 1 of King Kaniṣka is year 201 of the Old Saka era*. If this suggestion be correct, since the old Saka era is taken to have started in 123 B.C. (-122 A.D.) instead of in 129 B.C., as postulated by L. de Leeuw, Kaniska started reigning in ( 201 – 123 )-78 A.D. . 
+This raises a strong presumption that Kaniska was not the founder of the era, but he used one already in vogue, but omitted the hundreds. · Thus year 1 of Kaniska is really year 1 plus some hundred, may be 1, 2, or 3. L. de Leeuw does not expressly suggest this, though it is apparent from her reasoning that year 1 of King Kaniṣka is year 201 of the Old śaka era*. If this suggestion be correct, since the old śaka era is taken to have started in 123 B.C. (-122 A.D.) instead of in 129 B.C., as postulated by L. de Leeuw, Kaniska started reigning in ( 201 – 123 )-78 A.D. . 
 
 * The suggestion is of Prof. M. N. Saha. 
 
@@ -5955,19 +5955,19 @@ INDIAN.CALENDAR
 
 From the above review of inscriptional records and contemporary history, the following story has been reconstructed. 
 
-(1) The. Saka era was first started in 123 B.C. when the Sakas coming from Central Asia due to the pressure of Hunas wrested Bactria from the Parthian emperors after a seven years' war. The leader was probably one 'Azes', and therefore the era was also alternately called the 'Azes' era. This Azes is not to be confounded with the two later Azes who succeeded Maues and reigned between 45 B. C. to 20 B. C. Earlier Sakas used Macedonian months and Graeco Chaldean method of date recording, prevalent throughout the whole of Near East. In Indian dominions, Indian months which were equated to Greek months were used. As their coins show, the ruling class had adopted Greek culture. 
+(1) The. śaka era was first started in 123 B.C. when the Sakas coming from Central Asia due to the pressure of Hunas wrested Bactria from the Parthian emperors after a seven years' war. The leader was probably one 'Azes', and therefore the era was also alternately called the 'Azes' era. This Azes is not to be confounded with the two later Azes who succeeded Maues and reigned between 45 B. C. to 20 B. C. Earlier Sakas used Macedonian months and Graeco Chaldean method of date recording, prevalent throughout the whole of Near East. In Indian dominions, Indian months which were equated to Greek months were used. As their coins show, the ruling class had adopted Greek culture. 
 
 (2) When the - Sakas spread from "Sakasthān', i.e., modern Afghanistan into contiguous parts of India, they began to be influenced by Indian culture. During the first stage, they exclusively used Greek in their coins, but later they began to use Kharoṣthi and Brahmi as well. The coins of Maues (80 B.C:---45 B.C.), Azes I, Azilises, Azes II show increasing influence of Indian culture. The southern Sakas who penetrated into Saurashtra and Malwa show Indian influence to a greater degree. . 
 
-(3) In the first three centuries, they (Maues group, Nahapāna group and Kuṣānas) used the old Saka era omitting hundreds, and using a method of date recording which was an exact copy of the contem porary Graeco-Chaldean system prevalent throughout the Parthian empire (Macedonian months, and ordinal number of days). But they also began to use Indian months. Whenever they did it, the , month was Purnimānta, as was the custom with old Hindu dynasts (Mauryas and Satavahanas). 
+(3) In the first three centuries, they (Maues group, Nahapāna group and Kuṣānas) used the old śaka era omitting hundreds, and using a method of date recording which was an exact copy of the contem porary Graeco-Chaldean system prevalent throughout the Parthian empire (Macedonian months, and ordinal number of days). But they also began to use Indian months. Whenever they did it, the , month was Purnimānta, as was the custom with old Hindu dynasts (Mauryas and Satavahanas). 
 
-(4). The classical Saka era starting from 78 A.D. is nothing but the old Śaka era, starting from 123 B.C. with 200 omitted, so that the year 1 of Kaniska is year 201 of the Old Saka era. 
+(4). The classical śaka era starting from 78 A.D. is nothing but the old Śaka era, starting from 123 B.C. with 200 omitted, so that the year 1 of Kaniska is year 201 of the Old śaka era. 
 
-The senior author has shown that Nahapjna used the old Saka bra with one hundred omitted, so that the year 46 of Nahapāna was the year 146 of the old Saka era or about 24 A.D. 
+The senior author has shown that Nahapjna used the old śaka bra with one hundred omitted, so that the year 46 of Nahapāna was the year 146 of the old śaka era or about 24 A.D. 
 
-The Satavahana kings Gautamiputra Satakarni and his son Vasiṣthiputra Pulumaví, whose records are .found dated in the typical Indian fashion, reigned according to his hypothesis from about 40 A.D. to 80 A.D. From epigraphical record, Nahapana is at least separated by about 100 years from the next group of Saka rulers, viz., the Sakas of Ujjain belonging to the house of Caṣtana. 
+The Satavahana kings Gautamiputra Satakarni and his son Vasiṣthiputra Pulumaví, whose records are .found dated in the typical Indian fashion, reigned according to his hypothesis from about 40 A.D. to 80 A.D. From epigraphical record, Nahapana is at least separated by about 100 years from the next group of śaka rulers, viz., the Sakas of Ujjain belonging to the house of Caṣtana. 
 
-The Saka satraps of Ujjain. We come across the records of another Saka ruling family, reigning in Ujjain. 
+The śaka satraps of Ujjain. We come across the records of another śaka ruling family, reigning in Ujjain. 
 
 [Andau (Cutch) stone inscriptions of the time of Castana and Rudradaman, Sircar, p. 167]. 
 
@@ -5981,15 +5981,15 @@ This inscription mentions the year 52, the second day of the Krsna pakṣa of th
 
 There is no doubt that the year mentioned is that of the Baka era as now known. For this satrapal house reigned continuosly for nearly 300 years and has left a wealth of dated records. But the name of the era is not mentioned in the earlier records. They are mentioned merely as years so and so. 
 
-The earliest authentic instance of the use of Saka era by name is supplied by the Badæmi inscription of Calikya Vallabhesvara (Pulakesin I of the Calukya dynasty), dated 465 of the Saka era (śaka- Varsanu Catus-sateṣu pañca-ṣasthi-yutesu : Epigraphia Indica XXVII, p. 8). In literature the use of the era by name appears still earlier. The Lokavibhāga of Simhasari, a Digambara Jaina work in Sanskrit is stated in a manuscript to have been completed in 80 beyond 300 (i.e. 380) of the Saka years (Ep. Ind., XXVII, p. 5). There is no doubt that the era used in the records of the western satrapal house beginning with Castana and Rudradaman have come down to the present times as the saka Era, which is the 'Era' par excellence used by Indian astronomers for purposes of calculation. There ere 30 or more 'Eras' which have been in use in India (vide $ 5*8), but none of them have been 
+The earliest authentic instance of the use of śaka era by name is supplied by the Badæmi inscription of Calikya Vallabhesvara (Pulakesin I of the Calukya dynasty), dated 465 of the śaka era (śaka- Varsanu Catus-sateṣu pañca-ṣasthi-yutesu : Epigraphia Indica XXVII, p. 8). In literature the use of the era by name appears still earlier. The Lokavibhāga of Simhasari, a Digambara Jaina work in Sanskrit is stated in a manuscript to have been completed in 80 beyond 300 (i.e. 380) of the śaka years (Ep. Ind., XXVII, p. 5). There is no doubt that the era used in the records of the western satrapal house beginning with Castana and Rudradaman have come down to the present times as the śaka Era, which is the 'Era' par excellence used by Indian astronomers for purposes of calculation. There ere 30 or more 'Eras' which have been in use in India (vide $ 5*8), but none of them have been 
 
-Śaka Era in the South-West. Besides the earlier Sakas belonging to the Maues group, and the Kuṣānas, there was another groupof Saka kings, who penetrated into the south-western part of India. The earliest representative of this group was Nahapana and his son-in-law Uṣavadata. Their records are dated in years 41 to 46 of an unknown era. They use Indian lunar honths and days (probably tathis). These Sakas ruled in Rajputana, Malwa, and northern Maharastra and were engaged in continuous warfare with the Satavahana ruler Gautamiputra Satakarni who claim to have destroyed them root and branch. 
+Śaka Era in the South-West. Besides the earlier Sakas belonging to the Maues group, and the Kuṣānas, there was another groupof śaka kings, who penetrated into the south-western part of India. The earliest representative of this group was Nahapana and his son-in-law Uṣavadata. Their records are dated in years 41 to 46 of an unknown era. They use Indian lunar honths and days (probably tathis). These Sakas ruled in Rajputana, Malwa, and northern Maharastra and were engaged in continuous warfare with the Satavahana ruler Gautamiputra Satakarni who claim to have destroyed them root and branch. 
 
 234 
 
 used for calendaricat calculation by the · Indian astronomers. 
 
-Yet it is difficuit wo assign the origin of the saka era to the western satraps. · An era can be founded only by an imperial dynasty like the Seleucids, the Parthians or the Guptas. The western satraps never claim, in their numerous records, any imperial position. They are always satisfied with the subordingte titles like Kṣatrapa (Satrap) or Maha Kṣatrapa (Great Satrap) while the imperial position is claimed by their northern contemporaries, the Kuṣānas, 
+Yet it is difficuit wo assign the origin of the śaka era to the western satraps. · An era can be founded only by an imperial dynasty like the Seleucids, the Parthians or the Guptas. The western satraps never claim, in their numerous records, any imperial position. They are always satisfied with the subordingte titles like Kṣatrapa (Satrap) or Maha Kṣatrapa (Great Satrap) while the imperial position is claimed by their northern contemporaries, the Kuṣānas, 
 
 The conclusion is that the western Kṣatrapas used the old Śaka era, with 200 omitted ; so that year 1 of the present Śaka era is year 201 of the old Śaka era, i.e., (201-122)=79 A.D. . 
 
@@ -6001,7 +6001,7 @@ Siddham. Rājñaḥ mahā kṣatrapasya svāmi-Castana prapautrasya rājñaḥ k
 
 • Translation : Of king Mahakṣatrapa.....of Svami Rudrasimha in the year 103 in the light half of the month of Vaiśākha on the 5th tithi and in the Robini nakṣatra muhurta,...... 
 
-The Saka satrap Rudrasimba, reigning in 181 A.D. thus dates his inscriptions using an era (the Saka era), purely Indian months, tithes and nakṣatras. This is in full Siddhantic style, because the characteristic features of Siddhāntic method of date recording which mention lithi and nakṣatra are first found in this inscription. The 'week day' is however not mentioned. 
+The śaka satrap Rudrasimba, reigning in 181 A.D. thus dates his inscriptions using an era (the śaka era), purely Indian months, tithes and nakṣatras. This is in full Siddhantic style, because the characteristic features of Siddhāntic method of date recording which mention lithi and nakṣatra are first found in this inscription. The 'week day' is however not mentioned. 
 
 This is first mentioned in an inscription of the emperor Budhagupta (484 A. D.). 
 
@@ -6013,13 +6013,13 @@ szwagurordirase.... (Iran Stone Pillar Inscription of Budha Gupta
 
 Gupta year 100484 A.D.). Translation : In the year 165 of the Gupta era during the reign of emperor Budhagupta in the month of Aṣadha and on the 12th tithi of the light half which was a Thursday (i.e. day dedicated to the preceptor of Gods). 
 
-6.6 SOLAR CALENDAR IN THE SIDDHANTA 
+6.6 SOLAR CALENDAR IN THE Siddhānta 
 
-JYOTISHA PERIOD : Rise of Siddhantas or Scientific Astronomy: 
+JYOTISHA PERIOD : Rise of Siddhāntas or Scientific Astronomy: 
 
-The Vedānga Jyotiṣa calendarical rules appear, from inscriptional records, to have been used right up to the end of the reign of the Satavahanas (200 A.D.). The analysis of inscriptional data on methods of date recording given in $ 5.5 shows that it was the Saka and Kuṣāņa rulers (50 B.C. - 100 A.D.), who introduced the Graeco-Chaldean methods of date-recording, prevalent in' the Near East into India. These methods require a knowledge of the fundamentals of astronomy, which must have been available to the Saka and Kuṣāna rulers. In India, as 'the inscriptional records show, some purely Indian dynasts probably accepted the system in full from about 248 A.D. (date of foundation of the Kalachuri era, the earliest era founded by Indian kings, leaving aside the Saka era which is admittedly of foreign origin and the Vikrama era whose origin is still - shrouded in mystery). During the time of the Guptas who founded an era commemorating their accession to power in 319 A.D. the integration of the western system with the Indian appears to have been complete. 
+The Vedānga Jyotiṣa calendarical rules appear, from inscriptional records, to have been used right up to the end of the reign of the Satavahanas (200 A.D.). The analysis of inscriptional data on methods of date recording given in $ 5.5 shows that it was the śaka and Kuṣāņa rulers (50 B.C. - 100 A.D.), who introduced the Graeco-Chaldean methods of date-recording, prevalent in' the Near East into India. These methods require a knowledge of the fundamentals of astronomy, which must have been available to the śaka and Kuṣāna rulers. In India, as 'the inscriptional records show, some purely Indian dynasts probably accepted the system in full from about 248 A.D. (date of foundation of the Kalachuri era, the earliest era founded by Indian kings, leaving aside the śaka era which is admittedly of foreign origin and the Vikrama era whose origin is still - shrouded in mystery). During the time of the Guptas who founded an era commemorating their accession to power in 319 A.D. the integration of the western system with the Indian appears to have been complete. 
 
-Indian astronomical treatises, explaining the rules of calendaric astronomy, are known as Siddhantas, but it is difficult to find out their dates. The earliest Indian astronomer who gave a date for himself was the celebrated Aryabhata who flourished in the ancient city of Pataliputra and was born in 476 A.D. 
+Indian astronomical treatises, explaining the rules of calendaric astronomy, are known as Siddhāntas, but it is difficult to find out their dates. The earliest Indian astronomer who gave a date for himself was the celebrated Aryabhata who flourished in the ancient city of Pataliputra and was born in 476 A.D. 
 
 It is necessary to reply to a question which has very often been asked, but never satisfactorily answered, viz., 
 
@@ -6043,7 +6043,7 @@ It is therefore, obvious that the Indians of the age of Asoka (273 B.C.—200 B.
 
 The Maurya's were succeeded by the Sungas (186 B.C.--75 B.C.), but Indians during this age were in touch only with the Bactrian Greeks. But by this time, the Parthian empire had arisen (250 B.C.), producing a wedge between western and eastern Greeks. The only dated record of the Indo-Bactrian king, Menander (150 B.C.), is purely Indian in style. 
 
-By about 150 B.C., direct contact between India and Greater Greece which included Babylon had almost ceased, due to the growth of the Parthian empire. Whatever ideas came, was through the Saka-Kuṣāna kingdoms which came into existence after 90 B. C. By that time, astronomy was regarded as only secondary to planetary and horoscopic astrology, which had grown to mighty proportions in the West. This may have been probably one of the main reasons for late acceptance of Graeco-Chaldean astronomy in India, for Indian thought during these years was definitely hostile to astrology. 
+By about 150 B.C., direct contact between India and Greater Greece which included Babylon had almost ceased, due to the growth of the Parthian empire. Whatever ideas came, was through the śaka-Kuṣāna kingdoms which came into existence after 90 B. C. By that time, astronomy was regarded as only secondary to planetary and horoscopic astrology, which had grown to mighty proportions in the West. This may have been probably one of the main reasons for late acceptance of Graeco-Chaldean astronomy in India, for Indian thought during these years was definitely hostile to astrology. 
 
 It will surprise many of our readers to be told that astrology was not liked by Indian leaders of thought, which dominated Indian life during the period 500 B.C.-1 A.D. Nevertheless, it is a very correct 
 
@@ -6069,9 +6069,9 @@ Kautiliya Arthadastra Nakgatrai stiprcchantar bālam artho'tiyartate Artho hyart
 
 to the Sungod.: Professional astrologers) in:imang parts of India, admit to being descendants tof these Sakadvipi" -Brāhmagas and probably many of the eminent astronomers like. Aryabhata and Varahamihira who made great scientfic contributions to 'astronomy belonged to this race. The planetary Sungod is always shown with high boots on, as in the case of Central Asian kings (e.g., Kaniska)... 
 
-It is a task for the historian to trace how the steps in which the importation of western astronomical knowledge took place for the Siddhantas, which incorporate this knowledge and are all a few centuries later, and many of them bear no date. . 
+It is a task for the historian to trace how the steps in which the importation of western astronomical knowledge took place for the Siddhāntas, which incorporate this knowledge and are all a few centuries later, and many of them bear no date. . 
 
-A good point d'appui for discussion is Vardhamihira's Panca Siddhantikā.; for Varahamihira's date is known. He died in 587 A.D., in ripe old age so he must have written his book about 550 A.D. This is a compendium reviewing the knowledge contained in the five Siddhantas which were current at his time. These were regarded as 'Apauruṣeya' or "knowledge revealed by gods or mythical persons”. 
+A good point d'appui for discussion is Vardhamihira's Panca Siddhantikā.; for Varahamihira's date is known. He died in 587 A.D., in ripe old age so he must have written his book about 550 A.D. This is a compendium reviewing the knowledge contained in the five Siddhāntas which were current at his time. These were regarded as 'Apauruṣeya' or "knowledge revealed by gods or mythical persons”. 
 
 Translation: The' objective (artha) eludes the foolish man (balam) who enquires too much from the 'stars. The objective should be the nakṣatra of the 
 
@@ -6081,15 +6081,15 @@ This may be taken to represent the views of the practical politician about astro
 
 Canakya was the great minister of Candragupta, and history says that these two great leaders rolled back the bordes of the Macedonians, who had con. quered the Acheminid Empire of Iran comprising the whole of the Near East to the borders of Iran; and thereafter laid the foundation of the greatest empire India has ever seen. They clearly not only did not believe in astrology, but openly, and without reserve, ridiculed its pretensions. 
 
-But the influence of original Buddhism waned after the rise of Mahāyānist Buddhism, which received great encouragement during the reign of Kaniska (78 A.D. to 102 A.D.) and other Kuṣāna and Saka kings. Then came Buddhist iconography, coins, and knowledge of the methods of western date-recording which the Sakas and Kuṣānas used. They blended with the indigenous Indian system slowly. 
+But the influence of original Buddhism waned after the rise of Mahāyānist Buddhism, which received great encouragement during the reign of Kaniska (78 A.D. to 102 A.D.) and other Kuṣāna and śaka kings. Then came Buddhist iconography, coins, and knowledge of the methods of western date-recording which the Sakas and Kuṣānas used. They blended with the indigenous Indian system slowly. 
 
-The focus of diffusion of western astronomical knowledge appears to have been the city of Ujjayini, capital of the western Satraps who were apparently the first to use a continuous era ( the Saka era ), and a method of date-recording which was at first purely Graeco-Chaldean as prevalent in Seleucid Babylon, but gradually Indian elements like the tithi and the naksatra were blended, as we find for the first time in the inscription of Satrap Rudrasimha, dated 181 A.D. (vide $ 5.5). 
+The focus of diffusion of western astronomical knowledge appears to have been the city of Ujjayini, capital of the western Satraps who were apparently the first to use a continuous era ( the śaka era ), and a method of date-recording which was at first purely Graeco-Chaldean as prevalent in Seleucid Babylon, but gradually Indian elements like the tithi and the naksatra were blended, as we find for the first time in the inscription of Satrap Rudrasimha, dated 181 A.D. (vide $ 5.5). 
 
 This city of Ujjayini was later adopted as the Indian Greenwich, for the measurement of longitudes of places. The borrowal of astronomical knowledge was not therefore from Greece direct, but as now becomes increasingly clearer, from the West, which included Seleucid Babylon, and probably : through Arsacid Persia. The language of culture in these regions was Greek, and we therefore find Greek words like kendra fcentre), liptika (lepton), horā (hour) in use by Indian astronomers 
 
 This view is supported by the Indian myth that astrolatry and astrology were brought to India by a party of Sakadvipi Brahmanas (Scythian Brahmins), who were invited to come to India for curing Samba, the son of Krṣna, of leprosy by means of incantations 
 
-· The five Siddhantas are : 
+· The five Siddhāntas are : 
 
 Paitāmaha Ascribed to Grandfather Brahma. Vāsiṣtha Ascribed to the mythical sage 
 
@@ -6105,7 +6105,7 @@ constellation of stars (but see later). Surya Revealed by the Sungod to Asura
 
 Maya, architect of gods, who 
 
-propounds them to the Rṣis. . The five Siddhantas are given in the increasing order of their accuracy according to Varahamihira. Thus Varahamihira considers the Sarya Siddhānta as the most accurate, and next in order are the Paulića, and the Romaka. The Vasiṣtha and Paitāmaha are, according to Varāhamibira, not accurate. 
+propounds them to the Rṣis. . The five Siddhāntas are given in the increasing order of their accuracy according to Varahamihira. Thus Varahamihira considers the Sarya Siddhānta as the most accurate, and next in order are the Paulića, and the Romaka. The Vasiṣtha and Paitāmaha are, according to Varāhamibira, not accurate. 
 
 Why were those Siddhāntas regarded as “Apaurus ṣeya" (i.e. not due to any mortal man) ? Dikṣit says (Bharatiya Jyotiśāstra, Part II, Chap. 1): 
 
@@ -6113,35 +6113,35 @@ Why were those Siddhāntas regarded as “Apaurus ṣeya" (i.e. not due to any m
 
 INDIAN-CALENDAR 
 
-We need not go any further into the contents of this Siddhanta. As the name indicates, the knowledge was borrowed from the West, which was vaguely known as 'Romaka' after the first century A.D. The yuga taken is quite un-Indian, but appears to be a blending of the nineteen-year cycle of Babylon, the five-yearly yuga of Vedānga Jyotisa, and the number 30 which is the number of tithes in a month. The length of the year is identical with Hipparchos's (365.2467), and this alone of the Siddhāntas gives a length of the year which is unmistakeably tropical. . 
+We need not go any further into the contents of this Siddhānta. As the name indicates, the knowledge was borrowed from the West, which was vaguely known as 'Romaka' after the first century A.D. The yuga taken is quite un-Indian, but appears to be a blending of the nineteen-year cycle of Babylon, the five-yearly yuga of Vedānga Jyotisa, and the number 30 which is the number of tithes in a month. The length of the year is identical with Hipparchos's (365.2467), and this alone of the Siddhāntas gives a length of the year which is unmistakeably tropical. . 
 
-• The Romaka Siddhanta appears to represent a distinct school who tried to propagate western astro nomical knowledge on the lines of Hipparchos. One of the later propounders was śrisena, who flourished between Aryabhaça and Brahmagupta ; the latter ridicules him roundly for having made a "kānthā”, i.ex a wrapper made out of discarded rags of all types meaning probably Sriṣena's attempt to blend two incongruous systems of knowledge, western and eastern. 
+• The Romaka Siddhānta appears to represent a distinct school who tried to propagate western astro nomical knowledge on the lines of Hipparchos. One of the later propounders was śrisena, who flourished between Aryabhaça and Brahmagupta ; the latter ridicules him roundly for having made a "kānthā”, i.ex a wrapper made out of discarded rags of all types meaning probably Sriṣena's attempt to blend two incongruous systems of knowledge, western and eastern. 
 
 in these works were naturally regarded as superbuman. and hence the available ancient works on astronomy are regarded as: 'apauruṣeya' i.e. not compiled by mortal men) and it is clear that the belief has been 
 
 formed later". 
 
-This statement, made by Dikṣit nearly sixty years ago, really singles out only one phase of the issue, viz., the wide gulf in the level of astronomical knowledge of the Siddhantas and that in the Vedānga Jyotiṣa ; but leaves the question of actual authorship open. In our opinion the Siddhantas were regarded as Apauruṣeya because they appear to have been com pilations by different schools of the knowledge of calendaric astronomy, as they diffused from the West during the period 100 B.C.-400 A.D. But let us look into them a little more closely. 
+This statement, made by Dikṣit nearly sixty years ago, really singles out only one phase of the issue, viz., the wide gulf in the level of astronomical knowledge of the Siddhāntas and that in the Vedānga Jyotiṣa ; but leaves the question of actual authorship open. In our opinion the Siddhāntas were regarded as Apauruṣeya because they appear to have been com pilations by different schools of the knowledge of calendaric astronomy, as they diffused from the West during the period 100 B.C.-400 A.D. But let us look into them a little more closely. 
 
-The Paitamaha Siddhanta : described in five stanzas in Chap. XII. of the Panca Siddhāntikā. 
+The Paitamaha Siddhānta : described in five stanzas in Chap. XII. of the Panca Siddhāntikā. 
 
-As already discussed it is a revised edition of the Vedānga Jyotiṣa ,but later authors say that it contained rules for the calculation of motions of the sun, the. moon and also the planets which were not given by the Vedānga Jyotiṣa. As the full text of the original - Siddhanta has not been recovered, it is difficult to say 
+As already discussed it is a revised edition of the Vedānga Jyotiṣa ,but later authors say that it contained rules for the calculation of motions of the sun, the. moon and also the planets which were not given by the Vedānga Jyotiṣa. As the full text of the original - Siddhānta has not been recovered, it is difficult to say 
 
 how the borrowal took place. 
 
-The Vasistha Siddhanta : as known to Varahamihira is described in 13 couplets in Chap. II of the Parica Siddhāntika. It describes methods of calculating tithi and nakṣatra, which are inaccurate. Besides it mentions Rāśi (zodiacal signs), angular measurements, discusses length of the day, and the lagna (ascendant part of the zodiac). Apparently this represents one attempt by a school to propagate western astronomical knowledge, The school persisted and we have. Vāsiṣtha Siddhantas later than Varāhamihira. One of the most famous was Viṣnucandra (who was somewhat later than Āryabhata) who was conscious of the phenomenon of precession of the equinoxes. No text of the Siddhanta is available, except some quotations. 
+The Vasistha Siddhānta : as known to Varahamihira is described in 13 couplets in Chap. II of the Parica Siddhāntika. It describes methods of calculating tithi and nakṣatra, which are inaccurate. Besides it mentions Rāśi (zodiacal signs), angular measurements, discusses length of the day, and the lagna (ascendant part of the zodiac). Apparently this represents one attempt by a school to propagate western astronomical knowledge, The school persisted and we have. Vāsiṣtha Siddhāntas later than Varāhamihira. One of the most famous was Viṣnucandra (who was somewhat later than Āryabhaṭa) who was conscious of the phenomenon of precession of the equinoxes. No text of the Siddhānta is available, except some quotations. 
 
 Varahamihira pays a formal courtesy to Paitāmaha and Vāśiṣtha; this does not prevent him from describing these two as 'dūravibhraṣtau', i.e., furthest from truth. 
 
-The Paulisa Siddhanta : This Siddhānta 'was at one time regarded as the ival of the Sūrya Siddhānta, but no“ text is available now. But it continued to be current up to the time of Bhattotpala (966 A.D.), who quotes from it. 
+The Paulisa Siddhānta : This Siddhānta 'was at one time regarded as the ival of the Sūrya Siddhānta, but no“ text is available now. But it continued to be current up to the time of Bhattotpala (966 A.D.), who quotes from it. 
 
-Alberuni (1030-44 A.D.) who was acquainted with it, said that it was an adaptation from an astronomical treatise of Paulus of Saintbra, i.e., of Alexandria. But it.is not clear whether he had actually seen Paulus's treatise, and compared it with the Paulisa Siddhānta or simply made a guess on the analogy of names merely, The name of one Paulus is found in the Alexandrian list of savants (378 A.D.) but his only known work is one on astrology, and it has nothing in common with Paulisa Siddhāntā, which appears to have been purely añ astronomical treatise as we can reconstruct it from the Pañca Siddhāutikā (vide infra). The ascription to Paulus.of Alexandria is not therefore proved. There is, however, reference in the Paulisa Siddhanta to Alexandria, or Yavanapura, as it was known to Hindu savants. The longitudes of Ujjain, and Banaras are given with reference to Alexandria (P.S., Chap. III). 
+Alberuni (1030-44 A.D.) who was acquainted with it, said that it was an adaptation from an astronomical treatise of Paulus of Saintbra, i.e., of Alexandria. But it.is not clear whether he had actually seen Paulus's treatise, and compared it with the Paulisa Siddhānta or simply made a guess on the analogy of names merely, The name of one Paulus is found in the Alexandrian list of savants (378 A.D.) but his only known work is one on astrology, and it has nothing in common with Paulisa Siddhāntā, which appears to have been purely añ astronomical treatise as we can reconstruct it from the Pañca Siddhāutikā (vide infra). The ascription to Paulus.of Alexandria is not therefore proved. There is, however, reference in the Paulisa Siddhānta to Alexandria, or Yavanapura, as it was known to Hindu savants. The longitudes of Ujjain, and Banaras are given with reference to Alexandria (P.S., Chap. III). 
 
 The Pañia Siddhantikā devotes à few stanzas of Chaps. I, III, VI, VII, and VIII to this exposition of the Paulisa Siddhānta. Nobody seems to have gone critically into the contents of these chapters after Dr. Thibaut who tried to explain these in his introduction to the Panica Siddhāntika, but left most of them unexplained owing to their obscurity. 
 
 In Chap. I. (verses 24-25), 30 Lords of the days of the month are mentioned. This is quite un-Indian 
 
-The Romaka Siddhanta : The Romaka Siddhanta as reviewed by Varahamihira 
+The Romaka Siddhānta : The Romaka Siddhānta as reviewed by Varahamihira 
 
 uses : 
 
@@ -6151,7 +6151,7 @@ A Yuga of 2850 years = 19 x 5x 30 years ;
 
 1 year = 365.2467 «lays. The number of intercalary months in the yuga is given as 1050, i.e., there are 7 intercalarý months in 19 years. 
 
-and reminds one of the Iranian calendar in which each one of thirty days of the month is named after a god or principle (see $ 2.3). The names of the lords of the days as given in the Paulisa Siddhanta are of course all Indian. 
+and reminds one of the Iranian calendar in which each one of thirty days of the month is named after a god or principle (see $ 2.3). The names of the lords of the days as given in the Paulisa Siddhānta are of course all Indian. 
 
 Chap. XII-Cosmogony, Geography, Dimension 
 
@@ -6159,11 +6159,11 @@ of the Creation. , XIII-Armillary Sphere, and other
 
 .. . Instruments. . XIV-Different modes of reckoning Time. 
 
-The Surya Siddhanta Of all the Siddhantas mentioned by Varāhamihira this alone has survived and is still regarded with veneration by Indian astrologers. This Siddhanta was published with annotations by Rev. E. Burgess, in 1860, and has been republished by the Calcutta University under the editorship of.P. L. Gangooly, with an intro duction by Prof. P. C. Sengupta. . 
+The Surya Siddhānta Of all the Siddhāntas mentioned by Varāhamihira this alone has survived and is still regarded with veneration by Indian astrologers. This Siddhānta was published with annotations by Rev. E. Burgess, in 1860, and has been republished by the Calcutta University under the editorship of.P. L. Gangooly, with an intro duction by Prof. P. C. Sengupta. . 
 
-This is supposed to have been described by the ṣungod to Asura Maya, the architect of the gods, who revealed it to the Indian Rṣis. These legends certainly represent some sort of borrowing from the West, but it would be fruitless to define its exact nature unless the text is more critically examined. Varāhamihira describes in Chapters IX, X, XI, XVI, XVII of the Panca Siddhāntikā the contents of the Surya Siddhānta as known to him ; they are somewhat different from those as found in the modern text. It appears that this Siddhanta was constantly revised with respect to the astronomical constants contained in it as all astronomical treatises should be. The text as we have now was fixed up by Ranganatha in 1603 after which there have been no changes. Burgess, from a study of the astronomical constants, thought that the final text referred to the year 1091 A.D. Prof. P. C. Sengupta shows that the S.S. as reported by Varahamihira borrowed elements of astronomical data from Aryabhata, and the S.S. as current now has borrowed elements from Brahmagupta (628 A.D.). 
+This is supposed to have been described by the ṣungod to Asura Maya, the architect of the gods, who revealed it to the Indian Rṣis. These legends certainly represent some sort of borrowing from the West, but it would be fruitless to define its exact nature unless the text is more critically examined. Varāhamihira describes in Chapters IX, X, XI, XVI, XVII of the Panca Siddhāntikā the contents of the Surya Siddhānta as known to him ; they are somewhat different from those as found in the modern text. It appears that this Siddhānta was constantly revised with respect to the astronomical constants contained in it as all astronomical treatises should be. The text as we have now was fixed up by Ranganatha in 1603 after which there have been no changes. Burgess, from a study of the astronomical constants, thought that the final text referred to the year 1091 A.D. Prof. P. C. Sengupta shows that the S.S. as reported by Varahamihira borrowed elements of astronomical data from Aryabhata, and the S.S. as current now has borrowed elements from Brahmagupta (628 A.D.). 
 
-The modern Surya Siddhanta is a book of 500 verses divided into 14 chapters, contents of which are described briefly below : 
+The modern Surya Siddhānta is a book of 500 verses divided into 14 chapters, contents of which are described briefly below : 
 
 Chap. I-Mean motions of the Planets. 
 
@@ -6179,7 +6179,7 @@ the Elevation of her Cusps. XI-Certain malignant Aspects of the
 
 Sun and the Mocn. 
 
-A scrutiny of the text shows that it is, with the exception of a few elements, almost completely astro nomical. A few verses in Chap. III, viz., Nos. 9-12 deal with the trepidation theory of the precession of equinoxes. These are regarded by all critics of the Surya Siddhanta to be interpolations made after the 12th century., 
+A scrutiny of the text shows that it is, with the exception of a few elements, almost completely astro nomical. A few verses in Chap. III, viz., Nos. 9-12 deal with the trepidation theory of the precession of equinoxes. These are regarded by all critics of the Surya Siddhānta to be interpolations made after the 12th century., 
 
 It will take us too much away from our main theme to give a critical account of this treatise, but every critic has admitted that the text does not show any influence of Ptolemy's Almagest. Prof. P. C. Sen gupta's introduction is particularly valuable. This Siddhānta indicates that longitudes should be calculated from Ujjain and makes no mention of Alexandria. Prof. Sengupta thinks that it dated from about 400 A.D., but a scrutiny of the co-ordinates of certain stars marking the ecliptic, which we have discussed in Appendix 5-B, shows that it might have utilized data collected about 280 A.D., when the star Cierā la Virginis), was close to the autumnal equinoctial point, and is therefore subsequent to 280 A.D. 
 
@@ -6187,9 +6187,9 @@ The rules of framing the calendar are found in Chapter XII of which we give an a
 
 After about 500 A.D., the Indian astronomers gave up the pretext of ascribing astronomical treatises to gods or mythical sages and began to claim authorship of the treatises they had written ; the earliest that has survived is that of Aryabhata (476—523 A.D.). The objects of their treatises were to frame rules for calendaric calculations, knowledge of astronomy forming the basis on which these rules were framed. 
 
-In addition to the Surya Siddhanta only two other systems have survived, viz., 
+In addition to the Surya Siddhānta only two other systems have survived, viz., 
 
-The Arya Siddhanta-due to Aryabhata II, an astronomer of the 10th century, and supposed to be related to the Aryabhatiya of Aryabhata, who claims to have derived it from Brahmā, the Creator. 
+The Arya Siddhānta-due to Aryabhata II, an astronomer of the 10th century, and supposed to be related to the Aryabhatiya of Aryabhata, who claims to have derived it from Brahmā, the Creator. 
 
 The Brahma Siddhānta-vaguely related to the Paitāmaha Siddhānta, but the human authorship is ascribed to the celebrated astronomer Brahmagupta (628 A.D.). 
 
@@ -6203,13 +6203,13 @@ Lanka, which is technically the name of a locality on the equator lying in the m
 
 The name Romaka vaguely refers to the capital of the Roman Empire. 'Yamakoți' is quite fanciful. 
 
-The Surya Siddhanta takes it for granted that the sun's yearly motion through the ecliptic is known to the reader and now proceeds to explain the Signs of the Zodiac. 
+The Surya Siddhānta takes it for granted that the sun's yearly motion through the ecliptic is known to the reader and now proceeds to explain the Signs of the Zodiac. 
 
-Surya Siddhanta XII, 45 Meṣādau devabhāgasthe devānām yāti darśanam . Asurāņāón tulādau tu sūryastadbhāga sañcarah. 
+Surya Siddhānta XII, 45 Meṣādau devabhāgasthe devānām yāti darśanam . Asurāņāón tulādau tu sūryastadbhāga sañcarah. 
 
 The Solar Calendar according to the 
 
-Surya Siddhanta The first few verses of Chap. XII deal with the creation of the world according to Hindu conception, and the creation of the elements ; of the sun, the moon, and the planets. The universe is taken to be geocentric, and the planets in order of their decreasing distances from the earth are given as (vide verse 31,) : 
+Surya Siddhānta The first few verses of Chap. XII deal with the creation of the world according to Hindu conception, and the creation of the elements ; of the sun, the moon, and the planets. The universe is taken to be geocentric, and the planets in order of their decreasing distances from the earth are given as (vide verse 31,) : 
 
 Saturn, Jupiter, Mars, the Sun, Venus, Mercury 
 
@@ -6261,11 +6261,11 @@ Aries, are, the months;;. of them isi made up the year-(10)
 
 These quotations leave not the slightest doubt that according to the compilers of the S.S., the first point of the zodiac is the point of intersection of the ecliptic and the equator, and the signs of the zodiac cover 30° each of the ecliptic. 
 
-It is supposed on good grounds that much of the astronomical knowledge found in the Surya Siddhanta is derived from Graeco-Chaldean sources. But it is clear from the text that the compilers of the S.S. had no knowledge of the precession of equinoxes, but they took the first point of Aries to be fixed. This is not to be wondered at, for as shown in $ 4.9, inspite of the works of Hipparchos and Ptolemy, precession was either not accepted or no importance was attached to it by the astronomers of the Roman empire. It may be added that the compilers of the S.S. were not aware of the theory of trepidation of equinoxes which appears to have been first formulated in the West by Theon of Alexandria (ca. 370 A.D.). It is also important to note that the Indian astronomers did not take the first point of Aries to be identical with that given either by Hipparchos, Ptolemy or any other western authority as would have been the case if there was blind-folded borrowing. They assimilated the astro nomical knowledge intelligently and took the first point of Aries as the point of intersection of the equator and the ecliptic, and made successive attempts to determine it by some kind of actual observations, 28 shown in appendix 5-B. These observations appear first to have been made about 280 A.D. 
+It is supposed on good grounds that much of the astronomical knowledge found in the Surya Siddhānta is derived from Graeco-Chaldean sources. But it is clear from the text that the compilers of the S.S. had no knowledge of the precession of equinoxes, but they took the first point of Aries to be fixed. This is not to be wondered at, for as shown in $ 4.9, inspite of the works of Hipparchos and Ptolemy, precession was either not accepted or no importance was attached to it by the astronomers of the Roman empire. It may be added that the compilers of the S.S. were not aware of the theory of trepidation of equinoxes which appears to have been first formulated in the West by Theon of Alexandria (ca. 370 A.D.). It is also important to note that the Indian astronomers did not take the first point of Aries to be identical with that given either by Hipparchos, Ptolemy or any other western authority as would have been the case if there was blind-folded borrowing. They assimilated the astro nomical knowledge intelligently and took the first point of Aries as the point of intersection of the equator and the ecliptic, and made successive attempts to determine it by some kind of actual observations, 28 shown in appendix 5-B. These observations appear first to have been made about 280 A.D. 
 
 precession of the equinoxes, they were unaware of the distinction between the sidëreal year and the tropical year. They had to obtain the year-length either from observation or from outside sources. If they obtained it from observations, they must have counted the number of days passed between the return of the sun to the same point in the sky over a number of years. Such observations would show that the year had not the traditional value of 366 days given in Veranga Jyotiṣa, but somewhat less. In fact, the Paitāmaha length is 365.3569 days and there is no reason to believe that it was derived from foreign sources. Successive observations must have enabled the Indian savants to push the accuracy still higher.. 
 
-Or alternatively they might have borrowed the value from Graeco-Chaldean astronomy, but we cannot then explain why their value is larger than Ptolemy's. We have seen that the Romaka Siddhanta gives a value which is Hipparchos's, and tropical, but the three more correct Siddhantas reject it, as being too small. This however indicates that they probably tried to derive the length from observations as stated in the previous paragraph and found the Romaka Siddhānta-length too small. If they had taken it from some other source, we have still to discover that source. It is certainly not Ptolemy's Almagest. 
+Or alternatively they might have borrowed the value from Graeco-Chaldean astronomy, but we cannot then explain why their value is larger than Ptolemy's. We have seen that the Romaka Siddhānta gives a value which is Hipparchos's, and tropical, but the three more correct Siddhāntas reject it, as being too small. This however indicates that they probably tried to derive the length from observations as stated in the previous paragraph and found the Romaka Siddhānta-length too small. If they had taken it from some other source, we have still to discover that source. It is certainly not Ptolemy's Almagest. 
 
 The ex-cathedra style of writing adopted by the Siddhantic astronomers, e.g., the number of days in a Kalpa (a period of 4.32 x 10 years) is 1,577,917,828,000 according to Grandfather Brahmā, or the Sungod, does not enable one to trace the steps by which these conclusions were reached. 
 
@@ -6293,7 +6293,7 @@ N. B. Varāhamibira's length of the year is also found in Aryabhata's ārdharāt
 
 How did the Indianrants manage to have such a wrong value for the length of the year? 
 
-The year, according to the Surya. Siddhanta is meant to be clearly tropical, but as the Indian savants compiling the S,S..were:ignorant of the phenomenon of 
+The year, according to the Surya. Siddhānta is meant to be clearly tropical, but as the Indian savants compiling the S,S..were:ignorant of the phenomenon of 
 
 INDIAN CALENDAR 
 
@@ -6307,13 +6307,13 @@ The Siddhantic astronomers thus brought the Indian calendar on a line with the G
 
 In a few cases, e.g., in the case of the Vikrama era reckoning as followed in parts of Guzrat, the year. beginning is in Kārtika. This seems to be reminiscent of the custom amongst the Macedonian Greek rulers of Babylon to start the year on the autumnal equinox day. 
 
-· Effect of continuance of the mistake The Surya Siddhanta value, viz., 365.258756 days is larger than the correct sidereal value by .002394 days and larger than the tropical length by .016560 days. 
+· Effect of continuance of the mistake The Surya Siddhānta value, viz., 365.258756 days is larger than the correct sidereal value by .002394 days and larger than the tropical length by .016560 days. 
 
 As the S.S. value is still used in almanac-framing, the effect has been that the year:beginning is advancing by .01656 days per year, so that in course of nearly 1400 years, the year-beginning has advanced by 23.2 days, so that the Indian solar year, instead of starting on the day after the vernal equinox (March 22) now starts on April 13th or 14th. The situation is the same as happened in Europe, where owing to the use of a year-length of 365.25 days, since the time of Julius Cæsar, the Christmas preceded the winter solstice by 10 days, when the error was rectified by a Bull of Gregory XIII, and the calendar was stabilized by introducing revised leap-year rules. 
 
 The Calendar Reform Committee has proposed that the Indian New Year should start on the day after the vernal equinox day. Most of the Indian calendar makers belong to the no-changer school, or the nirayaņa school (i.e., school not believing in the precession of the equinoxes). But this school does not realize that even if the sidereal length of the year be: acceped, the Indian year-length used by them is larger by nearly .0024 days, which cannot be tolerated. So if a change has to be made, it is better to do it whole-hog, i.e., take the year-length to be tropical, and start the year on the day after the vernal equinox. 
 
-. This is the proposal of the Indian Calendar Reform Committee, and it is in full agreement with the canons laid down in the Surya Siddhanta. 
+. This is the proposal of the Indian Calendar Reform Committee, and it is in full agreement with the canons laid down in the Surya Siddhānta. 
 
 The First Month of the Year : This has to be defined with respect to the defini tion of the seasons. 
 
@@ -6457,7 +6457,7 @@ Surya Siddhānta, Chap. 1,13 Aindavastitþibbi-stadyat samkrāntyā saura' ucyat
 
 Translation : A lunar month, of as many lunar days (titha) ; a solar (saura) month is determined by the entrance of the sun into a sign of the zodiac, i.e. the length of the month is the time taken by the sun in passing 30° of its orbit, beginning from the initial point of a sign ; twelve months make a year, this is called a day or the gods. 
 
-This definiton is accepted by the Ārya, and Brahma Siddhantas as well. 
+This definiton is accepted by the Ārya, and Brahma Siddhāntas as well. 
 
 The working of this rule gives rise to plenty of difficulties, which are described below : 
 
@@ -6523,7 +6523,7 @@ A
 
 The modern elliptic theory of planetary orbits was Fig. 25 
 
-not known to the makers of Indian Siddhantas, but 
+not known to the makers of Indian Siddhāntas, but 
 
 they knew that the sun's true motion was far (i) the line of apsides of the earth's elliptic orbit 
 
@@ -6539,7 +6539,7 @@ amounts to a degree of arc in 31,008 years, or 11" in a Fig. 26
 
 century. The variations of the durations of months 
 
-due to this slow motion of the apse line is quite in space but is advancing along the ecliptic at the negligible and the lengths of the months according to rate of 61".89 per year or 1.°72 per century. This is the Sūrya Siddhanta are practically constant over ages. 
+due to this slow motion of the apse line is quite in space but is advancing along the ecliptic at the negligible and the lengths of the months according to rate of 61".89 per year or 1.°72 per century. This is the Sūrya Siddhānta are practically constant over ages. 
 
 Table 17—Lengths of different solar months rockoned from the vernal equinox. 
 
@@ -6611,7 +6611,7 @@ C.B.-39
 
 e 
 
-In the Sūrya Siddhānta, a formula is given for finding the true longitude of the sun from its mean longitude. As the length of a month is the time taken by the sun to traverse arcs of 30° each along the ecliptic by its true motion, the lengths of the different months can be worked out when its true longitudes on different dates of the year are known. The true longitude is obtained by the Sūrya Siddhanta with the help of the following formula : 
+In the Sūrya Siddhānta, a formula is given for finding the true longitude of the sun from its mean longitude. As the length of a month is the time taken by the sun to traverse arcs of 30° each along the ecliptic by its true motion, the lengths of the different months can be worked out when its true longitudes on different dates of the year are known. The true longitude is obtained by the Sūrya Siddhānta with the help of the following formula : 
 
 True Long. - Mean Long.–133.'68 sin K 
 
@@ -6625,7 +6625,7 @@ beginning of the solar month The samkranti oi ingress of the sun into the differ
 
 Rules of Samkranti 
 
-At the approximate time of each saṁkrānti, the true longitude of the sun is calculated by the above formula for two successive days, one before the attainment of the desired multiple of 30° of longitude and the other after it, and then the actual time of crossing the exact multiple of 30th degree is obtained by the rule of simple proportion. This is called the time of saṁkrānti or solar transit. The time interval between the two successive saṁkrāntis is the actual length of the month, The lengths of the months thus derived from the Sūrya Siddhanta compared with the modern values, s.c., the values which we get after taking the elliptic motion of the sun, and the shift of the first point of Aries are shown in Table No. 17, on p. 243, in which : 
+At the approximate time of each saṁkrānti, the true longitude of the sun is calculated by the above formula for two successive days, one before the attainment of the desired multiple of 30° of longitude and the other after it, and then the actual time of crossing the exact multiple of 30th degree is obtained by the rule of simple proportion. This is called the time of saṁkrānti or solar transit. The time interval between the two successive saṁkrāntis is the actual length of the month, The lengths of the months thus derived from the Sūrya Siddhānta compared with the modern values, s.c., the values which we get after taking the elliptic motion of the sun, and the shift of the first point of Aries are shown in Table No. 17, on p. 243, in which : 
 
 Column (1) gives the names of months. 
 
@@ -6637,7 +6637,7 @@ of the sun. (3) gives the lengths of the months
 
 derived from the Sūrya 
 
-Siddhanta rules. (4) gives the correct lengths of the 
+Siddhānta rules. (4) gives the correct lengths of the 
 
 months as in 1950 A.D. (5) gives the corresponding names of the 
 
@@ -6679,13 +6679,13 @@ from such rules vary from 29 to 32, which is very inconvenient from various aspe
 
 The Committee has therefore felt that there is no need for keeping the solar months as astronomically defined. The length of 30 and 31 days are quite enough. for civil purposes. Moreover, fixed durations of months by integral number of days is the most convenient system in calendar making. The five months from the second to the sixth have the lengths of over 30 days, and so their lengths have been rounded to 31 days each ; and to the remaining months 30 days have been allotted. 
 
-6.7 THE LUNAR CALENDAR IN THE SIDDHANTA 
+6.7 THE LUNAR CALENDAR IN THE Siddhānta 
 
 : JYOTISHA PERIOD. 
 
 Justification of the Solar Calendar as proposed 
 
-by the Committee It has been shown that the intention of the maker of Sarya Siddhānta and of other Siddhantas was to start the year from the moment of sun's crossing the vernal equinoctial point and to start the civil year from the day following. The Committee has also adopted this view and proposed that the civil year for all-India use should start from the day following the V. E. day, i.e., from March 22. In the Vedic literature also it is found that the starting of the year was related with one or other of the cardinal days of the year. The Vedanga Jyotiṣa started the year from the winter solstice day, the Brāhmaṇas started the year from the Indian spring (Vasanta) when the tropical (Sayana) longitude of the sun amounted to 330°, but in the Siddhantic period the year-beginning coincided with the V. E. day. So in adopting the Sāyana system in our calendar calculations, the Indian tradition, from the Vedic times up to the Siddhantic times, has been very faithfully observed. This has ensured that the Indian seasons would occupy permanent places in the calendar. . 
+by the Committee It has been shown that the intention of the maker of Sarya Siddhānta and of other Siddhāntas was to start the year from the moment of sun's crossing the vernal equinoctial point and to start the civil year from the day following. The Committee has also adopted this view and proposed that the civil year for all-India use should start from the day following the V. E. day, i.e., from March 22. In the Vedic literature also it is found that the starting of the year was related with one or other of the cardinal days of the year. The Vedanga Jyotiṣa started the year from the winter solstice day, the Brāhmaṇas started the year from the Indian spring (Vasanta) when the tropical (Sayana) longitude of the sun amounted to 330°, but in the Siddhantic period the year-beginning coincided with the V. E. day. So in adopting the Sāyana system in our calendar calculations, the Indian tradition, from the Vedic times up to the Siddhantic times, has been very faithfully observed. This has ensured that the Indian seasons would occupy permanent places in the calendar. . 
 
 As regards the number of days. per month, although the Surya Siddhānta defines only the astronomical: solar month as the time taken by the sun to traverse 30° of arc of the ecliptic, four different conventions have been evolved in different States of India for determining the first day of the civil month from the actual time of transit as narrated earlier. None of the conventions is perfect. Such rules do not yield fixed number of days for a month, as a result of which it becomes extremely difficult for a chrono logist to locate any given date of this calendar, unambiguously, in the Gregorian calendar, without going through lengthy and laborious calculations. Moreover, the number of days of months obtained 
 
@@ -6821,11 +6821,11 @@ new-moon ending month, it may begin on any day during the last half of the prece
 
 The months used for civil purposes in the Hindi calendar are the full-moon ending lunar months, and are sub-divided into two halves-krsna pakṣa covering the period from full-moon to new-moon and termed as vadi, and sukla pakṣa covering the period from new moon to full-moon and termed as sudi. As these months, are on the gauna māna, the vadi half of a month comes first followed by the sudi half. The last day of the year is therefore a full-moon day, the Phalguni (or Holi ) Purnima, in keeping with the ancient Indian custom. 
 
-The Samvat and Saka years in the Hindi calendar begins with Caitra sukla Pratipad. For astronomical purposes, however, the year begins a few days later with the entrance of the sun into Meṣa. 
+The Samvat and śaka years in the Hindi calendar begins with Caitra sukla Pratipad. For astronomical purposes, however, the year begins a few days later with the entrance of the sun into Meṣa. 
 
 The calendars of Āṣādhi Samvat and Kārtiki Samvat are, on the other hand, based on the new-moon ending months, and consequently the months begin 15 days later than the months of the Caitrādi full-moon ending calendar. The Āsādhi calendar begins with Aṣādha Sukla 1, and the Kārtiki calendar with Kārtika Sukla 1. 
 
-The table (No. 20 on p. 249) shows the scheme of the different calendars for the year Saka 1875 (1953-54). The year contains a māla or adhika month. 
+The table (No. 20 on p. 249) shows the scheme of the different calendars for the year śaka 1875 (1953-54). The year contains a māla or adhika month. 
 
 It may be seen from the above mentioned table that in case of the light half of the month (sudi half) the month has the same name for the two systems of month-reckonings, but in the dark half of the month 
 
@@ -6873,7 +6873,7 @@ The tithi or lunar day. is measured by the positions of the moon and the sun. Wh
 
 As opposed to the above-mentioned case, the tithi sometimes extends over two days, there being no tithi ending in a day (from sunrise to next sunrise). As the same tithi remains current on two successive sunrises, the same tithi-number is allotted to both the days ; In the second day, however, it is suffised by the term 
 
-Mala Masa and Købaya Masa It has been stated befcre that even at the beginning of the Siddhanta Jyotiṣa period, the intercalary months (mala or adhika) were determined on the basis of the mean motions of the sun and the moon, and as such there was no possibility of the occurrence of any so called kṣaya or decayed month. But as already mentioned, from about 1100 A.D., the intercalary months are being determined on the basis of the true motions of the luminaries, s.e., on the actual lengths of the new-moon-ending lunar month and of the different solar months as obtained from Siddhantic rules. This gave rise to the occurrence of kṣaya months, and the intercalary months were also placed at very irregular intervals. 
+Mala Masa and Købaya Masa It has been stated befcre that even at the beginning of the Siddhānta Jyotiṣa period, the intercalary months (mala or adhika) were determined on the basis of the mean motions of the sun and the moon, and as such there was no possibility of the occurrence of any so called kṣaya or decayed month. But as already mentioned, from about 1100 A.D., the intercalary months are being determined on the basis of the true motions of the luminaries, s.e., on the actual lengths of the new-moon-ending lunar month and of the different solar months as obtained from Siddhantic rules. This gave rise to the occurrence of kṣaya months, and the intercalary months were also placed at very irregular intervals. 
 
 The period from new-moon to new-moon (the lunar month ) is not a period of fixed duration ; it varies within certain limits according to the different positions of the apse line of the lunar and solar orbits, as follows : 
 
@@ -7105,9 +7105,9 @@ Comparing the above limits with the actual leagths of months stated before, it i
 
 The maximum duration of a lunar month, on the other hand, exceeds the lengths of the solar months only in case of solar Agrahāyanan Pausa and Māgha. So a kṣaya month is possible only in these three months. 
 
-A list is given below showing the actual intercalary months occurring during the period Saka 1823 (1901-2 A. D.) to Saka 1918 (1996-97 A. D.) on the basis of Sūrya Siddhānta calculations. 
+A list is given below showing the actual intercalary months occurring during the period śaka 1823 (1901-2 A. D.) to śaka 1918 (1996-97 A. D.) on the basis of Sūrya Siddhānta calculations. 
 
-Saka A.D. Kṣaya month Adhika month 1115. 1193:94 Pauza 
+śaka A.D. Kṣaya month Adhika month 1115. 1193:94 Pauza 
 
 Asvina, Caitra 1180 1258-59 Pausa 
 
@@ -7143,11 +7143,11 @@ Panga
 
 Aøvina, Caitra 1885 1963-64 Pauga 
 
-Asvina, Caitra It will be observed from the above table that according to Surya Siddhanta calculations one kṣaya month occurs on average after 63 years. But one may repeat as soon as after 19 years and as late as after 141 years. In rare cases they recur after 46, 65, 76 and 122 years. 
+Asvina, Caitra It will be observed from the above table that according to Surya Siddhānta calculations one kṣaya month occurs on average after 63 years. But one may repeat as soon as after 19 years and as late as after 141 years. In rare cases they recur after 46, 65, 76 and 122 years. 
 
-Table 21. Intercalary months in the present century Saka 
+Table 21. Intercalary months in the present century śaka 
 
-Saka 1823 Śrāvana 
+śaka 1823 Śrāvana 
 
 1872 Aṣādha 1826 Jyaiṣtha 
 
@@ -7183,13 +7183,13 @@ Saka 1823 Śrāvana
 
 1915 Bhādra 1869 Srāvana 
 
-1918 Aṣādha * Pauṣa is Kșaya, ** Māgha is Kṣaya. As regards the kṣaya months that occurred and will be occurring during the period from 421 Saka (499-500 A.D.) to 1885 Saka (1963-64 A.D.) a statement is given below showing all such years mentioning the month which is kṣaya and also the months which are adhika in these years. The calculations are based on Surya Siddhānta without bija corrections upto 1500 A. D. and with these corrections after that year. 
+1918 Aṣādha * Pauṣa is Kșaya, ** Māgha is Kṣaya. As regards the kṣaya months that occurred and will be occurring during the period from 421 śaka (499-500 A.D.) to 1885 śaka (1963-64 A.D.) a statement is given below showing all such years mentioning the month which is kṣaya and also the months which are adhika in these years. The calculations are based on Surya Siddhānta without bija corrections upto 1500 A. D. and with these corrections after that year. 
 
 Intercalary months according to 
 
-modern calculations The lunar calendar proposed by the Committee for religious purposes is based on the most up-to-date value of the tropical year and the correct timings of new-moon. As such the intercalary months according to these calculations would not always be the same as determined from Surya Siddhanta-calculations and shown above, The intercalary (mala or adhika) and decayed (kṣaya) months according to these calculations are shown below for Saka years 1877 to 1902. Table 23—Intercalary month according 
+modern calculations The lunar calendar proposed by the Committee for religious purposes is based on the most up-to-date value of the tropical year and the correct timings of new-moon. As such the intercalary months according to these calculations would not always be the same as determined from Surya Siddhānta-calculations and shown above, The intercalary (mala or adhika) and decayed (kṣaya) months according to these calculations are shown below for śaka years 1877 to 1902. Table 23—Intercalary month according 
 
-to modern calculations. Saka A.D Intercalary Saka A.D. Intercalary 
+to modern calculations. śaka A.D Intercalary śaka A.D. Intercalary 
 
 Month 
 
@@ -7197,7 +7197,7 @@ Month 1877 1955-56 Bhadra. 1896 1974-75 Bhādra 1880 1958-59 Srāvana 1899 1977-
 
 (Agrabāyaṇa kṣaya) 1888 1966-67 Śrāvana 1891 1969-70 Āsādha 1894 1972-73 Vaisakha 
 
-saka 
+śaka 
 
 448 
 
@@ -7233,7 +7233,7 @@ Asvina, Caitra
 
 huga 
 
-According to the Siddhantic rules, the lunar calendar is pegged on to the solar calendar, and so it is the luni-solar calendar with which we are at present concerned. It has already been shown that the length of the Sūrya Siddhanta year is greater than the year of the seasons (i.e., the tropical year) by about 24 minutes. As a result of this the seasons have 
+According to the Siddhantic rules, the lunar calendar is pegged on to the solar calendar, and so it is the luni-solar calendar with which we are at present concerned. It has already been shown that the length of the Sūrya Siddhānta year is greater than the year of the seasons (i.e., the tropical year) by about 24 minutes. As a result of this the seasons have 
 
 INDIAN, CALENDAR 
 
@@ -7287,7 +7287,7 @@ Founder of Christianity, and its day of starting may be Māsa
 
 Sun 
 
-Siddhanta Value 
+Siddhānta Value 
 
 widely different from the actual birthday of Christ, (1950 A.D.) 
 
@@ -7319,7 +7319,7 @@ wake of Akber's introduction of Tarikh Ilahi..
 
 both solar and the lunar as the case may be, the parti 
 
-cular regions of India where it is current. Inspite of The lengths of the months according to the Surya the apparent diversity in the ages of the esas, the Siddhanta are the same as shown earlier, as the methods of calendarical calculations associated with same month was used by the S. S. for both the each era are almost identical to be more accurate, purposes. But the monturn value is different from 
+cular regions of India where it is current. Inspite of The lengths of the months according to the Surya the apparent diversity in the ages of the esas, the Siddhānta are the same as shown earlier, as the methods of calendarical calculations associated with same month was used by the S. S. for both the each era are almost identical to be more accurate, purposes. But the monturn value is different from 
 
 only slightly different and follow the rules given in that shown before, due to the fact that a different 
 
@@ -7329,9 +7329,9 @@ The modern value is, however, not fixed for all
 
 * Generally, but not always the Indian arus have "elapsed... times, but it undergoes slight variation as explained 
 
-years". Thus year 1876 of Saka era would be, if we followed previouslý. 
+years". Thus year 1876 of śaka era would be, if we followed previouslý. 
 
-the western convention, jear 1877 Saka (current). 
+the western convention, jear 1877 śaka (current). 
 
 C. R.-40 
 
@@ -7347,7 +7347,7 @@ Continuous eras first began to be used in the re cords of the Indo-Scythian king
 
 What is then the origin of the Kaliyuga or Saptarsi era given in Table 27 which go back to thousands of years before Christ? We are going to show presently that they are extrapolated eras invented much later than the alleged starting year. 
 
-It is clear from historical records that date-recor ding by an era in India started from the time of the Kuṣana emperors and Saka satraps of Ujjain. But India cannot be singled out in this respect, for none of the great nations of antiquity, vix., Egypt, Babylon, Assyria or later Greece and Rome, used a continuously running era till rather late in their history. The introduction of the era is connected with the develop ment of the sense of 'History' which came rather late to all civilized nations. 
+It is clear from historical records that date-recor ding by an era in India started from the time of the Kuṣana emperors and śaka satraps of Ujjain. But India cannot be singled out in this respect, for none of the great nations of antiquity, vix., Egypt, Babylon, Assyria or later Greece and Rome, used a continuously running era till rather late in their history. The introduction of the era is connected with the develop ment of the sense of 'History' which came rather late to all civilized nations. 
 
 centuries in the total period of the cycle. Each cen tury is named after a naksatra, viz., Afrint, Bharani, etc ; and the number of years within the century is generally mentioned, so that the number of year of the era never exceeds 100. This era was in use in Kashmir and neighbouring places. In fact this era has no relation with the seven Rsis (the Great Bear) in the sky or with any actual naksatra division. There is difference of opinion as to the beginning of the era. According to Vrddha Garga and the Puranas the. starting year of the tenth century named after Magha are 3177 B.C., 477 B.C. and 2224 A.D. of the different cycles, when according to Varahamihira the third century named Krttikā begins. The beginning years of Varahamihira's Magha century of the different cycles are however 2477 B. C., 224 A. D. and 2924 A.D. 
 
@@ -7373,15 +7373,15 @@ It is first mentioned by Aiyabbata, the great i stronomer of ancient Påtaliputr
 
 INDIAN QALENDAR 
 
-years of the Kaliyuga had passed .when he was 23 years old which is Saka year 421 (499 A. D.). It is not mentioned earlier either in books or in inscriptions. 
+years of the Kaliyuga had passed .when he was 23 years old which is śaka year 421 (499 A. D.). It is not mentioned earlier either in books or in inscriptions. 
 
-The first mention of this era in an inscription is found in the year 634-35 A.D., the inscription being that of king Pulakesin II of the Calukya. dynasty of Badam!, or somewhat earlier in a Jain treatise. It was most probably an era invented on astrological grounds just like the era of Nabonassar, by Aryabhata or some other astropomer, who felt that the great antiquity of Indian civilization could not be described by the eras then in use (Saka, Chedi or Gupta era), as they were too recent. 
+The first mention of this era in an inscription is found in the year 634-35 A.D., the inscription being that of king Pulakesin II of the Calukya. dynasty of Badam!, or somewhat earlier in a Jain treatise. It was most probably an era invented on astrological grounds just like the era of Nabonassar, by Aryabhata or some other astropomer, who felt that the great antiquity of Indian civilization could not be described by the eras then in use (śaka, Chedi or Gupta era), as they were too recent. 
 
 What were these astrological grounds ? The astrological grounds were that at the beginning of the Kaliyuga, the sun, the moon and the planets were in one zodiacal sign near the fixed Siddhantic Meṣadi which according to some authorities is Ś Piscium, but according to others is 180° from Citrā or a Virginis. This was probably a back calculation based on the then prevailing knowledge of planetary motion, but has now been found to be totally wrong, when recalculated with the aid of more accurate modern data on planetary motion. We quote from 
 
 Ancient Indian Chronology, pp. 35-39 by Prof. P. C. Sengupta, who has given a full exposition of Burgess's views on this point, with recalculations of his own. 
 
-should also be a total eclipse of the Sun ; but no such things happened at that time. The beginning of the Kaliyuga was the midnight at Ujjayini terminating the 17th February of 9102 B.O., &ccording to Sūrya Siddhanta and the ārdharātrika system of Aryabhata's astronomy as described in the Khandakhādyaka of Brahmagupta. Again this Kaliyuga is said to have begun, according to the Aryabhatiya from the sunrise at Lankā (supposed to be on the equator and on the same meridian with Ujjain)—from the mean sunrise on the 18th Feb., 3102 B.O. . 
+should also be a total eclipse of the Sun ; but no such things happened at that time. The beginning of the Kaliyuga was the midnight at Ujjayini terminating the 17th February of 9102 B.O., &ccording to Sūrya Siddhānta and the ārdharātrika system of Aryabhata's astronomy as described in the Khandakhādyaka of Brahmagupta. Again this Kaliyuga is said to have begun, according to the Aryabhatiya from the sunrise at Lankā (supposed to be on the equator and on the same meridian with Ujjain)—from the mean sunrise on the 18th Feb., 3102 B.O. . 
 
 Now astronomical events of the type described above and more specially the conjunction of the sun and the moon 
 
@@ -7443,7 +7443,7 @@ The same as agsumed in the Ardharātrika system at the same time as before and a
 
 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
 
-Error in the aggumption of Aryabhata and also of the modern Sūrya Siddhanta and the Khandakhadyaka. 
+Error in the aggumption of Aryabhata and also of the modern Sūrya Siddhānta and the Khandakhadyaka. 
 
 + 8° 47'. 12" +4 497 - 3 58 7 -16 52 54 +423 19 -24 17 29 +20 24 
 
@@ -7529,7 +7529,7 @@ wrong in its data, and was thus started wrongly..
 
 alternatively as the Kộta era. A number of inscrip 
 
-· It is also established that the astronomical Kaliyuga- tions bearing dates in the Krta era have been found in reckoning is a pure astronomical fiction created for facilita Rajasthan, and the earliest of them goes back to the ting the Hindu :astronomical caloulations and was designed year 282 of the Krta era (The Nandsa Yupa inscription to be correct only for 499 A.D. This Kali-rockoning described by Prof. Altekar, Epigraphia Indica, Vol. cannot be earlier than the date when the Hindu scientific XXVII, p. 225). Siddhantas really came into boing. As this conclusion 
+· It is also established that the astronomical Kaliyuga- tions bearing dates in the Krta era have been found in reckoning is a pure astronomical fiction created for facilita Rajasthan, and the earliest of them goes back to the ting the Hindu :astronomical caloulations and was designed year 282 of the Krta era (The Nandsa Yupa inscription to be correct only for 499 A.D. This Kali-rockoning described by Prof. Altekar, Epigraphia Indica, Vol. cannot be earlier than the date when the Hindu scientific XXVII, p. 225). Siddhāntas really came into boing. As this conclusion 
 
 From these evidences, it has been concluded by cannot but be true, no Sanskrit work or epigraphic 
 
@@ -7549,7 +7549,7 @@ association with king Vikrama is first found in the the ninth century A.D. Let u
 
 year 737 A.D., nearly 800 years after the supposed In popular belief, the Vikrama era was started 
 
-date of king Vikrama. Its use appears to have been by kia Vikramaditya of Ujjain who is claimed to. at first confined to Kathiawar and Rajasthan for the have repelled an attack on this famous city by Saka 
+date of king Vikrama. Its use appears to have been by kia Vikramaditya of Ujjain who is claimed to. at first confined to Kathiawar and Rajasthan for the have repelled an attack on this famous city by śaka 
 
 whole of Northern India used between 320 A.D. to or Scythian hordes adout 57 B. C. and founded an 600 A.D., the Gupta era, which fell into disuse with era to commemorate his great victory. 
 
@@ -7561,27 +7561,27 @@ Rajasthan, conquered the city of Kanauj about 828 A.D., they brought the Vikrama
 
 The months of the Vikrama era are all lunar, and the first month is Caitra. The months begin after the full-moon but the year begins 15 days after the full moon of Phalguna, i.e. after the new-moon of Caitra. But for astronomical calculations, it is pegged on to a solar year, which starts on the first of solar Vaisakha, theoretically the day after the vernal equinox. The Vikrama era is current also in parts of Gujrat, but there the year begins in Kārtika and the months are amānta, which corresponds to the Macedonian month of Dios, and the epoch is just six months later. Thus the western and northern varieties of the Vikrama era follow respectively the Macedonian and Babylonian reckonings (see $ 3.3), the year of starting is 255 years later than that of the Seleucidean era. 
 
-The conclusion is that the champions of the Vikrama era have still to prove the existence of king Vikrama of Ujjain. Early inscriptions show that the method of date-retording is not typically Indian as in the Satavahana inscriptions but follow the Saka-Kuṣāņa method, which follows the contemporary . Graeco Chaldean method. It was therefore a foreign recko ning introduced either by the Greeks or Sakas, or an Indian prince or tribe who had imbibed some Graeco-Chaldean culture, but was adopted by the Malava tribes who migrated from the Punjab to Rajas than about the first century B.C. . The association with a king Vikrama occured 800 years later, and is probably due to lapse of historical memory, for the only historical king Vikramaditya who is known to have crushed the Saka power in Ujjain, was king Candragupta II of the Gupta dynasty (about 395 A.D.). Before this, the Saka dynasty in Ujjain had reigned almost in unbroken sequence from about 100 A.D. to 395 A.D., and had used an era of their own, later known as the "Saka' era. All the Gupta emperors from Samudragupta, had an "Aditya" title, and many of them had the title "Vikramaditya" so that the Gupta age was par excellence the age of Vikramadityas. But all the Gupta emperors use in their inscriptions the family era called the Guptakala which commemorated the foundation of Gupta empire (319 A.B). The association of the Malava era with king Vikramaditya, and assignment of king Vikramaditya to Ujjain, was due to confusion of historical memory not infrequent in Indian history. It may be mentioned that the Vikrama era is never used by Indian astro nomers for their calendaric calculations, for which puapose the Saka era is exclusively used. 
+The conclusion is that the champions of the Vikrama era have still to prove the existence of king Vikrama of Ujjain. Early inscriptions show that the method of date-retording is not typically Indian as in the Satavahana inscriptions but follow the śaka-Kuṣāņa method, which follows the contemporary . Graeco Chaldean method. It was therefore a foreign recko ning introduced either by the Greeks or Sakas, or an Indian prince or tribe who had imbibed some Graeco-Chaldean culture, but was adopted by the Malava tribes who migrated from the Punjab to Rajas than about the first century B.C. . The association with a king Vikrama occured 800 years later, and is probably due to lapse of historical memory, for the only historical king Vikramaditya who is known to have crushed the śaka power in Ujjain, was king Candragupta II of the Gupta dynasty (about 395 A.D.). Before this, the śaka dynasty in Ujjain had reigned almost in unbroken sequence from about 100 A.D. to 395 A.D., and had used an era of their own, later known as the "śaka' era. All the Gupta emperors from Samudragupta, had an "Aditya" title, and many of them had the title "Vikramaditya" so that the Gupta age was par excellence the age of Vikramadityas. But all the Gupta emperors use in their inscriptions the family era called the Guptakala which commemorated the foundation of Gupta empire (319 A.B). The association of the Malava era with king Vikramaditya, and assignment of king Vikramaditya to Ujjain, was due to confusion of historical memory not infrequent in Indian history. It may be mentioned that the Vikrama era is never used by Indian astro nomers for their calendaric calculations, for which puapose the śaka era is exclusively used. 
 
-(e) Tho Saka Bra The Saka Era is the era par excellence which has been used by Indian astronomers all over India in their calculations since the time of the astronomer Varaha mihira (died 587 A.D.) and probably earlier. The Indian almanac-makers, even now, use the Saka era for calculations, and then convert the calculations to their own systems. 
+(e) Tho śaka Bra The śaka Era is the era par excellence which has been used by Indian astronomers all over India in their calculations since the time of the astronomer Varaha mihira (died 587 A.D.) and probably earlier. The Indian almanac-makers, even now, use the śaka era for calculations, and then convert the calculations to their own systems. 
 
-This era is extensively used over the whole of India except in Tinnevelly and part of Malabar, and is more widely used than any otber era. It is also called Saka Kala, Saka Bhapa Kala, Sakendra Kala, and Salivabana Saka and also saka Samvat. Its years are Caitrādi for luni-solar reckoning and Meṣādi for solar reckoning. In the luni-solar reckoning the months are pūrnimântā in the North and amāntā in Southern India. The reckoning of the Saka era begins with the vernal equi nox of 78 A.D., and is measured by expired years, so the year between the vernal equinox of 78 A.D. to that of 79 A.D. is zero of Saka era. In some pañcangais of Southern India the current year is however seen to be used instead of the elapsed year, where the number of year of the era is one more than the era in general use 
+This era is extensively used over the whole of India except in Tinnevelly and part of Malabar, and is more widely used than any otber era. It is also called śaka Kala, śaka Bhapa Kala, Sakendra Kala, and Salivabana śaka and also śaka Samvat. Its years are Caitrādi for luni-solar reckoning and Meṣādi for solar reckoning. In the luni-solar reckoning the months are pūrnimântā in the North and amāntā in Southern India. The reckoning of the śaka era begins with the vernal equi nox of 78 A.D., and is measured by expired years, so the year between the vernal equinox of 78 A.D. to that of 79 A.D. is zero of śaka era. In some pañcāṅgais of Southern India the current year is however seen to be used instead of the elapsed year, where the number of year of the era is one more than the era in general use 
 
-But we are not yet sure about the origin of this era. It has been traced back to the Saka satraps of Ujjain, from the year 52 (130 A.D.) to the end of the dynasty about 395 A.D. But in their own records, they merely record it as year so and so, but there is not the slightest doubt that the era used by them subsequently became known as the Saka era (ride: 5.5) 
+But we are not yet sure about the origin of this era. It has been traced back to the śaka satraps of Ujjain, from the year 52 (130 A.D.) to the end of the dynasty about 395 A.D. But in their own records, they merely record it as year so and so, but there is not the slightest doubt that the era used by them subsequently became known as the śaka era (ride: 5.5) 
 
-The Old and the New Saka era. The dates given by different authorities about the starting year of the old Saka era mentioned in $ 5.5 vary from 155 B.C. to-88 B.G. as given below: Konow : 88 B.C. (date of death of Mithradates II, the 
+The Old and the New śaka era. The dates given by different authorities about the starting year of the old śaka era mentioned in $ 5.5 vary from 155 B.C. to-88 B.G. as given below: Konow : 88 B.C. (date of death of Mithradates II, the 
 
 powerful Parthian emperor who is 
 
 said to have subjugated the Sakas). Konow has proposed a number of other dates. Jayaswal : 120 B.C. : Herzfeld : 110 B.C. : Settlement of the Sakas in 
 
-..Seistan by Mithradates II. Rapson : 150 B.C. : Establishment of the Saka 
+..Seistan by Mithradates II. Rapson : 150 B.C. : Establishment of the śaka 
 
-kingdom of Seistan. Tarn : 155 B.C. : Date of settlement of the Saka 
+kingdom of Seistan. Tarn : 155 B.C. : Date of settlement of the śaka 
 
 immigrants in Seistan by 
 
-Mithradates I. Recently Dr. Van Lohuizen de Leeuw has discus sed the starting point of this era in her thought-provok ing book The Scythian Period of Indian History'. She bas Tejected all the above dates, and fixed up 129 B.C. as the starting date of the old Saka era. She identifies this year as the one in which the Śakas, descending from the Trans-Oxus region, attacked the Parthian empir 
+Mithradates I. Recently Dr. Van Lohuizen de Leeuw has discus sed the starting point of this era in her thought-provok ing book The Scythian Period of Indian History'. She bas Tejected all the above dates, and fixed up 129 B.C. as the starting date of the old śaka era. She identifies this year as the one in which the Śakas, descending from the Trans-Oxus region, attacked the Parthian empir 
 
 "WOW 
 
@@ -7597,9 +7597,9 @@ The points given in $ 5.5 and above may be summarized as follows:
 
 (a) The Sakas starting from Central Asia attacked the Parthian empire in 129: B.C., and overcame Parthian resistance by 123 B.C. : It is very probable that they started an era to commemorate their accession to power in Bactria from 123 B.C. They used Macedonian months and Graeco-Chaldean methods of calendaric. calculations as prevalent in the Seleucid and Parthian dominions, Probably the era was some times named after Azes, who was probably their leader. But this Azes is not to be confounded with later Azes I or Azes II, who reigned in Taxila between 40 B.C. and 20 B.C. Within the first 200 years of its starting, the era was alternatively called the Azes era, 
 
-(b) This Saka era ( known to archaeologists as the old Śaka era ) was used by the Saka emperors and Saka satraps in their Indian territories, but the time reckoning began to be gradually influenced by Indian customs. They began to use Indian months alter natively with Macedonian months and Parnimānta months in place of Amanta months. During the first 200 years, the hundreds were sometimes omitted, in the use of the era. : (c) The so-called Kaniska era is nothing but the old Saka era with 200 omitted. 
+(b) This śaka era ( known to archaeologists as the old Śaka era ) was used by the śaka emperors and śaka satraps in their Indian territories, but the time reckoning began to be gradually influenced by Indian customs. They began to use Indian months alter natively with Macedonian months and Parnimānta months in place of Amanta months. During the first 200 years, the hundreds were sometimes omitted, in the use of the era. : (c) The so-called Kaniska era is nothing but the old śaka era with 200 omitted. 
 
-(d) The Śaka era was used by the house of Castana of Ujjain with 200 omitted, but gradually they forgot the origin of the era and continued their own reckoning without further omission of hundreds upto the end of the Saka satrapal rule over Ujjaini about 395 A.D. As the early Indian astronomers were mostly of foreign origin (viz. Sakadvipi Brahmana) the astronomical reckonings necessary for compiling the calendar were carried out using the Saka era and Graeco-Chaldean astronomy. The blending of Graeco-Chaldean astronomy as known about the early years of the Christian era with older Indian calendarical features formed the basis of Siddhanta Jyotiṣa. The Sakadvipi Brahmins also brought to India horoscopic astrology using the Saka era exclusively in horoscopes, a custom which has persisted to this day. These facts explain the pre-eminence of the Saka era. 
+(d) The Śaka era was used by the house of Castana of Ujjain with 200 omitted, but gradually they forgot the origin of the era and continued their own reckoning without further omission of hundreds upto the end of the śaka satrapal rule over Ujjaini about 395 A.D. As the early Indian astronomers were mostly of foreign origin (viz. Sakadvipi Brahmana) the astronomical reckonings necessary for compiling the calendar were carried out using the śaka era and Graeco-Chaldean astronomy. The blending of Graeco-Chaldean astronomy as known about the early years of the Christian era with older Indian calendarical features formed the basis of Siddhānta Jyotiṣa. The Sakadvipi Brahmins also brought to India horoscopic astrology using the śaka era exclusively in horoscopes, a custom which has persisted to this day. These facts explain the pre-eminence of the śaka era. 
 
 Dr. Saha points to the fact that Indian classics, which can be dated from the third century B.C. to the second century A.D., mentions three' races in what is modern Afghanistan and N. W. India, viz., the Sakas, the Yavanas, and the Pallavas, who attained to the status of ruling races. The order in which they are mentioned denotes correct chronological sequence, for they are arranged in the order of their chronological appearance in history, the Sakas being mentioned as a subject race in Darius's inscription (518 B.C.). But the Yavanas (Greeks) were the first to attain the status of a ruling race, from 312 B.C., the date of foundation of the Seleucid empire, whose power in the west was overthrown by the Parthians, or Pehlevis (Pallayas of Indian classics) in 248 B.C. 
 
@@ -7631,7 +7631,7 @@ es
 
 Eras in Eastern India 
 
-Most parts of Bengal were under the Gupta emperors, and used the Gupta era during their hegemony (319-510 A.D.). But Gupta rule disappeared as mentioned above from major parts of Bengal from ca. 510 A.D., and the subsequent dynasties including the Pala emperors ( 750 A.D.-1150 A.D.) used regnal years in their inscriptions for four hundred years of their rule. The Saka era in Bengal appear to have been introduced by the Sena dynasty which replaced the Palas; the Senas were migrants from the south (Karnata-Kṣatriyas ), where they were familiar with the Saka era, but it was not used in royal records which continued to use regnal years. The Vikrama Samvat never became popular in Bengal, or Eastern India. After Mohamedan conquest, Bengal was left without an era. For official purposes, Hejira was used, but the learned men used the saka era, and the common people in certain parts used a rough reckoning, 
+Most parts of Bengal were under the Gupta emperors, and used the Gupta era during their hegemony (319-510 A.D.). But Gupta rule disappeared as mentioned above from major parts of Bengal from ca. 510 A.D., and the subsequent dynasties including the Pala emperors ( 750 A.D.-1150 A.D.) used regnal years in their inscriptions for four hundred years of their rule. The śaka era in Bengal appear to have been introduced by the Sena dynasty which replaced the Palas; the Senas were migrants from the south (Karnata-Kṣatriyas ), where they were familiar with the śaka era, but it was not used in royal records which continued to use regnal years. The Vikrama Samvat never became popular in Bengal, or Eastern India. After Mohamedan conquest, Bengal was left without an era. For official purposes, Hejira was used, but the learned men used the śaka era, and the common people in certain parts used a rough reckoning, 
 
 Other hybrid eras A number of other hybrid eras formed in a similar 
 
@@ -7671,7 +7671,7 @@ Buddha Nirjāņa Mabāvira Nirvāņa Vikrama (1)
 
 Christian 
 
-Saka 
+śaka 
 
 \- .: 
 
@@ -7869,7 +7869,7 @@ Simha
 
 Tarikh Ilahi 
 
-Rāja Saka 
+Rāja śaka 
 
 1075 
 
@@ -8167,7 +8167,7 @@ In actual practice, the number of days of the year, counted in this way would va
 
 APPENDIX 5-B 
 
-Tuzo Zero-point of the Hindu Zodiao. :- The Zero-point of the Hindu Zodiac i By this is meant have been given taking the position of the. V.E. point at the the Vernal Equinoctial Point (first point of Aries) at the Observer's time as the fiducial point. It is : possible to time when the Hindu savants swibobed on from the old locate it, 48 Burgess had shown in his edition of the 8.8., if Vedāriga-Jyotiga calondar to the Siddhānitio calendar (let with the aid of the data given, d; i.o., celestial longitude of us call this the spoch of the Siddhanta-Jyotiga or S. J.). the junction-stars in the epoch of S.J. is calculated, and There is a wide spread belief that a definite location can be compare it with the i of the same stars for 1950: - Let the found for this point from the data given in the Sūry& two values of Å be denoted by lz and dg, die being the value Siddhārta and other standard trbatiges. This impression is at the spoch of S. J., dg for the year 1950. Thenigde however wrong 
+Tuzo Zero-point of the Hindu Zodiao. :- The Zero-point of the Hindu Zodiac i By this is meant have been given taking the position of the. V.E. point at the the Vernal Equinoctial Point (first point of Aries) at the Observer's time as the fiducial point. It is : possible to time when the Hindu savants swibobed on from the old locate it, 48 Burgess had shown in his edition of the 8.8., if Vedāriga-Jyotiga calondar to the Siddhānitio calendar (let with the aid of the data given, d; i.o., celestial longitude of us call this the spoch of the Siddhānta-Jyotiga or S. J.). the junction-stars in the epoch of S.J. is calculated, and There is a wide spread belief that a definite location can be compare it with the i of the same stars for 1950: - Let the found for this point from the data given in the Sūry& two values of Å be denoted by lz and dg, die being the value Siddhārta and other standard trbatiges. This impression is at the spoch of S. J., dg for the year 1950. Thenigde however wrong 
 
 should have a constant value, which is the colestial ... Its location has to be inferred from the co-ordinates 
 
@@ -8175,7 +8175,7 @@ longitude of the V.E.: point at the opoch of the S.J. on the given for known sta
 
 point of time. The following is & short exposition of was very close to Revati (5 Piscium); but another school 
 
-Burgess's calculations. : . thinks that the autumnal equinootial point (frst point of ..The 8.8.: gives the position of the junction-stars in Libra:) at this epoch was very close to the star Citrā" (Spica, terms.of Dhruvaka and Vikṣepa; two co-ordinates peculiar a Virginis), and therefore the first point of Aries at the to Sarya-Siddhānta. Their meaning and relation to the opoch of S.J was 1809 behind this point. The celestial usually adopted co-ordinates is illustrated by means of longitude in 1950 of 5 Piscium was 19° 10' 39" and of fig. 27 and for convenience of the reader, the standard a Virginis was 8030 89.90"; Tho-longitudes of 'tke first point of Aries, woording to the two schools therefore . differ. by 23° 9'( - )19° 11'=3° :58' and they cannot be identical Revatk or Piscizim was clasest toro (the V.E.. point) about 575 A.D., and Citra: or a Virginis was closest: to - (the A.E. 'point) aboat285. AD., 8. clear difference. 
+Burgess's calculations. : . thinks that the autumnal equinootial point (frst point of ..The 8.8.: gives the position of the junction-stars in Libra:) at this epoch was very close to the star Citrā" (Spica, terms.of Dhruvaka and Vikṣepa; two co-ordinates peculiar a Virginis), and therefore the first point of Aries at the to Sūrya Siddhānta. Their meaning and relation to the opoch of S.J was 1809 behind this point. The celestial usually adopted co-ordinates is illustrated by means of longitude in 1950 of 5 Piscium was 19° 10' 39" and of fig. 27 and for convenience of the reader, the standard a Virginis was 8030 89.90"; Tho-longitudes of 'tke first point of Aries, woording to the two schools therefore . differ. by 23° 9'( - )19° 11'=3° :58' and they cannot be identical Revatk or Piscizim was clasest toro (the V.E.. point) about 575 A.D., and Citra: or a Virginis was closest: to - (the A.E. 'point) aboat285. AD., 8. clear difference. 
 
 of 290 years. - .. Thus open those who uphold the nirayana school are 
 
@@ -8221,7 +8221,7 @@ Bhoga
 
 i 
 
-rc As in Sūrya Siddhanta Sara 
+rc As in Sūrya Siddhānta Sara 
 
 8 . CS Used by Bhaskara : Viļuvāméa : 
 
@@ -8415,7 +8415,7 @@ declination give the piksepa which is thus : arpooted to have boon. very preciso
 
 Table 34. 
 
-Star-Positions of the Surya-Siddhanta 
+Star-Positions of the Surya-Siddhānta 
 
 No. 
 
@@ -8833,7 +8833,7 @@ B Loonis ::
 
 0 12 
 
-Star-Positions of the Surya-Siddhanta-contd. 
+Star-Positions of the Surya-Siddhānta-contd. 
 
 No. 
 
@@ -9397,7 +9397,7 @@ about 550 A.D., and has left us a compendium of the five following account draws
 
 Siddhāntas, makes no mention of the phenomenon. This Ayana-Calana, which literally means 'the movement of the 
 
-proves that the original Sūrya Siddhanta as known to solstitial points'. * 
+proves that the original Sūrya Siddhānta as known to solstitial points'. * 
 
 Varāhamihira contained no reference to the movement of The 'Solstitial points' were known amongst Indians as 
 
@@ -9413,7 +9413,7 @@ giving co-ordinates of stars in terms of ro as the starting Before the Siddhānt
 
 Muõjāla Bhata, a south Indian astronomer, wrote a phenomenon of procession of the equinoxes, he made an 
 
-treatise called Laghumānasa in 854. Saka or 932 A.D. A uncritical selection of these data compiled at different times. 
+treatise called Laghumānasa in 854. śaka or 932 A.D. A uncritical selection of these data compiled at different times. 
 
 later commentator, Muniśvara, ascribes the following and included them in his Chap. VIII. 
 
@@ -9467,7 +9467,7 @@ The equinox oscillates between #24°, and the number of rovolutions of the Ayana
 
 declination of the sun. Thereafter it diminishes in like manner and after the lapse of 3736 years, i.e. the half period, it again becomes zero and goes on the other side. The annual rate of motion, which on the average amounts to 46.3 seconds, varies from t 70'-5 to 0" 
 
-Wo now come to a very controversial passage in the modern Sūrya Siddhanta, Chap. III, verses 9 to 12. 
+Wo now come to a very controversial passage in the modern Sūrya Siddhānta, Chap. III, verses 9 to 12. 
 
 These are : 
 
@@ -9521,7 +9521,7 @@ From this it is clear that he recommends one to accept the ayandinsa which one w
 
 I have not come across single statement in which Bhāskarācārya has clearly said that equinoctial point makes a complete "circular revolution", nor does be say that "it does not make it”. 
 
-He has taken 1 minute per year as the ayana-motion and has supposed 11° as the gyanāmśa in Saka 1105. He thus means to take Śaka 445 as the zero-precession year. 
+He has taken 1 minute per year as the ayana-motion and has supposed 11° as the gyanāmśa in śaka 1105. He thus means to take Śaka 445 as the zero-precession year. 
 
 We thus perceive that Indian astronomers up to the time of Bhāskarācārya were as much divided in their ideas about precesssion of the equinoxes as the contemporary Arab astronomers of the West (Hispano-Muslim), and the East. It is only after 1024 A.D. that they adopted a theory of trepidation. The earlier-astronomers like Muñjāla and Pșthūdaka merely noticed precession and gave their own rates for it. Bhāskarācārya is non-committal about trepidation. The Indian astronomers do not appear to have been influenced by the views of the western astronomers, the earlier Greeks or later Arabs. 
 
@@ -9531,13 +9531,13 @@ APPENDIX 5-E The Jovian Years
 
 (Bārhaspatya Varṣa) 
 
-The sidereal period of Jupiter, according to the surya Siddhanta is 4332.32 days which is nearly 11.86 sidereal years. Therefore Jupiter roughly stays for one year in one zodiacal sign, if we calculate by mean motion. 
+The sidereal period of Jupiter, according to the surya Siddhānta is 4332.32 days which is nearly 11.86 sidereal years. Therefore Jupiter roughly stays for one year in one zodiacal sign, if we calculate by mean motion. 
 
-This was taken advantage of to devise & cycle of 12 Jovian years. If we divide the Sarya-Siddhānta period by 12, we get 361.026721 days which is takon as the length of & Jovian year. This is 4.232 days less than the Sūrya Siddhanta solar year. So if & Jovian year and an ordinary solar year begin on the same day, the Jovian year will begin to fall back, completing a complete retrogression in 8501solar years, according to the Sūrya-Siddhānta. 
+This was taken advantage of to devise & cycle of 12 Jovian years. If we divide the Sūrya Siddhānta period by 12, we get 361.026721 days which is takon as the length of & Jovian year. This is 4.232 days less than the Sūrya Siddhānta solar year. So if & Jovian year and an ordinary solar year begin on the same day, the Jovian year will begin to fall back, completing a complete retrogression in 8501solar years, according to the Sūrya-Siddhānta. 
 
 . The sixty-year cycle is at present'in daily use in Southern 
 
-India (south of Narmada) where each year (the solar year or the luni-solar year) is named after that of the corresponding Jovian year. The years are counted there in regular succes sion and no samvatsara is expunged. This practice is being followed since about 905-06 A.D. (827 Saka), as a result of wbich the number of North-Indian Samvatsara has been gradually gaining over that of the South from that time. The Saka year 1876 (1954-55 A.D.) is named 41 Plavanga in the North while in the South it is 28 Jaya. 
+India (south of Narmada) where each year (the solar year or the luni-solar year) is named after that of the corresponding Jovian year. The years are counted there in regular succes sion and no samvatsara is expunged. This practice is being followed since about 905-06 A.D. (827 śaka), as a result of wbich the number of North-Indian Samvatsara has been gradually gaining over that of the South from that time. The śaka year 1876 (1954-55 A.D.) is named 41 Plavanga in the North while in the South it is 28 Jaya. 
 
 65 
 
@@ -9563,7 +9563,7 @@ CORRIGENDA AND ADDENDA
 
 Part A Page 2, 1st ool, line 36, For O $ 4'10, read 0 8 4'9 Page 3, 2nd col. line 46, For happend, read happened Page 4, 1st col. line 12, For was, read were Page 21, 2nd col. No. 35, Insert Ceylon after Chavakachcheri 
 
-Part B Saka 1877 Page 56, Aṣādha 9—For Ravinārāyaṇa ekādasi, read 
+Part B śaka 1877 Page 56, Aṣādha 9—For Ravinārāyaṇa ekādasi, read 
 
 Lakṣminārāyaṇa ekādasi Page 57, Śrāvana 1-Insert Jāgratgauri pañcami. 
 
@@ -9611,7 +9611,7 @@ books).
 
 18—Delete Madhusravā (Gujerat) 
 
-Saka 1878cont. Page 70, Bhadra 18Delete Guru pañcami (Orissa) 
+śaka 1878cont. Page 70, Bhadra 18Delete Guru pañcami (Orissa) 
 
 20—Insert Dargāśayani (Orissa) 21-Delete Durgāśayani (Orissa) 24—Delete Lakṣminārāyana ekādasi 
 
@@ -9627,7 +9627,7 @@ and Insert Rudropavāsa 12-Delete Rudropavāsa
 
 25--Insert Pāṣāņa caturdasi (Orissa) Page 74, Pauga 7-Delete Surūpā dvadasi (Orissa) 
 
-16-Delete Guru pancami (Orissa) Saka 1879 Page 77, Caitra 21-Delete Vigņu damanotsava 
+16-Delete Guru pancami (Orissa) śaka 1879 Page 77, Caitra 21-Delete Vigņu damanotsava 
 
 22-Insert Viṣnu damanotsava 24--Delete Panguni uttiram-pūrnima 
 
@@ -9667,7 +9667,7 @@ Achelis, Elisabeth (1955)-Of Time and the Calendar,
 
 New York. Alter, D. & Cleminshaw, C. H. (1952)—Pictorial Astronomy, 
 
-New York. Aryabhatiya of Āryabhata-translated with notes by 
+New York. Aryabhatiya of Āryabhaṭa-translated with notes by 
 
 W. E. Clark, Chicago, 1930. American Ephemeris ' & Nautical Almanac for the years 
 
@@ -9777,7 +9777,7 @@ the Journal of Cunieform Studies, Vol. VI, No. 2. Saba, M. N. (1952)— Reform o
 
 (1952)-Calender through Ages and Countries, Lecture delivered at the Andhra University, 1952. 
 
-(1953)-Different methods of Dato recording in Ancient and Medieval India and the origin of the Saka era—Jounal of the Asiatic Society, 
+(1953)-Different methods of Dato recording in Ancient and Medieval India and the origin of the śaka era—Jounal of the Asiatic Society, 
 
 Letters, Vol. XIX, No. 1, 1953. Sarton, George (1953)-A History of Science, Oxford 
 
@@ -9877,7 +9877,7 @@ Arya Sangamikā, 232
 
 Budhagupta, Gupta emperor, 234 Ahorátra, 157, 160 
 
-Arya Siddhanta, 1, 214, 251, 268 
+Arya Siddhānta, 1, 214, 251, 268 
 
 Burgess, Rev. E., 238, 253, 262, 263 Aitareya' Brāhmaṇa, 189,216, 219, 221, 266 Arya Vasulā, 232 Akber, 1, 159, 214, 251 
 
@@ -9937,7 +9937,7 @@ luni solar, 1, 3, 174, 249, 251 ; Ancient Indian Chronology, 215, 253, 266
 
 definition, 268 
 
-calendar in Siddhantas 245-251 ;. Andau (inscription), 233 
+calendar in Siddhāntas 245-251 ;. Andau (inscription), 233 
 
 rate of, 7 
 
@@ -9959,7 +9959,7 @@ Azes, 256
 
 National, 12-14 ; Anyanka Bhima Deva of Ganga dynasty, 257 Azes I, 230, 233, 256 
 
-Paitāmaha Siddhanta, 223, ; Aparáhra, 108 
+Paitāmaha Siddhānta, 223, ; Aparáhra, 108 
 
 Azes II, 230, 233, 256 
 
@@ -9979,7 +9979,7 @@ Seleucid Babylonian, 229; Arachosia, 229, 230
 
 Bachhofer, Dr. L., 230, 231, 232 
 
-Siddhanta Jyotiga period, 245, 246 Aranyaka, 214 . . 
+Siddhānta Jyotiga period, 245, 246 Aranyaka, 214 . . 
 
 Bādāmi (inscription), 233, 253 
 
@@ -10055,7 +10055,7 @@ INDEX
 
 Can, correction, 268 - Candinal days, 189 Cardinal points, 189, 190, 219; . 
 
-determination of, 190 Castana, Saka Satrap, 233, 356 Centauus 183 Central Station, 3, 4, 7, 14, 40 Chadwick, 202 Chaldean Saros, 184, 185, 186, 202 Ohrist, Jesus, 187, 201 Chronometer, 167 Cicero, 205 Cleostratos of Tenedos, 193; 202; 
+determination of, 190 Castana, śaka Satrap, 233, 356 Centauus 183 Central Station, 3, 4, 7, 14, 40 Chadwick, 202 Chaldean Saros, 184, 185, 186, 202 Ohrist, Jesus, 187, 201 Chronometer, 167 Cicero, 205 Cleostratos of Tenedos, 193; 202; 
 
 zodiac, 183, 202; 
 
@@ -10147,11 +10147,11 @@ Parthian, 178, 256 ; plane of, 192, 207;
 
 Philippi, 182; pole of, 192, 208; 
 
-Rāja Saka, 268; 
+Rāja śaka, 268; 
 
 · · obliquity of, 191, 207, 208, 225 
 
-Saka, 2, 4, 8, 13, 162, 178, 214, 233, 234, Eridasi, observance of, 105 
+śaka, 2, 4, 8, 13, 162, 178, 214, 233, 234, Eridasi, observance of, 105 
 
 236, 255-258 ; earliest records of, 233; Dlements of Euclid, 202 
 
@@ -10241,7 +10241,7 @@ Vindhya Pradesh, 154 ; . West Bengal, 136 Hora, 236, 266 Horoscope, 196, 205, 25
 
 starting of, 183 Huviska, 231 Hypatia, 204 
 
-Jacobi, 215 Jaikadeva, 254 Jai Singh of Amber, 10 Jåmotika, Saka king, 233. Janmastami, 19 Jåtakas, 239 Jayanti, names of, 107 Jayaswall, 255 Jehonika, 230 Jelaluddin, Melik Shah, 166 Johann Werner, 206 Jones, Sir Harold Spencer, 6, 12, 158 Jovian cycle, 257 Jovian (Bárbaspatya) years, 270;. 
+Jacobi, 215 Jaikadeva, 254 Jai Singh of Amber, 10 Jåmotika, śaka king, 233. Janmastami, 19 Jåtakas, 239 Jayanti, names of, 107 Jayaswall, 255 Jehonika, 230 Jelaluddin, Melik Shah, 166 Johann Werner, 206 Jones, Sir Harold Spencer, 6, 12, 158 Jovian cycle, 257 Jovian (Bárbaspatya) years, 270;. 
 
 names of, 270 Julian days, 161, 162 Julian days of important events, 162, 163 Julian period, 162 Julius Caesar, 2, 10, 159, 165, 168, 241 Junction stars, of nakṣatra, 184, 210, 211, 220; 
 
@@ -10267,7 +10267,7 @@ Ibn Yunus, 206 Idavatsara, 225 Ides, 168 Idvatsara, 225 Tiad, 201 Indian Calenda
 
 245, 246; Babylonian calendar, 176 ; calculation of, 246, 249; definition of 247; eight-year cycle, 202 ; 
 
-Islamic calendar, 180.:. Jewish calendar, 179 ; list of acc. to modern calculations, 250; list of according to 8.8., 250; 19-year cycle, 176, 200, 202, 229, 245, 246; Paitāmaha Siddhānta, 223; Rg-Veda, 216, 218;. . Romaka Siddhånta, 237; Siddhanta Jyotiga, 246, 248;; Vedānga Jyotisa, 223, 224, 225, 246' 
+Islamic calendar, 180.:. Jewish calendar, 179 ; list of acc. to modern calculations, 250; list of according to 8.8., 250; 19-year cycle, 176, 200, 202, 229, 245, 246; Paitāmaha Siddhānta, 223; Rg-Veda, 216, 218;. . Romaka Siddhånta, 237; Siddhānta Jyotiga, 246, 248;; Vedānga Jyotisa, 223, 224, 225, 246' 
 
 Kabishah, 180 Kadamba, pole of the ecliptic, 192 Kalā or liptikā, 160 Kālāloka Prakāśa, 223. Kalasang (inscription), 229 Kalastami, 108 Kaldarra (inscription), 229 Kalends, 168 Kalhapa, Historian of Kashmir, 252 Kali, 162 ; long. of planets at Kali beginning 
 
@@ -10295,7 +10295,7 @@ retrograde motion of, 194 Misakft, 174: Matins, 159 Maues, 230, 233 Mauryas, 228
 
 Spherical trigonometry, 204 Mercedonius, 168 Mercury, planet, 194, 195, 203, 239 Meridian passage, 57 Megādi, 239 Meṣadi, sidereal, 16, 17, 40 Meton of Athens, 176, 202 ; 
 
-ninetcen-year cycle, 202 Metonic cycle, 162, 1/6 Milinda Pañho (philosophical treatise), 229 Mithra (Persian god), 167, 170 Mithradates I, 213, 255 Mithradates II, 213, 255 Mitra, Indian god, 215 Moga, Saka king, 230 Mohammed Ajmal Khan, 180 Mohammed, Prophet, 159, 179, 180 Mohenjodaro, 212 Moise of Khorene, 232 Month, anomalistic, 197; 
+ninetcen-year cycle, 202 Metonic cycle, 162, 1/6 Milinda Pañho (philosophical treatise), 229 Mithra (Persian god), 167, 170 Mithradates I, 213, 255 Mithradates II, 213, 255 Mitra, Indian god, 215 Moga, śaka king, 230 Mohammed Ajmal Khan, 180 Mohammed, Prophet, 159, 179, 180 Mohenjodaro, 212 Moise of Khorene, 232 Month, anomalistic, 197; 
 
 beginning in Babylonian calendar, 185 ; definition of, 157, 158, 185; draconitic, 186, 197 ; intercalary (see intercalary month); Lunar, 220, 221, 225, 245, 246; 
 
@@ -10393,7 +10393,7 @@ Ra, Egyptian sun-god, 104 Rabu, ascending node, 188 Rāmāyana, 261 Rampdrina (i
 
 222 : calendario references in, 216-218; 
 
-description of, 215 ; Ribhus, 216 Right ascension, 192, 204 Riza Shah Pahlavi ; 167 Romaka, 236, 239 Rome, Era of foundation of, 178 Rotation of the earth, 157, 158 Rudradáman, 233 Rudra Simba, Saka satrap, 231, 236 
+description of, 215 ; Ribhus, 216 Right ascension, 192, 204 Riza Shah Pahlavi ; 167 Romaka, 236, 239 Rome, Era of foundation of, 178 Rotation of the earth, 157, 158 Rudradáman, 233 Rudra Simba, śaka satrap, 231, 236 
 
 Obliquity, of the ecliptic, 158, 191, 207, 208, 225 
 
@@ -10421,17 +10421,17 @@ Sūrya Siddhānta's rate of, 268 Prthûdaka Sråmi, 259, 268, 269 Proclos, on pr
 
 247, 256 Puruppur, 232 Purvahna, 101, 108 Pūrvaviddha, 101, 108.;.rules for, 109 
 
-Paikuli (inscription), 232 Paitamaha Siddhanta, 223 Pajā (inscription), 220 Paksa, 227-231 ; . 
+Paikuli (inscription), 232 Paitamaha Siddhānta, 223 Pajā (inscription), 220 Paksa, 227-231 ; . 
 
 krona or vahula, 15, 221, 228, 233, 247; 
 
-sukla, 15, 221, 228, 247; . Pala, 160 Pålag, 257 Pallavas, 256 Pañcangas, list of, 21, 22 Pañca Siddhantikū of Varahamihira, 158, 162, 
+sukla, 15, 221, 228, 247; . Pala, 160 Pålag, 257 Pallavas, 256 pañcāṅgas, list of, 21, 22 Pañca Siddhantikū of Varahamihira, 158, 162, 
 
 197, 223, 226, 236, 237, 238 Panemos, Greek month, 230 Pāpini, 214 Panjtar (inscription), 229 Pannekoek, Dr. Anton, 174, 176, 178, 185, 194, 
 
 196, 197: Paravidhå, 101, 108 ; 'malas for, 109 Parivatuara, 225 Passover fast, 170 Pataliputra, 10, 213, 234, 252 .. Paulina Siddhānta, 204 Paulus of Alexandria, 204, 237 Perihelion, 242 ; movement of, 243 Pesbiwar Museum (inscription), 229, 230 Philhellens, 213 
 
-Sachs, A., 199, 201 Saha, Prof. M. N., 173, 232, 252, 256 Sabdaur A (inscription), 229 Sahdaur B (inscription), 229 Sabni, Dayaram, 232 Sakas, 213, 230, 233, 236 Sakadvipi Brah mapas, 214, 236, 256 Saka sanyat, 255 Katasthån, 213, 233 Sakendra kāla, 255 Sáliváhana Saka, 255 Samarkand, 10 
+Sachs, A., 199, 201 Saha, Prof. M. N., 173, 232, 252, 256 Sabdaur A (inscription), 229 Sahdaur B (inscription), 229 Sabni, Dayaram, 232 Sakas, 213, 230, 233, 236 Sakadvipi Brah mapas, 214, 236, 256 śaka sanyat, 255 Katasthån, 213, 233 Sakendra kāla, 255 Sáliváhana śaka, 255 Samarkand, 10 
 
 Sama Veda, 214, 218 Samhitãs, 214, 218 Samökrånti, 2, 7, 239, 244 
 
@@ -10445,7 +10445,7 @@ Tithi, 183, 218, 227, 228, 230, 234, 236, 248;
 
 sverdge duration of, 221, 222, 224,248; comparison of Siddhantic and modern, 3 defined, 3, 221; definition in Aitareya Brahmapa, 221;. 
 
-» » Siddhantas, 221;: 
+» » Siddhāntas, 221;: 
 
 „ .„ Vedáðga Jyotiga, 224, 225 ; duration of Vedic tithi, 221; error in the old method, 3, 14; lords of, 109; measurement of, 248 ; dames of, 222; 
 
@@ -10463,13 +10463,13 @@ causes of, 259; determination by gnomon, 189. error in counting, 280 ; length of
 
 age, 216, 218; . in Rg-Veda, 216, 217 Beb, Egyptian god 184 Seleucus, 178, 213, 228 . . Senas, Hindu raling dynasty, 257 Seneca, 225 Sengupta, P.C., 183, 215, 221, 227, 238, 253, 
 
-\---. 206 Set, Egyptian god, 164 Sewell, R. S., 240 Sexta, 159 : Bhahpur I (Sagganid king), 232 Shama Sastry, Dr. R., 223, 224 Shin Kot (inscription), 229 Siddhanta Jyotiṣa, 161, 221 Siddhantas, 1, 2, 3, 163, 234, 236, 237, 238, 
+\---. 206 Set, Egyptian god, 164 Sewell, R. S., 240 Sexta, 159 : Bhahpur I (Sagganid king), 232 Shama Sastry, Dr. R., 223, 224 Shin Kot (inscription), 229 Siddhānta Jyotiṣa, 161, 221 Siddhāntas, 1, 2, 3, 163, 234, 236, 237, 238, 
 
 245; Arya, 238, 242, 251 ; Brahma, 238, 242, 251 ; definition of, 234 ; 
 
 Paitāmaha, 236-238; Paulisa, 236-238; Romaka, 236, 237, 240 ; Sūrya, 236, 238-244; 
 
-Vasiṣtha, 236, 237 Siddhanta Sekhara of Bripati, 162 Siddhānta Siromani of Bhaskaråcårya, 238, 
+Vasiṣtha, 236, 237 Siddhānta Sekhara of Bripati, 162 Siddhānta Siromani of Bhaskaråcårya, 238, 
 
 269 . Sidereal time, 158 Signs, of the zodiac, 192, 193, 194, 196, 206, 
 
@@ -10501,7 +10501,7 @@ Srauta, Gșhya, Dharma, Súlva, 214 Synodic period, 158, 175, 182 ;
 
 revolution of planets acc. to P. 8., 197 Syntaxis or Almagest, 192, 201, 203, 204 
 
-Vlulu, 176 Ulugh Begh, 10 Umbra Extensa, 204. Umbra Versa, 204 Und (inscription), 231 Upaniṣads, 214, 215 Uranometry, 205 . Usavadata, Saka prince, 233 
+Vlulu, 176 Ulugh Begh, 10 Umbra Extensa, 204. Umbra Versa, 204 Und (inscription), 231 Upaniṣads, 214, 215 Uranometry, 205 . Usavadata, śaka prince, 233 
 
 Utkalakalikū, 101 Utkramajyā, 204 Uttarayana, 189, 219, 224, 226, 239, 260 
 
@@ -10513,7 +10513,7 @@ on trepidation, 206, 240 Thibaut, Dr. G., 197, 223, 225, 237 Thirteen-mouth cale
 
 Vadi, 247, 248 Vaidya, Prof. R.V., 263 Vaidyanātha Dikṣitiyam, 101 Vājasaneyi Samhitā, 218 Vajheska, 231 Van der Waerden, 160 Vanthamihira, 2, 7, 192, 193, 197, 223, 226, 236, 
 
-237, 238, 240, 252, 255, 267 Varupa, Indian god, 215, 216 Vasistha, Indian sage, 238 Vasiṣtha Siddhanta, 236, 237, 267 Vasudeva I, 231, 232 Vāsudeva II, 231, 232 Vedas, description and literature, 214; 
+237, 238, 240, 252, 255, 267 Varupa, Indian god, 215, 216 Vasistha, Indian sage, 238 Vasiṣtha Siddhānta, 236, 237, 267 Vasudeva I, 231, 232 Vāsudeva II, 231, 232 Vedas, description and literature, 214; 
 
 age of its literature, 214, 215 Vedangas, 214, 215 Vedãnga Jyotiņa, 161, 217, 224, 226, 237, 240, 
 
@@ -10551,7 +10551,7 @@ calculation of, 110 " in 8. 8., 239
 
 Yuga, 217; "Siddhantic, 11, 241, 245 ; 
 
-of Romaka Siddhanta 237 " Solar, 2, 241; 
+of Romaka Siddhānta 237 " Solar, 2, 241; 
 
 of Vedanga Jyotisa, 223, 224 ; » Vedanga Jyotiga, 241, 245; Yug&di, 107 " " Vedic Aryan, 216, 218; definition of, 157, 158 ; draconitic (eclipse), 186 ; 
 
@@ -10575,7 +10575,7 @@ Rg Vedic, 217; "sidereal, 158, 205, 240, 246 ;
 
 position through ages, 200; ” ” solar, 223; 
 
-signs of the, 193; "Sūrya Siddhanta, 2,240, 241, 246; 
+signs of the, 193; "Sūrya Siddhānta, 2,240, 241, 246; 
 
 starting point of, 193; ; " tropical, 1, 2, 4, 12, 158, 174, 175, 
 

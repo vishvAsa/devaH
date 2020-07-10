@@ -34,7 +34,7 @@ After discussion on the several points mentioned by the Chairman, the Committee 
 
 - (1) The tropical year of 365.2422 days should be adopted for the purpose of calendar making. 
 - (2) A scientific civil solar calendar to be hence forth called the National Calendar for purposes of dating should have its first day after the vernal equinox day, i.e., on the 22nd March. But for religious purposes the calculations may start 23° 15' ahead. of the V. E. point, for sometime to come ( as a concession to the prevailing custom ). 
-- (3) The Saka era should be adopted for the reformed Indian Calendar. 
+- (3) The śaka era should be adopted for the reformed Indian Calendar. 
 - (4) All calculations should be made for a central station in India situated at 82.5° East Longitude and 23° 11' North Latitude (latitude of Ujjain). 
 - (5) The day should be reckoned from midnight to midnight of the central station for civil purposes, but for religious purposes the local sunrise system may be followed. 
 The Committee made the following recommendations to the Government of India : 
@@ -42,7 +42,7 @@ The Committee made the following recommendations to the Government of India :
 - (i) A tentative national calendar for the whole of India should be prepared for five years in advance, showing dates, days, months, tithi's (lunar days) and naksatras (lunar asterisms). 
 - (ii) Steps should be taken to compile an Indian Ephemeris and Nautical Almanac by the Government of India showing in advance positions of the sun, the moon, planets and other important heavenly bodies. 
 - (iii) There should be a National Observatory at a suitable place provided with modern equipments, apparatus and time-service. 
-The Council of Scientific and Industrial Research accepted the first recommendation and appointed Shri N. C. Lahiri and Prof. R. V. Vaidya, members of the Committee, as whole-time workers for the purpose of implementation of this recommendation, and also provided them with necessary assistants. The experimental National Calendar of India for the five years 1954-55 to 1958-59 A.D. (Saka 1876 to 1880) has ingly been prepared and will be found as Part B. 
+The Council of Scientific and Industrial Research accepted the first recommendation and appointed Shri N. C. Lahiri and Prof. R. V. Vaidya, members of the Committee, as whole-time workers for the purpose of implementation of this recommendation, and also provided them with necessary assistants. The experimental National Calendar of India for the five years 1954-55 to 1958-59 A.D. (śaka 1876 to 1880) has ingly been prepared and will be found as Part B. 
 
 ### II 
 
@@ -61,7 +61,7 @@ The third and the final meeting of the Calendar Reform Committee was held on the
 
 ## EXAMINATION OF THE EXISTING CALENDARS 
 
-With a view to examining the existing calendars, as per terms of reference, all the Pañcanga makers in different states of India were requested by a Press communique' issued by the C.S.I.R. in March 1953, to send 3 copies of their Pañcāngas covering the year 1953-54. As a result of this request many calendars were received from different parts of India, a list of which is given as Annexure V. Some difficulty was experienced in studying the exact nature of these calendars due to language difficulty and want of the required data in these calendars. Accordingly a questionnaire was issued in November 1953, to all these and also to some other calendar makers whose addresses were known, requesting them to furnish certain data relating to their calendars. The questionnaire together with the replies so far received will be found as Annexure VI. 
+With a view to examining the existing calendars, as per terms of reference, all the pañcāṅga makers in different states of India were requested by a Press communique' issued by the C.S.I.R. in March 1953, to send 3 copies of their Pañcāngas covering the year 1953-54. As a result of this request many calendars were received from different parts of India, a list of which is given as Annexure V. Some difficulty was experienced in studying the exact nature of these calendars due to language difficulty and want of the required data in these calendars. Accordingly a questionnaire was issued in November 1953, to all these and also to some other calendar makers whose addresses were known, requesting them to furnish certain data relating to their calendars. The questionnaire together with the replies so far received will be found as Annexure VI. 
 
 ## SUGGESTIONS RECEIVED FOR CALENDAR REFORM 
 

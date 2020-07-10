@@ -11,13 +11,13 @@ Home and Labour Minister,
 
 Govt. of U. P., Lucknow. Letter dated 7. 3. 1953. 
 
-(i) The adoption of solar year. (ii) Adoption of “Sāyana” system. (iii) The difference of 23 days in our year beginning to be corrected. (iv) Beginning of the year to be on March 22, the day following Vasanta Sampāt ( vernal equinox ). (v) Beginning of Aries ( Meṣa ) to be at a point 180o from Spica to mark the beginning of Asyini. (vi) Beginning of day from midnight. (vii) Beginning of lunar year from "Caitra." (viii) Uniform system of reckoning lunar months (preferably the pūrņimānta one) to be adopted. (ix) A single era for India such as Saka, Kali or (preferably ) Vikrama to be adopted. (x) Calculations of pañcāngas should be dřksiddha. (xi) Number of days per month may be fixed, and the leap-year rules should be the same as in the Gregorian calendar. 
+(i) The adoption of solar year. (ii) Adoption of “Sāyana” system. (iii) The difference of 23 days in our year beginning to be corrected. (iv) Beginning of the year to be on March 22, the day following Vasanta Sampāt ( vernal equinox ). (v) Beginning of Aries ( Meṣa ) to be at a point 180o from Spica to mark the beginning of Asyini. (vi) Beginning of day from midnight. (vii) Beginning of lunar year from "Caitra." (viii) Uniform system of reckoning lunar months (preferably the pūrņimānta one) to be adopted. (ix) A single era for India such as śaka, Kali or (preferably ) Vikrama to be adopted. (x) Calculations of pañcāngas should be dřksiddha. (xi) Number of days per month may be fixed, and the leap-year rules should be the same as in the Gregorian calendar. 
 
 2. Brahma Shri G. V. Subba Rao, President, 
 
 Goshti, "Satyaprasad”, Waltair. Letter dated 14. 4. 53. 
 
-(i) Adoption of "Kali Saka" era. (ii) Ujjain to be the standard meridian of India and a National Observatory at Ujjain. (iii) Approves other recommendations of the Committee. 
+(i) Adoption of "Kali śaka" era. (ii) Ujjain to be the standard meridian of India and a National Observatory at Ujjain. (iii) Approves other recommendations of the Committee. 
 
 3. Shri M. V. Kibe, Saraswati Niketan, Indore. Letters dated 24. 2. 53 and 31. 5. 53. 
 
@@ -85,7 +85,7 @@ Bagalkot, Bombay. Letter dated 30. 3. 53.
 
 Letter dated 17. 2. 54, etc. 
 
-(i) The principal era should be either Kaliyuga (epoch 3102 B.C.) or Yudhisthira or Saptarsi Śaka 3077 B.C. in place of Sālivāhana Saka. (ii) Sāyana system should be observed for all religious purposes instead of nirayana system. The year should begin on or about 21st March when the Sun enters sāyana first point of Aries and not Asvini. (iii) Definite lead should be given by the state on the observances of festivals like Ekādasī, Śrī Jayanti, Gokulāstami, Sri Rāmanavami, etc. 
+(i) The principal era should be either Kaliyuga (epoch 3102 B.C.) or Yudhisthira or Saptarsi Śaka 3077 B.C. in place of Sālivāhana śaka. (ii) Sāyana system should be observed for all religious purposes instead of nirayana system. The year should begin on or about 21st March when the Sun enters sāyana first point of Aries and not Asvini. (iii) Definite lead should be given by the state on the observances of festivals like Ekādasī, Śrī Jayanti, Gokulāstami, Sri Rāmanavami, etc. 
 
 14. Shri Narendra Nath Bagal, Jyotisastri, 
 
@@ -143,7 +143,7 @@ Street, Triplicane, Madras-5. Letter dated 23. 2. 53.
 
 Bhāratiya new year to be calculated from “Uttarāyaṇa.” 
 
-18. Jyotisiddhanta Kesari K. Venkata Subba Sastri, 
+18. JyotiSiddhānta Kesari K. Venkata Subba Sastri, 
 
 Sringeri, Kollegal, Coimbatore, Madras. Letters dated 13. 6. 53, 14. 7. 53, etc. 
 
@@ -153,7 +153,7 @@ Sringeri, Kollegal, Coimbatore, Madras. Letters dated 13. 6. 53, 14. 7. 53, etc.
 
 Chandernagore, Hooghly. Letter dated 6. 4. 53. 
 
-(i) Bengali year to be counted from Caitra to Phālguna (14th April to 13th April). (ii) The name Agrahāyana to be substituted hy. Mārgasirsa in Bengal. (iii) Bhiṣmapañcami (Sukla), during the Sun's stay in Dirayana Moṣa to be introduced. (iv), Western method of ayana calculation to be discarded and position of Uranus and Neptund to be included. (v) Dispute of ayanām sa to be settled and zero ayanāmģa year to be adopted as 499 A.D. ( 421 Saka“). Letter dated 3. 7. 53. : States that the western theory of the precession of equinoxes is absurd. The trepidation theory of Sūrya Siddhānta is correct. Letter dated 14. 7. 53. 
+(i) Bengali year to be counted from Caitra to Phālguna (14th April to 13th April). (ii) The name Agrahāyana to be substituted hy. Mārgasirsa in Bengal. (iii) Bhiṣmapañcami (Sukla), during the Sun's stay in Dirayana Moṣa to be introduced. (iv), Western method of ayana calculation to be discarded and position of Uranus and Neptund to be included. (v) Dispute of ayanām sa to be settled and zero ayanāmģa year to be adopted as 499 A.D. ( 421 śaka“). Letter dated 3. 7. 53. : States that the western theory of the precession of equinoxes is absurd. The trepidation theory of Sūrya Siddhānta is correct. Letter dated 14. 7. 53. 
 
 Nirayapa system of calculations to be adopted. Letters dated 15. 7. 53 & 24. 7. 53, etc. 
 
@@ -165,7 +165,7 @@ Resolutions adopted by the Association at its meeting held on 16. 7. 53 on the a
 
 Resolved that the Chairman of the All India Calendar Reform Committee, Calcutta, be requested to select two members of the All Karnataka Astronomical Association to co-operate with the members of the Calendar Reform Committee, New Delhi. 
 
-21. Bisuddha Siddhanta Panjika, 85, Grey Street, 
+21. Bisuddha Siddhānta Panjika, 85, Grey Street, 
 
 Calcutta Notes dated nil. 
 
@@ -275,7 +275,7 @@ Date, Compiler, Date Panchang, Sholapur. Letter dated 28. 9. 53 ( Memorandum ).
 
 (i) Suggesting to co-opt some suitable persons from Grahalāghava school in order to make the committee fully representative. 
 
-(ii) For civil purposes sāyana system may be adopted commencing the year from the vernal equinox day but for religious purposes nirayana reckoning should be adopted instead of sāyana system.. (iii) The starting point of the nirayaņa zodiac should be the point directly in front of the star Citrā ( Spica ). (iv) The formula for leap-years with Saka year should be worked out. (v) Criticises the adoption of constant ayanāṁśa for religious purposes. 
+(ii) For civil purposes sāyana system may be adopted commencing the year from the vernal equinox day but for religious purposes nirayana reckoning should be adopted instead of sāyana system.. (iii) The starting point of the nirayaņa zodiac should be the point directly in front of the star Citrā ( Spica ). (iv) The formula for leap-years with śaka year should be worked out. (v) Criticises the adoption of constant ayanāṁśa for religious purposes. 
 
 31. Shri Chhedilal Jayeswal, P. O. Vindhachal, 
 
@@ -341,7 +341,7 @@ Computer, Yogakshemam Panchangam, Panchangam Press, Kunnamkulam (T.C. State).
 
 Letter dated 30. 1. 54. 
 
-(i) Kali era be taken instead of Saka era for the calendar. (ii) Stresses upon the fixation of the zero ayanām sa year. (iii) Cycle of nakṣatras will commence from the first point of Meṣa and not from the V.E. point. (iv) Favours standardization of months with 30 and 31 days alternately and introduction of leap-years. (v) Supports the recommendations of the Committee in general. 
+(i) Kali era be taken instead of śaka era for the calendar. (ii) Stresses upon the fixation of the zero ayanām sa year. (iii) Cycle of nakṣatras will commence from the first point of Meṣa and not from the V.E. point. (iv) Favours standardization of months with 30 and 31 days alternately and introduction of leap-years. (v) Supports the recommendations of the Committee in general. 
 
 36. Jyotishratna Pandit Raghunath Sastri,, Princi 
 
@@ -499,5 +499,5 @@ Forwarding resolutions adopted at the Brihan Maha rastra Jyotish Parishad confer
 
 (1) Disapproval :--The decision of the Calendar Reforma Committee of the Government of India, to fix 23° 15' as the fixed ayanāṁśa is unscientific and would produce great confusion in future in religious matters, which are fixed in accordance with nakgatras and would produce irreligious ness and harm to religious practice and religious culture. The procession of equinoxes should be taken into account every year while determining the ending moments of nakṣatras and the luni-solar calendar be compiled accordingly. 
 
-(2) Approval :- With respect to the other items proposed by the Committee e.g. Sālivāhana Saka and the Caitrādi beginning of tropical solar year etc. are acceptable.
+(2) Approval :- With respect to the other items proposed by the Committee e.g. Sālivāhana śaka and the Caitrādi beginning of tropical solar year etc. are acceptable.
 
