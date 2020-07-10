@@ -33,7 +33,7 @@ Vaisakha.
 
 (6) Dates of heliacal rising and setting of Jupiter and Venus should be given in the calendar. 
 
-(7) Sukla and Krṣna Pakṣas should be separately shown and tithis should be numbered from s 1 to 15 and K 1 to 14 and K 30. 
+(7) śukla and Krṣna Pakṣas should be separately shown and tithis should be numbered from s 1 to 15 and K 1 to 14 and K 30. 
 
 (8) Moment of rising of the centre of the apparent Sun to be given after making correction for refraction. The moment of sunset similarly calculated should also be given. 
 

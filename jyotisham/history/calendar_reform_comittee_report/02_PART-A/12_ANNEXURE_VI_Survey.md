@@ -245,11 +245,11 @@ garding luni-solar, both purni manta and amanta of the year).
 
 8. 
 
-8. Chaitra Sukla 1. 9. Salivahana śaka, 1875 begins on 
+8. Chaitra śukla 1. 9. Salivahana śaka, 1875 begins on 
 
 16th March, 1953. 
 
-8. Chaitra Sukla 1. 9. Saliyahana śaka 1875 begins on 
+8. Chaitra śukla 1. 9. Saliyahana śaka 1875 begins on 
 
 16th March, 1953. 
 
@@ -361,11 +361,11 @@ Margali, Thai, Masi, Panguni. 11. 3654 158 23v8 12. 23° 12' 9".87 13. 50".26 14
 
 Chathray's Tables & Chandrasarani. 
 
-5. Pidaparthi Krishnamurthi Sastry. 6. Nirayana. 7. Luni-Solar, Amanta. 8. Chaitra Sukla 1. 9. Salivahana śaka 1875 begins 
+5. Pidaparthi Krishnamurthi Sastry. 6. Nirayana. 7. Luni-Solar, Amanta. 8. Chaitra śukla 1. 9. Salivahana śaka 1875 begins 
 
 on 16th March, 1953. 10. Chaitra to Phalguna. 
 
-5. Pidaparthi Krishnamurthi Sastry. 6. Nirayana. 7. Luni-Solar, Amanta. 8. Chaitra Sukla 1. 
+5. Pidaparthi Krishnamurthi Sastry. 6. Nirayana. 7. Luni-Solar, Amanta. 8. Chaitra śukla 1. 
 
 Saliyabana śaka, 1875 begins on 
 
@@ -413,7 +413,7 @@ Amareli, Kathiawad. 5. Pt. N. G. Deshingkar.
 
 Luni-Solar, Amanta. 8. Chaitra $ 1, 4th April, 1954, 9. - 
 
-6. Nirayana. 7. Luni-Solar, Amanta. 8. Chaitra Sukla 1. 9. Salivahana śaka, 1875 begins on 
+6. Nirayana. 7. Luni-Solar, Amanta. 8. Chaitra śukla 1. 9. Salivahana śaka, 1875 begins on 
 
 16th March, 1953. 10. Chaitra to Phalguna. 11. 3658 158 23v8 12. 23° 12' 7" 13. 50".268 14. Modern method. 
 
@@ -485,7 +485,7 @@ Nagpur & Dattatraya Krishna Rao Sule of Bombay.
 
 Nirayana 7. Luni-Solar, Amanta. 8. Chaitra. 
 
-6. Nirayana. 7. Luni-Solar, Amanta. 8. Kartika Sukla Pratipada. 
+6. Nirayana. 7. Luni-Solar, Amanta. 8. Kartika śukla Pratipada. 
 
 9. Current Vikram Era 2010 begins 
 
@@ -541,7 +541,7 @@ Ques. No Reply
 
 Panchang 2. 1852 śaka. 3. Marathi. 4. Ganapati Sangsthan Press, 
 
-Sangli, Poona. 5. Raghunath Sikdev Gulbani. 6. Nirayana. 7. Luni-Solar, Amanta. 8. Chaitra Sukla Pratipada. 9. śaka era begins on 16th March, 
+Sangli, Poona. 5. Raghunath Sikdev Gulbani. 6. Nirayana. 7. Luni-Solar, Amanta. 8. Chaitra śukla Pratipada. 9. śaka era begins on 16th March, 
 
 1953. 10. Chaitra-Phalguna. ii. 365d 158 3148.52 12. 23° 8' 3" 13. 58".2 14. Old & modern method mixed. 
 
@@ -559,7 +559,7 @@ Tables of the Sun by N. C. Lahiri, Karanavallabha by Radha vallabha Jyotistirtha
 
 2. 1922 A. D. 3. Marathi. 4. Old Sangli, P. O. Sangli, : Dt. Satara South. 
 
-5. Bidesh Ganesh Joshi Visapurkar. 6. Nirayana. 7. Luni-solar, Amanta. 8. Chaitra Sukla 1. 9. Salivahana śaka 1875 begins on 
+5. Bidesh Ganesh Joshi Visapurkar. 6. Nirayana. 7. Luni-solar, Amanta. 8. Chaitra śukla 1. 9. Salivahana śaka 1875 begins on 
 
 16th March, 1953. 10. Chaitra-Phalguna. 11, 3650 6h gm 12. - 23° 12' 6" 13. 50".22 14. Modern method. 
 
@@ -603,7 +603,7 @@ Kolhapur (S. Satara). 5. Pt. N. G. Deshingkar, Editor.
 
 Jyotirvijaya. 6. Nirayana. 7. Luni-Solar, Amanta. 8. Chaitra Shudha 1. 9. Sakarambha, April. 
 
-Nirayana. 7. Luni-Solar, Amanta. 8. Chaitra Sukla 1. 9. Current Salivahana śaka 1875 
+Nirayana. 7. Luni-Solar, Amanta. 8. Chaitra śukla 1. 9. Current Salivahana śaka 1875 
 
 begins on 16th March, 1953. 
 
@@ -613,7 +613,7 @@ Tables of the Sun & the Moon by Dr. Gorakh.Prasad, Jyotirganita by Ketkar, Karan
 
 Almanac. 
 
-6. Nirayana. 7. Luni-Solar, Amanta. 8. Chaitra Sukla 1. 
+6. Nirayana. 7. Luni-Solar, Amanta. 8. Chaitra śukla 1. 
 
 Current Shalivahana śaka era 1875 begins on 16th March, 
 
@@ -657,7 +657,7 @@ Shankar Lalji Sharma. 6. Nirayana.
 
 Luni-Solar, Amanta. 8. June or July. 
 
-6. Nirayana. 7. Luni-Solar, Purnimanta. 8. Chaitra Sukla 1. 
+6. Nirayana. 7. Luni-Solar, Purnimanta. 8. Chaitra śukla 1. 
 
 7. 
 
@@ -719,7 +719,7 @@ T. C. State. 5. K. P. Vasudevan Pillai. 6. Nirayana. 7. Solar. 8. 1st January. 9
 
 17, 1953 (Principal era A.D.) 10. January, February and so on. 
 
-5. Ganapatidev Shastri. 6. Nirayana. 7. Luni-Solar, Purnimanta. 8. Chaitra Sukla pratipad. 9. Vikram Samvat 2010 begins on 
+5. Ganapatidev Shastri. 6. Nirayana. 7. Luni-Solar, Purnimanta. 8. Chaitra śukla pratipad. 9. Vikram Samvat 2010 begins on 
 
 16th March, 1953. 10. Chaitra to Phalguna. 
 
@@ -933,7 +933,7 @@ Tenali Taluk, Dt Guntur.
 
 3. Hindi. 4. Bazar Sitarm, Delhi-6. 
 
-5. Kuppa Sivarama Byragi Sastri. 6. Sayana (?) 7. Luni-Solar, Amanta. 8. Sukla Pratipad of Solar Meena. 
+5. Kuppa Sivarama Byragi Sastri. 6. Sayana (?) 7. Luni-Solar, Amanta. 8. śukla Pratipad of Solar Meena. 
 
 5. Pt. Brajalal Sharma. 6. Sayana (?) 7. Luni-Solar, Amanta. 8. Chaitra S 1 and Vaisakha 
 
@@ -1001,7 +1001,7 @@ Jyotirmartanda Pdt. Shankar Shastri. Hosaritti, Kesar i Hind, Haveri, Dt. Dharwa
 
 5. Ramnath Agarwal. 6. Nirayana. 7. Luni-Solar. 8. Chaitra S 1. 9. Vikrama Samvat 2011 on 4th 
 
-April, 1954. 10. Chaitra Sukla to Chaitra Krishna. 11. 3654 158 22V 57vp 12. 23°12' 8" 4" 13. 50" 13.'" 95 14. Modern methood. 
+April, 1954. 10. Chaitra śukla to Chaitra Krishna. 11. 3654 158 22V 57vp 12. 23°12' 8" 4" 13. 50" 13.'" 95 14. Modern methood. 
 
 Ketaki and Grahalaghavi. 
 
@@ -1049,7 +1049,7 @@ State.
 
 6. Nirayana. 
 
-6. Nirayana 7. Luni Solar, Amanta. 8. Chaitra Sukla pratipad. 9. Shalivahana śaka 1875 begins on 
+6. Nirayana 7. Luni Solar, Amanta. 8. Chaitra śukla pratipad. 9. Shalivahana śaka 1875 begins on 
 
 16th March, 1953. 
 
@@ -1081,7 +1081,7 @@ Panguni. 11.
 
 countries. 
 
-8. Chaitra Sukla 1. 9. Salivahana śaka, 1876 begins on 
+8. Chaitra śukla 1. 9. Salivahana śaka, 1876 begins on 
 
 4th April, 1954. 
 
@@ -1135,7 +1135,7 @@ Mysore State. 5. M. V. S. Kotrapaiah Sastry.
 
 5. Pt. Bachanprasad Tripathi. 
 
-6. Nirayana. 7. Luni Solar, Purnimanta. 8. Chaitra Sukla Pratipada. 9. Vikrama Samvat 2011 begins on 
+6. Nirayana. 7. Luni Solar, Purnimanta. 8. Chaitra śukla Pratipada. 9. Vikrama Samvat 2011 begins on 
 
 4th April, 1954. 
 
@@ -1143,7 +1143,7 @@ Mysore State. 5. M. V. S. Kotrapaiah Sastry.
 
 Asthana Vidyan. 6. Nirayana. 7. Luni Solar, Amanta. 
 
-Chaitra Sukla Pratipada. 9. Kaliyuga era 5055 begins on 
+Chaitra śukla Pratipada. 9. Kaliyuga era 5055 begins on 
 
 4th April, 1954. 
 

@@ -71,7 +71,7 @@ Educational Service (Retd.), 13 Musa Sait Street, T-Nagar, Madras-17.
 
 Chawk, Ghodhandur Road, Jogeswari, Bombay. Letter dated 1. 3. 53. 
 
-(i) Favours adoption of Vikrama Samyat. (ii) Starting month as Kārtika Suklapakṣa. (iii) Suklapakṣa first, krṣņapaksa second in each month. 
+(i) Favours adoption of Vikrama Samyat. (ii) Starting month as Kārtika śuklapakṣa. (iii) śuklapakṣa first, krṣņapaksa second in each month. 
 
 Letter dated 2. 3. 53. 
 
@@ -153,7 +153,7 @@ Sringeri, Kollegal, Coimbatore, Madras. Letters dated 13. 6. 53, 14. 7. 53, etc.
 
 Chandernagore, Hooghly. Letter dated 6. 4. 53. 
 
-(i) Bengali year to be counted from Caitra to Phālguna (14th April to 13th April). (ii) The name Agrahāyana to be substituted hy. Mārgasirsa in Bengal. (iii) Bhiṣmapañcami (Sukla), during the Sun's stay in Dirayana Moṣa to be introduced. (iv), Western method of ayana calculation to be discarded and position of Uranus and Neptund to be included. (v) Dispute of ayanām sa to be settled and zero ayanāmģa year to be adopted as 499 A.D. ( 421 śaka“). Letter dated 3. 7. 53. : States that the western theory of the precession of equinoxes is absurd. The trepidation theory of Sūrya Siddhānta is correct. Letter dated 14. 7. 53. 
+(i) Bengali year to be counted from Caitra to Phālguna (14th April to 13th April). (ii) The name Agrahāyana to be substituted hy. Mārgasirsa in Bengal. (iii) Bhiṣmapañcami (śukla), during the Sun's stay in Dirayana Moṣa to be introduced. (iv), Western method of ayana calculation to be discarded and position of Uranus and Neptund to be included. (v) Dispute of ayanām sa to be settled and zero ayanāmģa year to be adopted as 499 A.D. ( 421 śaka“). Letter dated 3. 7. 53. : States that the western theory of the precession of equinoxes is absurd. The trepidation theory of Sūrya Siddhānta is correct. Letter dated 14. 7. 53. 
 
 Nirayapa system of calculations to be adopted. Letters dated 15. 7. 53 & 24. 7. 53, etc. 
 
