@@ -51,26 +51,23 @@ The following members were present :--
 12. The suggestions received from different persons and institutions were read and discussed. 
 
 
-## Memorandum issued by the Chairman to the members of the Calendar Reform Committee on 22nd June, 1954. 
+### Memorandum issued by the Chairman 
+To the members of the Calendar Reform Committee on 22nd June, 1954. 
+
 In the second meeting of the Calendar Reform Committee held at the C.S.I.R. Building, New Delhi on the 8th March, 1954, Dr. Gorakh Prasad raised the question of adopting variable ayanāmśā for the purpose of calculating nakṣatras as well as sidereal Meṣadi. After discussion it was, however, decided that Prof. Vaidya would prepare a note on the subject which would be circulated amongst the members, and after obtaining their opinion, the Chairman would decide the question. 
 
-Dr. Gorakh Prasad thereafter submitted a note containing his definite proposals in this respect, which was also circulated amongst the members. He proposed that“ 23° 15' be taken as the ayanāṁśa on the vernal equinox day (21st March ) of 1956, because this will reconcile most of the Pancāngas in India based on modern constants." 
+**Dr. Gorakh Prasad** thereafter submitted a note containing his definite proposals in this respect, which was also circulated amongst the members. He proposed that 23° 15' be taken as the ayanāṁśa on the vernal equinox day (21st March ) of 1956, because this will reconcile most of the Pancāngas in India based on modern constants." 
 
-Prof. Vaidya prepared his note and it was circulated. Another note prepared in this office on the same subject was also circulated. It was explained in these notes that the Meṣādi of Surya Siddhānta was actually the V.E. point, and as the seasons and different solar and lunar months of the year are connected with Meṣādi, the year of the Indian religious calendar cannot but be the seasonal or tropical year. It has also been shown that it is not possible to arrive at any definite conclusion as to the actual amount of ayanansa at any epoch, from an examination of the star positions given by the Surya Siddhānta. 
+**Prof. Vaidya** prepared his note and it was circulated. Another note prepared in this office on the same subject was also circulated. It was explained in these notes that the **Meṣādi of Surya Siddhānta was actually the V.E. point**, and as the seasons and different solar and lunar months of the year are connected with Meṣādi, the year of the Indian religious calendar cannot but be the seasonal or tropical year. It has also been shown that it is not possible to arrive at any definite conclusion as to the actual amount of ayanansa at any epoch, from an examination of the star positions given by the Surya Siddhānta. 
 
-Replies to the circular letters have been received from Dr. Daftari and Shri Karandikar, who desire that we should stick to the proposals adopted in the first meeting, viz., should adopt a constant ayanāṁśa of 23° 15' for our religious calendar. I have consulted Shri Lahiri and Prof. Vaidya also on this question. 
+Replies to the circular letters have been received from Dr. Daftari and Shri Karandikar, who desire that we should stick to the proposals adopted in the first meeting, viz., should adopt a **constant ayanāṁśa of 23° 15'** for our religious calendar. I have consulted Shri Lahiri and Prof. Vaidya also on this question. 
 
-It appears to me that if we accept Dr. Gorakh Prasad's proposal of adopting a variable ayanāṁśa for the calculation of nakṣatra as well as Mesadi, we shall lose the seasonal nature of the months which is against the Dharmaśāstra, as our Meṣādi being the V.E. point cannot be calculated with a variable ayanāṁśa. We cannot therefore accept Dr. Gorakh 
+It appears to me that if we accept Dr. Gorakh Prasad's proposal of adopting a variable ayanāṁśa for the calculation of nakṣatra as well as Mesadi, we shall lose the seasonal nature of the months which is against the Dharmaśāstra, as our Meṣādi being the V.E. point cannot be calculated with a variable ayanāṁśa. We cannot therefore accept Dr. Gorakh Prasad's second part of the proposal that the sidereal Meṣadi +++(he means tropical)+++ should also be calculated with variable ayanāṁśa. It should therefore be calculated with a **fixed ayanāmba of 23° 15'** as already decided. 
 
-17 
-
-Prasad's second part of the proposal that the sidereal Meṣadi should also be calculated with variable ayanāṁśa. It should therefore be calculated with a fixed ayanāmba of 23° 15' as already decided. 
-
-As regards the calculation of nakṣatras, I agree that it should be done with a variable ayanāṁśa, otherwise the nakṣatra divisions will lose all connec tions with the stars or star-groups contained in those nakṣatras. For this purpose I agree with Dr. Gorakh Prasad that the ayanāṁśa of 23° 15' should relate to 21st March, 1956, the middle of the five-yearly period. 
+As regards the **calculation of nakṣatras**, I agree that it should be done with a **variable ayanāṁśa**, otherwise the nakṣatra divisions will lose all connections with the stars or star-groups contained in those nakṣatras. For this purpose I agree with Dr. Gorakh Prasad that the ayanāṁśa of 23° 15' should relate to 21st March, 1956, the middle of the five-yearly period. 
 
 This is acceptable without entering into any controversy about any particular value of ayanāṁśa. 
 
-The result would be that the Meṣādi would not coincide with any particular nakṣatra division for all time. This has got support of our śāstras behind it, as there is mention of such receding back of the V.E. point ( our Meṣādi ) over the nakṣatra divisions. 
+The result would be that the Meṣādi would not coincide with any particular nakṣatra division for all time. This has got **support of our śāstras** behind it, as there is mention of such receding back of the V.E. point ( our Meṣādi ) over the nakṣatra divisions. 
 
-The five yearly experimental calendar already prepared will be revised where necessary in the light of the above docision. 
-
+The five yearly experimental calendar already prepared will be revised where necessary in the light of the above decision.
