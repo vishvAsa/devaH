@@ -124,10 +124,6 @@ Discussion on this point was postponed ; the Committee did not favour the Gregor
 
 All the members of the Committee agreed to the resolution except Dr. Gorakh Prasad who recorded his disagreement with the resolution. Dr. Gorakh Prasad was of the opinion that for civil purposes also the year should begin on the same day as for religious purposes. He thought that the existence of two Indian solar years would create confusion instead of producing any beneficial effects. 
 
-## 30. Length of the Months. 
-
-Shri Karandikar's view was that the time taken by the sun to go through 30° on the zodiac should be the length of the month. The Chairman pointed out that the lengths of months would vary from 29 to 32, and would cause much inconvenience. 
-
 ## 28. Beginning of the Year. 
 
 The Chairman pointed out that there was an error of 23 days in the present calendars and desired to know whether the Committee would favour shifting of the year for the reformed calendar by 23 days to put an end to this mistake. 
@@ -137,6 +133,17 @@ Dr. Gorakh Prasad pointed out that a suggestion to shift the year back by 23 day
 Dr. Daftari opined that this error of 23 days can be left over as it was and allowed to remain as a permanent constant error. The increase of the error should be stopped. 
 
 Shri Karandikar said that the Government should have a solar year beginning from Vernal Equinox. He desired the length of the year to be tropical. He suggested that after shifting back by 23 days the V. E. day, viz., 21st March may be the beginning of the solar year, but the pancāngas may start the lunar year from Caitra suklādi. 
+
+
+## 29. Vernal Equinox & Winter Solstice. 
+
+The Chairman said that V.E. was on 21st March and that W.S. was on 22nd December. The problem was whether the Committee favoured V.E. or W.S. as the beginning of the solar year, 
+
+Dr. Daftari said that W.S. is good for the civil calendar. In any case, the seven-day week should not be touched which was agreed to by the Committee. Dr. Gorakh Prasad, Prof. Vaidya and Shri Lahiri favoured the V.E. as the commencement for the solar year. 
+
+## 30. Length of the Months. 
+
+Shri Karandikar's view was that the time taken by the sun to go through 30° on the zodiac should be the length of the month. The Chairman pointed out that the lengths of months would vary from 29 to 32, and would cause much inconvenience. 
 
 The Committee agreed to have 5 solar months of 31 days and 7 months of 30 days in an ordinary year and in a leap year 6 solar months of 31 days and six months of 30 days. 
 
@@ -148,107 +155,88 @@ Dr. Daftari said that the Siddhāntas used the Kaliyuga era. Sri Karandikar was 
 
 The Committee resolved that the current śaka Era should be adopted for the reformed Indian calendar. 
 
-## 29. Vernal Equinox & Winter Solstice. 
+## 32. Reckoning of Day: 
 
-The Chairman said that V.E. was on 21st March and that W.S. was on 22nd December. The problem was whether the Committee favoured V.E. or W.S. as the beginning of the solar year, 
+Two systems now prevalent are 
 
-Dr. Daftari said that W.S. is good for the civil calendar. In any case, the seven-day week should not be touched which was agreed to by the Committee. Dr. Gorakh Prasad, Prof. Vaidya and Shri Lahiri favoured the V.E. as the commencement for the solar year. 
+- (a) reckoning the day from mid-night to mid-night and 
+- (b) from sun-rise to sun-rise. 
 
-Stronon lers 
+The Chairman favoured the mid-night system as the advantages in this system were : 
 
-over 
+(i) that the astronomers all over the world, including our ancient astronomers used it ; (ii) it was an international system ; (iii) complications due to latitude did not come in this system. 
+
+Dr. Daftari, Shri Karandikar, Prof. Vaidya and Dr. Gorakh Prasad, however, were in favour of reckoning the day from sun-rise to sun-rise ; even though latitude and longitude had to be considered in calculations. Shri Lahiri was in favour of reckoning the day from mid-night to mid-night. 
+
+The Committee resolved that in the Indian system of time reckoning, the day should be reckoned from mid-night to mid-night at an All-India Central Station for dating purposes only, but for religious and other purposes the day may begin from sun-rise of the Central Station ; but tables showing local sun - rise for important stations should be given. 
+
+## 33. All-India Central Station. 
+
+The Chairman pointed out that it was necessary for international purposes that Indian time should be 51 hrs. ahead of the Universal Time (Greenwich Time). The Committee considered the question of location of the Central Astronomical Station. 
+
+Prof. Vaidya and Shri Karandikar put up maps and atlases. Prof. Vaidya proposed Ujjain on traditional grounds or Jubbalpore on geographical grounds. Dr. Gorakh Prasad and Shri Karandikar suggested Ujjain, while Shri Lahiri suggested 224°N. Latitude. It was decided that a place (821°E. of Greenwich) and having the latitude of Ujjain (viz. 23° 11'N) be recognised as the Central Station for India. 
+
+## 34. Lunar Calendar. 
+
+The Committee agreed that the lunar months should be new-moon ending, and the lunar year should begin with Caitra śukla-pratipat. 
 
 The following resolution was adopted : 
 
 The Committee recommends to the Government of India that a scientific Civil Solar Calendar to be henceforth called the National Calendar for purposes of dating should have its first day after the Vernal Equinox day, viz., on the 22nd March, but for religious purposes in places where solar calendar is used, 13th or 14th April may be the first day of the year for some time to come (as a concession to the prevailing custom). 
 
-32. Reckoning of Day: 
-
-Two systems now prevalent are (a) reckoning the day from mid-night to mid-night and (6) from sun-rise to sun-rise. The Chairman favoured the mid-night system as the advantages in this system were : 
-
-that the astronomers all over the world, 
-
-including our ancient astronomers used it ; (ii) it was an international system ; (iii) complications due to latitude did not come 
-
-in this system. Dr. Daftari, Shri Karandikar, Prof. Vaidya and Dr. Gorakh Prasad, however, were in favour of reckoning the day from sun-rise to sun-rise ; even though latitude and longitude had to be considered in calculations. Shri Lahiri was in favour of reckoning the day from mid-night to mid-night. 
-
-14 
-
-The Committee resolved that in the Indian system of time reckoning, the day should be reckoned from mid-night to mid-night at an All-India Central Station for dating purposes only, but for religious and other purposes the day may begin from sun-rise of the Central Station ; but tables showing local sun - rise for important stations should be given. 
-
-should favour a uniform tethi for the whole of India. Shri Karandikar however opposed the proposition and pointed out that the tithi depended on sunrise and so on local time and could never be uniform for the whole of India. 
-
-It was resolved that in the National Calendar, tithi should be given for the Central Station and the calculations of time should be given in hours and minutes. 
-
-38. Nakshatra. 
-
-33. All-India Central Station. 
-
-The Chairman pointed out that it was necessary for international purposes that Indian time should be 51 hrs. ahead of the Universal Time (Greenwich Time). The Committee considered the question of location of the Central Astronomical Station. 
-
-Prof. Vaidya and Shri Karandikar put up maps and atlases. Prof. Vaidya proposed Ujjain on tradi tional grounds or Jubbalpore on geographical grounds. Dr. Gorakh Prasad and Shri Karandikar suggested Ujjain, while Shri Lahiri suggested 224°N. Latitude. It was decided that a place (821°E. of Greenwich) and having the latitude of Ujjain (viz. 23° 11'N) be recognised as the Central Station for India. 
-
-The Chairman preferred an Indian calendar without nakṣatras being indicated. Dr. Daftari however said that the nakṣatras should be specified and that Atvint should start with Meṣa. It was resolved that the nakṣatras should be given with Asvinī starting with Mesa. 
-
-34. Lunar Calendar. 
-
-The Committee agreed that the lunar months should be new-moon ending, and the lunar year should begin with Caitra. Sukla-pratipat. 
-
-39. Recommendations to the 
-
-Government of India. Resolutions proposed by the Chairman and un animously passed by the Committee :-- 
-
-1. A tentative National Calendar for the whole 
-
-of India should be prepared for five years in advance, showing dates, days, months, tithis and nakṣatras. (Five years in advance was necessary to find out the practical implications and difficulties which may be caused by the occurrence of 
-
-leap years and intercalary months.) 2. Steps should be taken to compile an Indian 
-
-Ephemeris by the Government of India showing in advance positions of the Sun, the Moon, the planets and other important 
-
-heavenly bodies. 3. There should be a National Observatory at 
-
-a suitable place provided with modern equipment, apparatus and time-service. 
-
-35. The year for Religious Calendar. 
+## 35. The year for Religious Calendar. 
 
 Dr. Daftari said that for the sake of convenience the first point of the zodiac should be 23° 21' ahead of the real Vernal Equinox, and that all calculations should be made on this basis. Shri Lahiri pointed out that in Bengal they had 23° 12'. 
 
 It was decided that the first point of Meṣa is to be taken 23° 15' ahead of the Vernal Equinoctial point, and all calculations should be made on that basis. 
 
-36. Names of Solar Months. 
+## 36. Names of Solar Months. 
 
 The names of the months should continue to be Caitra, Vaisakha, etc., as at present ; the appellation of solar or lunar should be attached to them as the case may be. 
 
 The point regarding naming of the months of the National Civil Calendar was postponed for the next meeting. 
 
+## 37. Tithi. 
+
+The Chairman said that tithi calculations according to Indian method were wrong at present by sometimes as much as 6 hours and said that the Committee should favour a uniform tithi for the whole of India. Shri Karandikar however opposed the proposition and pointed out that the tithi depended on sunrise and so on local time and could never be uniform for the whole of India. 
+
+It was resolved that in the National Calendar, tithi should be given for the Central Station and the calculations of time should be given in hours and minutes. 
+
+## 38. Nakshatra. 
+The Chairman preferred an Indian calendar without nakṣatras being indicated. Dr. Daftari however said that the nakṣatras should be specified and that aśvinī should start with Meṣa. It was resolved that the nakṣatras should be given with Asvinī starting with Mesa. 
+
+## 39. Recommendations to the Government of India. 
+
+Resolutions proposed by the Chairman and un animously passed by the Committee :-- 
+
+- 1. A tentative National Calendar for the whole of India should be prepared for five years in advance, showing dates, days, months, tithis and nakṣatras. (Five years in advance was necessary to find out the practical implications and difficulties which may be caused by the occurrence of leap years and intercalary months.) 
+- 2. Steps should be taken to compile an Indian Ephemeris by the Government of India showing in advance positions of the Sun, the Moon, the planets and other important heavenly bodies. 
+- 3. There should be a National Observatory at a suitable place provided with modern equipment, apparatus and time-service. 
+
+## Meeting the next day
 Monday, the 23rd February, 1953. 
 
 The following attended : 
 
-Prof. M. N. Saha (Chairman) Dr. K. L. Daftari 
-
-(Member) Shri J. S. Karandikar Shri N. C. Lahiri Prof. R. V. Vaidya Shri K. G. Krishnamurthi 
-
-Assistant Secretary, C.S.I.R. 
+- Prof. M. N. Saha (Chairman)  
+- Dr. K. L. Daftari (Member)  
+- Shri J. S. Karandikar  
+- Shri N. C. Lahiri  
+- Prof. R. V. Vaidya  
+- Shri K. G. Krishnamurthi 
+- Assistant Secretary, C.S.I.R. 
 
 The Committee reviewed the items covered in the meeting held on Saturday. 
-
-37. Tithi. 
-
-The Chairman said that tithi calculations according to Indian method were wrong at present by sometimes as much as 6 hours and said that the Committee 
-
-15 
 
 2. Some members of the Committee suggested that additional members should be taken up on the Committee or co-opted. The Chairman said that, if necessary, additional members would be taken up or co-opted, but only at a later stage, after the proceedings are reported to the Council of Scientific and Industrial Research. 
 
 3. Discussing the procedure to be followed, the Chairman said that the Committee should request the Government of India to appoint two astronomers to prepare the National Calendar on the lines suggested by the Committee and give them the necessary assistance. 
 
-The Chairman is in correspondence with the Astronomer Royal of England regarding the compila tion of the Indian Ephemeris. 
+The Chairman is in correspondence with the Astronomer Royal of England regarding the compilation of the Indian Ephemeris. 
 
 4. The Chairman proposed to the Committee that Shri Lahiri and Prof. Vaidya may be recommended to the Government to be appointed for the work of compilation of the National Calendar. : 
 
-The Committee recommended that the services of Shri Lahiri and Prof. Vaidya who were both Government servants be got on loan for a period of one year in the first. instance. The Committee also recommended that two assistants be appointed to assist Shri Lahiri and Prof. Vaidya at Calcutta and Ujjain respectively. 
+The Committee recommended that the services of Shri Lahiri and Prof. Vaidya who were both Government servants be got on loan for a period of one year in the first instance. The Committee also recommended that two assistants be appointed to assist Shri Lahiri and Prof. Vaidya at Calcutta and Ujjain respectively. 
 
 The Committee recommended that suitable budget provision be made for one year for the work.* 
 

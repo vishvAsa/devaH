@@ -5689,7 +5689,7 @@ C. R.--37
 
 228 
 
-No records bearing a date of the imperialdynasties following the Mauryas, viz., the Sungas, and Kanvas (186 B.C.-45 A:D.) are known. But the next imperial dynasty, the Satavahanas have left plenty of dated records. In these, the same system of date-recording by regnal years, the seasons, the pakṣas, and tithis are found. There are 8 pakṣas in a season of four months, and they were serially numbered from 1 to 8. The odd ones were Krṣņa pakṣas, the even ones Sukla paksas. 
+No records bearing a date of the imperialdynasties following the Mauryas, viz., the Sungas, and Kanvas (186 B.C.-45 A:D.) are known. But the next imperial dynasty, the Satavahanas have left plenty of dated records. In these, the same system of date-recording by regnal years, the seasons, the pakṣas, and tithis are found. There are 8 pakṣas in a season of four months, and they were serially numbered from 1 to 8. The odd ones were Krṣņa pakṣas, the even ones śukla paksas. 
 
 Some examples are given below : 
 
@@ -5699,7 +5699,7 @@ Data patikā Savachare 10+8 vāsapakhe 2 divase 1
 
 (dattā pritika Samvatsare aṣtādase 18 Varsāpakṣe 
 
-divtiye 2 divase prathame 1). i.e. the inscription was recorded in the eighteenth year elapsed since the coronation on the first day of the second Paksa of the Varṣā season, i.e., in the lunar month of Śrāvana, on the first day after new moon (Sukla pakṣa). 
+divtiye 2 divase prathame 1). i.e. the inscription was recorded in the eighteenth year elapsed since the coronation on the first day of the second Paksa of the Varṣā season, i.e., in the lunar month of Śrāvana, on the first day after new moon (śukla pakṣa). 
 
 There are other Satavahana inscriptions similarly dated as summarized in the table below : 
 
@@ -5711,7 +5711,7 @@ pp. 220-221) Ramno Siri Virapurisadatasa Sava 6 vā pa 6 di 10
 
 (Rājfiah Sri Virapuruṣadattasya sainvatsare 
 
-ṣaṣthe 6 rarṣāpakṣe ṣaṣthe 6 divase daśame 10. On the sixth year of King Sri Virapuruṣadatta on 'the 6th pakṣa of the varṣā season, on the tenth day. The sixth of varṣā pakṣa is month of Aśvina, second or light half (Sukla pakṣa). - It is obvious from the above inscriptional evidences, that continuous era-recording was not used by Indian dynasts up to the time of the Satavahanas, and no ancient books, not even the Mahabhārata mentions an era. 
+ṣaṣthe 6 rarṣāpakṣe ṣaṣthe 6 divase daśame 10. On the sixth year of King Sri Virapuruṣadatta on 'the 6th pakṣa of the varṣā season, on the tenth day. The sixth of varṣā pakṣa is month of Aśvina, second or light half (śukla pakṣa). - It is obvious from the above inscriptional evidences, that continuous era-recording was not used by Indian dynasts up to the time of the Satavahanas, and no ancient books, not even the Mahabhārata mentions an era. 
 
 As no era is mentioned, it has been difficult to work out a chronology of the early Indian dynasts including the Satavahanas. 
 
@@ -5741,7 +5741,7 @@ Sāta kanisa
 
 8-H 2-1 R moans raño, V-Vāsiţhiputasa, G-Gotamiputasa. 
 
-The number in the first column indicates the serial number of the inscription in Lūders' list. The last column contains dates, in an abridged form ; e.g., in 1123, we have 19, G 2-13. Here '19' is the regnal year, G denotes Griṣma or summer season, '2' following G denotes the second pakṣa, i.e., the second half of the month of Caitra, megaftituting the Sukla pakṣa, and the last numeral '13' denotes the day. But it is not clear whether the day is the lunar day, i.e., the tithi or the solar day. Even if it be the tithi, it is probably not the Siddhāntic tithi, but the old Brahmaṇic or Vedanga tithi. 
+The number in the first column indicates the serial number of the inscription in Lūders' list. The last column contains dates, in an abridged form ; e.g., in 1123, we have 19, G 2-13. Here '19' is the regnal year, G denotes Griṣma or summer season, '2' following G denotes the second pakṣa, i.e., the second half of the month of Caitra, megaftituting the śukla pakṣa, and the last numeral '13' denotes the day. But it is not clear whether the day is the lunar day, i.e., the tithi or the solar day. Even if it be the tithi, it is probably not the Siddhāntic tithi, but the old Brahmaṇic or Vedanga tithi. 
 
 The Coming of the Era to India As, we have seen in $3.5, the era reckoning had been in use in Babylon since 747 B.C., and the Seleucidean era which marked the accession to power of Seleucus at Babylon in 312 B.C., was widely current in the whole of the Middle East, both by the royalty and the public. 
 
@@ -5997,7 +5997,7 @@ The gradual adoption of characteristic Indian ideas by the Sakas is shown in a r
 
 [Gundā Stone Inscription of the time of Rudrasimha I, Sircar, p. 176] 
 
-Siddham. Rājñaḥ mahā kṣatrapasya svāmi-Castana prapautrasya rājñaḥ kṣatrapasya svāmi Jayadāmapautrasya rājraḥ mahākṣatrapasya. svāmi-Rudradāma-putrasya rajñaḥ kṣatrapasya svāmi-Rudrasimhasya varse tryutta rasata ( tame ) ( adhika ) 103 Vaiśākha śuddhe (=Suklapakṣe) pancama-dhanya tithau Rohini nakṣatra muhūrle ābhireņa senāpati Bappakasya putreņa senāpati Rudrabhūtinā grāme rasāpadrake vāpi (=kūpah) khānitā, bandhitā (siladibhiḥ] ca sarra sattvānāin hila sukhārtham iti. 
+Siddham. Rājñaḥ mahā kṣatrapasya svāmi-Castana prapautrasya rājñaḥ kṣatrapasya svāmi Jayadāmapautrasya rājraḥ mahākṣatrapasya. svāmi-Rudradāma-putrasya rajñaḥ kṣatrapasya svāmi-Rudrasimhasya varse tryutta rasata ( tame ) ( adhika ) 103 Vaiśākha śuddhe (=śuklapakṣe) pancama-dhanya tithau Rohini nakṣatra muhūrle ābhireņa senāpati Bappakasya putreņa senāpati Rudrabhūtinā grāme rasāpadrake vāpi (=kūpah) khānitā, bandhitā (siladibhiḥ] ca sarra sattvānāin hila sukhārtham iti. 
 
 • Translation : Of king Mahakṣatrapa.....of Svami Rudrasimha in the year 103 in the light half of the month of Vaiśākha on the 5th tithi and in the Robini nakṣatra muhurta,...... 
 
@@ -6819,11 +6819,11 @@ at the end of a solar month, then the lunar month beginning from the first new-m
 
 new-moon ending month, it may begin on any day during the last half of the preceding solar month and the first half of the solar month in question. It will therefore be seen that wbile the new-moon ending or mukhya month sometimes falls almost entirely out side (i.e., after) the relative solar month, the full-moon ending or a gruna month always covers at least half of the solar month of that name. 
 
-The months used for civil purposes in the Hindi calendar are the full-moon ending lunar months, and are sub-divided into two halves-krsna pakṣa covering the period from full-moon to new-moon and termed as vadi, and sukla pakṣa covering the period from new moon to full-moon and termed as sudi. As these months, are on the gauna māna, the vadi half of a month comes first followed by the sudi half. The last day of the year is therefore a full-moon day, the Phalguni (or Holi ) Purnima, in keeping with the ancient Indian custom. 
+The months used for civil purposes in the Hindi calendar are the full-moon ending lunar months, and are sub-divided into two halves-krsna pakṣa covering the period from full-moon to new-moon and termed as vadi, and śukla pakṣa covering the period from new moon to full-moon and termed as sudi. As these months, are on the gauna māna, the vadi half of a month comes first followed by the sudi half. The last day of the year is therefore a full-moon day, the Phalguni (or Holi ) Purnima, in keeping with the ancient Indian custom. 
 
-The Samvat and śaka years in the Hindi calendar begins with Caitra sukla Pratipad. For astronomical purposes, however, the year begins a few days later with the entrance of the sun into Meṣa. 
+The Samvat and śaka years in the Hindi calendar begins with Caitra śukla Pratipad. For astronomical purposes, however, the year begins a few days later with the entrance of the sun into Meṣa. 
 
-The calendars of Āṣādhi Samvat and Kārtiki Samvat are, on the other hand, based on the new-moon ending months, and consequently the months begin 15 days later than the months of the Caitrādi full-moon ending calendar. The Āsādhi calendar begins with Aṣādha Sukla 1, and the Kārtiki calendar with Kārtika Sukla 1. 
+The calendars of Āṣādhi Samvat and Kārtiki Samvat are, on the other hand, based on the new-moon ending months, and consequently the months begin 15 days later than the months of the Caitrādi full-moon ending calendar. The Āsādhi calendar begins with Aṣādha śukla 1, and the Kārtiki calendar with Kārtika śukla 1. 
 
 The table (No. 20 on p. 249) shows the scheme of the different calendars for the year śaka 1875 (1953-54). The year contains a māla or adhika month. 
 
@@ -7069,7 +7069,7 @@ Pauga. S Māgha
 
 Pausa Māgha 8 Magba Pbālguna V Māgha Phālguna S Phālguna s Caitra v Phalguna v 
 
-S=Sukla pakṣa or Sudi. K=Krṣņa pakṣa. V= 
+S=śukla pakṣa or Sudi. K=Krṣņa pakṣa. V= 
 
 or Vadi. 
 
@@ -9555,7 +9555,7 @@ is called the Kṣaya year. In actual practice, the interval between two expunct
 
 There was indeed at one time a period of 12 Jovian years, but at some past epoch, a fivefold multiple, a cycle of 60 Jovian years, each with a special name suffixed by the word 'Samvatsara', came into use. 
 
-The following are the names of the different years : (1) Prabhava (21) Sarvajit (41) Plavaiga (2) Vibbaya (22) Sarvadhārin (42) Kila ka (3) Sukla · (23) Virodhin (43) Saumya (4) Pramoda (24) Viksta (44) Sādhāraņa (5) Prajāpati (25) Khara (45) Virodhakrt (6) Angiras (26) Nandana (46) Paridhāvin (7) Srimukha (27) Vijaya (47) Pramādin. (8) Bhava (28) Jaya (48) Ananda (9) Yuvan (29) Manmatha (49) Rākṣasa (10) Dhātri (30) Durmukha (50) Anala (Nala) (11) Iśvara (31) Hemalamba (51) Pingala (12) Bahudhānya (32) Vilamba (52) Kālayukta (13) Pramāthin (33) Vikārin (53) Siddhārthin. (14) Vikrama (34) Sarvari (54) Raudra (15) Vrga (35) Plava (55) Durmati (16) Chitrabhānu (36) Subhakrt (56) Dundubhi (17) Subhānu (37) śobbana (57) Rudhirodgārin (18) Tāraņa (38) Krodhin (58) Raktākṣa (19) Pārthiva (39) Viśvāvasu (59) Krodhana (20) Vyaya (40) Parābhava (60) Kṣaya (Aksaya) 
+The following are the names of the different years : (1) Prabhava (21) Sarvajit (41) Plavaiga (2) Vibbaya (22) Sarvadhārin (42) Kila ka (3) śukla · (23) Virodhin (43) Saumya (4) Pramoda (24) Viksta (44) Sādhāraņa (5) Prajāpati (25) Khara (45) Virodhakrt (6) Angiras (26) Nandana (46) Paridhāvin (7) Srimukha (27) Vijaya (47) Pramādin. (8) Bhava (28) Jaya (48) Ananda (9) Yuvan (29) Manmatha (49) Rākṣasa (10) Dhātri (30) Durmukha (50) Anala (Nala) (11) Iśvara (31) Hemalamba (51) Pingala (12) Bahudhānya (32) Vilamba (52) Kālayukta (13) Pramāthin (33) Vikārin (53) Siddhārthin. (14) Vikrama (34) Sarvari (54) Raudra (15) Vrga (35) Plava (55) Durmati (16) Chitrabhānu (36) Subhakrt (56) Dundubhi (17) Subhānu (37) śobbana (57) Rudhirodgārin (18) Tāraņa (38) Krodhin (58) Raktākṣa (19) Pārthiva (39) Viśvāvasu (59) Krodhana (20) Vyaya (40) Parābhava (60) Kṣaya (Aksaya) 
 
 The beginning of the Jovian years is determined by the entry of Jupiter into an Indian sign by mean motion, the 1st, 13th, 25th, 37th and 49th years being marked by the entry of Jupiter into the sign Kumbha, and not Meṣa which is otherwise the first of the signs of the Siddhāntas. It thus appears that the system of counting Jovian years is a pre-Siddhāntic practice 
 
@@ -10425,7 +10425,7 @@ Paikuli (inscription), 232 Paitamaha Siddhānta, 223 Pajā (inscription), 220 Pa
 
 krona or vahula, 15, 221, 228, 233, 247; 
 
-sukla, 15, 221, 228, 247; . Pala, 160 Pålag, 257 Pallavas, 256 pañcāṅgas, list of, 21, 22 Pañca Siddhantikū of Varahamihira, 158, 162, 
+śukla, 15, 221, 228, 247; . Pala, 160 Pålag, 257 Pallavas, 256 pañcāṅgas, list of, 21, 22 Pañca Siddhantikū of Varahamihira, 158, 162, 
 
 197, 223, 226, 236, 237, 238 Panemos, Greek month, 230 Pāpini, 214 Panjtar (inscription), 229 Pannekoek, Dr. Anton, 174, 176, 178, 185, 194, 
 
@@ -10591,7 +10591,7 @@ Yājñavalkya Vájasaneya, 218. Yajur Veda, 182, 183, 214, 218-222 ;
 
 Black, 218; 
 
-Sukla, 218 Yajurveda Samhita, 218 Yajur Jyōtiṣa, 222 Yåma, division of day, 160 Yamakoti, 239 
+śukla, 218 Yajurveda Samhita, 218 Yajur Jyōtiṣa, 222 Yåma, division of day, 160 Yamakoti, 239 
 
 Yamardha, 108 
 
