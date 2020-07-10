@@ -9,7 +9,7 @@ A permanent Standing Committee to be called the Indian Ephemeris and Nautical Al
 
 (11) Steps should be taken to establish a National Astronomical Observatory at a suitable place, provided with modern equipment, apparatus and time-service. 
 
-We hope that the Government of India would make early arrangements for implementation of our recommendations. For this purpose the date 21st March, 1956 A.D., which is Caitra 1, 1878 Saka seems to be the most suitable time for introduction of the reformed calendar throughout India.
+We hope that the Government of India would make early arrangements for implementation of our recommendations. For this purpose the date 21st March, 1956 A.D., which is Caitra 1, 1878 śaka seems to be the most suitable time for introduction of the reformed calendar throughout India.
 
 M. N. SAHA  
 J. S. KARANDIKAR  

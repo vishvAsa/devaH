@@ -69,11 +69,11 @@ Panchang galli, Mahal, Nagpur-2. 25. Sri Kalikata Visvanatha Panchang ( Hindi )
 
 1594, Muktaram Babu Street, Calcutta. 26. Sri Krishna Panchang ( Hindi ) 
 
-20, Nariwal Gali, Lucknow. 27. Biṣuddha Siddhanta Panjika ( Bengali ) 
+20, Nariwal Gali, Lucknow. 27. Biṣuddha Siddhānta Panjika ( Bengali ) 
 
 85, Grey Street, Calcutta-5. 28. Jagajjyoti Panjika ( Bengali ) 
 
-55A, Raja Dinendra Street, Calcutta-6. 29. Directory Susiddhanta Panjika ( Bengali ) 
+55A, Raja Dinendra Street, Calcutta-6. 29. Directory SuSiddhānta Panjika ( Bengali ) 
 
 62A, Jay Mitra Street, Calcutta-5.. 30. Nutan Purna Chandra Panjika & Directory 
 
@@ -131,7 +131,7 @@ Clo. Keshari Mudranalaya,
 
 568 Narayan Kelkar Road, Poona-2. 47. Shuddha Panchang (Marathi) 
 
-140 Shukrawar Peth, Poona-2. 48. Vijaya Samvatsara Siddhanta Panchangam 
+140 Shukrawar Peth, Poona-2. 48. Vijaya Samvatsara Siddhānta Panchangam 
 
 (Telegu). Via Kollur, Dt. Guntur. 49. Lingala Bangaraiah ṣiddhanti's Almanac 
 
@@ -151,7 +151,7 @@ Panchangam (Kanada) Kollegal, Coimbatore, Madras.. 52. Kottur Guru Basaveswara P
 
 P.O. Haveri, Dt. Dharwar, 
 
-. Kanada. 54. Hooli Siddhanta Panchangam (Kanada) 
+. Kanada. 54. Hooli Siddhānta Panchangam (Kanada) 
 
 Brihan Math, P.O. Hooli, 
 

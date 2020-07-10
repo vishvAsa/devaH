@@ -187,11 +187,11 @@ The Committee agreed to have 5 solar months of 31 days and 7 months of 30 days i
 
 31. Era. 
 
-The Chairman pointed out that the Vikrama era was never used by astronomers and in different States, there were different year beginnings for the Vikrama Samvat era. For all calculations the Indian astronomers have always used the saka era. 
+The Chairman pointed out that the Vikrama era was never used by astronomers and in different States, there were different year beginnings for the Vikrama Samvat era. For all calculations the Indian astronomers have always used the śaka era. 
 
-Dr. Daftari said that the Siddhantas used the Kaliyuga era. Sri Karandikar was of the opinion that either Kali or Kalpa era should be used. 
+Dr. Daftari said that the Siddhāntas used the Kaliyuga era. Sri Karandikar was of the opinion that either Kali or Kalpa era should be used. 
 
-The Committee resolved that the current Saka Era should be adopted for the reformed Indian calendar. 
+The Committee resolved that the current śaka Era should be adopted for the reformed Indian calendar. 
 
 29. Vernal Equinox & Winter Solstice. 
 

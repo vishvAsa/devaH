@@ -3,10 +3,10 @@ title = "01 CIVIL CALENDAR"
 
 +++
 
-- (1) The Saka era should be used in the unified national calendar. The year 1954-55 A.D. corresponds to 1876 Saka or in other words the year 1954 A.D. corresponds to 1875-76 Saka. 
+- (1) The śaka era should be used in the unified national calendar. The year 1954-55 A.D. corresponds to 1876 śaka or in other words the year 1954 A.D. corresponds to 1875-76 śaka. 
 - (2) The year should start from the day following the vernal equinox day. 
-- (3) A normal year would consist of 365 days while a leap-year would have 366 days. After adding 78 to the Saka era, if the sum is divisible by 4, then it is a leap-year. But when the sum becomes a multiple of 100, it would be a leap-year only when it is. divisible by 400, otherwise it would be a common year. 
-    - The years Śaka 1878, 1882, 1886, 1890, 1894 etc., are leap-years consisting of 366 days each. But the gears 2022, 2122, 2222 and again 2422, 2522, 2622 Saka are not leap-years, while 1922, 2322, 2722 Saka are leap-years. 
+- (3) A normal year would consist of 365 days while a leap-year would have 366 days. After adding 78 to the śaka era, if the sum is divisible by 4, then it is a leap-year. But when the sum becomes a multiple of 100, it would be a leap-year only when it is. divisible by 400, otherwise it would be a common year. 
+    - The years Śaka 1878, 1882, 1886, 1890, 1894 etc., are leap-years consisting of 366 days each. But the gears 2022, 2122, 2222 and again 2422, 2522, 2622 śaka are not leap-years, while 1922, 2322, 2722 śaka are leap-years. 
 - (4) Caitra ( pronounced as Chaitra ) should be the first month of the year, and the lengths of the different months would be fixed as follows: 
     - Caitra 30 days (31 days in a leap-year ), Vaisakha-31, Jyaiṣtha-31, Aṣadha-31 Śrāvana–31, Bhadra-31, āśvina-30, Kartika-30, Agrahāyana--30, Pauṣa-30, Magha-30, and Phalguna-30 days.
     - Corresponding dates :- The dates of the reformed Indian calendar would thus have a permanent correspondence with the dates of the present Gregorian calendar. The corresponding dates are as follows :

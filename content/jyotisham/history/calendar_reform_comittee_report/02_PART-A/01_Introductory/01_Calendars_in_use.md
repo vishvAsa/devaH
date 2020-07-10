@@ -15,6 +15,6 @@ Before the advent of Moslem domination, the different states of India used a bew
 
 
 
-Most of these calendars have gone out of use for civil purposes, but some are being still used for fixing up the dates and moments of religious festivals of communities following different schools of Hinduism and other religions having their origin in India (Buddhism, Jainism). They use different eras, different year-beginnings, and sometimes different methods of calculations based on the three Siddhantas (scientific astronomical treatises), viz., the Sūrya, the ārya, and the Brahma, all dating from ancient and medieval times. 
+Most of these calendars have gone out of use for civil purposes, but some are being still used for fixing up the dates and moments of religious festivals of communities following different schools of Hinduism and other religions having their origin in India (Buddhism, Jainism). They use different eras, different year-beginnings, and sometimes different methods of calculations based on the three Siddhāntas (scientific astronomical treatises), viz., the Sūrya, the ārya, and the Brahma, all dating from ancient and medieval times. 
 
 
