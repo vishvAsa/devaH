@@ -8163,11 +8163,11 @@ Winter 270°—360° • W.8. to V.E. According to this scheme, the Rainy season
 
 The Length of the Year : The length of the year, as mentioned earlier, must have been found by counting the number of days from one equinox to another, or one solstice 'to another. 
 
-In actual practice, the number of days of the year, counted in this way would vary between 365 and 366. In the early stages, the length of the year was whole-numbered, but Indians of Vedāng& Jyotiga period had a year of: 366 days. Later when they came to a rigorous definition of the year, they realized that the number of days was not whole, but involved fractions.. Probably the attempt at determin ing the exact length of the year involving fractional numbers was obtained by adding up the lengths for & number of years, and taking the mean. 
+In actual practice, the number of days of the year, counted in this way would vary between 365 and 366. In the early stages, the length of the year was whole-numbered, but Indians of Vedāng& Jyōtiṣa period had a year of: 366 days. Later when they came to a rigorous definition of the year, they realized that the number of days was not whole, but involved fractions.. Probably the attempt at determin ing the exact length of the year involving fractional numbers was obtained by adding up the lengths for & number of years, and taking the mean. 
 
 APPENDIX 5-B 
 
-Tuzo Zero-point of the Hindu Zodiao. :- The Zero-point of the Hindu Zodiac i By this is meant have been given taking the position of the. V.E. point at the the Vernal Equinoctial Point (first point of Aries) at the Observer's time as the fiducial point. It is : possible to time when the Hindu savants swibobed on from the old locate it, 48 Burgess had shown in his edition of the 8.8., if Vedāriga-Jyotiga calondar to the Siddhānitio calendar (let with the aid of the data given, d; i.o., celestial longitude of us call this the spoch of the Siddhānta-Jyotiga or S. J.). the junction-stars in the epoch of S.J. is calculated, and There is a wide spread belief that a definite location can be compare it with the i of the same stars for 1950: - Let the found for this point from the data given in the Sūry& two values of Å be denoted by lz and dg, die being the value Siddhārta and other standard trbatiges. This impression is at the spoch of S. J., dg for the year 1950. Thenigde however wrong 
+Tuzo Zero-point of the Hindu Zodiao. :- The Zero-point of the Hindu Zodiac i By this is meant have been given taking the position of the. V.E. point at the the Vernal Equinoctial Point (first point of Aries) at the Observer's time as the fiducial point. It is : possible to time when the Hindu savants swibobed on from the old locate it, 48 Burgess had shown in his edition of the 8.8., if Vedāriga-Jyōtiṣa calondar to the Siddhānitio calendar (let with the aid of the data given, d; i.o., celestial longitude of us call this the spoch of the Siddhānta-Jyōtiṣa or S. J.). the junction-stars in the epoch of S.J. is calculated, and There is a wide spread belief that a definite location can be compare it with the i of the same stars for 1950: - Let the found for this point from the data given in the Sūry& two values of Å be denoted by lz and dg, die being the value Siddhārta and other standard trbatiges. This impression is at the spoch of S. J., dg for the year 1950. Thenigde however wrong 
 
 should have a constant value, which is the colestial ... Its location has to be inferred from the co-ordinates 
 
@@ -9979,7 +9979,7 @@ Seleucid Babylonian, 229; Arachosia, 229, 230
 
 Bachhofer, Dr. L., 230, 231, 232 
 
-Siddhānta Jyotiga period, 245, 246 Aranyaka, 214 . . 
+Siddhānta Jyōtiṣa period, 245, 246 Aranyaka, 214 . . 
 
 Bādāmi (inscription), 233, 253 
 
@@ -9987,7 +9987,7 @@ Solar, 1, 2, 164-173, 245; Archebius of Taxila, 230
 
 Bailey, 253 
 
-Siddhāntā Jyotiga period, 234-245 Archimedes of Syracuse, 203 
+Siddhāntā Jyōtiṣa period, 234-245 Archimedes of Syracuse, 203 
 
 Balarāma, 227 
 
@@ -9999,7 +9999,7 @@ Tārikh-Ilahi, 1, 214, 251, 257, 258 ; Ardeshir I of Persia, 232
 
 Bentley, 253 
 
-Vedānga Jyotiga, 9, 221, 222, 223; Ardharåtrika system, 1, 253, 254 
+Vedānga Jyōtiṣa, 9, 221, 222, 223; Ardharåtrika system, 1, 253, 254 
 
 Berobsus, Chaldean priest, 203 
 
@@ -10227,7 +10227,7 @@ dates of, 119-124, Moslem, 125; Solar-general rules for, Iva;
 
 dates of, 117-118; South Indian-general rules for 106; Fotheringham, Dr. J. K., 165 
 
-Galilio. 159 Gándhára, 225, 226, 229, 230; latitude of 225 Ganesa caturthi, 108 Ganges, river, 157 Gangooly, P. L., 238 Garga, 226; receding of solstices, 226 Garga Samhita, 226 Gargasrota, river, 226 Gauna (måna), 247, 248 Geminua, 197 General Astronomy, 158 Geocentric theory, 204, 239 George Washington, birthday of, 161 Geah (division of time), 160 Ghatika, 160 Ghirshman, 232 Ginzel, F. K. 162, 193 Gnomon, 159, 174, 188, 189, 202, 219, 223, 268; 
+Galilio. 159 Gándhára, 225, 226, 229, 230; latitude of 225 Ganeśa caturthi, 108 Ganges, river, 157 Gangooly, P. L., 238 Garga, 226; receding of solstices, 226 Garga Samhita, 226 Gargasrota, river, 226 Gauna (måna), 247, 248 Geminua, 197 General Astronomy, 158 Geocentric theory, 204, 239 George Washington, birthday of, 161 Geah (division of time), 160 Ghatika, 160 Ghirshman, 232 Ginzel, F. K. 162, 193 Gnomon, 159, 174, 188, 189, 202, 219, 223, 268; 
 
 measurement in Aitareya Brāhmapa, 266 Gondophernes, 178, 230 Gorpiaios, Greek month, 231 Great Bear (Saptarsi), 190 Greek Olympiade, 178 . Greenwich time (U..T.), 14 Gregory XIII, Pope, 2, 10, 11, 170, 171 Gunda (inscription), 234. Guptas, 254, 255, 257 
 
@@ -10267,7 +10267,7 @@ Ibn Yunus, 206 Idavatsara, 225 Ides, 168 Idvatsara, 225 Tiad, 201 Indian Calenda
 
 245, 246; Babylonian calendar, 176 ; calculation of, 246, 249; definition of 247; eight-year cycle, 202 ; 
 
-Islamic calendar, 180.:. Jewish calendar, 179 ; list of acc. to modern calculations, 250; list of according to 8.8., 250; 19-year cycle, 176, 200, 202, 229, 245, 246; Paitāmaha Siddhānta, 223; Rg-Veda, 216, 218;. . Romaka Siddhånta, 237; Siddhānta Jyotiga, 246, 248;; Vedānga Jyotisa, 223, 224, 225, 246' 
+Islamic calendar, 180.:. Jewish calendar, 179 ; list of acc. to modern calculations, 250; list of according to 8.8., 250; 19-year cycle, 176, 200, 202, 229, 245, 246; Paitāmaha Siddhānta, 223; Rg-Veda, 216, 218;. . Romaka Siddhånta, 237; Siddhānta Jyōtiṣa, 246, 248;; Vedānga Jyotisa, 223, 224, 225, 246' 
 
 Kabishah, 180 Kadamba, pole of the ecliptic, 192 Kalā or liptikā, 160 Kālāloka Prakāśa, 223. Kalasang (inscription), 229 Kalastami, 108 Kaldarra (inscription), 229 Kalends, 168 Kalhapa, Historian of Kashmir, 252 Kali, 162 ; long. of planets at Kali beginning 
 
@@ -10319,7 +10319,7 @@ Iranian names, 166 ; length of, 211, 242-246, 251 ; length recommended by the
 
 Committee 2, 5, 6, 13, 15; names in. French Revolution 
 
-calendar, 187; names in Yajur-Veda, 218; names of, Indian 5, 6, 7, 14, 15 ; Dames, Persian 166, 167; number of days in Vedanga Jyotiga, 
+calendar, 187; names in Yajur-Veda, 218; names of, Indian 5, 6, 7, 14, 15 ; Dames, Persian 166, 167; number of days in Vedanga Jyōtiṣa, 
 
 225; variation in length, 1 Synodic period, 197, 223 Moon, crescent of, 182 ; 
 
@@ -10355,7 +10355,7 @@ Nabu Nazir, 177 Naburiannu, 200 Nadir, 157 Någabhata, 257 Nahapana, 233 Naksatr
 
 beginning of, 14, 229; calculation of (acc. to the recommenda 
 
-tions of the Committee), 5, 7, 16, 17; component stars of, 210, 211; def. of in earliest times, 183, 218, 227; def. of in Vedāóga Jyotiga, 183, 223-225; designation of, 182, 183 ; division of, 183, 184, 219; junction-stars of, 184, 210, 211, 220, 
+tions of the Committee), 5, 7, 16, 17; component stars of, 210, 211; def. of in earliest times, 183, 218, 227; def. of in Vedāóga Jyōtiṣa, 183, 223-225; designation of, 182, 183 ; division of, 183, 184, 219; junction-stars of, 184, 210, 211, 220, 
 
 264, 267; lords of, 109; meaning of Indian, 182, 210, 211, names of-general 210, 211, 283 ; 
 
@@ -10447,7 +10447,7 @@ sverdge duration of, 221, 222, 224,248; comparison of Siddhantic and modern, 3 d
 
 » » Siddhāntas, 221;: 
 
-„ .„ Vedáðga Jyotiga, 224, 225 ; duration of Vedic tithi, 221; error in the old method, 3, 14; lords of, 109; measurement of, 248 ; dames of, 222; 
+„ .„ Vedáðga Jyōtiṣa, 224, 225 ; duration of Vedic tithi, 221; error in the old method, 3, 14; lords of, 109; measurement of, 248 ; dames of, 222; 
 
 numbers of, 15, 221, 222 Tithitatoam, 101 Trepidation, theory of, 204, 206, 207, 238, 240, 
 
@@ -10553,7 +10553,7 @@ Yuga, 217; "Siddhantic, 11, 241, 245 ;
 
 of Romaka Siddhānta 237 " Solar, 2, 241; 
 
-of Vedanga Jyotisa, 223, 224 ; » Vedanga Jyotiga, 241, 245; Yug&di, 107 " " Vedic Aryan, 216, 218; definition of, 157, 158 ; draconitic (eclipse), 186 ; 
+of Vedanga Jyotisa, 223, 224 ; » Vedanga Jyōtiṣa, 241, 245; Yug&di, 107 " " Vedic Aryan, 216, 218; definition of, 157, 158 ; draconitic (eclipse), 186 ; 
 
 Zarathustra, 167 error in beginning of, 1, 13, 15, 241 ; 
 
@@ -10591,7 +10591,7 @@ Yājñavalkya Vájasaneya, 218. Yajur Veda, 182, 183, 214, 218-222 ;
 
 Black, 218; 
 
-Sukla, 218 Yajurveda Samhita, 218 Yajur Jyotiga, 222 Yåma, division of day, 160 Yamakoti, 239 
+Sukla, 218 Yajurveda Samhita, 218 Yajur Jyōtiṣa, 222 Yåma, division of day, 160 Yamakoti, 239 
 
 Yamardha, 108 
 

@@ -1035,7 +1035,7 @@ Ques. No. Reply
 
 1. Bhagyodaya Panchang. 
 
-2. 1930 A.D. 3. Sanskrit & Telegu. 4. Gouri Sankara Jyotigalayam, 
+2. 1930 A.D. 3. Sanskrit & Telegu. 4. Gouri Sankara Jyōtiṣalayam, 
 
 Lakshmi Polavaram, via. Tanuku, Dt. East Godavari. 
 
