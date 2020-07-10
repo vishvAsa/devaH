@@ -529,7 +529,7 @@ In the following sections, the different ways of tackling the calendar problem i
 
 The Hindu astronomers appear to have switched on to the ahorātra during Vedānga Jyotiṣa times. As it is rather complicated, we do not give an account of it. 
 
-The reader may consult Dixit's Bharatiya Jyotiśāstra. But in Siddhānta Jyotiṣa, they had a full-fledged scientific system. 
+The reader may consult Dixit's Bharatīya Jyotiśāstra. But in Siddhānta Jyotiṣa, they had a full-fledged scientific system. 
 
 • The scientific divisions of time followed by the Siddhāntas are the ghatikā (danda or nāļi), prahara or yāma, and muhūrta etc. The day is measured from sunrise and the period from sunrise to next sunrise is divided into 60 equal .ghatikās' or dandas ; each ghati is subdivided into 60 vighatis or palas, and each vighatī or pala into 60 vipalas. So a day consists of 60 ghatis or 3600 palas or 216000 vipalas. Thus 
 
@@ -4589,7 +4589,7 @@ All civilized communities have been found to have evolved accurate systems of we
 
 But had they evolved a calendar ? The presump tion is that they must have, but nothing has yet been discoverd amongst the artefacts left by these people so far recovered by the Archaeological Survey which tbrows light on the..calendar, or the system of time measurement they used 
 
-It is held on quite sound grounds that the Harappa Mohenjodaro people were succeeded in the Punjab and in the valley of the now lost Sarasvati river by the Aryan people who were either autochthonous or more probably came through Afghanistan in single or 
+It is held on quite sound grounds that the Harappa Mohenjodaro people were succeeded in the Punjab and in the valley of the now lost Sarasvatī river by the Aryan people who were either autochthonous or more probably came through Afghanistan in single or 
 
 : Few, almost none of the materi 
 
@@ -4695,7 +4695,7 @@ The Vedas are regarded as 'Śrulis' or "revealed knowledge preserved by hearing.
 
 To which locality are the Vedas to be ascribed ? 
 
-As regards locality, they are certainly to be ascribed to parts of Afghanistan, east of the Hindukush and the Punjab. The rivers of the Punjab, the Indus and its tributaries on both sides and the now lost Sarasvati are frequently mentioned, the Ganges only once in a later text. The authors call themselves Aryas or Aryans, in contrast to the Dāsas or Dasyus who were alien to them, and with whom they came in frequent clash. The Dasyus are now taken to be partly Indus valley people, partly aboriginals. 
+As regards locality, they are certainly to be ascribed to parts of Afghanistan, east of the Hindukush and the Punjab. The rivers of the Punjab, the Indus and its tributaries on both sides and the now lost Sarasvatī are frequently mentioned, the Ganges only once in a later text. The authors call themselves Aryas or Aryans, in contrast to the Dāsas or Dasyus who were alien to them, and with whom they came in frequent clash. The Dasyus are now taken to be partly Indus valley people, partly aboriginals. 
 
 The Rg-Vedas describe a highly complex society of priests, warriors, merchants and artisans, and slaves but the rigid caste system had not yet developed. There are also references to cities, but no artefacts except some pottery, have yet been discovered. which can be referred to the Rg-Vedic Aryans. 
 
@@ -4705,7 +4705,7 @@ Let us see what information we can gather about the calendar which they must hav
 
 * For details about Vedic antiquity, see Ancient Indian Chronology by P. C. Sengupta. 
 
-+ It appears that Max Mūller has been a bit dogmatic in his opinion. Shortly after his death the names of the Vedic gode, Indra, Varuna, Mitra and the Nāśatyas in their Rg-Vedic forms were discovered in the Hittite clay tablets discovered at Boghaz Kuei in Asia Minor. They have been assigned to about 1450 B.C. More evidences about the Vedic Aryans were discovered in the excavations in the Sarasvati valley now being undertaken by the Archaelogical Dept. of the Govt. of India. Further, fresh evidences are expected also in the archaelogical work undertaken in Afghanistan, Iran and Central Asia. 
++ It appears that Max Mūller has been a bit dogmatic in his opinion. Shortly after his death the names of the Vedic gode, Indra, Varuna, Mitra and the Nāśatyas in their Rg-Vedic forms were discovered in the Hittite clay tablets discovered at Boghaz Kuei in Asia Minor. They have been assigned to about 1450 B.C. More evidences about the Vedic Aryans were discovered in the excavations in the Sarasvatī valley now being undertaken by the Archaelogical Dept. of the Govt. of India. Further, fresh evidences are expected also in the archaelogical work undertaken in Afghanistan, Iran and Central Asia. 
 
 216 
 
@@ -4931,7 +4931,7 @@ ved by means view that the corner Veda are
 
 The Nakshatras 
 
-One of the peculiar features of the Indian calendars is the use of the Nakṣatras as explained in $ 4'1. Evidences have teen given that the custom started from Rg-Vedic times. But we come across a full list of Nakṣatras only in the Yajurveda' with names of presiding deities as given in Table No. 10 (p. 220 ), taken from Dikṣit's Bharatiya Jyotisastra. 
+One of the peculiar features of the Indian calendars is the use of the Nakṣatras as explained in $ 4'1. Evidences have teen given that the custom started from Rg-Vedic times. But we come across a full list of Nakṣatras only in the Yajurveda' with names of presiding deities as given in Table No. 10 (p. 220 ), taken from Dikṣit's Bharatīya Jyotiśāstra. 
 
 O. R.-36 
 
@@ -5289,7 +5289,7 @@ Moonset
 
 24 50 24 53 
 
-Amāvasyā Pratipad Dvitiyā Tstīya Caturthi Pañcami ṣaṣthi Saptami Astam i Navami Dasami Ekādasi Dvādasī Trayodasi Caturda si "Pūrnimā 
+Amāvasyā Pratipad Dvitiyā Tstīya Caturthī Pañcami ṣaṣthi Saptami Astam i Navami Dasami Ekādasi Dvādasī Trayodasi Caturda si "Pūrnimā 
 
 25 
 
@@ -5319,7 +5319,7 @@ Nov.-1
 
 Pratipad & 
 
-Dvitiyā Tftiyā Caturthi Pañcami ṣaṣthi Saptami Aṣtami Navami Dasami Ekādasi Dvadasi 
+Dvitiyā Tftiyā Caturthī Pañcami ṣaṣthi Saptami Aṣtami Navami Dasami Ekādasi Dvadasi 
 
 Trayodasi Caturdaśī 
 
@@ -5483,7 +5483,7 @@ The plan of the five yearly calendar is shown below :
 
 period, and when it was added the last month adhika Magha contained 30 days instead of 29 days which was otherwise its due. 
 
-The ratio , for the duration of the longest day to that of the shortest night given in the Vedānga Jyotiṣa was first noted by Dr. Thibaut. Later the same ratio was found by Father Kugler from Babylonian cunei form records of the Seleucidean period. The ratio is characteristic of a latitude of 350 N, which is nearly that of Babylon (for Babylon Ø=32° 40'N). Hence it has been inferred that the Vedānga Jyotiṣa-astronomers got this ratio from Seleucidean Babylon. But it may be pointed out that the Vedic life centred round North-Western India, from the Sarasvati valley (Kuruksetra 0=29° 58') to Gandhar ($=31° 32'N). The ratios of the duration of daylight to, night on the summer-solstice day for different latitudes are as follows: 
+The ratio , for the duration of the longest day to that of the shortest night given in the Vedānga Jyotiṣa was first noted by Dr. Thibaut. Later the same ratio was found by Father Kugler from Babylonian cunei form records of the Seleucidean period. The ratio is characteristic of a latitude of 350 N, which is nearly that of Babylon (for Babylon Ø=32° 40'N). Hence it has been inferred that the Vedānga Jyotiṣa-astronomers got this ratio from Seleucidean Babylon. But it may be pointed out that the Vedic life centred round North-Western India, from the Sarasvatī valley (Kuruksetra 0=29° 58') to Gandhar ($=31° 32'N). The ratios of the duration of daylight to, night on the summer-solstice day for different latitudes are as follows: 
 
 Table 13. 
 
@@ -5553,7 +5553,7 @@ or 384
 
 It is seen from the above table, that even at the latitude of Babylon, the ratio is not 1.50 but: 1.45. At Gandhār, it is 1.42. The difference is not very large. But there is another factor to which attention must be drawn. 
 
-Both Babylonians and Indians measured subdivisions of the day by means of some kind of Clepsydra. A description of the Clepsydra used by Indians during the Vedanga Jyotéṣa-period will be found in S.B. Dikṣit's Bharatiya Jyotiśāstra (Sec. II, Chap. I). But 'the daya length must have been measured from the observed time of sunrise to the observed time of sunset. This is somewhat larger than the astronomical time of sunrise on account of refraction. Assuming that the effect of refraction is to elevate a celestial body near the horizon by about 35', and the sun's semi-diameter is about 16', the sun's upper limb appears on the horizon at a place on 32° latitude, about 45 minutes before the centre of the sun is due on the horizon. For the same reason, 'the sunset takes place 45 minutes after the astronomical 
+Both Babylonians and Indians measured subdivisions of the day by means of some kind of Clepsydra. A description of the Clepsydra used by Indians during the Vedanga Jyotéṣa-period will be found in S.B. Dikṣit's Bharatīya Jyotiśāstra (Sec. II, Chap. I). But 'the daya length must have been measured from the observed time of sunrise to the observed time of sunset. This is somewhat larger than the astronomical time of sunrise on account of refraction. Assuming that the effect of refraction is to elevate a celestial body near the horizon by about 35', and the sun's semi-diameter is about 16', the sun's upper limb appears on the horizon at a place on 32° latitude, about 45 minutes before the centre of the sun is due on the horizon. For the same reason, 'the sunset takes place 45 minutes after the astronomical 
 
 As already shown, the actual length of 62 lunar months is 1830.8965 days, while there are 1830 civil days in the five yearly period. It is therefore very likely that one civil day was added to the period when necessary to make it conform to the phases of the moon which were regularly observed. This additional day was no doubt placed at the end of the 
 
@@ -5571,7 +5571,7 @@ punarvasutab. Translation : When the return of the sun towards the south (1.., t
 
 In his Brhat Samhita, an astrological treatise, he. records : 
 
-Effect of Procession The Vedānga Jyotiṣa was prevalent for a long time over India, for over 1300 years (1000 B.C. to 300 A.D.). Hence it is likely that the subsequent astronomers noticed the gradual shift of the solstitial colure in the lunar-zodiac. In fact, several references are found to this effect. Garga, an astronomer whose name is found in the Mahabharata, where he is described as having an astronomical school at a place called Gargasrota in the Sarasvati basin, is the reputed author of a pre-Siddhantic calendaric treatise called Garga Samhita. . He notes : 
+Effect of Procession The Vedānga Jyotiṣa was prevalent for a long time over India, for over 1300 years (1000 B.C. to 300 A.D.). Hence it is likely that the subsequent astronomers noticed the gradual shift of the solstitial colure in the lunar-zodiac. In fact, several references are found to this effect. Garga, an astronomer whose name is found in the Mahabharata, where he is described as having an astronomical school at a place called Gargasrota in the Sarasvatī basin, is the reputed author of a pre-Siddhantic calendaric treatise called Garga Samhita. . He notes : 
 
 Yadā nivarta to'prāptaḥ śraviṣthamuttarāyape Aśleṣām dakśiņo'prāptah tadā vindyanma had bhayam. 
 
@@ -6107,7 +6107,7 @@ Maya, architect of gods, who
 
 propounds them to the Rṣis. . The five Siddhāntas are given in the increasing order of their accuracy according to Varahamihira. Thus Varahamihira considers the Sarya Siddhānta as the most accurate, and next in order are the Paulića, and the Romaka. The Vasiṣtha and Paitāmaha are, according to Varāhamibira, not accurate. 
 
-Why were those Siddhāntas regarded as “Apaurus ṣeya" (i.e. not due to any mortal man) ? Dikṣit says (Bharatiya Jyotiśāstra, Part II, Chap. 1): 
+Why were those Siddhāntas regarded as “Apaurus ṣeya" (i.e. not due to any mortal man) ? Dikṣit says (Bharatīya Jyotiśāstra, Part II, Chap. 1): 
 
 "The knowledge of astronomy as seen developed during the Vedic and Vedānga Jyotiṣa periods and described in Part I, was wide as compared with the length of the period ; but it is very meagre, when com pared with the present position***. The oldest of astronomical knowledge (given in the oldest Siddbāntas) reveal .a sudden rise in the standard of astronomical knowledge. . Those who raised the standard as given 
 
@@ -9387,7 +9387,7 @@ dates are known,' mention anything about procession of the Siddhāntic astronome
 
 equinoxes in their writings which have come down to us. 
 
-If they derived their knowledge of astronomy from the West, Dikṣit, in his Bharatiya Jyotiśāstra, has summarized the 
+If they derived their knowledge of astronomy from the West, Dikṣit, in his Bharatīya Jyotiśāstra, has summarized the 
 
 they followed the current western practice of ignoring the adventures of the idea of Precession of the Equinoxes 
 
@@ -9589,7 +9589,7 @@ caturdasi (Bengal & Orissa) 22-Insert Dipāvali amāvasyā (Orissa)
 
 . (Orissa) 26—Delete (Orissa) from Santa' 
 
-caturthi (Orissa) Śaka 1878 Page 65, Caitra 1-Delete “& Sudaśa vrata" : 
+Caturthī (Orissa) Śaka 1878 Page 65, Caitra 1-Delete “& Sudaśa vrata" : 
 
 2-Insert Lakṣmīnārāyaṇa ekádasi 
 
@@ -9637,11 +9637,11 @@ canon (S. India) Page 88, Phālguna 18-Insert Rangapañcami
 
 7-Delete Balabhadra pūjā (Orissa) 
 
-25—Insert Haritāli caturthi Page 97, Agrah. .3--Delete "& Orissa" from Pāṣāņa 
+25—Insert Haritāli Caturthī Page 97, Agrah. .3--Delete "& Orissa" from Pāṣāņa 
 
 caturdaśī (Bengal & Orissa)" Page 98, Pausa 3—Insert Pāṣāņa caturdasi (Orissa) Page 100, Phālguna 22-Delete (Orissa)” from "Santa 
 
-caturthi (Orissa)" , 29—Delete "& Sudaśā vrata". Page 101, line 5, "Insert “Gadadhara-Paddhati” after 
+Caturthī (Orissa)" , 29—Delete "& Sudaśā vrata". Page 101, line 5, "Insert “Gadadhara-Paddhati” after 
 
 Tithitatvam. Lunar Festivals Page 102, Caitra S 14–For Madanabbañji ( Bongal & 
 
@@ -10227,7 +10227,7 @@ dates of, 119-124, Moslem, 125; Solar-general rules for, Iva;
 
 dates of, 117-118; South Indian-general rules for 106; Fotheringham, Dr. J. K., 165 
 
-Galilio. 159 Gándhára, 225, 226, 229, 230; latitude of 225 Ganeśa caturthi, 108 Ganges, river, 157 Gangooly, P. L., 238 Garga, 226; receding of solstices, 226 Garga Samhita, 226 Gargasrota, river, 226 Gauna (måna), 247, 248 Geminua, 197 General Astronomy, 158 Geocentric theory, 204, 239 George Washington, birthday of, 161 Geah (division of time), 160 Ghatika, 160 Ghirshman, 232 Ginzel, F. K. 162, 193 Gnomon, 159, 174, 188, 189, 202, 219, 223, 268; 
+Galilio. 159 Gándhára, 225, 226, 229, 230; latitude of 225 Ganeśa Caturthī, 108 Ganges, river, 157 Gangooly, P. L., 238 Garga, 226; receding of solstices, 226 Garga Samhita, 226 Gargasrota, river, 226 Gauna (måna), 247, 248 Geminua, 197 General Astronomy, 158 Geocentric theory, 204, 239 George Washington, birthday of, 161 Geah (division of time), 160 Ghatika, 160 Ghirshman, 232 Ginzel, F. K. 162, 193 Gnomon, 159, 174, 188, 189, 202, 219, 223, 268; 
 
 measurement in Aitareya Brāhmapa, 266 Gondophernes, 178, 230 Gorpiaios, Greek month, 231 Great Bear (Saptarsi), 190 Greek Olympiade, 178 . Greenwich time (U..T.), 14 Gregory XIII, Pope, 2, 10, 11, 170, 171 Gunda (inscription), 234. Guptas, 254, 255, 257 
 
