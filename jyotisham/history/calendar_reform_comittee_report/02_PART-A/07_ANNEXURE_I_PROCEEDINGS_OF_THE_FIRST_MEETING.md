@@ -3,6 +3,7 @@ title = "07 ANNEXURE I PROCEEDINGS OF THE FIRST MEETING"
 
 +++
 
+## Attendance
 The first meeting of the Indian Calendar Reform Committee, C.S.I.R., was held at 10 A.M. on Saturday, the 21st February, 1953, in the C.S.I.R. Secretariat Buildings, Old Mill Road, New Delhi. The meeting continued also on the 23rd February, 1953. 
 The following were present :
 - Prof. M. N. Saha, Chairman 
@@ -12,10 +13,12 @@ The following were present :
 
 2. The Hon'ble Shri K. D. Malaviya, Deputy Minister, Natural Resources & Scientific Research, inaugurated the proceedings. 
 
+## PM Message
 3. The Prime Minister, who could not be personally present, sent the following message : 
 
-<div class="js_include" url="../../01_Intro/01_Nehrus_MESSAGE/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../../01_Intro/01_Nehrus_MESSAGE/"  newLevelForH1="2" includeTitle="false"> </div>  
 
+## Malaviya message
 4. Shri K. D. Malaviya, Deputy Minister, Natural Resources and Scientific Research, Government of India, inaugurated the first meeting of the Calendar Reform Committee. Shri Malaviya said : 
 
 "It is my very pleasant duty to extend to the Members of the Calendar Reform Committee a hearty welcome on behalf of the Government of India. 
@@ -34,6 +37,7 @@ There is a proposal before the U.N.O. by the World Calendar Association for the 
 
 While making those suggestions before you I am aware of the difficulties. Calendar reform can be suggested by scientists, but it can be carried into practice only by those who have religious or political authority. The ancient Roman calendar could be reformed only by a dictator like Julius Caesar, and later on by the religious dictator of Christendom, Pope Gregory XIII, and the ancient luni-solar calendar only by the authority of the Prophet. But we are now under a democracy. Whatever proposals you may make would have to be submitted to the public for their opinion, and I am quite sure that our public would not resent any innovation simply because it is a new thing, just as they do not reject electricity or new machines. I hope the public response would be encouraging and the Government would find it possible to give serious consideration to your proposals." 
 
+## Chairman intro
 5. Prof. M. N. Saha, the Chairman, on behalf of the members of the Committee, expressed grateful thanks to the Prime Minister for his kind message. The Committee regretted that the Prime Minister could not personally inaugurate the deliberations of the Committee. Prof. Saha, however, assured the Committee that the Prime Minister had his heart and soul in the matter, and that he wanted the Committee to get on with its work and evolve scientific proposals for preparation of a uniform calendar for the whole of India and for the benefit of the country. 
 
 6. The Chairman on behalf of the Committee, gratefully thanked the Deputy Minister for having graced the occasion by his presence and having inaugurated the work of the Committee. The Deputy Minister had laid down the lines on which the Committee may proceed. With the encouragement of the Government, the Committee hoped to be able to accomplish the desired objective, for without State support the discussions would be dead letter. 
@@ -42,16 +46,21 @@ While making those suggestions before you I am aware of the difficulties. Calend
 
 8. Tracing out the history of the movement for calendar reform, the Chairman said that the idea was not a new one. The Indian luni-solar calendar up to 400 A.D. was very crude, but great astronomers of India after 400 A.D. in Pataliputra, Bhilmal in Rajasthan and in Ujjain particularly had made very great contributions to mathematical knowledge, to astronomy and to other branches of science. They laid down the formulæ for the future generations and advised them to get their calculations verified by means of observations of the sun, the moon and the planets, which are our time-makers. 
 
+9. At the present moment, the Ahargana or the heap of days is in usage for accurate chronological calculations. The idea was first evolved by Hindu astronomers about 400 A.D. This was invented only in the 16th century in Europe by Joseph Scaliger. The Siddhantic astronomers started the year from the day after the Vernal Equinox but the older tradition was, as many Indian savants had pointed out, to begin the calendar from Winter Solstice. 
+
+10. Solar months which were invented about these times had not proved very convenient for use. The month-lengths varied from 29 to 32. The greatest difficulty has been caused by the use of the sidereal year and not the year of seasons, as the Hindu savants of those times either were unaware of the existence of the phenomenon of precession of equinoxes, or thought it was not unidirectional. The mistake was found by Munjāla and Sripats in the 10th and 11th centuries, when the Vernal Equinox had receded by seven to eight days, and they tried to persuade the astronomers to take to sāyana reckoning but the attempt was unsuccessful. The situation now is that the Vernal Equinox falls on 21st March but our year beginning which ought to fall on the following day, falls, actually on 13th or 14th April. Thus a mistake of 23 days had occurred in our calculation of seasons, or year-beginning. 
+
+11. The Chairman pointed out that it was for the Committee to discuss and decide whether the year was to be brought back by 23 days or to leave the mistake as it was and to retain a permanent constanterror. He also pointed out that such a mistake had occurred in Europe and corrections had to be introduced. The Gregorian year in 1582 was found to have an error of 10 days. Pope Gregory XIII advised that the 5th October should be called the 15th October. This was adopted by the Catholics. Though the Protestant countries at first did not accept this move, simply because it came from the Pope, but 170 years later England had to accept the correction by legislation. Russia accepted the Gregorian calendar only after the Bolshevik resolution. 
+
+12. In India, the idea of Indian Calendar reform originated from Maharashtra Lokamanya Shri Bal Gangadhar Tilak well-known as a great political figure of the last generation was, as is well-known, a great savant and antiquarian and initiated calendar reform in Maharashtra. He started a new reformed calendar which is still being published at Poona. 
+
+
 13. The great pioneer of calendar-studies was Sankara Balakrishna Dixit, whose history of Bharatīya Jyotiṣa-śāstra is a standard authoritative work, but his work is in Marathi and unaccessible to majority of India. The Chairman expressed the hope that it should be translated into English for the use of all.* 
 
 \* The Council of Scientific anda Industrial Research has since made arrangements for having the book translated into English and Prof. R. V. Vaidya, a member of the Committee has been entrusted with the work. 
 
 
-9. At the present moment, the Ahargana or the heap of days is in usage for accurate chronological calculations. The idea was first evolved by Hindu astronomers about 400 A.D. This was invented only in the 16th century in Europe by Joseph Scaliger. The Siddhantic astronomers started the year from the day after the Vernal Equinox but the older tradition was, as many Indian savants had pointed out, to begin the calendar from Winter Solstice. 
-
-14. In Bengal, Madhab Chandra Chattopadhaya had been publishing the Visuddha Siddhānta Panjikā since 1890, in which all calculations were made according to modern accepted formulæ. Shri Nirmal Chandra Lahiri, a member of the Committee, has been continuing the work. 
-
-10. Solar months which were invented about these times had not proved very convenient for use. The month-lengths varied from 29 to 32. The greatest difficulty has been caused by the use of the sidereal year and not the year of seasons, as the Hindu savants of those times either were unaware of the existence of the phenomenon of precession of equinoxes, or thought it was not unidirectional. The mistake was found by Munjāla and Sripats in the 10th and 11th centuries, when the Vernal Equinox had receded by seven to eight days, and they tried to persuade the astronomers to take to sāyana reckoning but the attempt was unsuccessful. The situation now is that the Vernal Equinox falls on 21st March but our year beginning which ought to fall on the following day, falls, actually on 13th or 14th April. Thus a mistake of 23 days had occurred in our calculation of seasons, or year-beginning. 
+14. In Bengal, Madhab Chandra Chattopadhaya had been publishing the Viśuddha Siddhānta Panjikā since 1890, in which all calculations were made according to modern accepted formulæ. Shri Nirmal Chandra Lahiri, a member of the Committee, has been continuing the work. 
 
 15. The problem of Indian Calendar Reform was also seriously examined at Banaras, the ancient seat of Indian culture and religion by the late Pandit Madan Mohan Malaviya, Shri Sampurnanand and others and the need for rectification of the present position was impressed upon. 
 
@@ -59,14 +68,7 @@ While making those suggestions before you I am aware of the difficulties. Calend
 
 17. All our religious festivals are determined according to the lunar calendar which is pegged on to the present unsatisfactory solar calendar. Hence the task before the Committee is to devise a satisfactory solar calendar first and peg on to it a lunar calendar. 
 
-11. The Chairman pointed out that it was for the Committee to discuss and decide whether the year was to be brought back by 23 days or to leave the mistake as it was and to retain a permanent constanterror. He also pointed out that such a mistake had occurred in Europe and corrections had to be introduced. The Gregorian year in 1582 was found to have an error of 10 days. Pope Gregory XIII advised that the 5th October should be called the 15th October. This was adopted by the Catholics. Though the Protestant countries at first did not accept this move, simply because it came from the Pope, but 170 years later England had to accept the correction by legislation. Russia accepted the Gregorian calendar only after the Bolshevik resolution. 
-
 18. The Chairman pointed out that there was a good deal of dissatisfaction even with the Gregorian calendar, though it has attained the status of a world calendar. One of the main drawbacks of this calendar is that the ending of the year does not correspond with the winter solstice day. There are several proposals for reforming the Gregorian calendar. According to one proposal, every month was to be of 4 weeks, and therefore of 28 days and thirteen months would make a year of 364 days. One day, the year-end day, was to be without any name and named simply the year-end day. In leap years, there was to be an additional year-raiddle day, without any weekday name. Every month was to begin on a Sunday. According to the other proposal the year was to consist of 4 quarters, each of 91 days. Each quarter was to be divided into three months of 31, 30, 30 days. The year-end day, and the year-middle day in leap years were to be the same as before. 
-
-12. In India, the idea of Indian Calendar reform originated from Maharashtra Lokamanya Shri Bal Gangadhar Tilak well-known as a great political figure of the last generation was, as is well-known, a great savant and antiquarian and initiated calendar reform in Maharashtra. He started a new reformed calendar which is still being published at Poona. 
-
-
-12 
 
 19. The World Calendar Association of New York, U.S.A., had a proposal before the United Nations Organization to evolve a uniform calendar for the whole world. Sir Harold Spencer Jones, the Astro nomer-Royal of U.K. and other eminent astronomers had expressed their support of the proposals of W.C.A.. They wanted to effect this change from 1956. This. proposal, if accepted, would produce great convenience and simplicity but succession of day reckoning by. the cycle of the seven day week will have to be given up. 
 
