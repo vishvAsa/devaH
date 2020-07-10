@@ -67,29 +67,21 @@ Where does the Government come in: Though India is a secular state, the Central 
 - (iii). Others, which are given according to the luni solar calendar (pp. 119-124). 
 - (iv) Holidays for Moslems and Christians (pp. 125 and 126). 
 
-It is a task for the Central as well as State Governments to calculate in advance dates for the holidays it gives. This is done on the advice of pañcāṅga-makers attached to each Government. In addition, numerous indigenous pañcāṅgas are prepared on the Siddhāntic system of calculations, the elements of which are now found to be completely erroneous. There is a wide movement in the country first sponsored by the great savant, patriot and political ' leader, the late Lokamanya B. G. Tilak, for making the pañcānga calculations on the basis of the correct and up-to date astronomical elements. As a result, there are almost in every State different schools of pañcāṅga calculations, differing in the durations of tithis, nakṣatras, etc., and consequently in the dates of religious festivals. The problem before the Government is : which one of the divergent systems is to be adopted. The Committee has suggested a system of calculations for the religious calendar also, based on most up-to-date elements of the motion of the sun and the moon. Calendars for five years from 1954-55 to 1958-59 have been prepared on this basis showing therein inter alia the dates of important festivals of . different States (vide pp. 41-100). The lists of holidays for the Government of India and of each separate State for the five years have also been prepared from this calendar for the use of the Governments. The Committee hopes that the Government of India as well as the State Governments would adopt these lists in declaring their holidays in future. The Ephemerides Committee which has been formed by the Government of India, consisting of astronomers versed in the principles of calendar-making would act as advisers to the Central as well as State Governments. . It may be assisted by an advisory Committee to help it in its deliberations. 
+It is a task for the Central as well as State Governments to calculate in advance dates for the holidays it gives. This is done on the advice of pañcāṅga-makers attached to each Government. In addition, numerous indigenous pañcāṅgas are prepared on the Siddhāntic system of calculations, the elements of which are now found to be completely erroneous. There is a wide movement in the country first sponsored by the great savant, patriot and political leader, the late **Lokamanya B. G. Tilak**, for making the pañcānga calculations on the basis of the correct and up-to date astronomical elements. As a result, there are almost in every State different schools of pañcāṅga calculations, differing in the durations of tithis, nakṣatras, etc., and consequently in the dates of religious festivals. The problem before the Government is : which one of the divergent systems is to be adopted. 
+
+The Committee has suggested a system of calculations for the religious calendar also, based on most up-to-date elements of the motion of the sun and the moon. Calendars for five years from 1954-55 to 1958-59 have been prepared on this basis showing therein inter alia the dates of important festivals of different States (vide pp. 41-100). The lists of holidays for the Government of India and of each separate State for the five years have also been prepared from this calendar for the use of the Governments. The Committee hopes that the Government of India as well as the State Governments would adopt these lists in declaring their holidays in future. The Ephemerides Committee which has been formed by the Government of India, consisting of astronomers versed in the principles of calendar-making would act as advisers to the Central as well as State Governments. It may be assisted by an advisory Committee to help it in its deliberations. 
 
 The responsibility of preparation of the five-yearly calendar and the list of holidays on the basis of recommendations adopted by the Committee has been shared by Sri N. C. Lahiri and Sri R. V. Vaidya, aided by some assistants and several pandits of note, amongst whom the following may be mentioned : Sri A. K. Lahiri, Sri N. R. Choudhury, Pandit Narendranath Jyotiratna, and Joytish Siddhānta Kesari Venkata Subba Sastry of Madras. 
 
-We have received great help from C. G. Rajan, B.A., Sowcarpet, Madras. He has kindly furnished 
+## Acknowledgement
+We have received great help from C. G. Rajan, B.A., Sowcarpet, Madras. He has kindly furnished us with valuable suggestions regarding 'Rules for fixing the dates of festivals for South India'. We are indebted to the Astronomer Royal of Great Britain, Sir Harold Spencer Jones, and to Mr. Sadler, head of the Ephemerides divison of the Royal Observatory of U: K., for having very kindly supplied us with certain advance data relating to the sun and the moon which have facilitated our calculations. We have to thank the great oriental scholar, Otto Neugebauer for having helped us in clearing many obscure points in ancient calendaric astronomy. We wish to express our thanks to Prof. P. C. Sengupta for helping us in clearing many points of ancient and medieval Indian astronomy. 
 
-
-
-
-PREFACE 
-
-. 
-
-us' with valuable suggestions regarding 'Rules for fixing the dates of festivals for South India'. . . We are indebted to the Astronomer Royal of Great Britain, Sir Harold Spencer Jones, and to Mr. Sadler, head of the Ephemerides divison of the Royal Observatory of U: K., for having very kindly supplied us with certain advance data relating to the sun and the moon which have facilitated our calculations. We have to thank the great oriental scholar, Otto Neugebauer for having helped us in clearing many obscure points in ancient calendaric astronomy. We wish to express our thanks to Prof. P. C. Sengupta for helping us in clearing many points of ancient and medieval Indian astronomy. 
-
-We have reproduced figures from certain books and our acknowledgement is due to the publishers... It was however not possible to obtain previous permission from them, but the sources have been mentioned at the relevant places. 
+We have reproduced figures from certain books and our acknowledgement is due to the publishers. It was however not possible to obtain previous permission from them, but the sources have been mentioned at the relevant places. 
 
 It is a great pleasure and privilege to express our gratitude to our colleagues of the Calendar Committee for their active co-operation in the deliberations of the Committee, and ungrudging help, whenever it was. sought for. 
 
-M. N. Saha Calcutta, 
-
+M. N. Saha Calcutta,  
 Chairman The 10th Nov., 1955. 
 
-N. C. Labiri 
-
+N. C. Labiri  
 Secretary
