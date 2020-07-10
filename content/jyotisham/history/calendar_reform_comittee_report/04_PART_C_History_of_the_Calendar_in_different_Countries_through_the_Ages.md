@@ -6611,7 +6611,7 @@ C.B.-39
 
 e 
 
-In the Sarya Siddhanta, a formula is given for finding the true longitude of the sun from its mean longitude. As the length of a month is the time taken by the sun to traverse arcs of 30° each along the ecliptic by its true motion, the lengths of the different months can be worked out when its true longitudes on different dates of the year are known. The true longitude is obtained by the Sūrya Siddhanta with the help of the following formula : 
+In the Sūrya Siddhānta, a formula is given for finding the true longitude of the sun from its mean longitude. As the length of a month is the time taken by the sun to traverse arcs of 30° each along the ecliptic by its true motion, the lengths of the different months can be worked out when its true longitudes on different dates of the year are known. The true longitude is obtained by the Sūrya Siddhanta with the help of the following formula : 
 
 True Long. - Mean Long.–133.'68 sin K 
 
@@ -7267,7 +7267,7 @@ Whenever we wish to define a date precisely we dates of religious festivals. The
 
 have to mention the year, generally current of an era, months, which are also fractional, are stated below, 
 
-besides the month and the particular day of the month, giving the lengths according to the Sarya Siddhanta 
+besides the month and the particular day of the month, giving the lengths according to the Sūrya Siddhānta 
 
 and the week-day. This enables an astronomer, well calculations compared with the corresponding modern 
 
@@ -10413,7 +10413,7 @@ precessioual path of, 207 Pope, Gregory XIII, 159, 172 Prado avrata, 108 Pixhara
 
 · according to S. S., 268; Bhaskarācārya's rate of, 269 ; consequences of, 205, 206 ; discovery of, 204, 205 ; effect in Indian calendar, 7, 11, 18; effect in Indian Siddhāntas, 226; explanation by Newton, 207, 208;, . Hipparchos's rate of, 205 ; motion of (precessional), 208, 268 ; Muñjala Bhata's rate of, 268 ; numerical value of, 209; physical explanation of, 207, 208; Prthūdaka 8vami's rate of, 268 ; Ptolemy's rate of, 205 206 ; rate of annual, 209; . rate of lubar, 208, 209 ; rate of solar, 208, 209; 
 
-Sarya Siddhanta's rate of, 268 Prthûdaka Sråmi, 259, 268, 269 Proclos, on précession, 206 Ptolemy, Claudius, 161, 165, 166, 177, 178, 185, 
+Sūrya Siddhānta's rate of, 268 Prthûdaka Sråmi, 259, 268, 269 Proclos, on précession, 206 Ptolemy, Claudius, 161, 165, 166, 177, 178, 185, 
 
 192, 200, 201,203-206, 214, 228, 238, 240, 263, 266 ; on astrology, 205; , evection, 204 ; „ rate of precession, 205 ; 
 
