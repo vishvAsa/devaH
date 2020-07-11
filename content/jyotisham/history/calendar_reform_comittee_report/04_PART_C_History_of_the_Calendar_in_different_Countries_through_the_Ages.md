@@ -1965,7 +1965,7 @@ ago 15' 10° 7' 2.' Bbarani
 
 11 1 
 
-3. Křttikā 
+3. Kr̥ttikā 
 
 7 Tauri 
 
@@ -9451,7 +9451,7 @@ Translation 1. While the celestial bodies move in the sky from north to south an
 
 The last passage recognizes processional motion, says that it is continuous, and gives the rate as 59".9 per year. Muñjāla Bhata makes no mention of trepidation. He noticed that the Ayanas had precessed by about 6° from the position given in the Sūrya-Siddhānta. 
 
-Přthūdaka Svāmi (born 928 A.D.), an astronomer who observed at Peibowa, near Kuruksetra, commenting on a passage of Brahmagupta says : 
+Pr̥thūdaka Svāmi (born 928 A.D.), an astronomer who observed at Peibowa, near Kuruksetra, commenting on a passage of Brahmagupta says : 
 
 "The revolution of Ayana in one Kalpa is 189411. 
 

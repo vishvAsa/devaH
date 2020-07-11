@@ -5,87 +5,101 @@ title = "13 ANNEXURE VII Summary of suggestions"
 
 Summary of suggestions for Indian Calendar Reform received from different persons and institutions.
 
-1. Shri Sampurnanand, 
+## 1. Shri Sampurnanand
+Home and Labour Minister, Govt. of U. P., Lucknow. Letter dated 7. 3. 1953. 
 
-Home and Labour Minister, 
+(i) The adoption of solar year. (ii) Adoption of “Sāyana” system. (iii) The difference of 23 days in our year beginning to be corrected. (iv) Beginning of the year to be on March 22, the day following Vasanta Sampāt ( vernal equinox ). (v) Beginning of Aries ( Meṣa ) to be at a point 180o from Spica to mark the beginning of Asyini. (vi) Beginning of day from midnight. (vii) Beginning of lunar year from "Caitra." (viii) Uniform system of reckoning lunar months (preferably the pūrṇimānta one) to be adopted. (ix) A single era for India such as śaka, Kali or (preferably ) Vikrama to be adopted. (x) Calculations of pañcāngas should be dr̥ksiddha. (xi) Number of days per month may be fixed, and the leap-year rules should be the same as in the Gregorian calendar. 
 
-Govt. of U. P., Lucknow. Letter dated 7. 3. 1953. 
-
-(i) The adoption of solar year. (ii) Adoption of “Sāyana” system. (iii) The difference of 23 days in our year beginning to be corrected. (iv) Beginning of the year to be on March 22, the day following Vasanta Sampāt ( vernal equinox ). (v) Beginning of Aries ( Meṣa ) to be at a point 180o from Spica to mark the beginning of Asyini. (vi) Beginning of day from midnight. (vii) Beginning of lunar year from "Caitra." (viii) Uniform system of reckoning lunar months (preferably the pūrņimānta one) to be adopted. (ix) A single era for India such as śaka, Kali or (preferably ) Vikrama to be adopted. (x) Calculations of pañcāngas should be dřksiddha. (xi) Number of days per month may be fixed, and the leap-year rules should be the same as in the Gregorian calendar. 
-
-2. Brahma Shri G. V. Subba Rao, President, 
-
-Goshti, "Satyaprasad”, Waltair. Letter dated 14. 4. 53. 
+## 2. Brahma Shri G. V. Subba Rao
+President, Goshti, "Satyaprasad”, Waltair. Letter dated 14. 4. 53. 
 
 (i) Adoption of "Kali śaka" era. (ii) Ujjain to be the standard meridian of India and a National Observatory at Ujjain. (iii) Approves other recommendations of the Committee. 
 
-3. Shri M. V. Kibe, Saraswati Niketan, Indore. Letters dated 24. 2. 53 and 31. 5. 53. 
+## 3. Shri M. V. Kibe, Saraswati Niketan, Indore. 
+Letters dated 24. 2. 53 and 31. 5. 53. 
 
 (i) Tropical year not to be used for religious purposes. (ii) In favour of Vikrama Samvat. (iii) Ujjain or Banaras as standard Greenwich of India. (iv) One astronomical observatory with modern equipments at Ujjain. (v) The number of days of different months of a sidereal year to be fixed as follows :-Commencing from Vaiśākha--31, 31, 32, 31, 31, 30, 30, 30, 29, 30, 30, 30, or 31. (vi) Starting point of sidereal zodiac should be determined. 
 
-4. Shri Vallabhacharya Dixitji Maharaj, President 
+## 4. Shri Vallabhacharya Dixitji Maharaj, 
+President of the Conference of Calendar Experts, Bombay. Letter dated 13. 6. 53, communicating the resolutions passed at a conference of Hindu calendar experts at Poona on 16th & 17th May, 1953, as follows : 
 
-of the Conference of Calendar Experts, Bombay. Letter dated 13. 6. 53, communicating the resolutions passed at a conference of Hindu calendar experts at Poona on 16th & 17th May, 1953, as follows : 
+- (i) This Conference congratulates the Govt. of India on its efforts to prepare a National Calendar according to Indian system for the purpose of reckoning time. 
+-  (ii) This Conference is of opinion that Luni-Solar Nirayana Calendar giving correct positions of heavenly bodies should be prepared taking the starting point at the beginning of Aśvini and the ayanāṁsa should be the distance of the Vernal equinox from that fixed point. 
 
-(i) This Conference congratulates the Govt. of India on its efforts to prepare a National Calendar according to Indian system for the purpose of reckoning time. 
+## 5. Shri Radhagovinda Chandra
+Sarkar Bazar, P.O. Sukchar, 24 Parganas. Letter dated 3. 4. 53. 
 
-(ii) This Conference is of opinion that Luni-Solar Nirayana Calendar giving correct positions of heavenly bodies should be prepared taking the starting point at the beginning of Aśvini and the ayanāṁsa should be the distance of the Vernal equinox from that fixed point. 
+(i) Advocates “Nirayaṇa” system of calculation. (ii) Initial point to be 180° from the star Spica. (iii) Correct calculations to be adopted in the calendar. (iv) 21st March should be called as "Mahāviṣuva Dina' and not Mahāviṣuva saṁkrānti. 
 
-5. Shri Radhagovinda Chandra, Sarkar Bazar, 
+## 6. Shri Radhavallabh Smriti Vyakarana Jyotistirtha, 
+64, Kalinath Munshi Lane, Calcutta-36. 
 
-P.O. Sukchar, 24 Parganas. Letter dated 3. 4. 53. 
+Letter dated 6. 4. 53.  (i) Advocates ‘Nirayaṇa' system of calculations. (ii) Starting point to be 180° apart from the star Spica. 
 
-(i) Advocates “Nirayaņa” system of calculation. (ii) Initial point to be 180° from the star Spica. (iii) Correct calculations to be adopted in the calendar. (iv) 21st March should be called as "Mahāviṣuva Dina' and not Mahāviṣuva saṁkrānti. 
+Letter dated 2. 4. 54. 
 
-6. Shri Radhavallabh Smriti Vyakarana Jyotistirtha, 
+- (i) Sāyana varṣa (tropical year) should not be adopted for our religious purposes. 
+- (ii) Sāyana system may be adopted for finding the lagna, sunrise, sunset etc. and nirayaṇa calculations for determining the nakṣatras. 
+- (iii) Beginning of Aśvini na kṣatra should be from a point 180° away from the star Citrā ( Spica ). 
+- (iv) Constant ayanāṁśa which is opposed to science, should not be adopted ; if so, nakṣatras would lose their significance, 
+- (v) 23° 15' ayanāṁśa should be taken at the end of 1956. 
+- (vi) The names of the months Vaiśākha, Jyaistha etc. should not be used in the tropical year, as these are associated with the nirayaṇa year. Special names may be used. Letter dated nil. 
+- (vii) The number of days in the months should be standardised. 
+- (viii) There is no necessity of observing lunar festivals like Akṣaya tr̥tīyā always in the fixed season, if it moves to other season it should be observed in the new season. 
 
-64, Kalinath Munshi Lane, Calcutta-36. Letter dated 6. 4. 53. 
-
-(i) Advocates ‘Nirayaņa' system of calculations. (ii) Starting point to be 180° apart from the star Spica. Letter dated 2. 4. 54. 
-
-(i) Sāyana varṣa (tropical year) should not be adopted for our religious purposes. (ii) Sāyana system may be adopted for finding the lagna, sunrise, sunset etc. and nirayaņa calculations for determining the nakṣatras. (iii) Beginning of Aśvini na kṣatra should be from a point 180° away from the star Citrā ( Spica ). (iv) Constant ayanāṁśa which is opposed to science, should not be adopted ; if so, nakṣatras would lose their significance, (v) 23° 15' ayanāṁśa should be taken at the end of 1956. (vi) The names of the months Vaiśākha, Jyaistha etc. should not be used in the tropical year, as these are associated with the nirayaņa year. Special names may be used. Letter dated nil. 
-
-(vii) The number of days in the months should be standardised. (viii) There is no necessity of observing lunar festivals like Akṣaya třtīyā always in the fixed season, if it moves to other season it should be observed in the new season. 
-
-7. H. E. Shri Sriprakash, Governor of Madras, 
+## 7. H. E. Shri Sriprakash, Governor of Madras, 
 
 Madras. Letter dated 18. 5. 53. 
 
-(i) Beginning of the year with the month of Vaiśākha, on the morrow of the Sun's transit into Mega. (ii) Beginning of the month to be reckoned from Sun's passage from one sign to another. (iii) Christian era as well as Sālīvāhana or Kaliyuga era to be adopted. (iv) Solar calendar of Jñāna Mandal of Banaras may be consulted in this connection. 
+- (i) Beginning of the year with the month of Vaiśākha, on the morrow of the Sun's transit into Mega. 
+- (ii) Beginning of the month to be reckoned from Sun's passage from one sign to another. 
+- (iii) Christian era as well as Sālīvāhana or Kaliyuga era to be adopted. 
+- (iv) Solar calendar of Jñāna Mandal of Banaras may be consulted in this connection. 
 
-8. Shri M. S. Bhatnagar, Head of the Dept. of 
-
-Geography, M.M.H. (Degree) College, Ghaziabad. Letter dated 26. 2. 53. 
+## 8. Shri M. S. Bhatnagar
+Head of the Dept. of Geography, M.M.H. (Degree) College, Ghaziabad. Letter dated 26. 2. 53. 
 
 (i) Proposed central Indian station for astronomical observatory should be at Sonhat in M. Pradesh in Korea Subdivision, Lat. 23° 29'N, Long. 82° 30' E., about 3000 ft. above sea-level. 
 
-to another. (iii) Checkoned from Sunesa. (ii) Beginning 
 
-33 
-
-9. Shri V. Thiruvenkatacharya, M.A.L.T., Madras 
-
-Educational Service (Retd.), 13 Musa Sait Street, T-Nagar, Madras-17. 
-
-12. Shri Ambhujprasad P. Shulet, Mersakasan's 
-
-Chawk, Ghodhandur Road, Jogeswari, Bombay. Letter dated 1. 3. 53. 
-
-(i) Favours adoption of Vikrama Samyat. (ii) Starting month as Kārtika śuklapakṣa. (iii) śuklapakṣa first, krṣņapaksa second in each month. 
+## 9. Shri V. Thiruvenkatacharya
+M.A.L.T., Madras Educational Service (Retd.), 13 Musa Sait Street, T-Nagar, Madras-17. 
 
 Letter dated 2. 3. 53. 
 
-(i) Starting of the luni-solar year to be at the moment when the sun enters the equinoctial point, viz., the sāyana first point of Aries. (ii) The problem of 23 days' error in the calendar to be solved by suppressing it in an adhimāsa. (iii) Against adoption of western calendar. 
+- (i) Starting of the luni-solar year to be at the moment when the sun enters the equinoctial point, viz., the sāyana first point of Aries. 
+- (ii) The problem of 23 days' error in the calendar to be solved by suppressing it in an adhimāsa. 
+- (iii) Against adoption of western calendar. 
 
-13. Shri Srinivas Rao R. Mangalvedhe, Journalist, 
+Letter dated 17. 2. 54, etc. (i) The principal era should be either Kaliyuga (epoch 3102 B.C.) or Yudhisthira or Saptarsi Śaka 3077 B.C. in place of Sālivāhana śaka. (ii) Sāyana system should be observed for all religious purposes instead of nirayana system. The year should begin on or about 21st March when the Sun enters sāyana first point of Aries and not Asvini. (iii) Definite lead should be given by the state on the observances of festivals like Ekādasī, Śrī Jayanti, Gokulāstami, Sri Rāmanavami, etc. 
 
+## 10. Shri Ganga Prasad, M.A., M.R.A.S., Retired 
+Judicial Minister, Tehri Garhawal State, Ex-President, International Aryan League, Delhi, Prithviraj Road, Jaipur. 
+
+Letters dated 25. 3. 53, and 21. 10. 53. 
+
+(i) National Solar Calendar on “sāyana” system of time reckoning to be adopted. (ii) 23 days to be omitted from the month of "Chait” in any year, the eighth day of Chait being followed by the first day of Vaisakha. (iii) Supports the adoption of Vikrama Samvat as the era of the Indian National Calendar. (iv) Favours the names of months as Caitra, Vaiśākha, etc., and not Mega, Vrṣa, etc. to another. (iii) Checkoned from Sunesa. (ii) Beginning 
+
+## 11. Shri Harihar P. Bhatt, B.A.
+President, Editorial Board, The Sandesh Pratyaksha Panchang, 22, Saraswati Society, Sarkhej Road. Ahmedabad. 
+
+Letter dated 1. 5. 53. (i) The initial point of the fixed zodiac to be decided, (ii) Favours acceptance of the modern elements of planetary motion in pañcāṅga calculations. 
+
+Letter dated 26. 2. 54. (i) Suggests collection of opinion from the compilers of dr̥ggaṇita almanacs by votes on the following two items : (a) whether the year should be tropical or sidereal, (b) ayanāṁśa on a given date ; and the opinion of the majority members is to be accepted. (ii) Calculations of Nakṣatras and the daily Yogas ( Viṣkumbha etc.) are to be postponed till the final decision on the adoption of the amount of ayanāṁśa. (iii) Nearly 60 almanacs in India are following Citrā-paksa whose ayanāṁsa is nearly 23° 12' on 21. 3. 54 and as such adoption of Citrā paksa in fixing the initial point of the nirayaṇa zodiac is suggested. 
+
+Letter dated 25. 5. 53. 
+
+(i) Tithi and nakṣatra to be calculated according to Sūrya Siddhānta and not according to modern correct method. (ii) Dr̥ksiddha calculations to be taken only for eclipse purposes. (iii) Single calendar for the whole of India may be adopted for dating purposes and not for religious purposes, and this calendar is also unnecessary if we take the present English calendar for dating purposes. 
+
+## 12. Shri Ambhujprasad P. Shulet
+Mersakasan's Chawk, Ghodhandur Road, Jogeswari, Bombay. Letter dated 1. 3. 53. 
+
+(i) Favours adoption of Vikrama Samyat. (ii) Starting month as Kārtika śuklapakṣa. (iii) śuklapakṣa first, krṣṇapaksa second in each month. 
+
+## 13. Shri Srinivas Rao R. Mangalvedhe, Journalist, 
 Bagalkot, Bombay. Letter dated 30. 3. 53. 
 
 (i) Solar year to be adopted. (ii) Beginning of the year to be the same throughout India. (iii) Kaliyuga era to be adopted for the whole of India as well as the world. 
-
-Letter dated 17. 2. 54, etc. 
-
-(i) The principal era should be either Kaliyuga (epoch 3102 B.C.) or Yudhisthira or Saptarsi Śaka 3077 B.C. in place of Sālivāhana śaka. (ii) Sāyana system should be observed for all religious purposes instead of nirayana system. The year should begin on or about 21st March when the Sun enters sāyana first point of Aries and not Asvini. (iii) Definite lead should be given by the state on the observances of festivals like Ekādasī, Śrī Jayanti, Gokulāstami, Sri Rāmanavami, etc. 
 
 14. Shri Narendra Nath Bagal, Jyotisastri, 
 
@@ -93,15 +107,7 @@ C/o. Prof. Manoranjan Dasgupta, 38 Karbala
 
 Tank Lane, Calcutta. Letter dated 27. 4. 53. 
 
-(i) Correct method of calculations with nirayaņa system of reckoning to be taken in making pañcāngas. (ii Starting point to be 180° apart from the star Spica. (iii) Central meridian of India to be situated at Ujjain. (iv) Dispute:of ayanāśa to be settled. (v) Tropical year to be adopted and the beginning of the year to be 22nd March. 
-
-10. Shri Ganga Prasad, M.A., M.R.A.S., Retired 
-
-Judicial Minister, Tehri Garhawal State, Ex-President, International Aryan League, 
-
-Delhi, Prithviraj Road, Jaipur. Letters dated 25. 3. 53, and 21. 10. 53. 
-
-(i) National Solar Calendar on “sāyana” system of time reckoning to be adopted. (ii) 23 days to be omitted from the month of "Chait” in any year, the eighth day of Chait being followed by the first day of Vaisakha. (iii) Supports the adoption of Vikrama Samvat as the era of the Indian National Calendar. (iv) Favours the names of months as Caitra, Vaiśākha, etc., and not Mega, Vrṣa, etc. 
+(i) Correct method of calculations with nirayaṇa system of reckoning to be taken in making pañcāngas. (ii Starting point to be 180° apart from the star Spica. (iii) Central meridian of India to be situated at Ujjain. (iv) Dispute:of ayanāśa to be settled. (v) Tropical year to be adopted and the beginning of the year to be 22nd March. 
 
 15. Shri Poluri Venkata Subbaiah Shastri, Siddha 
 
@@ -109,21 +115,7 @@ nti, Senior Telegu Pandit, Hindu College
 
 High School, Guntur. Letter dated 20. 3. 53. 
 
-(i) Disapproves the adoption of one single pañcānga for the whole of India for the following reasons :-(a) the moment of suprise differs from one place to another, hence aharpramāņa also differs, resulting in the correspon ding change in the date of śrāddha, (b) the following five mānas are in vogue -1. Saura, 2. Sāvana, 3. Candra, 4. Bārhaspatya & 5. Nakṣatram, (c) no one can rely on one māna alone, such as saura or cândra for all purposes, (a) the name of the year in the cycle of 60 years such as Prabhava, Vibhava and so forth also varies from place to place. 
-
-11. Shri Harihar P. Bhatt, B.A., President, Editorial 
-
-Board, The Sandesh Pratyaksha Panchang, 22, Saraswati Society, Sarkhej Road. Ahmedabad. 
-
-Letter dated 1. 5. 53. 
-
-(i) The initial point of the fixed zodiac to be decided, (ii) Favours acceptance of the modern elements of planetary motion in pañcāṅga calculations. Letter dated 26. 2. 54. 
-
-(i) Suggests collection of opinion from the compilers of dřggaạita almanacs by votes on the following two items : (a) whether the year should be tropical or sidereal, (b) ayanāṁśa on a given date ; and the opinion of the. majority members is to be accepted. (ii) Calculations of Nakṣatras and the daily Yogas ( Viṣkumbha etc.) are to be postponed till the final decision on the adoption of the amount of ayanāṁśa. (iii) Nearly 60 almanacs in India are following Citrā-paksa whose ayanāṁsa is nearly 23° 12' on 21. 3. 54 and as such adoption of Citrā paksa in fixing the initial point of the nirayaņa zodiac is suggested. 
-
-Letter dated 25. 5. 53. 
-
-(i) Tithi and nakgatra to be calculated according to Sūrya Siddhānta and not according to modern correct method. (ii) Dřksiddha calculations to be taken only for eclipse purposes. (iii) Single calendar for the whole of India may be adopted for dating purposes and not for religious purposes, and this calendar is also unnecessary if we take the present English calendar for dating purposes. 
+(i) Disapproves the adoption of one single pañcānga for the whole of India for the following reasons :-(a) the moment of suprise differs from one place to another, hence aharpramāṇa also differs, resulting in the correspon ding change in the date of śrāddha, (b) the following five mānas are in vogue -1. Saura, 2. Sāvana, 3. Candra, 4. Bārhaspatya & 5. Nakṣatram, (c) no one can rely on one māna alone, such as saura or cândra for all purposes, (a) the name of the year in the cycle of 60 years such as Prabhava, Vibhava and so forth also varies from place to place. 
 
 16. Shri R. M. Deshmukh, M.P., 171, Constitution 
 
@@ -169,7 +161,7 @@ Resolved that the Chairman of the All India Calendar Reform Committee, Calcutta,
 
 Calcutta Notes dated nil. 
 
-(i) Advocates correct nirayana (dřk-ganitaikya ) calculation. 
+(i) Advocates correct nirayana (dr̥k-ganitaikya ) calculation. 
 
 (ii) Starting point to be 180° apart from the star Spica. 
 
@@ -275,7 +267,7 @@ Date, Compiler, Date Panchang, Sholapur. Letter dated 28. 9. 53 ( Memorandum ).
 
 (i) Suggesting to co-opt some suitable persons from Grahalāghava school in order to make the committee fully representative. 
 
-(ii) For civil purposes sāyana system may be adopted commencing the year from the vernal equinox day but for religious purposes nirayana reckoning should be adopted instead of sāyana system.. (iii) The starting point of the nirayaņa zodiac should be the point directly in front of the star Citrā ( Spica ). (iv) The formula for leap-years with śaka year should be worked out. (v) Criticises the adoption of constant ayanāṁśa for religious purposes. 
+(ii) For civil purposes sāyana system may be adopted commencing the year from the vernal equinox day but for religious purposes nirayana reckoning should be adopted instead of sāyana system.. (iii) The starting point of the nirayaṇa zodiac should be the point directly in front of the star Citrā ( Spica ). (iv) The formula for leap-years with śaka year should be worked out. (v) Criticises the adoption of constant ayanāṁśa for religious purposes. 
 
 31. Shri Chhedilal Jayeswal, P. O. Vindhachal, 
 
@@ -445,7 +437,7 @@ Panchanga Sodhana Parisat, 102-3, Bakul
 
 Bagan Road, Calcutta-25. Sending a Memorandum dated 16. 4. 54 prepared by a sub-committee consisting of Pt. Haricharan Smrititirtha Vidyaratna, Bhatpara, Pt. Sasthi Charan Bhattacharya of B.S. Panjika, Calcutta, Shri Jatindra Nath Bhattacharya, editor, Jyotirbijnan, Calcutta, Shri Sudhibhusan Bhatta charya M.A., Calcutta, Pt. Dwaresh Chandra Sarmacharya M.A., Calcutta and the Secretary. 
 
-(i) The latest astronomical elements should be adopted in the compilation of Indian pañcāògas. (ii) The calculation should be dřk-siddha. (iii) Tho Nakgatra cakra which is purely a sideroal system of astronomy and is being followed in India for at least the last 4000 years, should not be abandoned in the compilation of pañcāngas. (iv). The ayanāṁsa of the pro-siddhāntic period which was used in the Vedic period and in the glorious period of Hindu civiliza tion should be accepted. (v) The Citrāpaksa be adopted in the pañcāngas. (vi) According to Citrāpakṣa, 23° 15' ayanāṁśa should be accepted for the year 1956. (vii) Rece ding back of the equinoxes should not be stopped artificially as it will no doubt be completely opposed to our śāstric traditions. (viii) Uttarāyana should start from the actual date i.e. Dec. 23 instead of Jan. 14 as it is now followed. (ix) The festivals which developed after the Vedic period are not necessary to be observed in the seasonal months. (x) The criterion of Aṣtami Robiņi in commemorating the birth day of Lord Kroņa should be followed, though it may go out of the rainy season, (xi) The tropical year which is being followed in certain religious festivals, should start from the V. E. point and not from 23° 15' ahead of the V. E. point. (xii) The sidereal names of the months cannot be used with the tropical year. For the tropical year, the names Madhu, Mādhava etc. or Prathama, Dvitiya etc. should be used. (xiii) The dates of the sidereal solar months should be standardized. (xiv) The sidereal year will have 12 months commencing from Vaiśākba, and general festivals should, however, be linked with the sidereal year. 
+(i) The latest astronomical elements should be adopted in the compilation of Indian pañcāògas. (ii) The calculation should be dr̥k-siddha. (iii) Tho Nakgatra cakra which is purely a sideroal system of astronomy and is being followed in India for at least the last 4000 years, should not be abandoned in the compilation of pañcāngas. (iv). The ayanāṁsa of the pro-siddhāntic period which was used in the Vedic period and in the glorious period of Hindu civiliza tion should be accepted. (v) The Citrāpaksa be adopted in the pañcāngas. (vi) According to Citrāpakṣa, 23° 15' ayanāṁśa should be accepted for the year 1956. (vii) Rece ding back of the equinoxes should not be stopped artificially as it will no doubt be completely opposed to our śāstric traditions. (viii) Uttarāyana should start from the actual date i.e. Dec. 23 instead of Jan. 14 as it is now followed. (ix) The festivals which developed after the Vedic period are not necessary to be observed in the seasonal months. (x) The criterion of Aṣtami Robiṇi in commemorating the birth day of Lord Kroṇa should be followed, though it may go out of the rainy season, (xi) The tropical year which is being followed in certain religious festivals, should start from the V. E. point and not from 23° 15' ahead of the V. E. point. (xii) The sidereal names of the months cannot be used with the tropical year. For the tropical year, the names Madhu, Mādhava etc. or Prathama, Dvitiya etc. should be used. (xiii) The dates of the sidereal solar months should be standardized. (xiv) The sidereal year will have 12 months commencing from Vaiśākba, and general festivals should, however, be linked with the sidereal year. 
 
 44. Shri P. L. Bhagvat, 846 Sadashiv Peth, & Shri 
 
