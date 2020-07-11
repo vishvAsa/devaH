@@ -286,7 +286,7 @@ P.O. Payyanur, North Malabar.
 
 Letter dated 22. 3. 54. 
 
-(i) Supports the recommendations of the Calendar Reform Committee made at its first meeting. (ii) The year should be brought back by 23 days as this error is causing mistakes in the calculation of seasons. (iii) Suggests establishment of a central astronomical observatory with modern instruments and apparatus including ammonia and quartz clocks. (iv) Steps should be taken to publish an Indian Ephemeris for the use of the almanac makers, the Navy and the Air force. (vi) Basis of the seasonal rites and ceremonies should be 
+(i) Supports the recommendations of the Calendar Reform Committee made at its first meeting. (ii) The year should be brought back by 23 days as this error is causing mistakes in the calculation of seasons. (iii) Suggests establishment of a central astronomical observatory with modern instruments and apparatus including ammonia and quartz clocks. (iv) Steps should be taken to publish an Indian Ephemeris for the use of the almanac makers, the Navy and the Air force. 
 
 ## 38. Shri Jagadish Prasad Srivastava, B.Sc. LL.B., 
 2062, Ladli Katra, Agra. 
@@ -300,36 +300,32 @@ Sayan Astronomical & Astrological Mandal, Jyotirmala Office, Shri Hari Building,
 
 Letter dated nil. 
 
-I. For Civil Calendar : 
+### I. For Civil Calendar : 
 
-(i) The year should begin on the day when the Sun is in conjunction with the apparent first point of Aries. (ii) The longth of the year should be 365.2422 days. For civil purposes the first 3 years would be of 365 days and the fourth year of 366 days. (iii) Śālivāhana Śaka may be used as the era. (iv) The solar month should begin on the day when the Sun enters the 31st degree and its multiples beginning from the vernal equinox. (v) Length of months the first 5 months should be of 31 days and the remaining 7 months of 30 days for the ordinary year while first 6 months should be of 31 days and the remaining 6 months of 30 days for the leap-year, i.e. the year of 366 days. (vi) The civil day should commence from midnight. 
+(i) The year should begin on the day when the Sun is in conjunction with the apparent first point of Aries. (ii) The length of the year should be 365.2422 days. For civil purposes the first 3 years would be of 365 days and the fourth year of 366 days. (iii) Śālivāhana Śaka may be used as the era. (iv) The solar month should begin on the day when the Sun enters the 31st degree and its multiples beginning from the vernal equinox. (v) Length of months the first 5 months should be of 31 days and the remaining 7 months of 30 days for the ordinary year while first 6 months should be of 31 days and the remaining 6 months of 30 days for the leap-year, i.e. the year of 366 days. (vi) The civil day should commence from midnight. 
 
-II. For Religious Calendar : 
+## II. For Religious Calendar : 
 
-(i) Religious calendar of India should be luni-solar. (ii) Names of the months should be Caitra, Vaiśākha etc., the first month being Caitra. (iii) Lunar month should be reckoned from true new-moon to true new-moon. (iv) During the period covered by two successive now-moons, the Sun may not transit over any multiple of 30° degrees of longitude in some cases, and in such cases the lunar month should be termed as intercalary month. (v) If during the period covered by two successive now-moons there would be two ingresses of the Sun, in such a case the name of the month shall be determined on the basis of the second ingress, the one on the basis of the first having been treated as kṣaya month. (vi) Any religious festival which is principally determined by nakṣatras should be based on the tropical nakṣatras without taking into account the position of fixed stars. (vii) Religious festivals may be determined in the following manner : 
-
-(a) In Northern India, with reference to the true 
-
-sunrise of Delhi. (b) In Western India, with reference to the true sunrise of Bombay. (c) In Eastern India, with reference to the true sunrise of Calcutta. (a) In Southern India, with reference to the true sunrise of Madras . () In Central India, with reference to the true sunrise of Nagpur. 
-
-
-changed from Caitrādi lunar month to Madhu Madhayādi lunar month. 
-
-## 42. Shri Baldeva Misra, 
-K. P. Jayaswal Research Institute, Patna. 
-
-## 38. Shri Jagadish Prasad Srivastava, B.Sc. LL.B., 
-2062, Ladli Katra, Agra. 
-
-Letter dated 3. 5. 54. 
-
-(i) For all religious purposes tithi, nakṣatra, yoga and longitudes of the Sun and Moon should be calculated according to the old system and not according to the (modern) Alnianac system, for simple reason that our religion is based on the words of the ancient sages and pṣis. (ii) Nirayana calculation should be accepted. (iii) An observatory should be established. (iv) The advancement of science should be carried out giving due respect to śāstras. (viii) Indian standard time should be followed throughout. (ix) Heliacal rising and setting of planets should be given for every parallel of latitude commencing from 6° North and for the meridian of 821° East longitude of Greenwich. 
+- (i) Religious calendar of India should be luni-solar. 
+- (ii) Names of the months should be Caitra, Vaiśākha etc., the first month being Caitra. 
+- (iii) Lunar month should be reckoned from true new-moon to true new-moon. 
+- (iv) During the period covered by two successive now-moons, the Sun may not transit over any multiple of 30° degrees of longitude in some cases, and in such cases the lunar month should be termed as intercalary month. 
+- (v) If during the period covered by two successive now-moons there would be two ingresses of the Sun, in such a case the name of the month shall be determined on the basis of the second ingress, the one on the basis of the first having been treated as kṣaya month. 
+- (vi) Any religious festival which is principally determined by nakṣatras should be based on the tropical nakṣatras without taking into account the position of fixed stars. 
+- (vii) Religious festivals may be determined in the following manner : 
+  - (a) In Northern India, with reference to the true sunrise of Delhi. 
+  - (b) In Western India, with reference to the true sunrise of Bombay. 
+  - (c) In Eastern India, with reference to the true sunrise of Calcutta. 
+  - (d) In Southern India, with reference to the true sunrise of Madras . 
+  - (e) In Central India, with reference to the true sunrise of Nagpur. 
+- (viii) Indian standard time should be followed throughout. 
+- (ix) Heliacal rising and setting of planets should be given for every parallel of latitude commencing from 6° North and for the meridian of 821° East longitude of Greenwich. 
 
 ## 40. Krishnaram Valji Bhatt, Yeshawant K. Pradhan, and Dattatraya K. Sule, 
-
 Dadar, Bombay-14. Letter dated 3. 5. 54. 
 
-(i) The initial point of the zodiac cannot be anything else but the vernal equinox (even S.8. gives the initial point as vernal equinox). (ii) Length of the year should be 365.2422 days. (iii) Sāyana system should be accepted for our religious and other rites. (iv) If any attempt is made to fix the amount of ayanāṁśa from the fixed stars as given in the S. S., there will be 27 kinds of ayanāṁśas and no two of them will agree, 80 it is futile to determine the ayanāṁsa from the S. S. 
+
+(i) The initial point of the zodiac cannot be anything else but the vernal equinox (even S.S. gives the initial point as vernal equinox). (ii) Length of the year should be 365.2422 days. (iii) Sāyana system should be accepted for our religious and other rites. (iv) If any attempt is made to fix the amount of ayanāṁśa from the fixed stars as given in the S. S., there will be 27 kinds of ayanāṁśas and no two of them will agree, so it is futile to determine the ayanāṁsa from the S. S. 
 
 ## 41. Memorandum of the Sayana Astronomical and Astrological Mandal, Bombay
 Received from : 
@@ -347,79 +343,68 @@ Received from :
 
 In addition to the suggestions made in No. 39, above the following further suggestions have also been offered. 
 
-(i) Zoro ayanāṁśa should be taken in each year, and the 
+- (i) Zero ayanāṁśa should be taken in each year, and the vernal equinoctial day be the beginning of the year. 
+- (ii) Tropical and not the sidereal year should be the basis of reckoning. 
+- (iii) The intercalary month should be determined by the Sun's entry into sāyana signs occuring during the lunar months. 
+- (iv) Sāyana planetary positions and sāyana calculations alone must be taken for the religious pañcāngas. 
+- (v) The celestial geocentric longitudinal conjunction of the sun, the moon and the planet with junction stars must be mentioned in the pañcānga. 
+- (vi) Basis of the seasonal rites and ceremonies should be changed from Caitrādi lunar month to Madhu Madhayādi lunar month. 
 
-vernal equinoctial day be the beginning of the year. (ii) Tropical and not the sidereal year should be the 
+## 42. Shri Baldeva Misra, 
+K. P. Jayaswal Research Institute, Patna. 
 
-basis of reckoning. (iii) The intercalary month should be determined by 
-
-the Sun's entry into sāyana signs occuring during 
-
-the lunar months. (iv) Sāyana planetary positions and sāyana calculations 
-
-alone must be taken for the religious pañcāngas. (v) The celestial geocentric longitudinal conjunction of 
-
-the sun, the moon and the planet with junction stars must be mentioned in the pañcānga. 
+(i) For all religious purposes tithi, nakṣatra, yoga and longitudes of the Sun and Moon should be calculated according to the old system and not according to the (modern) Almanac system, for simple reason that our religion is based on the words of the ancient sages and r̥ṣis. (ii) Nirayana calculation should be accepted. (iii) An observatory should be established. (iv) The advancement of science should be carried out giving due respect to śāstras. 
 
 ## 43. Pandit Dwijapada Goswami, 
-Secretary, Panchanga Sodhana Parisat, 102-3, Bakul 
+Secretary, Panchanga Sodhana Parisat, 102-3, Bakul Bagan Road, Calcutta-25. 
 
-Bagan Road, Calcutta-25. Sending a Memorandum dated 16. 4. 54 prepared by a sub-committee consisting of Pt. Haricharan Smrititirtha Vidyaratna, Bhatpara, Pt. Sasthi Charan Bhattacharya of B.S. Panjika, Calcutta, Shri Jatindra Nath Bhattacharya, editor, Jyotirbijnan, Calcutta, Shri Sudhibhusan Bhatta charya M.A., Calcutta, Pt. Dwaresh Chandra Sarmacharya M.A., Calcutta and the Secretary. 
+Sending a Memorandum dated 16. 4. 54 prepared by a sub-committee consisting of Pt. Haricharan Smrititirtha Vidyaratna, Bhatpara, Pt. Sasthi Charan Bhattacharya of B.S. Panjika, Calcutta, Shri Jatindra Nath Bhattacharya, editor, Jyotirbijnan, Calcutta, Shri Sudhibhusan Bhatta charya M.A., Calcutta, Pt. Dwaresh Chandra Sarmacharya M.A., Calcutta and the Secretary. 
 
-(i) The latest astronomical elements should be adopted in the compilation of Indian pañcāògas. (ii) The calculation should be dr̥k-siddha. (iii) Tho Nakgatra cakra which is purely a sideroal system of astronomy and is being followed in India for at least the last 4000 years, should not be abandoned in the compilation of pañcāngas. (iv). The ayanāṁsa of the pro-siddhāntic period which was used in the Vedic period and in the glorious period of Hindu civiliza tion should be accepted. (v) The Citrāpaksa be adopted in the pañcāngas. (vi) According to Citrāpakṣa, 23° 15' ayanāṁśa should be accepted for the year 1956. (vii) Rece ding back of the equinoxes should not be stopped artificially as it will no doubt be completely opposed to our śāstric traditions. (viii) Uttarāyana should start from the actual date i.e. Dec. 23 instead of Jan. 14 as it is now followed. (ix) The festivals which developed after the Vedic period are not necessary to be observed in the seasonal months. (x) The criterion of Aṣtami Robiṇi in commemorating the birth day of Lord Kroṇa should be followed, though it may go out of the rainy season, (xi) The tropical year which is being followed in certain religious festivals, should start from the V. E. point and not from 23° 15' ahead of the V. E. point. (xii) The sidereal names of the months cannot be used with the tropical year. For the tropical year, the names Madhu, Mādhava etc. or Prathama, Dvitiya etc. should be used. (xiii) The dates of the sidereal solar months should be standardized. (xiv) The sidereal year will have 12 months commencing from Vaiśākba, and general festivals should, however, be linked with the sidereal year. 
+(i) The latest astronomical elements should be adopted in the compilation of Indian pañcāògas. (ii) The calculation should be dr̥k-siddha. (iii) The Nakṣatra cakra which is purely a sidereal system of astronomy and is being followed in India for at least the last 4000 years, should not be abandoned in the compilation of pañcāngas. (iv) The ayanāṁsa of the pre-siddhāntic period which was used in the Vedic period and in the glorious period of Hindu civilization should be accepted. (v) The Citrāpaksa be adopted in the pañcāngas. (vi) According to Citrāpakṣa, 23° 15' ayanāṁśa should be accepted for the year 1956. (vii) Rece ding back of the equinoxes should not be stopped artificially as it will no doubt be completely opposed to our śāstric traditions. (viii) Uttarāyana should start from the actual date i.e. Dec. 23 instead of Jan. 14 as it is now followed. (ix) The festivals which developed after the Vedic period are not necessary to be observed in the seasonal months. (x) The criterion of Aṣtami Rohiṇi in commemorating the birth day of Lord Kr̥ṣṇa should be followed, though it may go out of the rainy season, (xi) The tropical year which is being followed in certain religious festivals, should start from the V. E. point and not from 23° 15' ahead of the V. E. point. (xii) The sidereal names of the months cannot be used with the tropical year. For the tropical year, the names Madhu, Mādhava etc. or Prathama, Dvitiya etc. should be used. (xiii) The dates of the sidereal solar months should be standardized. (xiv) The sidereal year will have 12 months commencing from Vaiśākha, and general festivals should, however, be linked with the sidereal year. 
 
-## 44. Shri P. L. Bhagvat, 846 Sadashiv Peth, & Shri 
-
-N. S. Gokhale, 346 Somwar Peth, Poona-2. 
-
-46. Shri Manubhai P. Shukla, 180/1, Kocharal 
-
-P. O. Anandanagar, Ahmedabad, Letters dated 12. 6. 54 & 19. 6. 54. 
-
-(i) Prefers fixed zodiac system for lunar caloulations. (ii) Religious rites should be performed according to lunar month. (iii) A uniform calendar in India is desirable. 
+## 44. bhāgavat and gōkhalē
+Shri P. L. Bhagvat 846 Sadashiv Peth, & Shri N. S. Gokhale, 346 Somwar Peth, Poona-2. 
 
 Letter dated 14. 5. 54. 
 
-(i) The.vernal equinoctial point should be the starting point of the year. The year should be tropical, consisting of 365.2422 days. (ii) The calendar should contain Tithi, Nakpatra, Yoga & Karana (if necessary) and exact time of the conjunction of the Moon with the 1st and 2nd magnitude stars. (iii) Against the idea of taking 23° 15' ayanāśa ahead of the V. E. point. (iv) Against the nirayana system for the following reasons : 
+- (i) The vernal equinoctial point should be the starting point of the year. The year should be tropical, consisting of 365.2422 days. 
+- (ii) The calendar should contain Tithi, Nakpatra, Yoga & Karana (if necessary) and exact time of the conjunction of the Moon with the 1st and 2nd magnitude stars. 
+- (iii) Against the idea of taking 23° 15' ayanāśa ahead of the V. E. point.
+- (iv) Against the nirayana system for the following reasons : 
+  - (a) The authors of the different Siddhāntas could not fix the initial point for nirayana calculation. 
+  - (b) Longitudes of some fixed stars as found in the Sūrya Siddhānta do not yield the location of the starting point. 
+  - (c) At present the days and nights are not equal on the equinox days according to the present nirayana pañcāngas. 
+  - (d) There is no satisfactory proof in our sāstras that our religious festivals are based on nirayana system. 
+  - (e) The zero year of the Hindu zodiac is different in different pañcāngas. 
 
-• (a) The authors of the different Siddhāntas could not 
+## 45. Shri Kashiram Sharma
+Secretary, Jyotisha Sammelana (4th), Upper India, Ambala Cantt. 
 
-fix the initial point for nirayana calculation. (b) Longitudes of some fixed stars as found in the 
+Letter dated 7. 6. '54 intimating the recommendations of the conference 
 
-Sūrya Siddhānta do not yield the location of the 
+- (i) The new calendar to be prepared should be on Indian system and the important factors of the Pañcānga i.e.. lunar days and asterisms etc. should be computed purely according to Sūrya Siddhānta, so that there should be uniformity in the pañcāngas all over India and there should be no confusion in the observances of national festivals etc. 
+- (ii) The long. 82° 30' E. of Greenwich adopted as the standard meridian of India should be changed to 75 E. to be in conformity with ancient practices which will not in any way interfere with the universally accepted and prevalent zonal time covention. 
+- (iii) This conference demands from the Union Govt. that funds should be provided to start as many astronomical observatories as possible to promote the study of Jyotiṣa, during the next five years. In these observatories Indian astronomers well versed in Sanskrit and Hindu astronomy should be treated at par with modern astronomers. The central observatory should be situated at Ujjain or Kurukṣetra. 
+- (iv) To promote and encourage study of Jyotiṣa, it is desirable to start a Central Collego-cum Research Institute and a Central Library of Jyōtiṣa. In this opllege arrangements should be made to teach Jyotiṣa with all its allied subjects on scientific lines. 
 
-starting point. (c) At present the days and nights are not equal on 
+## 46. Shri Manubhai P. Shukla, 180/1, Kocharal 
+P. O. Anandanagar, Ahmedabad
 
-the equinox days according to the present nirayana 
+Letters dated 12. 6. 54 & 19. 6. 54. 
 
-pañcāngas. (a) There is no · satisfactory proof in our sāstras 
-
-that our religious festivals are based on nirayana 
-
-system. (e) The zero year of the Hindu zodiac is different in 
-
-different pañcāngas. 45. Shri Kashiram Sharma, Secretary, Jyotisha 
-
-Sammelana (4th), Upper India, Ambala Cantt. 
-
-Letter datod 7. 6. '54 intimating the recommendations of 
-
-the conference 
-
-(i) The new calendar to be prepared should be on Indign system and the important factors of the Pañcānga i.e.. lunar days and asterisms etc. should be computed purely according to Sūry& Siddhānta, so that there should be uniformity in the pañcāngas all over India and there should be no confusion in the observances of national festivals etc. (ii) The long. 82° 30' E. of Greenwich adopted as the standard meridian of India should be changed to 75o E. to be in conformity with ancient practices which will not in any way interfere with the universally accepted and prevalent zonal time covention. (iii) This conference demands from the Union Govt. that funds should be provided to start as many astronomical observatories as possible to promote the study of Jyotiṣa, during the next five years. In these observatories Indian astronomers well versed in Sanskrit and Hindu astronomy should be treated at par with modern astronomers. The central observatory should be situated at Ujjain or Kurukṣetra. (iv) To promote and encourage study of Jyotiṣa, it is desirable to start a Central Collego-cum Research Institute and a Central Library of Jyōtiṣa. In this opllege arrangements should be made to teach Jyotiṣa with all its allied subjects on scientific lines. 
+(i) Prefers fixed zodiac system for lunar caloulations. (ii) Religious rites should be performed according to lunar month. (iii) A uniform calendar in India is desirable. 
 
 ## 47. Shri Kshitish Chandra Chatterjee
 M. A D. Litt., 81, Shyambazar Street, Calcutta-4. Letter dated 21. 8. 54 forwarding a pamphlet from Shri Bamacharan Tarkatirtha Nyayacharya, Professor, Hindu University, Banaras, Shri Narayan Chandra Smrititirtha, Shri Kalipada Jyōtiṣastri, M. Sc., Shri Ramrupa Vidyabagisa. of Bhatpara, MM. Bireswar Tarkatirtha of Burdwan, MM. Rames Chandra Tarkatirtha, Shri Tripathanath Smrititirtha of Navadwip, MM. Kalipada Tarkacharya, etc. of Calcutta. 
 
-(i) For civil purposes 22nd March may be adopted as the beginning of the year but for religious purposes year beginning should be followed according to the different conventions of the States. (ii) The recommendation for starting the calculation for religious purposes 23° 15' ahead of the V. E. point cannot be accepted, as the equinoxes are not fixed. (iii) Supports the recommendation for preparing a National Calendar for the whole of India and for establi shing a National Observatory with modern equipments. (iv) Disapproves the inclusion of tithis and nakṣatras in the National Calendar. (v) For religious purposes the duration of a tithi must not excood 65 dandas and must not fall short of 54 dandas. (vi) The calculation of tithis and nakṣatras should be done according to the Siddhāntas of India. (vii) To determine the months, dates and time for religious duties, calculation should be made from Surya Siddhānta on nirayana basis commencing from the fixed "First point of Aries" in the zodiac with fixed length of the solar year viz., 365.2587 days. 
+(i) For civil purposes 22nd March may be adopted as the beginning of the year but for religious purposes year beginning should be followed according to the different conventions of the States. (ii) The recommendation for starting the calculation for religious purposes 23° 15' ahead of the V. E. point cannot be accepted, as the equinoxes are not fixed. (iii) Supports the recommendation for preparing a National Calendar for the whole of India and for establishing a National Observatory with modern equipments. (iv) Disapproves the inclusion of tithis and nakṣatras in the National Calendar. (v) For religious purposes the duration of a tithi must not exceed 65 dandas and must not fall short of 54 dandas. (vi) The calculation of tithis and nakṣatras should be done according to the Siddhāntas of India. (vii) To determine the months, dates and time for religious duties, calculation should be made from Surya Siddhānta on nirayana basis commencing from the fixed "First point of Aries" in the zodiac with fixed length of the solar year viz., 365.2587 days. 
 
 ## 48. Hony. Secretary, Jyotirvidya Mandal, 
-
 3/25 Contractor's Building, Girgaon, Bombay. Letter dated 6. 9, 54. 
 
-Forwarding resolutions adopted at the Brihan Maha rastra Jyotish Parishad conference, Jalgaon, held on 3rd, 4th & 5th July, 1954. 
+Forwarding resolutions adopted at the Brihan Maharastra Jyotish Parishad conference, Jalgaon, held on 3rd, 4th & 5th July, 1954. 
 
-(1) Disapproval :--The decision of the Calendar Reforma Committee of the Government of India, to fix 23° 15' as the fixed ayanāṁśa is unscientific and would produce great confusion in future in religious matters, which are fixed in accordance with nakgatras and would produce irreligious ness and harm to religious practice and religious culture. The procession of equinoxes should be taken into account every year while determining the ending moments of nakṣatras and the luni-solar calendar be compiled accordingly. 
+(1) Disapproval :--The decision of the Calendar Reforma Committee of the Government of India, to fix 23° 15' as the fixed ayanāṁśa is unscientific and would produce great confusion in future in religious matters, which are fixed in accordance with nakṣatras and would produce irreligiousness and harm to religious practice and religious culture. The procession of equinoxes should be taken into account every year while determining the ending moments of nakṣatras and the luni-solar calendar be compiled accordingly. 
 
 (2) Approval :- With respect to the other items proposed by the Committee e.g. Sālivāhana śaka and the Caitrādi beginning of tropical solar year etc. are acceptable.
 
