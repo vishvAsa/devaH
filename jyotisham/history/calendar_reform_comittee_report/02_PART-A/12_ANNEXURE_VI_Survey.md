@@ -7,175 +7,125 @@ The calendar makers were requested to furnish certain data relating to their cal
 
 ## QUESTIONNAIRE 
 
-1. Name of the pañcāṅga. 2. The year from which it is being published. 3. Language in which it is published. 4. Office address. 5. Name of the chief compiler. 6. Sāyana or Nirayana ? 7. Solar or luni-solar ? If luni-solar whether 
-
-“Purnimanta or Amanta ? 8. Beginning of the year. 
-
-9. Principal Era used, give the era of the current 
-
-year with the English date of its beginning. Give the names of the months from the 
-
-beginning of the year. 11. Length of the solar year adopted. 12. Amount of ayanāṁśa on 21st March, 1954. 13. Annual rate of ayanāṁśa (precession) adopted, 14. Whether calculations are based on modern 
-
-method or the old Siddhāntic method ? Give the name of the book, if any, on which the calculations are based. 
-
-rici 
-
-5. 
-
-Coro 
+- 1. Name of the pañcāṅga. 
+- 2. The year from which it is being published. 
+- 3. Language in which it is published. 
+- 4. Office address. 
+- 5. Name of the chief compiler. 
+- 6. Sāyana or Nirayana ? 
+- 7. Solar or luni-solar ? If luni-solar whether “Purnimanta or Amanta ? 
+- 8. Beginning of the year. 
+- 9. Principal Era used, give the era of the current year with the English date of its beginning. Give the names of the months from the beginning of the year. 
+- 11. Length of the solar year adopted. 
+- 12. Amount of ayanāṁśa on 21st March, 1954. 
+- 13. Annual rate of ayanāṁśa (precession) adopted, 
+- 14. Whether calculations are based on modern method or the old Siddhāntic method ? Give the name of the book, if any, on which the calculations are based. 
 
 ## REPLIES TO QUESTIONNAIRE (1) 
 
-(2) Questionnaire 
-
-Ques. No Reply 
-
-Ques. No. Reply 1. Name of the Pañcāöga. 
-
-1. Bisuddha Siddhānta Panjika. 
-
-1 Kumbakonam Madathu 
-
-Panchangam. The year from which it is being 
-
-2. 1297 B. S., 1890 A, D, 
-
-2. 1876 A.D. published. 3. Language in which it is published. 
-
+1. Biguddha Siddhanta Panjika. 
+2. 1297 B, S., 1890 A, D, 
 3. Bengali. 
-
-3. Tamil. 4. Office address. 
-
-.4. 85, Grey Street, Calcutta-5. 
-
-4. The Pioneer Publication, Teppa 
-
-kulam, Trichinipoly, 
-
-Madras State. 5. Name of the chief compiler. 
-
-Sasthi Charan Jyotirbhusan. 
-
-P. N. Krishna Ayengar. Sayana or Nirayana ? 
-
-6. Nirayana. 
-
-6. Nirayana. Solar or luni-solar ? If luni-solar 
-
+4. 85, Grey Street, Calcutta-5. 
+5. Sasthi Charan Jyotirbhusan. 6. Nirayana. 
 7. Solar. 
-
-7. Solar. whether Purnimānta or Amānta ? Beginning of the year. 
-
-Mesha Sankranti. 
-
-Mesha Sankranti. Principal Era used, give the era of 
-
-9. Bengali San, 1360 begins on 14th 
-
-Pravabadi year, Vijayanam the current year with the English 
-
-April, 1953. 
-
-Samvatsaram and Kollam andu date of its beginning. 
-
-1128 begins on 13th April, 1953. 10. Give the names of the months from 
-
+8. Mesha Sankranti. 
+9. Bengali San, 1360 begins on 14th April, 1953. 
 10. Vaisakha to Chaitra. 
-
-10. Chitrai, Vaikasi, Ani, Adi, Avani, the beginning of the year. 
-
-Purattasi, Arpisi, Karthigai, 
-
-Margali, Thai, Masi, Panguni. 11. Length of the solar year adopted. 
-
-11. 3658.25636. 
-
-11. 365d 6b gm 12. Amount of ayanāṁśa on 21st 
-
-12. · 23° 12' 45" 
-
-12. 23° 12' 9".88 March, 1954. Annual rate of' ayanāṁsa (pre 
-
+11. 365.25636. 
+12. 23° 12' 45" 
 13. 50".3. 
+14. Modern method. Karanvallabha by Radhavallabha Jyotistirtha & Nautical Almanacs of different countries.
 
-13. 50".2677 cession) adopted. Whether calculations are based 
-
-14. Modern method. 
-
-Modern method. on modern method or the old 
-
-Karanvallabha by Radbavallabha 
-
-Ketaki's Grabaganitam, Siddhāntic method 2. Give the 
-
-Jyotistirtha & Nautical Almanacs 
-
-Jyotirganitam, name of the book, if any, on which 
-
-of difforent countries. 
-
-Grabakoghtha Ganitam, the caloulations are based. 
-
-Ganita Nirnayam & Nautical Almanac. 
-
-Ai có so 
-
-14. 
-
-(4) 
-
-Questionnaire 1. Name of the Pañcānga. 2. The year from which it is being 
-
-published. 3. Language in which it is published. 4. Office address. 
-
-( 3 ). Ques. No. Reply 
-
-1. Paturi Vari Panchangam. 2. 1946 A.D. 
-
-Ques. No. Reply 
-
-1. Chitragala Panchang. 2. 1924-25 A. D. (śaka 1846). 
-
-ou 
-
-3. Telegu. 
-
-147 Mint Street, Madras-1. 
-
-5. Name of the chief compiler. 
-
-co to 
-
-la 
-
-Paturi Subbaraya Sastry & Paturi Sri Rama Murthy. 
-
-Marathi. Chitrasala Press, 10/26 Sadasiv Peth, Poona-2. Dhundiraj Laxman Date of Sholapur and Gopal Balwant Joshi of Poona. Nirayana, Sun & Moon's entry into signs, nakshatras, yogas are also given on sayana basis. Luni-Solar, Amanta. 
-
-6. Sāyana or Nirayaņa ?. 
-
+1 Kumbakonam Madathu Panchangam. 
+2. 1876 A.D. 
+3. Tamil. 
+4. The Pioneer Publication, Teppakulam, Trichinipoly, Madras State. 
+5. P. N. Krishna Ayengar. 
 6. Nirayana. 
+7. Solar. 
+8. Mesha Sankranti. 
+9. Pravabadi year, Vijayanam Samvatsaram and Kollam andu 1128 begins on 13th April, 1953. 
+10. Chitrai, Vaikasi, Ani, Adi, Avani, Purattasi, Arpisi, Karthigai, Margali, Thai, Masi, Panguni. 
+11. 365d 6h gm 
+12. 23° 12' 9'.88 
+13. 50".2677 
+14. Modern method. Ketaki's Grahaganitam, Jyotirganitam, Grahakoghtha Ganitam, Ganita Nirnayam & Nautical Almanac.
 
-co 
-
+1. Paturi Vari Panchangam. 
+2. 1946 A.D. 
+3. Telegu. 
+4. 147 Mint Street, Madras-1. 
+5. Paturi Subbaraya Sastry & Paturi Sri Rama Murthy. 
+6. Nirayana. 
 7. Luni-Solar. 
+8. Chaitra Suddha Pradhama. 
+9. Salivahana Saka (elapsed) begins on Chaitra Suddha Pradhama. 
+10. Chaitra, Vaishaka, Jyestha, Asadba, Sravana, Bhadrapada, Agwayuja ,Kartika, Margasira, Pushya, Magha, Phalguna. 
+11. 365d 15g 31 vg 
+12. 23° 12' 4" 
+13. 50".25 
+14, Old Siddhantic Method. Gana kananda.
 
-8. 
 
-7. Solar or luni-solar ? If luni-solar 
+1. Chitrasala Panchang. 
+2. 1924-25 A. D. (Saka 1846). 
+3. Marathi. 
+4. Chitrasala Press, 10/26 Sadasiv Peth, Poona-2. 
+5. Dhundiraj Laxman Date of Sholapur and Gopal Balwant Joshi of Poona. 
+6. Nirayana, Sun & Moon's entry into signs, nakshatras, yogas are also given on sayana basis. 
+7. Luni-Solar, Amanta. 
+8. 1st tithi of Chaitra. 
+9. Salivahana Saka 1875 begins on 16th March, 1953. 
+10. Chaitra to Phalguna: 
+11. 365d 6h 9m 11s (365d 15g 22p 57vd) 
+12. 23° 12' 7" 
+13. 50"
+14. Modern method. Ketkar's Jyotirganitam, Grahaganita.
 
-whether Pūrnimānta or Amānta ? 8. Beginning of the year. 9. Principal Era used, give the era of 
 
-the current year with the English 
+1. Gupta Press Panjika. 
+2. 1277 B. S. (Sakabda 1792). 
+3. Bengali. 
+4. 37/7 Beniatola Lada Calcutta-9. 
+5. Pt. Ramrup Vidyabagis. 
+6. Nirayana. 
+7. Solar (with all informations regarding luni-solar, both purnimanta and amanta of the year). 
+8. 1st Vaisakha. 
+9. Bangabda 1360 begins on 14th April, 1953. 
+10. Vaisakha to Chaitra. 
+11. 365d.258756481 mean solar days. 
+12. 21° 49' 26."55 13. 54" 14. Siddhantic method. (Surya Siddhanta)
 
-date of its beginning. 10. Give the names of the months from 
+1. Gharcha Jyotishi. 
+2. 1920 A.D. 
+3. Marathi. 
+4. 471 Somwar Peth, P. O. Karad, Bombay State. 
+5. Uddhav Vishnu Ruikar. 
+6. Nirayana. 
+7. Luni-Solar, Amanta. 
+8. Chaitra Sukla 1. 
+9. Salivahana Saka, 1875 begins on 16th March, 1953. 
+10. Chaitra to Phalguna. 
+11. 365d 158 23v8 
+12. 23° 12' 8" 
+13. 50" 
+14. Modern method. Ketaki Jyotirganita.
 
-the beginning of the year. 
+1. Ruikar Varsha Bhavishya. 
+2. 1933 A.D. 
+3. Marathi. 
+4. 471, Somwar Peth, P.O. Karad, Bombay State. 
+5. Uddhav Vishnu Ruikar. 
+6. Nirayana. 
+7. Luni-Solar, Amanta. 
+8. Chaitra Sukla 1. 
+9. Salivahana Saka 1875 begins on 16th March, 1953. 
+10. Chaitra to Phalguna. 
+11. 365d 158 23v8. 
+12. 23° 12' 8" 
+13. 50" 14. Modern method. Ketaki Jyotirganita.
 
-Chaitra Suddba Pradhama. 9. Saliyabana śaka (elapsed) begins 
-
-on Chaitra Suddha Pradhama. 
 
 9. 
 
