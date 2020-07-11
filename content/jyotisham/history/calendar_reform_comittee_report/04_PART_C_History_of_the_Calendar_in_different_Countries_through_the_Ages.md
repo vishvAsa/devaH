@@ -3,378 +3,32 @@ title = "04 PART C History of the Calendar in different Countries through the Ag
 
 +++
 
-BY 
+## Intro
+BY Prof. M. N. SAHA, D. SC., F. R. S. Professor Emeritus, University of Calcutta, Chairman, Calendar Reform Committee,  
+AND  
+Sri N. C. LAHIRI, M. A. Secretary, Calendar Reform Committee.  
 
-Prof. M. N. SAHA, D. SC., F. R. S. Professor Emeritus, University of Calcutta, 
+{{< figure src="../images/world_timeline.png" title="Chronology" class="thumbnail">}}
 
-Chairman, Calendar Reform Committee, 
+## General Principles of Calendar Making 
 
-AND 
+### 1.1 INTRODUCTION 
 
-Sri N. C. LAHIRI, M. A. Secretary, Calendar Reform Committee. 
+#### Time indicators
+The Flux of Time, of which we are all conscious, is apparently without beginning or end, but it is cut up periodically by several natural phenomena, viz. : 
 
-CHRONOLOGICAL TABLE 
-
-INDIA 
-
-IRAN 
-
-MESOPOTAMIA 
-
-SYRIA 
-
-EGYPT 
-
-ASIA MINOR GREECE 
-
-ITALY & EUROPE 
-
-\-3500 
-
-1-3500 
-
-\-3000 
-
-\--3000 
-
-\- INDUS ------ 
-
-VALLEY CIVILISATION 
-
-SUMER 
-
-ELAM 
-
-SOTHIC CYCLE 
-
-\-2500 H 
-
-\- 
-
-\- 
-
-\- 
-
-\- 
-
-\- 
-
-\-2500 
-
-\- 
-
-\- 
-
-\- 
-
-\- 
-
-\- 
-
-\- 
-
-\- 
-
-VEDIC PERIOD 
-
-AKKAD 
-
-PYRAMIDS OLD KINGDOM 
-
-\-2000 
-
-\---------------- MIDDLE KINGDOM ------ 
-
-\- 
-
-\-- 
-
-\--- 
-
-\- 
-
-\-- 
-
-\- 
-
-\- 
-
-\- 
-
-\-- 
-
-\- 
-
-\- 
-
-\- 
-
-\- 
-
-\- 
-
-\-2000 
-
-| CRETE 
-
-HAMMURAB] 
-
-KASSITES 
-
-HYK SOS 
-
-\-1500 
-
-\- 
-
-\- 
-
-\- 
-
-\- 
-
-\- 
-
-\- 
-
-\- 
-
-\- 
-
-\-- 
-
-\- 
-
-\- 
-
-\- 
-
-\- 
-
-\- 
-
-\- 
-
-\- 
-
-\- 
-
-\- 
-
-\- 
-
-\- 
-
-\----- HTITES 
-
-H-1500 
-
-VEDANGA CALENDAR 
-
-NEW KINGDOM 
-
-HOMERIC GREEKS 
-
-\-1000 
-
-\- 
-
-\- 
-
-\- 
-
-\- 
-
-\- 
-
-\- 
-
-\---- 
-
-\- 
-
-\-- 
-
-\- 
-
-\-- 
-
-\- 
-
-\- 
-
-\- 
-
-\-- 
-
-H-1000 
-
-\-5001 
-
-\-500 
-
-ASSYRIA 
-
-GREEK NABONASSAR 
-
-ALPHABET | CHALDEAN 
-
-OLYMPIC FOUNDATION 
-
-ERA 
-
-OF ROME BUDDHA (ACH E MENI, 
-
-\----HITALIAN 
-
-GREEK EMPIRE 
-
-CITY STATES 
-
-CITY STATES MAURYA 
-
-PTOLEMAIC BACTRIAN 
-
-SELEUCID EMPIRE 
-
-DYNASTY 
-
-ALEXANDER GREEK 
-
-PARTHIAN EMPIRE , 
-
-HIPPARCHUS SAKA 
-
-| CAESAR ----CHRIST-FE M PIRE-OF-R6 MỀ KUSHAN 
-
-. . PTOLEMAIOS) GUPTA SASSANID EMPIRE ABYABHAJA-- 
-
-BYZANTINE EMPIRE END OF ROMAN 
-
-EMPIRE MEDIEVAL DYNASTIES 
-
-DARR AGE 
-
-500 
-
-\------- 
-
-\--- 
-
-\---- 
-
-\--- 
-
-500 
-
-ISLAMIC CALIPHATTE 
-
-1000 
-
-1000 
-
-BHASKARA ISLAMIC PERIOD 
-
-RENAISSANCE 
-
-1500 
-
-\-- 
-
-\- 
-
-\- 
-
-\- 
-
-\- 
-
-\- 
-
-\- 
-
-\- 
-
-\- 
-
-\- 
-
-\- 
-
-\- 
-
-\- 
-
-\-- 
-
-\- 
-
-\- 
-
-\- 
-
-\- 
-
-\- 
-
-\- 
-
-\- 
-
-\- 
-
-\- 
-
-\- 
-
-\- 
-
-+ + 
-
-\- 
-
-\- 
-
-1500 
-
-AKBAR 
-
-COPERNICUS GREGORY IN GALLEO NEWTON INDUSTRIAL REVOLUTION 
-
-BRITISH PERIOD 
-
-2000LLI 
-
-J 2000 
-
-CHAPTER I 
-
-General Principles of Calendar Making 
-
-sons are 
-
-1.1 INTRODUCTION The Flux of Time, of which we are all conscious, is apparently without beginning or end, but it is cut up periodically by several natural phenomena, viz. : 
-
-(1) by the ever-recurring alternation of daylight 
-
-and night, (2) by the recurrence of the moon's phases, (3) by the recurrence of seasons. 
+- (1) by the ever-recurring alternation of daylight and night, 
+- (2) by the recurrence of the moon's phases, 
+- (3) by the recurrence of seasons. 
 
 It is these recurring phenomena which are used to measure time. 
 
 These phenomena have the greatest importance for man, for they determine all human and animal life. Even prehistoric men could not help. noticing these time-periods, and their effect on life. 
 
-When human communities started organized social life in the valleys of the Indus and the Ganges (India), the Nile (Egypt),, the Tigris and the Euphrates fMesopotamia) and the Hoang Ho (China), several millenia before Christ (vide Chronological Table), these phenomena acquired new importance. For these early. societies were founded on agriculture ; and agricultural practices depend on seasonal weather conditions. With these practices, therefore, grew national and religious festivals, necessary for the growth of social life, and of civilization. People wanted to know in advance when to expect the new moon or the full moon, when most of the ancient festivals were celebrated ; when to expect the onset of the winter or the monsoon ; wheri to prepare the ground for sowing ; the proper time for sowing and for harvesting Calendars are nothing but predictions of these events, and were early framed on the basis of past experiences. 
+#### Agriculture
+When human communities started organized social life in the valleys of the Indus and the Ganges (India), the Nile (Egypt), the Tigris and the Euphrates of Mesopotamia) and the Hoang Ho (China), several millenia before Christ (vide Chronological Table), these phenomena acquired new importance. For these early societies were founded on agriculture ; and agricultural practices depend on seasonal weather conditions. With these practices, therefore, grew national and religious festivals, necessary for the growth of social life, and of civilization. People wanted to know in advance when to expect the new moon or the full moon, when most of the ancient festivals were celebrated ; when to expect the onset of the winter or the monsoon ; when to prepare the ground for sowing ; the proper time for sowing and for harvesting Calendars are nothing but predictions of these events, and were early framed on the basis of past experiences. 
 
-* The Day* : The day, being the smallest unit, has been taken as the fundamental unit of time and the lengths of months, the year and the seasons are expressed in terms of the day as the unit. 
-
-But the day is to be defined. Many early riations defined the day as the time-period between sunrise to sunrise (sāvana day in India) or sunset to sunset (Babylonians and Jews). But the length of the day, so defined, when measured with even the rough chronometers of early days, was found to be variable. This is due to the fact that except at the equator, the sun does not rise or set at the same time in different seasons of the year. So gradually the practice arose of defining the day as the period from midnight to midnight, i. e., when the sun is at the nadir to its next passage through the 'nadir. Even then the length of the day is found to be variable when measured by an accurate chronometer. The reasons are set forth in all astronomical text books. Then came the idea of the mean solar day, and it is now taken as the funda mental unit of time. The mean solar day is the average interval between the two successive passages of the sun over the meridian of a place derived from a very large number of observations of such meridian passages. The time between two passages is measured by an accurate chronometer. 
-
-In addition to the solar day, the astronomers define also a sidereal day, which is the time period between two successive transits of a fixed star. It measures the time of rotation of the earth round its axis.f 
-
-The solar day is larger than the sidereal day, because by the time the earth completes a rotation about its axis, the sun slips nearly a degree to the east. due to the motion of the earth in its orbit, and it takes a little more time for the sun to come to the 
-
-1.2 THE NATURAL PERIODS OF TIME 
-
+### Natural periods of time
 The three events mentioned in (1), (2) and (3) above define the natural divisions of time. They are : 
 
 The Day: defined by the alternation of daylight and night. 
@@ -383,15 +37,27 @@ The Month : the complete cycle of moon's changes of phase, from end of mew-moon 
 
 The Year : and its smaller subdivisions, viz., the seasons. 
 
-* Day here means 'Day and Night. In ancient times, the duration of day-light from sunrise to sunset, and of the night from sunset to sunrise, were measured separately with the aid of water clocks. It was comparatively late that the length of the Day, meaning day-light and night, was measured. It was distinguished by the term ahorātra in Sanskrit, ahna meaning daylight time, and rātri meaning night time. In Greece, this was known as Nychthemeron. 
+#### The Days
+The day, being the smallest unit, has been taken as the fundamental unit of time and the lengths of months, the year and the seasons are expressed in terms of the day as the unit. 
 
-† Actually speaking, the sidereal day is defined in astronomy as the period between two successive meridian passages of the First point of Aries. As this point has a slow westward motion among the fixed stars, the duration of the so called sidereal day is very slightly less than the actual sidereal day or the period of rotation of the earth. 
++++(* Day here means 'Day and Night'. In ancient times, the duration of day-light from sunrise to sunset, and of the night from sunset to sunrise, were measured separately with the aid of water clocks. It was comparatively late that the length of the Day, meaning day-light and night, was measured. It was distinguished by the term ahorātra in Sanskrit, ahna meaning daylight time, and rātri meaning night time. In Greece, this was known as Nychthemeron. )+++
 
-158 
+But the day is to be defined. Many early riations defined the day as the time-period between sunrise to sunrise (sāvana day in India) or sunset to sunset (Babylonians and Jews). But the length of the day, so defined, when measured with even the rough chronometers of early days, was found to be variable. This is due to the fact that except at the equator, the sun does not rise or set at the same time in different seasons of the year. So gradually the practice arose of defining the day as the period from midnight to midnight, i. e., when the sun is at the nadir to its next passage through the nadir. Even then the length of the day is found to be variable when measured by an accurate chronometer. The reasons are set forth in all astronomical text books.
 
-meridian of the place. We have the relation : 3651 mean solar days=3661 sidereal days. Rotation of the earth = 23h 56m 45.100 mean solar time. Sidereal day 
+##### Solar day
+Then came the idea of the mean solar day, and it is now taken as the fundamental unit of time. The mean solar day is the average interval between the two successive passages of the sun over the meridian of a place +++(example overhead)+++ derived from a very large number of observations of such meridian passages. The time between two passages is measured by an accurate chronometer. 
 
-=23 56 4.091 „ „ Mean solar day =24 3 56. 555 sidereal time 
+##### Siderial day
+In addition to the solar day, the astronomers define also a sidereal day, which is the time period between two successive transits of a **fixed star**. +++(ie time for distant stars to appear in the same position in the sky)+++ It measures the time of rotation of the earth round its axis.
+
++++(† Actually speaking, the sidereal day is defined in astronomy as the period between two successive meridian passages of the First point of Aries. As this point has a slow westward motion among the fixed stars, the duration of the so called sidereal day is very slightly less than the actual sidereal day or the period of rotation of the earth.)+++ 
+
+The solar day is larger than the sidereal day, because by the time the earth completes a rotation about its axis, the sun slips nearly a degree to the east due to the motion of the earth in its orbit, and it takes a little more time for the sun to come to the meridian of the place. We have the relation : 
+
+- 365.25 mean solar days=366.75 sidereal days. 
+- Rotation of the earth = 23h 56m 45.100 mean solar time. 
+- Sidereal day = 23 56 4.091 „ „ 
+- Mean solar day = 24 3 56. 555 sidereal time 
 
 The actual sidereal day, which measures the period of rotation of the earth is generally taken to be cons tant. The variable part of the solar day comes from two factors : 
 
