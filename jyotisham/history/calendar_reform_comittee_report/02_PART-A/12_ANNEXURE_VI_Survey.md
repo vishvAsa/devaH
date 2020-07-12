@@ -59,8 +59,8 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 5. Paturi Subbaraya Sastry & Paturi Sri Rama Murthy. 
 - 6. Nirayana. 
 - 7. Luni-Solar. 
-- 8. Chaitra Suddha Pradhama. 
-- 9. Salivahana Saka (elapsed) begins on Chaitra Suddha Pradhama. 
+- 8. Chaitra śuddha Pradhama. 
+- 9. Salivahana Saka (elapsed) begins on Chaitra śuddha Pradhama. 
 - 10. Chaitra, Vaishaka, Jyestha, Asadba, Sravana, Bhadrapada, Agwayuja ,Kartika, Margasira, Pushya, Magha, Phalguna. 
 - 11. 365d 15g 31 vg 
 - 12. 23° 12' 4" 
@@ -609,7 +609,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 13. 50" 13." 95 
 - 14. Modern methood. Ketaki and Grahalaghavi.
 
-### 1. Joshi Girijasankar Harisankar's Suddha Panchang. 
+### 1. Joshi Girijasankar Harisankar's śuddha Panchang. 
 - 2. 1912 A.D. 
 - 3. Gujrati. 
 - 4. Sankadi Sheri Hajirani Pole, Ahmedabed. 
