@@ -1,6 +1,7 @@
 ---
-title: तद् वः गाय
+title: तद् वो गाय
 unicode_script: devanagari
+practice_weight: 0
 ---
 
 
