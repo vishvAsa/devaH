@@ -42,6 +42,11 @@ theory about the diurnal motion of the earth in the following verse :  "प्�
 - भूपरिधि-दलान्तरगाः के नृछाये यथा तथोर्ध्वम् अधः । सर्वेषम् उपरि नभस् तद् अधो भूर उपरि ते भूमेः ॥ "Those who are situated at have the Earth's circumference are above and below each other like the shadow of a man. Above all this is the atmosphere. Below that is the earth on top of which are the earthlings." 
 - तरु-नग-नगर-सुर-नरैर् अयङ् केसरैर् इव समन्तात् । गोलः कादम्बो मधुकरीभिर् इव सर्वतः प्रचितः ॥ "This [earth] covered all over with forests, mountains, cities, gods and men is like the spherical kadamba flower with anthers and bees all around it."
 
+## shankarAchArya 800CE
+- "उदयश्च नाम सवितुः तन्निवासिनां प्राणिनां चक्षुर्गोचरापत्तिः, तदत्ययश्च अस्तमनम् ; न परमार्थत उदयास्तमने स्तः ।"  Chandogya Up. Bh.3.8.4.
+- भूच्छायां नैशं तम उपाचरन्ति। [TW](https://twitter.com/kumar856/status/1282167950384848896)
+
+
 ## pRthUdaka-svAmI  864 CE
 - He was a chaturvedin son of madhusUdana bhaTTa.
 - "भ-पञ्जरः स्थिरः । भूर् एवावृत्यावृत्य प्रति-दैवसिकौ उदयास्तमयौ सम्पादयति नक्षत्र-ग्रहाणाम् । आचार्यार्यभटेन+अपि भू-भ्रमणम् अभ्युपगतम्: “प्राणेनैति कलां भूः ।"" - "The celestial sphere is stationary. Only the earth keeps rotating and rotating, once everyday, causing the rising and setting of the stars and planets. The earth's rotation had been accepted by professor Aryabhata: "the earth rotates by the angle of a kala in unit of time of a prāņa"".
