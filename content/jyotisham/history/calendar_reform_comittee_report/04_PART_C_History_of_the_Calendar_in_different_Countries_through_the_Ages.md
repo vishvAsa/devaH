@@ -148,6 +148,7 @@ A clock regularly running and dividing the day into periods of equal duration wo
 But even in ancient times, the need for measure ment of equal intervals of time was felt. · The ancient -**Babylonians** used the Nychthemeron (Day and Night combined = **Ahorātra**) into **12 hours of 30 Gesh each**, Gesh being=4 minutes. The **Egyptians** divided the **day light** time into **12 hours**, and **the night into 12 hours**. Later in medieval times, the **24-hour division** for the whole day (day and night) has been adopted. The **division into A.M. and P.M.** were for the sake of convenience, so that the maximum number of times a bell has to be rung, on the completion of an hour, would not exceed 12, for apparently ringing a bell 24 times would be a torture of the flesh. 
 
 #### Hindu divisions
+##### prahara and muhūrta
 The broad divisions of the day were secured by the Hindus in two ways. They divided the **day**-time (from sunrise to sunset) into **4 equal parts** each called a **prahara** or **yāma**. The **night** time was also similarly divided into **4 equal praharas**. The prahara is so popular a unit in Indian time measurement that even the lay man expresses time in terms of praharas and half praharas. 
 
 An alternative systein of division of the time is the muhurta obtained by dividing the **daytime** into **15 muhūrtas determined by gnomon shadow lengths**. The day muhurtas were measured from lengths of shadows of the gnomon. The **night muhurtas** are similarly the fifteenth part of the night time. 
@@ -159,89 +160,71 @@ As the durations of day and night are not equal except on the vernal and autumna
 
 The Hindu astronomers appear to have switched on to the **ahorātra** during Vedānga Jyotiṣa times. As it is rather complicated, we do not give an account of it. The reader may consult Dixit's Bharatīya Jyotiśāstra. But in Siddhānta Jyotiṣa, they had a full-fledged scientific system. 
 
-The scientific divisions of time followed by the Siddhāntas are the **ghaṭikā (danda or nāļi)**, prahara or yāma, and muhūrta etc. The day is measured from sunrise and the period from sunrise to next sunrise is divided into 60 equal .ghatikās' or dandas ; each ghati is subdivided into 60 vighatis or palas, and each vighatī or pala into 60 vipalas. So a day consists of 60 ghatis or 3600 palas or 216000 vipalas. Thus 
+##### ghaṭikā
+The scientific divisions of time followed by the Siddhāntas are the **ghaṭikā (daṇḍa or nāļi)**, prahara or yāma, and muhūrta etc. The day is measured from sunrise and the period from sunrise to next sunrise is divided into 60 equal ghaṭikās' or daṇḍas ; each ghaṭi is subdivided into 60 **vighaṭis or palas**, and each vighatī or pala into 60 **vipalas**. So a day consists of 60 ghaṭis or 3600 palas or 216000 vipalas. Thus 
 
-1 ghatikā=24m 08.0 1 pala = 0 24.0 1 vipala = 0 0.4 
+- 1 ghaṭikā = 24m
+- 1 pala = 0m 24s.0 
+- 1 vipala = 0m 0.4s 
 
-The pala or vighati is sometimes subdivided into 6 divisions called a 'prāna'. A prāna is therefore equi valent to 4 secs, of time. There are 360 prānas in a ghatékā and the day contains 360 x 60 or 21600 prānas, 
+The pala or vighaṭi is sometimes subdivided into 6 divisions called a 'prāna'. A prāna is therefore equi valent to 4 secs, of time. There are 360 prānas in a ghaṭikā and the day contains 360 x 60 or 21600 prānas, the same as the number of **minutes ( kala or liptika ) in a circle**. In Siddhāntas (astronomical treatises of the Hindus) there are conceptions with nomenclatures of still smaller divisions of time, but they had no practical utility. 
 
-the same as the number of **minutes** ( **kala or liptika** ) in a circle. In Siddhāntas (astronomical treatises of the Hindus) there are conceptions with nomenclatures of still smaller divisions of time, but they had no practical utility. 
+None of the time-periods of the sun, and the moon, viz., the year and the season, and the lunations and half-lunations are integral multiples of the day ; on the other hand, the figures run to several places of decimals. How did the ancients, who quickly discovered that the time-periods were not integral multiples of the day, express their findings? 
 
-None of the time-periods of the sun, and the moon, viz., the year and the season, and the lunations and half-lunations are integral multiples of the day ; on the other hand, the figures run to several places of decimals. How did the ancients, who quickly dis covered that the time-periods were not integral multi ples of the day, express their findings? 
+##### Decimal notation
+It will take us a long dive into the history of mathematical notation to elucidate this story. The curious reader may consult Neugebauer's Exact Sciences in Antiquity or van der Waerden's Science Awakening (pp.51-61). In fact, the symbolism was very cumbrous before the discovery of the **decimal notation** about 600 A.D. in India, where it quickly replaced the old cumbrous notation. The discovery was quickly adopted by the Arabs for certain purposes, but was first made known to Europe by Leonardo of Pisa in a treatise on Arithmetic published in 1202 A.D., but a few more centuries passed before it was universally adopted. 
 
-It will take us a long dive into the history of mathematical notation to elucidate this story. The curious reader may consult Neugebauer's Exact Sciences in Antiquity or van der Waerden's Science Awakening (pp.51-61). In fact, the symbolism was very cumbrous before the discovery of the decimal notation about 600 A.D. in India, where it quickly replaced the old cumbrous notation. The discovery was quickly adopted by the Arabs for certain purposes, but was first made known to Europe by Leonardo of Pisa in a treatise on Arithmetic published in 1202 A.D., but a few more centuries passed before it was universally adopted. 
+The practice of **expressing fractions by means of decimals** came later, both in India and Europe. In India, an astronomer who wrote an astronomical treatise called 'Bhāsvatī' in 1099 A. D. was called śatānanda, (c.e., revelling in hundreds) because he used to write fractions in hundredths i.e. 1 as 25 hundredths, as 75 hundredths. In Europe, the expression of fractions by decimals came into vogue about the seventeenth century. 
 
-The practice of expressing fractions by means of decimals came later, both in India and Europe. In India, an astronomer who wrote an astronomical treatise called 'Bhāsvatī' in 1099 A. D. was called Satānanda, (c.e., revelling in hundreds) because he used to write fractions in hundredths i.e. 1 as 25 hundredths, as 75 hundredths. In Europe, the expression of fractions by decimals came into vogue about the seventeenth century. 
-
-The Hindu astronomer of the Siddhantic age expressed the periods of the sun, the moon and the planets by the number of their periods in a Mahayuga (4.32 x 100 years). The number is usually integral. 
+##### mahāyuga system
+The Hindu astronomer of the Siddhantic age expressed the periods of the sun, the moon and the planets by the number of their periods in a **Mahayuga** (4.32 x 100 years). The number is usually integral. 
 
 But how did this cumbrous system originate ? 
 
-Probably many of these values were obtained by counting the number of days between a large number of periods and dividing them by the number of periods. For example, take the case of the length of the mean lunation (lunar month). All ancient nations give this length correct to a large number of decimals. This must have been obtained by counting the number of days between two new moons, separated by a large number of years, and dividing it by the number of lunations contained in the interval. Of course, tha utmost they could have done was to keep records for at most a hundred years, but the rule of three was always available. 
+Probably many of these values were obtained by counting the number of days between a large number of periods and dividing them by the number of periods. For example, take the case of the length of the mean lunation (lunar month). All ancient nations give this length correct to a large number of decimals. This must have been obtained by counting the number of days between two new moons, separated by a large number of years, and dividing it by the number of lunations contained in the interval. Of course, the utmost they could have done was to keep records for at most a hundred years, but the rule of three was always available. 
 
-In the following sections, the different ways of tackling the calendar problem in different centres of 
+### Foreview
+#### Solar calendars
+In the following sections, the different ways of tackling the calendar problem in different centres of civilization have been described. We have described in Chap. II, the **purely solar calendars**, in which the moon is altogether discarded as a time-marker. This practice originated in Egypt about 3000 B.C. These calendars require only a correct knowledge of the length of year, and are therefore comparatively simpler. They required very little or **almost no knowledge of astronomy**. 
 
+#### Luni-Solar calendars
+We have described in Chap. III, the luni-solar calendars, prevalent in ancient Mesopotamia, India, China and most other countries. In these calendars, both the sun and the moon are used as time-markers, and therefore precise knowledge of their motion in the heavens was essential for the formulation of a correct calendar. We mark **two stages** ; first the formulation of a calendar from a knowledge of only the length of the year, and of the **mean lunar month**. This was an older phase. It did not work satisfactorily, because it depended on the mean motion of the two luminaries. Actually, the time-predictions have to be verified by actual comparison of the predicted happenings (say of the vernal equinox day in the case of the sun, or the first appearance of the crescent of the moon after new moon on the western horizon) with the time of actual happenings. This gave rise to the need for watching the daily motion of the two luminaries, and invention of methods for recording and storing these observations ; in other words, this led to the science of astronomy. **Early astronomy is almost completely calendarical**. At a later stage, the five planets attracted attention, on account of their association with astrology. 
 
+#### Further chapters
+We have therefore devoted Chap. IV to **calendaric astronomy**, which was evolved by the Chaldeans, and taken over from them by the Greeks, and in time diffused to other countries. 
 
-GENERAL PRINCIPLES OF CALENDAR MAKING 
+In Chap. V, we have described the various stages of the development of the **Indian calendar** :--the **empirical stage** (Rg-Vedic), the **mean motion stage** (Vedanga Jyotiṣa), and the **scientific stage** (Siddhānta Jyotiṣa). From 1200 A.D., astronomical studies became decadent in India, and we have analysed the **cause of decadence**. We have given a **full account of precession**, as most Indian calendar makers still believe in the false theory of **Trepidation** which disappeared from Europe after 1687 A. D. 
 
-161 
+### AHARGANA OR HEAP OF DAYS : JULIAN DAYS 
+#### Ambiguity in calendar dates
+Though the Flux of Time is a continuous process, it is divided for the sake of convenience and for natural reasons too, into years, months and days. The years are mostly counted from the beginning of an era, so that if we wish to date a memorable event, say the birth day of George Washington, it can be seen from an inspection of his birth register that it took place on Feb.11, of the year 1732. But this practice by itself does not enable a scientific chronologist to fix up the event unambiguously on the absolute Scale of Time, unless the whole history of the particular method of date-recording is completely and accurately known. One must know the lengths of the individual months, the leap-year rules, and the history of calendar reform. In the particular case mentioned, though George Washington. according to his birth register is stated to have been **born on Feb. 11, 1732, his birth-day is celebrated on Feb. 22**. Why? Because Feb. 11 was the date according to the Julian calendar. But in 1752, England (America was then a colony of England) adopted the reformed Gregorian calendar, and by an Act of Parliament, declared Sept. 3 to be Sept.14, a difference of 11. days. Following the Gregorian calendar, Washington's birth-day had to be shifted to Feb. 22. A scientific chronologist, say of China, would find it **difficult to locate Washington's birth-day unless he knew the whole history of the Gregorian calendar**. 
 
-civilization have been described. We have described in Chạp. II, the purely solar calendars,, in which the moon is altogether discarded as a time-marker. This practice originated in Egypt about 3000 B.C. These calendars require only a correct knowledge of the length of year, and are therefore comparatively simpler. They required very little or almost no knowledge of astronomy. 
-
-We have described in Chap. III, the luni-solar calendars, prevalent in ancient Mesopotamia, India, China and most other countries. In these calendars, both the sun and the moon are used as time-markers, and therefore precise knowledge of their motion in the heavens was essential for the formulation of a correct calendar. We mark two stages ; first the formulation of a calendar from a knowledge of only the length of the year, and of the mean lunar month. This was an older phase. It did not work satisfactorily, because it depended on the mean motion of the two luminariés. Actually, the time-predictions have to be verified by actual comparison of the predicted happenings (say of the vernal equinox day in the case of the sun, or the first appearance of the crescent of the moon after new moon on the western horizon) with the time of actual happenings. This gave rise to the need for watching the daily motion of the two luminaries, and invention of methods for recording and storing these observations ; in other words, this led to the science of astronomy. Early astronomy is almost completely calendarical. At a later stage, the five planets attracted attention, on account of their association with astrology. 
-
-We have therefore devoted Chap. IV to calendaric astronomy, which was evolved by the Chaldeans, and taken over from them by the Greeks, and in time diffused to other countries. 
-
-In Chap. V, we have described the various stages of the development of the Indian calendar :--the empiri cal stage (Rg-Vedic), the mean motion stage (Vedanga 
-
-Jyotiṣa), and the scientific stage (Siddhānta Jyotiṣa). From 1200 A.D., astronomical studies became decadent in India, and we have analysed the cause of decadence, We have given a full account of precession, as most Indian calendar makers still believe in the false theory of Trepidation which disappeared from Europe after 1687 A. D. 
-
-say the birth day of George Washington, it can be seen from an inspection of his birth register that it took place on Feb.11, of the year 1732. But this practice by itself does not enable à scientific chrono logist to fix up the event unambiguously on the absolute Scale of Time, unless the whole history of the particular method of date-recording is completely and accurately known One must know the lengths of the individual months, the leap-year rules, and the history of calendar reform. In the particular case mentioned, though George Washington. according to his birth register is stated to have been born on Feb. 11, 1732, his birth-day is celebrated on Feb. 22. Why? Because Feb. 11 was the date according to the Julian calendar. But in 1752, England (America was then a colony of England) adopted the reformed Gregorian calendar, and by an Act of Parliament, declared Sept. 3 to be Sept.14, a difference of 11. days. Following the Gregorian calendar, Washington's birth-day had to be shifted to Feb. 22. A scientific chronologist, say of China, would find it difficult to locate Washington's birth-day unless he knew the whole history of the Gregorian calendar. 
-
-This difficulty is more pronounced when we have to deal a luni-solar calendar, say that of Babylon. Many records of lunar eclipses occuring in Babylon were known to the Alexandrian astronomer, Claudius Ptolemy, but they were dated in Seleucidean era, and Babylonian months, say year 179, 10th of Nisan. Now the Babylonian months were lunar, had lengths of 29 or 30 days, but the year could have lengths of 353, 354 383, 384 ( vide $ 33.). Therefore when two eclipse datings were compared, it was impossible to calculate the number of days between them, unless the investi gator had before him a record showing the lengths of years and months between the two events. Ptolemy expressed his datings according to the Egyptian calen dar, which enables one to calculate the interval far more easily. He must have taken lot of pains to carry out the conversion from the Babylonian to Egyptian dates. 
+This difficulty is more pronounced when we have to deal a **luni-solar calendar**, say that of Babylon. Many records of lunar eclipses occuring in Babylon were known to the Alexandrian astronomer, **Claudius Ptolemy**, but they were dated in **Seleucidean era**, and **Babylonian months**, say year 179, 10th of Nisan. Now the Babylonian months were lunar, had lengths of 29 or 30 days, but the year could have lengths of 353, 354 383, 384 ( vide $ 33.). Therefore when two eclipse datings were compared, it was impossible to calculate the number of days between them, unless the investigator had before him a record showing the lengths of years and months between the two events. Ptolemy expressed his datings according to the **Egyptian calendar**, which enables one to calculate the interval far more easily. He must have taken lot of pains to carry out the conversion from the Babylonian to Egyptian dates. 
 
 How much better it would have been if a great genius at the beginning of civilization, say near about 3000 B.C., started with a zero day, and started the practice of dating events by the number of days elapsed since this zero date, to the date when this particular event took place. Such a great genius did not appear and a confusing number of calendars came into existence. The scientific chronologist is now faced with the reverse problem : Suppose two ancient or medieval events are found dated according to two different calendars. How to reduce these dates to an absolute chronological scale ? 
 
-For this purposer a medieval French scholar, Joseph Scaliger introduced in 1582 A.D., a system known as 
+#### Julian days
+For this purposer a medieval French scholar, Joseph Scaliger introduced in 1582 A.D., a system known as 'Julian Days' after his father, Julius Scaliger. The Julian period in years is `7980 years - 19x 28 x 15` 
+  -19 being the length in years of the Metonic Cycle +++(rough period when phases of the moon recur on the same day of the tropical year)+++, 
+  - 15 being the length in years of the Cycle of Indiction +++(= proclamation made every 15 years in the later Roman Empire, fixing the valuation of property to be used as a basis for taxation)+++, and 
+  - 28 being the length in years of the +++(old Julian calendar)+++ Solar Cycle +++(when weekdays repeat as (365*28+7)/7 is a whole number)+++. 
 
-. 
+It was found by calculation that these three cycles started together on Jan. 1, 4713 B.C. So the Julian, period as well as the Julian day numbers started from that date. The Julian period is intended to include all dates both in the past and in the future to which reference is likely to be made and to that extent it has an advantage over an era whose epoch lies within the limits of historical time. The years of the Julian period are seldom employed now, but the day of the Julian period is frequently used in astronomy and calendaric tables. Unlike the civil day, the Julian day. number is completed at noon. 
 
-uales, 
+Let us give the Julian days for a number of world events, as given by Ginzel, in his Handbuch der Mathe matischenund Technischen Chronologie. 
 
-1.5 AHARGANA OR HEAP OF DAYS : JULIAN DAYS 
+Table 1---Julian day numbers.  
 
-Though the Flux of Time is a continuous process, it is divided for the sake of convenience and for natural reasons too, into years, months and days. The years are mostly .counted from the beginning of an era, so that if we wish to date a memorable event, 
-
-162 
-
-'Julian Days' after his father, Julius Scaliger. The Julian period in years is .. 
-
-7980 years - 19x 28 x 15 19 being the length in years of the Metonic Cycle, 15 „ „ „ „ of the Cycle of Indiction, and 28. 
-
-of the Solar Cycle.. It was found by calculation that these three cycles started together on Jan. 1, 4713 B.C. So the Julian, period as well as the Julian day numbers started from that date. The Julian period is intended to include all dates both in the past and in the future to which refe rence is likely to be made and to that extent it has an advantage over an era whose epoch lies within the limits of historical time. The years of the Julian period are seldom employed now, but the day of the Julian period is frequently used in astronomy and calendaric tables. Unlike the civil day, the Julian'day. number is completed at noon. 
-
-Let us give the Julian days for a number of world events, as given by Ginzel, in his Handbuch der Mathe matischen und Technischen Chronologie. 
-
-i 
-
-i 
-
-Table 1---Julian day numbers. 
-
-Date 
-
-Julian day 
-
-Kaliyuga 
-
-17 February, 3102 B.C. ... 588,465 Nabonassar 26 February, 747 B.C. 1,448,638 Philippi 
-
-... 12 November, 324 B.C. 1,603,398 śaka era ... 15 March, 78 A.D. 1,749,621 Diocletian ... 29 August, 284 A.D. 1,825,030 Hejira ... 16 July, 622 A.D. 1,948,440 Jezdegerd ... 16 June, 632 A.D. 1,952,063 
-
-(Persian) Burmese era ... 21 March, 638 A.D. 1,954,167 Newar era ... 20 October, 879 A.D. 2,042,405 Jelali era ... 15 March, 1079 A.D. 2,115,236 
-
-(Iran) 
+- Kaliyuga 17 February, 3102 B.C. ... 588,465 
+- Nabonassar 26 February, 747 B.C. 1,448,638 
+- Philippi ... 12 November, 324 B.C. 1,603,398 
+- śaka era ... 15 March, 78 A.D. 1,749,621 
+- Diocletian ... 29 August, 284 A.D. 1,825,030 
+- Hejira ... 16 July, 622 A.D. 1,948,440 
+- Jezdegerd (Persian) ... 16 June, 632 A.D. 1,952,063 
+- Burmese era ... 21 March, 638 A.D. 1,954,167 
+- Newar era ... 20 October, 879 A.D. 2,042,405 
+- Jelali (Iran) era ... 15 March, 1079 A.D. 2,115,236  
 
 It may be mentioned here that the ideas underlying continuous reckoning of days occurred much earlier to the celebrated Indian astronomer, Aryabhata I (476 525 A.D.), who introduced it under the designation "Ahargana" or heap of days in his celebrated Arya bhatiya. The idea of counting ahargana or heaps of days elapsed from a specified epoch upto the given date dawned upon the Hindu astronomers as a necessity for calculating the position of planets for that date. They followed the cumbrous luni-solar calendar for dating purposes, which was not based upon any simple rules. It contains months of 29 or 30 days, and occasionally a thirteenth month, the recurrence of which was deter mined by elaborate methods. The dates of the months are not numbered serially, but designated by the tithi current at sunrise. It was accordingly found almost impossible to work out the mean positions of planets on the basis of the luni-solar calendar alone. 
 
@@ -6295,7 +6278,7 @@ The Orissa rule : In Orissa the solar months of the Amli and Vilayati eras begin
 
 The Tamil rule : In the Tamil districts the rule is that when a saṁkrānti takes place before sunset, the month begins on the same day, while if it takes place after sunset the month begins on the following day.. 
 
-The Malabar rule: The rule observed in the North and South-Malayalam country is that, if the samkranti takes place between sunrise and 18 ghatikās 17h 12) or more correctly fth of the duration of day from sunrise (about 1-12 P.M.) the month begins on the same day, otherwise it begins on the following day. 
+The Malabar rule: The rule observed in the North and South-Malayalam country is that, if the samkranti takes place between sunrise and 18 ghaṭikās 17h 12) or more correctly fth of the duration of day from sunrise (about 1-12 P.M.) the month begins on the same day, otherwise it begins on the following day. 
 
 It will be observed that as a result of the different conventions combined with the incorrect month lengths of the Sarya Siddhānta we are faced with the following problems 
 
@@ -9845,7 +9828,7 @@ Christian, 126; Chedi (Kallcurs), 258 ;
 
 general rules for, 101; . 
 
-Dakpiņāyana, 189, 219, 228, 239, 260 Danda (=p&di or ghatka), 160 Darius I, Achemenid emperor, 166, 178, 212, 
+Dakpiņāyana, 189, 219, 228, 239, 260 daṇḍa (=p&di or ghatka), 160 Darius I, Achemenid emperor, 166, 178, 212, 
 
 256 Day, 
 
@@ -9873,7 +9856,7 @@ dates of, 119-124, Moslem, 125; Solar-general rules for, Iva;
 
 dates of, 117-118; South Indian-general rules for 106; Fotheringham, Dr. J. K., 165 
 
-Galilio. 159 Gándhára, 225, 226, 229, 230; latitude of 225 Ganeśa Caturthī, 108 Ganges, river, 157 Gangooly, P. L., 238 Garga, 226; receding of solstices, 226 Garga Samhita, 226 Gargasrota, river, 226 Gauna (måna), 247, 248 Geminua, 197 General Astronomy, 158 Geocentric theory, 204, 239 George Washington, birthday of, 161 Geah (division of time), 160 Ghatika, 160 Ghirshman, 232 Ginzel, F. K. 162, 193 Gnomon, 159, 174, 188, 189, 202, 219, 223, 268; 
+Galilio. 159 Gándhára, 225, 226, 229, 230; latitude of 225 Ganeśa Caturthī, 108 Ganges, river, 157 Gangooly, P. L., 238 Garga, 226; receding of solstices, 226 Garga Samhita, 226 Gargasrota, river, 226 Gauna (måna), 247, 248 Geminua, 197 General Astronomy, 158 Geocentric theory, 204, 239 George Washington, birthday of, 161 Geah (division of time), 160 ghaṭika, 160 Ghirshman, 232 Ginzel, F. K. 162, 193 Gnomon, 159, 174, 188, 189, 202, 219, 223, 268; 
 
 measurement in Aitareya Brāhmapa, 266 Gondophernes, 178, 230 Gorpiaios, Greek month, 231 Great Bear (Saptarsi), 190 Greek Olympiade, 178 . Greenwich time (U..T.), 14 Gregory XIII, Pope, 2, 10, 11, 170, 171 Gunda (inscription), 234. Guptas, 254, 255, 257 
 
@@ -10171,7 +10154,7 @@ heliacal rising and setting of, 6, 15
 
 (see also Calendar for five years). Vernal equinox, 2, 158, 226, 239, 241, 267 Vernal point, 1, 158, 205 ; 
 
-movement of, 193, 194, 205, 267 Vespers, 159 Vidyasagar, Pandit Ishwar Chandra, 280 Vighati, 160 Vikramidity8,254,255 Vißgepa, 192, 262-265, 267 Virapurugadatta, 228 
+movement of, 193, 194, 205, 267 Vespers, 159 Vidyasagar, Pandit Ishwar Chandra, 280 Vighaṭi, 160 Vikramidity8,254,255 Vißgepa, 192, 262-265, 267 Virapurugadatta, 228 
 
 280 
 

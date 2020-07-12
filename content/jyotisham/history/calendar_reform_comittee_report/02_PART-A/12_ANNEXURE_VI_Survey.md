@@ -636,7 +636,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 10. Chaitra to Phalguna. 
 - 11. 365d 155 30P 
 - 12. 23° 51' 
-- 13. One ghatika every year. 
+- 13. One ghaṭika every year. 
 - 14. Surya Siddhanta method. (a) Surya Siddhanta, (b) Siddhanta Shiromoni by Bhaskaracharya, (c) Grahalaghava by Ganesh Daivajnya, (d) Tithi Ratnavalli by Rama Daivajnya,
 
 
