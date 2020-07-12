@@ -151,7 +151,7 @@ Letters dated 24. 5. 53, 10. 7. 53 & 23. 7. '53. Resolutions adopted by the Asso
 
 Resolved that the Chairman of the All India Calendar Reform Committee, Calcutta, be requested to select two members of the All Karnataka Astronomical Association to co-operate with the members of the Calendar Reform Committee, New Delhi. 
 
-## 21. Bisuddha Siddhānta Panjika
+## 21. Biśuddha Siddhānta Panjika
 85, Grey Street, Calcutta 
 
 Notes dated nil. 

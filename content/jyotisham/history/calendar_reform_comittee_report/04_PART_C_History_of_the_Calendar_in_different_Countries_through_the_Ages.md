@@ -177,7 +177,7 @@ It will take us a long dive into the history of mathematical notation to elucida
 The practice of **expressing fractions by means of decimals** came later, both in India and Europe. In India, an astronomer who wrote an astronomical treatise called 'Bhāsvatī' in 1099 A. D. was called śatānanda, (c.e., revelling in hundreds) because he used to write fractions in hundredths i.e. 1 as 25 hundredths, as 75 hundredths. In Europe, the expression of fractions by decimals came into vogue about the seventeenth century. 
 
 ##### mahāyuga system
-The Hindu astronomer of the Siddhantic age expressed the periods of the sun, the moon and the planets by the number of their periods in a **Mahayuga** (4.32 x 100 years). The number is usually integral. 
+The Hindu astronomer of the Siddhantic age expressed the periods of the sun, the moon and the planets by the number of their periods in a **Mahāyuga** (4.32 x 100 years). The number is usually integral. 
 
 But how did this cumbrous system originate ? 
 
@@ -195,7 +195,7 @@ We have therefore devoted Chap. IV to **calendaric astronomy**, which was evolve
 
 In Chap. V, we have described the various stages of the development of the **Indian calendar** :--the **empirical stage** (Rg-Vedic), the **mean motion stage** (Vedanga Jyotiṣa), and the **scientific stage** (Siddhānta Jyotiṣa). From 1200 A.D., astronomical studies became decadent in India, and we have analysed the **cause of decadence**. We have given a **full account of precession**, as most Indian calendar makers still believe in the false theory of **Trepidation** which disappeared from Europe after 1687 A. D. 
 
-### AHARGANA OR HEAP OF DAYS : JULIAN DAYS 
+### Ahargaṇa OR HEAP OF DAYS : JULIAN DAYS 
 #### Ambiguity in calendar dates
 Though the Flux of Time is a continuous process, it is divided for the sake of convenience and for natural reasons too, into years, months and days. The years are mostly counted from the beginning of an era, so that if we wish to date a memorable event, say the birth day of George Washington, it can be seen from an inspection of his birth register that it took place on Feb.11, of the year 1732. But this practice by itself does not enable a scientific chronologist to fix up the event unambiguously on the absolute Scale of Time, unless the whole history of the particular method of date-recording is completely and accurately known. One must know the lengths of the individual months, the leap-year rules, and the history of calendar reform. In the particular case mentioned, though George Washington. according to his birth register is stated to have been **born on Feb. 11, 1732, his birth-day is celebrated on Feb. 22**. Why? Because Feb. 11 was the date according to the Julian calendar. But in 1752, England (America was then a colony of England) adopted the reformed Gregorian calendar, and by an Act of Parliament, declared Sept. 3 to be Sept.14, a difference of 11. days. Following the Gregorian calendar, Washington's birth-day had to be shifted to Feb. 22. A scientific chronologist, say of China, would find it **difficult to locate Washington's birth-day unless he knew the whole history of the Gregorian calendar**. 
 
@@ -226,51 +226,50 @@ Table 1---Julian day numbers.
 - Newar era ... 20 October, 879 A.D. 2,042,405 
 - Jelali (Iran) era ... 15 March, 1079 A.D. 2,115,236  
 
-It may be mentioned here that the ideas underlying continuous reckoning of days occurred much earlier to the celebrated Indian astronomer, Aryabhata I (476 525 A.D.), who introduced it under the designation "Ahargana" or heap of days in his celebrated Arya bhatiya. The idea of counting ahargana or heaps of days elapsed from a specified epoch upto the given date dawned upon the Hindu astronomers as a necessity for calculating the position of planets for that date. They followed the cumbrous luni-solar calendar for dating purposes, which was not based upon any simple rules. It contains months of 29 or 30 days, and occasionally a thirteenth month, the recurrence of which was deter mined by elaborate methods. The dates of the months are not numbered serially, but designated by the tithi current at sunrise. It was accordingly found almost impossible to work out the mean positions of planets on the basis of the luni-solar calendar alone. 
+It may be mentioned here that the ideas underlying continuous reckoning of days occurred much earlier to the celebrated Indian astronomer, Aryabhaṭa I (476 525 A.D.), who introduced it under the designation "Ahargaṇa" or heap of days in his celebrated Aryabhaṭīya. The idea of counting Ahargaṇa or heaps of days elapsed from a specified epoch upto the given date dawned upon the Hindu astronomers as a necessity for calculating the position of planets for that date. They followed the cumbrous luni-solar calendar for dating purposes, which was not based upon any simple rules. It contains months of 29 or 30 days, and occasionally a thirteenth month, the recurrence of which was determined by elaborate methods. The dates of the months are not numbered serially, but designated by the tithi current at sunrise. It was accordingly found almost impossible to work out the mean positions of planets on the basis of the luni-solar calendar alone. 
 
-For this purpose a continuous and uniform time scale was necessary, and this was served by the ahargana.. 
+For this purpose a continuous and uniform time scale was necessary, and this was served by the Ahargaṇa. 
 
-"Aryabhata had somehow the idea that the planets, and the two nodes (which were treated as planets in Hindu astronomy) return to the first point of Aries after every 4.32 x 100 years, and there was a unique assemblage of planets at the first point of the Hindu sphere at some past date which he called the beginning of Kali Yuga. The date assigned to the Kali beginning is now known to be 3102 B.C., February 17-18. The common period of revolution of planets of 4.32 x 109 years constitute a Mahayuga consiting of 
+#### Mahāyuga epoch
+Aryabhaṭa had somehow the idea that the planets, and the two nodes (which were treated as planets in Hindu astronomy) return to the first point of Aries after every 4.32 x 10⁶ years, and there was a unique assemblage of planets at the first point of the Hindu sphere at some past date which he called the beginning of **Kali Yuga**. The date assigned to the Kali beginning is now known to be **3102 B.C., February 17-18**. The common period of revolution of planets of 4.32 x 10⁶ years constitute a **Mahāyuga** consiting of 
 
-Satya yuga of 1.728 x 100 years Tretā yuga of 1.296 x 108 x Dvāpara yuga of 0.864 x 106 " Kali yuga of 0.432 x 106 » 
+- Satya yuga of 1.728 x 10⁶ years 
+- Tretā yuga of 1.296 x 10⁶ years 
+- Dvāpara yuga of 0.864 x 10⁶ years 
+- Kali yuga of 0.432 x 10⁶ years 
+- Total 4.32 x 10⁶ years. 
 
-Total 4.32 x 106 years It may be noticed that 
+It may be noticed that 4.32 x 10⁶ = 12000 x 360 
 
-4.32 x 10° - 12000 x 360 Aryabhata gave tables showing the number of sidereal revolutions of planets in the period of 4.32 x 100 years. The total number of days in a Mahāyuga=1,577,917,800 which gives the length of a year=365.25875 days. 
+Aryabhaṭa gave tables showing the number of sidereal revolutions of planets in the period of 4.32 x 100 years. The total number of days in a Mahāyuga=1,577,917,800 which gives the length of a year=365.25875 days. 
 
-Brahmagupta was evidently not satisfied that Aryabhata's figures for the periods of planets were correct. He introduced a Kalpa=1000 Mahāyugas= 4.32 x 10o years. The 'Kalpa' was supposed to consti tute a 'Day' of the Creator, Grand-father Brahma. He gave the number of sidereal revolutions of the planets in a Kalpa, and thought he had improved Aryabhața's figure for the year.. 
+Brahmagupta was evidently not satisfied that Aryabhaṭa's figures for the periods of planets were correct. He introduced a **Kalpa**=1000 Mahāyugas= 4.32 x 10⁹ years. The 'Kalpa' was supposed to constitute a 'Day' of the Creator, Grand-father Brahma. He gave the number of sidereal revolutions of the planets in a Kalpa, and thought he had improved Aryabhața's figure for the year.
 
-Brahmagupta's year=365.25844 days. 
+Brahmagupta's year=365.25844 days.
 
-Aryabhata calculated 'Ahargana' or heap of days, from the beginning of the Mahāyuga as the zero-day. . 
+Aryabhaṭa calculated 'Ahargaṇa' or heap of days, from the beginning of the Mahāyuga as the zero-day.
 
-But evidently this practice involves very large numbers; and is inconvenient to use. Therefore the later astronomers used modifications of the system by counting Ahargana from other convenient epochs, within historical reach. The different epochs which have been used are :-- 
+#### Later ahargaṇa epochs
+But evidently this practice involves very large numbers; and is inconvenient to use. Therefore the later astronomers used modifications of the system by counting Ahargaṇa from other convenient epochs, within historical reach. The different epochs which have been used are :-- 
 
-(1) The beginning of the Kali era or 3102 B.C. (2) 427 Śaka era or 505 A.D. as is found in 
+- (1) The beginning of the Kali era or 3102 B.C. 
+- (2) 427 Śaka era or 505 A.D. as is found in Pancasiddhāntikā of Varahamihira. 
+- (3) 587 Śaka era or 665 A.D. as is found in the Khandakhadyaka of Brahmagupta. 
+- (4) 854 śaka era or 932. A.D, as is found in the Laghumānasa of Munjala. 
+- (5) 961 Śaka era or 1039 A.D. in the Siddhānta śekhara of Sripati. 
 
-Pancasiddhāntikā of Varahamihira. (3) 587 Śaka era or 665 A.D. as is found in the 
+The astronomical treatises of the Hindus have been divided into three categories according to the initial epoch employed for calculation. In which the calculations of Ahargaṇa as well as the planetary mean places are made from the Kalpa, is called a Siddhānta ; when the calculations start from a Mahāyuga or Kali beginning it is called a Tantra, and when it is done from a recent epoch it is called a Karana. In any case, the mean places of the planets with their nodes and apsides are given for the epoch of the treatise from which calculations are to be started, with rules for finding the ahargaņa for any later date. This Ahargaṇa is then made use of in finding for that later date the positions of planets from their given initial positions and their daily motions, for, 
 
-Khandakhadyaka of Brahmagupta. 854 śaka era or 932. A.D, as is found in the 
 
-Laghumānasa of Munjala. (5) 961 Śaka era or 1039 A.D. in the Siddhānta 
-
-Sekhara of Sripati. The astronomical treatises of the Hindus have been divided into three categories according to the initial 
-
-0. 
-
-GENERAL PRINCIPLES OF CALENDAR MAKING 
-
-163 
 
 disturbing discontinuity. The curious reader may go through his article published in the Centaurus. 
 
-We, however, give below the corresponding Julian day numbers and Kali ahargana for certain modern dates. 
+We, however, give below the corresponding Julian day numbers and Kali Ahargaṇa for certain modern dates. 
 
-epoch employed for calculation. In which the calcula tions of ahargana as well as the planetary mean places are made from the Kalpa, is called a Siddhānta ; when the calculations start from a Mahāyuga or Kali beginning it is called a Tantra, and when it is done from a recent epoch it is called a Karana. In any case, the mean places of the planets with their nodes and apsides are given for the epoch of the treatise from which calculations are to be started, with rules for finding the ahargaņa for any later date. This ahargana is then made use of in finding for that later date the positions of planets from their given initial positions and their daily motions, for, 
 
 The mean position at any epoch =the mean position at the initial epoch 
 
-+ daily motion x ahargana. Due to the complexity of the Hindu luni-solar calendar, one has to go through complicated rules in determining the ahargana for any particular day. Dr. Olaf Schmidt of the Brown University and the Institute of Advanced Study, in discussing the method of computation of the Ahargana at length, has pointed out that the present Hindu method suffers from a 
++ daily motion x Ahargaṇa. Due to the complexity of the Hindu luni-solar calendar, one has to go through complicated rules in determining the Ahargaṇa for any particular day. Dr. Olaf Schmidt of the Brown University and the Institute of Advanced Study, in discussing the method of computation of the Ahargaṇa at length, has pointed out that the present Hindu method suffers from a 
 
 Julian days (elapsed at 
 
@@ -278,7 +277,7 @@ mean noon)
 
 1900, Jan. 1 2,415,021 1947, Aug. 152,432,413 1956, Mar. 21 2,435,554 
 
-Kali ahargana 
+Kali Ahargaṇa 
 
 (elapsed at following midnight) 
 
@@ -286,7 +285,7 @@ Kali ahargana
 
 The difference between the two numbers 588,465. represents the Julian day number on the Kali epoch, as already stated. 
 
-The use of ahargana plays a very important part in modern epigraphical researches when the date recorded in an inscription is required to be converted into the corresponding date of the Julian calendar. If the Kali ahargana for the recorded date can be determined, then the problem of ascertaining the corresponding Julian or Gregorian date becomes a very easy task. 
+The use of Ahargaṇa plays a very important part in modern epigraphical researches when the date recorded in an inscription is required to be converted into the corresponding date of the Julian calendar. If the Kali Ahargaṇa for the recorded date can be determined, then the problem of ascertaining the corresponding Julian or Gregorian date becomes a very easy task. 
 
 CHAPTER II 
 
@@ -3380,7 +3379,7 @@ Chord (2 a)=2 R Sin a
 
 R 
 
-Fig. 20 and gave a table of double-chords from 0° to 90°, which was later improved by Ptolemy in his Syntaxis. It is suggested by Neugebauer, that the 'Sine function' (Jya in Hindu astronomy) was introduced 600 years later by Aryabhata, and replaced the double chord. The Hindu astronomers used Utkramajyā which is the ver sine function, 1-cos a, but do not appear to hate used the cosine function as such. Neither the Greeks nor the Hindus used the tangent, and the cotangent, which were introduced by Arab astronomers about the ninth century (al-Battānı, 858-929 A.D.), and were known in Latin in early days as Umbra Versa, and Umbra Extensa (extent of shadow ) respectively. These are reminiscent of the practice of designating the zenith distance Z of the sun by the length 1 of the shadow of the gnomon, l=p tan 2, p being the height of the gnomon. 
+Fig. 20 and gave a table of double-chords from 0° to 90°, which was later improved by Ptolemy in his Syntaxis. It is suggested by Neugebauer, that the 'Sine function' (Jya in Hindu astronomy) was introduced 600 years later by Aryabhaṭa, and replaced the double chord. The Hindu astronomers used Utkramajyā which is the ver sine function, 1-cos a, but do not appear to hate used the cosine function as such. Neither the Greeks nor the Hindus used the tangent, and the cotangent, which were introduced by Arab astronomers about the ninth century (al-Battānı, 858-929 A.D.), and were known in Latin in early days as Umbra Versa, and Umbra Extensa (extent of shadow ) respectively. These are reminiscent of the practice of designating the zenith distance Z of the sun by the length 1 of the shadow of the gnomon, l=p tan 2, p being the height of the gnomon. 
 
 Between Hipparchos and Claudius Ptolemy (150 A.D.), who lived at the Alexandrian Museum from 128 A.D. to 151 A.D., there is a gap of 300 years, which saw the phenomenal rise of horoscopic astrology. There are, however, very few great names in astronomy. Menelaos, a Greek astronomer who lived in Rome about 98 A.D., laid the foundation of spherical trigonometry, but it was confined to a transversal proposition from which Ptolemy deduced solutions for only right angled spherical triangles, of which either two sides or an angle and one side are given. The Hindu astronomers likewise used only solutions of right angled spherical triangles. The discovery of general relations in spherical triogenometry was the work of Arabic astronomers (al-Battani). 
 
@@ -5100,7 +5099,7 @@ INDIAN CALENDAR
 
 295 
 
-30 lunar months. Thus in the third year, the month Srāvana is adhika which is followed by Suddha Brāvana ; and in the fifth year the last month is also adhika which is adhika Māgha. 
+30 lunar months. Thus in the third year, the month Srāvana is adhika which is followed by śuddha Brāvana ; and in the fifth year the last month is also adhika which is adhika Māgha. 
 
 There are 1860 tithis while the number of civil days is 1830 ; so there are 30 omitted tithis (tithi kṣaya). Each period of 61 days contains 62 tithis, so one lithi is omitted after 61 civil days. From this consideration the number of civil days per month can be obtained and will be shown in the table below. The Vedanga Jyotiṣa people regularly counted a tithi to a day, but after 61 days one tithi was omitted. 
 
@@ -5648,7 +5647,7 @@ JYOTISHA PERIOD : Rise of Siddhāntas or Scientific Astronomy:
 
 The Vedānga Jyotiṣa calendarical rules appear, from inscriptional records, to have been used right up to the end of the reign of the Satavahanas (200 A.D.). The analysis of inscriptional data on methods of date recording given in $ 5.5 shows that it was the śaka and Kuṣāņa rulers (50 B.C. - 100 A.D.), who introduced the Graeco-Chaldean methods of date-recording, prevalent in' the Near East into India. These methods require a knowledge of the fundamentals of astronomy, which must have been available to the śaka and Kuṣāna rulers. In India, as 'the inscriptional records show, some purely Indian dynasts probably accepted the system in full from about 248 A.D. (date of foundation of the Kalachuri era, the earliest era founded by Indian kings, leaving aside the śaka era which is admittedly of foreign origin and the Vikrama era whose origin is still - shrouded in mystery). During the time of the Guptas who founded an era commemorating their accession to power in 319 A.D. the integration of the western system with the Indian appears to have been complete. 
 
-Indian astronomical treatises, explaining the rules of calendaric astronomy, are known as Siddhāntas, but it is difficult to find out their dates. The earliest Indian astronomer who gave a date for himself was the celebrated Aryabhata who flourished in the ancient city of Pataliputra and was born in 476 A.D. 
+Indian astronomical treatises, explaining the rules of calendaric astronomy, are known as Siddhāntas, but it is difficult to find out their dates. The earliest Indian astronomer who gave a date for himself was the celebrated Aryabhaṭa who flourished in the ancient city of Pataliputra and was born in 476 A.D. 
 
 It is necessary to reply to a question which has very often been asked, but never satisfactorily answered, viz., 
 
@@ -5696,7 +5695,7 @@ REPORT OF THE CALENDAD BEFOBM COMMITTEE
 
 Kautiliya Arthadastra Nakgatrai stiprcchantar bālam artho'tiyartate Artho hyarthasya nakpatram kim karięyanti tārakāh. 
 
-to the Sungod.: Professional astrologers) in:imang parts of India, admit to being descendants tof these Sakadvipi" -Brāhmagas and probably many of the eminent astronomers like. Aryabhata and Varahamihira who made great scientfic contributions to 'astronomy belonged to this race. The planetary Sungod is always shown with high boots on, as in the case of Central Asian kings (e.g., Kaniska)... 
+to the Sungod.: Professional astrologers) in:imang parts of India, admit to being descendants tof these Sakadvipi" -Brāhmagas and probably many of the eminent astronomers like. Aryabhaṭa and Varahamihira who made great scientfic contributions to 'astronomy belonged to this race. The planetary Sungod is always shown with high boots on, as in the case of Central Asian kings (e.g., Kaniska)... 
 
 It is a task for the historian to trace how the steps in which the importation of western astronomical knowledge took place for the Siddhāntas, which incorporate this knowledge and are all a few centuries later, and many of them bear no date. . 
 
@@ -5790,7 +5789,7 @@ of the Creation. , XIII-Armillary Sphere, and other
 
 The Surya Siddhānta Of all the Siddhāntas mentioned by Varāhamihira this alone has survived and is still regarded with veneration by Indian astrologers. This Siddhānta was published with annotations by Rev. E. Burgess, in 1860, and has been republished by the Calcutta University under the editorship of.P. L. Gangooly, with an intro duction by Prof. P. C. Sengupta. . 
 
-This is supposed to have been described by the ṣungod to Asura Maya, the architect of the gods, who revealed it to the Indian Rṣis. These legends certainly represent some sort of borrowing from the West, but it would be fruitless to define its exact nature unless the text is more critically examined. Varāhamihira describes in Chapters IX, X, XI, XVI, XVII of the Panca Siddhāntikā the contents of the Surya Siddhānta as known to him ; they are somewhat different from those as found in the modern text. It appears that this Siddhānta was constantly revised with respect to the astronomical constants contained in it as all astronomical treatises should be. The text as we have now was fixed up by Ranganatha in 1603 after which there have been no changes. Burgess, from a study of the astronomical constants, thought that the final text referred to the year 1091 A.D. Prof. P. C. Sengupta shows that the S.S. as reported by Varahamihira borrowed elements of astronomical data from Aryabhata, and the S.S. as current now has borrowed elements from Brahmagupta (628 A.D.). 
+This is supposed to have been described by the ṣungod to Asura Maya, the architect of the gods, who revealed it to the Indian Rṣis. These legends certainly represent some sort of borrowing from the West, but it would be fruitless to define its exact nature unless the text is more critically examined. Varāhamihira describes in Chapters IX, X, XI, XVI, XVII of the Panca Siddhāntikā the contents of the Surya Siddhānta as known to him ; they are somewhat different from those as found in the modern text. It appears that this Siddhānta was constantly revised with respect to the astronomical constants contained in it as all astronomical treatises should be. The text as we have now was fixed up by Ranganatha in 1603 after which there have been no changes. Burgess, from a study of the astronomical constants, thought that the final text referred to the year 1091 A.D. Prof. P. C. Sengupta shows that the S.S. as reported by Varahamihira borrowed elements of astronomical data from Aryabhaṭa, and the S.S. as current now has borrowed elements from Brahmagupta (628 A.D.). 
 
 The modern Surya Siddhānta is a book of 500 verses divided into 14 chapters, contents of which are described briefly below : 
 
@@ -5814,11 +5813,11 @@ It will take us too much away from our main theme to give a critical account of 
 
 The rules of framing the calendar are found in Chapter XII of which we give an account in the next section. 
 
-After about 500 A.D., the Indian astronomers gave up the pretext of ascribing astronomical treatises to gods or mythical sages and began to claim authorship of the treatises they had written ; the earliest that has survived is that of Aryabhata (476—523 A.D.). The objects of their treatises were to frame rules for calendaric calculations, knowledge of astronomy forming the basis on which these rules were framed. 
+After about 500 A.D., the Indian astronomers gave up the pretext of ascribing astronomical treatises to gods or mythical sages and began to claim authorship of the treatises they had written ; the earliest that has survived is that of Aryabhaṭa (476—523 A.D.). The objects of their treatises were to frame rules for calendaric calculations, knowledge of astronomy forming the basis on which these rules were framed. 
 
 In addition to the Surya Siddhānta only two other systems have survived, viz., 
 
-The Arya Siddhānta-due to Aryabhata II, an astronomer of the 10th century, and supposed to be related to the Aryabhatiya of Aryabhata, who claims to have derived it from Brahmā, the Creator. 
+The Arya Siddhānta-due to Aryabhaṭa II, an astronomer of the 10th century, and supposed to be related to the Aryabhaṭīya of Aryabhaṭa, who claims to have derived it from Brahmā, the Creator. 
 
 The Brahma Siddhānta-vaguely related to the Paitāmaha Siddhānta, but the human authorship is ascribed to the celebrated astronomer Brahmagupta (628 A.D.). 
 
@@ -5918,7 +5917,7 @@ the sidereal year.... 365 6 9 9.7 -365.256362 Correct length of
 
 the tropical year... 365 5 48 45.7 - 3 
 
-N. B. Varāhamibira's length of the year is also found in Aryabhata's ārdharātrika, or midnight system, and in Brahmagupta's Khanda Khôdya ka. 
+N. B. Varāhamibira's length of the year is also found in Aryabhaṭa's ārdharātrika, or midnight system, and in Brahmagupta's Khanda Khôdya ka. 
 
 How did the Indianrants manage to have such a wrong value for the length of the year? 
 
@@ -6570,7 +6569,7 @@ Caitra S Vaisakha K Vaisakha s
 
 (mala) Vajśakba 8 
 
-(suddha) Jyestha K 
+(śuddha) Jyestha K 
 
 vara) 
 
@@ -6616,9 +6615,9 @@ Caitra S Caitra K Vaiśākha s
 
 (mala) Vaisakha 8 
 
-(suddha) Vaisakha K 
+(śuddha) Vaisakha K 
 
-(suddha) Jye tha s Jyestha K Aṣādha 8 Aṣādha K Śrāvana S Srāvaņa K Bhādra ·8 Bhadra Ağvina Aøvina Kārtika Kārtika Mārga. Mārga. Pausa Pauza Māgha Māgha K Phālguna s Phalguna K 
+(śuddha) Jye tha s Jyestha K Aṣādha 8 Aṣādha K Śrāvana S Srāvaņa K Bhādra ·8 Bhadra Ağvina Aøvina Kārtika Kārtika Mārga. Mārga. Pausa Pauza Māgha Māgha K Phālguna s Phalguna K 
 
 12 June 28 June 12 July 27 July 10 Aug. 25 Aug. 
 
@@ -7004,13 +7003,13 @@ INDIAN QALENDAR
 
 years of the Kaliyuga had passed .when he was 23 years old which is śaka year 421 (499 A. D.). It is not mentioned earlier either in books or in inscriptions. 
 
-The first mention of this era in an inscription is found in the year 634-35 A.D., the inscription being that of king Pulakesin II of the Calukya. dynasty of Badam!, or somewhat earlier in a Jain treatise. It was most probably an era invented on astrological grounds just like the era of Nabonassar, by Aryabhata or some other astropomer, who felt that the great antiquity of Indian civilization could not be described by the eras then in use (śaka, Chedi or Gupta era), as they were too recent. 
+The first mention of this era in an inscription is found in the year 634-35 A.D., the inscription being that of king Pulakesin II of the Calukya. dynasty of Badam!, or somewhat earlier in a Jain treatise. It was most probably an era invented on astrological grounds just like the era of Nabonassar, by Aryabhaṭa or some other astropomer, who felt that the great antiquity of Indian civilization could not be described by the eras then in use (śaka, Chedi or Gupta era), as they were too recent. 
 
 What were these astrological grounds ? The astrological grounds were that at the beginning of the Kaliyuga, the sun, the moon and the planets were in one zodiacal sign near the fixed Siddhantic Meṣadi which according to some authorities is Ś Piscium, but according to others is 180° from Citrā or a Virginis. This was probably a back calculation based on the then prevailing knowledge of planetary motion, but has now been found to be totally wrong, when recalculated with the aid of more accurate modern data on planetary motion. We quote from 
 
 Ancient Indian Chronology, pp. 35-39 by Prof. P. C. Sengupta, who has given a full exposition of Burgess's views on this point, with recalculations of his own. 
 
-should also be a total eclipse of the Sun ; but no such things happened at that time. The beginning of the Kaliyuga was the midnight at Ujjayini terminating the 17th February of 9102 B.O., &ccording to Sūrya Siddhānta and the ārdharātrika system of Aryabhata's astronomy as described in the Khandakhādyaka of Brahmagupta. Again this Kaliyuga is said to have begun, according to the Aryabhatiya from the sunrise at Lankā (supposed to be on the equator and on the same meridian with Ujjain)—from the mean sunrise on the 18th Feb., 3102 B.O. . 
+should also be a total eclipse of the Sun ; but no such things happened at that time. The beginning of the Kaliyuga was the midnight at Ujjayini terminating the 17th February of 9102 B.O., &ccording to Sūrya Siddhānta and the ārdharātrika system of Aryabhaṭa's astronomy as described in the Khandakhādyaka of Brahmagupta. Again this Kaliyuga is said to have begun, according to the Aryabhaṭīya from the sunrise at Lankā (supposed to be on the equator and on the same meridian with Ujjain)—from the mean sunrise on the 18th Feb., 3102 B.O. . 
 
 Now astronomical events of the type described above and more specially the conjunction of the sun and the moon 
 
@@ -7022,11 +7021,11 @@ We also can corroborate the findings of above research e rs in the following way
 
 equations for the planetary mean elements. 
 
-Now the procession of the equinoxes from 3102 B. C. to 499 A.D. or Aryabhata's time works out to have been = 49° 32' 39". The mean planetary elements at the beginning of the Kaliyuga, i.e., 17th Feb., 3102 B.C., Ujjayini mean time 24 hours, are worked out and shown below. We have 
+Now the procession of the equinoxes from 3102 B. C. to 499 A.D. or Aryabhaṭa's time works out to have been = 49° 32' 39". The mean planetary elements at the beginning of the Kaliyuga, i.e., 17th Feb., 3102 B.C., Ujjayini mean time 24 hours, are worked out and shown below. We have 
 
 Table 25–Longitudes of Planets at Kali-beginning 
 
-Longitude at the same | time measured from the Vernal Equipox of 499 A.D., i.o., Aryabhata's 
+Longitude at the same | time measured from the Vernal Equipox of 499 A.D., i.o., Aryabhaṭa's 
 
 time. . 
 
@@ -7072,7 +7071,7 @@ The same as agsumed in the Ardharātrika system at the same time as before and a
 
 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
 
-Error in the aggumption of Aryabhata and also of the modern Sūrya Siddhānta and the Khandakhadyaka. 
+Error in the aggumption of Aryabhaṭa and also of the modern Sūrya Siddhānta and the Khandakhadyaka. 
 
 + 8° 47'. 12" +4 497 - 3 58 7 -16 52 54 +423 19 -24 17 29 +20 24 
 
@@ -7088,17 +7087,17 @@ At the beginning of the astronomical Kaliyuga, all the mean places of the planet
 
 added 49° 32' 39" to these mean tropical longitudes arrived at from the rules used, so as to get the longitudes measured from the vernal equinox of Aryabhạta's time. 
 
-Hence we see that the assumed positions of the mean planets at the beginning of the astronomical Kaliyugá were really incorrect and the assumption was not a reality. But of what use this assumption was in Aryabhata's time, i.e., 499 A.D., is now set forth below.' 
+Hence we see that the assumed positions of the mean planets at the beginning of the astronomical Kaliyugá were really incorrect and the assumption was not a reality. But of what use this assumption was in Aryabhaṭa's time, i.e., 499 A.D., is now set forth below.' 
 
 254 
 
-Aryabhata says that when he was 23 years old, 3600 years of. Kali bad elapsed. According to his Ārdharātrika system: 
+Aryabhaṭa says that when he was 23 years old, 3600 years of. Kali bad elapsed. According to his Ārdharātrika system: 
 
 3600 years - 1/1200 of a Mahāyuga=1314931.5 days. Again according to his Audayika system :. 
 
 3600 years=1/1200 of a Mabāyuga=1314931.25 days. 
 
-Honce according to both these systems of astronomy of Aryabhata, by counting 3600 years from the beginning of the astronomical Kali epoch, we arrive at the date March 21, 499 A.D., Ujjayini mean time, 12 noon. The unreality of the Kali epoch is also evident from this finding. However, the position of mean planets at this time work out an given in table 26 below. 
+Honce according to both these systems of astronomy of Aryabhaṭa, by counting 3600 years from the beginning of the astronomical Kali epoch, we arrive at the date March 21, 499 A.D., Ujjayini mean time, 12 noon. The unreality of the Kali epoch is also evident from this finding. However, the position of mean planets at this time work out an given in table 26 below. 
 
 about 57 B. C. Moreover a critical examination of inscriptions show the following details about this era. 
 
@@ -9010,7 +9009,7 @@ Indian Astronomers
 
 On p. 226, we have given references to pre-Siddhāntio The surmise that the early Siddhāntic astronomers were notices of the location of the vernal point in the sky. We ignorant of the movement of the equinoxes is supported by saw that ancient Indian savants noticed its gradual shift the fact that neither of the early eminent astronomers ( due to procession ), but were only puzzled by the pheno 
 
-Aryabhata I (476-523 A.D.) nor Lalla (748 A.D.) whose menon. Let us see what was the experience of the 
+Aryabhaṭa I (476-523 A.D.) nor Lalla (748 A.D.) whose menon. Let us see what was the experience of the 
 
 dates are known,' mention anything about procession of the Siddhāntic astronomers in this respect. 
 
@@ -9086,7 +9085,7 @@ Pr̥thūdaka Svāmi (born 928 A.D.), an astronomer who observed at Peibowa, near
 
 This is called the Ayana Yuga". This passage recognizes the continuous nature of precessional motion, and gives the rate of precessional motion as 56".82 seconds per year. 
 
-So far we have no mention of the 'Theory of Trepidation.' This is first mentioned in the Arya Siddhānta, ascribed to Aryabhata II, whose date is 1028 A.D. It says : Ayanagrabadoh krāntijyācāpam kendravat dhanarna i syāt Ayànalavāstat samskệta khețādayana carāpamalagpāni. 12. 
+So far we have no mention of the 'Theory of Trepidation.' This is first mentioned in the Arya Siddhānta, ascribed to Aryabhaṭa II, whose date is 1028 A.D. It says : Ayanagrabadoh krāntijyācāpam kendravat dhanarna i syāt Ayànalavāstat samskệta khețādayana carāpamalagpāni. 12. 
 
 Translation : -Find the sine declination (krāntijyā) of the ayanagraha (in a way similar to that of the sun's declination); from it deduce the amount of declination, plus (north) or minus (south), which is the amount of ayanāṁśa.* After applying this ayanāṁśa-correction to the planet, the values of cara (half the difference between the lengths of day and night), declination of planets, lagna (the orient ecliptic point), etc., are to be calculated. 
 
@@ -9296,7 +9295,7 @@ Achelis, Elisabeth (1955)-Of Time and the Calendar,
 
 New York. Alter, D. & Cleminshaw, C. H. (1952)—Pictorial Astronomy, 
 
-New York. Aryabhatiya of Āryabhaṭa-translated with notes by 
+New York. Aryabhaṭīya of Āryabhaṭa-translated with notes by 
 
 W. E. Clark, Chicago, 1930. American Ephemeris ' & Nautical Almanac for the years 
 
@@ -9314,7 +9313,7 @@ Appendix to Epigraphia Indica, Vols. XIX-XXII. Brennand, W. (1896)-Hindu Astrono
 
 translation, with an introduction by P. O. Sengupta 
 
-(Republished by the Calcutta University). Clark, Walter Eugene (1930)—The Aryabhatiya of Arya 
+(Republished by the Calcutta University). Clark, Walter Eugene (1930)—The Aryabhaṭīya of Arya 
 
 bhata, English translation with notes, Chicago. Couderc, Paul (1948)—Lo Calendrier, France. Cunningham, Alexander (1883)—Book of Indian Eras with 
 
@@ -9410,7 +9409,7 @@ the Journal of Cunieform Studies, Vol. VI, No. 2. Saba, M. N. (1952)— Reform o
 
 Letters, Vol. XIX, No. 1, 1953. Sarton, George (1953)-A History of Science, Oxford 
 
-University Press, London. -- Introduction to the History of Science, Vol. III. Schmidt, Olaf (1951)-On the Computation of the Ahargana, 
+University Press, London. -- Introduction to the History of Science, Vol. III. Schmidt, Olaf (1951)-On the Computation of the Ahargaṇa, 
 
 Centaurus, September, 1952, 2. Copenhagen. Scientific American, 188, 6-25, 1953, New York. Sen, Sukumar (1941)-Old Persian Inscriptions of the 
 
@@ -9488,19 +9487,19 @@ Arunodaya, 108
 
 Brhat Samhitā, 226, 267 Adar, 179 
 
-Aryabhata I, 204, 234, 236, 237, 238, 240, 252, Brown, 193 Addaru, 175,176 
+Aryabhaṭa I, 204, 234, 236, 237, 238, 240, 252, Brown, 193 Addaru, 175,176 
 
 253, 254, 267 
 
 Buddha, 231, 235; . Adhika ( = mala) month, 7, 247, 250 
 
-Aryabhata II, 238, 268 
+Aryabhaṭa II, 238, 268 
 
 nirvåņa of, 256, 257 Agni, 216 : 
 
-Aryabhatiya of Aryabhata, 162 238, 253 
+Aryabhaṭīya of Aryabhaṭa, 162 238, 253 
 
-views on astrology: 235 Ahargana, 9, 11, 161, 162, 163 
+views on astrology: 235 Ahargaṇa, 9, 11, 161, 162, 163 
 
 Arya Sangamikā, 232 
 
@@ -9552,7 +9551,7 @@ ayanāṁśa, 5, 7, 16, 17, 20, 268, 269 ;
 
 Islamic, 179, 180; Ammonia clock, 12, 159 
 
-amount of acc. to Aryabhata II, 268 
+amount of acc. to Aryabhaṭa II, 268 
 
 Jewish 179; Anaximander of Miletus, 188, 202 ; 
 
@@ -10098,7 +10097,7 @@ age, 216, 218; . in Rg-Veda, 216, 217 Beb, Egyptian god 184 Seleucus, 178, 213, 
 
 Paitāmaha, 236-238; Paulisa, 236-238; Romaka, 236, 237, 240 ; Sūrya, 236, 238-244; 
 
-Vasiṣtha, 236, 237 Siddhānta Sekhara of Bripati, 162 Siddhānta Siromani of Bhaskaråcårya, 238, 
+Vasiṣtha, 236, 237 Siddhānta śekhara of Bripati, 162 Siddhānta Siromani of Bhaskaråcårya, 238, 
 
 269 . Sidereal time, 158 Signs, of the zodiac, 192, 193, 194, 196, 206, 
 

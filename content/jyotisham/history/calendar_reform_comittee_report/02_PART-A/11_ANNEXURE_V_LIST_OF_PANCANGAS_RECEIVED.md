@@ -48,7 +48,7 @@ The following pañcāṅgas have been received from different parts of India in 
 - 42.Vikritinam Samvatsara Panchang (Telegu) Ankapalli, Dist. W. Godavari. Bhungalia Panchang (Gujrati) Amareli, Saurashtra. 
 - 43. Reformer Almanac (Malayalam) Reformer Press, Calicut, S. Malabar. 44. Jolsyamithra Almanac (Malayalam) Congress Press, Palghat Post, Malabar. 
 - 45. Yogakshemam Panchangam (Malayalam) Panchangam Press, Kunnamkulam, Travancore-Cochin State. 
-- 46. Suddha Nirayan Panchang (Marathi). Clo. Keshari Mudranalaya, 568 Narayan Kelkar Road, Poona-2. 
+- 46. śuddha Nirayan Panchang (Marathi). Clo. Keshari Mudranalaya, 568 Narayan Kelkar Road, Poona-2. 
 - 47. Shuddha Panchang (Marathi) 140 Shukrawar Peth, Poona-2. 
 48. Vijaya Samvatsara Siddhānta Panchangam (Telegu). Via Kollur, Dt. Guntur. 
 - 49. Lingala Bangaraiah ṣiddhanti's Almanac (Telegu) Via Tanuku, Dist. East Godavari Andhra State. 
