@@ -165,7 +165,7 @@ The scientific divisions of time followed by the Siddhāntas are the **ghaṭik�
 
 The pala or vighati is sometimes subdivided into 6 divisions called a 'prāna'. A prāna is therefore equi valent to 4 secs, of time. There are 360 prānas in a ghatékā and the day contains 360 x 60 or 21600 prānas, 
 
-the same as the number of **minutes** ( **kala or liptika** ) in a circle. In Siddhāntas (astronomical treatises of the Hindus) there are conceptions with nomenclatures of still smaller divisions of time, but they had no practi cal utility. 
+the same as the number of **minutes** ( **kala or liptika** ) in a circle. In Siddhāntas (astronomical treatises of the Hindus) there are conceptions with nomenclatures of still smaller divisions of time, but they had no practical utility. 
 
 None of the time-periods of the sun, and the moon, viz., the year and the season, and the lunations and half-lunations are integral multiples of the day ; on the other hand, the figures run to several places of decimals. How did the ancients, who quickly dis covered that the time-periods were not integral multi ples of the day, express their findings? 
 
