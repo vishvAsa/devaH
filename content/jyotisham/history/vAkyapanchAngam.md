@@ -19,6 +19,7 @@ title: वाक्यपञ्चाङ्गम्
 - Wrong tithi boundaries.
   - June 21 2020 was a special day - it was the solstice day, there was an annular solar eclipse visible from India (with peak at 11:47:35 am IST), and it naturally was amAvAsyA until 11:47:35 am IST. vAkya-panchAnga-s had obvious errors with regards to sun-moon conjunction (and consequently eclipse and end of amAvAsyA) - so tithi junction was till 12:30 or so. Some ritualists simply followed pop culture and used more accurate dRk-panchAnga-s for eclipse observances; while following vAkya-panchanga regarding parva-rituals! Such inconsistency! So, they incorrectly conducted sthAlIpAka the following day. (Not to mention, they must have continued saying "uttarAyaNe" in their sankalpa-s as well.)
 - Sometimes saura-paxa-panchAnga-s are not even able to determine if an eclipse will "happen" or not.
+- "The word "sankalpa" reminds me that we recite the daily "samkalpa" about Kalpa, Manvantara, Yuga, varsha etc. as per the Surya Siddhanta (instead of Aryabhatiya!!) but do not calculate even our horoscopes from the same work."
 
 ### Error correction
 - अयनचलनप्रतिक्रिया दृक्तुल्यताप्राधान्यम् च अन्यत्र\+ उक्तम्।
