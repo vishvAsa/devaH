@@ -127,197 +127,80 @@ In 1074-75 the Seljuq Sultan Jelal Uddin Melik Shah called upon the celebrated *
 
 The Parsees in India, the followers of the Prophet Zarathustra are the descendants of Iranians who took shelter in India on the conquest of Persia by the Arabs. The following details about their calendar is reproduced from Encyclopaedia Britannica (14th edition), Parsees : 
 
-The Parsees of India are divided into two sects, the **Shahanshahis** and the **Kadmis**. They differ as to the correct chronological date for the computation of the era of **Yazdegerd**, the last king of Sassanian dynasty, who was **dethroned by the caliph Omar** about A.D. 640: This led to the variation of a month in the celebration of the festivals. The Parsees compute time from the fall of Yazdegerd. Their calendar is divided into **twelve months of thirty days** each ; the other five days, being added for holy days, are not counted. Each day is named after some particular angel of bliss, under whose special protection it is passed. On feast days a division of five watches is made under the protection of five different divinities. In midwinter a feast of six days is held in commemoration of the six periods of creation. About March 21, the vernal equinox, a festival is held in honour of agriculture, when planting begins. In the middle of April a feast is held to celebrate the creation of trees, shrubs and flowers. On the fourth day of the sixth month & feast is held in honour of Sahrevar, the deity presiding over mountains and mines. On the sixteenth day of the seventh month a feast is held in honour of Mithra, the deity presiding over and directing the course of the sun, and also a festival to celebrate truth and friendship. On the tenth day of the eighth month a festival is held in honour of Farvardin, the deity who presides over the departed souls of men. This day is especially set apart for the performance of ceremonies for the dead. The people attend on the hills where the "towers of silence" are situated, and in the sagris pray for the departed souls. The Parsee scriptures require the last ten days of the year to be spent in doing deeds of charity. 
-
+The Parsees of India are divided into two sects, the **Shahanshahis** and the **Kadmis**. They differ as to the correct chronological date for the computation of the era of **Yazdegerd**, the last king of Sassanian dynasty, who was **dethroned by the caliph Omar** about A.D. 640: This led to the variation of a month in the celebration of the festivals. The Parsees compute time from the fall of Yazdegerd. Their calendar is divided into **twelve months of thirty days** each ; the other five days, being added for holy days, are not counted. Each day is named after some particular angel of bliss, under whose special protection it is passed. On feast days a division of five watches is made under the protection of five different divinities. In midwinter a feast of six days is held in commemoration of the six periods of creation. About March 21, the vernal equinox, a festival is held in honour of agriculture, when planting begins. In the middle of April a feast is held to celebrate the creation of trees, shrubs and flowers. On the fourth day of the sixth month & feast is held in honour of Sahrevar, the deity presiding over mountains and mines. On the sixteenth day of the seventh month a feast is held in honour of **Mithra**, the deity presiding over and **directing the course of the sun, and also a festival to celebrate truth and friendship**. On the tenth day of the eighth month a festival is held in honour of Farvardin, the deity who presides over the departed souls of men. This day is especially set apart for the performance of ceremonies for the dead. The people attend on the hills where the "towers of silence" are situated, and in the sagris pray for the departed souls. The Parsee scriptures require the last ten days of the year to be spent in doing deeds of charity. 
 
 
 In modern Iran when Riza Shah Pahlavi came to power in 1920, he instituted a reform of the existing Muslim calendar abandoning the strictly lunar reckoning and introducing purely solar year restoring the early Persian names which had never fallen entirely out of use. 
 
 
 
-The names of the months, and their lengths are as follows: Farvardin-mah (31) begins 21 or 22 March Ardibahisht-mah (31) , 21 or 22 April Khordad-mah (31) , 22 or 23 May Tir-nah (31) 
+The names of the months, and their lengths are as follows: 
 
-
-
-, 22 or 23 June 
-
-
-Mordan-mah (31) Shartvaromah (31) Mehr-mah (30) Aban-mah (30) Azar-mah (30) Dai-mah (30) Bahman-mah (30) Esfand-mah (29, 30) 
-
-begins 23 or 24 July 
-
-23 or 24 August 23 or 24 September 23 or 24 October 
-
-22 or 23 November 22 or 23 December 21 or 22 January 20 or 21 February 
-
+- Farvardin-mah (31) begins 21 or 22 March 
+- Ardibahisht-mah (31) , 21 or 22 April 
+- Khordad-mah (31) , 22 or 23 May 
+- Tir-mah (31)  22 or 23 June 
+- Mordan-mah (31) begins 23 or 24 July
+- Shartvaromah (31) 23 or 24 August
+- Mehr-mah (30) 23 or 24 September 
+- Aban-mah (30) 23 or 24 October 
+- Azar-mah (30) 22 or 23 November
+- Dai-mah (30) 22 or 23 December
+- Bahman-mah (30) 21 or 22 January
+- Esfand-mah (29, 30) 20 or 21 February 
 
 
 ## THE FRENCH REVOLUTION CALENDAR 
 
-
-
-The Egyptian calendar attracted the notice of the calendar committee of the French Revolutionary Government (1789-1795) who wanted to replace Religion by Reason. The committee consisted, amongst others, the great mathematicians Laplace and Lagrange and the poet d'Eglantine. Laplace proposed that the year 1250 A.D., when according to his calculations the equinoctial line was perpendicular to the apse line of the Earth's orbit should be taken the starting point of the French Revolution Era in place of a hypothetical year of Christ's birth. But the calendar committee did not agree with him but started the era of the glorious French revolution, with the autumnal equinox day of 1792 A.D., as this was nearest in date to the outbreak of the revolution. · Sentiment proved stronger than cold scientific reasoning. 
-
-
-
-
-
-
-French Revolution Calendar 
-
-
-
-(1792 Sept. 22 to 1806 ). ( The Months consist of 30 days each ) Month 
-
-
-
-Season 
-
-
-
-Month beginning 
-
-
-
-AUTUMN 1. Vendemiaire : Grape gathering Sept. 22 2. Brumaire : Fog 
-
-
-
-Oct. 22 3. Frimaire : Frost 
-
-
-
-Nov. 21 
-
-
-
-WINTER 4. Nivose : Snow 
-
-
-
-Dec. 21 5. Pluviose : Rain 
-
-
-
-Jan. 2 6. Ventose : Wind 
-
-
-
-Feb. 19 
-
-
-
-SPRING 7. Germinal : Seed 
-
-
-
-March 21 8. Floreal : Blossom 
-
-
-
-April 20 9. Prairial : Pasture 
-
-
-
-May 20 
-
-
-
-SUMMER 10. Messidor : Harvest 
-
-
-
-June 19 11. Thermidor : Heat 
-
-
-
-July 19 12. Fructidor : Fruit 
-
-
-
-Aug. 18 Day of Virtue 
-
-
-
-Sept. 17 # Genius 
-
-
-
-18 Labour Opinion Rewards 
-
-
-
-19 
-
-
-
-..... 
-
-
-
-21 
-
-
-
-*168 
-
-
+The Egyptian calendar attracted the notice of the calendar committee of the French Revolutionary Government (1789-1795) who wanted to **replace Religion by Reason**. The committee consisted, amongst others, the great mathematicians **Laplace and Lagrange** and the poet d'Eglantine. Laplace proposed that the year 1250 A.D., when according to his calculations the equinoctial line was perpendicular to the apse line +++(=major axis)+++ of the Earth's orbit should be taken the starting point of the French Revolution Era in place of a hypothetical year of Christ's birth. But the calendar committee did not agree with him but started the era of the glorious French revolution, with the autumnal equinox day of 1792 A.D., as this was nearest in date to the outbreak of the revolution. Sentiment proved stronger than cold scientific reasoning. 
+
+- (1792 Sept. 22 to 1806 ). 
+- ( The Months consist of 30 days each ) Month 
+- AUTUMN 
+  - 1. Vendemiaire : Grape gathering Sept. 22 
+  - 2. Brumaire : Fog Oct. 22 
+  - 3. Frimaire : Frost Nov. 21
+- WINTER 
+  - 4. Nivose : Snow Dec. 21 
+  - 5. Pluviose : Rain Jan. 20. 
+  - Ventose : Wind Feb. 19
+- SPRING 
+  - 7. Germinal : Seed March 21 
+  - 8. Floreal : Blossom April 20 
+  - 9. Prairial : Pasture May 20 
+- SUMMER 
+  - 10. Messidor : Harvest June 19 
+  - 11. Thermidor : Heat July 19 
+  - 12. Fructidor : Fruit Aug. 18 
+- Extra days
+    - Day of Virtue Sept. 17 
+    - Genius Sept 18 
+    - Labour  Sept 19
+    - Opinion Sept 20
+    - Rewards Sept 21
 
 The seven-day week was abandoned for a week of 10 days. The month names were invented by the poet member of the committe. The last five days were dedicated to the service of the poor ( Sans-Culottides ) and did not form part of any month. 
 
-
-
 After 13 years of service, the French Revolution calendar was abolished by Napoleon Bonaparte, then emperor of France, as part of his bargain with the Roman Catholic Church for his coronation by the Pope. 
 
+## THE ROMAN CALELNDAR 
+(The Christian Calendar) What is now known as the Christian calendar, and used all over the world for civil purposes, had originally nothing to do with Christianity. It was, according to one view, originally the calendar of semi-savage tribes of Northern Europe, who started their year sometime before the **beginning of Spring (March 1 to 25) and had only ten months of 304 days ending about the time of winter solstice (December 25)**, the remaining **61 days** forming a period of **hybernation** when no work could be done due to the onset of winter, and were not counted at all. The city state of Rome also had originally this calendar, but **several corrections** were made by the Roman Governments at different epochs and the final shape was given to it by Julius Caesar in 46 B.C.; the calendar so revised is known as the Julian calendar. 
 
+As already stated, this calendar originally had contained ten months from March to December comprising 304 days. It may be regarded as certain that the months were lunar. The second Roman king of the legendary period, Numa Pompilius, is supposed to have **added two months (51 days)** to the year in about 673 B.C., making a total of 355 days ; **January (named from the god Janus, who faced both ways)** now began the year, and February preceded March, which became the third month. The number of days of the months were 29, 28, 31, 29, 31, 29, 31, 29, 29, 31, 29, 29. Adjustment of the year to the proper seasons was obtained by **intercalation of a thirteenth month of actually 22 or 23 days** length (called Mercedonius) after two years or three years as was considered necessary, and was inserted between February and March.* Had the intercalation been applied regularly at alternate years the additional days in four years would have been 45 (22+23) or 11.25 days per year on average, and so the year-length would have been **366.25** days, only one day in excess of the correct length. But as the intercalation was applied rather arbitrarily some times after two years and sometimes after three years, the **year-beginning gradually shifted** and the year started before the arrival of the proper seasons. 
 
-## THE ROMAN CALELIDAR 
+The days of the month in the Roman calendar were **enumerated backwards from the next following Kalends** (1st of month), **Nones** (5th of month, except in the 31-day months, when the 7th of month), or **Ides** (13th of month, except in the 31-day months, when the 15th of month). The day after the Ides of March, for instance, would be expressed as 17 days before the Kalends of April. 
 
+The Romans upto 45 B.C. apparently had rather a vague idea of the correct length of the year. Julius Caesar after his conquest of Egypt in 44 B. C. introduced the **leap-year system** on the advice of **Egyptian astronomer Sosigenes**, who suggested that the mean length of the year should be fixed at 365.25 days, by making the normal length of the year 365 days and inserting an additional day every fourth year. At the same time the lengths of the months were fixed at their present durations. The extra day in leap years was obtained by repeating the sixth day before the Kalends of March. The name Quintilis, the 5th month from March, was changed to **July** (Julius) in 44 B.C. in honour of Julius Caesar, and the name Sextilis was changed to **August** in 8 B.C. during the reign of his successor, Augustus, and in honour of him. There is a very widespread idea that the durations of July and August were fixed at 31 days. each in order to please the two Roman dictators Julius Caesar, and Octavious Caesar, also called Augustus, and for this purpose the two extra days were cut off from February, thus reducing its duration to 28 days. It is a nice story, but does not appear to have been critically probed. 
 
+Owing to the drifting of the year-beginning, the year 46 B.C. started about 90 days before the proper seasons. The months were first brought back to their correct seasons by giving the year corresponding to **46 B.C.**, a normal intercalation of 23 days after February and then inserting 67 additional days between November and December. This year therefore contained 445 days in all and is known as the '**year of confusion**'. 
 
-(The Christian Calendar) What is now known as the Christian calendar, and used all over the world for civil purposes, had originally nothing to do with Christianity. It was, according to one view, originally the calendar of semi-savage tribes of Northern Europe, who started their year sometime before the beginning of Spring (March 1 to 25) and had only ten months of 304 days ending about the time of winter solstice (December 25), the remaining 61 days forming a period of hybernation when no work could be done due to the onset of winter, and were not counted at all. The city state of Rome also had originally this calendar, but several corrections were made by the Roman Governments at different epochs and the final shape was given to it by Julius Caesar in 46 B.C.; the calendar so revised is known as the Julian calendar. 
-
-
-
-As already stated, this calendar originally had contained ten months from March to December comprising 304 days. It may be regarded as certain that the months were lunar. The second Roman king of the legendary period, Numa Pompilius, is supposed to have added two months (51 days) to the year in about 673 B.C., making a total of 355 days ; January (named from the god Janus, who faced both ways) now began the year, and February preceded March, which became the third month. The number of days of the months were 29, 28, 31, 29, 31, 29, 31, 29, 29, 31, 29, 29. Adjustment of the year to the proper seasons was obtained by intercalation of a thirteenth month of actually 22 or 23 days' length (called Mercedonius) after two years or three years as was considered nece ssary, and was inserted between February and March.* Had the intercalation been applied regularly at alter nate years the additional days in four years would have been 45 (22+23) or 111 days per year on average, 
-
-
-
-and so the year-length would have been 3661 days, only one day in excess of the correct length. But as. the intercalation was applied rather arbitrarily some times after two years and sometimes after three years, the year-beginning gradually shifted and the year started before the arrival of the proper seasons. 
-
-
-
-The days of the month in the Roman calendar were enumerated backwards from the next following Kalends (1st of month), Nones (5th of month, except in the 31-day months, when the 7th of month), or Ides (13th of month, except in the 31-day months, when the 15th of month). The day after the Ides of March, for instance, would be expressed as 17 days before the Kalends of April. 
-
-
-
-The Romans upto 45 B.C. apparently had rather a vague idea of the correct length of the year. Julius Caesar after his conquest of Egypt in 44 B. C. introduced the leap-year system on the advice of Egyptian astronomer Sosigenes, who suggested that the mean length of the year should be fixed at 3651 days, by making the normal length of the year 365 days and inserting an additional day every fourth year. At the same time the lengths of the months were fixed at their present durations. The extra day in leap years was obtained by repeating the sixth day before the Kalends of March. The name Quintilis, the 5th month from March, was changed to July (Julius) in 44 B.C. in honour of Julius Caesar, and the name Sextilis was changed to August in 8 B.C. during the reign of his successor, Augustus, and in honour of him. There is a very widespread idea that the durations of July and August were fixed at 31 days. each in order to please the two Roman dictators Julius Caesar, and Octavious Caesar, also called Augustus, and for this purpose the two extra days were cut off from February, thus reducing its duration to 28 days. It is a nice story, but does not appear to have been critically probed. 
-
-
-
-Owing to the drifting of the year-beginning, the year 46 B.C. started about 90 days before the proper seasons. The months were first brought back to their correct seasons by giving the year corresponding to 46 B.C., a normal intercalation of 23 days after February and then inserting 67 additional days between November and December. This year therefore contai ned 445 days in all and is known as the 'year of confusion'. 
-
-
+(\* In fact, the intercalary month consisted sometimes of 27 days and sometimes of 28 days and was inserted after February 23. The last five days of February, which were due to be repeated after the close of the intercalary month, were not actually repeated, resulting in the intercalation of 22 or 23 days only. )
 
 But the perfect calendar was still a long way off. Caesar wanted to start the new year on the 25th December, the winter solstice day. But people resisted that choice because a new-moon was due on January 1, 45 B.C. and some people considered that the new-moon was lucky. Caesar had to go along with them in their desire to start the new reckoning on a traditional lunar landmark. 
 
+The Julian calendar spread throughout the Roman empire and survived the introduction of Christianity. But the Christians introduced their own holidays which were partly Jewish in origin and for this, luni solar and week-day reckonings had to be adopted.
 
-
-* In fact, the intercalary month consisted sometimes of 27 days and sometimes of 28 days and was inserted after February 23. The last five days of February, which were due to be repeated after the close of the intercalary month, were not actually repeated, resulting in the intercalation of 22 or 23 days only. THE SOLAR CALENDAR 
-
-
-
-169 
-
-
-
-The Julian calendar spread throughout the Roman empire and survived the introduction of Christianity. But the Christians introduced their own holidays which were partly Jewish in origin and for this, luni solar and week-day reckonings had to be adopted. 
-
-
-
-Origin of the Seven-day Week 
-
-
+### Origin of the Seven-day Week 
 
 Invention of the Seven-day Week Much of ancient astronomical knowledge is due to Chaldean astronomers who flourished between the seventh century B.C. and the third century A.D., as related in $4.7. They gave particular attention to the study of the movement of the sun, the moon and the planets, which they identified with their gods, because they thought that destiny of kings and states were controlled by the gods, i.e., by the planets, and attached the greatest importance to the observa tion of the position and movement of planets. They attached magical value to the number 'Seven' which was the number of planets or gods controlling human destiny. 
 
