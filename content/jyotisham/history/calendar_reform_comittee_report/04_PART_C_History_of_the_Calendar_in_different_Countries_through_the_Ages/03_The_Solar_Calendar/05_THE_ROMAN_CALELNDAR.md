@@ -57,15 +57,17 @@ The table shows the picture for Saturday. On this day, Saturn keeps watch at the
 
 Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, and Friday... 
 
-{{< figure src="../../../images/weekday_succession.png" title="Weekday succession" class="thumbnail">}}
+{{< figure src="../../../images/weekday_succession.png" title="Fig. 1-The order of week-days derived from the order of planets. Saturday followed by Sunday, then Monday and so on." class="thumbnail">}} 
 
-the classics like the great epic Mahabharata. They occur in inscriptions only from 484 A.D., but not in inscriptions of 300 A.D. Even now, they form but an únimportant part in the religious observances of the Hindus which are determined by the moon's phases. . 
+The Jews, it may be mentioned, reckon the days by ordinal numbers--the first, second......... seventh day. The first day is Saturday. 
+
+The seven-day week, from the account of its origin is clearly based on astrological ideology. The continuous seven-day week was unknown to the classical Greeks, the Romans, the Hindus, and early Christians. It was introduced into the Christian world by an edict of the **Roman emperor Constantine**, about 323 A.D., who changed the Sabbath to the Lord's Day (Sunday), the week-day next to the Jewish Sabbath. Its introduction into India is about the same time and from the same sources. The week-days are not found in earlier Hindu scriptures like the Vedas or the classics like the great epic Mahabharata. They occur in **inscriptions only from 484 A.D.**, but not in inscriptions of 300 A.D. Even now, they form but an unimportant part in the religious observances of the Hindus which are determined by the moon's phases. 
 
 It can therefore be said that the unbroken seven day week was not a part of the religious life of any ancient nation, and it is not, even now, part of the religious life of many modern nations. It is a man-made institution introduced on psychological grounds, and therefore can be or should be modified if that leads to improvement and simplification of human life. 
 
 ## The Christian Era 
 
-The present Christian era came into vogue much later. About 530 A.D., the era-beginning was fixed from the birth year of Christ which was fixed after a certain amount of research by the Scythian Bishop Dionysius Exiguus and Christ's birth day (Christmas) was fixed on December 25 which was the Julian date for the winter solstice day and the ceremonial birth day of the Persian god Mithra in the first century B.C. The discovery of a Roman inscription at Ankara shows that King Herod of the Bible who is said to have ordered the massacre of innocents was dead for four years at 1 A.D., and therefore Christ must have been born on 4 B.Ç., or somewhat earlier. 
+The present Christian era came into vogue much later. About 530 A.D., the era-beginning was fixed from the birth year of Christ which was fixed after a certain amount of research by the Scythian Bishop **Dionysius Exiguus** and Christ's birth day (Christmas) was fixed on **December 25** which was the **Julian date for the winter solstice day** and the **ceremonial birth day of the Persian god Mithra** in the first century B.C. The discovery of a Roman inscription at Ankara shows that King Herod of the Bible who is said to have ordered the massacre of innocents was dead for four years at 1 A.D., and therefore **Christ** must have been born on **4 B.C., or somewhat earlier**. 
 
 Mar's 
 
