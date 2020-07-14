@@ -153,7 +153,7 @@ It appears from these passages that Vedic Aryans had once a year of 360 days as 
 
 Ķg-Veda, 1. 25.8 Veda māso dhỉtavrato dvādaśa prajāvataḥ 
 
-vedāya upajāyate. Translation : Dhrtavrata ( Paruņa ) knows the twelve months : (and) the animals created during that period; (and) he knows (the intercalary month) which is created (near the twelve months). 
+vedāya upajāyate. Translation : Dhrtavrata ( Paruṇa ) knows the twelve months : (and) the animals created during that period; (and) he knows (the intercalary month) which is created (near the twelve months). 
 
 This passage makes it clear that the calendar was luni-solar. But how was the adjustment made ? 
 
@@ -217,7 +217,7 @@ This verse shows that the custom of designating the day (it means day and night)
 
 dates earlier than 1200 B.C. at least. 
 
-Rg-Veda, 5.54. 13 Yuṣmā dattrasya Maruto vicetaso rāyaḥ gyáma rathyo vayasvataḥ na yo yucchati tiṣyo yathā divo'sme rāranta Marutah sabasriņań. 
+Rg-Veda, 5.54. 13 Yuṣmā dattrasya Maruto vicetaso rāyaḥ gyáma rathyo vayasvataḥ na yo yucchati tiṣyo yathā divo'sme rāranta Marutah sabasriṇań. 
 
 Translation : You wise Maruts, we would like to be disposer of the wealth conferred by you on us ; it should not deviate (from us) as Tiṣya does not deviate from the heavens. 
 
@@ -343,7 +343,7 @@ At the present times, the naksatras start with Asvini, of which the junction sta
 
 In all older literatures, on the other hand, including the great epic Mahābhārala, whose composition or compilation may be dated about 400 B.C., the first nakṣatra is Krttikā, It therefore stands to reason to assume that at one time, when the nakṣatra enumeration started, the Pleiades were close to the astronomical first point of Aries, or rose near the true east. This is implied in the following verse which S. B. Dikṣit picked out of the Satapatha Brāhmaṇa : 
 
-śatapatha Brāhmana, 2.1.2. Ekam dve triņi catvārīti vā anyāni nakgatrānyathaitā eva bhūyiṣṭhā yat kfttikā.... Etā ha vai prācyai digo na cyavante Servāni ha vã anyũni nakgatrani 
+śatapatha Brāhmana, 2.1.2. Ekam dve triṇi catvārīti vā anyāni nakgatrānyathaitā eva bhūyiṣṭhā yat kfttikā.... Etā ha vai prācyai digo na cyavante Servāni ha vã anyũni nakgatrani 
 
 prācyai diśaścyavante. Translation :--Other nakṣatras have one, two, three or four ( stars ) only ; these Krttikās have many ( stars )... They do not deviate from the east; all other nakṣatras deviate from the east. 
 
@@ -403,7 +403,7 @@ Agni
 
 → Tauri 
 
-59° 17' 39" + 4° 2' 46" 2. Rohiņi 
+59° 17' 39" + 4° 2' 46" 2. Rohiṇi 
 
 Prajāpati 
 
@@ -487,7 +487,7 @@ Mitra
 
 & Scorpii 
 
-241 52 23 - 1 58 49 16. Robiņi 
+241 52 23 - 1 58 49 16. Robiṇi 
 
 Indra 
 
@@ -517,9 +517,9 @@ Brahma
 
 α Lyrae 
 
-61 44 7 Sroņā 
+61 44 7 Sroṇā 
 
-Viṣņu 
+Viṣṇu 
 
 a Aquilae 
 
@@ -531,7 +531,7 @@ B Delphini
 
 55 21 22. Satabhisak 
 
-Indra, Varuņa 
+Indra, Varuṇa 
 
 à Aquarii 
 
@@ -569,7 +569,7 @@ Yama
 
 Taittiriya Samhita, 7.4.8. The Lunar Month-Names 
 
-Samvatsarasya yat phalguní pārņamāgo mukhata The solar month-names given earlier have not eva samvatsaramārabhya dikgante tasyai kaiva gone into general currency. The month-names niryā-yat sāmmedhye viṣuvānt sampadyate generally used are of lunar origin as given in § 5.7. Citrā pūrņamāge dikṣeran mukhan vā etat samvatsarasya These names are first found in the Taittiriya Samhita yat citrā pārņamāso mukhata eva... 7.4.8, and in many other places of the Yajur-Veda Translation :-One should get consecrated on the literature, but in a somewhat different form. We Phalguni full-moon day because Phālguna full moon quote parts of the passage. 
+Samvatsarasya yat phalguní pārṇamāgo mukhata The solar month-names given earlier have not eva samvatsaramārabhya dikgante tasyai kaiva gone into general currency. The month-names niryā-yat sāmmedhye viṣuvānt sampadyate generally used are of lunar origin as given in § 5.7. Citrā pūrṇamāge dikṣeran mukhan vā etat samvatsarasya These names are first found in the Taittiriya Samhita yat citrā pārṇamāso mukhata eva... 7.4.8, and in many other places of the Yajur-Veda Translation :-One should get consecrated on the literature, but in a somewhat different form. We Phalguni full-moon day because Phālguna full moon quote parts of the passage. 
 
 is the "mouth" of the year. Hence, ( such people ) are 
 
@@ -613,7 +613,7 @@ moon m
 
 taken as consecrated from the very beginning of the year. But such people have to accept one "nirya' ( draw back ), viz., that the Visuvān* occurs in the cloudly season ( sammedhya ). Hence, one should consecrate on the Citrā full-moon day. The Citrā full moon month is the 'mouth of the year. 
 
-From these passages, we learn that the lunar month came gradually. The ancient Indians reckoned by the pakṣa or the fortnight, and distinguished the closing full moon day of the pakṣa by the nakṣatra where the moon was full. Thus Phālguni Paurņamāsi is that full moon when the moon gets full near the Uttara Phalguni star (B Leonis ), one of the lunar mansions. Caitri Paurņamāst is that full moon, when the moon gets full near the Citrā star (a Virginis ), which is the 14th lunar mansion. Later, as the months were always full-moon ending, the word paurņamāsi was dropped, and, e.g., the first part of Caitra-Paurna māsi, i.e., Caitra became the lunar month-name. The above passage says that the Phālguna Paurnamāsi was regarded as the last day of the year and less frequently the Caitra Paurņamāsi. This system still continues, and the first lunar month Caitra of the lunar year begins on the day after Phalguni Paurņamāsi. 
+From these passages, we learn that the lunar month came gradually. The ancient Indians reckoned by the pakṣa or the fortnight, and distinguished the closing full moon day of the pakṣa by the nakṣatra where the moon was full. Thus Phālguni Paurṇamāsi is that full moon when the moon gets full near the Uttara Phalguni star (B Leonis ), one of the lunar mansions. Caitri Paurṇamāst is that full moon, when the moon gets full near the Citrā star (a Virginis ), which is the 14th lunar mansion. Later, as the months were always full-moon ending, the word paurṇamāsi was dropped, and, e.g., the first part of Caitra-Paurna māsi, i.e., Caitra became the lunar month-name. The above passage says that the Phālguna Paurnamāsi was regarded as the last day of the year and less frequently the Caitra Paurṇamāsi. This system still continues, and the first lunar month Caitra of the lunar year begins on the day after Phalguni Paurṇamāsi. 
 
 There are twenty-seven nakṣatras and so only 12 can be selected for lunar month-names. 
 
@@ -663,7 +663,7 @@ This has been interpreted by Prof. P. C. Sengupta as follows:
 
 During the waxing moon ( śukla pakṣa ), the tithi was reckoned from moon-set to moon-set ;, and during the waning moon ( krsna pakṣa ), the tithi was reckoned from moon-rise to moon-rise. The tithis were thus of unequal length, as shown by Prof. P. C. Sengupta in Table No. 11 on page 222. 
 
-Of course, full moon takes place by turn in all the nakṣatras. But only 12 at approximately equal intervals could be selected. But we have too Rauhinya paurņamāsi etc. the pakṣa when the moon becomes full near Rohini, or Aldebaran ( lunar mansion No. 4). But Rauhinya' was not selected for the name of a lunar month, because it was too near Krttikā-Paurņa māsī. 
+Of course, full moon takes place by turn in all the nakṣatras. But only 12 at approximately equal intervals could be selected. But we have too Rauhinya paurṇamāsi etc. the pakṣa when the moon becomes full near Rohini, or Aldebaran ( lunar mansion No. 4). But Rauhinya' was not selected for the name of a lunar month, because it was too near Krttikā-Paurṇa māsī. 
 
 5.4 THE VEDANGA JYOTISHA CALENDAR 
 
@@ -775,7 +775,7 @@ an unknown antiquity, which is set by some at 1300 B.C. to 900 A.D.
 
 The Vedanga Jyotupa is generally assigned to this period. It may be said to be a sort of collection of short aphorisms giving mathematical rules for fixing the calendar in advance, and is known in three versions : the Rg-Jyotiṣa consisting of 36 verses, attached to the Rg-Veda and ascribed to one Lagadha 
 
-as mentioned earlier, the Yājuṣ Jyotiņa attached to the Yajurveda and consisting of 43 verses, and there is a text ascribed to one Somakara, a commentator of unknown age of the Vedas. The dffferent texts contain about the same matter, but the verses are haphazardly arranged showing that the original texts have not come down to us in an unadulterated form. The number of independent, verses in all the versions 
+as mentioned earlier, the Yājuṣ Jyotiṇa attached to the Yajurveda and consisting of 43 verses, and there is a text ascribed to one Somakara, a commentator of unknown age of the Vedas. The dffferent texts contain about the same matter, but the verses are haphazardly arranged showing that the original texts have not come down to us in an unadulterated form. The number of independent, verses in all the versions 
 
 INDIAN CALENDAR 
 
@@ -855,7 +855,7 @@ We know 62 x 29.53059=1830.8965 days. Hence in order to make the tithi calculati
 
 The Time of the Vedanga Jyotisha All recensions of the Vedānga Jyotiṣa contain the following verses : 
 
-Svarākramete somārkau yadā sākam savāsavau Syāttadādiyugan māghastapah suklo'yanan hyudak. (6) Prapadyete graviṣthādau sūryācandramasāvudak Sārpārdhe dakṣiņārkastu māghasrāvanayoḥ sadā. (7) These two verses taken together yield the following: 
+Svarākramete somārkau yadā sākam savāsavau Syāttadādiyugan māghastapah suklo'yanan hyudak. (6) Prapadyete graviṣthādau sūryācandramasāvudak Sārpārdhe dakṣiṇārkastu māghasrāvanayoḥ sadā. (7) These two verses taken together yield the following: 
 
 The winter solstice took place at the lunar asterism Śraviṣtha, which is later called Dhaniṣthā. 
 
@@ -999,7 +999,7 @@ In his Brhat Samhita, an astrological treatise, he. records :
 
 Effect of Procession The Vedānga Jyotiṣa was prevalent for a long time over India, for over 1300 years (1000 B.C. to 300 A.D.). Hence it is likely that the subsequent astronomers noticed the gradual shift of the solstitial colure in the lunar-zodiac. In fact, several references are found to this effect. Garga, an astronomer whose name is found in the Mahabharata, where he is described as having an astronomical school at a place called Gargasrota in the Sarasvatī basin, is the reputed author of a pre-Siddhantic calendaric treatise called Garga Samhita. . He notes : 
 
-Yadā nivarta to'prāptaḥ śraviṣthamuttarāyape Aśleṣām dakśiņo'prāptah tadā vindyanma had bhayam. 
+Yadā nivarta to'prāptaḥ śraviṣthamuttarāyape Aśleṣām dakśiṇo'prāptah tadā vindyanma had bhayam. 
 
 Translation : When at the time of Ottarāyana the sun is found turning (north) without reaching the Sraviṣthās; and (at the time of Dakṣiṇāyana) turning (south) without reaching the Aśleṣā, it should be taken to indicate a period of calamity. 
 
@@ -1007,13 +1007,13 @@ It shows that at the time of Garga the W.S. did no longer occur in Śraviṣthā
 
 In the Mahabharata we get the following verse : 
 
-Aśvamedha, Chap. 44;2: .. Abab pūrvani tatorātrirmāsāḥ śukládayalı gmịtāḥ Sravaņādini çkṣāni staveb sisirādayah . 
+Aśvamedha, Chap. 44;2: .. Abab pūrvani tatorātrirmāsāḥ śukládayalı gmịtāḥ Sravaṇādini çkṣāni staveb sisirādayah . 
 
 Translation : Day comes first and then the night ; months, are known to commence with the bright half, the nakṣatras with Śravana, and the seasons with Sibira, 
 
 Here the asterism Śravana is described as the one where the winter solstice takes place. śravaṇa is ust preceding Sravistha and the solstices take about 460 years to retrograde through one nakṣaira division. 
 
-Brhat Samhitā, III, 1 Asleṣārdbātdakgiņam uttaramayanan raverdbaniṣthôdyam Nūnaṁ kadācidāsīt yenoktani pūrvasõstresu. 
+Brhat Samhitā, III, 1 Asleṣārdbātdakgiṇam uttaramayanan raverdbaniṣthôdyam Nūnaṁ kadācidāsīt yenoktani pūrvasõstresu. 
 
 Translation : The beginning of the southern motion when the sun has passed half of Aśleṣā and the begin ning of the northern motion when the sun has passed the beginning of Dhaniṣthā, must have taken place at some epoch; for these are recorded in old treatises. 
 
@@ -1085,7 +1085,7 @@ Parṣa, Māgha, Phālguna.
 
 3. The months are not mentioned by name, except 
 
-in one case where the month of Māgha is mentioned. They are purņimānta, i.e., they started after full moon and ended in full moon. This is not expressly mentioned but can be inferred from the fact that the 14th, the 15th (Pañicadaßi) and the Pratipada, i.e., the first tithi are enjoined to be the days on which certain actions are forbidden. These must be the three days of invisibility of the moon, the 14th being before new moon, the 15th the new moon, and the first, the day after new moon, which were observed as unsuitable for 
+in one case where the month of Māgha is mentioned. They are purṇimānta, i.e., they started after full moon and ended in full moon. This is not expressly mentioned but can be inferred from the fact that the 14th, the 15th (Pañicadaßi) and the Pratipada, i.e., the first tithi are enjoined to be the days on which certain actions are forbidden. These must be the three days of invisibility of the moon, the 14th being before new moon, the 15th the new moon, and the first, the day after new moon, which were observed as unsuitable for 
 
 many particular performances. 4. The day reckoning was by the tithi (lunar day), 
 
@@ -1101,9 +1101,9 @@ Tiṣya (8 Cancri), and Punarvasu (6 Geminorum). As suggested one was probably h
 
 passage : Balarama, the elder brother of Krṣna, after returning from pilgrimage on the eighteenth day of the battle states : 
 
-M. Bh., Salya Parva, Ch.34, 6 Catvāriņsadahānyadya dve ca me niħsștasya vai Puṣyeņa samprayāto'smi śravane punarāgataḥ.. 
+M. Bh., Salya Parva, Ch.34, 6 Catvāriṇsadahānyadya dve ca me niħsștasya vai Puṣyeṇa samprayāto'smi śravane punarāgataḥ.. 
 
-Translation: It is forty-two days since I left the house. I started on the Puṣya (day) and have returned on the Śravaņa. 
+Translation: It is forty-two days since I left the house. I started on the Puṣya (day) and have returned on the Śravaṇa. 
 
 6. There is no mention of the year-beginning. 
 
@@ -1115,7 +1115,7 @@ C. R.--37
 
 228 
 
-No records bearing a date of the imperialdynasties following the Mauryas, viz., the Sungas, and Kanvas (186 B.C.-45 A:D.) are known. But the next imperial dynasty, the Satavahanas have left plenty of dated records. In these, the same system of date-recording by regnal years, the seasons, the pakṣas, and tithis are found. There are 8 pakṣas in a season of four months, and they were serially numbered from 1 to 8. The odd ones were Krṣņa pakṣas, the even ones śukla paksas. 
+No records bearing a date of the imperialdynasties following the Mauryas, viz., the Sungas, and Kanvas (186 B.C.-45 A:D.) are known. But the next imperial dynasty, the Satavahanas have left plenty of dated records. In these, the same system of date-recording by regnal years, the seasons, the pakṣas, and tithis are found. There are 8 pakṣas in a season of four months, and they were serially numbered from 1 to 8. The odd ones were Krṣṇa pakṣas, the even ones śukla paksas. 
 
 Some examples are given below : 
 
@@ -1225,15 +1225,15 @@ pakye. 11. Paja : sainvatsaraye ekadaśa [śa*] timaye 111
 
 1 maharayasa Guṣanasa rajami. 15. Taxila silver scroll : sa 136 ayasa Aṣadasa 
 
-masasa divase 15 eśa divase... Maharajasa rajatirajasa devaputrasa Khuṣaņasa aroga 
+masasa divase 15 eśa divase... Maharajasa rajatirajasa devaputrasa Khuṣaṇasa aroga 
 
-dakṣiņae. 16. Peṣāwar Museum, No. 20 : sam 168 Jethamase 
+dakṣiṇae. 16. Peṣāwar Museum, No. 20 : sam 168 Jethamase 
 
 divase paincadase. 17. Khalatse : sam 187 maharajasa Uvimaka (vthi] 
 
 , sasa. . 18. Taxila silver vase : ka 191 maharaja [bhrata 
 
-Manigulasa putrasa.]Jihoņikasa Crukhsasa 
+Manigulasa putrasa.]Jihoṇikasa Crukhsasa 
 
 kṣatrapasa. . 19. Dewai : sam 200 Vesakhasa masasa dirase 
 
@@ -1249,7 +1249,7 @@ The Method of Date Recording A record fully dated in Group A gives :
 
 The year of the era in figures and words ; though it does not give any particular designation to the era. 
 
-The month, mostly in Sanskrit ; the day, by its ordinal number, e.g., No. 11, which means in the year 111 on the 15th day of the month of Śrāvaņa. 
+The month, mostly in Sanskrit ; the day, by its ordinal number, e.g., No. 11, which means in the year 111 on the 15th day of the month of Śrāvaṇa. 
 
 The months are all in Sanskrit, except in No. 6, in which the month is in Greek (Panemos= Āsādha). No. 6 alone of this group contains the rather mysterious phrase 'Etaye pūrvaye' which means, 'before these'. This phrase, the meaning of which is not clear, occurs in Kuṣāna (Group B) and even in Gupta inscriptions. 
 
@@ -1277,7 +1277,7 @@ phagune isa kṣunami............Murodasa
 
 marjhakasa Kaniskasa rajami. 27. Manikiala : sam 18 Kartiyasa majh [e] divase 
 
-20 etra pūrvae maharajasa Kaņeṣkasa. 28. Box lid : sam 18 masye Arthamisiya sastehi 10 
+20 etra pūrvae maharajasa Kaṇeṣkasa. 28. Box lid : sam 18 masye Arthamisiya sastehi 10 
 
 is [e ) kṣunammri. 29. Kurram : san 20 masasa Avadunakasa di 20 
 
@@ -1423,7 +1423,7 @@ The gradual adoption of characteristic Indian ideas by the Sakas is shown in a r
 
 [Gundā Stone Inscription of the time of Rudrasimha I, Sircar, p. 176] 
 
-Siddham. Rājñaḥ mahā kṣatrapasya svāmi-Castana prapautrasya rājñaḥ kṣatrapasya svāmi Jayadāmapautrasya rājraḥ mahākṣatrapasya. svāmi-Rudradāma-putrasya rajñaḥ kṣatrapasya svāmi-Rudrasimhasya varse tryutta rasata ( tame ) ( adhika ) 103 Vaiśākha śuddhe (=śuklapakṣe) pancama-dhanya tithau Rohini nakṣatra muhūrle ābhireņa senāpati Bappakasya putreņa senāpati Rudrabhūtinā grāme rasāpadrake vāpi (=kūpah) khānitā, bandhitā (siladibhiḥ] ca sarra sattvānāin hila sukhārtham iti. 
+Siddham. Rājñaḥ mahā kṣatrapasya svāmi-Castana prapautrasya rājñaḥ kṣatrapasya svāmi Jayadāmapautrasya rājraḥ mahākṣatrapasya. svāmi-Rudradāma-putrasya rajñaḥ kṣatrapasya svāmi-Rudrasimhasya varse tryutta rasata ( tame ) ( adhika ) 103 Vaiśākha śuddhe (=śuklapakṣe) pancama-dhanya tithau Rohini nakṣatra muhūrle ābhireṇa senāpati Bappakasya putreṇa senāpati Rudrabhūtinā grāme rasāpadrake vāpi (=kūpah) khānitā, bandhitā (siladibhiḥ] ca sarra sattvānāin hila sukhārtham iti. 
 
 • Translation : Of king Mahakṣatrapa.....of Svami Rudrasimha in the year 103 in the light half of the month of Vaiśākha on the 5th tithi and in the Robini nakṣatra muhurta,...... 
 
@@ -1443,7 +1443,7 @@ Gupta year 100484 A.D.). Translation : In the year 165 of the Gupta era during t
 
 JYOTISHA PERIOD : Rise of Siddhāntas or Scientific Astronomy: 
 
-The Vedānga Jyotiṣa calendarical rules appear, from inscriptional records, to have been used right up to the end of the reign of the Satavahanas (200 A.D.). The analysis of inscriptional data on methods of date recording given in § 5.5 shows that it was the śaka and Kuṣāņa rulers (50 B.C. - 100 A.D.), who introduced the Graeco-Chaldean methods of date-recording, prevalent in' the Near East into India. These methods require a knowledge of the fundamentals of astronomy, which must have been available to the śaka and Kuṣāna rulers. In India, as 'the inscriptional records show, some purely Indian dynasts probably accepted the system in full from about 248 A.D. (date of foundation of the Kalachuri era, the earliest era founded by Indian kings, leaving aside the śaka era which is admittedly of foreign origin and the Vikrama era whose origin is still - shrouded in mystery). During the time of the Guptas who founded an era commemorating their accession to power in 319 A.D. the integration of the western system with the Indian appears to have been complete. 
+The Vedānga Jyotiṣa calendarical rules appear, from inscriptional records, to have been used right up to the end of the reign of the Satavahanas (200 A.D.). The analysis of inscriptional data on methods of date recording given in § 5.5 shows that it was the śaka and Kuṣāṇa rulers (50 B.C. - 100 A.D.), who introduced the Graeco-Chaldean methods of date-recording, prevalent in' the Near East into India. These methods require a knowledge of the fundamentals of astronomy, which must have been available to the śaka and Kuṣāna rulers. In India, as 'the inscriptional records show, some purely Indian dynasts probably accepted the system in full from about 248 A.D. (date of foundation of the Kalachuri era, the earliest era founded by Indian kings, leaving aside the śaka era which is admittedly of foreign origin and the Vikrama era whose origin is still - shrouded in mystery). During the time of the Guptas who founded an era commemorating their accession to power in 319 A.D. the integration of the western system with the Indian appears to have been complete. 
 
 Indian astronomical treatises, explaining the rules of calendaric astronomy, are known as Siddhāntas, but it is difficult to find out their dates. The earliest Indian astronomer who gave a date for himself was the celebrated Aryabhaṭa who flourished in the ancient city of Pataliputra and was born in 476 A.D. 
 
@@ -1477,7 +1477,7 @@ view.
 
 The Great Buddha, Whose thoughts and ideas dominated India from 500 B.C. to the early centuries of the Christian era, was a determined foe of astro logy. In Buddha's time, and for hundreds of years after Buddha, there was in India no elaborate planetary or horoscopic astrology, but a crude kind of astrology based on conjunctions of the moon with stars and on various kinds of omina such as appearance of comets, eclipses, etc. But Buddha appears to have held even such astrological forecasts in great contempt, as is evident from the following passage ascribed to him : 
 
-Yathā vā pan'eke bbonto. Samaņa-brāhmanā saddhā-deyyāni bhojanāni bhuñjitva te evarūpāya tiraccbāna-vijjāya micchājīvena-jībika m kappenti 
+Yathā vā pan'eke bbonto. Samaṇa-brāhmanā saddhā-deyyāni bhojanāni bhuñjitva te evarūpāya tiraccbāna-vijjāya micchājīvena-jībika m kappenti 
 
 Translation : Some brāhmaṇas and framanas earn their livelihood by taking to beastly professions and eating food brought to them out of fear ; they say : "there will be a solar eclipse, a lunar eclipse, occulta tion of the stars, the sun and the moon will move in the correct direction, in the incorrect direction, the nakṣatras will move in the correct path, in the incorrect path, there will be precipitation of meteors, burning of the cardinal directions (?), earth quakes, roar of heavenly war drums, the sun, the moon, and the stars will rise and set wrongly producing wide distress amongst all beings, etc." 
 
@@ -1631,7 +1631,7 @@ The name Romaka vaguely refers to the capital of the Roman Empire. 'Yamakoți' i
 
 The Surya Siddhānta takes it for granted that the sun's yearly motion through the ecliptic is known to the reader and now proceeds to explain the Signs of the Zodiac. 
 
-Surya Siddhānta XII, 45 Meṣādau devabhāgasthe devānām yāti darśanam . Asurāņāón tulādau tu sūryastadbhāga sañcarah. 
+Surya Siddhānta XII, 45 Meṣādau devabhāgasthe devānām yāti darśanam . Asurāṇāón tulādau tu sūryastadbhāga sañcarah. 
 
 The Solar Calendar according to the 
 
@@ -1641,7 +1641,7 @@ Saturn, Jupiter, Mars, the Sun, Venus, Mercury
 
 and the Moon. The fixed stars are placed beyond the orbit of Saturn. 
 
-Surya Siddhānta, XII, Verse 32 Madhye samantāt daņdasya bhūgolo byomni tiṣthati Bibhrāṇaḥ paramām saktim brahmaño dbāraṇātmikāni. 
+Surya Siddhānta, XII, Verse 32 Madhye samantāt daṇdasya bhūgolo byomni tiṣthati Bibhrāṇaḥ paramām saktim brahmaño dbāraṇātmikāni. 
 
 Translation : Quite in the middle of the celestial egg (Brahmānda), the earth sphere (Bhugola) stands in the ether, bearing the supreme might of Brahmā which has the nature of a self supporting force. 
 
@@ -1667,7 +1667,7 @@ This means that when the sun reaches Meṣādi, the initial point of the sign of
 
 According to the S.S., therefore, the first point of Aries is coincident with the vernal equinoctial point, and the first point of Libra with the autumnal equinoctial point. 
 
-Surya Siddhāntā, XIV, 9 and 10 Bhānor makarasamkrānteh ṣanmāsā uttarāyanam Karkādestu tathaiva syāt gapmāsā dakṣiņāyanan. 9 Dyirāśināthā stava stato’pi siớirāda yaḥ Megādayo dvādaśaite māsāstairova vatsarah. 10. 
+Surya Siddhāntā, XIV, 9 and 10 Bhānor makarasamkrānteh ṣanmāsā uttarāyanam Karkādestu tathaiva syāt gapmāsā dakṣiṇāyanan. 9 Dyirāśināthā stava stato’pi siớirāda yaḥ Megādayo dvādaśaite māsāstairova vatsarah. 10. 
 
 Translation: From the moment of the sun's entrance (samkrānts) into Makara, the sign of Capricorn; six months make up his northward progress (uttarāyana) ; so likewise from the moment of entrance into Karkata, the sign of Cancer, six months are his southward progress (daksināyana). (9) 
 
@@ -1737,7 +1737,7 @@ In a few cases, e.g., in the case of the Vikrama era reckoning as followed in pa
 
 As the S.S. value is still used in almanac-framing, the effect has been that the year:beginning is advancing by .01656 days per year, so that in course of nearly 1400 years, the year-beginning has advanced by 23.2 days, so that the Indian solar year, instead of starting on the day after the vernal equinox (March 22) now starts on April 13th or 14th. The situation is the same as happened in Europe, where owing to the use of a year-length of 365.25 days, since the time of Julius Cæsar, the Christmas preceded the winter solstice by 10 days, when the error was rectified by a Bull of Gregory XIII, and the calendar was stabilized by introducing revised leap-year rules. 
 
-The Calendar Reform Committee has proposed that the Indian New Year should start on the day after the vernal equinox day. Most of the Indian calendar makers belong to the no-changer school, or the nirayaņa school (i.e., school not believing in the precession of the equinoxes). But this school does not realize that even if the sidereal length of the year be: acceped, the Indian year-length used by them is larger by nearly .0024 days, which cannot be tolerated. So if a change has to be made, it is better to do it whole-hog, i.e., take the year-length to be tropical, and start the year on the day after the vernal equinox. 
+The Calendar Reform Committee has proposed that the Indian New Year should start on the day after the vernal equinox day. Most of the Indian calendar makers belong to the no-changer school, or the nirayaṇa school (i.e., school not believing in the precession of the equinoxes). But this school does not realize that even if the sidereal length of the year be: acceped, the Indian year-length used by them is larger by nearly .0024 days, which cannot be tolerated. So if a change has to be made, it is better to do it whole-hog, i.e., take the year-length to be tropical, and start the year on the day after the vernal equinox. 
 
 . This is the proposal of the Indian Calendar Reform Committee, and it is in full agreement with the canons laid down in the Surya Siddhānta. 
 
@@ -1813,7 +1813,7 @@ Vaikāsi
 
 Vrgave Aṣādba 
 
-Aņi 
+Aṇi 
 
 Mithuna Srāvana 
 
@@ -1823,7 +1823,7 @@ Karkitaka Bhādra
 
 Bhād 
 
-Avaņi 
+Avaṇi 
 
 SIMHA Aøvina 
 
@@ -2415,7 +2415,7 @@ Caitra S Caitra K Vaiśākha s
 
 (śuddha) Vaisakha K 
 
-(śuddha) Jye tha s Jyestha K Aṣādha 8 Aṣādha K Śrāvana S Srāvaņa K Bhādra ·8 Bhadra Ağvina Aøvina Kārtika Kārtika Mārga. Mārga. Pausa Pauza Māgha Māgha K Phālguna s Phalguna K 
+(śuddha) Jye tha s Jyestha K Aṣādha 8 Aṣādha K Śrāvana S Srāvaṇa K Bhādra ·8 Bhadra Ağvina Aøvina Kārtika Kārtika Mārga. Mārga. Pausa Pauza Māgha Māgha K Phālguna s Phalguna K 
 
 12 June 28 June 12 July 27 July 10 Aug. 25 Aug. 
 
@@ -2431,11 +2431,11 @@ Asving
 
 ८ 
 
-Jyestha S Aṣādha K Aṣadha 8 Śrāvaņa K Śrāvanas Bhādra K Bhadra s A śvina K Āévina S Kārtika K Kārtika 's Mārga. K Mārga. · s Pausa Pausa Māgha K Māgha 8 Phālguna K Phālguna s Caitra K 
+Jyestha S Aṣādha K Aṣadha 8 Śrāvaṇa K Śrāvanas Bhādra K Bhadra s A śvina K Āévina S Kārtika K Kārtika 's Mārga. K Mārga. · s Pausa Pausa Māgha K Māgha 8 Phālguna K Phālguna s Caitra K 
 
 7 
 
-29 Jyeṣtha 14 Aṣādba 28 Aṣādha 11 Śrāvana 25 Śrāvaņa 
+29 Jyeṣtha 14 Aṣādba 28 Aṣādha 11 Śrāvana 25 Śrāvaṇa 
 
 9 Bhādra 24 Bhadra 
 
@@ -2495,7 +2495,7 @@ Pauga. S Māgha
 
 Pausa Māgha 8 Magba Pbālguna V Māgha Phālguna S Phālguna s Caitra v Phalguna v 
 
-S=śukla pakṣa or Sudi. K=Krṣņa pakṣa. V= 
+S=śukla pakṣa or Sudi. K=Krṣṇa pakṣa. V= 
 
 or Vadi. 
 
@@ -2987,7 +2987,7 @@ Rajasthan, conquered the city of Kanauj about 828 A.D., they brought the Vikrama
 
 The months of the Vikrama era are all lunar, and the first month is Caitra. The months begin after the full-moon but the year begins 15 days after the full moon of Phalguna, i.e. after the new-moon of Caitra. But for astronomical calculations, it is pegged on to a solar year, which starts on the first of solar Vaisakha, theoretically the day after the vernal equinox. The Vikrama era is current also in parts of Gujrat, but there the year begins in Kārtika and the months are amānta, which corresponds to the Macedonian month of Dios, and the epoch is just six months later. Thus the western and northern varieties of the Vikrama era follow respectively the Macedonian and Babylonian reckonings (see § 3.3), the year of starting is 255 years later than that of the Seleucidean era. 
 
-The conclusion is that the champions of the Vikrama era have still to prove the existence of king Vikrama of Ujjain. Early inscriptions show that the method of date-retording is not typically Indian as in the Satavahana inscriptions but follow the śaka-Kuṣāņa method, which follows the contemporary . Graeco Chaldean method. It was therefore a foreign recko ning introduced either by the Greeks or Sakas, or an Indian prince or tribe who had imbibed some Graeco-Chaldean culture, but was adopted by the Malava tribes who migrated from the Punjab to Rajas than about the first century B.C. . The association with a king Vikrama occured 800 years later, and is probably due to lapse of historical memory, for the only historical king Vikramaditya who is known to have crushed the śaka power in Ujjain, was king Candragupta II of the Gupta dynasty (about 395 A.D.). Before this, the śaka dynasty in Ujjain had reigned almost in unbroken sequence from about 100 A.D. to 395 A.D., and had used an era of their own, later known as the "śaka' era. All the Gupta emperors from Samudragupta, had an "Aditya" title, and many of them had the title "Vikramaditya" so that the Gupta age was par excellence the age of Vikramadityas. But all the Gupta emperors use in their inscriptions the family era called the Guptakala which commemorated the foundation of Gupta empire (319 A.B). The association of the Malava era with king Vikramaditya, and assignment of king Vikramaditya to Ujjain, was due to confusion of historical memory not infrequent in Indian history. It may be mentioned that the Vikrama era is never used by Indian astro nomers for their calendaric calculations, for which puapose the śaka era is exclusively used. 
+The conclusion is that the champions of the Vikrama era have still to prove the existence of king Vikrama of Ujjain. Early inscriptions show that the method of date-retording is not typically Indian as in the Satavahana inscriptions but follow the śaka-Kuṣāṇa method, which follows the contemporary . Graeco Chaldean method. It was therefore a foreign recko ning introduced either by the Greeks or Sakas, or an Indian prince or tribe who had imbibed some Graeco-Chaldean culture, but was adopted by the Malava tribes who migrated from the Punjab to Rajas than about the first century B.C. . The association with a king Vikrama occured 800 years later, and is probably due to lapse of historical memory, for the only historical king Vikramaditya who is known to have crushed the śaka power in Ujjain, was king Candragupta II of the Gupta dynasty (about 395 A.D.). Before this, the śaka dynasty in Ujjain had reigned almost in unbroken sequence from about 100 A.D. to 395 A.D., and had used an era of their own, later known as the "śaka' era. All the Gupta emperors from Samudragupta, had an "Aditya" title, and many of them had the title "Vikramaditya" so that the Gupta age was par excellence the age of Vikramadityas. But all the Gupta emperors use in their inscriptions the family era called the Guptakala which commemorated the foundation of Gupta empire (319 A.B). The association of the Malava era with king Vikramaditya, and assignment of king Vikramaditya to Ujjain, was due to confusion of historical memory not infrequent in Indian history. It may be mentioned that the Vikrama era is never used by Indian astro nomers for their calendaric calculations, for which puapose the śaka era is exclusively used. 
 
 (e) Tho śaka Bra The śaka Era is the era par excellence which has been used by Indian astronomers all over India in their calculations since the time of the astronomer Varaha mihira (died 587 A.D.) and probably earlier. The Indian almanac-makers, even now, use the śaka era for calculations, and then convert the calculations to their own systems. 
 
@@ -3089,7 +3089,7 @@ Yudhisthira
 
 Laukika 
 
-Buddha Nirjāņa Mabāvira Nirvāņa Vikrama (1) 
+Buddha Nirjāṇa Mabāvira Nirvāṇa Vikrama (1) 
 
 , (II) 
 
@@ -3123,7 +3123,7 @@ Year of eral Date af Zerth year curfent in commenco
 
 " Year-boginning 
 
-Parniņānta or 
+Parniṇānta or 
 
 of Era 1954 A. D. 
 
@@ -3135,7 +3135,7 @@ Luni-Solar (Lunar months)
 
 A. D. 3101 5055 April Megādi(Ver.equi.) Caitra 81 3176 
 
-Caitra 81 Pūrņimānta Kashmir 
+Caitra 81 Pūrṇimānta Kashmir 
 
 \- 2448 
 
@@ -3153,7 +3153,7 @@ Ceylon
 
 \- 527 12481 
 
-Kārtika 81 .: 2011 April 4 Vernal equinox | Caitra 81 Pūrņimānta | N. India excopt Bengal L' 2011 Oct. 27 Kārtika 81 Amanta 
+Kārtika 81 .: 2011 April 4 Vernal equinox | Caitra 81 Pūrṇimānta | N. India excopt Bengal L' 2011 Oct. 27 Kārtika 81 Amanta 
 
 Gujarat 
 
@@ -3393,7 +3393,7 @@ Bapudev Sastri, C. I. E., Professor in the Sanskrit College, day for a person on
 
 Banaras, who wrote in 1862, as follows : (A.E.) te the next 21st March (V.E.), there will be & 
 
-"Since the nirayaņa sain krāntis cannot be determined continuous night for gió months. 
+"Since the nirayaṇa sain krāntis cannot be determined continuous night for gió months. 
 
 with precision and without doubt and since the nirayana The position described above is for the northern hemis-. raśis have no bearing on the ecliptic and its northern and phere, viz., for those dwelling north of the equator. In the southern halves, we must not kanker after nirayanus system southern hemisphere the position is just reversed ; whan for the purposes of our religious and other rites. We must the day is longer in the northern hemisphere, it is shorter: accept sāyana and our religious and other rites should be in the southern hemisphere. 
 
@@ -3517,7 +3517,7 @@ the table below. The spring season did not start with the 2.8., north-ward passa
 
 vernal equinox, as already stated but a month earlier and it Spring and Summer. It is the period from winter solstice 
 
-was extended & month later, and so for every season. to summer solstice, and vice-versa, the period from summer solștice to winter solstice was known as the Dakṣiņāyana, i.e., southward passage and it consisted of Rains, Autumn. 
+was extended & month later, and so for every season. to summer solstice, and vice-versa, the period from summer solștice to winter solstice was known as the Dakṣiṇāyana, i.e., southward passage and it consisted of Rains, Autumn. 
 
 Table 29, and Hemanta. 
 
@@ -3887,7 +3887,7 @@ B Ariotis
 
 Aśvini 
 
-Bharaņi 
+Bharaṇi 
 
 41 Arietis 
 
@@ -3971,7 +3971,7 @@ Krttika
 
 O 40 
 
-Rohiņi 
+Rohiṇi 
 
 a Tauri 
 
@@ -4835,7 +4835,7 @@ But it is obvious that once the Indian astronomers the equinoxes, as this point 
 
 recognized to as the starting point of the zodiac, and started solstitial point. 
 
-giving co-ordinates of stars in terms of ro as the starting Before the Siddhāntic period, the lunar calendar was of point, they could not avoid noticing the movement of the primary importance, hence the exact fixation of the vernal equinoxes, just as it happened with Hipparchos in Greece. equinoctial point (ro) was not very important. It became According to Brabmagupta (628 A.D.), the first astronomer important from tbe time the Indian astronomers of the who made a pointed reference to it was one Viṣņu Candra, Siddhānta period first realized that ro should form the : author of the Vāsiṣtha Siddhānta whose dato is given as zerq-point of the zodiac ; and made attempts at different ca. 578 A.D. He was supported by one Sriṣeņa of whom epochs ( 285 A.D.-600 A.D. ) to give co-ordinates of stars only the name survives. For holding these views these (Dhruvaka and Vikṣepa) with respect to this as the initial astronomers were roundly abused by Brahmagupta whose point. Chapter VIII of modern Sūrya-Siddhānta gives a views on these points appear to have been confused. But resume' of these co-ordinates for the junction-stars of the undeterred by the great prestige of Brahmagupta, later lunar asterigms. Our analysis of these data as given in Astronomers continued to make references to the movement Appendix 5-B shows that these co-ordinates must have of the equinoctial points. been obtained by actual observations at different epochs, and Wo cite some examples. as the compiler of the Surya-Siddhānta was ignorant of the 
+giving co-ordinates of stars in terms of ro as the starting Before the Siddhāntic period, the lunar calendar was of point, they could not avoid noticing the movement of the primary importance, hence the exact fixation of the vernal equinoxes, just as it happened with Hipparchos in Greece. equinoctial point (ro) was not very important. It became According to Brabmagupta (628 A.D.), the first astronomer important from tbe time the Indian astronomers of the who made a pointed reference to it was one Viṣṇu Candra, Siddhānta period first realized that ro should form the : author of the Vāsiṣtha Siddhānta whose dato is given as zerq-point of the zodiac ; and made attempts at different ca. 578 A.D. He was supported by one Sriṣeṇa of whom epochs ( 285 A.D.-600 A.D. ) to give co-ordinates of stars only the name survives. For holding these views these (Dhruvaka and Vikṣepa) with respect to this as the initial astronomers were roundly abused by Brahmagupta whose point. Chapter VIII of modern Sūrya-Siddhānta gives a views on these points appear to have been confused. But resume' of these co-ordinates for the junction-stars of the undeterred by the great prestige of Brahmagupta, later lunar asterigms. Our analysis of these data as given in Astronomers continued to make references to the movement Appendix 5-B shows that these co-ordinates must have of the equinoctial points. been obtained by actual observations at different epochs, and Wo cite some examples. as the compiler of the Surya-Siddhānta was ignorant of the 
 
 Muõjāla Bhata, a south Indian astronomer, wrote a phenomenon of procession of the equinoxes, he made an 
 
@@ -4857,7 +4857,7 @@ Viṣuvada pakramamandala-sampāte prāci moṣādiḥ The word 'Ayana Calana’
 
 Nirdiṣto-yanasandbiścalanam tatraiva sambhavati: in Hindu astronomy to render the term 'Precession of the Equinoxes' by the words 'Ayana Calana'. We shall follow this practice through 
 
-tadbhagaņāh kalpe ayu-go-rasa-rasago-'bka-candra out. 
+tadbhagaṇāh kalpe ayu-go-rasa-rasago-'bka-candra out. 
 
 . mitāh. 4. 
 
@@ -4939,7 +4939,7 @@ He further says : Ayanacalanam yaduktam Muðjālādyaiḥ sa evāyam
 
 (199669). 
 
-Atha ca yo vā to vā bhaganāḥ bhavantu yadā yo'msa nipuņairupa labhyante tadā sa ova krāntipātaḥ. 
+Atha ca yo vā to vā bhaganāḥ bhavantu yadā yo'msa nipuṇairupa labhyante tadā sa ova krāntipātaḥ. 
 
 Translation :-"What Muðjāla and others have mention ed as 'Ayano Calana', is nothing but the motion of this .. equinoctial point. According to their view the number of revolution in a Kalpa is 199669 (yielding annul rate of 59".9). Let whatsoever be the number of revolutions, whatever amount is obtained by expert observers is the angle of precession for that time.” 
 
@@ -4981,7 +4981,7 @@ is called the Kṣaya year. In actual practice, the interval between two expunct
 
 There was indeed at one time a period of 12 Jovian years, but at some past epoch, a fivefold multiple, a cycle of 60 Jovian years, each with a special name suffixed by the word 'Samvatsara', came into use. 
 
-The following are the names of the different years : (1) Prabhava (21) Sarvajit (41) Plavaiga (2) Vibbaya (22) Sarvadhārin (42) Kila ka (3) śukla · (23) Virodhin (43) Saumya (4) Pramoda (24) Viksta (44) Sādhāraņa (5) Prajāpati (25) Khara (45) Virodhakrt (6) Angiras (26) Nandana (46) Paridhāvin (7) Srimukha (27) Vijaya (47) Pramādin. (8) Bhava (28) Jaya (48) Ananda (9) Yuvan (29) Manmatha (49) Rākṣasa (10) Dhātri (30) Durmukha (50) Anala (Nala) (11) Iśvara (31) Hemalamba (51) Pingala (12) Bahudhānya (32) Vilamba (52) Kālayukta (13) Pramāthin (33) Vikārin (53) Siddhārthin. (14) Vikrama (34) Sarvari (54) Raudra (15) Vrga (35) Plava (55) Durmati (16) Chitrabhānu (36) Subhakrt (56) Dundubhi (17) Subhānu (37) śobbana (57) Rudhirodgārin (18) Tāraņa (38) Krodhin (58) Raktākṣa (19) Pārthiva (39) Viśvāvasu (59) Krodhana (20) Vyaya (40) Parābhava (60) Kṣaya (Aksaya) 
+The following are the names of the different years : (1) Prabhava (21) Sarvajit (41) Plavaiga (2) Vibbaya (22) Sarvadhārin (42) Kila ka (3) śukla · (23) Virodhin (43) Saumya (4) Pramoda (24) Viksta (44) Sādhāraṇa (5) Prajāpati (25) Khara (45) Virodhakrt (6) Angiras (26) Nandana (46) Paridhāvin (7) Srimukha (27) Vijaya (47) Pramādin. (8) Bhava (28) Jaya (48) Ananda (9) Yuvan (29) Manmatha (49) Rākṣasa (10) Dhātri (30) Durmukha (50) Anala (Nala) (11) Iśvara (31) Hemalamba (51) Pingala (12) Bahudhānya (32) Vilamba (52) Kālayukta (13) Pramāthin (33) Vikārin (53) Siddhārthin. (14) Vikrama (34) Sarvari (54) Raudra (15) Vrga (35) Plava (55) Durmati (16) Chitrabhānu (36) Subhakrt (56) Dundubhi (17) Subhānu (37) śobbana (57) Rudhirodgārin (18) Tāraṇa (38) Krodhin (58) Raktākṣa (19) Pārthiva (39) Viśvāvasu (59) Krodhana (20) Vyaya (40) Parābhava (60) Kṣaya (Aksaya) 
 
 The beginning of the Jovian years is determined by the entry of Jupiter into an Indian sign by mean motion, the 1st, 13th, 25th, 37th and 49th years being marked by the entry of Jupiter into the sign Kumbha, and not Meṣa which is otherwise the first of the signs of the Siddhāntas. It thus appears that the system of counting Jovian years is a pre-Siddhāntic practice 
 
@@ -4999,7 +4999,7 @@ Lakṣminārāyaṇa ekādasi Page 57, Śrāvana 1-Insert Jāgratgauri pañcami.
 
 30—Delete Guru pañcami (Orissa) Page 60, Kārtika 5-Insert Lakṣminārāyana ekādasi 
 
-(Orissa) 8-Insert Kumāra pārņimā (Orissa) 9-Delete Kumāra pūrnimā (Orissa) 
+(Orissa) 8-Insert Kumāra pārṇimā (Orissa) 9-Delete Kumāra pūrnimā (Orissa) 
 
 23—Insert Balipājā Page 61, Agrah. 2—Insert Anlā navami (Orissa) 
 
@@ -5033,7 +5033,7 @@ books).
 
 (Orissa) Page 88, Aṣādha 4- Insert Guru pañcami (Orissa) . 27Delete Ravinārāyana ekādasi 
 
-(Orissa) Page 69, Śrāvaņa 17-Insert Madhusravā (Gujerat) 
+(Orissa) Page 69, Śrāvaṇa 17-Insert Madhusravā (Gujerat) 
 
 18—Delete Madhusravā (Gujerat) 
 
@@ -5051,9 +5051,9 @@ caturdasi (Bengal & Orissa)" Page 73, Agrab. 10-Insert Dipāvali amāvasyā (Ori
 
 and Insert Rudropavāsa 12-Delete Rudropavāsa 
 
-25--Insert Pāṣāņa caturdasi (Orissa) Page 74, Pauga 7-Delete Surūpā dvadasi (Orissa) 
+25--Insert Pāṣāṇa caturdasi (Orissa) Page 74, Pauga 7-Delete Surūpā dvadasi (Orissa) 
 
-16-Delete Guru pancami (Orissa) śaka 1879 Page 77, Caitra 21-Delete Vigņu damanotsava 
+16-Delete Guru pancami (Orissa) śaka 1879 Page 77, Caitra 21-Delete Vigṇu damanotsava 
 
 22-Insert Viṣnu damanotsava 24--Delete Panguni uttiram-pūrnima 
 
@@ -5063,9 +5063,9 @@ canon (S. India) Page 88, Phālguna 18-Insert Rangapañcami
 
 7-Delete Balabhadra pūjā (Orissa) 
 
-25—Insert Haritāli Caturthī Page 97, Agrah. .3--Delete "& Orissa" from Pāṣāņa 
+25—Insert Haritāli Caturthī Page 97, Agrah. .3--Delete "& Orissa" from Pāṣāṇa 
 
-caturdaśī (Bengal & Orissa)" Page 98, Pausa 3—Insert Pāṣāņa caturdasi (Orissa) Page 100, Phālguna 22-Delete (Orissa)” from "Santa 
+caturdaśī (Bengal & Orissa)" Page 98, Pausa 3—Insert Pāṣāṇa caturdasi (Orissa) Page 100, Phālguna 22-Delete (Orissa)” from "Santa 
 
 Caturthī (Orissa)" , 29—Delete "& Sudaśā vrata". Page 101, line 5, "Insert “Gadadhara-Paddhati” after 
 
@@ -5075,7 +5075,7 @@ Orissa) (Paraviddhā), read Madanabhanji (Bengal
 
 paraviddhā & Orissa-pūryaviddhā) Vaiśākha S 11-Delete Lakṣmīnārāyaṇā ekādasi. 
 
-(Orissa) Jyaiṣtha S 11--Delete Rukmiņi vivāha (Orissa) Aṣādha 811Delete Ravinārāyaṇa ekādasi : 
+(Orissa) Jyaiṣtha S 11--Delete Rukmiṇi vivāha (Orissa) Aṣādha 811Delete Ravinārāyaṇa ekādasi : 
 
 . (Orissa) Page 103, Śrāvana K 5–Insert and rātrivyāpini' after 
 
@@ -5293,7 +5293,7 @@ Buddha, 231, 235; . Adhika ( = mala) month, 7, 247, 250
 
 Aryabhaṭa II, 238, 268 
 
-nirvåņa of, 256, 257 Agni, 216 : 
+nirvåṇa of, 256, 257 Agni, 216 : 
 
 Aryabhaṭīya of Aryabhaṭa, 162 238, 253 
 
@@ -5625,7 +5625,7 @@ Christian, 126; Chedi (Kallcurs), 258 ;
 
 general rules for, 101; . 
 
-Dakpiņāyana, 189, 219, 228, 239, 260 daṇḍa (=p&di or ghatka), 160 Darius I, Achemenid emperor, 166, 178, 212, 
+Dakpiṇāyana, 189, 219, 228, 239, 260 daṇḍa (=p&di or ghatka), 160 Darius I, Achemenid emperor, 166, 178, 212, 
 
 256 Day, 
 
@@ -5697,7 +5697,7 @@ Islamic calendar, 180.:. Jewish calendar, 179 ; list of acc. to modern calculati
 
 Kabishah, 180 Kadamba, pole of the ecliptic, 192 Kalā or liptikā, 160 Kālāloka Prakāśa, 223. Kalasang (inscription), 229 Kalastami, 108 Kaldarra (inscription), 229 Kalends, 168 Kalhapa, Historian of Kashmir, 252 Kali, 162 ; long. of planets at Kali beginning 
 
-253 Kálidāsa, 7,261 Kalpa, 162, 175, 214, 240, 268, 269 Kalpādi, names of, 107 Kandāhár, 229. Kaniska, 230, 231, 236, 256 Kaniska I, 231 Kabiska II, 232 Kaniṣka III, 231, 232 Kaniṣka Casket (inscription), 230 Kåniza Dheri (inscription), 231 Kånva, 213, 228 Kapisthala Katha Samhitā, 218 Kapsa, 230 Karana, 163 Karaņas, definition, names and calculation of, 
+253 Kálidāsa, 7,261 Kalpa, 162, 175, 214, 240, 268, 269 Kalpādi, names of, 107 Kandāhár, 229. Kaniska, 230, 231, 236, 256 Kaniska I, 231 Kabiska II, 232 Kaniṣka III, 231, 232 Kaniṣka Casket (inscription), 230 Kåniza Dheri (inscription), 231 Kånva, 213, 228 Kapisthala Katha Samhitā, 218 Kapsa, 230 Karana, 163 Karaṇas, definition, names and calculation of, 
 
 110 ; lords of, 110' Kathaka, 218 Kaurpa (name of a sign), 183 
 
@@ -5777,7 +5777,7 @@ stars of, 210, 211 Lunar year, beginning of, 220, 221 Lunation, duration of, 158
 
 length of, 164, 248 
 
-Nabu Nazir, 177 Naburiannu, 200 Nadir, 157 Någabhata, 257 Nahapana, 233 Naksatra,. average length of, 224 ; 
+Nabu Nazir, 177 Naburiannu, 200 Nadir, 157 Någabhata, 257 Nahapana, 233 Nakṣatra,. average length of, 224 ; 
 
 beginning of, 14, 229; calculation of (acc. to the recommenda 
 
@@ -5941,7 +5941,7 @@ Vadi, 247, 248 Vaidya, Prof. R.V., 263 Vaidyanātha Dikṣitiyam, 101 Vājasaney
 
 237, 238, 240, 252, 255, 267 Varupa, Indian god, 215, 216 Vasistha, Indian sage, 238 Vasiṣtha Siddhānta, 236, 237, 267 Vasudeva I, 231, 232 Vāsudeva II, 231, 232 Vedas, description and literature, 214; 
 
-age of its literature, 214, 215 Vedangas, 214, 215 Vedãnga Jyotiņa, 161, 217, 224, 226, 237, 240, 
+age of its literature, 214, 215 Vedangas, 214, 215 Vedãnga Jyotiṇa, 161, 217, 224, 226, 237, 240, 
 
 241, 245, 246; 
 
