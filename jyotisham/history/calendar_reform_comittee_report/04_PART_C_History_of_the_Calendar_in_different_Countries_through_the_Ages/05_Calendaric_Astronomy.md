@@ -71,24 +71,8 @@ We do not, however, have any idea as to how the beginnings and endings of the na
 
 The divisions of nakṣatras shown in the table, as already stated, has been based on the assumption that the star Spica occupies the 180th degree of the lunar zodiac. This arrangement agrees with the **statement of the Vedāṅga Jyotiṣa that the Dhanisṭhā star (α or β Delphini) marked the beginning of the Dhaniṣṭhā division**, and also of the **Varāha's Sūrya Siddhānta that Regulus (α Leonis) is situated at the 6th degree of the Maghā division**.
 
-##  LONG PERIOD OBSERVATIONS OF THE MOON
- 
-
-THE CHALDEAN SAROS This will mean that the figures in col. (6) will then have to be increased by 3° 59', which will The moon gains on the sun at the average rate of push up the Yogatārās of 1 Aśrini, 2 Bharani, 123" per day, but it did not take the ancients long to 3 Krttikā, 8 Pista 13 Haṣta, 25 P. Bhādrapallā, and discover that the daily gain of the moon on the sun 26 U. Bhādrapada, so as to go outside the nakṣatra is far from uniform ; in fact as we know now, it division of which they form the Yogatārā. In fact no varies from approximately 1090 to 143° per day. It was arrangement at any time appears to have been therefore not possible to say beforehand whether satisfactory enough for all the Yogataràs to fall within the crescent moon would appear on the 29th or on the their respective naksatra divisions. 
-
-30th day after the beginning of the previous month.. 
-
-Ã O Ö er hand ocor 
-
-273 
-
-CALINDARIO ABTRONOMY 
-
-(new-poon ), but every conjunction of the sun and the modn is not the occasion for a solar eclipse: A lunar eclipse takes place only pear opposition (full moon), but every opposition of the sun and the moon is not the occasion for a lunar eclipse. 
-
-In many ancient countries, China and Babylon for example, records of occurrence of eclipses had been kept. The celebrated Greek astronomer, Ptolemy of Alexandria (ca. 150 A. D.) had before him a record of eclipses kept at the Babylonian archives, dating from 747 B. C. They gave date of occurrence, time. and features of the eclipse, whether they were partial or total. From an analysis of these records, the Chaldean astronomers tried to discover the laws of periodicity of eclipses, which ultimately resulted in the discovery of the Saros cycle of 18 years and 10 or 11 days. The basis of the Saros cycle is as follows: . 
-
-We do not exactly know when the ancient astronomers outgrew the myth of demons periodically devouring the sun and the moon during eclipse times, and arrived at the physical explanations now known to every student of astronomy, and reproduced in the diagrams given below. 
+##  LONG PERIOD OBSERVATIONS OF THE MOON - THE CHALDEAN SAROS 
+The moon gains on the sun at the average rate of 12.2° per day, but it did not take the ancients long to discover that the daily gain of the moon on the sun is far from uniform ; in fact as we know now, it varies from approximately 10.75° to 14.5° per day. It was therefore not possible to say beforehand whether the crescent moon would appear on the 29th or on the 30th day after the beginning of the previous month.
 
 But the exact prediction of the day was a nécessity from the socio-religious point of view. In India, the month was measured from full-moon to full-moon, and in the Mahābhārata, the great epic which was compiled from older materials about 400 B. C., it is recorded that sometimes the full moon occurred on the thirteenth day after the new-moon, This was taken to forebode great calamities for mankind. There were similar ideas in Babylon of which Pannekoek says: 
 
@@ -102,21 +86,11 @@ This is rather comparatively late date. The reason is that the accomplishment of
 
 But even before these accurate methods had been discovered, the Babylonian astronomers had learnt a lot more about the moon from long period observa tions. The most remarkable of these discoveries is that of the Chaldean Saros, or a period of 18 years 101 days, in which the eclipses of the sun and the moon recur. 
 
-The occurrence of solar or lunar eclipses, when the two great luminaries disappear suddenly, either partially or wholly, were very striking phenomena for the ancient and medieval people, and gave rise to gloomy forebodings. There were all kinds of speculations about the cause of the eclipses, e.g., that the sun and the moon were periodically devoured by demons or dragons. The ancient astronomers, however, found that a solar eclipse takes place only near conjunction 
+The occurrence of solar or lunar eclipses, when the two great luminaries disappear suddenly, either partially or wholly, were very striking phenomena for the ancient and medieval people, and gave rise to gloomy forebodings. There were all kinds of speculations about the cause of the eclipses, e.g., that the sun and the moon were periodically devoured by demons or dragons. The ancient astronomers, however, found that a solar eclipse takes place only near conjunction (new-moon ), but every conjunction of the sun and the modn is not the occasion for a solar eclipse: A lunar eclipse takes place only pear opposition (full moon), but every opposition of the sun and the moon is not the occasion for a lunar eclipse. 
 
-WITA 
+In many ancient countries, China and Babylon for example, records of occurrence of eclipses had been kept. The celebrated Greek astronomer, Ptolemy of Alexandria (ca. 150 A. D.) had before him a record of eclipses kept at the Babylonian archives, dating from 747 B. C. They gave date of occurrence, time. and features of the eclipse, whether they were partial or total. From an analysis of these records, the Chaldean astronomers tried to discover the laws of periodicity of eclipses, which ultimately resulted in the discovery of the Saros cycle of 18 years and 10 or 11 days. The basis of the Saros cycle is as follows: . 
 
-TI 
-
-SY 
-
-! 
-
-SOUN 
-
-WOON 
-
-CARTH 
+We do not exactly know when the ancient astronomers outgrew the myth of demons periodically devouring the sun and the moon during eclipse times, and arrived at the physical explanations now known to every student of astronomy, and reproduced in the diagrams given below. 
 
 Fig. 4—Showing an eclipse of the moon. 
 
