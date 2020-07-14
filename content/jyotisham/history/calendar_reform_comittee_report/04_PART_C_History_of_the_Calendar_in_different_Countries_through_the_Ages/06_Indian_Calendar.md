@@ -557,7 +557,7 @@ Pūga
 
 Asvin 
 
-B Arietis 
+β Arietis 
 
 33 16 18 + 8 297 27. Apabbarani 
 
