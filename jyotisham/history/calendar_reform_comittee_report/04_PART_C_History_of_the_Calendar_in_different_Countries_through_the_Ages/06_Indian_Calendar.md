@@ -205,13 +205,13 @@ There is no explicit reference to this point, but words which are now used to de
 
 Citra (a Virginis) is mentioned in RV. 4-51-2 
 
-Magha (a Leonis ) is mentioned in RV. 10-85-13 but in these passages the meaning of these words is not very clear. 
+Magha (α Leonis ) is mentioned in RV. 10-85-13 but in these passages the meaning of these words is not very clear. 
 
 The following references are more explicit. 
 
 Atharva Samhita, 14.1.13 Sūryāyā vahatuḥ prāgāt savitā yam avāspjat Maghāsu hanyante gāvah pbalganipu vyuhyate. 
 
-Translation : The first line is identical. In the second line, the only change is Maghā for Agha, and Phalguni for Arjuni. In the lunar zodiac, Magha stands for lunar asterism No. 10, of which the chief star is a Leonis. The two Phalguni stars, Uttara Phalguni (No.12) and Purva Phalguni (No. 11) stand for ß Leonis and & Leonis. 
+Translation : The first line is identical. In the second line, the only change is Maghā for Agha, and Phalguni for Arjuni. In the lunar zodiac, Magha stands for lunar asterism No. 10, of which the chief star is α Leonis. The two Phalguni stars, Uttara Phalguni (No.12) and pūrva Phalguni (No. 11) stand for ß Leonis and & Leonis. 
 
 This verse shows that the custom of designating the day (it means day and night) by the lunar asterism in which the moon is found in the night, which is found widely in vogue in later times, and is used even to-day for religious purposes, was in use at the time when this hymn was written. The practice therefore 
 
@@ -349,7 +349,7 @@ prācyai diśaścyavante. Translation :--Other nakṣatras have one, two, three 
 
 The names as given in this list are somewhat different from those now adopted, which have come into vogue since 500 A.D.; for example, we have : 
 
-No. 6 Tiṣya for Puṣya No. 16 Rohini for Jyestha ( There are thus two Rohinis, No. 2, and No. 16). No. 17 Vicrtau for Mula No. 20 Srona for Sravana No. 21 Śravistha for Dhaniṣtha No. 23 Proṣthapada for Bhadrapada No. 26 Aśvajuya for Asvini 
+No. 6 Tiṣya for Puṣya No. 16 Rohini for Jyestha ( There are thus two Rohinis, No. 2, and No. 16). No. 17 Vicrtau for Mula No. 20 Srona for śravaṇa No. 21 Śravistha for Dhaniṣtha No. 23 Proṣthapada for Bhādrapada No. 26 Aśvajuya for Asvini 
 
 No. 27 Apabharani for Bharani . The more important question is whether the lunar mansions denote definite clusters of stars, or the nakṣatra-divisions of later times amounting to 13° 20' Or 800 minutes ? This point has been discussed in 8 4'1. 
 
@@ -445,7 +445,7 @@ Sarpa -
 
 Pits . 
 
-a Leonis 
+α Leonis 
 
 149 8 1 + O 27 48 9. Phalguni 
 
@@ -515,7 +515,7 @@ o Sagittarii
 
 Brahma 
 
-a Lyrae 
+α Lyrae 
 
 61 44 7 Sroņā 
 
@@ -539,7 +539,7 @@ Indra, Varuņa
 
 Ajaeka pad 
 
-a Pegasi 
+α Pegasi 
 
 352 47 19 + 19 24 25 Pūrva Prosthapada 24. Prosthapada 
 
@@ -627,11 +627,11 @@ Visakhā ( » 16) Jyaiṣtha
 
 Jyeṣtha ( , 18) Aṣadha 
 
-Āṣadha ( , 20 & 21 ) Sravana 
+Āṣadha ( , 20 & 21 ) śravaṇa 
 
 Śravana (,, 22 ) Bhadra 
 
-Bhadrapada (,, 25 & 26 ) Asvina 
+Bhādrapada (,, 25 & 26 ) Asvina 
 
 Asvinī (, 14) Kartika 
 
@@ -859,7 +859,7 @@ Svarākramete somārkau yadā sākam savāsavau Syāttadādiyugan māghastapah s
 
 The winter solstice took place at the lunar asterism Śraviṣtha, which is later called Dhaniṣthā. 
 
-This is the 21st nakṣatra in the Krttikādi system and 23rd in the Aśvinyādi system and its component stars are a, b, y and 8 Delphini.* These stars are far away from the ecliptic. We have for 1950 : - 
+This is the 21st nakṣatra in the Krttikādi system and 23rd in the Aśvinyādi system and its component stars are α, β, y and 8 Delphini.* These stars are far away from the ecliptic. We have for 1950 : - 
 
 a Delphini, Long. =316° 41' Lat. - +33° 2' B , j =315 39 
 
@@ -1011,7 +1011,7 @@ Aśvamedha, Chap. 44;2: .. Abab pūrvani tatorātrirmāsāḥ śukládayalı gm�
 
 Translation : Day comes first and then the night ; months, are known to commence with the bright half, the nakṣatras with Śravana, and the seasons with Sibira, 
 
-Here the asterism Śravana is described as the one where the winter solstice takes place. Sravana is ust preceding Sravistha and the solstices take about 460 years to retrograde through one nakṣaira division. 
+Here the asterism Śravana is described as the one where the winter solstice takes place. śravaṇa is ust preceding Sravistha and the solstices take about 460 years to retrograde through one nakṣaira division. 
 
 Brhat Samhitā, III, 1 Asleṣārdbātdakgiņam uttaramayanan raverdbaniṣthôdyam Nūnaṁ kadācidāsīt yenoktani pūrvasõstresu. 
 
@@ -1211,7 +1211,7 @@ i sodaśe 16. 6. Taxila copper-plate : sairatsaraye athasatatimae
 
 78 maharayasa mahaintasa Mogasa Panemasa 
 
-masasa divase painrame 5 etaye purvaye. 7. Mucai : vase ekaśitimaye 81. 
+masasa divase painrame 5 etaye pūrvaye. 7. Mucai : vase ekaśitimaye 81. 
 
 8. Kala Sang : [sam 100]. Reading uncertain. . 9. Mount Banj: sainvatsaraye 102. 
 
@@ -1221,7 +1221,7 @@ masasa divase painrame 5 etaye purvaye. 7. Mucai : vase ekaśitimaye 81.
 
 pakye. 11. Paja : sainvatsaraye ekadaśa [śa*] timaye 111 
 
-Śravanasa masasa di [var ] se pam[cada]śe 15. 12. Kaldarra : vaṣa 113 Śravaṇasa 20. 13. Marguz ; [vaṣe 1*]17. 14. Panjtar : sam 122 Sravanasa masasa di pradhame 
+Śravanasa masasa di [var ] se pam[cada]śe 15. 12. Kaldarra : vaṣa 113 Śravaṇasa 20. 13. Marguz ; [vaṣe 1*]17. 14. Panjtar : sam 122 śravaṇasa masasa di pradhame 
 
 1 maharayasa Guṣanasa rajami. 15. Taxila silver scroll : sa 136 ayasa Aṣadasa 
 
@@ -1251,7 +1251,7 @@ The year of the era in figures and words ; though it does not give any particula
 
 The month, mostly in Sanskrit ; the day, by its ordinal number, e.g., No. 11, which means in the year 111 on the 15th day of the month of Śrāvaņa. 
 
-The months are all in Sanskrit, except in No. 6, in which the month is in Greek (Panemos= Āsādha). No. 6 alone of this group contains the rather mysterious phrase 'Etaye purvaye' which means, 'before these'. This phrase, the meaning of which is not clear, occurs in Kuṣāna (Group B) and even in Gupta inscriptions. 
+The months are all in Sanskrit, except in No. 6, in which the month is in Greek (Panemos= Āsādha). No. 6 alone of this group contains the rather mysterious phrase 'Etaye pūrvaye' which means, 'before these'. This phrase, the meaning of which is not clear, occurs in Kuṣāna (Group B) and even in Gupta inscriptions. 
 
 This method of dating is quite different from that of the contemporary Indian dynasts, viz., the Satavahanas, which mentioned regnal years, the season, the pakṣa, and then probably the old tithi or the lunar day. But it agrees with the method followed in contemporary Parthia, which mentions the year usually in the Seleucidean era, rarely in the Arsacid era, the name of the month in Greek, and the ordinal number of the day, which ranges from 1 to 30 (see Debevoise, 1938). From No. 10, it appears that whenever Indian months were used they were Purnimanta, following the classical Indian custom. 
 
@@ -1277,7 +1277,7 @@ phagune isa kṣunami............Murodasa
 
 marjhakasa Kaniskasa rajami. 27. Manikiala : sam 18 Kartiyasa majh [e] divase 
 
-20 etra purvae maharajasa Kaņeṣkasa. 28. Box lid : sam 18 masye Arthamisiya sastehi 10 
+20 etra pūrvae maharajasa Kaņeṣkasa. 28. Box lid : sam 18 masye Arthamisiya sastehi 10 
 
 is [e ) kṣunammri. 29. Kurram : san 20 masasa Avadunakasa di 20 
 
@@ -1307,7 +1307,7 @@ INDIAN CALENDAR
 
 35. Und : sam 61 Cetrasa mahasa divase athami 
 
-di 8 isa kṣunang ... ... ... Purvaṣade. 36. Mamāne Dheri: śam 89 Margasirasra masi 5 ise 
+di 8 isa kṣunang ... ... ... pūrvaṣade. 36. Mamāne Dheri: śam 89 Margasirasra masi 5 ise 
 
 kṣunami. : An incomplete date, masasa di 25, is further found in the Kaniza Dheri inscription. 
 
@@ -4689,7 +4689,7 @@ B Delphini
 
 Pūrva Bhādrapadā 
 
-a Pegasi 
+α Pegasi 
 
 2.57 
 
@@ -5845,7 +5845,7 @@ Sūrya Siddhānta's rate of, 268 Prthûdaka Sråmi, 259, 268, 269 Proclos, on pr
 
 „ theory of planetary motion, 204 ; Ptolemies, 213 Ptolemy, Energetes, 165 ; Pulakesin I, 233 Pulakesia II, 253 Pulastys, 236 Punapas, 101, 252 Pūrnimânta, month, 157, 227, 230, 231, 233, 
 
-247, 256 Puruppur, 232 Purvahna, 101, 108 Pūrvaviddha, 101, 108.;.rules for, 109 
+247, 256 Puruppur, 232 pūrvahna, 101, 108 Pūrvaviddha, 101, 108.;.rules for, 109 
 
 Paikuli (inscription), 232 Paitamaha Siddhānta, 223 Pajā (inscription), 220 Paksa, 227-231 ; . 
 

@@ -42,27 +42,24 @@ Later during Siddhānta Jyotiṣa times the enumeration started with Aśvini β 
 
 The Chinese start their Hsius with Citrā or α Virginis. This refers probably to the time when α Virginis was near the autumnal equinoctial point (285 A.D.). The Arabs start their Manzils with β Arietis (Ash-Sharaţāni). 
 
-There has been a good deal of controversy regarding the place of origin of the lunar zodiac. Many savants were inclined to ascribe the origin of the 27 nakṣatra system to ancient Babylon, like all other early astro nomical discoveries. But as far as the authors of this book are aware, there is no positive evidence in favour of this view. Thousands of clay tablets containing astronomical data going back to 2000 B.C., and extending up to the first century A.D. have been obtained, but none of them are known to have any „ reference to 27 or 28 lunar mansions. 
+There has been a good deal of controversy regarding the place of origin of the lunar zodiac. Many savants were inclined to ascribe the origin of the 27 nakṣatra system to ancient Babylon, like all other early astronomical discoveries. But as far as the authors of this book are aware, there is no positive evidence in favour of this view. Thousands of clay tablets containing astronomical data going back to 2000 B.C., and extending up to the first century A.D. have been obtained, but none of them are known to have any reference to 27 or 28 lunar mansions. 
 
-On the other hand (as mentioned before) some of the nakṣatra names are found in the oldest strata of the Rg-Vedas (ride § 5-2), which must be dated before 1200 B.C., and a full list with some difference in names is found in the Yajur-Veda, which must be dated before 600 B.C. Nobody has yet been able, to refute yet Max Muller's arguments in favour of the indigenous origin of the Indian nakṣalra system given in his preface to the Rg-Veda Samhitā, page xxxv. 
+On the other hand (as mentioned before) some of the nakṣatra names are found in the oldest strata of the Rg-Vedas (ride § 5-2), which must be dated before 1200 B.C., and a full list with some difference in names is found in the Yajur-Veda, which must be dated before 600 B.C. Nobody has yet been able, to refute yet Max Muller's arguments in favour of the **indigenous origin of the Indian nakṣatra system** given in his preface to the Rg-Veda Samhitā, page xxxv. 
 
 It should be admitted that the lunar zodiac was pre scientific, i.e., it originated before astronomers became conscious of the celestial equator and the ecliptic, and began to give positions of steller bodies with these as reference planes. The nakṣatras give very roughly the night-to-night position of the moon, by indicating its proximity to stars and star-groups. Many of the Indian stațs identified as nakṣatras are not at all near the ecliptic or the moon's path which, on account of its obliquity, is contained in a belt within +5° of the ecliptic. Such are for example : 
 
-(15) Svāti, which is identified with Arcturus Ta Bootis), which has a latitude of 31° N. 
+- (15) Svāti, which is identified with Arcturus Ta Bootis), which has a latitude of 31° N. 
+- (22) śravaṇa, identified with α, β, y Aquilae, having the latitude of 29° N. 
+- (23) Śraviṣthā, identified with α, β, Y, δ Delphini, a having the latitude of 33° N. 
+- (25) pūrva Bhādrapada identified with α Pegasi and some other adjacent stars, α Pegasi having latitude of 19° N. 
 
-(22) Sravana, identified with a, b, y Aquilae, having the latitude of 29€ N. 
+At one time, the brilliant star Vega (α Lyrae) was also, included making 28 naksatras. But this has a latitude of 62° N and was later discarded. 
 
-(23) Śraviṣthā, identified with a, b, Y, 8 Delphini, a having the latitude of 33° N. 
+No satisfactory argument has been given for the inclusion of such distant stars in the lunar zodiac: The Arabs and the Chinese do not include these distant stars in their lunar zodiac, but 'fainter ones near the ecliptic, Prof. P. C. Sengupta is of the opinion that Indians generally preferred bright stars, but when such were not available near the ecliptic, they chose brighter ones away from the ecliptic, which could be obtained on the **line joining the moon's cusps**. 
 
-(25) Purva Bhadrapada identified with a Pegasi and some other adjacent stars, a Pegasi having latitude of 19° N. 
+The **nakṣatras were used to name the 'days'** in the earliest strata of Indian literature. Thus when the moon is expected to be found in the Maghā nakṣatra (α Leonis), the day would be called the Maghā day. This is the oldest method of designating the day, for it is found in the Rg-Vedas. Other methods of designating the day by **tithis or lunar days**, or by the seven week-days, came later. The system has continued to the present times. In old times, astrology was based almost entirely on the nakṣatras, e.g., in Asoka's records, the Puṣya nakṣatra day was regarded as auspicious when brāhmaṇas and Sramaņas were fed, in order to enhance the king's punya (religious merits). In the Mahābhārata also we find that the days are designated by nakṣatras which apparently mean the star or star cluster near which the moon is expected to be seen during the night. 
 
-At one time, the brilliant star Vega (a Lyrae) was also, included making 28. naksatras. But this has a latitude of 62° N and was later discarded. 
-
-No satisfactory argument has been given for the inclusion of such distant stars in the lunar zodiac: The Arabs and the Chinese do not include these distant stars in their lunar zodiac, but 'fainter ones near the ecliptic, Prof. P. C. Sengupta is of the opinion that Indians generally preferred bright stars, but when such were not available near the ecliptic, they chose brighter ones away from the ecliptic, which could be obtained on the line joining the moon's cusps. 
-
-The nakṣatras were used to name the 'days' in the earliest strata of Indian literature. Thus when the moon is expected to be found in the Maghā nakṣatra (a Leonis), the day would be called the Magha day. This is the oldest method of designating the day, for it is found in the Rg-Vedas. Other methods of designating the day by tithis or lunar days, or by the seven week-days, came later. The system has continued to the present times. In old times, astrology was based almost entirely on the nakṣatras, e.g., in Asoke's records, the Puṣya nakṣatra day was regarded as auspicious when brāhmaṇas and Sramaņas were fed, in order to enhance the king's punya (religious merits). In the Mahābhārata also we find that the days are designated by nakṣatras which apparently mean the star or star cluster near which the moon is expected to be seen during the night. 
-
-As is apparent from Table No. 5, the nakṣatras are at rather unequal distances, i.e., they rarely follow the ideal distance of 131°. This is rather inconvenient for precision time-reckoning. We find in the Vedānga Jyotiṣa times an attempt at a precise definition of the two limits of a nalṣatra, which was defined as 800' (-13° 20') of the ecliptic. The nakṣatra was named according to the most prominent star (Yogntārā) contained within these limits. These are given in. column (2) of Table 5. 
+As is apparent from Table No. 5, the nakṣatras are at rather unequal distances, i.e., they rarely follow the ideal distance of 13.5°. This is rather inconvenient for precision time-reckoning. We find in the Vedānga Jyotiṣa times an attempt at a precise definition of the **two limits of a nakṣatra**, which was defined as 800' (-13° 20') of the ecliptic. The nakṣatra was named according to the most prominent star (**Yogatārā**) contained within these limits. These are given in. column (2) of Table 5. 
 
 We do not, however, have any idea as to how the beginnings and endings of the nakṣatra divisions were fixed in India. The prominent ecliptic stars which were used as Yogatārās (junction-stars) in pre-Siddhāntic period, are not distributed at regular intervals along the ecliptic ; and so it was found very difficult to include the stars in their respective equal divisions. This will be clear from table (No. 5) where the junction stars of the nakṣatras according to the Sūrya "Siddhānta are given in col. (2). The celestial longitudes of the stars for 1956 A.D. are given in col. (4) and the beginnings of each division for the same year are given in col. (5), taking the star α Virginis to occupy the middle position of the nakṣatra Citrā, which marked 
 
@@ -317,7 +314,7 @@ the position of the autumnal equinox at the time The divisions of nakṣatras sh
 ##  LONG PERIOD OBSERVATIONS OF THE MOON
  
 
-THE CHALDEAN SAROS This will mean that the figures in col. (6) will then have to be increased by 3° 59', which will The moon gains on the sun at the average rate of push up the Yogatārās of 1 Aśrini, 2 Bharani, 123" per day, but it did not take the ancients long to 3 Krttikā, 8 Pista 13 Haṣta, 25 P. Bhādrapallā, and discover that the daily gain of the moon on the sun 26 U. Bhadrapada, so as to go outside the nakṣatra is far from uniform ; in fact as we know now, it division of which they form the Yogatārā. In fact no varies from approximately 1090 to 143° per day. It was arrangement at any time appears to have been therefore not possible to say beforehand whether satisfactory enough for all the Yogataràs to fall within the crescent moon would appear on the 29th or on the their respective naksatra divisions. 
+THE CHALDEAN SAROS This will mean that the figures in col. (6) will then have to be increased by 3° 59', which will The moon gains on the sun at the average rate of push up the Yogatārās of 1 Aśrini, 2 Bharani, 123" per day, but it did not take the ancients long to 3 Krttikā, 8 Pista 13 Haṣta, 25 P. Bhādrapallā, and discover that the daily gain of the moon on the sun 26 U. Bhādrapada, so as to go outside the nakṣatra is far from uniform ; in fact as we know now, it division of which they form the Yogatārā. In fact no varies from approximately 1090 to 143° per day. It was arrangement at any time appears to have been therefore not possible to say beforehand whether satisfactory enough for all the Yogataràs to fall within the crescent moon would appear on the 29th or on the their respective naksatra divisions. 
 
 30th day after the beginning of the previous month.. 
 
@@ -1644,9 +1641,9 @@ VOTO
 
 was obtained, are not yet known with precision. Only some guesses can be made. 
 
-The early astronomers probably observed that the bright stars Regulus (a Leonis ), Spica (α Virginis), the conspicuous group Pleiades, and certain fainter stars a Librae, a Scorpii were almost on the sun's path. The ecliptic could be roughly constructed by joining these stars. 
+The early astronomers probably observed that the bright stars Regulus (α Leonis ), Spica (α Virginis), the conspicuous group Pleiades, and certain fainter stars a Librae, a Scorpii were almost on the sun's path. The ecliptic could be roughly constructed by joining these stars. 
 
-'Regulus' or a Leonis was the 'Royal Star' in Babylonian mythology. In Indian classics, it is known as Maghā (or the Great ) and the presiding deity is Indra, the most powerful Vedic god. It is almost exactly on the ecliptic. Citrā ( or α Virginis ) is 2° to : the south. 
+'Regulus' or α Leonis was the 'Royal Star' in Babylonian mythology. In Indian classics, it is known as Maghā (or the Great ) and the presiding deity is Indra, the most powerful Vedic god. It is almost exactly on the ecliptic. Citrā ( or α Virginis ) is 2° to : the south. 
 
 The First Point of Aries :-The first point of Aries is the fiducial point from which all astronomical measurements are made. But how was this point, or any other cardinal point, say the first point of Cancer. ( summer solstice ), the first point of Capricornus. ( winter solstice ) and the first point of Libra, were located on the circle of the ecliptic in early, times ? 
 
@@ -2324,11 +2321,11 @@ A śleṣā (no, 8, €, p. $ Hydrae)
 
 Maghā (a, n, Y, ś, M, € Leonis) 
 
-Pūrva Phalguni (8, a Leonis) 
+Pūrva Phalguni (8, α Leonis) 
 
 Uttara Phalguni (B, 93 Leonis) 
 
-Hasta (8, 7, €, a, B Corvi) 
+Hasta (8, 7, €, α, β Corvi) 
 
 Citrā lα Virginis) 
 
@@ -2390,7 +2387,7 @@ Hsing
 
 10 al-Jabbah 
 
-a Leonis (a, ? Hydrae) 
+α Leonis (a, ? Hydrae) 
 
 (a, Leonis and 3 more) Chang 
 
@@ -2648,7 +2645,7 @@ Victorious
 
 Sa'd adh-dhābiḥ 
 
-a Lyrae 0.14 + 61 44 284 42 (a, e, & Lyrae) 
+α Lyrae 0.14 + 61 44 284 42 (a, e, & Lyrae) 
 
 (a, ß Capricorni) 
 
@@ -2692,7 +2689,7 @@ Aquarii 3.84 - 0 23 340 58 (1 Aquarii and 100 adja physicians (a Aquarii ; 0, �
 
 al-Fargh al-awwal 
 
-a Pegasi 2.57 + 19 24 352 53 (a, ß Pegasi) 
+α Pegasi 2.57 + 19 24 352 53 (a, ß Pegasi) 
 
 cious feet 
 
