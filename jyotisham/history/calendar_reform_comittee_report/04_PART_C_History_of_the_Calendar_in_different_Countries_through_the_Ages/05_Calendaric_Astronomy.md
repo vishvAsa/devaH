@@ -66,7 +66,7 @@ We do not, however, have any idea as to how the beginnings and endings of the na
 Table 5.–Stars of the Nakṣatra divisions.  
 Positions of the Junction Stars of Nakṣatra Divisions of the Siddhāntas  
 
-<div class="spreadsheet" src="../../yogatAra_in_siddAnta_naxatras_1956.csv" separator=",", headers="Ordinal, Name of nakṣatra,  Junction star (Yogatārā),  Latitude,  Longitude (sāyana 1956),  Beginning point of nakṣatra division,  Position of the star in the nakṣatra division (1956)"> </div>  
+<div class="spreadsheet" src="../../yogatAra_in_siddAnta_naxatras_1956.csv" separator=","> </div>  
 
 the position of the autumnal equinox at the time The divisions of nakṣatras shown in the table, as when the table was compiled. The figures in the last already stated, has been based on the assumption that column represent the position of the star in the naksatra the star Spica occupies the 180th degree of the lunar division of that name. It seems that a few of the zodiac. This arrangement agrees with the statement Yogatārās, vix, No. 6 Àrdrā, No. 15 Srātī, No. 18 of the Veilājiga Jyotiṣa that the Dhaniṣthā star Jyeṣthā, No. 20 Purvāṣādha, No. 21 Uttarāṣaqlā, (a or B Delphini) marked the beginning of the No. 22 Śrarana, and No. 23 Dhaniṣthā fall outside the Dhaniṣthū division, and also of the Varala's Surya nakṣatra division of which they are supposed to form the Siddhānta that Regulus (2 Leonis) is situated at the 6th Yogatārā. Matters do not improve much, if we shift degree of the Maghā division. the beginning of each division so as to place ś Piscium (Revati) at the end of the Revati division or in other words at the beginning of the Aścini division.
 
