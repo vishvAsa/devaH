@@ -3,195 +3,110 @@ title = "04 The Luni-Solar and Lunar Calendars"
 
 +++
 
-Twelve lunar months of 294 days each, making a total of 354 days, fall nearly 11 days short of the solar year. In the next year, the beginning of each month occurs 11 days earlier, in three years 33 days will be lost.* To fix the same month to the same season always, there are no other means than after two or three years to intercalate a Thirteenth Month, number 
+## PRINCIPLES OF LUNI-SOLAR CALENDARS 
 
-13, by repeating the last month of the year. 
+The Egyptians appear to have been the only cultural nation of antiquity who discarded the moon entirely as a time-marker. Other contemporaneous cultural nations, e.g. the Sumero-Akkadians of Babylon, and the Vedic Indians retained both the sun and the moon as time-markers, the **sun for the year, the moon for the month**. 
 
-The luni-solar adjustment which is next taken up is the first step to the solution of problems stated by Pannekoek, but it is not howeyer the whole solution, for it leaves untouched the problem of correct predic tion of the day when the crescent of the moon first appears after new moon in the western horizon. This will be taken up later (vide 84). 
-
-Luni-solar adjustment can be satisfactorily made if we have accurate knowledge of the length of the tropical year, and of the mean length of the lunation. Let us see how these fundamental periods were determined in ancient times. 
-
-3.1 PRINCIPLES OF LUNI-SOLAR CALENDARS 
-
-The Egyptians appear to have been the only cultural nation of antiquity who discarded the moon entirely as a time-marker. Other contemporaneous cultural nations, e.g. the Sumero-Akkadians of Babylon, and the Vedic Indians retained both the sun and the moon as time-markers, the sun for the year, the moon for the month. 
-
-The Indian astronomers called the moon māsakrt, (month-maker) and before the Siddhānta Jyotiṣa time, the moon was considered more important as a time marker than the sun (vide §5). It was the same with other nations too, for as Pannekoek remarks, we find the opinion written in the sacred books of many nations "For regulating time, the moon has been created". 
+The Indian astronomers called the **moon māsakrt**, (month-maker) and before the Siddhānta Jyotiṣa time, the moon was considered more important as a time marker than the sun (vide §5). It was the same with other nations too, for as Pannekoek remarks, we find the opinion written in the sacred books of many nations "For regulating time, the moon has been created". 
 
 The retention of both the sun and the moon, however, gives rise to a multitude of problems, of which a fair summary is given by Pannekoek as follows,* 
 
-"With all peoples of antiquity, the Indians, Babylonians, Jews, Greeks, we find the moon-calendar used ; the period of the moon, the regular sequence of the first appearance of the fine crescent moon in the evening sky, its growth to first quarter, to full moon, at the same time coming up later and filling the whole night, then the decrease to last quarter till its disappearance after the last thin crescent before sunrise was seen,—this regular cycle of the moon's phases in the period of 294 days was everywhere the first basis of chronology". 
+"With all peoples of antiquity, the Indians, Babylonians, Jews, Greeks, we find the moon-calendar used ; the period of the moon, the regular sequence of the first appearance of the fine crescent moon in the evening sky, its growth to first quarter, to full moon, at the same time coming up later and filling the whole night, then the decrease to last quarter till its disappearance after the last thin crescent before sunrise was seen, — this regular cycle of the moon's phases in the period of 294 days was everywhere the first basis of chronology". 
 
-"But the calendar could not be satisfactorily fixed with the establishment of the moon-cycle. In these ancient times, the people, the tribe, and the state was a political, spiritual and religious unity. Important events of society, the great agricultural performances, the beginning of the ploughing, the sowing or the harvesting were great popular festivals and at the same time chief religious ceremonies, when offerings were presented to the gods. The moon calendar had to adapt itself to the economic life of the people, which was governed by the cycle of seasons. Thus arose the practical problem of adapting the moon-period of 297 days to the solar year of 365 days. This chief problem of ancient chronologis nge been a mighty impulse to the study of astronomy, because it necessitated continuous observation of the sky." 
+"But the calendar could not be satisfactorily fixed with the establishment of the moon-cycle. In these ancient times, the people, the tribe, and the state was a political, spiritual and religious unity. Important events of society, the great agricultural performances, the beginning of the ploughing, the sowing or the harvesting were great popular festivals and at the same time chief religious ceremonies, when offerings were presented to the gods. The moon calendar had to adapt itself to the economic life of the people, which was governed by the cycle of seasons. Thus arose the practical problem of adapting the moon-period of 29.7 days to the solar year of 365 days. This chief problem of ancient chronology has been a mighty impulse to the study of astronomy, because it necessitated continuous observation of the sky." 
 
 * Article on 'Astrology and its influenoe upon the development of Astronomy' by Anton Pannekoek, published in the Journal of the Royal Astronomical Society of Canada, April, 1930. 
 
-Length of Seasons and the Year 
+**Twelve lunar months** of 29.4 days each, making a total of **354 days**, fall nearly 11 days short of the solar year. In the next year, the beginning of each month occurs 11 days earlier, in three years 33 days will be lost.\* To fix the same month to the same season always, there are no other means than after two or three years to **intercalate a Thirteenth Month**, number 13, by repeating the last month of the year. 
 
-The length of the year was obtained in Egypt, as we have already seen, from the recurrence of the Nile flood. In Babylonia, no such striking natural phenomena were available. It is very probable that the Babylonians early learnt the use of the gnomon, with the aid of which they could determine the cardinal days of the year : viz., the summer and winter solstices, and the two equinoxes coming in between. 
+\* The mean duration of a lunar month consists of **29.530588 days** and twelve such lunations amount to **354.36706 days**, while the length of a tropical solar year is 365.24220 days. The length of a lunar year thus falls short of the solar year by 10.87514 days, and instead of there being exactly twelve lunar months in a year, there are 12.36827 months. 
+
+The luni-solar adjustment, which is next taken up, is the first step to the solution of problems stated by Pannekoek; but it is not however the whole solution, for it leaves untouched the problem of correct prediction of the day when the crescent of the moon first appears after new moon in the western horizon. This will be taken up later (vide 84). 
+
+Luni-solar adjustment can be satisfactorily made if we have accurate knowledge of the length of the tropical year, and of the mean length of the lunation. Let us see how these fundamental periods were determined in ancient times. 
+
+### Length of Seasons and the Year 
+
+The length of the year was obtained in Egypt, as we have already seen, from the recurrence of the Nile flood. In Babylonia, no such striking natural phenomena were available. It is very probable that the **Babylonians** early learnt the **use of the gnomon**, with the aid of which they could determine the cardinal days of the year : viz., the summer and winter solstices, and the two equinoxes coming in between. 
 
 The lengths of the seasons were found by counting the number of days from one cardinal day to the next. The number may vary by one day from year to year, and astronomers must have 'realized that the correct length of a season was not a whole number but was fractional. Probably the correct length was found by taking a large number of observations, and taking the mean. The following table shows the length of the seasons and of the year as found by ancient astronomers. 
 
-* The mean duration of a lunar month consists of 29:530588 days and twelve such lunations amount to 354.36706 days, while the length of a tropical solar year is 365:24220 days. The length of a lunar year thus falls short of the solar year by 10.87514 days, and instead of there being exactly twelve lunar months in a year, there are 12.36827 months. 
+Table 2. Showing the length of seasons. 
 
-THE LUNI-SOLAR AND LUNAR CALENDARS 
+- Spring Summer Autumn Winter
+- Euctemon (432 B.C.) 93 90 90 92 = 365
+- Calippos (370 B.C.) 94 92 89 92 = 365
+- Chaldean (200 B.C.) 94.5 92.73 88.59 91.29 = 365.26
+- Correct values for 1384 B.C.  94.09 91.29 88.58 91.29 = 365.25
 
-175 
+The length of the year was also found by the same method. The **solar year** is the period between successive transitions of the sun through the same cardinal point. Neugebauer thinks that summer solstice was first used for this purpose in ancient times. But subsequently evidences are found of the use of other cardinal points. 
 
-3.2 MOON'S SYNOPIC PERIOD OR LUNATION : 
+Thus we find that during the classical period in **Babylon**, the solar year started with the **vernal equinox**. But the **Macedonian Greeks and the Jews** started with the **autumnal equinox**. The **west European countries** appear to have started the solar year with the **winter solstice**.
 
-EMPIRICAL RELATION BETWEEN THE YEAR 
+The number of days in a solar year would vary between 365 and 366. Probably the exact length was determined by counting the number of days between the year-beginnings separated by a large number of years and taking the mean. The Indian practice, followed in the Siddhāntas, is to give the number of days in a Kalpa (a period of 4.32x 10⁹ years) from which one can find out the number of days in a year by simple division. This appears in modern times to be a rather cumbrous practice, but is probably reminiscent of taking the **mean for a large number of years**. 
 
-AND THE MONTH 
+In ancient times, people had not learnt to follow the motion of the sun in the starry heavens, so they were unaware of the **difference between the sidereal year and the tropical year**. But from their method of measurement, they unconsciously chose the correct, or the tropical year. 
 
-on 
+Modern measurements show that the length of the **tropical year is not constant**, but is slowly varying. It is becoming shorter at the rate of .0001 days or 86 secs. in 1600 years. 
 
-Table 2.---Showing the length of seasons. Euctemon Calippos Chaldean Correct 
+So that in Sumerian times, the tropical year had a length of 365.2425 days. The present length is 365.2422 days. 
 
-values for (432 B.C.) (370 B.C.) (200 B.C.) 1384 B.C. 
 
-days days days 
+## MOON'S SYNOPIC PERIOD OR LUNATION : 
+EMPIRICAL RELATION BETWEEN THE YEAR AND THE MONTH 
 
-days Spring 93 
+The solar year has thus a pretty nearly constant value, but even the earliest astronomers appear to have observed, that the lunation, or the synodic period of the moon is not a constant, but is variable. As a matter of fact, the period varies from 29.246 to 29.817 days-nearly fourteen hours. The observation of the actual motion of the moon formed the most formidable problem in ancient astronomy (vide §4). 
 
-94.50 94.09 
+But all ancient nations show knowledge of an astonishingly correct value of the **mean synodic period**, which is known to be **29.530588** days. This is probably because they could count the number of days with fractions comprising a very large number of lunations, and therefore the mean value came out to be very correct. 
 
-Summer 
+With the aid of the knowledge of correct values of the length of the tropical year, and of the mean synodic period of the moon, it is possible to find out correct rules for luni-solar adjustment, as narrated below. But this could happen only at a later stage. The first stage was certainly empirical as is clearly indicated from a record of the great Babylonian king and law-giver **Hammurabi** (1800 B. C.), which says that the **thirteenth month** was proclaimed by royal order throughout the empire on the advice of priests. All religious observances were forbidden during this period.\* 
 
-9273 91'29 Autumn 90 89 88:59 88.58 Winter 92 90 89.44 91.29 
-
-94 
-
-The solar year has thus a pretty nearly constant value, but even the earliest astronomers appear to have observed, that the lunation, or the synodic period of the moon is not a constant, but is variable. As a matter of fact, the period varies from 29 246 to 29.817 days-nearly fourteen hours. The observation of the actual motion of the moon formed the most formidable problem in ancient astronomy (vide 84). 
-
-\---- 
-
-\-- 
-
-\- 
-
-\- 
-
-Total 
-
-365 
-
-365 
-
-365.26 
-
-365.25 
-
-The length of the year was also found by the same method. The solar year is the period between successive transitions of the sun through the same cardinal point. Neugebauer thinks that summer solstice was first used for this purpose in ancient times. But subsequently evidences are found of the use of other cardinal points. 
-
-Thus we find that during the classical period in Babylon, the solar year started with the vernal equinox. But the Macedonian Greeks and the Jews 'started with the autumnal equinox. The west European countries appear to have started the solar year with the winter solstice, 
-
-The number of days in a solar year would vary between 365 and 366. Probably the exact length was determined by counting the number of days between the year-beginnings separated by a large number of years and taking the mean, The Indian practice, followed in the Siddhāntas, is to give the number of days in a Kalpa (a period of 4.32x 10o years) from which one can find out the number of days in a year by simple division. This appears in modern times to be a rather cumbrous practice, but is probably reminiscent of taking the mean for a large number of years. 
-
-In ancient times, people had not learnt to follow the motion of the sun in the starry heavens, so they were unaware of the difference between the sidereal year and the tropical year. But from their method of measurement, they unconsciously chose the correct, or the tropical year. 
-
-Modern measurements show that the length of the tropical year is not constant, but is slowly varying. It is becoming shorter at the rate of .0001 days or 86 secs. in 1600 years. 
-
-So that in Sumerian times, the tropical year had a length of 365.2425 days. The present length is 365*2422 days. 
-
-But all ancient nations show knowledge of an astonishingly correct value of the mean synodic period, which is known to be 29.530588 days. This is probably because they could count the number of days with fractions comprising a very large number of lunations, and therefore the mean value came out to be very correct. 
-
-With the aid of the knowledge of correct values of the length of the tropical year, and of the mean synodic period of the moon, it is possible to find out correct rules for luni-solar adjustment, as narrated below. But this could happen only at a later stage. The first stage was certainly empirical as is clearly indicated from a record of the great Babylonian king and law-giver Hammurabi (1800 B. C.), which says that the thirteenth month was proclaimed by royal order throughout the empire on the advice of priests. AU religious observances were forbidden during this period.* 
+\* It is said that in ancient Palestine, the custom was that the **Rabbis went to the fields** and watched the time by their calendar for the ripening of wheat. If the lunar month of Addaru (last month of the year) fell back too much towards winter, they would **proclaim a second Addaru** in that year, so that the first of Nisan would coincide roughly with the ripening of wheate. 
 
 It is not known however, what principles, if any, guided the king or rather his advisers in their selection of the thirteenth month, but most probably the adjustment was empirical, i.e.; the month was discarded when the priests found 'from actual experience that the festival was going out of season, Many ancient nations who used the luni-solar calendar, do not appear to have gone beyond the empirical stage. 
 
-Empirical Relations between the Solar and Lunar 
+### Empirical Relations between the Solar and Lunar Periods : The Intercalary Months. 
 
-Periods : The Intercalary Months. 
+The Chaldean astronomers (as the Babylonians were called after 600 B.C.) appear to have striven incessantly to obtain very accurate values for the mean lunation and the length of the solar: year, and work out at the discovery of mathematical relation ships between these two periods having the form-- 
 
-.- 
-
-.. 
-
-.-- 
-
-The Chaldean astronomers (as the Babylonians were called after 600 B.C.) appear to have striven incessantly to obtain very accurate values for the mean lunation and the length of the solar: year, and 
-
-\--- -- --- * It is said that in ancient Palestine, the custom was that the Rabbis went to the fields and watched the time by their calendar for the ripening of wheat. If the lunar month of Addaru (last month of the year) fell back too much towards winter, they would proclaim a second Addaru in that year, so that the first of Nisan would coincide roughly with the ripening of wheate. 
-
-176 
-
-work out at the discovery of mathematical relation ships between these two periods having the form-- 
-
-m lunar monthsen solar years 
-
+m lunar months = n solar years  
 where both m and n are integers. 
 
-'Let us describe some of these relations, The Octaeteris : This depends on the relation : 
+Let us describe some of these relations, 
 
-355 
+The **Octaeteris** : This depends on the relation : 
 
-384 
-
-8 tropical years=2921.94 days 99 lunar months - 2923.53 days. 
-
-355 
-
-354 
-
-Table 3.-The 19-year cycle.. Cycle of 19 years showing Intercalary Months (Compiled from Pannekoek's calculation of dates 
-
-in Babylonian Tables of planets) Year in the Total no. of Years of the 19-year cycle 
-
-days 
-
-Seleucidean Era 384 134 153 172 191 210 229 354 
-
-135 154 173 192 211 230 136 155 174 193 212 231 137 156 175 194 213 232 138 157 176 195 214 233 
-
-139 158 177 196 215 234 384 
-
-140 159 178 197 216 235 354 141 160 179 198 217 236 384 142 161 180 199 218 237 355 143 162 181 200 219 238 
-
-144 163 182 201 .220 239 384 145 164 183 202 221 240 355 146 165 184 203 222 241 354 147 166 185 204 223 242 
-
-148 167 186 205 224 243 354 149 168 187 206 225 244 355 150 169 188 207 226 245 
-
-151 170 189 208 227 246 
-
-152 171 190 209 228 247 Total 6940 
+- 8 tropical years = 2921.94 days
+- 99 lunar months = 2923.53 days. 
 
 The difference is only 1.59 days in 8 years. We have used here the correct lengths of the two periods. The Babylonian values were slightly different. 
 
-Farmfm6*** SERVADO 
+According to this relation, there were to be **three extra** or intercalary **months** in a period of **8 years**, and festivals would fall approximately in the right seasons, if these three months were suitably excluded for religious observances. But the rule was only approxi mate. In a few cycles, the discrepancy would be too large to be disregarded. 
 
-354 
+According to the celebrated exponent of Babylonian astronomy, Father Kugler, this system was in vogue from 528 B.C. to 505 B.C., then there was an interval when they used to have **10 intercalary months in a period of 27 years**. From 383 B.C., the Chaldeans used the 19-year cycle, based on the relation : 
 
-384 
-
-According to this relation, there were to be three extra or intercalary months in a period of 8 years, and festivals would fall approximately in the right seasons, if these three months were suitably excluded for religious observances. But the rule was only approxi mate. In a few cycles, the discrepancy would be too large to be disregarded. 
-
-383 
-
-354 
-
-According to the celebrated exponent of Baby lonian astronomy, Father Kugler, this system was in vogue from 528 B.C. to 505 B.C., then there was an interval when they used to have 10 intercalary months in a period of 27 years. From 383 B.C., the Chaldeans used the 19-year cycle, based on the relation : 
-
-N. B. Years marked * have a second Addaru, and years marked + have a second Ululu. 
-
-312-Seleucidean era-Christian era B.C. 
-
-(Jan. to Sept.) Seleucidean era-311-Christian era A.D. 
-
-(Jan. to Sept.) The 'Nineteen-year cycle' is generally known as the 'Metonic Cycle' after Meton, an Athenian astronomer who unsuccessfully tried to introduce it at Athens in 432 B.C. But there is no proof that it was used at Athens before 343 B.C. The question of ‘priority of this discovery is therefore a disputed one. 
-
-19 solar years =6939.60 days 235 lunar months=6939.69 days. 
+- 19 solar years = 6939.60 days 
+- 235 lunar months = 6939.69 days. 
 
 There is a discrepancy of .09 days in 19 years, or a mistake of 1 day in 210 years. 
 
-The 19-year cycle, with 7 intercalary months was used throughout the whole Seleucid times (313 B.C. 75 B.C.), as shown by Pannekoek. This system has not been superseded inspite of various attempts. 
+The **19-year cycle, with 7 intercalary months** was used throughout the whole Seleucid times (313 B.C. 75 B.C.), as shown by Pannekoek. This system has not been superseded inspite of various attempts. 
 
-These rules came into vogue at a time (383 B.C.), when Babylon had lost her independence and became a vassal state of the Persian empire of the Acheminids. We do not know what was the original calendar of pre-Acheminid Persia, but the great Acheminid emperór Darius preferred the simpler Egyptian solar Galendar to the complex luni-solar calendar of Babylon. 
+These rules came into vogue at a time (383 B.C.), when Babylon had lost her independence and became a vassal state of the Persian empire of the Acheminids. We do not know what was the original calendar of pre-Acheminid Persia, but the great Acheminid emperor Darius preferred the simpler Egyptian solar calendar to the complex luni-solar calendar of Babylon. The population of Babylon could no longer depend upon the king to adjust the dates of their religious observances by royal decree, as happened in the time of Hammurabi (1800 B.C.). Probably therefore the priest-astronomers felt the need of mathematical rules which should take the place of royal decrees.
 
-The population of Babylon could no longer depend upon the king to adjust the dates of their religious observances by royal decree, as happened in the time of Hammurabi (1800 B.C.). Probably therefore the priest-astronomers felt the need of mathematical rules which should take the place of royal decrees.. 
+The 'Nineteen-year cycle' is generally known as the '**Metonic Cycle**' after Meton, an Athenian astronomer who unsuccessfully tried to introduce it at Athens in 432 B.C. But there is no proof that it was used at Athens before 343 B.C. The question of ‘priority of this discovery is therefore a disputed one. 
 
-3.3 THE LUNI-SOLAR CALENDARS OF THE BABY LONIANS, THE MACEDONIANS, THE ROMANS, 
 
-AND THE JEWS In addition to the Chaldeans, many other nations of antiquity, viz..the Vedic Indians, the Greeks, the Romans and the Jews and others used the luni-solar calendar, and had to make luni-solar adjustments. It will be tedious to relate how they did it, except in the case of the Vedic Indians (vide § 5). But the knowledge of the nineteen-year rule appears to have diffused to all countries by the first century of the Christian era. From this time onwards, the lunar months of different nations appear to be interchange able. This is shown in the following Table No. 4. 
+{{< figure src="../../images/chaldean_19_year_cycle.png" title="Table 3.-The 19-year cycle.. Cycle of 19 years showing Intercalary Months (Compiled from Pannekoek's calculation of dates in Babylonian Tables of planets)" class="thumbnail">}}
+
+
+- 312-Seleucidean era = Christian era B.C. (Jan. to Sept.) 
+- Seleucidean era-311 = Christian era A.D. (Jan. to Sept.) 
+
+
+
+## THE LUNI-SOLAR CALENDARS OF THE BABYLONIANS, THE MACEDONIANS, THE ROMANS, AND THE JEWS 
+In addition to the Chaldeans, many other nations of antiquity, viz..the Vedic Indians, the Greeks, the Romans and the Jews and others used the luni-solar calendar, and had to make luni-solar adjustments. It will be tedious to relate how they did it, except in the case of the Vedic Indians (vide § 5). But the knowledge of the nineteen-year rule appears to have diffused to all countries by the first century of the Christian era. From this time onwards, the lunar months of different nations appear to be interchange able. This is shown in the following Table No. 4. 
 
 We have almost complete knowledge of the luni solar calendars of the Babylonians during Seleucid times. The names of months with their normal lengths are shown in column (2) of the table. 
 
@@ -225,7 +140,8 @@ As the table shows, the Babylonian year might be of 354, 355, 383, or 384 days�
 
 · The Macedonian months were used by the Parthians, the early Sakas, and the Kushans in India wihout change of name (vide § 5.5), and probably the 
 
-3.4 THE INTRODUCTION OF THE ERA For accurate date-recording, we require besides the month and the day, also a continuously running era. But the era came rather late in human history. We find dated records of kings in Babylon from about 1700 B.C. (Kassite kings). They used regnal years, lunar months, and the day of the lunar month. The ancient Egyptian records do not use any era, but sometimes the regnal years. But the use of regnal years is very inconvenient for purposes of exact chronology, because one has to locate the beginning of the reign of the king on the time-scale which often proves to be an extremely difficult problem, e.g., in India, Emperor Asoke used regnal years, but it is a problem of nearly hundred years for archaeologists to find out the exact date of the commencement of his reign. This varies from 273 B.C. to 264 B.C. 
+## THE INTRODUCTION OF THE ERA 
+For accurate date-recording, we require besides the month and the day, also a continuously running era. But the era came rather late in human history. We find dated records of kings in Babylon from about 1700 B.C. (Kassite kings). They used regnal years, lunar months, and the day of the lunar month. The ancient Egyptian records do not use any era, but sometimes the regnal years. But the use of regnal years is very inconvenient for purposes of exact chronology, because one has to locate the beginning of the reign of the king on the time-scale which often proves to be an extremely difficult problem, e.g., in India, Emperor Asoke used regnal years, but it is a problem of nearly hundred years for archaeologists to find out the exact date of the commencement of his reign. This varies from 273 B.C. to 264 B.C. 
 
 In the writings of the Greek astronomers Hippar chos (140 B.C.) and Ptolemy (150 A.D.), we come across an era purporting to date from the time of one king Nabu Nazir of Babylon (747 B.C.), who -is known to history, though this era is not used in records of the Babylonian kings themselves. 
 
@@ -263,7 +179,7 @@ THE 'LUNI-SOLAR: AND LUNÁR ONLENDARS
 
 179 
 
-3.5 THE JEWISH CALENDAR 
+## THE JEWISH CALENDAR 
 
 two, i.e., 2nd day of week), ha (he, five, i.e., fifth hour after sunset) and Rad (Resh, dalet, 204 minims after the hour). 
 
@@ -281,7 +197,7 @@ Year 1 after destruction=A.M. 3831
 
 The 'Era of Creation' is supposed to have started from the day of autumnal equinox of the year 3761 B.C. So the sun and the moon must have existed before the day of creation !! 
 
-3.6 THE ISLAMIC CALENDAR 
+## THE ISLAMIC CALENDAR 
 
 The Mohammedan calendar is purely lunar and has no connection with the solar year. The year consists of 12 lunar months, the beginning of each month being determined by the first observation of the crescent moon in the evening sky. The months have accordingly got 29 or 30 days and the year 354 or 355 days. The new-year day of the Mohammedan calendar thus retrogrades through the seasons and completes the cycle in a period of about 324 solar years. 
 
