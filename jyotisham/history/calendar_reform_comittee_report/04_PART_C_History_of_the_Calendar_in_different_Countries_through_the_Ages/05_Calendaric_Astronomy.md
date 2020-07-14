@@ -17,7 +17,7 @@ The motion of the moon amongst the stars is the easiest to observe. This is illu
 
 The central horizontal line is the line of the celestial equator (§ 4.4), and the sinuous line represents the ecliptic or the sun's path (8 4.5), but we may ignore these now, and simply concentrate on the moon and the stars or star-clusters near which it passes. 
 
-The moon begins as a thin crescent on the western horizon on the evening of June 12, the day of the first visibility after the new-moon, at an angle of 11°, from the sun which has just set, below the bright stars Castor and Pollux (Punarvasū). Then we notice the position of the moon, on successive evenings at sunset: We find she is moving eastward at the rate of about 13° and becoming fuller (increasing in phase). She passes the bright star Regulus (Magha) on the 17th, on the 19th, she is half and passes B Leonis (Uttara Phalguni) leaving it a good deal to the north. Then she passes the bright star Spica ( α Virginis or Citra) on the 21st, and is then gibbous on the 23rd near the star a-libra (Visakha). Then she passes the well known Scorpion-cluster and becomes full on the 27th, near a star-cluster which cannot be seen on the night of full-moon, but can be detected later as the star cluster Sagittarius. On the full moon day, she rises nearly at sunset, at 180° from the sun (opposition). On each successive night after full moon she rises later and later, and passes the phases in the reverse order, i.e., becomes gibbous+++(=convex)+++ on June 30, when she has the bright star Altair (Śravaņa) far to the north and is half on July 4, and becomes a crescent on July 7 on the eastern sky, and then fails to appear for three days, and must have passed the sun on the 11th July which is the new moon day, when she is with the sun (Amārasyā or conjunction, lit. the sun and the moon living together). On the 12th July, she reappears on the western horizon as a thin crescent, near the star ó-Cancri (Puṣya), and the cycle again starts. 
+The moon begins as a thin crescent on the western horizon on the evening of June 12, the day of the first visibility after the new-moon, at an angle of 11°, from the sun which has just set, below the bright stars Castor and Pollux (Punarvasū). Then we notice the position of the moon, on successive evenings at sunset: We find she is moving eastward at the rate of about 13° and becoming fuller (increasing in phase). She passes the bright star Regulus (Magha) on the 17th, on the 19th, she is half and passes B Leonis (Uttara Phalguni) leaving it a good deal to the north. Then she passes the bright star Spica ( α Virginis or Citra) on the 21st, and is then gibbous on the 23rd near the star a-libra (Visakha). Then she passes the well known Scorpion-cluster and becomes full on the 27th, near a star-cluster which cannot be seen on the night of full-moon, but can be detected later as the star cluster Sagittarius. On the full moon day, she rises nearly at sunset, at 180° from the sun (opposition). On each successive night after full moon she rises later and later, and passes the phases in the reverse order, i.e., becomes gibbous+++(=convex)+++ on June 30, when she has the bright star Altair (Śravaṇa) far to the north and is half on July 4, and becomes a crescent on July 7 on the eastern sky, and then fails to appear for three days, and must have passed the sun on the 11th July which is the new moon day, when she is with the sun (Amārasyā or conjunction, lit. the sun and the moon living together). On the 12th July, she reappears on the western horizon as a thin crescent, near the star ó-Cancri (Puṣya), and the cycle again starts. 
 
 The crescent of the moon, either in the western or the eastern sky, is always turned away from the sun. 
 
@@ -57,257 +57,16 @@ At one time, the brilliant star Vega (α Lyrae) was also, included making 28 nak
 
 No satisfactory argument has been given for the inclusion of such distant stars in the lunar zodiac: The Arabs and the Chinese do not include these distant stars in their lunar zodiac, but 'fainter ones near the ecliptic, Prof. P. C. Sengupta is of the opinion that Indians generally preferred bright stars, but when such were not available near the ecliptic, they chose brighter ones away from the ecliptic, which could be obtained on the **line joining the moon's cusps**. 
 
-The **nakṣatras were used to name the 'days'** in the earliest strata of Indian literature. Thus when the moon is expected to be found in the Maghā nakṣatra (α Leonis), the day would be called the Maghā day. This is the oldest method of designating the day, for it is found in the Rg-Vedas. Other methods of designating the day by **tithis or lunar days**, or by the seven week-days, came later. The system has continued to the present times. In old times, astrology was based almost entirely on the nakṣatras, e.g., in Asoka's records, the Puṣya nakṣatra day was regarded as auspicious when brāhmaṇas and Sramaņas were fed, in order to enhance the king's punya (religious merits). In the Mahābhārata also we find that the days are designated by nakṣatras which apparently mean the star or star cluster near which the moon is expected to be seen during the night. 
+The **nakṣatras were used to name the 'days'** in the earliest strata of Indian literature. Thus when the moon is expected to be found in the Maghā nakṣatra (α Leonis), the day would be called the Maghā day. This is the oldest method of designating the day, for it is found in the Rg-Vedas. Other methods of designating the day by **tithis or lunar days**, or by the seven week-days, came later. The system has continued to the present times. In old times, astrology was based almost entirely on the nakṣatras, e.g., in Asoka's records, the Puṣya nakṣatra day was regarded as auspicious when brāhmaṇas and Sramaṇas were fed, in order to enhance the king's punya (religious merits). In the Mahābhārata also we find that the days are designated by nakṣatras which apparently mean the star or star cluster near which the moon is expected to be seen during the night. 
 
 As is apparent from Table No. 5, the nakṣatras are at rather unequal distances, i.e., they rarely follow the ideal distance of 13.5°. This is rather inconvenient for precision time-reckoning. We find in the Vedānga Jyotiṣa times an attempt at a precise definition of the **two limits of a nakṣatra**, which was defined as 800' (-13° 20') of the ecliptic. The nakṣatra was named according to the most prominent star (**Yogatārā**) contained within these limits. These are given in. column (2) of Table 5. 
 
 We do not, however, have any idea as to how the beginnings and endings of the nakṣatra divisions were fixed in India. The prominent ecliptic stars which were used as Yogatārās (junction-stars) in pre-Siddhāntic period, are not distributed at regular intervals along the ecliptic ; and so it was found very difficult to include the stars in their respective equal divisions. This will be clear from table (No. 5) where the junction stars of the nakṣatras according to the Sūrya "Siddhānta are given in col. (2). The celestial longitudes of the stars for 1956 A.D. are given in col. (4) and the beginnings of each division for the same year are given in col. (5), taking the star α Virginis to occupy the middle position of the nakṣatra Citrā, which marked 
 
-184 
+Table 5.–Stars of the Nakṣatra divisions.  
+Positions of the Junction Stars of Nakṣatra Divisions of the Siddhāntas  
 
-REFORT OF THE CALENDAR BEFORM COMMITTEE 
-
-++ i î i to 
-
-(-)1 
-
-itt:1 1 1 1 1 
-
-nible 5.–Stars of the Naksatra divisions. 
-
-Positions of the Junction Stars of Naksatta Divisions of the Siddhāntas, 
-
-Name of 
-
-Junction star Latitude 
-
-Longitude 
-
-Position of the star nakyatras 
-
-(Yogatārā) 
-
-Suyana 
-
-of the dakpatra in the nakpatna of nakputras 
-
-(1956) 
-
-division (1956) division. (2) 
-
-.(3) 
-
-(5) 
-
-(6) 
-
-1. Asvini 
-
-β Arietis to go 29 
-
-33° 22' 
-
-ago 15' 10° 7' 2.' Bbarani 
-
-41 Arietis 
-
-+20 27 
-
-47 36 
-
-86 35 
-
-11 1 
-
-3. Kr̥ttikā 
-
-7 Tauri 
-
-+44 3 
-
-59" 23 
-
-49 55 
-
-9 28 
-
-4. Rohiņi 
-
-a Tauri 
-
-69 11 
-
-63 15 5. Mrgasiras 
-
-i Orionis 
-
-83 6 
-
-176 35 
-
-6. Ardrā 
-
-a Orionis -10 2 
-
-88 9 
-
-89 55 
-
-7. Punarvasu 
-
-B Geminorum + 8 41 
-
-112 37 
-
-108 15 8. Puṣya 
-
-8 Cancri 
-
-+05 128 7 
-
-116 35 9. Aśleṣā 
-
-a Cancri 
-
-\- 5 5 
-
-1332 
-
-129 55 
-
-3 7 10. Magha 
-
-a Loopis to 28 
-
-149 13 
-
-143 15 
-
-5 58 11. Pūrva Phalguni 8 Leonis 
-
-+14 20 
-
-160 42 
-
-156 35 12. Uttara Phalguni B Leonis 
-
-+12 16 
-
-171. 1 
-
-169 55 
-
-1 6 13.Hasta 
-
-8 Corvi 
-
-\-12 12 
-
-192 51 
-
-183 15 14. Citrā 
-
-α Virginis 
-
-\- 2 ..3. 
-
-203 14 
-
-196 35 15. Svāti 
-
-a Bootis 
-
-+30 46 
-
-203 38 
-
-209 55 16. Visakhā 
-
-a Libra 
-
-+0 20 
-
-224 28 
-
-223 15 17. Anurādhā 
-
-8 Scorpii 
-
-\- 1 59 
-
-241 58 
-
-236 35 18. Jyesthā 
-
-a Scorpii - 4 34 
-
-2499 
-
-249 55 19. Mūla 
-
-^ Scorpii 
-
-\-13 47 
-
-263 
-
-263 15 20. Pūrvāṣādbā 
-
-8 Sagittarii - 6 28. 
-
-276 35 21. Uttarāsādbā 
-
-o Sagittarii - 3 27 281 47 
-
-289 55 22. Śravana 
-
-a Aquilae +29 · 18 
-
-301 10 
-
-308 15 
-
-5 23. Dhaniṣthā 
-
-B Delphini +31 65 
-
-315 44 
-
-316 35 (-)0 51 24. Satabhigaj 
-
-1 Aquarii - 0 23 
-
-340 58 
-
-329 55 
-
-11 3 25. Pūrva Bhadrapadā a Pegagi 
-
-+19 24 
-
-352 53 
-
-348 15 
-
-9 38 26. Uttara Bhādrapadā y Pegasi 
-
-+12 86 
-
-8 39 
-
-386 35 
-
-11 58 27. Rovati 
-
-Ś Piscium 
-
-\-0 13 
-
-1916 
-
-9 55 
-
-9 21 
+<div class="spreadsheet" src="../../yogatAra_in_siddAnta_naxatras_1956.csv" separator=",", headers="Ordinal, Name of nakṣatra,  Junction star (Yogatārā),  Latitude,  Longitude (sāyana 1956),  Beginning point of nakṣatra division,  Position of the star in the nakṣatra division (1956)"> </div>  
 
 the position of the autumnal equinox at the time The divisions of nakṣatras shown in the table, as when the table was compiled. The figures in the last already stated, has been based on the assumption that column represent the position of the star in the naksatra the star Spica occupies the 180th degree of the lunar division of that name. It seems that a few of the zodiac. This arrangement agrees with the statement Yogatārās, vix, No. 6 Àrdrā, No. 15 Srātī, No. 18 of the Veilājiga Jyotiṣa that the Dhaniṣthā star Jyeṣthā, No. 20 Purvāṣādha, No. 21 Uttarāṣaqlā, (a or B Delphini) marked the beginning of the No. 22 Śrarana, and No. 23 Dhaniṣthā fall outside the Dhaniṣthū division, and also of the Varala's Surya nakṣatra division of which they are supposed to form the Siddhānta that Regulus (2 Leonis) is situated at the 6th Yogatārā. Matters do not improve much, if we shift degree of the Maghā division. the beginning of each division so as to place ś Piscium (Revati) at the end of the Revati division or in other words at the beginning of the Aścini division.
 
@@ -2307,7 +2066,7 @@ Bharani (35, 39, 41 Arietis)
 
 Kșttikā (Pleiades) 
 
-Rohiņi (a, 6, 7, 8, € Tauri) 
+Rohiṇi (a, 6, 7, 8, € Tauri) 
 
 Mțgasiras (1, 01, 0, Orionis) 
 
@@ -2649,7 +2408,7 @@ Sa'd adh-dhābiḥ
 
 (a, ß Capricorni) 
 
-| (a, ß Capricorni) Śravana (śroņā) Ear (lame) 
+| (a, ß Capricorni) Śravana (śroṇā) Ear (lame) 
 
 Nū 
 
