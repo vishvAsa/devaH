@@ -37,7 +37,7 @@ It is held on quite sound grounds that the Harappa Mohenjodaro people were succe
 
 
 
-artefacts of the early Aryans except some potteries tentatively ascribed to them, have so far been discovered. Almost the whole of our knowledge about them are derived from the hymns of the Rg-Vedas which were composed by priestly families amongst them in an archaic form of Sanskrit (Vedic Sanskrit), in honour of the gods they worshipped ; in these hymns are found occasional references to the sun, the moon, certain stars, and to months and seasons. Some think that there are also references to planets, i.e., the Vedic Aryans could distinguish between fixed stars and planets, but this is doubtful. From certain references which we discuss in $ 5.2, we may conclude that they used an empirical luni-solar calendar. Probably this was used till 1300 B.C. We do not come across sufficient material records until we come to the time of Asoka about 270 B.C. 
+artefacts of the early Aryans except some potteries tentatively ascribed to them, have so far been discovered. Almost the whole of our knowledge about them are derived from the hymns of the Rg-Vedas which were composed by priestly families amongst them in an archaic form of Sanskrit (Vedic Sanskrit), in honour of the gods they worshipped ; in these hymns are found occasional references to the sun, the moon, certain stars, and to months and seasons. Some think that there are also references to planets, i.e., the Vedic Aryans could distinguish between fixed stars and planets, but this is doubtful. From certain references which we discuss in § 5.2, we may conclude that they used an empirical luni-solar calendar. Probably this was used till 1300 B.C. We do not come across sufficient material records until we come to the time of Asoka about 270 B.C. 
 
 
 
@@ -497,7 +497,7 @@ This hymn is repeated in the Atharva Samhita as follows:
 
 
 
-just as in English we very often say 'A young lady of According to their practical purposes, in exactlý the order in eighteen summers'. 
+just as in English we very often say 'A young lady of According to their practical purposes, in exactly the order in eighteen summers'. 
 
 
 
@@ -677,7 +677,7 @@ First, the nakṣatras start with Krttikās which all authorities identify with 
 
 
 
-At the present times, the naksatras start with Asvini, of which the junction star is a or B. Arietis. This custom, Aśvinyādi, was introduced in Siddhānta Jyotiṣa time ( 500 A.D.), when the astronomical first point of Aries was near the end of the Revati nakṣatra ( $ Piscium ), or the beginning of Afvini. We do not enter into the controversy about the exact location of this point by the Siddhānta astronomers, which is fully discussed in Appendix 5-B. At present, the astronomical first point had shifted by as much as 19° from ś Piscium, but the orthodox Indian calendar makers do not admit in the continued precession of the equinoxes, and still count the nakṣatras from Atvini. 
+At the present times, the naksatras start with Asvini, of which the junction star is a or B. Arietis. This custom, Aśvinyādi, was introduced in Siddhānta Jyotiṣa time ( 500 A.D.), when the astronomical first point of Aries was near the end of the Revati nakṣatra ( § Piscium ), or the beginning of Afvini. We do not enter into the controversy about the exact location of this point by the Siddhānta astronomers, which is fully discussed in Appendix 5-B. At present, the astronomical first point had shifted by as much as 19° from ś Piscium, but the orthodox Indian calendar makers do not admit in the continued precession of the equinoxes, and still count the nakṣatras from Atvini. 
 
 
 
@@ -713,7 +713,7 @@ The Nakshatras
 
 
 
-One of the peculiar features of the Indian calendars is the use of the Nakṣatras as explained in $ 4'1. Evidences have teen given that the custom started from Rg-Vedic times. But we come across a full list of Nakṣatras only in the Yajurveda' with names of presiding deities as given in Table No. 10 (p. 220 ), taken from Dikṣit's Bharatīya Jyotiśāstra. 
+One of the peculiar features of the Indian calendars is the use of the Nakṣatras as explained in § 4'1. Evidences have teen given that the custom started from Rg-Vedic times. But we come across a full list of Nakṣatras only in the Yajurveda' with names of presiding deities as given in Table No. 10 (p. 220 ), taken from Dikṣit's Bharatīya Jyotiśāstra. 
 
 
 
@@ -1137,7 +1137,7 @@ Taittiriya Samhita, 7.4.8. The Lunar Month-Names
 
 
 
-Samvatsarasya yat phalguní pārņamāgo mukhata The solar month-names given earlier have not eva samvatsaramārabhya dikgante tasyai kaiva gone into general currency. The month-names niryā-yat sāmmedhye viṣuvānt sampadyate generally used are of lunar origin as given in $ 5.7. Citrā pūrņamāge dikṣeran mukhan vā etat samvatsarasya These names are first found in the Taittiriya Samhita yat citrā pārņamāso mukhata eva... 7.4.8, and in many other places of the Yajur-Veda Translation :-One should get consecrated on the literature, but in a somewhat different form. We Phalguni full-moon day because Phālguna full moon quote parts of the passage. 
+Samvatsarasya yat phalguní pārņamāgo mukhata The solar month-names given earlier have not eva samvatsaramārabhya dikgante tasyai kaiva gone into general currency. The month-names niryā-yat sāmmedhye viṣuvānt sampadyate generally used are of lunar origin as given in § 5.7. Citrā pūrņamāge dikṣeran mukhan vā etat samvatsarasya These names are first found in the Taittiriya Samhita yat citrā pārņamāso mukhata eva... 7.4.8, and in many other places of the Yajur-Veda Translation :-One should get consecrated on the literature, but in a somewhat different form. We Phalguni full-moon day because Phālguna full moon quote parts of the passage. 
 
 
 
@@ -1289,7 +1289,7 @@ Phalguni (, 11 & 12)
 
 
 
-is completed when the moon is ahead of the sun by 12°, or integral multiples of 12° ( vide $ 57). 
+is completed when the moon is ahead of the sun by 12°, or integral multiples of 12° ( vide § 57). 
 
 
 
@@ -1817,7 +1817,7 @@ period, and when it was added the last month adhika Magha contained 30 days inst
 
 
 
-The ratio , for the duration of the longest day to that of the shortest night given in the Vedānga Jyotiṣa was first noted by Dr. Thibaut. Later the same ratio was found by Father Kugler from Babylonian cunei form records of the Seleucidean period. The ratio is characteristic of a latitude of 350 N, which is nearly that of Babylon (for Babylon Ø=32° 40'N). Hence it has been inferred that the Vedānga Jyotiṣa-astronomers got this ratio from Seleucidean Babylon. But it may be pointed out that the Vedic life centred round North-Western India, from the Sarasvatī valley (Kuruksetra 0=29° 58') to Gandhar ($=31° 32'N). The ratios of the duration of daylight to, night on the summer-solstice day for different latitudes are as follows: 
+The ratio , for the duration of the longest day to that of the shortest night given in the Vedānga Jyotiṣa was first noted by Dr. Thibaut. Later the same ratio was found by Father Kugler from Babylonian cunei form records of the Seleucidean period. The ratio is characteristic of a latitude of 350 N, which is nearly that of Babylon (for Babylon Ø=32° 40'N). Hence it has been inferred that the Vedānga Jyotiṣa-astronomers got this ratio from Seleucidean Babylon. But it may be pointed out that the Vedic life centred round North-Western India, from the Sarasvatī valley (Kuruksetra 0=29° 58') to Gandhar (§=31° 32'N). The ratios of the duration of daylight to, night on the summer-solstice day for different latitudes are as follows: 
 
 
 
@@ -2337,7 +2337,7 @@ The number in the first column indicates the serial number of the inscription in
 
 
 
-The Coming of the Era to India As, we have seen in $3.5, the era reckoning had been in use in Babylon since 747 B.C., and the Seleucidean era which marked the accession to power of Seleucus at Babylon in 312 B.C., was widely current in the whole of the Middle East, both by the royalty and the public. 
+The Coming of the Era to India As, we have seen in §3.5, the era reckoning had been in use in Babylon since 747 B.C., and the Seleucidean era which marked the accession to power of Seleucus at Babylon in 312 B.C., was widely current in the whole of the Middle East, both by the royalty and the public. 
 
 
 
@@ -2369,7 +2369,7 @@ The second one is an inscription of the time of king Menander, the great king of
 
 
 
-Our studies given in $ 33, shows that a mathe matically accurate luni-solar calendar, based on astronomical knowledge, was first evolved in Seleucid Babylon between 300 B.C. to 200 B.C. by Chaldean astronomers. The features of this calendar were : 
+Our studies given in § 33, shows that a mathe matically accurate luni-solar calendar, based on astronomical knowledge, was first evolved in Seleucid Babylon between 300 B.C. to 200 B.C. by Chaldean astronomers. The features of this calendar were : 
 
 
 
@@ -2393,7 +2393,7 @@ Our studies given in $ 33, shows that a mathe matically accurate luni-solar cale
 
 
 
-(8) Luni-solar adjustment was done by the nineteen year cycle (vide $ 32-34). 
+(8) Luni-solar adjustment was done by the nineteen year cycle (vide § 32-34). 
 
 
 
@@ -2813,7 +2813,7 @@ There is no doubt that the year mentioned is that of the Baka era as now known. 
 
 
 
-The earliest authentic instance of the use of śaka era by name is supplied by the Badæmi inscription of Calikya Vallabhesvara (Pulakesin I of the Calukya dynasty), dated 465 of the śaka era (śaka- Varsanu Catus-sateṣu pañca-ṣasthi-yutesu : Epigraphia Indica XXVII, p. 8). In literature the use of the era by name appears still earlier. The Lokavibhāga of Simhasari, a Digambara Jaina work in Sanskrit is stated in a manuscript to have been completed in 80 beyond 300 (i.e. 380) of the śaka years (Ep. Ind., XXVII, p. 5). There is no doubt that the era used in the records of the western satrapal house beginning with Castana and Rudradaman have come down to the present times as the śaka Era, which is the 'Era' par excellence used by Indian astronomers for purposes of calculation. There ere 30 or more 'Eras' which have been in use in India (vide $ 5*8), but none of them have been 
+The earliest authentic instance of the use of śaka era by name is supplied by the Badæmi inscription of Calikya Vallabhesvara (Pulakesin I of the Calukya dynasty), dated 465 of the śaka era (śaka- Varsanu Catus-sateṣu pañca-ṣasthi-yutesu : Epigraphia Indica XXVII, p. 8). In literature the use of the era by name appears still earlier. The Lokavibhāga of Simhasari, a Digambara Jaina work in Sanskrit is stated in a manuscript to have been completed in 80 beyond 300 (i.e. 380) of the śaka years (Ep. Ind., XXVII, p. 5). There is no doubt that the era used in the records of the western satrapal house beginning with Castana and Rudradaman have come down to the present times as the śaka Era, which is the 'Era' par excellence used by Indian astronomers for purposes of calculation. There ere 30 or more 'Eras' which have been in use in India (vide § 5*8), but none of them have been 
 
 
 
@@ -2885,7 +2885,7 @@ JYOTISHA PERIOD : Rise of Siddhāntas or Scientific Astronomy:
 
 
 
-The Vedānga Jyotiṣa calendarical rules appear, from inscriptional records, to have been used right up to the end of the reign of the Satavahanas (200 A.D.). The analysis of inscriptional data on methods of date recording given in $ 5.5 shows that it was the śaka and Kuṣāņa rulers (50 B.C. - 100 A.D.), who introduced the Graeco-Chaldean methods of date-recording, prevalent in' the Near East into India. These methods require a knowledge of the fundamentals of astronomy, which must have been available to the śaka and Kuṣāna rulers. In India, as 'the inscriptional records show, some purely Indian dynasts probably accepted the system in full from about 248 A.D. (date of foundation of the Kalachuri era, the earliest era founded by Indian kings, leaving aside the śaka era which is admittedly of foreign origin and the Vikrama era whose origin is still - shrouded in mystery). During the time of the Guptas who founded an era commemorating their accession to power in 319 A.D. the integration of the western system with the Indian appears to have been complete. 
+The Vedānga Jyotiṣa calendarical rules appear, from inscriptional records, to have been used right up to the end of the reign of the Satavahanas (200 A.D.). The analysis of inscriptional data on methods of date recording given in § 5.5 shows that it was the śaka and Kuṣāņa rulers (50 B.C. - 100 A.D.), who introduced the Graeco-Chaldean methods of date-recording, prevalent in' the Near East into India. These methods require a knowledge of the fundamentals of astronomy, which must have been available to the śaka and Kuṣāna rulers. In India, as 'the inscriptional records show, some purely Indian dynasts probably accepted the system in full from about 248 A.D. (date of foundation of the Kalachuri era, the earliest era founded by Indian kings, leaving aside the śaka era which is admittedly of foreign origin and the Vikrama era whose origin is still - shrouded in mystery). During the time of the Guptas who founded an era commemorating their accession to power in 319 A.D. the integration of the western system with the Indian appears to have been complete. 
 
 
 
@@ -2925,7 +2925,7 @@ seyyathidam canda-ggaho bhavissati, suriyaggāho bhavissati, nakkhatta-ggābo bh
 
 
 
-though they started from the time. of Alexander. (Plato's Academy), really flowered in full bloom in the century following Alexander (330 B.Co - 200 B.C.). The culmination is found in Hipparchos of Rhodes who flourished from 160-120 B.C.; he wrote treatises on astronomy. Simultaneously in Seleucid Babylon, Chaldean and Greek astronomers made scientific contributions of the highest order to astronomy (vide $ 4.7 & 4.8 ), but none of their works have survived, but are now being found by archaeological explorations. 
+though they started from the time. of Alexander. (Plato's Academy), really flowered in full bloom in the century following Alexander (330 B.Co - 200 B.C.). The culmination is found in Hipparchos of Rhodes who flourished from 160-120 B.C.; he wrote treatises on astronomy. Simultaneously in Seleucid Babylon, Chaldean and Greek astronomers made scientific contributions of the highest order to astronomy (vide § 4.7 & 4.8 ), but none of their works have survived, but are now being found by archaeological explorations. 
 
 
 
@@ -3017,7 +3017,7 @@ But the influence of original Buddhism waned after the rise of Mahāyānist Budd
 
 
 
-The focus of diffusion of western astronomical knowledge appears to have been the city of Ujjayini, capital of the western Satraps who were apparently the first to use a continuous era ( the śaka era ), and a method of date-recording which was at first purely Graeco-Chaldean as prevalent in Seleucid Babylon, but gradually Indian elements like the tithi and the naksatra were blended, as we find for the first time in the inscription of Satrap Rudrasimha, dated 181 A.D. (vide $ 5.5). 
+The focus of diffusion of western astronomical knowledge appears to have been the city of Ujjayini, capital of the western Satraps who were apparently the first to use a continuous era ( the śaka era ), and a method of date-recording which was at first purely Graeco-Chaldean as prevalent in Seleucid Babylon, but gradually Indian elements like the tithi and the naksatra were blended, as we find for the first time in the inscription of Satrap Rudrasimha, dated 181 A.D. (vide § 5.5). 
 
 
 
@@ -3149,11 +3149,11 @@ A Yuga of 2850 years = 19 x 5x 30 years ;
 
 
 
-1 year = 365.2467 «lays. The number of intercalary months in the yuga is given as 1050, i.e., there are 7 intercalarý months in 19 years. 
+1 year = 365.2467 «lays. The number of intercalary months in the yuga is given as 1050, i.e., there are 7 intercalary months in 19 years. 
 
 
 
-and reminds one of the Iranian calendar in which each one of thirty days of the month is named after a god or principle (see $ 2.3). The names of the lords of the days as given in the Paulisa Siddhānta are of course all Indian. 
+and reminds one of the Iranian calendar in which each one of thirty days of the month is named after a god or principle (see § 2.3). The names of the lords of the days as given in the Paulisa Siddhānta are of course all Indian. 
 
 
 
@@ -3373,7 +3373,7 @@ These quotations leave not the slightest doubt that according to the compilers o
 
 
 
-It is supposed on good grounds that much of the astronomical knowledge found in the Surya Siddhānta is derived from Graeco-Chaldean sources. But it is clear from the text that the compilers of the S.S. had no knowledge of the precession of equinoxes, but they took the first point of Aries to be fixed. This is not to be wondered at, for as shown in $ 4.9, inspite of the works of Hipparchos and Ptolemy, precession was either not accepted or no importance was attached to it by the astronomers of the Roman empire. It may be added that the compilers of the S.S. were not aware of the theory of trepidation of equinoxes which appears to have been first formulated in the West by Theon of Alexandria (ca. 370 A.D.). It is also important to note that the Indian astronomers did not take the first point of Aries to be identical with that given either by Hipparchos, Ptolemy or any other western authority as would have been the case if there was blind-folded borrowing. They assimilated the astro nomical knowledge intelligently and took the first point of Aries as the point of intersection of the equator and the ecliptic, and made successive attempts to determine it by some kind of actual observations, 28 shown in appendix 5-B. These observations appear first to have been made about 280 A.D. 
+It is supposed on good grounds that much of the astronomical knowledge found in the Surya Siddhānta is derived from Graeco-Chaldean sources. But it is clear from the text that the compilers of the S.S. had no knowledge of the precession of equinoxes, but they took the first point of Aries to be fixed. This is not to be wondered at, for as shown in § 4.9, inspite of the works of Hipparchos and Ptolemy, precession was either not accepted or no importance was attached to it by the astronomers of the Roman empire. It may be added that the compilers of the S.S. were not aware of the theory of trepidation of equinoxes which appears to have been first formulated in the West by Theon of Alexandria (ca. 370 A.D.). It is also important to note that the Indian astronomers did not take the first point of Aries to be identical with that given either by Hipparchos, Ptolemy or any other western authority as would have been the case if there was blind-folded borrowing. They assimilated the astro nomical knowledge intelligently and took the first point of Aries as the point of intersection of the equator and the ecliptic, and made successive attempts to determine it by some kind of actual observations, 28 shown in appendix 5-B. These observations appear first to have been made about 280 A.D. 
 
 
 
@@ -3517,7 +3517,7 @@ The Siddhantic astronomers, therefore, found themselves in a difficulty. If they
 
 
 
-They struck a compromise. For defining the solar year, they took Vaisakha as the first month and for defining the lunar year they took Caitra as the first month (see $ 57). 
+They struck a compromise. For defining the solar year, they took Vaisakha as the first month and for defining the lunar year they took Caitra as the first month (see § 57). 
 
 
 
@@ -5509,7 +5509,7 @@ The modern value is, however, not fixed for all
 
 
 
-years". Thus year 1876 of śaka era would be, if we followed previouslý. 
+years". Thus year 1876 of śaka era would be, if we followed previously. 
 
 
 
@@ -5533,7 +5533,7 @@ The apparent antiquity of certain eras, ė.g., the Kaliyuga or the Saptarsi, are
 
 
 
-In India, the oldest inscriptions so far discovered and deciphered satisfactorily are those of the Emperor Asoka (273 to 227 B.C.); for the earlier Indus valley seal recordings have not yet been deciphered and no inscriptions or seals which can be referred to the time period between 2500 B.C. (time of Indus valley civili zation) and 250 B.C. ( time of Asoka ) have yet been brought to light. Asoka mentions in his inscriptions only the number of years elapsed since his coronation. No month, week-day or the serial number of the day in the month is mentioned. A typical Asokan ins cription giving time references is given in $ 5.5. 
+In India, the oldest inscriptions so far discovered and deciphered satisfactorily are those of the Emperor Asoka (273 to 227 B.C.); for the earlier Indus valley seal recordings have not yet been deciphered and no inscriptions or seals which can be referred to the time period between 2500 B.C. (time of Indus valley civili zation) and 250 B.C. ( time of Asoka ) have yet been brought to light. Asoka mentions in his inscriptions only the number of years elapsed since his coronation. No month, week-day or the serial number of the day in the month is mentioned. A typical Asokan ins cription giving time references is given in § 5.5. 
 
 
 
@@ -5969,7 +5969,7 @@ Rajasthan, conquered the city of Kanauj about 828 A.D., they brought the Vikrama
 
 
 
-The months of the Vikrama era are all lunar, and the first month is Caitra. The months begin after the full-moon but the year begins 15 days after the full moon of Phalguna, i.e. after the new-moon of Caitra. But for astronomical calculations, it is pegged on to a solar year, which starts on the first of solar Vaisakha, theoretically the day after the vernal equinox. The Vikrama era is current also in parts of Gujrat, but there the year begins in Kārtika and the months are amānta, which corresponds to the Macedonian month of Dios, and the epoch is just six months later. Thus the western and northern varieties of the Vikrama era follow respectively the Macedonian and Babylonian reckonings (see $ 3.3), the year of starting is 255 years later than that of the Seleucidean era. 
+The months of the Vikrama era are all lunar, and the first month is Caitra. The months begin after the full-moon but the year begins 15 days after the full moon of Phalguna, i.e. after the new-moon of Caitra. But for astronomical calculations, it is pegged on to a solar year, which starts on the first of solar Vaisakha, theoretically the day after the vernal equinox. The Vikrama era is current also in parts of Gujrat, but there the year begins in Kārtika and the months are amānta, which corresponds to the Macedonian month of Dios, and the epoch is just six months later. Thus the western and northern varieties of the Vikrama era follow respectively the Macedonian and Babylonian reckonings (see § 3.3), the year of starting is 255 years later than that of the Seleucidean era. 
 
 
 
@@ -5989,7 +5989,7 @@ But we are not yet sure about the origin of this era. It has been traced back to
 
 
 
-The Old and the New śaka era. The dates given by different authorities about the starting year of the old śaka era mentioned in $ 5.5 vary from 155 B.C. to-88 B.G. as given below: Konow : 88 B.C. (date of death of Mithradates II, the 
+The Old and the New śaka era. The dates given by different authorities about the starting year of the old śaka era mentioned in § 5.5 vary from 155 B.C. to-88 B.G. as given below: Konow : 88 B.C. (date of death of Mithradates II, the 
 
 
 
@@ -6037,7 +6037,7 @@ This hypothesis, though not finally settled appears to, have a good deal of prob
 
 
 
-The points given in $ 5.5 and above may be summarized as follows: 
+The points given in § 5.5 and above may be summarized as follows: 
 
 
 
@@ -6977,7 +6977,7 @@ origin being the first point of Aries. We have described Hemanta 210° to 270° 
 
 
 
-in $ 4.5 bow an idea of the ecliptic was derived from night (Late Autumn) 
+in § 4.5 bow an idea of the ecliptic was derived from night (Late Autumn) 
 
 
 
@@ -9973,7 +9973,7 @@ CORRIGENDA AND ADDENDA
 
 
 
-Part A Page 2, 1st ool, line 36, For O $ 4'10, read 0 8 4'9 Page 3, 2nd col. line 46, For happend, read happened Page 4, 1st col. line 12, For was, read were Page 21, 2nd col. No. 35, Insert Ceylon after Chavakachcheri 
+Part A Page 2, 1st ool, line 36, For O § 4'10, read 0 8 4'9 Page 3, 2nd col. line 46, For happend, read happened Page 4, 1st col. line 12, For was, read were Page 21, 2nd col. No. 35, Insert Ceylon after Chavakachcheri 
 
 
 

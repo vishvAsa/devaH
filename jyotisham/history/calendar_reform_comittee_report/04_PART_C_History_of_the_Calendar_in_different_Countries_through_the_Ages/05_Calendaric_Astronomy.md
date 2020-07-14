@@ -429,7 +429,7 @@ B:'...'..
 
 
 
-Fig. 3–Showing the positions of the sun, moon and planets among the stars in July, 1953. The table given on p. 176 is based on mean values The central horizontal line is the line of the of the lengths of the year and the synodic month, celestial equator ($ 4.4), and the sinuous line represents which is equivalent to the assumption that the sun the ecliptic or the sun's path (8 4.5), but we may 
+Fig. 3–Showing the positions of the sun, moon and planets among the stars in July, 1953. The table given on p. 176 is based on mean values The central horizontal line is the line of the of the lengths of the year and the synodic month, celestial equator (§ 4.4), and the sinuous line represents which is equivalent to the assumption that the sun the ecliptic or the sun's path (8 4.5), but we may 
 
 
 
@@ -481,7 +481,7 @@ the mean sidereal period=27.321661 days
 
 
 
-The Lunar Mansions : Many ancient nations developed the habit of designating the day-to-day (or night-to-night) position of the moon by the stars or star-clusters it passed on successive nights. The number of such stars or star clusters was either 27 or 28 ; the ambiguity was due to the fact that the mean sidereal period of the moon is about 27$ days, the actual period having a variation of seven hours, and the ancients who did not know how to deal with fractions, oscillated between 27 and 28. In India, originally there were 28 nakṣatras, but ultimately 27 was accepted as the number of lunar nakṣalras (or asterisms). 
+The Lunar Mansions : Many ancient nations developed the habit of designating the day-to-day (or night-to-night) position of the moon by the stars or star-clusters it passed on successive nights. The number of such stars or star clusters was either 27 or 28 ; the ambiguity was due to the fact that the mean sidereal period of the moon is about 27§ days, the actual period having a variation of seven hours, and the ancients who did not know how to deal with fractions, oscillated between 27 and 28. In India, originally there were 28 nakṣatras, but ultimately 27 was accepted as the number of lunar nakṣalras (or asterisms). 
 
 
 
@@ -2485,7 +2485,7 @@ The above definition of 'seasons' has come down to modern astronomy. The Hindu d
 
 
 
-The observation of the Cardinal days of the year appear to have been carried out all over the ancient world by other methods, and often in a far more elaborate manner. People would observe the day-to-day rise of the sun on the eastern horizon, and mark out the days when the sun was farthest north (summer solstice day), or farthest south (winter solstice day). The time period taken by the sun to pass from the southern solstitial point to the northern solstitial point was known in the Vedas as the Uttarāyana (northern passage), and that taken by the sun to pass from the northern solstitial point to the southern solstitial point was known as the Dakṣiṇāyana (southern passage). Exactly midway between these points the sun rises on the vernal and autumnal equinoctial days. From the passage in the Satapatha Brāhmana, quoted later ( vide $5:3), we see clearly that the point on the eastern horizon, where the sun rose on these days, was recognized to be the true east. 
+The observation of the Cardinal days of the year appear to have been carried out all over the ancient world by other methods, and often in a far more elaborate manner. People would observe the day-to-day rise of the sun on the eastern horizon, and mark out the days when the sun was farthest north (summer solstice day), or farthest south (winter solstice day). The time period taken by the sun to pass from the southern solstitial point to the northern solstitial point was known in the Vedas as the Uttarāyana (northern passage), and that taken by the sun to pass from the northern solstitial point to the southern solstitial point was known as the Dakṣiṇāyana (southern passage). Exactly midway between these points the sun rises on the vernal and autumnal equinoctial days. From the passage in the Satapatha Brāhmana, quoted later ( vide §5:3), we see clearly that the point on the eastern horizon, where the sun rose on these days, was recognized to be the true east. 
 
 
 
@@ -2637,7 +2637,7 @@ The ecliptic is the most important reference circle in the heavens, and let us s
 
 
 
-It is obvious that a knowledge of the stars marking the sun's path could not be obtained directly as in the case of the moon ; for when the sun is up, not even the brightest stars are visible. The knowledge must have been obtained indirectly. Early observers were accustomed to observe the heliacal rising of stars, i.e., observe the brilliant stars lying close to the sun which are on the horizon just before sunrise. This must have given them a rough idea of the stars lying close to .the sun's path. From these observations, as well as from successive appearances of the moon on the first days of the month as narrated in $ 4:1, they must have also deduced that the sun was slipping from the west to the east with reference to the fixed stars, and completing a revolution in one year. But how was this path rigorously fixed ? 
+It is obvious that a knowledge of the stars marking the sun's path could not be obtained directly as in the case of the moon ; for when the sun is up, not even the brightest stars are visible. The knowledge must have been obtained indirectly. Early observers were accustomed to observe the heliacal rising of stars, i.e., observe the brilliant stars lying close to the sun which are on the horizon just before sunrise. This must have given them a rough idea of the stars lying close to .the sun's path. From these observations, as well as from successive appearances of the moon on the first days of the month as narrated in § 4:1, they must have also deduced that the sun was slipping from the west to the east with reference to the fixed stars, and completing a revolution in one year. But how was this path rigorously fixed ? 
 
 
 
@@ -2645,7 +2645,7 @@ It appears that a knowledge of the stars lying on, or close to the moon's path w
 
 
 
-They must have realized, as narrated in $ 4.2, that during a total lunar eclipse, the moon occupies a position in the heavens opposite the sun, and the stars close to the moon, which become visible during totality, approximately mark out points on the sun's path. So the word 'Ecliptic' which means the locus of eclipses, came to denote the sun's path. 
+They must have realized, as narrated in § 4.2, that during a total lunar eclipse, the moon occupies a position in the heavens opposite the sun, and the stars close to the moon, which become visible during totality, approximately mark out points on the sun's path. So the word 'Ecliptic' which means the locus of eclipses, came to denote the sun's path. 
 
 
 
@@ -3049,7 +3049,7 @@ evidences.
 
 
 
-The hesitation of the medieval astronomers in accepting precession can be easily understood. Most of them earned their livelihood by practising the 'Astrological Cult which was reared on the basis that the signs of the zodiac are fixed, and coincident with certain star-groups ; but this assumption crumbles to the ground if precession is accepted. But as historical records now show, though astronomers 'had clearly recognized that the initial point should be the point of intersection of the equator and the ecliptic, there was no unanimity even amongst ancient astronomers of different ages regarding the location of this point in the heavens, because it was not occupied by any prominent star at any epoch and the ancients were unaware of the importance of its motion (vide $ 4:9). 
+The hesitation of the medieval astronomers in accepting precession can be easily understood. Most of them earned their livelihood by practising the 'Astrological Cult which was reared on the basis that the signs of the zodiac are fixed, and coincident with certain star-groups ; but this assumption crumbles to the ground if precession is accepted. But as historical records now show, though astronomers 'had clearly recognized that the initial point should be the point of intersection of the equator and the ecliptic, there was no unanimity even amongst ancient astronomers of different ages regarding the location of this point in the heavens, because it was not occupied by any prominent star at any epoch and the ancients were unaware of the importance of its motion (vide § 4:9). 
 
 
 
@@ -3165,7 +3165,7 @@ CALENDARIO ASTRONOMY
 
 
 
-an older form of Astrology widely found in Vedic India, which centred mainly round the moon, and the lunar wansions, and to a. lesser extent on the sun. The conjunction of the moon with certain nakṣatras was considered lucky, others unlucky (vide $ 4:1). 
+an older form of Astrology widely found in Vedic India, which centred mainly round the moon, and the lunar wansions, and to a. lesser extent on the sun. The conjunction of the moon with certain nakṣatras was considered lucky, others unlucky (vide § 4:1). 
 
 
 
@@ -3245,7 +3245,7 @@ and so on.
 
 
 
-Yet, with all those observations, these reports represent is considerable astronomical activity. For the first time in historý a large number of data on the planets had been 
+Yet, with all those observations, these reports represent is considerable astronomical activity. For the first time in history a large number of data on the planets had been 
 
 
 
@@ -4165,7 +4165,7 @@ CALENDARIO "ASTRONOMY
 
 
 
-Euclid; already mentioned ; Eratosthenes who first measured correctlý the diameter of the earth and was the founder of scientific chronology ; and others whom we shall meet presently. 
+Euclid; already mentioned ; Eratosthenes who first measured correctly the diameter of the earth and was the founder of scientific chronology ; and others whom we shall meet presently. 
 
 
 
@@ -4221,7 +4221,7 @@ The principle of measurement of angles was certainly derived from the Chaldeans.
 
 
 
-It is suggested that after his discovery of precession (vide $ 4.9 ), Hipparchos probably used celestial longi tudes and latitudes. But these co-ordinates bad been already used by the Chaldeans at least a century earlier, 
+It is suggested that after his discovery of precession (vide § 4.9 ), Hipparchos probably used celestial longi tudes and latitudes. But these co-ordinates bad been already used by the Chaldeans at least a century earlier, 
 
 
 
@@ -4273,7 +4273,7 @@ Ptolemy wrote a treatise on astrology known as the “Tetrabiblos" which long re
 
 
 
-After Ptolemy, there were no great figure in astronomy except few commentators and workers of mediocre ability like Theon of Alexandria (about 370 A.D.), who initiated the false theory of trepidation of the equinoxes, and Paulus of Alexandria (fl. 378 A.D.) who wrote an 'astrological introduction. He is supposed to have been the inspirer of the Indian Siddhānta known as 'Paulisa' Siddhānta (vide $ 56), but this hypothesis started by Alberuni has never been proved. With the advent of Christianty, and after murder of the learned Hypatia (415 A.D.), the 'light' goes out of Greece. 
+After Ptolemy, there were no great figure in astronomy except few commentators and workers of mediocre ability like Theon of Alexandria (about 370 A.D.), who initiated the false theory of trepidation of the equinoxes, and Paulus of Alexandria (fl. 378 A.D.) who wrote an 'astrological introduction. He is supposed to have been the inspirer of the Indian Siddhānta known as 'Paulisa' Siddhānta (vide § 56), but this hypothesis started by Alberuni has never been proved. With the advent of Christianty, and after murder of the learned Hypatia (415 A.D.), the 'light' goes out of Greece. 
 
 
 
@@ -4357,7 +4357,7 @@ When the sun, in course of its yearly journey arrives at the first point of Arie
 
 
 
-The position of the vernal point has rarely in the course of history, been occupied by a prominent star, but in India, as narrated in $ 5:4, its nearness to star groups as well as the nearness 'of other cardinal points to star-groups have been noted from very early times. Traditions of different epochs record different stars as being near to the cardinal points. But nobody appeard to have drawn any conclusion from these records (vide for details $ 5:4). 
+The position of the vernal point has rarely in the course of history, been occupied by a prominent star, but in India, as narrated in § 5:4, its nearness to star groups as well as the nearness 'of other cardinal points to star-groups have been noted from very early times. Traditions of different epochs record different stars as being near to the cardinal points. But nobody appeard to have drawn any conclusion from these records (vide for details § 5:4). 
 
 
 

@@ -29,7 +29,7 @@ The Egyptians appear to have been the only cultural nation of antiquity who disc
 
 
 
-The Indian astronomers called the moon māsakrt, (month-maker) and before the Siddhānta Jyotiṣa time, the moon was considered more important as a time marker than the sun (vide $5). It was the same with other nations too, for as Pannekoek remarks, we find the opinion written in the sacred books of many nations "For regulating time, the moon has been created". 
+The Indian astronomers called the moon māsakrt, (month-maker) and before the Siddhānta Jyotiṣa time, the moon was considered more important as a time marker than the sun (vide §5). It was the same with other nations too, for as Pannekoek remarks, we find the opinion written in the sacred books of many nations "For regulating time, the moon has been created". 
 
 
 
@@ -381,7 +381,7 @@ The population of Babylon could no longer depend upon the king to adjust the dat
 
 
 
-AND THE JEWS In addition to the Chaldeans, many other nations of antiquity, viz..the Vedic Indians, the Greeks, the Romans and the Jews and others used the luni-solar calendar, and had to make luni-solar adjustments. It will be tedious to relate how they did it, except in the case of the Vedic Indians (vide $ 5). But the knowledge of the nineteen-year rule appears to have diffused to all countries by the first century of the Christian era. From this time onwards, the lunar months of different nations appear to be interchange able. This is shown in the following Table No. 4. 
+AND THE JEWS In addition to the Chaldeans, many other nations of antiquity, viz..the Vedic Indians, the Greeks, the Romans and the Jews and others used the luni-solar calendar, and had to make luni-solar adjustments. It will be tedious to relate how they did it, except in the case of the Vedic Indians (vide § 5). But the knowledge of the nineteen-year rule appears to have diffused to all countries by the first century of the Christian era. From this time onwards, the lunar months of different nations appear to be interchange able. This is shown in the following Table No. 4. 
 
 
 
@@ -445,7 +445,7 @@ As the table shows, the Babylonian year might be of 354, 355, 383, or 384 days�
 
 
 
-· The Macedonian months were used by the Parthians, the early Sakas, and the Kushans in India wihout change of name (vide $ 5.5), and probably the 
+· The Macedonian months were used by the Parthians, the early Sakas, and the Kushans in India wihout change of name (vide § 5.5), and probably the 
 
 
 
@@ -469,7 +469,7 @@ But the use of the Nabɔnassar era appears to have been confined to astronomers.
 
 
 
-spread over all these countries, as is apparent from contemporary inscriptions and coin-datings mentioned in $ 5.5. The months were amānta, i.e., started after the new-noon was completed and were pegged on to the solar year which started on the day of the vernal equinox. The Nisan was the first lunar month after the vernal equinox. There were 7 intercalary months in a period of 19 years. The correspondence between Chaldean and Greek months and the position of the intercalary months have been worked out by Prof. Pannekoek between the years 134-247 of the Seleuci dean era, as already given (vide $ 3.2 and 3.3) along with their Indian equivalent lunar months. 
+spread over all these countries, as is apparent from contemporary inscriptions and coin-datings mentioned in § 5.5. The months were amānta, i.e., started after the new-noon was completed and were pegged on to the solar year which started on the day of the vernal equinox. The Nisan was the first lunar month after the vernal equinox. There were 7 intercalary months in a period of 19 years. The correspondence between Chaldean and Greek months and the position of the intercalary months have been worked out by Prof. Pannekoek between the years 134-247 of the Seleuci dean era, as already given (vide § 3.2 and 3.3) along with their Indian equivalent lunar months. 
 
 
 
