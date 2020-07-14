@@ -3,261 +3,44 @@ title = "05 Calendaric Astronomy"
 
 +++
 
-4:1 THE MOON'S MOVEMENT IN THE SKY 
+##  THE MOON'S MOVEMENT IN THE SKY 
 
-The scheme of lunar months given in Table No. 4 in: a nineteen-year period, which came into vogue in Babylon about 383 B.C. did not, however, completely satisfy the needs of the Babylonian calendar, because for religious purposes, the month was to start on the day the crescent moon was first visible in the western horizon after conjunction with the sun (the new 
+The scheme of lunar months given in Table No. 4 in a nineteen-year period, which came into vogue in Babylon about 383 B.C. did not, however, completely satisfy the needs of the Babylonian calendar, because for religious purposes, the month was to start on the day the crescent moon was first visible in the western horizon after conjunction with the sun (the new moon), a custom which is still followed in the Islamic countries. But the first visibility may not occur on the predicted day for manifold reasons. 
 
-and the moon move uniformly in the same great circle in the heavens. But even the most primitive observers could not fail to notice that neither do the two luminaries move in the same path, nor do they move uniformly, each in its own path. 
+The table given on p. 176 is based on mean values of the of the lengths of the year and the synodic month, which is equivalent to the assumption that the sun and the moon move uniformly in the same great circle in the heavens. But even the most primitive observers could not fail to notice that neither do the two luminaries move in the same path, nor do they move uniformly, each in its own path. 
 
-The motion of the moon amongst the stars is the easiest to observe. This is illustrated in the two figures reproduced from the Sky and Telescope, giving 
+The motion of the moon amongst the stars is the easiest to observe. This is illustrated in the two figures reproduced from the Sky and Telescope, giving positions of the moon, the sun, and the planets in the field of fixed stars in the months of June and July, 1953.
 
-\------------ 
+- Fig. 2-Showing the positions of the sun, moon and planets among the stars in June, 1953. 
+- Fig. 3–Showing the positions of the sun, moon and planets among the stars in July, 1953. 
 
-\--- 
 
-....... 
+The central horizontal line is the line of the celestial equator (§ 4.4), and the sinuous line represents the ecliptic or the sun's path (8 4.5), but we may ignore these now, and simply concentrate on the moon and the stars or star-clusters near which it passes. 
 
-\------ 
-
-\--- 
-
-\----- 
-
-\----- 
-
-avrin 
-
-A 
-
-IN 
-
-PSS SUN: 
-
-UN 
-
-AD 
-
-Cercover 
-
-"... 
-
-Aciuivi 
-
-30 
-
-Addoran 
-
-He''gourel 
-
-: 
-
-19 
-
-. 
-
-ody 
-
-Ceo 
-
-\--- 
-
-\- 
-
-N 
-
-SCIS 
-
-Angio 
-
-23 
-
-Sora 
-
-27 
-
-. COL.3 
-
-\- 
-
-\- 
-
-\- 
-
-\- 
-
-\- ... 
-
-\- 
-
-. 
-
-. 
-
-. 
-
-\- 
-
-\- -.. 
-
-.. 
-
-... 
-
-. 
-
-.. 
-
-.. 
-
-. 
-
-. 
-
-. 
-
-. 
-
-.-.- ... 
-
-\- 
-
-\- 
-
-. 
-
-.. 
-
-MERCURY 
-
-MARS SATURN 
-
-VENUS JUPITER URANUS 
-
-PLUTO OP .. . -.,. . 
-
-NENI TUNE ON 
-
-Fig. 2-Showing the positions of the sun, moon and planets among the stars in June, 1953. moon), a custom which is still followed in the Islamic positions of the moon, the sun, and the planets in thes countries. But the first visibility may not occur on field of fixed stars in the months of June and July,. the predicted day for manifold reasons. 
-
-1953. 
-
-· 
-
-· 
-
-... 
-
-\- 
-
-\--- .... 
-
-.::: 
-
-\-... 
-
-... ... - 
-
-\- 
-
-. 
-
-. 
-
-. 
-
-. 
-
-. . 
-
-. 
-
-. ... ... 
-
-i . 
-
-. SUNT 
-
-. 
-
-\- 
-
-\- 
-
-\- 
-
-+ 
-
-... 
-
-. 
-
-.. - 
-
-.. 
-
-B:'...'.. 
-
-\- 
-
-.. 
-
-. 
-
-.. 
-
-. 
-
-: 
-
-1.'fil 
-
-..ii 
-
-. 
-
-Fig. 3–Showing the positions of the sun, moon and planets among the stars in July, 1953. The table given on p. 176 is based on mean values The central horizontal line is the line of the of the lengths of the year and the synodic month, celestial equator (§ 4.4), and the sinuous line represents which is equivalent to the assumption that the sun the ecliptic or the sun's path (8 4.5), but we may 
-
-182 
-
-The, 
-
-ignore these now, and simply concentrate on the moon and the stars or star-clusters near which it passes. 
-
-The moon begins as a thin crescent on the western horizon on the evening of June 12, the day of the first visibility after the new-moon, at an angle of 11°, from the sun which has just set, below the bright stars Castor and Pollux (Punarvasu). Then we notice the position of the moon, on successive evenings at sunset: We find she is moving eastward at the rate of about 13° and becoming fuller (increasing in phase). She passes the bright star Regulus (Magha) on the 17th, on the 19th, she is half and passes B Leonis (Uttara Phalguni) leaving it a good deal to the north. Then she passes the bright star Spica ( a Virginis or Citra) on the 21st, and is then gibbous on the 23rd near the star a-libra (Visakha). Then she passes the well known Scorpion-cluster and becomes full on the 27th, near a star-cluster which cannot be seen on the night of full-moon, but can be detected later as the star cluster Sagittarius. On the full moon day, she rises nearly at sunset, at 180° from the sun (opposition). On each successive night after full moon she rises later and later, and passes the phases in the reverse order, i.e., becomes gibbous on June 30, when she has the bright star Altair (Śravaņa) far to the north and is half on July 4, and becomes a crescent on July 7 on the eastern sky, and then fails to appear for three days, and must have passed the sun on the 11th July which is the new moon day, when she is with the sun (Amārasyā or conjunction, lit. the sun and the moon living together). On the 12th July, she reappears on the western horizon as a thin crescent, near the star ó-Cancri (Puṣya), and the cycle again starts. 
+The moon begins as a thin crescent on the western horizon on the evening of June 12, the day of the first visibility after the new-moon, at an angle of 11°, from the sun which has just set, below the bright stars Castor and Pollux (Punarvasū). Then we notice the position of the moon, on successive evenings at sunset: We find she is moving eastward at the rate of about 13° and becoming fuller (increasing in phase). She passes the bright star Regulus (Magha) on the 17th, on the 19th, she is half and passes B Leonis (Uttara Phalguni) leaving it a good deal to the north. Then she passes the bright star Spica ( α Virginis or Citra) on the 21st, and is then gibbous on the 23rd near the star a-libra (Visakha). Then she passes the well known Scorpion-cluster and becomes full on the 27th, near a star-cluster which cannot be seen on the night of full-moon, but can be detected later as the star cluster Sagittarius. On the full moon day, she rises nearly at sunset, at 180° from the sun (opposition). On each successive night after full moon she rises later and later, and passes the phases in the reverse order, i.e., becomes gibbous+++(=convex)+++ on June 30, when she has the bright star Altair (Śravaņa) far to the north and is half on July 4, and becomes a crescent on July 7 on the eastern sky, and then fails to appear for three days, and must have passed the sun on the 11th July which is the new moon day, when she is with the sun (Amārasyā or conjunction, lit. the sun and the moon living together). On the 12th July, she reappears on the western horizon as a thin crescent, near the star ó-Cancri (Puṣya), and the cycle again starts. 
 
 The crescent of the moon, either in the western or the eastern sky, is always turned away from the sun. 
 
 The ancients must have observed the motion of the moon day after day, from new-moon to new-moon (a full lunation or lunar month) and become familiar with the stars or star-clusters which she passes. It is always easy to observe them when the moon is a crescent ; when the moon becomes fuller, the stars are lost in the moon's glare particularly if they are faint. But if observations be carried on for a number of years, the observers would become familiar with all the stars or star-clusters which the moon passes. 
 
-Bogii observations like this, the ancients must have found that both the moon and the sun are moving to the east, the moon Vexy fast, the sun more slowly. By the time the moon, after making a whole round, comes back to the sun, the latter has moved further to the east by about 30°. For example in the above figures Nos. 2 and 3, the sun was somewhat to the west of the 
-
-bright star-group Orionis (Mrgasiras) to the west of Castor and Pollux on June 11th, the day of the new mgon. But on the next new-moon day, July 11th, she has moved near Castor and Pollux (Punairasu) about 30° to the east. 
+By observations like this, the ancients must have found that both the moon and the sun are moving to the east, the moon very fast, the sun more slowly. By the time the moon, after making a whole round, comes back to the sun, the latter has moved further to the east by about 30°. For example in the above figures Nos. 2 and 3, the sun was somewhat to the west of the bright star-group Orionis (Mrgasiras) to the west of Castor and Pollux on June 11th, the day of the new moon. But on the next new-moon day, July 11th, she has moved near Castor and Pollux (Punarvasū) about 30° to the east. 
 
 The ancients must have found that the moon takes a little over 27.3 days (sidereal period of the moon), to return to the same star, but to overtake the sun, it takes a little longer, a little over 29.5 days (the synodic period of the moon). Exactly, 
 
-the mean sidereal period=27.321661 days 
+the mean sidereal period=27.321661 days = 27d 7h 43m 118s5 with a variation of 3.5 hours and the mean synodic period =29.530588 days = 29d 12h 44m 2s. with a variation of 7 hours. 
 
-=27a 7h 43m 118.5 with a variation of + 31 hours and the mean synodic period=29.530588 days 
+### The Lunar Mansions
+Many ancient nations developed the habit of designating the day-to-day (or night-to-night) position of the moon by the stars or star-clusters it passed on successive nights. The number of such stars or star clusters was either 27 or 28 ; the ambiguity was due to the fact that the mean sidereal period of the moon is about 27.5 days, the actual period having a variation of seven hours, and the ancients who did not know how to deal with fractions, oscillated between 27 and 28. In India, originally there were 28 nakṣatras, but ultimately 27 was accepted as the number of lunar nakṣalras (or asterisms). 
 
-= 298 126 441 28. with a variation of +7 hours. 
-
-The Lunar Mansions : Many ancient nations developed the habit of designating the day-to-day (or night-to-night) position of the moon by the stars or star-clusters it passed on successive nights. The number of such stars or star clusters was either 27 or 28 ; the ambiguity was due to the fact that the mean sidereal period of the moon is about 27§ days, the actual period having a variation of seven hours, and the ancients who did not know how to deal with fractions, oscillated between 27 and 28. In India, originally there were 28 nakṣatras, but ultimately 27 was accepted as the number of lunar nakṣalras (or asterisms). 
-
-The lunar zodiac is also found amongst the Chinese who designate them by the term Hsiu ; and amongst the Arabs, who call them Manzil, both terms denoting man sions. Both the Chinese and the Arabs had 28 mansions. The Indian term 'nakṣatra' is of uncertain etymological origin. Some hold that the term nakṣatra carried the sense that 'it does not move' and meant a star. 
+The lunar zodiac is also found amongst the Chinese who designate them by the term Hsiu ; and amongst the Arabs, who call them Manzil, both terms denoting mean signs. Both the Chinese and the Arabs had 28 mansions. The Indian term 'nakṣatra' is of uncertain etymological origin. Some hold that the term nakṣatra carried the sense that 'it does not move' and meant a star. 
 
 Names of certain nakṣatras' are found in the oldest scriptures of India, viz., the Rg-Vedas, but a full list is first found in the Yajurveda (vide § 5-3). In the older classics of India ( the Yajurveda, the Mahābhārata), the nakṣatras invariably start with Kritikā, the Pleiades ; the supposition has been made that the Kritikās were near the vernal point, when this enumeration was started. This is apparent from the couplet found in the Taittiriya Brāhmaṇa which runs thus : 
 
-Taittiriya Brāhmana, i, 1, 2, 1. Krttikā svagnimādadhita. 
+Taittiriya Brāhmana, i, 1, 2, 1. Krttikāsv agnimādadhita. Mukham vā etan nakṣatrānām, Yat krttikā. Translation: One should consecrate the (sacred) fire in the Krttikās ;--the Kritikās are the mouth of the nakṣatras. 
 
-Mukham vā etanna ksatrānām, Yatkrttikā. Translation: One should consecrate the (sacred) fire in the Krttikās ;--the Kritikās are the mouth of the nakṣatras. 
+Later during Siddhānta Jyotiṣa times the enumeration started with Aśvini β Arietis) and this is still reckoned to be the first of the naksatras, although the vernal point has now receded to the Uttarabhādrapada group which should accordingly be taken as the first nakṣatra. But the change has not been done because the Indian astrologers have failed to correct the calendar for the precession of equinoxes. 
 
-CALENDARIC ASTRONOMY 
-
-183 
-
-Later during Siddhānta Jyotiṣa times the enumeration started with Aśvini bafi Arietis).. and this tis. still reckoned to be the first of the naksatras, although the vernal point has now receded to the Uttdralltādrapada group which should accordingly be taken as the first nakṣatra. But the change has not been done because the Indian astrologers have failed to correct the calendar for the precession of equinoxes. 
-
-The Chinese start their Hsius with Citrā or a Virginis. This refers probably to the time when a Virginis was near the autumnal equinoctial point (285 A.D.). The Arabs start their Manzils with B Arietis (Ash-Sharaţāni). 
+The Chinese start their Hsius with Citrā or α Virginis. This refers probably to the time when α Virginis was near the autumnal equinoctial point (285 A.D.). The Arabs start their Manzils with β Arietis (Ash-Sharaţāni). 
 
 There has been a good deal of controversy regarding the place of origin of the lunar zodiac. Many savants were inclined to ascribe the origin of the 27 nakṣatra system to ancient Babylon, like all other early astro nomical discoveries. But as far as the authors of this book are aware, there is no positive evidence in favour of this view. Thousands of clay tablets containing astronomical data going back to 2000 B.C., and extending up to the first century A.D. have been obtained, but none of them are known to have any „ reference to 27 or 28 lunar mansions. 
 
@@ -281,7 +64,7 @@ The nakṣatras were used to name the 'days' in the earliest strata of Indian li
 
 As is apparent from Table No. 5, the nakṣatras are at rather unequal distances, i.e., they rarely follow the ideal distance of 131°. This is rather inconvenient for precision time-reckoning. We find in the Vedānga Jyotiṣa times an attempt at a precise definition of the two limits of a nalṣatra, which was defined as 800' (-13° 20') of the ecliptic. The nakṣatra was named according to the most prominent star (Yogntārā) contained within these limits. These are given in. column (2) of Table 5. 
 
-We do not, however, have any idea as to how the beginnings and endings of the nakṣatra divisions were fixed in India. The prominent ecliptic stars which were used as Yogatārās (junction-stars) in pre-Siddhāntic period, are not distributed at regular intervals along the ecliptic ; and so it was found very difficult to include the stars in their respective equal divisions. This will be clear from table (No. 5) where the junction stars of the nakṣatras according to the Sūrya "Siddhānta are given in col. (2). The celestial longitudes of the stars for 1956 A.D. are given in col. (4) and the beginnings of each division for the same year are given in col. (5), taking the star a Virginis to occupy the middle position of the nakṣatra Citrā, which marked 
+We do not, however, have any idea as to how the beginnings and endings of the nakṣatra divisions were fixed in India. The prominent ecliptic stars which were used as Yogatārās (junction-stars) in pre-Siddhāntic period, are not distributed at regular intervals along the ecliptic ; and so it was found very difficult to include the stars in their respective equal divisions. This will be clear from table (No. 5) where the junction stars of the nakṣatras according to the Sūrya "Siddhānta are given in col. (2). The celestial longitudes of the stars for 1956 A.D. are given in col. (4) and the beginnings of each division for the same year are given in col. (5), taking the star α Virginis to occupy the middle position of the nakṣatra Citrā, which marked 
 
 184 
 
@@ -323,7 +106,7 @@ division (1956) division. (2)
 
 1. Asvini 
 
-B Arietis to go 29 
+β Arietis to go 29 
 
 33° 22' 
 
@@ -427,7 +210,7 @@ a Loopis to 28
 
 183 15 14. Citrā 
 
-a Virginis 
+α Virginis 
 
 \- 2 ..3. 
 
@@ -529,9 +312,10 @@ B Delphini +31 65
 
 9 21 
 
-the position of the autumnal equinox at the time The divisions of nakṣatras shown in the table, as when the table was compiled. The figures in the last already stated, has been based on the assumption that column represent the position of the star in the naksatra the star Spica occupies the 180th degree of the lunar division of that name. It seems that a few of the zodiac. This arrangement agrees with the statement Yogatārās, vix, No. 6 Àrdrā, No. 15 Srātī, No. 18 of the Veilājiga Jyotiṣa that the Dhaniṣthā star Jyeṣthā, No. 20 Purvāṣādha, No. 21 Uttarāṣaqlā, (a or B Delphini) marked the beginning of the No. 22 Śrarana, and No. 23 Dhaniṣthā fall outside the Dhaniṣthū division, and also of the Varala's Surya nakṣatra division of which they are supposed to form the Siddhānta that Regulus (2 Leonis) is situated at the 6th Yogatārā. Matters do not improve much, if we shift degree of the Maghā division. the beginning of each division so as to place ś Piscium (Revati) at the end of the Revati division or in 
+the position of the autumnal equinox at the time The divisions of nakṣatras shown in the table, as when the table was compiled. The figures in the last already stated, has been based on the assumption that column represent the position of the star in the naksatra the star Spica occupies the 180th degree of the lunar division of that name. It seems that a few of the zodiac. This arrangement agrees with the statement Yogatārās, vix, No. 6 Àrdrā, No. 15 Srātī, No. 18 of the Veilājiga Jyotiṣa that the Dhaniṣthā star Jyeṣthā, No. 20 Purvāṣādha, No. 21 Uttarāṣaqlā, (a or B Delphini) marked the beginning of the No. 22 Śrarana, and No. 23 Dhaniṣthā fall outside the Dhaniṣthū division, and also of the Varala's Surya nakṣatra division of which they are supposed to form the Siddhānta that Regulus (2 Leonis) is situated at the 6th Yogatārā. Matters do not improve much, if we shift degree of the Maghā division. the beginning of each division so as to place ś Piscium (Revati) at the end of the Revati division or in other words at the beginning of the Aścini division.
 
-4.2 LONG PERIOD OBSERVATIONS OF THE MOON: other words at the beginning of the Aścini division. 
+##  LONG PERIOD OBSERVATIONS OF THE MOON
+ 
 
 THE CHALDEAN SAROS This will mean that the figures in col. (6) will then have to be increased by 3° 59', which will The moon gains on the sun at the average rate of push up the Yogatārās of 1 Aśrini, 2 Bharani, 123" per day, but it did not take the ancients long to 3 Krttikā, 8 Pista 13 Haṣta, 25 P. Bhādrapallā, and discover that the daily gain of the moon on the sun 26 U. Bhadrapada, so as to go outside the nakṣatra is far from uniform ; in fact as we know now, it division of which they form the Yogatārā. In fact no varies from approximately 1090 to 143° per day. It was arrangement at any time appears to have been therefore not possible to say beforehand whether satisfactory enough for all the Yogataràs to fall within the crescent moon would appear on the 29th or on the their respective naksatra divisions. 
 
@@ -1157,7 +941,8 @@ C. R.-32
 
 188 
 
-4.3 THE GNOMON Observations of the positions of the sun, the moon, planets and stars are now made very accurately with elaborate instruments installed in observatories. But these instruments have been evolved after thousands of years of experience and application of human ingenuity, and have undergone radical changes in design and set-up with every great technological discovery. But let us see how the early astronomers who had no instruments or very primitive ones made observations, collected the fundamental data, and evolved the basic astronomical ideas. 
+##  THE GNOMON
+Observations of the positions of the sun, the moon, planets and stars are now made very accurately with elaborate instruments installed in observatories. But these instruments have been evolved after thousands of years of experience and application of human ingenuity, and have undergone radical changes in design and set-up with every great technological discovery. But let us see how the early astronomers who had no instruments or very primitive ones made observations, collected the fundamental data, and evolved the basic astronomical ideas. 
 
 The earliest instrument used-by primitive astrono mers appears to have been the gnomon; which we now describe. 
 
@@ -1287,7 +1072,7 @@ Fig. 8-Showing the positions of Ursa Major (Saptarsi) at
 
 interval of 3 hours. 
 
-4.4 NIGHT OBSERVATIONS : THE CELESTIAL 
+##  NIGHT OBSERVATIONS : THE CELESTIAL 
 
 POLE AND THE EQUATOR Almost all ancient nations were familiar with the night-sky either as shepherds, travellers or navigators, and were acquainted with more detailed knowledge of the revolving blue firmament studded with stars than the modern city dweller. The striking constell tions like the Great Bear, the Pleiades, the Orion could not but catch their fancy and references to these star groups are found in ancient literature, in the Vedas, in 
 
@@ -1313,7 +1098,7 @@ Since the two poles are diametrically opposite in the sky, only one of them is u
 
 Knowing as we now do, that the apparent revolu tion of the celestial sphere is due to the rotation of the earth on its axis, we may also define the poles as the two points where the earth's axis of rotation (or any set of lines parallel to it), produced indefinitely, would pierce the celestial sphere. 
 
-4.5 THE APPARENT PATH OF THE SUN IN THE SKY : 
+##  THE APPARENT PATH OF THE SUN IN THE SKY 
 
 THE ECLIPTIC The apparent path of the sun in the sky is known in astronomical language as the ecliptic. It is a great circle cutting the celestial equator at an angle of ca 231° (exactly 23° 26' 43" in 1955, but the angle varies from 21° 59' to 24° 36'). This is known as the obliquity of the ecliptic. 
 
@@ -1361,7 +1146,9 @@ or its celestial longitude(1) and latitude(B).
 
 The positions of stars in these co-ordinates began to be given from the time of Claudius Ptolemy (150 A.D.) who used them in his Syntaxis. 
 
-4.6 THE ZODIAC AND THE SIGNS The early astronomers must have found that the sun's path in the heavens was almost fixed, while that of the moon, and of the planets, which acquired for astrological reasons great importance from about 1200 B.C., strayed some degrees to the north and south of the ecliptic. 
+##  THE ZODIAC AND THE SIGNS 
+
+The early astronomers must have found that the sun's path in the heavens was almost fixed, while that of the moon, and of the planets, which acquired for astrological reasons great importance from about 1200 B.C., strayed some degrees to the north and south of the ecliptic. 
 
 In case of the moon the deviation from the ecliptic was found to be not much greater than 5°, but some of the planets strayed much more ; in the case of Venus, her perpendicular distance from the ecliptic rises sometimes as high as 80 degrees. So a belt was imagined straying about 9° north and go south of the ecliptic, in which the planets would always remain in course of their movement. This belt came to be known as the 'Zodiac.' 
 
@@ -1533,7 +1320,7 @@ Venus, Jupiter, Mars, Saturn and Mercury. Venus and Jupiter and occasionally Mar
 
 The motion of the brilliant luminary, Jupiter across the sky attracted early attention ; Mars 
 
-4.7 CHALDEAN CONTRIBUTIONS TO ASTRONOMY : RISE. OF PLANETARY AND HOROSCOPIC ASTROLOGY 
+##  CHALDEAN CONTRIBUTIONS TO ASTRONOMY : RISE OF PLANETARY AND HOROSCOPIC ASTROLOGY 
 
 We have seen that it was the needs of the calendar which gave rise to scientific astronomy which in the earliest times covered : 
 
@@ -1857,9 +1644,9 @@ VOTO
 
 was obtained, are not yet known with precision. Only some guesses can be made. 
 
-The early astronomers probably observed that the bright stars Regulus (a Leonis ), Spica (a Virginis), the conspicuous group Pleiades, and certain fainter stars a Librae, a Scorpii were almost on the sun's path. The ecliptic could be roughly constructed by joining these stars. 
+The early astronomers probably observed that the bright stars Regulus (a Leonis ), Spica (α Virginis), the conspicuous group Pleiades, and certain fainter stars a Librae, a Scorpii were almost on the sun's path. The ecliptic could be roughly constructed by joining these stars. 
 
-'Regulus' or a Leonis was the 'Royal Star' in Babylonian mythology. In Indian classics, it is known as Maghā (or the Great ) and the presiding deity is Indra, the most powerful Vedic god. It is almost exactly on the ecliptic. Citrā ( or a Virginis ) is 2° to : the south. 
+'Regulus' or a Leonis was the 'Royal Star' in Babylonian mythology. In Indian classics, it is known as Maghā (or the Great ) and the presiding deity is Indra, the most powerful Vedic god. It is almost exactly on the ecliptic. Citrā ( or α Virginis ) is 2° to : the south. 
 
 The First Point of Aries :-The first point of Aries is the fiducial point from which all astronomical measurements are made. But how was this point, or any other cardinal point, say the first point of Cancer. ( summer solstice ), the first point of Capricornus. ( winter solstice ) and the first point of Libra, were located on the circle of the ecliptic in early, times ? 
 
@@ -2035,7 +1822,7 @@ the soos
 
 ation neesitum 
 
-4.8 GREEK CONTRIBUTION TO ASTRONOMY 
+##  GREEK CONTRIBUTION TO ASTRONOMY 
 
 The ancient astronomers were interested primarily in the moon and the planets but later about 150 B.C., Hipparchos gives lists of fixed stars as well with their positions. 
 
@@ -2153,7 +1940,7 @@ Knowledge of planetary orbits, and attempts to explain them with the aid of epic
 
 , 
 
-4.9 DISCOVERY OF THE PRECESSION OF 
+##  DISCOVERY OF THE PRECESSION OF 
 
 THE EQUINOXES 
 
@@ -2183,7 +1970,7 @@ The position of the vernal point has rarely in the course of history, been occup
 
 In Babylon also, different sets of positions of stars and planets record Aries 15°, Aries 10°, and Aries 8° (the zero is of Ptolemy's) as being the vernal point. But no Chaldean astronomer to our knowledge appears to have drawn any conclusion from these data. 
 
-The first astronomer known to have drawn attention to the precession of the equinoxes was Hipparchos. He particularly mentions that the distance of the bright star Spica (a Virginis or Citrā). has shifted by 2o from the autumnal equinoctial point since the time of his predecessor Timocharis who observed at Alexandria about 280 B.C. He concluded that the autumnal point, and therefore also the vernal point, was moving westward at the rate of 511 seconds per year. 
+The first astronomer known to have drawn attention to the precession of the equinoxes was Hipparchos. He particularly mentions that the distance of the bright star Spica (α Virginis or Citrā). has shifted by 2o from the autumnal equinoctial point since the time of his predecessor Timocharis who observed at Alexandria about 280 B.C. He concluded that the autumnal point, and therefore also the vernal point, was moving westward at the rate of 511 seconds per year. 
 
 • It is not known whether Hipparchos considered the motion as unidirectional. It was impossible for him to say anything definite on this point, as obeservations extending over centuries are required to enable one to make a definite statement on this point. 
 
@@ -2543,13 +2330,13 @@ Uttara Phalguni (B, 93 Leonis)
 
 Hasta (8, 7, €, a, B Corvi) 
 
-Citrā la Virginis) 
+Citrā lα Virginis) 
 
 Lou 
 
 1 asb-Sharaţāni 
 
-B Arietis (a, b, y Arietis) 
+β Arietis (a, b, y Arietis) 
 
 (B, y Arietis) Wei 
 
@@ -2629,9 +2416,9 @@ Chen
 
 14 aṣ-ṣimák 
 
-a Virginis (a Virginis) . 
+α Virginis (α Virginis) . 
 
-(a Virginis) 
+(α Virginis) 
 
 Flower 
 
@@ -2775,7 +2562,7 @@ a Bootis 0.24 + 30° 46' 203° 38' (a Bootis)
 
 (2, x, d, u Virginis) 
 
-(2, K, A Virginis) Visākhā 
+(2, K, α Virginis) Visākhā 
 
 Branched 
 
