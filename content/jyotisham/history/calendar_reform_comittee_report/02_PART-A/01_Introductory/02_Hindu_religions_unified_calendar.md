@@ -31,7 +31,7 @@ Let us give some idea of the Science as well as of the Conventions in use for th
 
 ## Surya Siddhānta- goals and problems
 
-An examination of Chap. XIV of the Surya Siddhānta (vide C$ 5.6) shows that the author of this famous treatise accepted these principles and laid down the following rules for the compilation of a calendar : 
+An examination of Chap. XIV of the Surya Siddhānta (vide C§ 5.6) shows that the author of this famous treatise accepted these principles and laid down the following rules for the compilation of a calendar : 
 
 
 
@@ -55,7 +55,7 @@ For civil purposes, both the year and the month should consist of a whole number
 
 
 
-But the most serious mistake has been in the length of the year taken by the Sūrya Siddhānta, a standard astronomical compilation having its beginning from the 4th century A.D. The year-length adopted is 365.25876 days, which is presumably sidereal, but even then the length is wrong by + 0.00240 days. But as is pointed out in C $ 56, the Sūrya Siddhānta lays down definitely that the year-length should be tropical which, according to modern measurements, should have approximately 365.2422 days, but this rule has been misinterpreted. 
+But the most serious mistake has been in the length of the year taken by the Sūrya Siddhānta, a standard astronomical compilation having its beginning from the 4th century A.D. The year-length adopted is 365.25876 days, which is presumably sidereal, but even then the length is wrong by + 0.00240 days. But as is pointed out in C § 56, the Sūrya Siddhānta lays down definitely that the year-length should be tropical which, according to modern measurements, should have approximately 365.2422 days, but this rule has been misinterpreted. 
 
 
 
@@ -63,7 +63,7 @@ The mistakes in astronomical constants (e.g., in the fixing up of the length of 
 
 
 
-But a far more potent cause for the adherence to the wrong value was the failure, on the part of the Indian astronomers, to grasp the real nature of the phenomenon of Precession of Equinoxes (vide C $ 4:10). In this, they were not alone, for the false notions about this phenomenon were not abandoned even in Europe till the advent of Newton (1687). 
+But a far more potent cause for the adherence to the wrong value was the failure, on the part of the Indian astronomers, to grasp the real nature of the phenomenon of Precession of Equinoxes (vide C § 4:10). In this, they were not alone, for the false notions about this phenomenon were not abandoned even in Europe till the advent of Newton (1687). 
 
 
 

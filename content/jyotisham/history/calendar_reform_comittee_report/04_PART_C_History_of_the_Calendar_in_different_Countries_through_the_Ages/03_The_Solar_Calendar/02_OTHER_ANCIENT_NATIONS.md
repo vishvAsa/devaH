@@ -1,0 +1,9 @@
++++
+title = "02 OTHER ANCIENT NATIONS"
+
++++
+
+The story of the calendar in Egypt has been given in full, because the ancient Egyptians evolved a very simple and convenient calendar which, as mentioned before, would have been almost perfect (provided the year was taken to consist of 365 1/4 days instead of 365 days). This was rendered possible by their bold initiative of discarding the moon as a time-marker. But people in the remaining parts of the civilized world (e.g., in Babylon, Greece, India and China) in ancient and moderm times, retained the moon and preferred the more complex luni-solar calendars described in Chap. III. This was rather fortunate, for if their rulers had adopted the Egyptian calendar, the **priest astronomers of ancient nations**, particularly of Babylon, **would never have taken to observation of the sun, the moon, and the planets, and tried to evolve mathematical formulae for predicting** their positions amongst stars in advance (the Ephemerides), which form the basis on which our astronomical knowledge has been built up; for the Egyptian calendar was evolved simply from results of experiences extending over centuries, and required almost no astronomical sense, or observations either of the sun, the moon and stars, except the heliacal rising of Sirius. It was simple and convenient, but like many perfect things, it killed intellectual curiosity. 
+
+But as will be described in Chap. III, the luni-solar calendar is a very complex thing, and has taken infinite variations in different regions. Hence the simple Egyptian calendar appealed to many nations of antiquity as well as of modern times. We have related the case of the Greek astronomers Hipparchos and Ptolemy who preferred the Egyptian method of date-recording to the Greek methods. This was, however, not the solitary instance. 
+
