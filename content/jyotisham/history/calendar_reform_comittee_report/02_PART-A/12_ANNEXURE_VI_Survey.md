@@ -61,7 +61,7 @@ The calendar makers were requested to furnish certain data relating to their cal
 - 7. Luni-Solar. 
 - 8. Chaitra śuddha Pradhama. 
 - 9. Salivahana Saka (elapsed) begins on Chaitra śuddha Pradhama. 
-- 10. Chaitra, Vaishaka, Jyestha, Asadba, Sravana, Bhadrapada, Agwayuja ,Kartika, Margasira, Pushya, Magha, Phalguna. 
+- 10. Chaitra, Vaishaka, Jyestha, Asadba, śravaṇa, Bhādrapada, Agwayuja ,Kartika, Margasira, Pushya, Magha, Phalguna. 
 - 11. 365d 15g 31 vg 
 - 12. 23° 12' 4" 
 - 13. 50".25 
