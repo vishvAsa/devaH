@@ -50,6 +50,8 @@ According to Neugebauer :
 
 "Babylonian astronomy (during Seleucid periods, 300 B.C.- 75 A.D. ) was satisfied with an exact four-division of the seasons as far as solstices and equinoxes are concerned, with the summer solstice ( and not the vernal point ) as the fixed point."\* 
 
+\* Neugebauer : Babylonian Planetary Theory, Proc. Amer. Philos. Soc. Vol. 98 : 1, 1954, p. 64. 
+
 At a later stage, they however found that the four seasons had unequal lengths ( vide $ 3.1). 
 
 The above definition of 'seasons' has come down to modern astronomy. The Hindu definition of seasons was different ( vide § 5.6 and 5-A) 
@@ -58,42 +60,12 @@ The observation of the Cardinal days of the year appear to have been carried out
 
 Doubt has been expressed about the ability of Vedic Aryans to make these observations, but to these objections, B. G. Tilak replied in his Orion, pp. 16-17. 
 
-“Prof. Weber and Dr. Schrader appear to doubt the conclusion on the sole ground that we cannot suppose the primitive Aryans to have so far advanced in civilization as to correctly comprehend such problems. This means that we must refuse to draw legitimate inferences from plain facts when such inferences conflict with our precon ceived notions about the primitive Aryan civilization. I am not disposed to follow this method, nor do I think that people, who knew and worked in metals, made clothing of wool, constructed boats, built houses and chariots, performed sacrifices, and had made some advance in agriculture, were incapable of ascertaining the solar and the lunar years. They could not have determined it. correct to a fraction of a second as modern astronomers have done ; but a rough practical estimate was, certainly, not beyond their powers of comprehension." 
+“Prof. Weber and Dr. Schrader appear to doubt the conclusion on the sole ground that we cannot suppose the primitive Aryans to have so far advanced in civilization as to correctly comprehend such problems. This means that we must refuse to draw legitimate inferences from plain facts when such inferences conflict with our preconceived notions about the primitive Aryan civilization. I am not disposed to follow this method, nor do I think that people, who knew and worked in metals, made clothing of wool, constructed boats, built houses and chariots, performed sacrifices, and had made some advance in agriculture, were incapable of ascertaining the solar and the lunar years. They could not have determined it correct to a fraction of a second as modern astronomers have done ; but a rough practical estimate was, certainly, not beyond their powers of comprehension." 
 
-The best example of the ability of the ancient people to observe the cardinal points of the sun's motion is afforded by the Stonehenge in the Salisbury plains of England, of which detailed accounts 
+The best example of the ability of the ancient people to observe the cardinal points of the sun's motion is afforded by the **Stonehenge** in the Salisbury plains of England, of which detailed accounts have recently appeared in Scientific American ( 188, 6-25, 1953 ) and Discovery (1953, Vol. XIV, p.276). 
 
-* Neugebauer : Babylonian Planetary Theory, Proc. Amer. Philos. Soc. Vol. 98 : 1, 1954, p. 64. 
-
-190 
-
-the book of Job (the Bible) and in Homer. In the last, the star-groups are used by sailors to find out their orientation. Representations of star-groups are found in ancient Babylonian boundary stones of about 1300 B.C. (see Fig. 15). 
-
-. Let us now see how these observations were made. 
-
-Suppose, on a clear moonless evening in early Spring (say March ) and at about 8-30 P.M., we take our stand in a wide field undisturbed by city lights, 
-
-URSA MAJOR 
-
-URSA MAJOR 
-
-18 E son 
-
-URSA MAJOR 
-
-have recently appeared in Scientific American ( 188, 6-25, 1953 ) and Discovery (1953, Vol. XIV, p.276). 
-
-It is related in these two publications, that not a long time subsequent to 1800 B.C., say about 1500-1200 B.C., the then inhabitants of Britain, who had not even learnt the use of any metal, but used only stone implements, could construct a huge circular area enclosed by large upright monoliths forming lintels and with a horse-shoe shaped central area having its axis in the direction of sunrise on the summer solstice day. It has been proyed, almost beyond any doubt, that the Stonehenge was used for the ceremonial observation of sunrise on this day. Sir Norman Lockyer in 1900 found that the direction of the axis of the horse-shoe actually makes an angle of about 11° with the present direction of sunrise on the summer solstice day. He did not think that it was a mistake on the part of the original builders ; but that on account of the change in obliquity (angle between equator and ecliptic), the present direction of sunrise had changed to the extent of 11° and using the rate of change of obliquity, he could fix up the time of construction at 1800 + 200 B.C. This estimate has been brilliantly confirmed by C14-analysis of some wood charcoal found in the local burial pits which are presumed to be contemporary with the erection of the Stonehenge. 
+It is related in these two publications, that not a long time subsequent to 1800 B.C., say about 1500-1200 B.C., the then inhabitants of Britain, who had not even learnt the use of any metal, but used only stone implements, could construct a huge circular area enclosed by large upright monoliths forming lintels and with a horse-shoe shaped central area having its axis in the direction of sunrise on the summer solstice day. It has been proyed, almost beyond any doubt, that the Stonehenge was used for the ceremonial observation of sunrise on this day. Sir Norman Lockyer in 1900 found that the direction of the axis of the **horse-shoe** actually makes an angle of about 11° with the present **direction of sunrise on the summer solstice day**. He did not think that it was a mistake on the part of the original builders ; but that on account of the change in obliquity (angle between equator and ecliptic), the present direction of sunrise had changed to the extent of 11° and using the rate of change of obliquity, **he could fix up the time of construction at 1800 + 200 B.C.** This estimate has been brilliantly confirmed by **C14-analysis** of some wood charcoal found in the local burial pits which are presumed to be contemporary with the erection of the Stonehenge. 
 
 After this brilliant confirmation of Lockyer's hypothesis, it is hoped that there will be less hesitation on the part of scholars to admit that it was possible for the Vedic Aryans who knew the use of metal and were far more advanced than the stone-age people of Britain, to devise methods for the observation of the cardinal points of the year. 
 
 How did they observe these points ? Probably in the same way as the Britishers of 1500 B.C., by observing from a central place, the directions of sunrise on the eastern horizon throughout the year. The directions of the solstitial rises could be easily marked. Probably the equinoctial points were found by bisecting the angle between these two directions by means of ropes as described in the Sulva-Sūtras. 
-
-POLARIS 
-
-NORTH 
-
-HORIZON 
-
-Fig. 8-Showing the positions of Ursa Major (Saptarsi) at 
-
-interval of 3 hours. 
