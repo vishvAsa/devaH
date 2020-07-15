@@ -1,9 +1,11 @@
 +++
-title = "05 THE APPARENT PATH OF THE SUN IN THE SKY"
+title = "05 THE ECLIPTIC"
 
 +++
 
-THE ECLIPTIC The apparent path of the sun in the sky is known in astronomical language as the ecliptic. It is a great circle cutting the celestial equator at an angle of ca 231° (exactly 23° 26' 43" in 1955, but the angle varies from 21° 59' to 24° 36'). This is known as the obliquity of the ecliptic. 
+THE APPARENT PATH OF THE SUN IN THE SKY 
+
+The apparent path of the sun in the sky is known in astronomical language as the ecliptic. It is a great circle cutting the celestial equator at an angle of ca 231° (exactly 23° 26' 43" in 1955, but the angle varies from 21° 59' to 24° 36'). This is known as the obliquity of the ecliptic. 
 
 The ecliptic is the most important reference circle in the heavens, and let us see how a knowledge of it was obtained in ancient times. 
 
@@ -15,17 +17,6 @@ They must have realized, as narrated in § 4.2, that during a total lunar eclips
 
 The two points of intersection of the ecliptic with the celestial equator are called.' respectively the 
 
-The Celestial Equator and Hour Circles 
-
-The celestial equator is the great circle of the celestial sphere, drawn halfway between the poles 
-
-z 
-
-R 
-
-Fig. 8-The celestial sphere. 
-
-(and therefore everywhere 90° from each of them), and is the great circle in which the plane of the earth's equator cuts the celestial sphere, as illustrated in Fig. (9). Small circles drawn parallel to the celestial 
 
 192 
 
