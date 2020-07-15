@@ -63,7 +63,7 @@ comprising the four Vedas : The Rk, Sara, Yajus, and Atharva.
 
 · ning theological matter, particularly observations on 
 
-sacrifices and their mystical significances ; attached to the Brāhmanas, but reckoned also as independent works are the Aranyakas or Upaniṣads containing meditations of forest hermits and ascetics on God, the world, and mankind. These treatises are attached to each of the individual Vedas. 
+sacrifices and their mystical significances ; attached to the Brāhmaṇas, but reckoned also as independent works are the Aranyakas or Upaniṣads containing meditations of forest hermits and ascetics on God, the world, and mankind. These treatises are attached to each of the individual Vedas. 
 
 (c) The Sutras or Aphorisms, or Vedangas. 
 
@@ -137,7 +137,7 @@ Let us see what information we can gather about the calendar which they must hav
 
 Translation: Twelve spoke-boards: One wheel : three pavels. Who understands these? In these there are 360 sankus (rods) put in like pegs which do not get loosened". 
 
-Further, the whole life of Vedic Aryans was centred round sacrifices to their great gods ; and sacrifices had to be carefully timed with respect to seasons, and moon's phases. In fact, some sacrifices were year-long, as Dr. Martin Haug, the great Vedic scholar remarks in his introduction (p. 46) to Aitarcya Brāhmana (affiliated to the Rg-Veda). 
+Further, the whole life of Vedic Aryans was centred round sacrifices to their great gods ; and sacrifices had to be carefully timed with respect to seasons, and moon's phases. In fact, some sacrifices were year-long, as Dr. Martin Haug, the great Vedic scholar remarks in his introduction (p. 46) to Aitarcya Brāhmaṇa (affiliated to the Rg-Veda). 
 
 "The Sattras (or sacrifices) which lasted for one year, were nothing but an imitation of the sun's yearly course. They were divided into two distinct parts, each of six months of thirty days each ; in the midst of both was the Visuvān, j.l., equator, or central day, cutting the whole Sattra into two halves". 
 
@@ -331,7 +331,7 @@ The month-names which are given here and repeated in many other verses of the Ya
 
 Madhu and Madhava have been taken in later literature to correspond to the time-period when the sun moves from -30° to 30° along the ecliptic, and so on for the other months. But we have no reason to believe that the Yajurvedic priests had developed such a fine mathematical sense of seasonal definition. But it is almost certain that they must have developed some method of observing the cardinal points of the sun's yearly course, viz., the two solstices and the equinoxes. From these observations, they must have counted that the number of days in a year was 366 in round numbers. 
 
-The Yajur-Veda speaks in many places of the Utlarāyana, the northernly course of the sun from winter solstice to summer solstice and the Dakṣiṇāyana or the southernly course from summer solstice to winter solstice and the Viṣuvān, or the equinoctial point. The ayanas or courses must have received their designation from daily notings of sunrise on the eastern horizon. The year-long observation of shadows cast by a gnomon, of which we have evidences, may have formed an alternative method for fixing up the solstitial days, and the.cardinal points on the horizon, (vide Appendix 5-C), where some passages from the Aitareya Brāhmana attached to the Rg-Veda are stated in favour of the view that the cardinal points were observed by means of the gnomon. 
+The Yajur-Veda speaks in many places of the Utlarāyana, the northernly course of the sun from winter solstice to summer solstice and the Dakṣiṇāyana or the southernly course from summer solstice to winter solstice and the Viṣuvān, or the equinoctial point. The ayanas or courses must have received their designation from daily notings of sunrise on the eastern horizon. The year-long observation of shadows cast by a gnomon, of which we have evidences, may have formed an alternative method for fixing up the solstitial days, and the.cardinal points on the horizon, (vide Appendix 5-C), where some passages from the Aitareya Brāhmaṇa attached to the Rg-Veda are stated in favour of the view that the cardinal points were observed by means of the gnomon. 
 
 Once they learnt to anticipate the cardinal days, determination of the month-beginnings marking seasons would not be difficult. The Madhu-month (the first month of spring) would begin 30 or 31 days before the vernal equinox day or 61 days after the winter solstice day, and the Madhava month on the day after the equinoctial day and so on. Average length of 303 days (909) would be given to each month, or 30 and 31 days to the two months forming a season. 
 
@@ -343,7 +343,7 @@ At the present times, the naksatras start with Asvini, of which the junction sta
 
 In all older literatures, on the other hand, including the great epic Mahābhārala, whose composition or compilation may be dated about 400 B.C., the first nakṣatra is Krttikā, It therefore stands to reason to assume that at one time, when the nakṣatra enumeration started, the Pleiades were close to the astronomical first point of Aries, or rose near the true east. This is implied in the following verse which S. B. Dikṣit picked out of the Satapatha Brāhmaṇa : 
 
-śatapatha Brāhmana, 2.1.2. Ekam dve triṇi catvārīti vā anyāni nakgatrānyathaitā eva bhūyiṣṭhā yat kfttikā.... Etā ha vai prācyai digo na cyavante Servāni ha vã anyũni nakgatrani 
+śatapatha Brāhmaṇa, 2.1.2. Ekam dve triṇi catvārīti vā anyāni nakgatrānyathaitā eva bhūyiṣṭhā yat kfttikā.... Etā ha vai prācyai digo na cyavante Servāni ha vã anyũni nakgatrani 
 
 prācyai diśaścyavante. Translation :--Other nakṣatras have one, two, three or four ( stars ) only ; these Krttikās have many ( stars )... They do not deviate from the east; all other nakṣatras deviate from the east. 
 
@@ -651,9 +651,9 @@ Thus the first tithi ( Pratipada, lit, when the moon. is regenerated ) in the wa
 
 This is the definition of the tithi given in Siddhāntas or scientific astronomy which started about 400 A.D. But this presupposes knowledge of measure ment of angles, and precise scientific observation, of which we find no trace in the Vedic literature. What was then the origin of this system ? 
 
-We have no reference to tithi in the Rg-Veda. The first reference is found in Yajurvedic literature, and the Brāhmaṇas. The Taittiriya Samhita talks of the pancadasi tithi, which shows that the lunar pakṣa was divided into 15 tithis, counted by ordinal numbers from 1 to 15 for each pakṣa. But what was the time period meant by a tithi ? The Aitareya Brāhmana attached to the Rg-Veda gives the following definition of the tithi. 
+We have no reference to tithi in the Rg-Veda. The first reference is found in Yajurvedic literature, and the Brāhmaṇas. The Taittiriya Samhita talks of the pancadasi tithi, which shows that the lunar pakṣa was divided into 15 tithis, counted by ordinal numbers from 1 to 15 for each pakṣa. But what was the time period meant by a tithi ? The Aitareya Brāhmaṇa attached to the Rg-Veda gives the following definition of the tithi. 
 
-Aitareya Brāhmana, 32.10 
+Aitareya Brāhmaṇa, 32.10 
 
 · Yām paryastamiyad abhyudiyāditi så tithih. 
 
@@ -4769,7 +4769,7 @@ APPENDIX 5-C
 
 Gnomon Measurements in the Aitaroya Brahmana 
 
-References to the observation of the solstice are found The Vedic year-long sacrifices were begun in the earliest in vory early litorature as the following passage from the times on the day following the winter solstice. Honoo the Aitareja Brāhmana shows?: 
+References to the observation of the solstice are found The Vedic year-long sacrifices were begun in the earliest in vory early litorature as the following passage from the times on the day following the winter solstice. Honoo the Aitareja Brāhmaṇa shows?: 
 
 Viṣuvān which means the middle day of the year was the *They perform the Ekaviméa day, the Visuvān, in the 
 
@@ -5275,7 +5275,7 @@ Abbe Mastrofini, 171
 
 Artemidorus of Puṣkalåvati, 230 
 
-Brāhmanas, 193, 214, 221, 241, 245 Abd al-Rahámān al-Būfi, 206 
+Brāhmaṇas, 193, 214, 221, 241, 245 Abd al-Rahámān al-Būfi, 206 
 
 Arthasūstra of Kautilya, 235, 236 
 
@@ -5863,7 +5863,7 @@ Sama Veda, 214, 218 Samhitãs, 214, 218 Samökrånti, 2, 7, 239, 244
 
 Mah&vipuva, 215; Makara, 215 rules of, 244, 247, 259; 
 
-Uttarāyaṇa, 215; .. Sampát calana, 269 Samudragupta, 255 Samvatsara, 255, 270 Sangava, 108 Sanku (gnomon), 188 Sara (celestial latitude), 262 Sargon I, 215 Saros, 184, 185, 202, 217 Sarton, George, 159, 188, 203, 204, 205 śāstry, Mm. Bapudey, 259 Såstry, Prof. Mm. Bidhusekhar, 235 Śåta karpi, 228, 233 . Satânanda, 160 Satapatha Brāhmana, 18, 189, 219. Satavahanas, 212, 213, 227-231, 233, 234, 253 Saturn, planet, 194, 195, 203, 230 INDEX 
+Uttarāyaṇa, 215; .. Sampát calana, 269 Samudragupta, 255 Samvatsara, 255, 270 Sangava, 108 Sanku (gnomon), 188 Sara (celestial latitude), 262 Sargon I, 215 Saros, 184, 185, 202, 217 Sarton, George, 159, 188, 203, 204, 205 śāstry, Mm. Bapudey, 259 Såstry, Prof. Mm. Bidhusekhar, 235 Śåta karpi, 228, 233 . Satânanda, 160 Satapatha Brāhmaṇa, 18, 189, 219. Satavahanas, 212, 213, 227-231, 233, 234, 253 Saturn, planet, 194, 195, 203, 230 INDEX 
 
 · 279 
 
@@ -5931,7 +5931,7 @@ Vlulu, 176 Ulugh Begh, 10 Umbra Extensa, 204. Umbra Versa, 204 Und (inscription)
 
 Utkalakalikū, 101 Utkramajyā, 204 Uttarayana, 189, 219, 224, 226, 239, 260 
 
-Taittiriya Brāhmana, 182 ; Taittiriya Sarhitā, 218, 220, 221, 260 Takht-i-Bahi (inscription), 229 Tantra, 163 Tarn, 229, 255 Taxila, 213, 228, 230, 256 Tazila copper plate (inscription), 229 Taxila silver scroll (inscription), 229 Taxila silver vase (inscription), 229 Telephos of Kapéa, 230 Tertia, 159 Tetrabiblos, 201, 204, 205 Thabit-ibn-Qurra, 206 Thales of Miletus, 202 
+Taittiriya Brāhmaṇa, 182 ; Taittiriya Sarhitā, 218, 220, 221, 260 Takht-i-Bahi (inscription), 229 Tantra, 163 Tarn, 229, 255 Taxila, 213, 228, 230, 256 Tazila copper plate (inscription), 229 Taxila silver scroll (inscription), 229 Taxila silver vase (inscription), 229 Telephos of Kapéa, 230 Tertia, 159 Tetrabiblos, 201, 204, 205 Thabit-ibn-Qurra, 206 Thales of Miletus, 202 
 
 prediction of solar eclipse, 202 ; Thesitetus of Athens, 202 ; Theon of Alexandria, 204, 206, 240; 
 
