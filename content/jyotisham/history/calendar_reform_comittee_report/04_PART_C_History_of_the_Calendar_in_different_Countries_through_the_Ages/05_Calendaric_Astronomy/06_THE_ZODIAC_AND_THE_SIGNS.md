@@ -11,7 +11,6 @@ Equator
 
 Ecliptic 
 
-Fig. 1C.--Slowing the spherical co-ordinatce of a star. 
 
 69 
 

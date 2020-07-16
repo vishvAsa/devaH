@@ -19,6 +19,26 @@ The two points of intersection of the ecliptic with the celestial equator are ca
 
 The celestial equator and the ecliptic are the most important reference planes in astronomy. The positions of all heavenly bodies are given in terms of these planes, taking the first point of Aries as the initial point. We explain below the scientific definitions of spherical co-ordinates used to denote the position of a body on the celestial globe. 
 
+{{< figure src="../../images/celestial_coordinates.png" title="Fig. 1C.--Slowing the spherical co-ordinatce of a star." class="thumbnail">}}
+
+In this figure : 
+
+- P = Celestial pole (dhruva). 
+- rQ - Celestial equator. 
+- K - Pole of the ecliptic (kadamba). 
+
+= Plane of the ecliptic. r = First point of Aries (vernal equinox). 
+
+First point of Cancer: (summer solstice). 
+
+First point of Libra (autumnal equinox). W = First point of Capricorn (winter solstice). 
+
+Ś=A heavenly body. PS - Great circk shroʻP,S cutting equator at Q. rQ-Right ascension=a. 
+
+QS - Declination=8 KS Great circle through K, S cutting ecliptic 
+
+at C. 
+
 TC-Celestial longitude 1 
 
 CS=Celestial latitude=B Let PS cut the ecliptic at B. Then 
