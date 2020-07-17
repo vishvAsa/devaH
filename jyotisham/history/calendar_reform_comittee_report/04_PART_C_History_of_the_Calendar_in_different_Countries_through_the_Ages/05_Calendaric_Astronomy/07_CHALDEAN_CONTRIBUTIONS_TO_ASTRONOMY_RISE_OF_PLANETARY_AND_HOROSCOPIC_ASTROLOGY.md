@@ -5,47 +5,20 @@ title = "07 CHALDEAN CONTRIBUTIONS TO ASTRONOMY : RISE OF PLANETARY AND HOROSCOP
 
 We have seen that it was the needs of the calendar which gave rise to scientific astronomy which in the earliest times covered : 
 
-OMOV. 84 
 
-CAPRICORNUS 
+The attention of mankind was drawn in remote antiquity to the five star-like bodies : Venus, Jupiter, Mars, Saturn and Mercury. 
 
-DOCT. 84 
+Venus and Jupiter and occasionally Mars are more brilliant than ordinary stars. Sooner or later, it was found that while the ordinary stars remain fixed on the revolving heavens these five stars creep along them, as a modern author puts it, 'like gloro-worms on a whirling globe', each in its own way. Venus appears as a morning and evening star, the maximum elongation being 47o. It early drew the attention of sea-faring people, its appearance on the eastern horizon indicating early sunrise to persons on lonely seas. But it took mankind some time to discover that it was the same luminary which appeared for some period as a morning star, then as an evening star. Its brilliance could not but strike the imagination of mankind. Mercury also appears regularly as morning and evening star, and it must have been discovered later than Venus, but still at such a remote age in antiquity that all traces of its discovery are lost. 
 
-ME Sommar 
+The motion of the brilliant luminary, Jupiter across the sky attracted early attention ; Mars 
 
-"MILK OPTER" 
+The Path of Mars Among the Stars in 1939. 
 
-JULY 250 
+Fig. 11  Showing the retrograde motion of Mars. 
 
-AUG. 24 
+Although the planets always move in the same direction round the sun, their apparent motion among the fixed stars as seen from the earth, is not always in the same forward direction. They sometimes appear to move also in the backward direction among the stars, and this is known as the retrograde motion of a planet. The above figure reproduced from Pictorial Astronomy by Alter and Cleminshaw illustrates how Mars was seen to retrograde during June 24 to August 24. 
 
-SAGITTARIUS 
 
-The Path of Mars Among the Stan in 1937. 
-
-Fig. 11=Showing the retrograde motion of Mars. Although the planets always move in the same direction round the sun, their apparent motion among the fixed stars as seen from the earth, is not always in the same forward direction. They sometimes appear to move also in the backward direction among the stars, and this is known as the retrograde motion of a planet. The above figure reproduced from Pictorial Astronomy by Alter and Cleminshaw 
-
-illustrates how Mars wie seen to retrograde during June 24 to August 24. (a) Systematic observation of the moments of occasionally bursts into brilliance with fierce, red the moon, and the sun, 
-
-light, which could not but attract notice. The three (b) Recording of the observations in some planets, Mars, Jupiter, and Saturn though generally convenient form on permanent materials, 
-
-moving to the east, from time to time reverse their (c) Invention of mathematical methods to deal 
-
-direction of motion (retrograde motion), as shown with the observations, with a view to predict 
-
-in Fig. 11. astronomical events 
-
-From very early times and amapast widely It is not, however, correct to say that it was the 
-
-separated communities, mystical importance was calendar based on the sun and the moon which 
-
-ascribed to the wandering of the planets. provided the sole stimulus for astronomical studies. These mystical ideas took a very definite form in At one time, the planets strongly captured the attention the shape of 'Planetary Astrology' which grew in of man.* 
-
-Mesopotamia during the period 1300 B.C. to 800 B.C. 
-
-• A. i Anekoek: The Origin of Astronomy, p. 351: 
-
-This Planetary Astrology is to be distinguished from 
 
 CALENDARIO ASTRONOMY 
 
