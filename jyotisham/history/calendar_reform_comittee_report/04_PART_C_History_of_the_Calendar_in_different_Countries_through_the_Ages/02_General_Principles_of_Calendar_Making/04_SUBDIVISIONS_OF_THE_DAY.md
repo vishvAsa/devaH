@@ -72,7 +72,7 @@ The practice of **expressing fractions by means of decimals** came later, both i
 
 ### mahāyuga system
 
-The Hindu astronomer of the Siddhantic age expressed the periods of the sun, the moon and the planets by the number of their periods in a **Mahāyuga** (4.32 x 100 years). The number is usually integral. 
+The Hindu astronomer of the Siddhāntic age expressed the periods of the sun, the moon and the planets by the number of their periods in a **Mahāyuga** (4.32 x 100 years). The number is usually integral. 
 
 But how did this cumbrous system originate ? 
 

@@ -889,7 +889,7 @@ In a period of 5 years, there are :
 
 67 sidereal months and so 1809 nakṣatras. As the period contains 60 solar months, there are 2 intercalary months which are placed after every 
 
-*Astrology based only on the sun and the moon. Later post Siddhantic, astrology in India is largely Graeco-Chaldean, and makes use of the signs of the zodiac, and of planetary position and motion. 
+*Astrology based only on the sun and the moon. Later post Siddhāntic, astrology in India is largely Graeco-Chaldean, and makes use of the signs of the zodiac, and of planetary position and motion. 
 
 * On & Dhanisthå day the moon got conjoined with both the B and a Delphinis at interval of 2 hours. 
 
@@ -991,13 +991,13 @@ calculated sunget. So the apparent length of the day is increased bg 2* 44 min. 
 
 Varahamihira also notes that the winter solstice: no longer took place at Dhansstha. 
 
-.. - Pañica Siddhantika, III, 21 A śleṣārdbádāsit yadā nivșttiḥ kiloṣnakiraṇasya Yuktamayanan tadāsit sāmpratamayanam 
+.. - Pañica Siddhāntika, III, 21 A śleṣārdbádāsit yadā nivșttiḥ kiloṣnakiraṇasya Yuktamayanan tadāsit sāmpratamayanam 
 
 punarvasutab. Translation : When the return of the sun towards the south (1.., the summer solstice ) took place from. the middle of Aślesa, tbe ayana was right : at the present time ayana begins from Punarvasu. 
 
 In his Brhat Samhita, an astrological treatise, he. records : 
 
-Effect of Procession The Vedānga Jyotiṣa was prevalent for a long time over India, for over 1300 years (1000 B.C. to 300 A.D.). Hence it is likely that the subsequent astronomers noticed the gradual shift of the solstitial colure in the lunar-zodiac. In fact, several references are found to this effect. Garga, an astronomer whose name is found in the Mahabharata, where he is described as having an astronomical school at a place called Gargasrota in the Sarasvatī basin, is the reputed author of a pre-Siddhantic calendaric treatise called Garga Samhita. . He notes : 
+Effect of Procession The Vedānga Jyotiṣa was prevalent for a long time over India, for over 1300 years (1000 B.C. to 300 A.D.). Hence it is likely that the subsequent astronomers noticed the gradual shift of the solstitial colure in the lunar-zodiac. In fact, several references are found to this effect. Garga, an astronomer whose name is found in the Mahabharata, where he is described as having an astronomical school at a place called Gargasrota in the Sarasvatī basin, is the reputed author of a pre-Siddhāntic calendaric treatise called Garga Samhita. . He notes : 
 
 Yadā nivarta to'prāptaḥ śraviṣthamuttarāyape Aśleṣām dakśiṇo'prāptah tadā vindyanma had bhayam. 
 
@@ -1089,7 +1089,7 @@ in one case where the month of Māgha is mentioned. They are purṇimānta, i.e.
 
 many particular performances. 4. The day reckoning was by the tithi (lunar day), 
 
-but the word tithi is probably not to be taken in the sense of the present Siddhantic tithi, but in the sense of the Vedanga Jyotisa tithi or the old Brahmanic tithi. In the latter system, a tithi was counted from moon-set to moon-set during the bright half, and from 
+but the word tithi is probably not to be taken in the sense of the present Siddhāntic tithi, but in the sense of the Vedanga Jyotisa tithi or the old Brahmanic tithi. In the latter system, a tithi was counted from moon-set to moon-set during the bright half, and from 
 
 ·moon-rise to moon-rise during the dark-half. 
 
@@ -1195,7 +1195,7 @@ Our studies given in § 33, shows that a mathe matically accurate luni-solar cal
 
 · (c) There was an alternative method of starting with the Greek month of Dios which was to begin on a đate not later than a month of the autumnal equinox. 
 
-(This corresponds to the Indian month of Kārlika, as later defined in Siddhantic calendars). 
+(This corresponds to the Indian month of Kārlika, as later defined in Siddhāntic calendars). 
 
 (8) Luni-solar adjustment was done by the nineteen year cycle (vide § 32-34). 
 
@@ -1427,7 +1427,7 @@ Siddham. Rājñaḥ mahā kṣatrapasya svāmi-Castana prapautrasya rājñaḥ k
 
 • Translation : Of king Mahakṣatrapa.....of Svami Rudrasimha in the year 103 in the light half of the month of Vaiśākha on the 5th tithi and in the Robini nakṣatra muhurta,...... 
 
-The śaka satrap Rudrasimba, reigning in 181 A.D. thus dates his inscriptions using an era (the śaka era), purely Indian months, tithes and nakṣatras. This is in full Siddhantic style, because the characteristic features of Siddhāntic method of date recording which mention lithi and nakṣatra are first found in this inscription. The 'week day' is however not mentioned. 
+The śaka satrap Rudrasimba, reigning in 181 A.D. thus dates his inscriptions using an era (the śaka era), purely Indian months, tithes and nakṣatras. This is in full Siddhāntic style, because the characteristic features of Siddhāntic method of date recording which mention lithi and nakṣatra are first found in this inscription. The 'week day' is however not mentioned. 
 
 This is first mentioned in an inscription of the emperor Budhagupta (484 A. D.). 
 
@@ -1497,7 +1497,7 @@ to the Sungod.: Professional astrologers) in:imang parts of India, admit to bein
 
 It is a task for the historian to trace how the steps in which the importation of western astronomical knowledge took place for the Siddhāntas, which incorporate this knowledge and are all a few centuries later, and many of them bear no date. . 
 
-A good point d'appui for discussion is Vardhamihira's Panca Siddhantikā.; for Varahamihira's date is known. He died in 587 A.D., in ripe old age so he must have written his book about 550 A.D. This is a compendium reviewing the knowledge contained in the five Siddhāntas which were current at his time. These were regarded as 'Apauruṣeya' or "knowledge revealed by gods or mythical persons”. 
+A good point d'appui for discussion is Vardhamihira's Panca Siddhāntikā.; for Varahamihira's date is known. He died in 587 A.D., in ripe old age so he must have written his book about 550 A.D. This is a compendium reviewing the knowledge contained in the five Siddhāntas which were current at his time. These were regarded as 'Apauruṣeya' or "knowledge revealed by gods or mythical persons”. 
 
 Translation: The' objective (artha) eludes the foolish man (balam) who enquires too much from the 'stars. The objective should be the nakṣatra of the 
 
@@ -1563,7 +1563,7 @@ The Paulisa Siddhānta : This Siddhānta 'was at one time regarded as the ival o
 
 Alberuni (1030-44 A.D.) who was acquainted with it, said that it was an adaptation from an astronomical treatise of Paulus of Saintbra, i.e., of Alexandria. But it.is not clear whether he had actually seen Paulus's treatise, and compared it with the Paulisa Siddhānta or simply made a guess on the analogy of names merely, The name of one Paulus is found in the Alexandrian list of savants (378 A.D.) but his only known work is one on astrology, and it has nothing in common with Paulisa Siddhāntā, which appears to have been purely añ astronomical treatise as we can reconstruct it from the Pañca Siddhāutikā (vide infra). The ascription to Paulus.of Alexandria is not therefore proved. There is, however, reference in the Paulisa Siddhānta to Alexandria, or Yavanapura, as it was known to Hindu savants. The longitudes of Ujjain, and Banaras are given with reference to Alexandria (P.S., Chap. III). 
 
-The Pañia Siddhantikā devotes à few stanzas of Chaps. I, III, VI, VII, and VIII to this exposition of the Paulisa Siddhānta. Nobody seems to have gone critically into the contents of these chapters after Dr. Thibaut who tried to explain these in his introduction to the Panica Siddhāntika, but left most of them unexplained owing to their obscurity. 
+The Pañia Siddhāntikā devotes à few stanzas of Chaps. I, III, VI, VII, and VIII to this exposition of the Paulisa Siddhānta. Nobody seems to have gone critically into the contents of these chapters after Dr. Thibaut who tried to explain these in his introduction to the Panica Siddhāntika, but left most of them unexplained owing to their obscurity. 
 
 In Chap. I. (verses 24-25), 30 Lords of the days of the month are mentioned. This is quite un-Indian 
 
@@ -1693,13 +1693,13 @@ precession of the equinoxes, they were unaware of the distinction between the si
 
 Or alternatively they might have borrowed the value from Graeco-Chaldean astronomy, but we cannot then explain why their value is larger than Ptolemy's. We have seen that the Romaka Siddhānta gives a value which is Hipparchos's, and tropical, but the three more correct Siddhāntas reject it, as being too small. This however indicates that they probably tried to derive the length from observations as stated in the previous paragraph and found the Romaka Siddhānta-length too small. If they had taken it from some other source, we have still to discover that source. It is certainly not Ptolemy's Almagest. 
 
-The ex-cathedra style of writing adopted by the Siddhantic astronomers, e.g., the number of days in a Kalpa (a period of 4.32 x 10 years) is 1,577,917,828,000 according to Grandfather Brahmā, or the Sungod, does not enable one to trace the steps by which these conclusions were reached. 
+The ex-cathedra style of writing adopted by the Siddhāntic astronomers, e.g., the number of days in a Kalpa (a period of 4.32 x 10 years) is 1,577,917,828,000 according to Grandfather Brahmā, or the Sungod, does not enable one to trace the steps by which these conclusions were reached. 
 
 The two problems of (i) distinguishing between the tropical year, and the sidereal year and of (ii) deter.. mining the correct length of the year in terms of the mean solar days are very exacting ones. 
 
 We have seen how it took the West the whole time-period between 3000 B.C. to. 1582 A.D. to arrive at the idea that the true length of the tropical year was close to 365.2425 days. Probably Iranian astrono-. mers of Omar Khayam's time (1072 A.D.), who had the advantage of the great Arabian observations by al Baţțānī and others had a more correct knowledge of this length. The final acceptance of the distinction between the tropical and the sidereal year dates only from 1687 A.D., when Newton proved the theary of trepidation to be wrong. 
 
-· The Siddhantic astronomers of 500-900 A.D. cannou therefore be blamed for their failure to grasp the two problems. But what to say of their blind followers who, in the twentieth century, would continue. to proclaim their belief in the theory.of trepidation ? 
+· The Siddhāntic astronomers of 500-900 A.D. cannou therefore be blamed for their failure to grasp the two problems. But what to say of their blind followers who, in the twentieth century, would continue. to proclaim their belief in the theory.of trepidation ? 
 
 . 
 
@@ -1729,7 +1729,7 @@ INDIAN CALENDAR
 
 (b) . Starting the civil year on the day following. 
 
-The Siddhantic astronomers thus brought the Indian calendar on a line with the Graeco-Chaldean calendar prevalent in the Near East during the Seleucid times. 
+The Siddhāntic astronomers thus brought the Indian calendar on a line with the Graeco-Chaldean calendar prevalent in the Near East during the Seleucid times. 
 
 In a few cases, e.g., in the case of the Vikrama era reckoning as followed in parts of Guzrat, the year. beginning is in Kārtika. This seems to be reminiscent of the custom amongst the Macedonian Greek rulers of Babylon to start the year on the autumnal equinox day. 
 
@@ -1757,7 +1757,7 @@ Table 15-—Indian Seasons. —30° to 30°...Spring (Vasanta) Caitra & Vaisākh
 
 (Hemanta) 270' to 330 ...Winter (Sisira) Magha & Phālguna 
 
-The Siddhantic astronomers, therefore, found themselves in a difficulty. If they were to follow the Indian convention, Caitra would be the first month of the solar year. If they were to follow the Graeco Chaldean covention, they had to take Vaisakha as the first month of the solar year. 
+The Siddhāntic astronomers, therefore, found themselves in a difficulty. If they were to follow the Indian convention, Caitra would be the first month of the solar year. If they were to follow the Graeco Chaldean covention, they had to take Vaisakha as the first month of the solar year. 
 
 They struck a compromise. For defining the solar year, they took Vaisakha as the first month and for defining the lunar year they took Caitra as the first month (see § 57). 
 
@@ -1769,7 +1769,7 @@ It is interesting to see that in Tamil Nad, some of the names are of Sanskritic 
 
 The Starting Day of the Solar Year In the Vedic age, the year-beginning was related "probably to one of the cardinal days of the year, but we do not know which cardinal day it was. The Vedānga Jyotiṣa started the year from the winter solstice day, Brāhmaṇas started the year from the Indian Spring (Vasarthe phen the tropical (Sāyana) "longitude of the sun amounted to 330°. 
 
-The Siddhantic astronomers must have found a confusion, and so fixed up a rule for fixing the year. beginning, which we have just now dicussed. These rules amount to : 
+The Siddhāntic astronomers must have found a confusion, and so fixed up a rule for fixing the year. beginning, which we have just now dicussed. These rules amount to : 
 
 242 
 
@@ -2111,7 +2111,7 @@ The Committee has therefore felt that there is no need for keeping the solar mon
 
 Justification of the Solar Calendar as proposed 
 
-by the Committee It has been shown that the intention of the maker of Sarya Siddhānta and of other Siddhāntas was to start the year from the moment of sun's crossing the vernal equinoctial point and to start the civil year from the day following. The Committee has also adopted this view and proposed that the civil year for all-India use should start from the day following the V. E. day, i.e., from March 22. In the Vedic literature also it is found that the starting of the year was related with one or other of the cardinal days of the year. The Vedanga Jyotiṣa started the year from the winter solstice day, the Brāhmaṇas started the year from the Indian spring (Vasanta) when the tropical (Sayana) longitude of the sun amounted to 330°, but in the Siddhantic period the year-beginning coincided with the V. E. day. So in adopting the Sāyana system in our calendar calculations, the Indian tradition, from the Vedic times up to the Siddhantic times, has been very faithfully observed. This has ensured that the Indian seasons would occupy permanent places in the calendar. . 
+by the Committee It has been shown that the intention of the maker of Sarya Siddhānta and of other Siddhāntas was to start the year from the moment of sun's crossing the vernal equinoctial point and to start the civil year from the day following. The Committee has also adopted this view and proposed that the civil year for all-India use should start from the day following the V. E. day, i.e., from March 22. In the Vedic literature also it is found that the starting of the year was related with one or other of the cardinal days of the year. The Vedanga Jyotiṣa started the year from the winter solstice day, the Brāhmaṇas started the year from the Indian spring (Vasanta) when the tropical (Sayana) longitude of the sun amounted to 330°, but in the Siddhāntic period the year-beginning coincided with the V. E. day. So in adopting the Sāyana system in our calendar calculations, the Indian tradition, from the Vedic times up to the Siddhāntic times, has been very faithfully observed. This has ensured that the Indian seasons would occupy permanent places in the calendar. . 
 
 As regards the number of days. per month, although the Surya Siddhānta defines only the astronomical: solar month as the time taken by the sun to traverse 30° of arc of the ecliptic, four different conventions have been evolved in different States of India for determining the first day of the civil month from the actual time of transit as narrated earlier. None of the conventions is perfect. Such rules do not yield fixed number of days for a month, as a result of which it becomes extremely difficult for a chrono logist to locate any given date of this calendar, unambiguously, in the Gregorian calendar, without going through lengthy and laborious calculations. Moreover, the number of days of months obtained 
 
@@ -2143,7 +2143,7 @@ the calendar (vide 8 3.2). It appears that some kind of
 
 · rough rules of intercalation of lunar months were 
 
-followed in India up to the first or second century A.D. when the calendar was framed according to the rules of Vedānga Jyotéṣa (vide § 5.4). Thereafter the Siddhantic system of calendar-making began to develop, replacing the old Vedānga calendar. 
+followed in India up to the first or second century A.D. when the calendar was framed according to the rules of Vedānga Jyotéṣa (vide § 5.4). Thereafter the Siddhāntic system of calendar-making began to develop, replacing the old Vedānga calendar. 
 
 The Vedanga calendar as we have seen was crude and was based on approximate values of the lunar and solar periods, the calendar was framed on the mean motions of the luminaries, and as such an intercalary month was inserted regularly after every period of 
 
@@ -2235,7 +2235,7 @@ INDIAN CALENDAR
 
 But the makers of Indian calendars have not ; followed any scheme for intercalation based on mean motions. They evolved a plan for distinguishing an intercalary month from a normal month based on the true motions of the sun and the moon. This plan is. also followed in giving the name to a lunar month, as explained below : 
 
-Siddhantic rules for the Lunar Calendar There are two kinds of lunar months used in India, the new-moon ending and the full-moon ending. In calendarical calculations only the new-moon ending months are used. 
+Siddhāntic rules for the Lunar Calendar There are two kinds of lunar months used in India, the new-moon ending and the full-moon ending. In calendarical calculations only the new-moon ending months are used. 
 
 (i) The new-moon ending lunar month covers the period from one new-moon to the next. This is known as amanta or mukhya candra māsa. It gets the same name as the solar month in which the moment of initial new-moon of the month falls. For this purpose the solar month is to be reckoned from the exact moment of one saṁkrānti of the sun to the moment of the next sankranti. When a solar month completely covers a lunar month, i.e., when there are two moments of "new-moon (amānta), one at the beginning and the other 
 
@@ -2299,7 +2299,7 @@ The tithi or lunar day. is measured by the positions of the moon and the sun. Wh
 
 As opposed to the above-mentioned case, the tithi sometimes extends over two days, there being no tithi ending in a day (from sunrise to next sunrise). As the same tithi remains current on two successive sunrises, the same tithi-number is allotted to both the days ; In the second day, however, it is suffised by the term 
 
-Mala Masa and Købaya Masa It has been stated befcre that even at the beginning of the Siddhānta Jyotiṣa period, the intercalary months (mala or adhika) were determined on the basis of the mean motions of the sun and the moon, and as such there was no possibility of the occurrence of any so called kṣaya or decayed month. But as already mentioned, from about 1100 A.D., the intercalary months are being determined on the basis of the true motions of the luminaries, s.e., on the actual lengths of the new-moon-ending lunar month and of the different solar months as obtained from Siddhantic rules. This gave rise to the occurrence of kṣaya months, and the intercalary months were also placed at very irregular intervals. 
+Mala Masa and Købaya Masa It has been stated befcre that even at the beginning of the Siddhānta Jyotiṣa period, the intercalary months (mala or adhika) were determined on the basis of the mean motions of the sun and the moon, and as such there was no possibility of the occurrence of any so called kṣaya or decayed month. But as already mentioned, from about 1100 A.D., the intercalary months are being determined on the basis of the true motions of the luminaries, s.e., on the actual lengths of the new-moon-ending lunar month and of the different solar months as obtained from Siddhāntic rules. This gave rise to the occurrence of kṣaya months, and the intercalary months were also placed at very irregular intervals. 
 
 The period from new-moon to new-moon (the lunar month ) is not a period of fixed duration ; it varies within certain limits according to the different positions of the apse line of the lunar and solar orbits, as follows : 
 
@@ -2659,7 +2659,7 @@ Asvina, Caitra
 
 huga 
 
-According to the Siddhantic rules, the lunar calendar is pegged on to the solar calendar, and so it is the luni-solar calendar with which we are at present concerned. It has already been shown that the length of the Sūrya Siddhānta year is greater than the year of the seasons (i.e., the tropical year) by about 24 minutes. As a result of this the seasons have 
+According to the Siddhāntic rules, the lunar calendar is pegged on to the solar calendar, and so it is the luni-solar calendar with which we are at present concerned. It has already been shown that the length of the Sūrya Siddhānta year is greater than the year of the seasons (i.e., the tropical year) by about 24 minutes. As a result of this the seasons have 
 
 INDIAN, CALENDAR 
 
@@ -2803,7 +2803,7 @@ years of the Kaliyuga had passed .when he was 23 years old which is śaka year 4
 
 The first mention of this era in an inscription is found in the year 634-35 A.D., the inscription being that of king Pulakesin II of the Calukya. dynasty of Badam!, or somewhat earlier in a Jain treatise. It was most probably an era invented on astrological grounds just like the era of Nabonassar, by Aryabhaṭa or some other astropomer, who felt that the great antiquity of Indian civilization could not be described by the eras then in use (śaka, Chedi or Gupta era), as they were too recent. 
 
-What were these astrological grounds ? The astrological grounds were that at the beginning of the Kaliyuga, the sun, the moon and the planets were in one zodiacal sign near the fixed Siddhantic Meṣadi which according to some authorities is Ś Piscium, but according to others is 180° from Citrā or a Virginis. This was probably a back calculation based on the then prevailing knowledge of planetary motion, but has now been found to be totally wrong, when recalculated with the aid of more accurate modern data on planetary motion. We quote from 
+What were these astrological grounds ? The astrological grounds were that at the beginning of the Kaliyuga, the sun, the moon and the planets were in one zodiacal sign near the fixed Siddhāntic Meṣadi which according to some authorities is Ś Piscium, but according to others is 180° from Citrā or a Virginis. This was probably a back calculation based on the then prevailing knowledge of planetary motion, but has now been found to be totally wrong, when recalculated with the aid of more accurate modern data on planetary motion. We quote from 
 
 Ancient Indian Chronology, pp. 35-39 by Prof. P. C. Sengupta, who has given a full exposition of Burgess's views on this point, with recalculations of his own. 
 
@@ -5851,7 +5851,7 @@ Paikuli (inscription), 232 Paitamaha Siddhānta, 223 Pajā (inscription), 220 Pa
 
 krona or vahula, 15, 221, 228, 233, 247; 
 
-śukla, 15, 221, 228, 247; . Pala, 160 Pålag, 257 Pallavas, 256 pañcāṅgas, list of, 21, 22 Pañca Siddhantikū of Varahamihira, 158, 162, 
+śukla, 15, 221, 228, 247; . Pala, 160 Pålag, 257 Pallavas, 256 pañcāṅgas, list of, 21, 22 Pañca Siddhāntikū of Varahamihira, 158, 162, 
 
 197, 223, 226, 236, 237, 238 Panemos, Greek month, 230 Pāpini, 214 Panjtar (inscription), 229 Pannekoek, Dr. Anton, 174, 176, 178, 185, 194, 
 
@@ -5869,7 +5869,7 @@ Uttarāyaṇa, 215; .. Sampát calana, 269 Samudragupta, 255 Samvatsara, 255, 27
 
 Tithi, 183, 218, 227, 228, 230, 234, 236, 248; 
 
-sverdge duration of, 221, 222, 224,248; comparison of Siddhantic and modern, 3 defined, 3, 221; definition in Aitareya Brahmapa, 221;. 
+sverdge duration of, 221, 222, 224,248; comparison of Siddhāntic and modern, 3 defined, 3, 221; definition in Aitareya Brahmapa, 221;. 
 
 » » Siddhāntas, 221;: 
 
@@ -5975,7 +5975,7 @@ calculation of, 110 " in 8. 8., 239
 
 · Yogatárā (junction star), 183, 184, 210, 211 "religious calendar, 251; 
 
-Yuga, 217; "Siddhantic, 11, 241, 245 ; 
+Yuga, 217; "Siddhāntic, 11, 241, 245 ; 
 
 of Romaka Siddhānta 237 " Solar, 2, 241; 
 

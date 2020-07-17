@@ -19,7 +19,7 @@ The two points of intersection of the ecliptic with the celestial equator are ca
 
 The celestial equator and the ecliptic are the most important reference planes in astronomy. The positions of all heavenly bodies are given in terms of these planes, taking the first point of Aries as the initial point. We explain below the scientific definitions of spherical co-ordinates used to denote the position of a body on the celestial globe. 
 
-{{< figure src="../../images/celestial_coordinates.png" title="Fig. 1C.--Slowing the spherical co-ordinatce of a star." class="thumbnail">}}
+{{< figure src="../../../images/celestial_coordinates.png" title="Fig. 1C.--Slowing the spherical co-ordinatce of a star." class="thumbnail">}}
 
 In this figure : 
 
