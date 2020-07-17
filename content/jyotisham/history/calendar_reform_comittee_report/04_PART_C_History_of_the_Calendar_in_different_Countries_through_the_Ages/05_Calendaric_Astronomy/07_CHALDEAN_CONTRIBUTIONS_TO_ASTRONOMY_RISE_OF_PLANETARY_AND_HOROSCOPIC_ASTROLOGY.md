@@ -71,321 +71,89 @@ The astronomical knowledge which the Chaldean astronomers bequeathed to the worl
 - Mean daily motion of the sun=59' 9" ; modern value=59'8".3. 
 - Mean daily motion of the moon=13° 10' 35" : modern value=13° 10' 35".0 
 - Extreme values of the true motion of the moon : 15° 14' 35" to 11° 6' 35. According to modern determination these limits are about 15° 23' to 11° 46'. 
-- Length of the anomalistic month+++(=perigee to perigee)+++ - 27.55555 days; modern value=27.55455 days. 
-- Or 9 anomalistic months = 248 days ; modern value - 247.991 days. 
+- Length of the anomalistic month+++(=perigee to perigee)+++ - 27.55555 days; modern value=27.55455 days. +++(Remarkable! diameter of the moon varies only 11%. Kidinnu must have arrived at 269 anomalistic months=251 synodic months.)+++
+- Or 9 anomalistic months = 248 days ; modern value - 247.991 days.
 - Length of the synodic month=29.530594 days; modern value = 29.530588 days. 
 - 223 synodic months=242 draconitic months. This gave rise to the Chaldean Saros cycle of eclipses. 
 - 269 anomalistic months=251 synodic months. The length of the anomalistic month deduced from this relation=27.554569 days, the modern value being 27.554550 days.
 
 The Greek papyri gives longitudes of the moon for dates 248 days apart. This period is based on the Babylonian relation : 9 anomalistic months=248 days. After eleven such steps of 248 days, there is a big step of 303 days in the ephemeris. The length of the anomalistic month derived from these steps are as follows.  
 
+- 9 anomalistic months=248 days. So, anomalistic month length = 27.555 days 
+- 11 anomalistic months=303 days. So, anomalistic month length = 27.545 days 
+- 11*9 + 11 anomalistic months= 3031 days. So, anomalistic month length = 27.5545 days 
+- Actual value = 27.5545 days
+
 It is not sure whether these figures were arrived at by the Babylonians or by astronomers of other places. But these and the more accurate approximation of the moon's motion is found in the Panca Siddhāntika of Varāhamihira and is **found used by Tamil astronomers**. 
 
-In the Panca Siddhāntika the synodic revolutions of planets are given, but they apparently differ much from the actual figures. The figures are quoted in col. (2) of the table No. 9 below. The actual periods of the synodic revolutions in days are given in col. (3). 
-
-Planet 
-
-(1) 
+### Synodic revolutions of planets
+In the **Panca Siddhāntika** the synodic revolutions +++(return to same position relative to the Sun as seen by an observer on the Earth)+++ of planets are given, but they apparently differ much from the actual figures. The figures are quoted in col. (2) of the table No. 9 below. The actual periods of the synodic revolutions in days are given in col. (3). 
 
 Table 9.--Synodic revolutions of planets from Pañca-Siddhāntikā. 
 
-As given Actual Converted from in P.S. (days) 
+- Planet (col 1), As given (col 2), Actual (days) (col 3), Converted from in P.S. (days) (col 4) 
+- Mars, 768.75, 779.936, 779.944 
+- Mercury, 114+6/29, 115.878, 115.870 
+- Jupiter, 393+1/7, 398.884, 398.868 
+- Venus, 575.5, 583.921, 583.880 
+- Saturn, 372.66, 378.092, 378.093 
 
-Col. (2) 
+Dr. Thibaut in his Pañica Siddhāntikā could not explain the figures in col. (2). It can be verified that we can obtain the figures in col. (3) if we multiply the corresponding figures in col. (2) by 365.2422/ 360 . The figures obtained by such multiplication are shown in col. (4), which are found to be very close to the fgures in col. (3). The figures in col. (2) can be explained in another way, viz., they are in degrees representing the arc through which the sun moves between two conjunctions. In other words, the figures in col. (2), not being ordinary mean solar days, are '**saura days**' of Indian astronomy, a saura day being the **time taken by the sun to move through one degree by mean motion**, or 360 saura days = 365.2422 mean solar days. This explanation has been found by O. Neugebauer (vide his Exact Sciences in Antiquity). Most of these data were **known to Hipparchos and also to Geminus**, a Greek astronomer, who flourished about 70 B.C. 
 
-(days) (2) 
+## History
+The "astronomical science" as evolved by the Chaldean astronomers, is seen to be in reality the by-product of the huge amount of astrological nonsense, a few pearls in a huge mass of dung, as Alberuni observed nearly ten centuries ago. Let us see when these "pearls" gradually crystallized out of the dung-heap.
 
-(3) 7687 779.936 
+Fig. 15–Two sculptured stones of ancient Babylon displaying the Sun, the Moon, Venus and Scorpion-symbols of a primitive astrological science which fathered the modern conception of astronomy.
 
-779.944 114 
-
-115.878 115.870 3937 
-
-398.884 
-
-398.868 5751 583.921 583.880 3723 378.092 378.093 
-
-(4) 
-
-Extreme values of the true motion of the moon : 
-
-15° 14' 35" to 11° 6' 35. 
-
-Mars Mercury Jupiter Venus Saturn 
-
-According to modern determination these limits 
-
-· are about 15° 23' to 11° 46'. Length of the anomalistic month=27.55555 days ; 
-
-modern value=27.55455 days. Or 9 anomalistic months=248 days ; 
-
-modern value=247.991 days. Length of the synodic month=29.530594 days ; 
-
-modern value = 29.530588 days. 223 synodic months=242 draconitic months. 
-
-This gave rise to the Chaldean Saros cycle of eclipses. 
-
-360 
-
-or by (1 +5.2422 
-
-269 anomalistic months=251 synodic months. 
-
-The length of the anomalistic month deduced from this relation=27.554569 days, the modern value being 27.554550 days. 
-
-Dr. Thibaut in his Pañica Siddhāntikā could not explain the figures in col. (2). It can be verified that we can obtain the figures in col. (3) if we multiply the corresponding figures in col. (2) by 
-
-365.2422 
-
-360 The figures obtained by such multiplication are shown in col. (4), which are found to be very close to the fgures in col. (3). The figures in col. (2) can be explained in another way, viz., they are in degrees representing the arc through which the sun moves between two conjunctions. In other words, the figures in col. (2), not being ordinary mean solar days, are 'saura days' of Indian astronomy, a saura day being the time taken by the sun to move through one degree by mean motion, or 360 saura days = 365.2422 mean solar days. This explanation has been found by 
-
-O. Neugebauer (vide his Exact Sciences in Antiquity). Most of these data were known to Hipparchos and also to Geminus, a Greek astronomer, who flourished about 70 B.C. 
-
-The "astronomical science" as evolved by the Chaldean astronomers, is seen to be in reality the by 
-
-
-198 
-
-cuts the horizon at the east and west points as deter mined by the gnomon. 
-
-The Ecliptic :_From archæological records, it is generally held that a knowledge of the star-groups lying 
-
-... 
-
-product of the huge amount of astrological nonsense, a few pearls in a huge mass of dung, as Alberuni observed nearly ten centuries ago. Let us see when these "pearls" gradually crystallized out of the dung-heap. . 
-
-\- Two texts · called 'Mul Apin' dated round about . 700 B.C. have been discovered which contain summary of the astronomical knowledge of the time. Here is one of the pertinent passages from Neugebauer's Exact Sciences in Antiquity (p. 96). . 
+Two texts called '**Mul Apin**' dated round about **700 B.C.** have been discovered which contain summary of the astronomical knowledge of the time. Here is one of the pertinent passages from Neugebauer's Exact Sciences in Antiquity (p. 96).
 
 "They are undoubtedly based on older material. They contain a summary of the astronomical knowledge of their time. The first tablet is mostly concerned with the fixed stars which are arranged in three “roads”, the middle one being an equatorial belt of about 30° width. The second tablet concerns the planets, the moon, the seasons, lengths of shadow, and related problems. These texts are incompletely published and even the published parts are full of difficulties in detail. So much, however, is clear : we find here a discussion of elementary astronomical concepts, still quite descriptive in character but on a purely rational basis. The data on risings and settings, though still in a rather schematic form, are our main basis for the identification of the Babylonian constellations." 
 
-The passage indicates that the Chaldean astro nomers of this period could locate the north pole, and had come to an idea of the celestial equator, and could 
+The passage indicates that the Chaldean astronomers of this period could locate the north pole, and had come to an idea of the celestial equator, and could trace it in the heavens. We do not know when they came to the knowledge that the celestial equator cuts the horizon at the east and west points as determined by the gnomon. 
 
-49.... 
+Fig. 16--Babylonian Boundary stone showing Pythagorian numbers +++(a² + b² = c²)+++ (Plimpton 322). (Reproduced from Neugebauer's Exact Sciences in Antiquity) 
 
-CE? 
+#### The Ecliptic 
+From archæological records, it is generally held that a knowledge of the star-groups lying close to the ecliptic was obtained in Babylon as early as 1300 B.C., for some of the ecliptic star-groups like the Cancer, or Scorpion are found portrayed on boundary stones which can be dated 1300 .B.C. 
 
-113 
+Neugebauer and Sachs maintain that the ecliptic is first found mentioned in a Babylonian text of 419 B.C., but its use as a reference plane must have started much earlier, probably before 550 B.C. But the steps by which the knowledge of stars marking the ecliptic was obtained, are not yet known with precision. Only some guesses can be made. 
 
-Fig. 15–Two sculptured stones of ancient Babylon displaying the Sun, the Moon, Venus and Scorpion-symbols of a primitive astro logical science which fathered the modern conception of astronomy. close to the ecliptic was obtained in Babylon as early as 
+The early astronomers probably observed that the bright stars Regulus (α Leonis ), Spica (α Virginis), the conspicuous group Pleiades, and certain fainter stars α Librae, α Scorpii were almost on the sun's path. The ecliptic could be roughly constructed by joining these stars. 
 
-Fig. 16--Babylonian Boundary stone showing Pythagorian numbers (Plimpton 322). 
 
-(Reproduced from Neugebauer's Exact Sciences in Antiquity) 
+#### The First Point of Aries
+The first point of Aries is the fiducial point from which all astronomical measurements are made. But how was this point, or any other cardinal point, say the first point of Cancer. ( summer solstice ), the first point of Capricornus. ( winter solstice ) and the first point of Libra, were located on the circle of the ecliptic in early, times ? 
 
-trace it in the heavens. We do not know when they came to the knowledge that the celestial equator 
+For rarely have the first point of Aries nor any other of the cardinal points been occupied by prominent stars during historical times. Even if for measurement, the ancient astronomers used some kind of astronomical instrument, say the armillary sphere, it would be difficult for them to locate the first point of Aries correct within a degree. 
 
-1300 B.C., for some of the ecliptic star-groups like the Cancer, or Scorpion are found portrayed on boundary CALENDARIC ASTRONOMY 
+Probably the first stage was to determine the angular distance of heavenly bodies from some 'Normal Stars' as indicated by Sachs. These normal stars were stars either on the ecliptic, like Regulus, Spica, or a Librae or some other stars close to it. Sachs gives a list of 34 such normal stars. (o A. Sachs, Babylonian Horoscopes, p. 53, Journal of Cuneiform Studies, Vol. VI, No. 2. ) Probably the ecliptic positions of these normal stars were determined after some effort by some method not yet known, and then the positions of other heavenly  bodies referred to the first point of Aries or the beginning of a sign could be found. The early observations are rough and no accuracy of less than a degree is claimed by any classical scholar for them. 
 
-199 
-
-stones which can be dated 1300 .B.C. Neugebauer and Sachs maintain that the ecliptic is first found mentioned in a Babylonian text of 419 B.C., but its use as a reference plane must have started much earlier, probably before 550 B.C. But the steps by which the knowledge of stars marking the ecliptic 
-
-Probably the first stage was to determine the angular distance of heavenly bodies from some 'Normal Stars' as indicated by Sachs. These normal stars were stars either on the ecliptic, like Regulus, Spica, or a Librae or some other stars close to it. Sachs gives a list of 34 such normal stars. Probably the 
-
-Fig. 17–Babylonian Boundary stone showing lunar ephemeris 
-
-engraved on it (A. 3412 Rev.) (Exact Sciences in Antiquity) 
-
-ecliptic positions of these normal stars were determined after some effort by some method not yet known, and then the positions of other heavenly 
-
-Zenith 
-
-10000 
-
-The Meridis 000120100] 
-
-Circle POD070 
-
-Hound! 
-
-70100 
-
-Ansich 
-
-INNET 
-
-ECLIPTIC 
-
-VOTO 
-
-10211 
-
-was obtained, are not yet known with precision. Only some guesses can be made. 
-
-The early astronomers probably observed that the bright stars Regulus (α Leonis ), Spica (α Virginis), the conspicuous group Pleiades, and certain fainter stars a Librae, a Scorpii were almost on the sun's path. The ecliptic could be roughly constructed by joining these stars. 
+Fig. 17–Babylonian Boundary stone showing lunar ephemeris engraved on it (A. 3412 Rev.) (Exact Sciences in Antiquity) 
 
 'Regulus' or α Leonis was the 'Royal Star' in Babylonian mythology. In Indian classics, it is known as Maghā (or the Great ) and the presiding deity is Indra, the most powerful Vedic god. It is almost exactly on the ecliptic. Citrā ( or α Virginis ) is 2° to : the south. 
 
-The First Point of Aries :-The first point of Aries is the fiducial point from which all astronomical measurements are made. But how was this point, or any other cardinal point, say the first point of Cancer. ( summer solstice ), the first point of Capricornus. ( winter solstice ) and the first point of Libra, were located on the circle of the ecliptic in early, times ? 
+{{< figure src="../../../images/armillary_sphere.png" title="Fig. 18–Armillary sphere. . (Reproduced from Encyclopaedia Britannica)." class="thumbnail">}}
 
-For rarely have the first point of Aries nor any other of the cardinal points been occupied by prominent stars during historical times. Even if for measurement, the ancient astronomers used some kind of astrono mical instrument, say the armillary sphere, it would be difficult for them to locate the first point of Aries correct within a degree. 
+### Precession of Equinoxes 
 
-S 
+But the first point of Aries is not a fixed point on the ecliptic, though all ancient astronomers belived it to be fixed once for all. It moves steadily to the west at the rate of 50" per year. Astronomers of different ages must have given measurements of stellar positions from observations made either during their own times, or from observations made by their predecessors, quite unconscious of the fact that the reference point had shifted. The result is that the positions of stars given by different astronomers of antiquity do not tally, and the positions given by the same astronomer are not always consistent. This is illustrated in Fig. 19 of the Zodiac. 
 
-Cypris. 
+{{< figure src="../../../images/precession_of_equinox.png" title="Fig. 19—The Zodiac through ages." class="thumbnail">}}
 
-Circle 
+Let us take Hipparchos's First point of Aries ♈ as our standard point. Ptolemy's first point of Ariés ♈ is 4° to the west of Hipparchos's.
 
-TH 
+Clay tablet records have been obtained in Mesopotamia which have been interpreted as representing two systems of Ephemeris known as **Systems A and B**. System B indicates that the vernal point is **Aries 8°**. This indicates that the observations were taken about 550 years before Ptolemy. This coincides approximately with the time of the **Chaldean astronomer Kidinnu**, who observed at Borsippa near Babylon, and is taken to be the **author of the nineteen-year cycle**. System A uses **Aries 10°** as the vernal point; the author of this system might have flourished 120-150 years before Kidinnu, and may be identified with **Naburiannu**, son of Balatu, who flourished about 490 B.C. Older still is the use of **Aries 15° by Eudoxus** of Cnidus, the first Greek astronomer to start a geometrical theory of planetary motion. This refers to observations dating from about 810 B.C. These dates, before they are accepted, should receive independent verification. 
 
-QUOTI 
+### The Use of Spherical Co-ordinates 
 
-of 
+The ancient astronomers were interested primarily in the moon and the planets but later about 150 B.C., Hipparchos gives lists of fixed stars as well with their positions. 
 
-Tropic 
+It was clearly observed that though these planets keep near the ecliptic, they deviate by small amounts sometimes to the north, sometimes to the south. In the case of the moon, the maximum deviation amounts to nearly 50 (inclination of the moon's orbit to the ecliptic). In the case of planets, excepting in the case of Mercury and Venus, the deviation was not large. 
 
-doo 
+In the case of the moon, a **knowledge of the moon's celestial latitude** was necessary for **prediction of eclipses** and therefore both the celestial longitude and latitude used to be recorded by the **Chaldean astronomers of the Seleucidean period**. In the case of planets, only the celestial longitude appear to have been used. 
 
-mu 
+The Chaldean astronomers were the **first** to frame lunar and planetary **ephemerides** (i.e. calculation in advance of lunar and planetary positions— the pre cursor of modern Nautical Almanacs and Ephemerides) from about 500 B.C. But during these times, neither the knowledge of the sphere nor of spherical or plane trigonometry had developed. The Chaldeans had only developed the ideas of angular measurement which they expressed in degrees, minutes and seconds, the whole circle being divided into 360° degrees. Their methods, which have been elucidated by Neugebauer, Sachs and others were **arithemetical**. They took maximum and minimum values of astrononomical quantities, and **interpolated** for an inter mediate period, assuming the change to be linear (zigzag function, vide Neugebauer, Exact Sciences in Antiquity, Chap. V, Babylonian Astronomy). 
 
-TEROL KOT09T01 
+It was the **Greeks** who introduced **geometrical methods** to deal with positions of heavenly bodies, and made the next great advance in astronomy. But they developed trigonometry only to a rudimentary stage vide § 4.8). But they also used Babylonian arithmetical methods alternately. Thus while Ptolemy uses the trigonometric chord functions in bis Syntaxis, in the astrological text, called Tetrabiblos, he uses the Babylonian arithmetical methods. 
 
-3oooooo 
-
-Fig. 18–Armillary sphere. . (Reproduced from Encyclopaedia Britannica). · bodies referred to the first point of Aries or the beginning of a sign could be found. The early observations are rough and no accuracy of less than a degree is claimed by any classical scholar for them. 
-
-o A. Sachs, Babylonian Horoscopes, p. 53, Journal of Cuneiform Studies, Vol. VI, No. 2. 
-
-\- 
-
-200 
-
-Precession of Equinoxes But the first point of Aries is not a fixed point on the ecliptic, though all ancient astronomers belived it to be fixed once for all. It moves steadily to the west at the rate of 50" per 
-
-Ptolemy's first point of Ariés r is 4o to the west of Hipparches's. 
-
-Clay tablet records have been obtained in Mesopotamia which have been interpreted as represen 
-
-PISCES 
-
-ARIES 
-
-L 
-
-!! 
-
-$ Pise 
-
-Equator 1950 
-
-ARILTIS 
-
-AQUARIUS 
-
-TAURUS 
-
-TRIANGUL 
-
-TAURI 
-
-ORIONIS 
-
-DISP 
-
-\# UX 
-
-EGASI 
-
-OV 
-
-List 
-
-a Canis Majoris. 
-
-& Piscis Austrini 
-
-ELE 
-
-AURICAL 
-
-comis Minoris 
-
-CEMINI 
-
-GEMINORUM 
-
-CAPRICORNUS 
-
-\------ BEMINI" 
-
-DELPHINI 
-
-Polon 
-
-XNAT 
-
-S 
-
-L 
-
-. Gapricornio 
-
-domynoy 
-
-02 
-
-\-----OTARIUS 
-
-uonno 
-
-SESEO 
-
-orni TAGITTARIS 
-
-SAGITTARIUS 
-
-Equator 1930. 
-
-( 
-
-037 
-
-Oldษัวร 
-
-3CORPII 
-
-TV801 
-
-CONOMIA 
-
-09MIA TADOS 
-
-Vagit 
-
-MAGNITUDES. FIRST SECOND THIRD FOURTH FIFTH 
-
-POSITIONS OF THE FIRST POINT OF 
-
-ARILS (T) IN DIFFERENT TIMES. V- Vedic Times about 2300 B.C. H=Hipparchos 
-
-140 B.C. Pt=Ptolemy 
-
-150 A.D. S= Surya Siddhonto 285 AD. 
-
-500 AD. 
-
-570 A.D. M = Modern 
-
-1950 A.D. 
-
-S, 
-
-Fig. 19—The Zodiac through ages. year. Astronomers of different ages must have given ting two systems of Ephemeris known as Systems A and measurements of stellar positions from observations B. System B indicates that the vernal point is Aries 8°. made either during their own times, or from This indicates that the observations were taken about observations made by their predecessors, quite 550 years before Ptolemy. This coincides approxi unconscious of the fact that the reference point had mately with the time of the Chaldean astronomer shifted. The result is that the positions of stars given Kidinnu, who observed at Borsippa near Babylon, and by different astronomers of antiquity do not tally, and is taken to be the author of the nineteen-year cycle. the positions given by the same astronomer are not always System A uses Aries 10° as the vernal point ; the consistent. This is illustrated in. Fig. 19. of the Zodiac. author of this system might have flourished 120-150 
-
-Let us take Hipparchos's First point of Aries ï as years before Kidinnu, and may be identified with nur standard point. 
-
-Naburiannu, son of Balatu, who flourished about 490 
-
-CALENDARIO ASTRONOMY 
-
-201 
-
-B.C. Older still is the use of Aries 15° by Eudoxus of Cnidus, the first Greek astronomer to start a geometri cal theory of planetary motion. This refers to observations dating from about 810 B.C. These dates, before they are accepted, should receive independent verification. 
-
-The Use of Spherical Co-ordinates 
-
-science, the use of astronomy for perfecting the calender appears in the West to have come to a stop after the Seleucidean era. For Rome conquered the whole western Asia up to the Euphrates by about 80 A. D., and the Julian calendar replaced the Babylonian luni-solar calendar, which have, however, .continued to currency probably in limited regions like Syria, Arabia and Iraq amongst certain communities. The Sassanid Persians also followed their own solar calendars inherited from Acheminid times. But the elements of the Chaldean luni-solar calendar have been used in a limited way, for the Christian ecclesiastic calendar for Christianity arose in Palestine and Syria, and the most important event in Christ's life, His crucifixion, is recorded in terms of the luni-solar calendar prevalent in Palestine about the first century A.D. 
-
-the soos 
-
-ation neesitum 
+Though the calendar, as we have seen, gave the first stimulus for the cultivation of the astronomical science, the use of astronomy for perfecting the calender appears in the West to have come to a stop after the Seleucidean era. For Rome conquered the whole western Asia up to the Euphrates by about 80 A. D., and the Julian calendar replaced the Babylonian luni-solar calendar, which have, however, continued to currency probably in limited regions like Syria, Arabia and Iraq amongst certain communities. The Sassanid Persians also followed their own solar calendars inherited from Acheminid times. But the elements of the Chaldean luni-solar calendar have been used in a limited way, for the Christian ecclesiastic calendar for Christianity arose in Palestine and Syria, and the most important event in Christ's life, His **crucifixion**, is recorded in terms of the **luni-solar calendar** prevalent in Palestine about the first century A.D. 
