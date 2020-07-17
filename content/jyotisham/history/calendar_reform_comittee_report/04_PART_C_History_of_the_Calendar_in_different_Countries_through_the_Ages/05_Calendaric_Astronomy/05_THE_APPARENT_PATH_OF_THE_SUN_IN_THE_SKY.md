@@ -24,31 +24,28 @@ The celestial equator and the ecliptic are the most important reference planes i
 In this figure : 
 
 - P = Celestial pole (dhruva). 
-- rQ - Celestial equator. 
+- γQ - Celestial equator. 
 - K - Pole of the ecliptic (kadamba). 
+- γ♋ = Plane of the ecliptic. 
+- γ = First point of Aries (vernal equinox). 
+- ♋ = First point of Cancer: (summer solstice). 
+- ♎ = First point of Libra (autumnal equinox). 
+- ♑ = First point of Capricorn (winter solstice).
+- Ś = A heavenly body. 
+- PS - Great circle throʻ P,S cutting equator at Q. 
+- γQ - Right ascension=α. 
+- QS - Declination= δ 
+- KS - Great circle through K,S cutting ecliptic at C. 
+- TC-Celestial longitude λ 
+- CS=Celestial latitude = β 
 
-= Plane of the ecliptic. r = First point of Aries (vernal equinox). 
+Let PS cut the ecliptic at B. Then 
 
-First point of Cancer: (summer solstice). 
+- γB = Polar longitude or dhruvaka = l 
+- BS = Polar latitude or vikṣepa = d
 
-First point of Libra (autumnal equinox). W = First point of Capricorn (winter solstice). 
+These last two peculiar co-ordinates, now no long used, were used by the Sūrya Siddhānta to denote sta positions. They have been traced by Neugebauer to Hipparchos five centuries earlier. 
 
-Ś=A heavenly body. PS - Great circk shroʻP,S cutting equator at Q. rQ-Right ascension=a. 
-
-QS - Declination=8 KS Great circle through K, S cutting ecliptic 
-
-at C. 
-
-TC-Celestial longitude 1 
-
-CS=Celestial latitude=B Let PS cut the ecliptic at B. Then 
-
-rB=Polar longitude or dhruvakn=1 
-
-BS = Polar latitude or vikṣepas These last two peculiar co-ordinates, now no long used, were used by the Sūrya Siddhānta to denote sta positions. They have been traced by Neugebauer to Hipparchos five centuries earlier. 
-
-The position of a stellar body may be defined by either its right ascension (a) and declination (8), 
-
-or its celestial longitude(1) and latitude(B). 
+The position of a stellar body may be defined by either its right ascension (α) and declination (δ),  or its celestial longitude(λ) and latitude(β). 
 
 The positions of stars in these co-ordinates began to be given from the time of Claudius Ptolemy (150 A.D.) who used them in his Syntaxis. 
