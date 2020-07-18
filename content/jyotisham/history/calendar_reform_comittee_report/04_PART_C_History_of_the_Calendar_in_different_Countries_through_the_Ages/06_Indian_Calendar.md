@@ -3,9 +3,8 @@ title = "06 Indian Calendar"
 
 +++
 
-successive streams between 2500 B.C. and 1500 B.C. Others would go further back in time-scale from certain astronomical evidences. 
-
-5.1 THE PERIODS IN INDIAN HISTORY The time-periods in Indian history necessary for our purpose are shown in the Chronological Table. 
+## THE PERIODS IN INDIAN HISTORY 
+The time-periods in Indian history necessary for our purpose are shown in the Chronological Table. 
 
 The earliest civilization so far discovered in India is the Harappa-Mohenjo-Daro civilization (sometimes also called the Indus-Valley civilization) named after the two ancient buried cities of Harappa in the Punjab and Mohenjo-Daro in Sind. They were first brought to light by the late R.D. Banerjee, Superinten dent of the Western Circle of Archaeology of India in 1924. · It has now been ascertained that this civilization extended right upto Rupar on the Sutlej in the east and to the Narmada valley in the south. This civilization was certainly contemporaneous with the Mesopotamian civilizations of about 2500 B.C., nearly 500 years before the city of Babylon had risen to supremacy amongst the cities of Sumer and Akkad ; and with the first dynastic civilization of Egypt. How far back it projected into the time-scale is not yet known, but certainly many thousand years back. 
 
@@ -15,23 +14,15 @@ All civilized communities have been found to have evolved accurate systems of we
 
 But had they evolved a calendar ? The presump tion is that they must have, but nothing has yet been discoverd amongst the artefacts left by these people so far recovered by the Archaeological Survey which tbrows light on the..calendar, or the system of time measurement they used 
 
-It is held on quite sound grounds that the Harappa Mohenjodaro people were succeeded in the Punjab and in the valley of the now lost Sarasvatī river by the Aryan people who were either autochthonous or more probably came through Afghanistan in single or 
+It is held on quite sound grounds that the Harappa Mohenjodaro people were succeeded in the Punjab and in the valley of the now lost Sarasvatī river by the Aryan people who were either autochthonous or more probably came through Afghanistan in single or successive streams between 2500 B.C. and 1500 B.C. Others would go further back in time-scale from certain astronomical evidences. 
 
-: Few, almost none of the materi 
-
-artefacts of the early Aryans except some potteries tentatively ascribed to them, have so far been discovered. Almost the whole of our knowledge about them are derived from the hymns of the Rg-Vedas which were composed by priestly families amongst them in an archaic form of Sanskrit (Vedic Sanskrit), in honour of the gods they worshipped ; in these hymns are found occasional references to the sun, the moon, certain stars, and to months and seasons. Some think that there are also references to planets, i.e., the Vedic Aryans could distinguish between fixed stars and planets, but this is doubtful. From certain references which we discuss in § 5.2, we may conclude that they used an empirical luni-solar calendar. Probably this was used till 1300 B.C. We do not come across sufficient material records until we come to the time of Asoka about 270 B.C. 
+Few, almost none of the material records or artefacts of the early Aryans except some potteries tentatively ascribed to them, have so far been discovered. Almost the whole of our knowledge about them are derived from the hymns of the Rg-Vedas which were composed by priestly families amongst them in an archaic form of Sanskrit (Vedic Sanskrit), in honour of the gods they worshipped ; in these hymns are found occasional references to the sun, the moon, certain stars, and to months and seasons. Some think that there are also references to planets, i.e., the Vedic Aryans could distinguish between fixed stars and planets, but this is doubtful. From certain references which we discuss in § 5.2, we may conclude that they used an empirical luni-solar calendar. Probably this was used till 1300 B.C. We do not come across sufficient material records until we come to the time of Asoka about 270 B.C. 
 
 What was the calendar during the period 1330 B.C.-250 B.C.? The Yajur Veda, the Brāhmaṇas, the Upaniṣads and other post Rg-Vedic literature, and the early Buddhistic literature contain occasional astronomical references, from which the nature of the calender used for ceremonical and other purposes can be inferred. The interpretation of the texts is neither easy, nor unambiguous. The latter part of this period has been called by S. B. Dikṣit, our pioneer in calendar research, as the Vedānga Jyotiṣa period. This is discussed in § 5.4. 
 
 The Vedanga Jyotiṣa calendar appears to have been almost completely free from foreign influence, though this point of view has been contested. The Persian conqueror Darius conquered Afghanistan, and Gandhar, about 518 B.C. ; this region appears to have continued under the Achemenids for nearly two centuries. The Achemenids used a solar calendar probably adopted from Egypt in contrast to the luni-solar calendar of India, but this does not appear to have disturbed the indigenous luni-solar calendarical system. 
 
-The Vedanga Jyotiṣa period, which as we shall show, was continued by Indian dynasts up to the time of the Satavahanas (200.A.D.), was succeeded by the Siddhānta Jyotiṣa period, but the first record of this period is available only about 400 A.D. "The transi 
-
-INDIAN CALENDAR 
-
-213 
-
-tional period from 100 A.D. to 400 A.D. is one of the . darkest periods in Indian chronology. Due to successive invasions by Macedonian and Bactrian Greeks ( Yavanas ), Parthians (Pallavas ), śaka's and Kuṣānas, the period from 300 B.C. to 200 A.D. is one of large foreign contacts which profoundly modified Indian life in arts, sciences, sculpture and state-craft. But the history of this period was entirely forgotten and is being recovered bit by bit from inscriptions, foreign references, and from artefacts recovered in excavations of the sites occupied by invaders of this period. Let us give a bird's eye view of the history of this period, imperfect as it is, so that the reader may follow without strain our account of the transition of the Vedanga Jyotiṣa calendar to Siddhāntic calendar. 
+The Vedanga Jyotiṣa period, which as we shall show, was continued by Indian dynasts up to the time of the Satavahanas (200.A.D.), was succeeded by the Siddhānta Jyotiṣa period, but the first record of this period is available only about 400 A.D. "The transitional period from 100 A.D. to 400 A.D. is one of the . darkest periods in Indian chronology. Due to successive invasions by Macedonian and Bactrian Greeks ( Yavanas ), Parthians (Pallavas ), śaka's and Kuṣānas, the period from 300 B.C. to 200 A.D. is one of large foreign contacts which profoundly modified Indian life in arts, sciences, sculpture and state-craft. But the history of this period was entirely forgotten and is being recovered bit by bit from inscriptions, foreign references, and from artefacts recovered in excavations of the sites occupied by invaders of this period. Let us give a bird's eye view of the history of this period, imperfect as it is, so that the reader may follow without strain our account of the transition of the Vedanga Jyotiṣa calendar to Siddhāntic calendar. 
 
 In 323 B.C., Alexander of Macedon raided the Punjab, but this incident by itself had no such profound influence on Indian life as is generally made out. Its influence was rather indirect. In India, it gave rise to a great national movement of unification under Candragupta and Canakya. In the former empire of Darius, it gave rise to a number of Greek states which became the focus of radiation of Greek culture throughout the East. The most important were Egypt under the rule of the Ptolemies, with capital at Alexandria, and the Near East under the Seleucids with capital at Babylon, which was succeeded a few years later by Seleucia a few miles distant from later Baghdad. In 306 B.C., Candragupta ind Seleucus faced each other, but the Greek army was rolled back to the borders of modern Iran, and almost the whole of modern Afghanistan except Bactria (modern Balkh) constituting the four satrapies of the old Persian empire were ceded to India. They continued to be politically and culturally parts of India till the tenth century A.D. 
 
@@ -85,7 +76,7 @@ Only the sixth Vedanga or Jyotisa interests us, though there are occasional refe
 
 Age of the Vedic Literature * 
 
-5.2 CALENDAR IN THE RIG-VEDIC AGE 
+## CALENDAR IN THE RIG-VEDIC AGE 
 
 ( -1200 B.C.) The Vedic Literature : The knowledge of the calen dar in this age can be obtained only from the Vedic literature which consists however of different strata, greatly differing in age. According to the great orientalist Max Muller four periods each presupposing the preceding can be distinguished. They are : 
 
@@ -281,11 +272,13 @@ Samhitas of the Black Yajurveda school are older than lunar day) widely used in 
 
 verses of the Yajurveda Samhita. As we shall see, there are references which point to a much earlier 
 
-origin. 5.3 CALENDARIC REFERENCES IN THE 
+origin. 
+
+## CALENDARIC REFERENCES IN THE YAJUR VEDIC LITERATURE 
 
 The Yajur Veda gives the names of twelve months, 
 
-and the names of the lunar mansions with their YAJUR VEDIC LITERATURE 
+and the names of the lunar mansions with their 
 
 presiding deities, and talks of the sun's northernly and The Atharva Veda consisting mostly of magic southernly motion. We do not give the texts here, incantations also contain calendaric references, but.. but only Dr. Berriedale Keith's translation. we shall make only occasional use of them, as the text of this Veda has not probably come to us in unadul 
 
@@ -665,7 +658,7 @@ During the waxing moon ( śukla pakṣa ), the tithi was reckoned from moon-set 
 
 Of course, full moon takes place by turn in all the nakṣatras. But only 12 at approximately equal intervals could be selected. But we have too Rauhinya paurṇamāsi etc. the pakṣa when the moon becomes full near Rohini, or Aldebaran ( lunar mansion No. 4). But Rauhinya' was not selected for the name of a lunar month, because it was too near Krttikā-Paurṇa māsī. 
 
-5.4 THE VEDANGA JYOTISHA CALENDAR 
+## THE VEDANGA JYOTISHA CALENDAR 
 
 Titbi 
 
@@ -1027,7 +1020,7 @@ dawnicy.
 
 AR 
 
-5.5 CRITICAL REVIEW OF THE INSCRIPTIONAL 
+## CRITICAL REVIEW OF THE INSCRIPTIONAL 
 
 RECORDS ABOUT CALENDAR In this chapter, we are undertaking a critical review of the references to the calendar in ancient inscriptions, because, from the point of view of accurate history, inscriptional records are far more valuable than any references in ancient scriptures or classics, as they are contemporary documents, which have remained unaltered since the framers left them.. 
 
@@ -1439,9 +1432,9 @@ szwagurordirase.... (Iran Stone Pillar Inscription of Budha Gupta
 
 Gupta year 100484 A.D.). Translation : In the year 165 of the Gupta era during the reign of emperor Budhagupta in the month of Aṣadha and on the 12th tithi of the light half which was a Thursday (i.e. day dedicated to the preceptor of Gods). 
 
-6.6 SOLAR CALENDAR IN THE Siddhānta 
+## SOLAR CALENDAR IN THE Siddhānta JYOTISHA PERIOD 
 
-JYOTISHA PERIOD : Rise of Siddhāntas or Scientific Astronomy: 
+Rise of Siddhāntas or Scientific Astronomy: 
 
 The Vedānga Jyotiṣa calendarical rules appear, from inscriptional records, to have been used right up to the end of the reign of the Satavahanas (200 A.D.). The analysis of inscriptional data on methods of date recording given in § 5.5 shows that it was the śaka and Kuṣāṇa rulers (50 B.C. - 100 A.D.), who introduced the Graeco-Chaldean methods of date-recording, prevalent in' the Near East into India. These methods require a knowledge of the fundamentals of astronomy, which must have been available to the śaka and Kuṣāna rulers. In India, as 'the inscriptional records show, some purely Indian dynasts probably accepted the system in full from about 248 A.D. (date of foundation of the Kalachuri era, the earliest era founded by Indian kings, leaving aside the śaka era which is admittedly of foreign origin and the Vikrama era whose origin is still - shrouded in mystery). During the time of the Guptas who founded an era commemorating their accession to power in 319 A.D. the integration of the western system with the Indian appears to have been complete. 
 
@@ -2105,9 +2098,7 @@ from such rules vary from 29 to 32, which is very inconvenient from various aspe
 
 The Committee has therefore felt that there is no need for keeping the solar months as astronomically defined. The length of 30 and 31 days are quite enough. for civil purposes. Moreover, fixed durations of months by integral number of days is the most convenient system in calendar making. The five months from the second to the sixth have the lengths of over 30 days, and so their lengths have been rounded to 31 days each ; and to the remaining months 30 days have been allotted. 
 
-6.7 THE LUNAR CALENDAR IN THE Siddhānta 
-
-: JYOTISHA PERIOD. 
+## THE LUNAR CALENDAR IN THE Siddhānta JYOTISHA PERIOD. 
 
 Justification of the Solar Calendar as proposed 
 
@@ -2687,7 +2678,8 @@ the luni-solar or solar calendar is in vogue in any tinuity in this system, but 
 
 particular part of the country. of the present error. The solar year for the religious calendar with Væiśākha as its first saura month should now commence when the tropical longitude of the sun 
 
-5.8 INDIAN ERAS amounts to 23° 15'. This saura month will determine the corresponding lunar months required for fixing the 
+## INDIAN ERAS 
+amounts to 23° 15'. This saura month will determine the corresponding lunar months required for fixing the 
 
 Whenever we wish to define a date precisely we dates of religious festivals. The lengths of such 
 
@@ -3329,9 +3321,7 @@ Started by Siddharāja Jayasimha Introduced by Akber. (968 Hejirā)
 
 From the coronation of Sivāji 
 
-\- APPENDIX: 5:A. 
-
-The Seasons 
+## AP 5A The Seasons 
 
 We have seasons because the celestial equator is oblique The amount of daylight received at any place determines to the sun's path (or the ecliptic), or in modern parlanoo, the season. When we have maximum sunlight, we have the axis of rotation of the earth is not perpendioular to its the bot season. When we have minimum sunlight, we shall orbit, but inclined at an angle of 661. This causes varying have winter. The other seasons come in-between. Bain, amounts of sunlight to fall on a particular locality through frost, etc., are secondary effects produced by varying out the year. If the earth's axis were perpendicular to the amounts of sunlight, and of the atmospherio conditions ecliptic, in other words the obliquity were zero, overy stimulated by the sunlight received. The sun is the sole portion of the earth from the equator to the pole would Srbiter of the seasons. have had 12 hours of sunlight, and- 12 hours of shade. Hence the definitions of seasons as given by the ancient There would have been no seasons on any part of the earth, astronomers, whether Western and Indian, which base them just as we have now for places on the earth's equator, whore on the cardinal days of the year, are the only correct, we have no variation of geason throughout the year, because definitions. A system which deviates from this practice is the day and night are equal for all days of the year. 
 
@@ -3591,9 +3581,8 @@ The Length of the Year : The length of the year, as mentioned earlier, must have
 
 In actual practice, the number of days of the year, counted in this way would vary between 365 and 366. In the early stages, the length of the year was whole-numbered, but Indians of Vedāng& Jyōtiṣa period had a year of: 366 days. Later when they came to a rigorous definition of the year, they realized that the number of days was not whole, but involved fractions.. Probably the attempt at determin ing the exact length of the year involving fractional numbers was obtained by adding up the lengths for & number of years, and taking the mean. 
 
-APPENDIX 5-B 
-
-Tuzo Zero-point of the Hindu Zodiao. :- The Zero-point of the Hindu Zodiac i By this is meant have been given taking the position of the. V.E. point at the the Vernal Equinoctial Point (first point of Aries) at the Observer's time as the fiducial point. It is : possible to time when the Hindu savants swibobed on from the old locate it, 48 Burgess had shown in his edition of the 8.8., if Vedāriga-Jyōtiṣa calondar to the Siddhānitio calendar (let with the aid of the data given, d; i.o., celestial longitude of us call this the spoch of the Siddhānta-Jyōtiṣa or S. J.). the junction-stars in the epoch of S.J. is calculated, and There is a wide spread belief that a definite location can be compare it with the i of the same stars for 1950: - Let the found for this point from the data given in the Sūry& two values of Å be denoted by lz and dg, die being the value Siddhārta and other standard trbatiges. This impression is at the spoch of S. J., dg for the year 1950. Thenigde however wrong 
+## AP 5-B Zero-point of the Hindu Zodiac
+The Zero-point of the Hindu Zodiac i By this is meant have been given taking the position of the. V.E. point at the the Vernal Equinoctial Point (first point of Aries) at the Observer's time as the fiducial point. It is : possible to time when the Hindu savants swibobed on from the old locate it, 48 Burgess had shown in his edition of the 8.8., if Vedāriga-Jyōtiṣa calondar to the Siddhānitio calendar (let with the aid of the data given, d; i.o., celestial longitude of us call this the spoch of the Siddhānta-Jyōtiṣa or S. J.). the junction-stars in the epoch of S.J. is calculated, and There is a wide spread belief that a definite location can be compare it with the i of the same stars for 1950: - Let the found for this point from the data given in the Sūry& two values of Å be denoted by lz and dg, die being the value Siddhārta and other standard trbatiges. This impression is at the spoch of S. J., dg for the year 1950. Thenigde however wrong 
 
 should have a constant value, which is the colestial ... Its location has to be inferred from the co-ordinates 
 
@@ -4765,9 +4754,7 @@ It is to be noticed that though the laker of the 8.
 
 B us absorbed many of the ideas from Greek astronomy including the use of technical terms like horā, liptikā, kendra, etc., ho did not either blindly copy the Graeco-Chaldean data. From whichever source he might have got the ideas. he absorbed it correctly and made an attempt to fix up the actual V.E point, as required in Chaldean astronomy, otherwise his zero-point would have been coincident with Ptolemy's. We have shown that whatever the Hindu zero-point of the zodiac might be, it is not coincident with that of Ptolemy. 
 
-APPENDIX 5-C 
-
-Gnomon Measurements in the Aitaroya Brahmana 
+## APPENDIX 5-C Gnomon Measurements in Aitareya Brahmana 
 
 References to the observation of the solstice are found The Vedic year-long sacrifices were begun in the earliest in vory early litorature as the following passage from the times on the day following the winter solstice. Honoo the Aitareja Brāhmaṇa shows?: 
 
@@ -4801,9 +4788,7 @@ the sun remained stationary for 21 days and dot for going between these arrasama
 
 accuracy of observation possible for the Vedio Hindus by This obscure pagauge has been interpreted as follows their methods of measurement. They probably observed by Prof. P.O. Sengupta bis.lncient Indian Chronology. the noon-shadow of a vertical pole. 
 
-APPENDIX: 5-D Precession of the Equinoxes amongst 
-
-Indian Astronomers 
+## AP 5-D Precession of the Equinoxes amongst Indian Astronomers 
 
 On p. 226, we have given references to pre-Siddhāntio The surmise that the early Siddhāntic astronomers were notices of the location of the vernal point in the sky. We ignorant of the movement of the equinoxes is supported by saw that ancient Indian savants noticed its gradual shift the fact that neither of the early eminent astronomers ( due to procession ), but were only puzzled by the pheno 
 
@@ -4953,7 +4938,7 @@ We thus perceive that Indian astronomers up to the time of Bhāskarācārya were
 
 It will be sheer stupidity to hold to the theory of trepidation of equinoxes 270 years after it has been definitely proved to be wrong. The law of universal gravitation will not be changed by God Almighty to oblige astrologers. 
 
-APPENDIX 5-E The Jovian Years 
+## APPENDIX 5-E The Jovian Years 
 
 (Bārhaspatya Varṣa) 
 
@@ -4985,7 +4970,7 @@ The following are the names of the different years : (1) Prabhava (21) Sarvajit 
 
 The beginning of the Jovian years is determined by the entry of Jupiter into an Indian sign by mean motion, the 1st, 13th, 25th, 37th and 49th years being marked by the entry of Jupiter into the sign Kumbha, and not Meṣa which is otherwise the first of the signs of the Siddhāntas. It thus appears that the system of counting Jovian years is a pre-Siddhāntic practice 
 
-CORRIGENDA AND ADDENDA 
+## CORRIGENDA AND ADDENDA 
 
 Part A Page 2, 1st ool, line 36, For O § 4'10, read 0 8 4'9 Page 3, 2nd col. line 46, For happend, read happened Page 4, 1st col. line 12, For was, read were Page 21, 2nd col. No. 35, Insert Ceylon after Chavakachcheri 
 
@@ -5087,187 +5072,80 @@ Part C Page 157, 1st col. line 39, For mow-moon read now-moon Page 191, 2nd col.
 
 22°35' to 24°13'." Page 201, 2nd col. line 19, For neccessary, read necessary 
 
-BIBLIOGRAPHY 
-
-Achelis, Elisabeth (1955)-Of Time and the Calendar, 
-
-New York. Alter, D. & Cleminshaw, C. H. (1952)—Pictorial Astronomy, 
-
-New York. Aryabhaṭīya of Āryabhaṭa-translated with notes by 
-
-W. E. Clark, Chicago, 1930. American Ephemeris ' & Nautical Almanac for the years 
-
-1954 and 1955. Bachuofer, Dr. L. (1936)-Herrscher and Munzen in 
-
-spaten Kushanas, Journal of American Oriental 
-
-Society. Vol. 56. - (1941) On Greeks and Sakas in India, Journal of 
-
-American Oriental Sooiety, Vol. 61, p. 223. Basak, Dr. Radhagovinda (1950)--Kauţiliya Arthaśāstra, 
-
-Bengali translation, Calcutta. Bhandarkar (1927-34)—Inscriptions of Northern India, 
-
-Appendix to Epigraphia Indica, Vols. XIX-XXII. Brennand, W. (1896)-Hindu Astronomy. Burgess, Rev. E. (1935)-The Sūrya-Siddhānta, English 
-
-translation, with an introduction by P. O. Sengupta 
-
-(Republished by the Calcutta University). Clark, Walter Eugene (1930)—The Aryabhaṭīya of Arya 
-
-bhata, English translation with notes, Chicago. Couderc, Paul (1948)—Lo Calendrier, France. Cunningham, Alexander (1883)—Book of Indian Eras with 
-
-tables for calculating Indian dates, Calcutta. Debevoise (1938)—Political History of Parthia. Deydier (1951)-Le date de Kaniska etc. Journal Asiatique, 
-
-Vol. 239. Digha Nikāya (1890), Vol. I, Pali Text Book Society, Dikgit, S. B. (1896)—Bbāratiya Jyotiśāstra (in Mārāthi). Discovery (1953), Vol. XIV, p. 276, Norwich (Eng.). Dreyer, J.L.E. (1953)A History of Astronomy from 
-
-:: Thales to Kepler, Dover Publications, Inc. Dvivedi, Sudhākara (1925)-The Sūrya Siddhānta, translation 
-
-under his editorship, Asiatic Society of Bengal, Cal. Encyclopaedia Britannica (14th edition)- Articles on 
-
-Chronology, Calendar and Easter. Encyclopaedia of Religion & Ethics—Vols. I, II & III, Now 
-
-York (1911),---Articles on Calendar and Festivals. Epigraphia Indica, Vol. XXVII. Flammarion, C. & Gore, J. E. (1907)—Popular Astronomy, 
-
-London. Fotheringham, Dr. J. Ko (1935)-The Calendar, article 
-
-published in the Nautical Almanac, London 1935. Ginsel, F. K. (1906)-Handbuch der Mathematischen und 
-
-Technischen Chronologie, Bd. I, Leipzig. 
-
-Haug, Dr. Martin-Aitareya Brāhmaṇa of the Rig Veda. Herzfeld (1932)--Sakasthan, Archaeologische Mitteilungen 
-
-ans Iran. Jacobi, Prof. Hermann (1892)-The computation of Hindu 
-
-dates in inscriptions, Eph. Ind. Vol. I, p. 403. Jones, Sir H. Spencer (1934, 1955)-General Astronomy, 
-
-: London - (1952)—Calendar, Past, Present & Future . 
-
-\--a lecture delivered at the Royal Society of Arts, 
-
-London, 1952. - (1937) The measurement of time, published in the 
-
-Reports on Progress in Physics, Vol. IV, London. Journal of Calendar Reform, New York. Keith, Dr. Berriedalo—The Veda of the Black Yajur School 
-
-entitled Taittiriya Samhitā, Part. 2. Khandakhādyaka of Brahmagupta--Edited with an 
-
-introduction by Babua Misra-translated by P. C. 
-
-Sengupta (1934), Calcutta University, 1934. Konow, Dr. Sten (1929)-Corpus Inscriptionum Indicarum, 
-
-Vol.II, Karoṣthi Inscriptions. Krogdhal, Waslog. S.--The Astronomical Universe, U. S. A. Labiri, N. C. (1952)—Tables of the Sun, Calcutta. Luders (1909-10)– A list of Brāhmi Inscriptions from the 
-
-earliest times to 400 A.D. Appendix to Epigraphia Indica, Vol. X. (The references are given, 0.8., Luders 942, which means inscription No. 942 of 
-
-Lūders). Majumder, N. G. (1929) Inscriptions of Bengal, Rajshahi, 
-
-Bengal. Majumder, R. C. (1943)-The History of Bengal, Vol. I. 
-
-Dacca University. Nautical Almanac (British) for the years 1935 & 1954 to 1956. Neugebauer, O. (1952)—The Exact Sciences in Antiquity, 
-
-Princeton, New Jeresy, (1954) Babylonian Planetary Theory, Proceedings of the American Philosophical Society, Vol. 98. No. 1, 
-
-1954 Newcomb, Simon (1906)-A Compendium of Spherical 
-
-Astronomy, New York. Norton, Arthur P. (1950)-- A Star Atlas, London. Pannekoek, Antone (1916)--Calculation of Datos in Baby 
-
-lonian Tables of Planets, Proc. Roy. Soc. Amste 
-
-I, 1916, 684. - (1951)—The Origin of Astronomy, M. N. R. A. S., 
-
-Vol. III, No. 4, 1951. (1930)--Astrology and its influence upon the development of Astronomy—Jr.R. A. S. of Canada April, 1930. : 
-
-BIBLIOGRAPHY 
-
-273 
-
-Sir 
-
-Panth, B. D. (1944)–Consider the Calendar, New York. - Pillai, L. D. Swamikannu (1922)-An Indian Ephemeris, 
-
-Vol. I, Suptd. Govt. Press, Madras. Rapson (1922)——The Cambridge. History of India, 
-
-Val. I, Ancient India. Ray Chowdhury, H. C. (1938) Political History of Ancient 
-
-India, 5th edition, Calcutta University. Roy. J. C. (1903)-Amāder Jyotiṣ. O Jyotiṣi (Bengali). 
-
-Calcutta. Rufus, W. Carl (1942)-How to meet the fifth column in 
-
-Astronomy, Sky & Telescope, Jan, 1942, Vol. I, No. 3. Russell, H. N., Dugan, R. S., & Stewart, J. Q. (1945)— 
-
-Astronomy, 2 Vols, U. S. A. Sachau, Edward C. (1910)-Alberuni's India, English tran. : 
-
-slation in 2 Vols., London. Sachs, A. (1952)—Babylonian Horoscopes, Reprinted from 
-
-the Journal of Cunieform Studies, Vol. VI, No. 2. Saba, M. N. (1952)— Reform of the Indian Calendar, Science 
-
-& Culture, Vol. 18, 1952. 
-
-(1952)-Calender through Ages and Countries, Lecture delivered at the Andhra University, 1952. 
-
-(1953)-Different methods of Dato recording in Ancient and Medieval India and the origin of the śaka era—Jounal of the Asiatic Society, 
-
-Letters, Vol. XIX, No. 1, 1953. Sarton, George (1953)-A History of Science, Oxford 
-
-University Press, London. -- Introduction to the History of Science, Vol. III. Schmidt, Olaf (1951)-On the Computation of the Ahargaṇa, 
-
-Centaurus, September, 1952, 2. Copenhagen. Scientific American, 188, 6-25, 1953, New York. Sen, Sukumar (1941)-Old Persian Inscriptions of the 
-
-Achemenian Emperors, Calcutta University. Songupta, P. C. (1947)—Ancient Indian Chronology, Calcutta 
-
-University. - Articles published in the Śrī Bhāratz ( Bengali ) 
-
-(1925)-Khandakbādyaka of Brahmagupta edited 
-
-with an introduction, Calcutta University. Sowell. R. S. (1924)—The Siddhāntas and the Indian 
-
-Calendar. – (1912) – The Indian Chronography 
-
-Sowell, R. S. & Dikpit, S. B. (1896)-The Indian Calendar, 
-
-London. Shamasastry, R. (1936)-Vodānga Jyautisha-edited with 
-
-English translation & Sanskrit commentary. 
-
-Mysore. Sirkar, D. C. (1942)-Select inscriptions bearing on Indian 
-
-history and civilization, Calcutta University. Sky & Telescope, Vol. I, 1942 & Vol. XII, 1953, Cambridge, 
-
-Mass., U. S. A. Smrtitirtha, Pt. Radbavallabha-Siddhānta Siromani of 
-
-Bhāskarācārya-Bengali translation in 2 Vols. 
-
-Calcutta. Svāmi, Vijñānānanda (1909)—Sūrya Siddhānta, Bengali 
-
-translation with notes, Calcutta. Thibaut, G. (1889)-The Pañca Siddhāntikā-the Astrono. 
-
-mical works of Varā bamihira, odited by G. Thibaut 
-
-& Mm. Sudhakara Dvivedi, Banaras. Tilak, B. G. (1893)-Orion or Researches into the Antiquity 
-
-of the Vedas, Poona. Universal History of the World, Vols. I & II, edited by 
-
-J. H. Hammerton, London. Van der Waerden-Science Awakening. Van Lohuizen de Leeuw (1949)—The Scythian Period, 
-
-Leiden, (shortly called L. de. Leeuw or Leeuw with 
-
-page following). Varāhamihira—Bịhat Samhitā, Bengali translation by Pt. 
-
-Pañcānana Tarkaratna (1910), Calcutta. 5 Pañca Siddhāntikā—edited by G. Thibaut & Mm. 
-
-Sudhakara Dvivedi, Banaras, 1889. Watkins, Harold (1954)—Time Counts, London. Webster, A. G.--Dynamics of Particles and of Rigid 
-
-Elastic & Fluid bodies. Winternitz-History of Indian Literature, Vol. I, Calcutta 
-
-University. Woolard, Edgar W. (1942)—The Era of Nabonassor, article 
-
-published in the Sky & Telescope, Vol. I, No. 6, April, 
-
-1942. Yampolsky, Philip (1950)-The Origin of the Twenty-eight 
-
-Lunar mansions, published in Osiris, Vol. IX, 1950. Zinner, Dr. Ernest (1931)-Die Geschichte der Sternkunde, 
-
-Berlin. 
-
-INDEX 
+## BIBLIOGRAPHY 
+
+- Achelis, Elisabeth (1955)-Of Time and the Calendar, New York. 
+- Alter, D. & Cleminshaw, C. H. (1952)—Pictorial Astronomy, New York. 
+- Aryabhaṭīya of Āryabhaṭa-translated with notes by W. E. Clark, Chicago, 1930. 
+- American Ephemeris ' & Nautical Almanac for the years 1954 and 1955.
+- Bachuofer, Dr. L. (1936)-Herrscher and Munzen in spaten Kushanas, Journal of American Oriental Society. Vol. 56. - (1941) On Greeks and Sakas in India, Journal of American Oriental Sooiety, Vol. 61, p. 223. Basak, Dr. Radhagovinda (1950)--Kauţiliya Arthaśāstra, Bengali translation, Calcutta.
+- Bhandarkar (1927-34)—Inscriptions of Northern India, Appendix to Epigraphia Indica, Vols. XIX-XXII. Brennand, W. (1896)-Hindu Astronomy.
+- Burgess, Rev. E. (1935)-The Sūrya-Siddhānta, English translation, with an introduction by P. O. Sengupta (Republished by the Calcutta University).
+- Clark, Walter Eugene (1930)—The Aryabhaṭīya of Arya bhata, English translation with notes, Chicago.
+- Couderc, Paul (1948)—Lo Calendrier, France.
+- Cunningham, Alexander (1883)—Book of Indian Eras with tables for calculating Indian dates, Calcutta.
+- Debevoise (1938)—Political History of Parthia.
+- Deydier (1951)-Le date de Kaniska etc. Journal Asiatique, Vol. 239.
+- Digha Nikāya (1890), Vol. I, Pali Text Book Society
+- Dikgit, S. B. (1896)—Bbāratiya Jyotiśāstra (in Mārāthi).
+- Discovery (1953), Vol. XIV, p. 276, Norwich (Eng.).
+- Dreyer, J.L.E. (1953)A History of Astronomy from :: Thales to Kepler, Dover Publications, Inc.
+- Dvivedi, Sudhākara (1925)-The Sūrya Siddhānta, translation under his editorship, Asiatic Society of Bengal, Cal.
+- Encyclopaedia Britannica (14th edition)- Articles on Chronology, Calendar and Easter. Encyclopaedia of Religion & Ethics—Vols. I, II & III, Now York (1911),---Articles on Calendar and Festivals.
+- Epigraphia Indica, Vol. XXVII.
+- Flammarion, C. & Gore, J. E. (1907)—Popular Astronomy, London.
+- Fotheringham, Dr. J. Ko (1935)-The Calendar, article published in the Nautical Almanac, London 1935.
+- Ginsel, F. K. (1906)-Handbuch der Mathematischen und Technischen Chronologie, Bd. I, Leipzig. 
+- Haug, Dr. Martin-Aitareya Brāhmaṇa of the Rig Veda.
+- Herzfeld (1932)--Sakasthan, Archaeologische Mitteilungen ans Iran.
+- Jacobi, Prof. Hermann (1892)-The computation of Hindu dates in inscriptions, Eph. Ind. Vol. I, p. 403.
+- Jones, Sir H. Spencer (1934, 1955)-General Astronomy, : London - (1952)—Calendar, Past, Present & Future . \--a lecture delivered at the Royal Society of Arts, London, 1952. - (1937) The measurement of time, published in the Reports on Progress in Physics, Vol. IV, London. Journal of Calendar Reform, New York.
+- Keith, Dr. Berriedalo—The Veda of the Black Yajur School entitled Taittiriya Samhitā, Part. 2. Khandakhādyaka of Brahmagupta--Edited with an introduction by Babua Misra-translated by P. C. Sengupta (1934), Calcutta University, 1934.
+- Konow, Dr. Sten (1929)-Corpus Inscriptionum Indicarum, Vol.II, Karoṣthi Inscriptions.
+- Krogdhal, Waslog. S.--The Astronomical Universe, U. S. A.
+- Labiri, N. C. (1952)—Tables of the Sun, Calcutta.
+- Luders (1909-10)– A list of Brāhmi Inscriptions from the earliest times to 400 A.D.
+- Appendix to Epigraphia Indica, Vol. X. (The references are given, 0.8., Luders 942, which means inscription No. 942 of Lūders).
+- Majumder, N. G. (1929) Inscriptions of Bengal, Rajshahi, Bengal.
+- Majumder, R. C. (1943)-The History of Bengal, Vol. I. Dacca University.
+- Nautical Almanac (British) for the years 1935 & 1954 to 1956.
+- Neugebauer, O. (1952)—The Exact Sciences in Antiquity, Princeton, New Jeresy, (1954) Babylonian Planetary Theory, Proceedings of the American Philosophical Society, Vol. 98. No. 1, 1954 Newcomb, Simon (1906)-A Compendium of Spherical Astronomy, New York.
+- Norton, Arthur P. (1950)-- A Star Atlas, London.
+- Pannekoek, Antone (1916)--Calculation of Datos in Baby lonian Tables of Planets, Proc.
+- Roy. Soc. Amste I, 1916, 684. - (1951)—The Origin of Astronomy, M. N. R. A. S., Vol. III, No. 4, 1951. (1930)--Astrology and its influence upon the development of Astronomy—Jr.R. A. S. of Canada April, 1930. :
+- Panth, B. D. (1944)–Consider the Calendar, New York. 
+- Pillai, L. D. Swamikannu (1922)-An Indian Ephemeris, Vol. I, Suptd. Govt. Press, Madras.
+- Rapson (1922)——The Cambridge. History of India, Val. I, Ancient India.
+- Ray Chowdhury, H. C. (1938) Political History of Ancient India, 5th edition, Calcutta University.
+- Roy. J. C. (1903)-Amāder Jyotiṣ. O Jyotiṣi (Bengali). Calcutta.
+- Rufus, W. Carl (1942)-How to meet the fifth column in Astronomy, Sky & Telescope, Jan, 1942, Vol. I, No. 3.
+- Russell, H. N., Dugan, R. S., & Stewart, J. Q. (1945)— Astronomy, 2 Vols, U. S. A.
+- Sachau, Edward C. (1910)-Alberuni's India, English tran. : slation in 2 Vols., London.
+- Sachs, A. (1952)—Babylonian Horoscopes, Reprinted from the Journal of Cunieform Studies, Vol. VI, No. 2.
+- Saba, M. N. (1952)— Reform of the Indian Calendar, Science & Culture, Vol. 18, 1952. (1952)-Calender through Ages and Countries, Lecture delivered at the Andhra University, 1952. (1953)-Different methods of Dato recording in Ancient and Medieval India and the origin of the śaka era—Jounal of the Asiatic Society, Letters, Vol. XIX, No. 1, 1953.
+- Sarton, George (1953)-A History of Science, Oxford University Press, London. -- Introduction to the History of Science, Vol. III.
+- Schmidt, Olaf (1951)-On the Computation of the Ahargaṇa, Centaurus, September, 1952, 2. Copenhagen.
+- Scientific American, 188, 6-25, 1953, New York.
+- Sen, Sukumar (1941)-Old Persian Inscriptions of the Achemenian Emperors, Calcutta University.
+- Songupta, P. C. (1947)—Ancient Indian Chronology, Calcutta University. - Articles published in the Śrī Bhāratz ( Bengali ) (1925)-Khandakbādyaka of Brahmagupta edited with an introduction, Calcutta University.
+- Sowell. R. S. (1924)—The Siddhāntas and the Indian Calendar. – (1912) – The Indian Chronography Sowell, R. S. & Dikpit, S. B. (1896)-The Indian Calendar, London.
+- Shamasastry, R. (1936)-Vodānga Jyautisha-edited with English translation & Sanskrit commentary. Mysore.
+- Sirkar, D. C. (1942)-Select inscriptions bearing on Indian history and civilization, Calcutta University.
+- Sky & Telescope, Vol. I, 1942 & Vol. XII, 1953, Cambridge, Mass., U. S. A. Smrtitirtha, Pt. Radbavallabha-Siddhānta Siromani of Bhāskarācārya-Bengali translation in 2 Vols. Calcutta.
+- Svāmi, Vijñānānanda (1909)—Sūrya Siddhānta, Bengali translation with notes, Calcutta.
+- Thibaut, G. (1889)-The Pañca Siddhāntikā-the Astrono. mical works of Varā bamihira, odited by G. Thibaut & Mm. Sudhakara Dvivedi, Banaras.
+- Tilak, B. G. (1893)-Orion or Researches into the Antiquity of the Vedas, Poona. Universal History of the World, Vols. I & II, edited by J. H. Hammerton, London.
+- Van der Waerden-Science Awakening.
+- Van Lohuizen de Leeuw (1949)—The Scythian Period, Leiden, (shortly called L. de. Leeuw or Leeuw with page following).
+- Varāhamihira—Bịhat Samhitā, Bengali translation by Pt. Pañcānana Tarkaratna (1910), Calcutta. 5 Pañca Siddhāntikā—edited by G. Thibaut & Mm. Sudhakara Dvivedi, Banaras, 1889.
+- Watkins, Harold (1954)—Time Counts, London.
+- Webster, A. G.--Dynamics of Particles and of Rigid Elastic & Fluid bodies.
+- Winternitz-History of Indian Literature, Vol. I, Calcutta University.
+- Woolard, Edgar W. (1942)—The Era of Nabonassor, article published in the Sky & Telescope, Vol. I, No. 6, April, 1942.
+- Yampolsky, Philip (1950)-The Origin of the Twenty-eight Lunar mansions, published in Osiris, Vol. IX, 1950.
+- Zinner, Dr. Ernest (1931)-Die Geschichte der Sternkunde, Berlin. 
+
+## INDEX 
 
 171 
 
