@@ -5078,7 +5078,8 @@ Part C Page 157, 1st col. line 39, For mow-moon read now-moon Page 191, 2nd col.
 - Alter, D. & Cleminshaw, C. H. (1952)—Pictorial Astronomy, New York. 
 - Aryabhaṭīya of Āryabhaṭa-translated with notes by W. E. Clark, Chicago, 1930. 
 - American Ephemeris ' & Nautical Almanac for the years 1954 and 1955.
-- Bachuofer, Dr. L. (1936)-Herrscher and Munzen in spaten Kushanas, Journal of American Oriental Society. Vol. 56. - (1941) On Greeks and Sakas in India, Journal of American Oriental Sooiety, Vol. 61, p. 223. Basak, Dr. Radhagovinda (1950)--Kauţiliya Arthaśāstra, Bengali translation, Calcutta.
+- Bachuofer, Dr. L. (1936)-Herrscher and Munzen in spaten Kushanas, Journal of American Oriental Society. Vol. 56. - (1941) On Greeks and Sakas in India, Journal of American Oriental Sooiety, Vol. 61, p. 223. 
+- Basak, Dr. Radhagovinda (1950)--Kauţiliya Arthaśāstra, Bengali translation, Calcutta.
 - Bhandarkar (1927-34)—Inscriptions of Northern India, Appendix to Epigraphia Indica, Vols. XIX-XXII. Brennand, W. (1896)-Hindu Astronomy.
 - Burgess, Rev. E. (1935)-The Sūrya-Siddhānta, English translation, with an introduction by P. O. Sengupta (Republished by the Calcutta University).
 - Clark, Walter Eugene (1930)—The Aryabhaṭīya of Arya bhata, English translation with notes, Chicago.
