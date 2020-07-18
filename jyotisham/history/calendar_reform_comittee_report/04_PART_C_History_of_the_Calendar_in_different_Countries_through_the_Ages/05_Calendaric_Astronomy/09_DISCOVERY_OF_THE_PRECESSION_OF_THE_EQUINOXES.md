@@ -3,13 +3,7 @@ title = "09 DISCOVERY OF THE PRECESSION OF THE EQUINOXES"
 
 +++
 
-In the previous sections, we have stated how the Chaldean and Greek astronomers started giving 
-
-CALENDARIO ASTRONOMY 
-
-205 
-
-but is subject to variations which we may disregard at this stage. The shift is accumulative and in 100 years would amount to 1° 24', and in about 26000 years the first point will go completely round the ecliptic. The period depends upon certain factors and is not constant. 
+In the previous sections, we have stated how the Chaldean and Greek astronomers started giving but is subject to variations which we may disregard at this stage. The shift is accumulative and in 100 years would amount to 1° 24', and in about 26000 years the first point will go completely round the ecliptic. The period depends upon certain factors and is not constant. 
 
 The tropical year, or the year which decides the recurrence of seasons, is the time-interval for the return of the sun in its orbit, starting from the year's vernal equinoctial point to the next vernal equinoctial 
 
