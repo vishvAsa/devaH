@@ -3,7 +3,26 @@ title = "09 DISCOVERY OF THE PRECESSION OF THE EQUINOXES"
 
 +++
 
-In the previous sections, we have stated how the Chaldean and Greek astronomers started giving but is subject to variations which we may disregard at this stage. The shift is accumulative and in 100 years would amount to 1° 24', and in about 26000 years the first point will go completely round the ecliptic. The period depends upon certain factors and is not constant. 
+## Intro
+In the previous sections, we have stated how the Chaldean and Greek astronomers started giving
+positions of planets, and stars, with the point of intersection of the ecliptic and the equator—the first point of Aries-as the fiducial point. We shall now relate how the discovery was made that this point is not fixed in the heavens, but has a slow motion along the ecliptic to the west at the rate of ca. 50" per year. The rate is very small, but as it is unidirectional and cumulative, it is of immense importance to astronomy, and incidentally is very damaging to astrology. 
+
+When the sun, in course of its yearly journey arrives at the first point of Aries, we have the vernal equinox. The first point of Aries is therefore also called the vernal point. 
+
+## Possible awareness
+The position of the vernal point has rarely in the course of history, been occupied by a prominent star, but in India, as narrated in § 5:4, its nearness to star groups as well as the nearness of other cardinal points to star-groups have been noted from very early times. Traditions of different epochs record different stars as being near to the cardinal points. But nobody appeard to have drawn any conclusion from these records (vide for details § 5:4). 
+
+In Babylon also, different sets of positions of stars and planets record Aries 15°, Aries 10°, and Aries 8° (the zero is of Ptolemy's) as being the vernal point. But no Chaldean astronomer to our knowledge appears to have drawn any conclusion from these data. 
+
+## Hipparchos
+The first astronomer known to have drawn attention to the precession of the equinoxes was Hipparchos. He particularly mentions that the distance of the bright star Spica (α Virginis or Citrā). has shifted by 2° from the autumnal equinoctial point since the time of his predecessor **Timocharis** who observed at Alexandria about 280 B.C. He concluded that the autumnal point, and therefore also the vernal point, was moving westward at the rate of 51" seconds per year. 
+
+It is not known whether Hipparchos considered the motion as unidirectional. It was impossible for him to say anything definite on this point, as observations extending over centuries are required to enable one to make a definite statement on this point. 
+
+Though Hipparchos made, as time showed, one of the greatest astronomical discoveries of all times, which is all-important for the calendar, as well as for astronomy, its great importance does not appear to have been realized by either his contemporaries or followers for thousands of years. 
+
+## Consequences
+Let us, therefore, dwell a little on the consequences of this discovery. Later and more accurate observations have shown that the rate is nearly 50° per year, but is subject to variations which we may disregard at this stage. The shift is accumulative and in 100 years would amount to 1° 24', and in about 26000 years the first point will go completely round the ecliptic. The period depends upon certain factors and is not constant. 
 
 The tropical year, or the year which decides the recurrence of seasons, is the time-interval for the return of the sun in its orbit, starting from the year's vernal equinoctial point to the next vernal equinoctial 
 
@@ -11,29 +30,13 @@ tropical year would be the same as the sidereal year, which is the same as the t
 
 , , tropical. = 365.24220 at the present time. 
 
-Further Consequences of the Precession 
+### Further Consequences of the Precession 
 
 of the Equinoxes We may now consider some consequences of the 
 
-positions of planets, and stars, with the point of intersection of the ecliptic and the equator—the first point of Aries-as the fiducial point. We shall now relate how the discovery was made that this point is not fixed in the heavens, but has a slow motion along the ecliptic to the west at the rate of ca. 50" per year. The rate is very small, but as it is unidirec tional and cumulative, it is of immense importance to astronomy, and incidentally is very damaging to astrology. 
 
-When the sun, in course of its yearly journey arrives at the first point of Aries, we have the vernal equinox. The first point of Aries is therefore also called the vernal point. 
 
-The position of the vernal point has rarely in the course of history, been occupied by a prominent star, but in India, as narrated in § 5:4, its nearness to star groups as well as the nearness 'of other cardinal points to star-groups have been noted from very early times. Traditions of different epochs record different stars as being near to the cardinal points. But nobody appeard to have drawn any conclusion from these records (vide for details § 5:4). 
-
-In Babylon also, different sets of positions of stars and planets record Aries 15°, Aries 10°, and Aries 8° (the zero is of Ptolemy's) as being the vernal point. But no Chaldean astronomer to our knowledge appears to have drawn any conclusion from these data. 
-
-The first astronomer known to have drawn attention to the precession of the equinoxes was Hipparchos. He particularly mentions that the distance of the bright star Spica (α Virginis or Citrā). has shifted by 2o from the autumnal equinoctial point since the time of his predecessor Timocharis who observed at Alexandria about 280 B.C. He concluded that the autumnal point, and therefore also the vernal point, was moving westward at the rate of 511 seconds per year. 
-
-• It is not known whether Hipparchos considered the motion as unidirectional. It was impossible for him to say anything definite on this point, as obeservations extending over centuries are required to enable one to make a definite statement on this point. 
-
-Though Hipparchos made, as time showed, one of the greatest astronomical discoveries of all times, which is all-important for the calendar, as well as for astronomy, its great importance does not appear to have been realized by either his contemporaries or followers for thousands of years. 
-
-Let us, therefore, dwell a little on the consequences of this discovery.' Later and more accurate observa tions have shown that the rate is nearly 50° per year, 
-
-Hipparchos appears first to have marked out the 
-
-· beginning of the astronomical first point of Aries. It started go west of the star a Arietis. Ptolemy had found that it had shifted by his time by about 30, and gave the rate of precession as 36" per year. In this, he was wrong, the true shift being about 4'. Ptolemy in his 'Uranometry' gives the starting point of the sign of Aries as 6° to the west of ß Arietis, and the other constellations' marked at intervals of 30° may be marked out on the zodiac. The picture (Fig. 19) gives the boundaries of the different signs according to Hipparchos. The boundaries of the signs of Ptolemy would be 4o to the west of those of Hipparchos. 
+Hipparchos appears first to have marked out the beginning of the astronomical first point of Aries. It started go west of the star a Arietis. Ptolemy had found that it had shifted by his time by about 30, and gave the rate of precession as 36" per year. In this, he was wrong, the true shift being about 4'. Ptolemy in his 'Uranometry' gives the starting point of the sign of Aries as 6° to the west of ß Arietis, and the other constellations' marked at intervals of 30° may be marked out on the zodiac. The picture (Fig. 19) gives the boundaries of the different signs according to Hipparchos. The boundaries of the signs of Ptolemy would be 4o to the west of those of Hipparchos. 
 
 By the time of Ptolemy, (and probably much earlier), a complex system of astrology had developed which connected men's destiny in life with the position of planets in the different signs at the time of his birth (horoscopy). It was claimed that even 
 
@@ -41,7 +44,7 @@ calculated in advance from planetary positions in the signs. Though a few ration
 
 206 
 
-·In fact, belief in astrology was one of the main incentives for the observation of the positions of heavenly bodies in ancient and medieval times which were carried out by medieval astronomers with so much zeal under the willing patronage of influential persons. 
+In fact, belief in astrology was one of the main incentives for the observation of the positions of heavenly bodies in ancient and medieval times which were carried out by medieval astronomers with so much zeal under the willing patronage of influential persons. 
 
 The discovery of precession is very disconcerting to astrologers, for in the astrological lore, the signs are identified with certain fixed star-clusters ; whereas precession tends to take them entirely out of these star-clusters. Thus since Hipparchos's time, the shift has been nearly 30 degrees, and what was the sign of Pisces in Hipparchos's time has now become the sign of Aries, and the astronomical sign of Aries has now nothing to do with the Aries constellation, 
 
