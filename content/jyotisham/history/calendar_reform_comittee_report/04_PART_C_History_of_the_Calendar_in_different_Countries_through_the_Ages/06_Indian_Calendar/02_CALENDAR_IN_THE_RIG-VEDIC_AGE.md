@@ -3,19 +3,28 @@ title = "02 CALENDAR IN THE RIG-VEDIC AGE"
 
 +++
 
-( -1200 B.C.) The Vedic Literature : The knowledge of the calen dar in this age can be obtained only from the Vedic literature which consists however of different strata, greatly differing in age. According to the great orientalist Max Muller four periods each presupposing the preceding can be distinguished. They are : 
+( -1200 B.C.) 
 
-(a) The Chandas and Mantras composing the Samhitās or collections of hymns, prayers, incantations, benedictions, sacrificial formulas, and litanies 
+## The Vedic Literature
+The knowledge of the calendar in this age can be obtained only from the Vedic literature which consists however of different strata, greatly differing in age. According to the great orientalist Max Muller four periods each presupposing the preceding can be distinguished. They are : 
 
-The above gives the 'Philologists' stratification of the age of the Vedic literature. About the actual age of each strata, there is great divergence of opinion, though it is admitted that the oldest in point of age are the Samhitās, then come the Brāhmaṇas and 
+- (a) The Chandas and Mantras composing the Samhitās or collections of hymns, prayers, incantations, benedictions, sacrificial formulas, and litanies comprising the four Vedas : The Rk, Sara, Yajus, and Atharva. 
+- (b) The Brāhmaṇas which are prose texts containing theological matter, particularly observations on sacrifices and their mystical significances ; attached to the Brāhmaṇas, but reckoned also as independent works are the Aranyakas or Upaniṣads containing meditations of forest hermits and ascetics on God, the world, and mankind. These treatises are attached to each of the individual Vedas. 
+- (c) The Sutras or Aphorisms, or Vedangas. Vedāngas', lit. limbs of Vedas, are post-Vedic Sūtra or aphorism literature which grew as results of attempts to understand the Vedas in their various aspects, and sometimes to develop the ideas contained in the Vedas. According to the orthodox view, there are six Vedāngas as follows: 
+  - (1) Śikṣā : or phonetics; texts explaining how the Vedic literature proper is to be pronounced, and memorized. 
+  - (2) Kalpa : or ritualistic literature, of which four types are known : Srauta Sutras dealing with sacrifices ; Grhya Sutras dealing with domestic duties of a householder ; Dharma Sūtras dealing with religious and social laws; Sūlva Sūtras dealing with the construction of sacrificial altars. 
+  - (3) Vyakarana or Grammar, e.g., Panini's famous Aṣtādhyāyī, which once for all fixed up the Sanskrit language. The Aṣtādhyāyi is however the culmination of attempts by large number of older authors, whose works were rendered obsolete by Panini' masterpiece. 
+  - (4) Nirukta or Etymology: explanation of the Vedic words ascribed to one Yaska, who lived before Pānini. 
+  - (5) Chandas-Metrics ascribed to Pingala. 
+  - (6) Jyotiṣa-Astronomy: the Rg-Jyotiṣa is ascribed to one Lagadha, of whom nothing is known. 
 
-* Much of the substance-matter of this section is taken from Winternitz': A History of Indian Literature Vol. 1, published by the University of Calcutta. Chap. I, on Vedic Literature. 
+Only the sixth Vedanga or Jyotisa interests us, though there are occasional references to the calendar in all Sātra literatures. 
 
-INDIAN CALENDAR 
+## Age of the Vedic Literature \* 
+The above gives the 'Philologists' stratification of the age of the Vedic literature. About the actual age of each strata, there is great divergence of opinion, though it is admitted that the oldest in point of age are the Samhitās, then come the Brāhmaṇas and Upaniṣads, next the Sutras or the Vedangas. Of the four Vedas, the Rg-Vedas are by common consent taken to be the earliest in age and as Winternitz remarks, though all subsequent Indian literature refers to the Rg-Vedas, they presuppose nothing extant. 
 
-215 
+\* Much of the substance-matter of this section is taken from Winternitz': A History of Indian Literature Vol. 1, published by the University of Calcutta. Chap. I, on Vedic Literature. 
 
-Upaniṣads, next the Sutras or the Vedangas. Of the four Vedas, the Rg-Vedas are by common consent taken to be the earliest in age and as Winternitz remarks, though all subsequent Indian literature refers to the Rg-Vedas, they presuppose nothing extant. 
 
 · Max Muller made a rough assignment of age to the different strata as follows on the assumption that the Brahmanic and Upaniṣadic literature predated the rise of Buddhism, and that the Sutra literature which may be synchronous with the Buddhistic literature may be dated 600 B.C. to 200 B.C. Working backwards he assigned the Brāhmanic literature to 600 B.C. to 800 B.C., the interval 800 B.C. to 1000 B.C. 
 
