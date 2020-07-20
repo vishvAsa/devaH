@@ -3,6 +3,13 @@ title: +मानम्
 unicode_script: devanagari
 ---
 
+## Conversion tools
+- moon phases record - gregorian 1600s [here](http://astropixels.com/ephemeris/phasescat/phases1601.html) 
+  - The old style Julian calendar is used for dates prior to 1582 Oct 15, while the modern Gregorian calendar is used after that date. 
+- moon phases - gregorian 1700s	[here](http://astropixels.com/ephemeris/phasescat/phases1701.html)
+- 1957 calendar [here](http://www.bsswebsite.me.uk/Daysanddates/indiandate.htm) 	
+- Full julian gregorian converter [here](http://www.rosettacalendar.com/)
+
 ## कालमानम्
 - मुहूर्तनामानि [अत्र](https://imgur.com/Nx2J5VU), [अत्र](https://twitter.com/JoeAgneya/status/923818607154315269)।
 - वैदिकपरम्परायां कालगणना एतेन प्रकारेण क्रियते-
