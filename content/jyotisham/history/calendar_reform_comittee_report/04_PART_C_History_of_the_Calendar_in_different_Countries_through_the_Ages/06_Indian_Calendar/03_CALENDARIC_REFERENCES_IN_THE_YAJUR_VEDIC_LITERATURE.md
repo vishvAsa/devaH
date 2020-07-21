@@ -3,59 +3,57 @@ title = "03 CALENDARIC REFERENCES IN THE YAJUR VEDIC LITERATURE"
 
 +++
 
-The Yajur Veda gives the names of twelve months, 
+## Role
+The Atharva Veda consisting mostly of magic incantations also contain calendaric references, but we shall make only occasional use of them, as the text of this Veda has not probably come to us in unadulterated form, for the Atharva Veda was not regarded as holy as the Rg-Veda. 
 
-and the names of the lunar mansions with their 
+Of the two other Vedas, the Sama-Vedas contain no new matter than what is contained in the Rg-Veda. But there are copious calendaric reference in the Yajurveda for obvious reasons, which are clearly brought out in the following extracts from Winternitz's introductry remarks to Yajurvedic studies (p. 158-159) : 
 
-presiding deities, and talks of the sun's northernly and The Atharva Veda consisting mostly of magic southernly motion. We do not give the texts here, incantations also contain calendaric references, but.. but only Dr. Berriedale Keith's translation. we shall make only occasional use of them, as the text of this Veda has not probably come to us in unadul 
+"The two Samhitās (**Rk and Atharva**) which have so far been discussed have in common the fact that they were not compiled for special liturgical purposes. Although most of the hymns of the Rg-Veda could be, and actually were used for sacrificial purposes, and although the songs and spells of the Atharvaveda were almost throughout employed for ritualistic and magic purposes, yet the collection and arrangement of the hymns in these Samhitās have nothing to do with the various liturgical and ritualistic purposes. The **hymns were collected for their own sake** and arranged and placed in both these collections, with regard to their supposed authors or the singer-schools to which they belonged, partly also according to their contents and still more their external form - number of verses and such like. They are as we may say, collections of songs which pursue a **literary object**. 
 
-Taittiriya Samhitā, 4.4.11 terated form, for the Atharva Veda was not regarded (a) (Ye are) Madhu and Madhava, the months as holy as the Rg-Veda. 
+It is quite different with the Samhitās of the two other Vedas, the **Sāmaveda and the Yajurveda**. In these collections we find the songs, verses, and benedictions **arranged according to their practical purposes**, in **exactly the order in which they were used** at the sacrifice. These are, in fact, nothing more than prayer-books and song-books for the practical use of certain sacrificial priests - not indeed written books, but texts, which existed only in the heads of teachers and priests and were preserved by means of oral teaching and learning in the priests' schools. 
 
-of Spring. Of the two other Vedas, the Sama-Vedas contain no 
+The Yajurvedas were compiled for the use of the Adhvaryu priest "Executor of the Sacrifice" who performs all the sacrificial acts, and at the same time uttering prose prayers and sacrificial formulae (Yajus). They are the liturgical Satṁhitas, and prayer books of the priests. 
 
-(b) (Ye are) Sukra and Suci, the months of Summer. new matter than what is contained in the Rg-Veda. (c) (Ye are) Nabha and Nabhasya, the months But there are copious calendaric reference in the 
+## Branches
+There are two schools of the Yajurveda Sathith each with a number of recensions as shown below: 
 
-of Rain. Yajurveda for obvious reasons, which are clearly (d) (Ye are) Isa and Urja, the months of Autumn. brought out in the following extracts from Winternitz's (e) (Ye are) Sahas and Sahasya, the months introductry remarks to Yajurvedic studies (p. 158-159) : 
+- 1. The Black Yajurveda School, with the following recensions : 
+  - (A) The Kaṭhaka 
+  - (B) The Kapiṣṭhala-Kaṭha-Samhita, which is preserved only in a few fragments of manuscript.
+  - (c) The Maitriyaṇī-Saṁhitā - shortly called M. S. 
+  - (d) The 'Taittiriys-Bahiti, also called "Apatamba Saṁhitā" after the Apostamba-School, one of the chief schools in which this text was taught - shortly called T. S. 
+- These four recensions are closely inter-related, and are designated As belonging to the "Black Yajurveda". Differing from them is the White Yajurveda which is known as śukla Yajurveda. 
+- 2. The Vajnaneyi-Samhita shortly called V. S. which takes its name from yājṇavalkya Vājasaneya, the chief teacher of this Veda. Of this Vājasaneyī-Saṁhitā there are two recensions, that of the kāṇva and that of the Madhyandina-school, which however differ very little from each other.
 
-; of (Early) Winter (Hemania). "The two Sambitās (Rk and Atharva] which have so far 
+Winternitz gives reasons to believe that the Samhitas of the Black Yajurveda school are older than those of the White school. 
 
-(f) (Ye are) Tapas and Tapasya, the months of been discussed have in common the fact that they were not 
+Even such a conservative thinker as Berriedale Keith gives 600 B.C. as the terminus ad quem for the verses of the Yajurveda Samhita. As we shall see, there are references which point to a much earlier origin. 
 
-cool season. compiled for special liturgical purposes. : Although most of the hymns of the Rg-Veda could be, and actually were * There are two schools of the Yajurveda Samhitā each with. used for sacrificial purposes, and although the songs and a number of recensions as shown below : spells of the Atharvavoda were almost throughout employed 1. The Black Yajurveda School, with the following recensions : for ritualistic and magic purposes, yet the collection and 
+## Months and lunar mansions
+The Yajur Veda gives the names of twelve months and the names of the lunar mansions with their presiding deities, and talks of the sun's northernly and southernly motion. We do not give the texts here, but only Dr. Berriedale Keith's translation. 
 
-(a) The Kathaka agrrengament of the hymns in these Samhitās have nothing 
+Taittiriya Samhita, 4.4.11 
+- (a) (Ye are) Madhu and Madhava, the months of Spring. 
+- (b) (Ye are) Sukra and Suci, the months of Summer. 
+- (c) (Ye are) Nabha and Nabhasya, the months of Rain. 
+- (d) (Ye are) Isa and Orja, the months of Autumn. 
+- (e) (Ye are) Sahas and Sahasya, the months of (Early) Winter (Hemanta). 
+- (f) (Ye are) Tapas and Tapasya, the months of cool season. 
 
-(b) The Kapiṣthala-Katha-Samhits, which is preserved only to do with the various liturgical and ritualistic purposes. 
+The month-names which are given here and repeated in many other verses of the Yajur Veda have been interpreted by all authorities to be **tropical**. Further this is probably the earliest mention of month names in Indian literature ; these names are no longer in use, and have been replaced by lunar month-names (Castra, Vaisakha, etc.) which are, however, found at a later stage. 
 
-in a few fragments of manuscript. 
+Madhu and Madhava have been taken in **later literature** to correspond to the time-period when the **sun moves from -30° to 30° along the ecliptic**, and so on for the other months. But we have no reason to believe that the Yajurvedic priests had developed such a fine mathematical sense of seasonal definition. But it is almost certain that they must have developed some method of observing the cardinal points of the sun's yearly course, viz., the two solstices and the equinoxes. From these observations, they must have counted that the number of days in a year was 366 in round numbers. 
 
-(c)'The Maitråyani-Samhitā—shortly called M. 8. The hymns were collected for their own sake and arranged 
+## ayana-s
+The Yajur-Veda speaks in many places of the Uttarāyaṇa, the northernly course of the sun from winter solstice to summer solstice and the Dakṣiṇāyana or the southernly course from summer solstice to winter solstice and the Viṣuvān, or the equinoctial point. The ayanas or courses must have received their designation from daily notings of sunrise on the eastern horizon. The year-long observation of shadows cast by a **gnomon**, of which we have evidences, may have formed an alternative method for fixing up the solstitial days, and the cardinal points on the horizon, (vide Appendix 5-C), where some passages from the Aitareya Brāhmaṇa attached to the Rg-Veda are stated in favour of the view that the cardinal points were observed by means of the gnomon. 
 
-(d) The Taittiriya-Sanhita, also called “Apastamba and placed, in both these collections, with regard to their 
+Once they learnt to **anticipate the cardinal days**, determination of the month-beginnings marking seasons would not be difficult. The **Madhu-month** (the first month of spring) would begin **30 or 31 days before the vernal equinox** day or **61 days after the winter solstice** day, and the Madhava month on the day after the equinoctial day and so on. Average length of 30.5 days (366/12) would be given to each month, or 30 and 31 days to the two months forming a season. 
 
-Samhita" after the Apastamba-School, one of the chief supposed authors or the singer-schools' to which they 
+## The Nakshatras 
 
-schools in which this text was taught-shortly called T. 8. belonged, partly also according to their contents and still These four recensions are closely inter-related, and are designated more their externer fom-number of verses and such like. 48 belonging to the "Black Yajurvela". Differing from them is the They are as we may say, collections of songs which pursue a 
+One of the peculiar features of the Indian calendars is the use of the Nakṣatras as explained in § 4.1. Evidences have been given that the custom started from Rg-Vedic times. But we come across a full list of Nakṣatras only in the Yajurveda with names of presiding deities as given in Table No. 10 (p. 220 ), taken from Dikṣit's Bharatīya Jyotiśāstra. 
 
-White Yajurveda which is known as Bukla Yajurveda. literary object. 
-
-2. The Vájasaneyi-Samhita shortly called V. 8. which takes ita. 
-
-name from Yājñavalkya Vájasaneya, the chief teacher of this Veda It is quite different with the Samhitās of the two other 
-
-Of this Vajabaneyi-Samhita there are two recensione, that of the Vedas, the Sāmaveda and the Yajurveda. In these collections Kånva and that of the Madhyandina-school, which however differ we find the songs, verses, and benedictions arranged very little from each other. INDIAN CALENDAR 
-
-219 
-
-The month-names which are given here and repeated in many other verses of the Yajur Veda have been interpreted by all authorities to be tropical. Further this is probably the earliest mention of month names in Indian literature ; these names are no longer in use, and have been replaced by lunar month-names (Castra, Vaisakha, etc.) which are, however, found at a later stage. 
-
-Madhu and Madhava have been taken in later literature to correspond to the time-period when the sun moves from -30° to 30° along the ecliptic, and so on for the other months. But we have no reason to believe that the Yajurvedic priests had developed such a fine mathematical sense of seasonal definition. But it is almost certain that they must have developed some method of observing the cardinal points of the sun's yearly course, viz., the two solstices and the equinoxes. From these observations, they must have counted that the number of days in a year was 366 in round numbers. 
-
-The Yajur-Veda speaks in many places of the Utlarāyana, the northernly course of the sun from winter solstice to summer solstice and the Dakṣiṇāyana or the southernly course from summer solstice to winter solstice and the Viṣuvān, or the equinoctial point. The ayanas or courses must have received their designation from daily notings of sunrise on the eastern horizon. The year-long observation of shadows cast by a gnomon, of which we have evidences, may have formed an alternative method for fixing up the solstitial days, and the.cardinal points on the horizon, (vide Appendix 5-C), where some passages from the Aitareya Brāhmaṇa attached to the Rg-Veda are stated in favour of the view that the cardinal points were observed by means of the gnomon. 
-
-Once they learnt to anticipate the cardinal days, determination of the month-beginnings marking seasons would not be difficult. The Madhu-month (the first month of spring) would begin 30 or 31 days before the vernal equinox day or 61 days after the winter solstice day, and the Madhava month on the day after the equinoctial day and so on. Average length of 303 days (909) would be given to each month, or 30 and 31 days to the two months forming a season. 
-
-There are several points to be noticed in this list, which may be compared with the list given on p. 210. 
+There are several points to be noticed in this list, which may be compared with the list given on p. 210.
 
 First, the nakṣatras start with Krttikās which all authorities identify with the conspicuous group Pleiades. What is the significance of this ? 
 
@@ -74,10 +72,6 @@ No. 6 Tiṣya for Puṣya No. 16 Rohini for Jyestha ( There are thus two Rohinis
 No. 27 Apabharani for Bharani . The more important question is whether the lunar mansions denote definite clusters of stars, or the nakṣatra-divisions of later times amounting to 13° 20' Or 800 minutes ? This point has been discussed in 8 4'1. 
 
 ved by means view that the corner Veda are 
-
-The Nakshatras 
-
-One of the peculiar features of the Indian calendars is the use of the Nakṣatras as explained in § 4'1. Evidences have teen given that the custom started from Rg-Vedic times. But we come across a full list of Nakṣatras only in the Yajurveda' with names of presiding deities as given in Table No. 10 (p. 220 ), taken from Dikṣit's Bharatīya Jyotiśāstra. 
 
 O. R.-36 
 

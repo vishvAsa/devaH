@@ -264,7 +264,7 @@ unicode_script: devanagari
 
 {{<figure src="../../images/naxatra/wiki/vishAkhA.png" title="विशा॑खे" class="thumbnail">}}
 {{<figure src="../../images/naxatra/stellarium/vishAkhA.png" title="विशा॑खे" class="thumbnail">}}  
-+++(α, β Librae। रामायणानुसारम् इक्ष्वाकूणां नक्षत्रम्।)+++
++++(α, β Librae। रामायणानुसारम् इक्ष्वाकूणां नक्षत्रम् - 6.4.51।)+++
 
 दू॒रम् अ॒स्मच्छत्र॑वो यन्तु भी॒ताः। तद् इ॑न्द्रा॒ग्नी कृ॑णुता॒म् तद् विशा॑खे।  
 तन् नो॑ दे॒वा अनु॑मदन्तु य॒ज्ञम्। प॒श्चात् पु॒रस्ता॒द् अभ॑यन् नो अस्तु।  

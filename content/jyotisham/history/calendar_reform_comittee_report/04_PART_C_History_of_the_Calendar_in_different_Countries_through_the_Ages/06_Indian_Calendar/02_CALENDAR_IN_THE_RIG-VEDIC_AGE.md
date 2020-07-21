@@ -158,48 +158,18 @@ This verse shows that the custom of **designating the day** (it means day and ni
 
 There is evidence that some kind of a short period yuga, probably the **five yearly yuga** of later times, in which the **moon's phases roughly recur**, and which was the chief theme of the Vedānga Jyotiṣa was known in Rg-Vedic times as the following quotation shows : 
 
-Rg-Sainhetā, 1.158.6. . Dirghatamā māmateyo jujurvān daśame yuge apāmartham yatinām Brahmā bhavati sārathih 
+दी॒र्घत॑मा मामते॒यो  
+जु॑जु॒र्वान् द॑श॒मे यु॒गे ।  
+अ॒पाम् अर्थं॑ य॒तीनां॑  
+ब्र॒ह्मा भ॑वति॒ सार॑थिः ॥ १.१५८.०६
 
 Translation : Dirghatamā the son of Mamatā having grown old in the tenth yuga became the charioter of the karma which leads to semi-result. 
 
-The most rational explanation of the word yuga here is probably the five yearly yuga of Vedānga Jyotiṣa for it is rational to expect that a man becomes old after he attains the 50th year. But there have been other explanations. 
+The most rational explanation of the word yuga here is probably the five yearly yuga of Vedānga Jyotiṣa for it is rational to expect that a man becomes **old after he attains the 50th year**. But there have been other explanations. 
 
-The Seasons and the Year The most commonly used word for year in the Indian literature is Varṣa or Vatsara. The word 
+## The Seasons and the Year 
+The most commonly used word for year in the Indian literature is Varṣa or Vatsara. The word Varṣa is very similar to Varṣā, the rainy season, and is probably derived from it. But curiously enough, this word is not found in Rg-Vedas. But the words Śarad (Autumn), Hemanta (early Winter) etc., are very often found to denote 'seasons" and sometimes years, just as in English we very often say 'A young lady of eighteen summers'.
 
-Versa' is very similar to Varṣā, the rainy season, and is probably derived from it. But curiously enough, this word is not found in Rg-Vedas. But the words Śarad (Autumn), Hemanta (early Winter) etc., are very often found to denote 'seasons" and sometimes years, 
 
-218 
-
-just as in English we very often say 'A young lady of According to their practical purposes, in exactly the order in eighteen summers'. 
-
-which they were used at the sacrifice. These are, in fact, Summary : The above passages show that the 
-
-nothing more than prayer-books and song-books for the Rg-Vedic Aryans, who must be placed at least before 
-
-practical use of certain sacrificial priests—not indeed 1200 B.C., had a luni-solar calendar, and used 
-
-written books, but texts, which existed only in the beads of 
-
-teachers and priests and were preserved by means of oral intercalary months. We do not have, however, their 
-
-teaching and learning in the priests' schools.* names for the 12 months, and there is no clue to find out how the intercalary month which is mentioned 
-
-The Yajurvedas were compiled for the use of the at one place was introduced. It appears that they 
-
-Adhvaryu priest "Executor of the Sacrifice" who performs all denoted individual days by the nakṣatra i.e., by the 
-
-the sacrificial acts, and at the same time uttering prode 
-
-prayers and sacrificial formulae (Yajus). They are the lunar asterism in which the moon is found at the 
-
-liturgical Samhitās, and prayer books of the priests, night, and hence it is permissible to deduce that they used the lunar zodiac for describing the motion of 
-
-Winternitz gives reasons to believe that the the moon. There is no mention of the tithi (or the 
-
-Samhitas of the Black Yajurveda school are older than lunar day) widely used in Indian calendars, in the 
-
-· those of the White school. Rg-Vedas. The solar year was probably taken to Even such a conservative thinker as Berriedale consist of 366 days, of which 12 were dropped for Keith gives 600 B.C. as the terminus ad quem for the luni-solar adjustment. 
-
-verses of the Yajurveda Samhita. As we shall see, there are references which point to a much earlier 
-
-origin. 
+## Summary
+The above passages show that the Rg-Vedic Aryans, who must be placed at least before 1200 B.C., had a **luni-solar calendar, and used intercalary months**. We do not have, however, their names for the 12 months, and there is no clue to find out how the intercalary month which is mentioned at one place was introduced. It appears that they **denoted individual days by the nakṣatra** i.e., by the lunar asterism in which the moon is found at the night, and hence it is permissible to deduce that they used the lunar zodiac for describing the motion of the moon. There is no mention of the tithi (or the lunar day) widely used in Indian calendars, in the Rg-Vedas. The **solar year** was probably taken to consist of **366 days**, of which **12 were dropped for luni-solar adjustment**.
