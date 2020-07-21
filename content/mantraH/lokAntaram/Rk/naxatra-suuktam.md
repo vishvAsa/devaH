@@ -48,7 +48,7 @@ unicode_script: devanagari
 रोच॑मानायै॒ स्वाहा॑ प्र॒जाभ्यः॒ स्वाहा॑।  
 
 ### टिप्पणिः
-- रोहिद्वर्णा नाम्नैव। ब्रह्महृदयं = capella = beta taurii खलु रोहिणीशकटे (Taurus-मुखम्) वर्तते।
+- रोहिद्वर्णा नाम्नैव। ब्रह्महृदयं = capella = β taurii खलु रोहिणीशकटे (Taurus-मुखम्) वर्तते।
 - प्रजापत्यनुसरणकथा पश्चादुच्यते।
 - विषुवदिनम् अत्रावर्तत ३००० BCE इति वर्षे।
 
@@ -71,8 +71,8 @@ unicode_script: devanagari
 
 ### टिप्पणिः
 - "प्रजापतेर् यत् सहजम् पुरस्तात्" इत्यनेन मृगशीर्षे ऽव्यङ्गस्योल्लेखो विशुवकाल इति केचित् - (~Apr 26 Julian 4500 BCE  [TW](https://twitter.com/blog_supplement/status/664525633217830915))।
-- "Some take this to be the 3 stars on the head of Orion (\phi 1, \phi 2, \lambda Orionis), which is how they are denoted in classical astronomy. "
-- "In Vaidika reckoning the core of Mṛga was Orion with the arrow of Rudra shot through it (See below). The arrow is identified with the three stars of the belt of Orion (\zeta , \epsilon , \delta Orionis). " ता इण्वकाः। "Taittirīya Brāhmaṇa 1.5.1.1 states: somasyenvakā vitatāni ।" - ([MT](https://manasataramgini.wordpress.com/2017/07/01/a-note-on-the-asterisms-forming-the-nak%e1%b9%a3atra-s/))
+- "Some take this to be the 3 stars on the head of Orion (φ 1, φ 2, λ Orionis), which is how they are denoted in classical astronomy. "
+- "In Vaidika reckoning the core of Mṛga was Orion with the arrow of Rudra shot through it (See below). The arrow is identified with the three stars of the belt of Orion (ζ , ε , δ Orionis). " ता इण्वकाः। "Taittirīya Brāhmaṇa 1.5.1.1 states: somasyenvakā vitatāni ।" - ([MT](https://manasataramgini.wordpress.com/2017/07/01/a-note-on-the-asterisms-forming-the-nak%e1%b9%a3atra-s/))
 - मृगशीर्षकथा ऽध आर्द्राभागे दृश्या।
 
 
@@ -91,7 +91,7 @@ unicode_script: devanagari
 रु॒द्राय॒ स्वाहा॒ऽऽर्द्रायै॒ स्वहा॑। पिन्व॑मानायै॒ स्वाहा॒ प॒शुभ्यः॒ स्वाहा॑।  
 
 ### टिप्पणिः
-- "ārdrayā rudraḥ prathamānam eti । This means that he original Ārdrā was likely seen as a bright star. Now, while both \alpha Ori and \alpha Canis Majoris are bright stars, \alpha Ori is too close to Mṛgaśiras making \alpha Can Ma more likely, and is also closer to the position of the later yogatāra (\gamma Geminorum) when projected on to the ecliptic."
+- "ārdrayā rudraḥ prathamānam eti । This means that he original Ārdrā was likely seen as a bright star. Now, while both α Ori and α Canis Majoris are bright stars, α Ori is too close to Mṛgaśiras making α Can Ma more likely, and is also closer to the position of the later yogatāra (γ Geminorum) when projected on to the ecliptic."
 - "In the brāhmaṇa on the nakṣatra ritual in TB 1.5.1.1 the name Ārdrā is replaced by Mṛgayu which is always understood as Sirius: rudrasya bāhū mṛgayavaḥ".
 - Further, this is supported by the evidence of the Aitareya Brāhmaṇa on the famed āgnimāruta-śastra recitation:  प्रजापतिबाणो हि orion belt इति। स बाणो रोहिणीम् अनुसरते प्रजापतये। पूर्णकथा [ऽत्र](../../../../kalpaH/brAhmaNam/aitareya/tattvam/pashupati-prajApati-rohiNI/)।
 - "Further, the name Ārdrā means moist indicating a link with the wet season. The Iranian equivalent of Sirius, Tishtrya is also associated with rain suggesting that Ārdrā inherits this ancestral association."
@@ -100,7 +100,7 @@ unicode_script: devanagari
 
 {{<figure src="../../images/naxatra/wiki/punarvasU.png" title="पुन॒र्वसू" class="thumbnail">}}
 {{<figure src="../../images/naxatra/stellarium/punarvasU.png" title="पुन॒र्वसू" class="thumbnail">}}  
-+++(\alpha , \beta Geminorum - Castor and Pollux)+++
++++(α , β Geminorum - Castor and Pollux)+++
 
 पुन॑र् नो दे॒व्य् अदि॑तिस् स्पृणोतु +++(=प्रीणयतु)+++। पुन॒र्वसू नᳶ॒ पुन॒र् एता॑य्ँ य॒ज्ञम्।  
 पुन॑र् नो दे॒वा अ॒भिय॑न्तु॒ सर्वे॑। पुनᳶ॑ पुनर् वो ह॒विषा॑ यजामः।  
@@ -141,7 +141,7 @@ unicode_script: devanagari
 {{<figure src="../../images/naxatra/wiki/AshreShA.png" title="आश्रेषाः" class="thumbnail">}}
 {{<figure src="../../images/naxatra/stellarium/AshreShAH.png" title="आश्रेषाः" class="thumbnail">}}  
 
-+++(δ, ε, η, ρ, σ, theta Hydrae)+++  
++++(δ, ε, η, ρ, σ, θ Hydrae)+++  
 
 इ॒दꣳ स॒र्पेभ्यो॑ ह॒विर् अ॑स्तु॒ जुष्ट॑म्। आ॒श्रे॒षा येषा॑मनु॒यन्ति॒ चेतः॑।  
 ये अ॒न्तरि॑क्षम् पृथि॒वीङ् क्षि॒यन्ति॑+++(=अधिवसन्ति)+++। ते न॑स् स॒र्पासो॒ हव॒म् आग॑मिष्ठाः।  
@@ -153,7 +153,7 @@ unicode_script: devanagari
 द॒न्द॒शूके॑भ्यः॒ स्वाहा॑॥  
 
 ### टिप्पण्यः
-- "It corresponds to the head of the Greek constellation of Hydra, suggesting that the link to a snake goes back to early Indo-European times. Āśleṣā is specifically associated with the head of the snake. Hence, the 6 stars should correspond to \theta , \zeta , \epsilon , \delta , \sigma , \eta Hydrae."
+- "It corresponds to the head of the Greek constellation of Hydra, suggesting that the link to a snake goes back to early Indo-European times. Āśleṣā is specifically associated with the head of the snake. Hence, the 6 stars should correspond to θ , ζ , ε , δ , σ , η Hydrae."
 - वेदाङ्गज्योतिषानुसारम् अस्य मध्य आसीद् अयनारम्भः ~ ११०० BCE इत्यस्मिन्।
 
 ## मघाः - पितरः
@@ -179,7 +179,7 @@ unicode_script: devanagari
 
 {{<figure src="../../images/naxatra/wiki/maghA.png" title="फल्गु॑न्यः" class="thumbnail">}}
 {{<figure src="../../images/naxatra/stellarium/pUrva-phAlgunyau.png" title="फल्गु॑न्यः" class="thumbnail">}}  
-+++(=δ, theta Leonis)+++ 
++++(=δ, θ Leonis)+++ 
 
 गवा॒म् पतिः॒ फल्गु॑नीनाम् असि॒ त्वम्। तद॑र्यमन् वरुणमित्र॒ चारु॑।  
 तन् त्वा॑ व॒यꣳ स॑नि॒तारꣳ॑ +++(=दातारं)+++ सनी॒नाम् +++(=दातव्यानाम्)+++। जी॒वा जीव॑न्त॒मुप॒ सव्ँवि॑शेम।  
@@ -199,7 +199,7 @@ unicode_script: devanagari
 
 {{<figure src="../../images/naxatra/wiki/maghA.png" title="फल्गुन्यः" class="thumbnail">}}
 {{<figure src="../../images/naxatra/stellarium/uttara-phAlgunyau.png" title="फल्गुन्यः" class="thumbnail">}}  
-+++(Denebola - beta, 93 Leonis)+++
++++(Denebola - β, 93 Leonis)+++
 
 श्रेष्ठो॑ दे॒वाना॑म् भगवो भगासि।  तत् त्वा॑ विदु॒ᳶ फल्गु॑नी॒स्, तस्य॑ वित्तात् +++(=विद्धि)+++।  
 अ॒स्मभ्य॑ङ् क्ष॒त्रम् अ॒जरꣳ॑ सु॒वीर्य॑म्। गोम॒द् अश्व॑व॒द् उप॒ सन् नु॑दे॒ह।  
@@ -215,13 +215,13 @@ unicode_script: devanagari
 
 {{<figure src="../../images/naxatra/wiki/hasta.png" title="हस्तः" class="thumbnail">}}
 {{<figure src="../../images/naxatra/stellarium/hastaH.png" title="हस्तः" class="thumbnail">}}  
-+++(Corvus- \alpha , \beta , \gamma , \delta , \epsilon Corvi.)+++
++++(Corvus- α , β , γ , δ , ε Corvi.)+++
 
 आया॒तु दे॒वस् स॑वि॒तोप॑यातु। हि॒र॒ण्यये॑न सु॒वृता॒ रथे॒न।  
 वह॒न्॒ हस्तꣳ सु॒भग॑व्ँ विद्म॒नाप॑सम् +++(=विदितकर्मणा युक्तम्)+++। प्र॒यच्छ॑न्त॒म् पपु॑रि॒म् +++(=पूरयितारम्)+++ पुण्य॒म् अच्छ॑ +++(=अभिमुखं वर्तमानम्)+++।
 
 हस्तᳶ॒ प्रय॑च्छत्व् अ॒मृत॒व्ँ वसी॑यः। दक्षि॑णेन॒ प्रति॑गृभ्णीम एनत्।  
-दा॒तार॑म् अ॒द्य स॑वि॑ता वि॑देय +++(=लभेय)+++। यो नो॒ हस्ता॑य प्रसु॒वाति॑ य॒ज्ञम्॥  
+दा॒तार॑म् अ॒द्य +++([यः])+++ स॑वि॑ता वि॑देय +++(=लभेय)+++। यो नो॒ हस्ता॑य प्रसु॒वाति॑ य॒ज्ञम्॥  
 
 स॒वि॒त्रेस्वाहा॒ हस्ता॑य स्वाहा॑  
 ऽऽदद॒ते स्वाहा॑ पृण॒ते स्वाहा॑  
@@ -292,7 +292,7 @@ unicode_script: devanagari
 
 {{<figure src="../../images/naxatra/wiki/anUrAdhAH.png" title="अ॒नू॒रा॒धाः" class="thumbnail">}}
 {{<figure src="../../images/naxatra/stellarium/anUrAdhAH.png" title="अ॒नू॒रा॒धाः" class="thumbnail">}}  
-+++(β, δ, eta, rho Scorpionis)+++
++++(β, δ, η, ρ Scorpionis)+++
 
 ऋ॒द्ध्यास्म॑ ह॒व्यैर् न॑मसो॒पसद्य॑,, 
 मि॒त्रन् दे॒वं+++(।)+++, मि॑त्र॒धेय॑न् +++(=मित्रेण सम्पाद्यन्)+++ नो अस्तु।  
@@ -344,7 +344,7 @@ unicode_script: devanagari
 
 {{< figure src="../../images/naxatra/wiki/aShADhAH.png" title="" class="thumbnail">}}  
 {{< figure src="../../images/naxatra/stellarium/pUrva-aShADhAH.png" title="" class="thumbnail">}}  
-+++(δ, gamma, eta and ε Sagittarii। जलरूपाया आकाशङ्गङ्गायाः केन्द्रम् अस्य पार्श्वे।)+++
++++(δ, γ, η and ε Sagittarii। जलरूपाया आकाशङ्गङ्गायाः केन्द्रम् अस्य पार्श्वे।)+++
 
 या दि॒व्या आपᳶ॒ पय॑सा सम्बभू॒वुः+++(=आकाशगङ्गा पार्श्वे वर्तमाना)+++। +++(मेघादिरूपा)+++ या अ॒न्तरि॑क्ष उ॒त +++(नद्यादिषु)+++ पार्थि॑वी॒र् याः।  
 यासा॑मषा॒ढा अ॑नु॒यन्ति॒ काम॑म्। ता न॒ आपः॒ शꣳ स्यो॒ना +++(=सुखहेतवः)+++ भ॑वन्तु।  
@@ -361,7 +361,7 @@ unicode_script: devanagari
 
 {{< figure src="../../images/naxatra/wiki/aShADhAH.png" title="" class="thumbnail">}}  
 {{< figure src="../../images/naxatra/stellarium/uttara-aShADhAH.png" title="" class="thumbnail">}}  
-+++(phi, ζ, tau and σ Sagittarii)+++
++++(φ, ζ, tau and σ Sagittarii)+++
 
 तन् नो॒ विश्वे॒ उप॑ शृण्वन्तु दे॒वाः। तद् अ॑षा॒ढा अ॒भिसंय॑न्तु य॒ज्ञम्।  
 तन् नक्ष॑त्रम् प्रथताम् प॒शुभ्यः॑। कृ॒षिर् वृ॒ष्टिर् यज॑मानाय कल्पताम्।  
@@ -437,7 +437,7 @@ unicode_script: devanagari
 भे॒ष॒जेभ्यः॒ स्वाहा॑।  
 
 ### टिप्पणिः
-"There is an asterism of Iranians known as Satavaēsa, which we hold to be the equivalent of the Vedic one. The Iranian asterism was associated with the sea while the Vedic one with Varuṇa. The possibility of Fomalhaut (\alpha  Pisces Austrinisis) being this star is not implausible."
+"There is an asterism of Iranians known as Satavaēsa, which we hold to be the equivalent of the Vedic one. The Iranian asterism was associated with the sea while the Vedic one with Varuṇa. The possibility of Fomalhaut (α  Pisces Austrinisis) being this star is not implausible."
 
 ## प्रोष्ठपदाः/ भाद्रपदाः पूर्वाः - अज एकपात्
 
@@ -487,13 +487,13 @@ unicode_script: devanagari
 प॒शुभ्यः॒ स्वाहा॑।  
 
 ### टिप्पणिः
-- "Classical astronomy identifies it with \zeta  Piscium. This is a really undistinguished star. So we cannot be sure if that is what was originally meant or a higher up star like \beta  Andromedae was used. Narahari Achar holds that the goddess Pathyā Revatī mentioned in the Svastisūkta of the Atri-s implied this asterism. While this is not impossible we are not entirely sure of that especially given the undistinguished nature of the star identified with it."
+- "Classical astronomy identifies it with ζ  Piscium. This is a really undistinguished star. So we cannot be sure if that is what was originally meant or a higher up star like β  Andromedae was used. Narahari Achar holds that the goddess Pathyā Revatī mentioned in the Svastisūkta of the Atri-s implied this asterism. While this is not impossible we are not entirely sure of that especially given the undistinguished nature of the star identified with it."
 
 ## अश्विनौ
 
 {{< figure src="../../images/naxatra/wiki/ashvinau.png" title="" class="thumbnail">}}  
 {{< figure src="../../images/naxatra/stellarium/ashvinau.png" title="" class="thumbnail">}}  
-+++(β and अल्थ Arietis)+++
++++(β and α Arietis)+++
 
 तद् अ॒श्विना॑व् अश्व॒युजोप॑याताम्। शुभ॒ङ् गमि॑ष्ठौ सु॒यमे॑भि॒र् अश्वैः॑।  
 स्वन् नक्ष॑त्रꣳ ह॒विषा॒ यज॑न्तौ। मध्वा॒ सम्पृ॑क्तौ॒ यजु॑षा॒ सम॑क्तौ।  
