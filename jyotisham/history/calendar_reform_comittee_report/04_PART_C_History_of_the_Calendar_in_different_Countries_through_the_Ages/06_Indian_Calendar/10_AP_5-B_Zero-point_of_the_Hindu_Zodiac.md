@@ -10,7 +10,7 @@ longitude of the V.E.: point at the opoch of the S.J. on the given for known sta
 
 point of time. The following is & short exposition of was very close to Revati (5 Piscium); but another school 
 
-Burgess's calculations. : . thinks that the autumnal equinootial point (frst point of ..The 8.8.: gives the position of the junction-stars in Libra:) at this epoch was very close to the star Citrā" (Spica, terms.of Dhruvaka and Vikṣepa; two co-ordinates peculiar a Virginis), and therefore the first point of Aries at the to Sūrya Siddhānta. Their meaning and relation to the opoch of S.J was 1809 behind this point. The celestial usually adopted co-ordinates is illustrated by means of longitude in 1950 of 5 Piscium was 19° 10' 39" and of fig. 27 and for convenience of the reader, the standard a Virginis was 8030 89.90"; Tho-longitudes of 'tke first point of Aries, woording to the two schools therefore . differ. by 23° 9'( - )19° 11'=3° :58' and they cannot be identical Revatk or Piscizim was clasest toro (the V.E.. point) about 575 A.D., and Citra: or a Virginis was closest: to - (the A.E. 'point) aboat285. AD., 8. clear difference. 
+Burgess's calculations. : . thinks that the autumnal equinootial point (frst point of ..The 8.8.: gives the position of the junction-stars in Libra:) at this epoch was very close to the star Citrā" (Spica, terms.of Dhruvaka and Vikṣepa; two co-ordinates peculiar α Virginis), and therefore the first point of Aries at the to Sūrya Siddhānta. Their meaning and relation to the opoch of S.J was 1809 behind this point. The celestial usually adopted co-ordinates is illustrated by means of longitude in 1950 of 5 Piscium was 19° 10' 39" and of fig. 27 and for convenience of the reader, the standard α Virginis was 8030 89.90"; Tho-longitudes of 'tke first point of Aries, woording to the two schools therefore . differ. by 23° 9'( - )19° 11'=3° :58' and they cannot be identical Revatk or Piscizim was clasest toro (the V.E.. point) about 575 A.D., and Citra: or α Virginis was closest: to - (the A.E. 'point) aboat285. AD., 8. clear difference. 
 
 of 290 years. - .. Thus open those who uphold the nirayana school are 
 
@@ -230,7 +230,7 @@ star minus declination of a point B on the ecliptic-[which which is however not 
 
 . is sin-(sin l sin e)], the polar longitude (dhruvaka) and the 
 
-declination give the piksepa which is thus : arpooted to have boon. very preciso. But yet we cannot pirobably hold that an identification is correct .whën this 8-sin-2(sin i sin e) . .. difference is tão large. We are therefore rejecting all' Anyhow the above analysis seems to show that tho identifications where B.-B' exceeds 2o. Probably these stars co-ordinates of stars were determined at different epochs., bave not been correctly identified from the description Firstly when or was respectively 22° 21' ahead of the. gited for them, or the coordinates given in the Sūrya.. prosent 7, secondly when it was 20° 8' shead, and Siddhānta wore erroneously determined or wrongly handed thirdly when it was 19° 21' ahead. The epochs come out down to us. In the case of other stars, we find that dig de to be 340 A.D., 500 A.D., and 560 A.D., respectively, i 160 47' (or 10° 52'), 16° 58' and 26° 18' for three stars. The first epoch ig.-nearly 200 years from the time of We are also rejecting these thrmo identifications. This Ptolemy, and if it is assumed that Hindu astronomers betes die with: the identification of 16 stars as somewhat assumed Citrā (Spica or a Virginis) to occupy the first point. .. . -- ... -----..... 
+declination give the piksepa which is thus : arpooted to have boon. very preciso. But yet we cannot pirobably hold that an identification is correct .whën this 8-sin-2(sin i sin e) . .. difference is tão large. We are therefore rejecting all' Anyhow the above analysis seems to show that tho identifications where B.-B' exceeds 2o. Probably these stars co-ordinates of stars were determined at different epochs., bave not been correctly identified from the description Firstly when or was respectively 22° 21' ahead of the. gited for them, or the coordinates given in the Sūrya.. prosent 7, secondly when it was 20° 8' shead, and Siddhānta wore erroneously determined or wrongly handed thirdly when it was 19° 21' ahead. The epochs come out down to us. In the case of other stars, we find that dig de to be 340 A.D., 500 A.D., and 560 A.D., respectively, i 160 47' (or 10° 52'), 16° 58' and 26° 18' for three stars. The first epoch ig.-nearly 200 years from the time of We are also rejecting these thrmo identifications. This Ptolemy, and if it is assumed that Hindu astronomers betes die with: the identification of 16 stars as somewhat assumed Citrā (Spica or α Virginis) to occupy the first point. .. . -- ... -----..... 
 
 . 
 
@@ -744,7 +744,7 @@ i
 
 Citrā 
 
-a Virginis 
+α Virginis 
 
 1.21 
 
