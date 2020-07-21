@@ -189,7 +189,7 @@ Savitā
 
 Indra, Tvastā 
 
-a Virginis 
+α Virginis 
 
 2038 37 - 2 3 4 13. Svāti 
 
@@ -331,9 +331,9 @@ Y
 
 moon m 
 
-taken as consecrated from the very beginning of the year. But such people have to accept one "nirya' ( draw back ), viz., that the Visuvān* occurs in the cloudly season ( sammedhya ). Hence, one should consecrate on the Citrā full-moon day. The Citrā full moon month is the 'mouth of the year. 
+taken as consecrated from the very beginning of the year. But such people have to accept one "nirya' ( draw back ), viz., that the Viṣuvān* occurs in the cloudly season ( sammedhya ). Hence, one should consecrate on the Citrā full-moon day. The Citrā full moon month is the 'mouth of the year. 
 
-From these passages, we learn that the lunar month came gradually. The ancient Indians reckoned by the pakṣa or the fortnight, and distinguished the closing full moon day of the pakṣa by the nakṣatra where the moon was full. Thus Phālguni Paurṇamāsi is that full moon when the moon gets full near the Uttara Phalguni star (B Leonis ), one of the lunar mansions. Caitri Paurṇamāst is that full moon, when the moon gets full near the Citrā star (a Virginis ), which is the 14th lunar mansion. Later, as the months were always full-moon ending, the word paurṇamāsi was dropped, and, e.g., the first part of Caitra-Paurna māsi, i.e., Caitra became the lunar month-name. The above passage says that the Phālguna Paurnamāsi was regarded as the last day of the year and less frequently the Caitra Paurṇamāsi. This system still continues, and the first lunar month Caitra of the lunar year begins on the day after Phalguni Paurṇamāsi. 
+From these passages, we learn that the lunar month came gradually. The ancient Indians reckoned by the pakṣa or the fortnight, and distinguished the closing full moon day of the pakṣa by the nakṣatra where the moon was full. Thus Phālguni Paurṇamāsi is that full moon when the moon gets full near the Uttara Phalguni star (B Leonis ), one of the lunar mansions. Caitri Paurṇamāst is that full moon, when the moon gets full near the Citrā star (α Virginis ), which is the 14th lunar mansion. Later, as the months were always full-moon ending, the word paurṇamāsi was dropped, and, e.g., the first part of Caitra-Paurna māsi, i.e., Caitra became the lunar month-name. The above passage says that the Phālguna Paurnamāsi was regarded as the last day of the year and less frequently the Caitra Paurṇamāsi. This system still continues, and the first lunar month Caitra of the lunar year begins on the day after Phalguni Paurṇamāsi. 
 
 There are twenty-seven nakṣatras and so only 12 can be selected for lunar month-names. 
 

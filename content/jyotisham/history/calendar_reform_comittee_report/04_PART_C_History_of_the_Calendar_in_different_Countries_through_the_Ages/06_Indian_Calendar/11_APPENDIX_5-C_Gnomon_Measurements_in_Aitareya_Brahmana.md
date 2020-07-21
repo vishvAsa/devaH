@@ -5,7 +5,7 @@ title = "11 APPENDIX 5-C Gnomon Measurements in Aitareya Brahmana"
 
 References to the observation of the solstice are found The Vedic year-long sacrifices were begun in the earliest in vory early litorature as the following passage from the times on the day following the winter solstice. Honoo the Aitareja Brāhmaṇa shows?: 
 
-Viṣuvān which means the middle day of the year was the *They perform the Ekaviméa day, the Visuvān, in the 
+Viṣuvān which means the middle day of the year was the *They perform the Ekaviméa day, the Viṣuvān, in the 
 
 summer solstice day. The above passage shows that the middle of the year : by this Ekavimba day the gods raised 
 
