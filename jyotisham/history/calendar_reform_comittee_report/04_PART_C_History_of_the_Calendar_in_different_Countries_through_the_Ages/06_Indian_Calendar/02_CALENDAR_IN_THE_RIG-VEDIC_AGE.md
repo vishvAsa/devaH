@@ -21,18 +21,16 @@ The knowledge of the calendar in this age can be obtained only from the Vedic li
 Only the sixth Vedanga or Jyotisa interests us, though there are occasional references to the calendar in all Sātra literatures. 
 
 ## Age of the Vedic Literature \* 
-The above gives the 'Philologists' stratification of the age of the Vedic literature. About the actual age of each strata, there is great divergence of opinion, though it is admitted that the oldest in point of age are the Samhitās, then come the Brāhmaṇas and Upaniṣads, next the Sutras or the Vedangas. Of the four Vedas, the Rg-Vedas are by common consent taken to be the earliest in age and as Winternitz remarks, though all subsequent Indian literature refers to the Rg-Vedas, they presuppose nothing extant. 
 
 \* Much of the substance-matter of this section is taken from Winternitz': A History of Indian Literature Vol. 1, published by the University of Calcutta. Chap. I, on Vedic Literature. 
 
+The above gives the 'Philologists' stratification of the age of the Vedic literature. About the actual age of each strata, there is great divergence of opinion, though it is admitted that the oldest in point of age are the Samhitās, then come the Brāhmaṇas and Upaniṣads, next the Sutras or the Vedangas. Of the four Vedas, the Rg-Vedas are by common consent taken to be the earliest in age and as Winternitz remarks, though all subsequent Indian literature refers to the Rg-Vedas, they presuppose nothing extant. 
 
-· Max Muller made a rough assignment of age to the different strata as follows on the assumption that the Brahmanic and Upaniṣadic literature predated the rise of Buddhism, and that the Sutra literature which may be synchronous with the Buddhistic literature may be dated 600 B.C. to 200 B.C. Working backwards he assigned the Brāhmanic literature to 600 B.C. to 800 B.C., the interval 800 B.C. to 1000 B.C. 
+Max Muller made a rough assignment of age to the different strata as follows on the assumption that the Brahmanic and Upaniṣadic literature predated the rise of Buddhism, and that the Sutra literature which may be synchronous with the Buddhistic literature may be dated 600 B.C. to 200 B.C. Working backwards he assigned the Brāhmanic literature to 600 B.C. to 800 B.C., the interval 800 B.C. to 1000 B.C. as the period in which the collections of hymns were arranged, and 1000 B,C. to 1200 B.C, as the period of the beginning of Vedic poetry. He always regarded these periods as terminus ad quem, and in his Gifford Lectures on Physical Religion in 1889, he expressly states "that we connot hope to fix a terminus a quo. Whether the Vedic hymns were composed 1000, 1200, 2000 or 3000 years B.C., no power on earth will ever determine. \*  For details about Vedic antiquity, see Ancient Indian Chronology by P. C. Sengupta. 
 
-· as the period in which the collections of hymns were arranged, and 1000 B,C. to 1200 B.C, as the period of the beginning of Vedic poetry. He always regarded these periods as terminus ad quem, and in his Gifford Lectures on Physical Religion in 1889, he expressly states "that we connot hope to fix a terminus a quo. Whether the Vedic hymns were composed 1000, 1200, 2000 or 3000 years B.C., no power on earth will ever determine. * 
+It is not correct therefore to say, as some people say, that Max Muller had proved that 1200-1000 B.C. is the date of the Rg-Vedas. † + It appears that Max Mūller has been a bit dogmatic in his opinion. Shortly after his death the names of the Vedic Gods, Indra, Varuna, Mitra and the Nāśatyas in their Rg-Vedic forms were discovered in the Hittite clay tablets discovered at Boghaz Kuei in Asia Minor. They have been assigned to about 1450 B.C. More evidences about the Vedic Aryans were discovered in the excavations in the Sarasvatī valley now being undertaken by the Archaelogical Dept. of the Govt. of India. Further, fresh evidences are expected also in the archaelogical work undertaken in Afghanistan, Iran and Central Asia. 
 
-It is not correct therefore to say, as some people say, that Max Muller had proved that 1200-1000 B.C. is the date of the Rg-Vedas. † 
-
-. Other authorities, Schrader, Tilak, Jacobi, and P. C. Sengupta have found much older age for Rg-Vedic Indians : in fact, even as early as 4000 B.C., for some incidents described in the Rg-Vedas.* But their arguments, being based on interpretations of vague passages assumed to refer to astronomical phenomena have not commanded general recognition. 
+Other authorities, Schrader, Tilak, Jacobi, and P. C. Sengupta have found much older age for Rg-Vedic Indians : in fact, even as early as 4000 B.C., for some incidents described in the Rg-Vedas.\* But their arguments, being based on interpretations of vague passages assumed to refer to astronomical phenomena have not commanded general recognition. 
 
 Let us first look at the strata within the Rg-Veda itself. The Rg-Vedas are divided into 10 Mandalas (lit. circles ) or books. Of these, the 2nd to the 8th books are ascribed to certain priestly families, e.g, the 2nd book is ascribed to Gritsamadas, the 3rd to the Visrāmitras, etc. These are agreed to be the oldest parts of the Vedas. 
 
@@ -42,25 +40,17 @@ The first and the tenth books are miscellaneous collections ascribed to differen
 
 The Rg-Vedas consist of 1028 hymns, containing over 40,000 lines of verses. 
 
-The Vedas are regarded as 'Śrulis' or "revealed knowledge preserved by hearing." According to savants, they were the outpourings of the heart and mind, of ancient priestly leaders, to their gods which were mostly forces of nature, intermingled very often with secular matter. Priestly families were trained to memorize the texts and pass them on to succeding generations in ways which guaranteed their transmi ssion without error or alteration of the text. Savants are almost unanimous in their opinion that the Rg-Vedic texts which were composed in an archaic form of Sanskrit, which was not completly understood even in 500 B.C,, have come to us without change. The orthodox Indian view that they are revealed knowledge is of course not shared by scholars, both eastern and western, who point out that very often in the text of the Vedas themselves and in Anukramanis or introductions to texts, the authors of each hymn are mentioned by name and family.. 
+The Vedas are regarded as 'Śrutis' or "revealed knowledge preserved by hearing." According to savants, they were the outpourings of the heart and mind, of ancient priestly leaders, to their gods which were mostly forces of nature, intermingled very often with secular matter. Priestly families were trained to memorize the texts and pass them on to succeding generations in ways which guaranteed their transmission without error or alteration of the text. Savants are almost unanimous in their opinion that the Rg-Vedic texts which were composed in an archaic form of Sanskrit, which was not completly understood even in 500 B.C, have come to us without change. The orthodox Indian view that they are revealed knowledge is of course not shared by scholars, both eastern and western, who point out that very often in the text of the Vedas themselves and in Anukramanis or introductions to texts, the authors of each hymn are mentioned by name and family.
 
-To which locality are the Vedas to be ascribed ? 
+## To which locality are the Vedas to be ascribed ? 
 
-As regards locality, they are certainly to be ascribed to parts of Afghanistan, east of the Hindukush and the Punjab. The rivers of the Punjab, the Indus and its tributaries on both sides and the now lost Sarasvatī are frequently mentioned, the Ganges only once in a later text. The authors call themselves Aryas or Aryans, in contrast to the Dāsas or Dasyus who were alien to them, and with whom they came in frequent clash. The Dasyus are now taken to be partly Indus valley people, partly aboriginals. 
+As regards locality, they are certainly to be ascribed to parts of Afghanistan, east of the Hindukush and the Punjab. The **rivers of the Punjab, the Indus and its tributaries** on both sides and the now lost **Sarasvatī** are frequently mentioned, the **Ganges only once in a later text**. The authors call themselves **Aryas or Aryans**, in contrast to the **Dāsas or Dasyus** who were alien to them, and with whom they came in frequent clash. The Dasyus are now taken to be partly Indus valley people, partly aboriginals. 
 
-The Rg-Vedas describe a highly complex society of priests, warriors, merchants and artisans, and slaves but the rigid caste system had not yet developed. There are also references to cities, but no artefacts except some pottery, have yet been discovered. which can be referred to the Rg-Vedic Aryans. 
+The Rg-Vedas describe a highly complex society of **priests, warriors, merchants and artisans**, and **slaves** but the rigid caste system had not yet developed. There are also references to cities, but no artefacts except some pottery, have yet been discovered which can be referred to the Rg-Vedic Aryans. 
 
-The Rg-Vedic Aryans, it appears, were con temporaneous (if not older) with the great civilizations of Mesopotamia, both Sumerian, and later Accadian, and according to one view, some of the royal families of Asia Minor, were probably 'Vedic Aryans'. It is therefore quite probable that they had attained as high a stage of civilization as that of Egypt of the Pyramid builders (2700 BC.), or of Sumer and Accad under Sargon I. 
+The Rg-Vedic Aryans, it appears, were contemporaneous (if not older) with the great civilizations of Mesopotamia, both Sumerian, and later Accadian, and according to one view, some of the royal families of Asia Minor, were probably 'Vedic Aryans'. It is therefore quite probable that they had attained as high a stage of civilization as that of Egypt of the Pyramid builders (2700 BC.), or of Sumer and Accad under Sargon I. 
 
 Let us see what information we can gather about the calendar which they must have used for no civilized community can be without a calendar. 
-
-* For details about Vedic antiquity, see Ancient Indian Chronology by P. C. Sengupta. 
-
-+ It appears that Max Mūller has been a bit dogmatic in his opinion. Shortly after his death the names of the Vedic gode, Indra, Varuna, Mitra and the Nāśatyas in their Rg-Vedic forms were discovered in the Hittite clay tablets discovered at Boghaz Kuei in Asia Minor. They have been assigned to about 1450 B.C. More evidences about the Vedic Aryans were discovered in the excavations in the Sarasvatī valley now being undertaken by the Archaelogical Dept. of the Govt. of India. Further, fresh evidences are expected also in the archaelogical work undertaken in Afghanistan, Iran and Central Asia. 
-
-216 
-
-Translation: Twelve spoke-boards: One wheel : three pavels. Who understands these? In these there are 360 sankus (rods) put in like pegs which do not get loosened". 
 
 Further, the whole life of Vedic Aryans was centred round sacrifices to their great gods ; and sacrifices had to be carefully timed with respect to seasons, and moon's phases. In fact, some sacrifices were year-long, as Dr. Martin Haug, the great Vedic scholar remarks in his introduction (p. 46) to Aitarcya Brāhmaṇa (affiliated to the Rg-Veda). 
 
@@ -105,6 +95,8 @@ Rg-Veda, 1.164.48. Dvādas& pradhayascakramekam tripi nabhyāni
 ka u tacciketa Tasmin tsāka nii trisata na śanka vo'rpitaḥ 
 
 sastirna calaćalāsah. 
+
+Translation: Twelve spoke-boards: One wheel : three pavels. Who understands these? In these there are 360 sankus (rods) put in like pegs which do not get loosened". 
 
 Rg-Veda, 4.33.7 Dvādaśa dyūn yadagohyasyā tithye ranannrbhabah 
 
