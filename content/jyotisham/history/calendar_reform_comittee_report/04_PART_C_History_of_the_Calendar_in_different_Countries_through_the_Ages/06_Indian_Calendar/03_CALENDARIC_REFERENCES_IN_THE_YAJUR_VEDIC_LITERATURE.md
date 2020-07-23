@@ -55,277 +55,41 @@ One of the peculiar features of the Indian calendars is the use of the Nakṣatr
 
 There are several points to be noticed in this list, which may be compared with the list given on p. 210.
 
-First, the nakṣatras start with Krttikās which all authorities identify with the conspicuous group Pleiades. What is the significance of this ? 
+<div class="spreadsheet" src="../../../tables/naxatras_yv_1956.csv" separator=","> </div>  
 
-At the present times, the naksatras start with Asvini, of which the junction star is a or B. Arietis. This custom, Aśvinyādi, was introduced in Siddhānta Jyotiṣa time ( 500 A.D.), when the astronomical first point of Aries was near the end of the Revati nakṣatra ( § Piscium ), or the beginning of Afvini. We do not enter into the controversy about the exact location of this point by the Siddhānta astronomers, which is fully discussed in Appendix 5-B. At present, the astronomical first point had shifted by as much as 19° from ś Piscium, but the orthodox Indian calendar makers do not admit in the continued precession of the equinoxes, and still count the nakṣatras from Atvini. 
+First, the nakṣatras start with Krttikās which all authorities identify with the conspicuous group Pleiades. What is the significance of this? 
 
-In all older literatures, on the other hand, including the great epic Mahābhārala, whose composition or compilation may be dated about 400 B.C., the first nakṣatra is Krttikā, It therefore stands to reason to assume that at one time, when the nakṣatra enumeration started, the Pleiades were close to the astronomical first point of Aries, or rose near the true east. This is implied in the following verse which S. B. Dikṣit picked out of the Satapatha Brāhmaṇa : 
+At the present times, the **naksatras start with Aśvinī**, of which the junction star is α or β Arietis. This custom, **Aśvinyādi**, was introduced in **Siddhānta Jyotiṣa time ( 500 A.D.)**, when the astronomical first point of Aries was near the **end of the Revati nakṣatra ( ζ Piscium )**, or the **beginning of Aśvinī**. We do not enter into the controversy about the exact location of this point by the Siddhānta astronomers, which is fully discussed in Appendix 5-B. At present, the astronomical first point had shifted by as much as **19° from ζ Piscium**, but the orthodox Indian calendar makers do not admit in the continued precession of the equinoxes, and still count the nakṣatras from Aśvinī. 
 
-śatapatha Brāhmaṇa, 2.1.2. Ekam dve triṇi catvārīti vā anyāni nakgatrānyathaitā eva bhūyiṣṭhā yat kfttikā.... Etā ha vai prācyai digo na cyavante Servāni ha vã anyũni nakgatrani 
+In all older literatures, on the other hand, including the great epic Mahābhārata, whose composition or compilation may be dated about 400 B.C., the first nakṣatra is **Krttikā**. It therefore stands to reason to assume that at one time, when the nakṣatra enumeration started, the Pleiades were close to the astronomical first point of Aries, or rose near the true east. This is implied in the following verse which S. B. Dikṣit picked out of the Satapatha Brāhmaṇa : 
 
-prācyai diśaścyavante. Translation :--Other nakṣatras have one, two, three or four ( stars ) only ; these Krttikās have many ( stars )... They do not deviate from the east; all other nakṣatras deviate from the east. 
+śatapatha Brāhmaṇa, 2.1.2. Ekam dve triṇi catvārīti vā anyāni nakṣatrāṇy athaitā eva bhūyiṣṭhā yat kr̥ttikā.... Etā ha vai prācyai diśo na cyavante. Sarvāṇi ha vã anyāni nakṣatraṇi prācyai diśaś cyavante. 
+
+Translation :--Other nakṣatras have one, two, three or four ( stars ) only ; these Krttikās have many ( stars )... They do not deviate from the east; all other nakṣatras deviate from the east. 
 
 The names as given in this list are somewhat different from those now adopted, which have come into vogue since 500 A.D.; for example, we have : 
 
-No. 6 Tiṣya for Puṣya No. 16 Rohini for Jyestha ( There are thus two Rohinis, No. 2, and No. 16). No. 17 Vicrtau for Mula No. 20 Srona for śravaṇa No. 21 Śravistha for Dhaniṣtha No. 23 Proṣthapada for Bhādrapada No. 26 Aśvajuya for Asvini 
-
-No. 27 Apabharani for Bharani . The more important question is whether the lunar mansions denote definite clusters of stars, or the nakṣatra-divisions of later times amounting to 13° 20' Or 800 minutes ? This point has been discussed in 8 4'1. 
-
-ved by means view that the corner Veda are 
-
-O. R.-36 
-
-220 
-
-VITI 
-
-Table 10. 
-
-Names of Nakshatras in the Yajurveda with their Presiding Deities 
-
-+11 
-
-1 
-
-+ +1 ++ 
-
-+ 
-
-AAAAAAAA ou AA AB Al 
-
-1!t 
-
-Vāyu 
-
-No. Name of Presiding 
-
-Number* 
-
-Principal 
-
-Longitude Latitude Nakṣaira 
-
-Deity 
-
-(Grammatical) 
-
-Star 
-
-(195090) 1. Krttikā 
-
-Agni 
-
-→ Tauri 
-
-59° 17' 39" + 4° 2' 46" 2. Rohiṇi 
-
-Prajāpati 
-
-a Tauri 
-
-695 25 - 5 28 14 3. Mrgasirga 
-
-Soma 
-
-Orionis 
-
-83 031 - 13 22 32 Invakā 4. Ardrā 
-
-Rudra 
-
-a Orionis 
-
-88 3 22 16 1 59 Bāhū 5. Pugarvasu 
-
-Aditi 
-
-B Geminorum 
-
-112 31 29 + 6 40 51 6. Tiṣya 
-
-Bșhaspati 
-
-8 Cancri 
-
-128 1 23 
-
-0 4 32 7. Aśrega 
-
-Sarpa - 
-
-€ Hydrae 
-
-131 38 59 - 11 6 25 8. Maghā 
-
-Pits . 
-
-α Leonis 
-
-149 8 1 + O 27 48 9. Phalguni 
-
-Aryamā 
-
-8 Leonis 
-
-160 36 52 + 14 19 58 Pūrva Phalguni 10. Phalguni 
-
-Bhaga 
-
-B Loonis 
-
-170 55 23 + 12 16 13 Uttara Phalguni 11. Hasta 
-
-Savitā 
-
-8 Corvi 
-
-192 45 23 - 12 11 31 12. Citrā 
-
-Indra, Tvastā 
-
-α Virginis 
-
-2038 37 - 2 3 4 13. Svāti 
-
-a Bootis 
-
-203 32 8 + 30 46 3 Nistyā 14. - Visakbā 
-
-Indrāgni 
-
-a Libre 
-
-224 33 7 + 0 20 19 15. Anuradha 
-
-Mitra 
-
-& Scorpii 
-
-241 52 23 - 1 58 49 16. Robiṇi 
-
-Indra 
-
-a Scorpii 
-
-2493 51 - 4 33 50 Jyesthā 17. Vicṣtau 
-
-Pitr 
-
-^ Scorpii 
-
-263 53 14 - 13 46 56 Mūlabarbani, Mūla Nirśti, Prajāpati 18. Aṣadha : 
-
-Apab 
-
-8 Sagittarii 
-
-273 52 55 - 6 27 58 Pūrvāsādha 19. Aṣādbā 
-
-Vi vedeva. .. 
-
-o Sagittarii 
-
-281 41 11 - 3 26 36 Uttarāsādhā - Abhijit 
-
-Brahma 
-
-α Lyrae 
-
-61 44 7 Sroṇā 
-
-Viṣṇu 
-
-a Aquilae 
-
-301 4 16 + 29 18 18 21. Śraviṣthā 
-
-B Delphini 
-
-315 38 38 
-
-55 21 22. Satabhisak 
-
-Indra, Varuṇa 
-
-à Aquarii 
-
-340 52 38 - 0 23 8 23. Prosthapada 
-
-Ajaeka pad 
-
-α Pegasi 
-
-352 47 19 + 19 24 25 Pūrva Prosthapada 24. Prosthapada 
-
-Ahirbudhniya 
-
-y Pegasi 
-
-827 32 12 35 55 Uttara Prosthapada 25.' Revati 
-
-Pūga 
-
-Ś Piscium 
-
-19 10 40 - 012 52 26. Asyayuja 
-
-Asvin 
-
-β Arietis 
-
-33 16 18 + 8 297 27. Apabbarani 
-
-Yama 
-
-41 Arietis 
-
-47 30 19 + 10 26 48 * S=Singular ; D=Dual; P=Plural. 
-
-Taittiriya Samhita, 7.4.8. The Lunar Month-Names 
-
-Samvatsarasya yat phalguní pārṇamāgo mukhata The solar month-names given earlier have not eva samvatsaramārabhya dikgante tasyai kaiva gone into general currency. The month-names niryā-yat sāmmedhye viṣuvānt sampadyate generally used are of lunar origin as given in § 5.7. Citrā pūrṇamāge dikṣeran mukhan vā etat samvatsarasya These names are first found in the Taittiriya Samhita yat citrā pārṇamāso mukhata eva... 7.4.8, and in many other places of the Yajur-Veda Translation :-One should get consecrated on the literature, but in a somewhat different form. We Phalguni full-moon day because Phālguna full moon quote parts of the passage. 
-
-is the "mouth" of the year. Hence, ( such people ) are 
-
-til 
-
-1.1 
-
-1 
-
-084 
-
-36 
-
-+ + + 
-
-Vasu 
-
-Al Al Al 
-
-+ 
-
-+ 
-
-. 
-
-AB 
-
-+ + 
-
-000 
-
-INDIAN CALENDAR 
-
-221 
-
-as 
-
-Y 
-
-moon m 
-
-taken as consecrated from the very beginning of the year. But such people have to accept one "nirya' ( draw back ), viz., that the Viṣuvān* occurs in the cloudly season ( sammedhya ). Hence, one should consecrate on the Citrā full-moon day. The Citrā full moon month is the 'mouth of the year. 
+- No. 6 Tiṣya for Puṣya 
+- No. 16 Rohiṇī for Jyeṣṭhā ( There are thus two Rohinis, No. 2, and No. 16). 
+- No. 17 Vicr̥tau for Mula 
+- No. 20 Sroṇā for śravaṇa 
+- No. 21 Śravistha for Dhaniṣtha 
+- No. 23 Proṣthapada for Bhādrapada 
+- No. 26 Aśvajuya for Aśvinī 
+- No. 27 Apabharaṇī for bharaṇī . 
+
+The more important question is whether the lunar mansions denote definite clusters of stars, or the nakṣatra-divisions of later times amounting to 13° 20' Or 800 minutes ? This point has been discussed in § 4.1. 
+
+
+## The Lunar Month-Names 
+The solar month-names given earlier have not gone into general currency. The month-names generally used are of lunar origin as given in § 5.7. These names are first found in the Taittiriya Samhita 7.4.8, and in many other places of the Yajur-Veda literature, but in a somewhat different form. We quote parts of the passage.
+
+सत्रँ॒व्व॒थ्स॒रस्य॒ यत् फ॑ल्गुनीपूर्णमा॒सः ।  
+मु॒ख॒त ए॒व सँ॑व्वथ्स॒रम् आ॒रभ्य॑ दीख्षन्ते ।  
+तस्यैकै॒व नि॒र्या यथ् साम्मे᳚घ्ये विषू॒वान्थ् स॒म्पद्य॑ते । चि॒त्रा॒पू॒र्ण॒मा॒से दी᳚ख्षेरन् ।  
+मुखँ॒व् वा ए॒तथ्सँ॑व्वथ्स॒रस्य॒ यच् चि॑त्रापूर्णमा॒सः । मु॒ख॒त ए॒व सँ॑व्वथ्स॒रम् आ॒रभ्य॑ दीख्षन्ते । 
+
+Translation :--One should get consecrated on the Phalguni full-moon day because Phalguna full moon is the "mouth" of the year. Hence, ( such people ) are taken as consecrated from the very beginning of the year. But such people have to accept one 'niryā' ( draw back ), viz., that the Viṣuvān occurs in the cloudly season ( sammeghya ). Hence, one should consecrate on the Citrā full-moon day. The Citrā full moon month is the mouth of the year. 
 
 From these passages, we learn that the lunar month came gradually. The ancient Indians reckoned by the pakṣa or the fortnight, and distinguished the closing full moon day of the pakṣa by the nakṣatra where the moon was full. Thus Phālguni Paurṇamāsi is that full moon when the moon gets full near the Uttara Phalguni star (B Leonis ), one of the lunar mansions. Caitri Paurṇamāst is that full moon, when the moon gets full near the Citrā star (α Virginis ), which is the 14th lunar mansion. Later, as the months were always full-moon ending, the word paurṇamāsi was dropped, and, e.g., the first part of Caitra-Paurna māsi, i.e., Caitra became the lunar month-name. The above passage says that the Phālguna Paurnamāsi was regarded as the last day of the year and less frequently the Caitra Paurṇamāsi. This system still continues, and the first lunar month Caitra of the lunar year begins on the day after Phalguni Paurṇamāsi. 
 
