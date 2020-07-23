@@ -15,6 +15,7 @@ title: Equinotical records
     - shaunaka atharvaveda 19.7 nakShatra sUktam भानुराश्लेषा अयनं मघा मे : sun \[in\] AshleSha(=sarpa), \*solistice\* \[in\] maghA for me.
         सुहवमग्ने कृत्तिका रोहिणी चास्तु | agnI well-invoked in kR^ittikA: setting of fires in kR^ittkA
 - सूचिकाग्निसूक्तम् ऋग्वेदे दृश्यताम् - [महत् तदुल्बम्](../../../mantraH/agniH/Rk/mahat_tad_ulbam/) इति।
+- śatapatha Brāhmaṇa, 2.1.2. Ekam dve triṇi catvārīti vā anyāni nakṣatrāṇy athaitā eva bhūyiṣṭhā yat kr̥ttikā.... Etā ha vai prācyai diśo na cyavante. Sarvāṇi ha vã anyāni nakṣatraṇi prācyai diśaś cyavante. Translation :--Other nakṣatras have one, two, three or four ( stars ) only ; these Krttikās have many ( stars )... They do not deviate from the east; all other nakṣatras deviate from the east. 
 - वायुपुराणात् - 
   - मेषान्ते च तुलान्ते च भास्करोदयतः स्मृताः । मुहूर्त्ता दश पञ्चैव अहोरात्रिश्च तावती ।। ५०.१९५ ।। कृत्तिकानां यदा सूर्यः प्रथमांशगतो भवेत् । विशाखानां तथा ज्ञेयश्चतुर्थांशे निशाकरः।। ५०.१९६ ।। विशाखायां यदा सूर्यश् चरतेंऽशं तृतीयकम्। तदा चन्द्रं विजानीयात् कृत्तिकाशिरसि स्थितम् ।। ५०.१९७ ।। विषुवन्तं तदा विद्यादेवमाहुर्महर्षयः। सूर्येण विषुवं विद्यात् कालं सोमेन लक्षयेत् ।। ५०.१९८ ।। 
 
