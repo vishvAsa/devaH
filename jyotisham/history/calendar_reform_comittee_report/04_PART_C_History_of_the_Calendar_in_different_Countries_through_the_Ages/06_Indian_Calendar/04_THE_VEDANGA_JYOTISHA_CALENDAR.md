@@ -17,38 +17,25 @@ It may be remarked here that there are minor differences between Vedānga Jyoti�
 There is an extensive literature on Vedānga Jyōtiṣa which has been studied by Dr. G. Thibaut, S. B. Diksit, S. K. Pillai, and Dr. R. Shama Sastry, amongst others. We here give an account of the calendar according to the Paitāmaha Siddhānta. 
 
 ## Summary of the Contents 
+### yuga
+"Five years constitute a Yuga or Saros of the sun and the moon. The yuga comprises 1830 sāvana days (civil days) and 1860 tithis (lunar days). In the yuga, there are 62 lunar months and 60 solar months. So two months are omitted as intercalary months, in a period of 5 years. The number of omitted tithis in the period is 30. There are 67 naksatra-months (sidereal months) in the yuga The moon passes through 67 x 27 = 1809 nakṣatras within this period. The yuga begins at winter solstice with the sun, and the moon together at the Dhaniṣthā asterism (α or β Delphini)." These are the main points from which the five yearly calendar can be constructed. 
 
-"Five years constitute a Yuga or Saros of the sun and the moon. 
-
-The yuga comprises 1830 sāvana days (civil days) and 1860 tithis (lunar days). 
-
-In the yuga, there are 62 lunar months and 60 solar months. So two months are omitted as intercalary. months, in a period of 5 years. 
-
-The number of omitted tithis in the period is 30. 
-
-There are 67 naksatra-months (sidereal months) in the yugu The moon passes through 67 x 27=1809 nakṣatras within this period.. 
-
-The yuga begins at winter solstice with the sun, and the moon together at the Dhaniṣthā asterism (a or B Delphini)." 
-
-These are the main points from which the five yearly calendar can be constructed. 
-The Vedānga Jyotisa further describes measure ments of the subdivisions of the day by means of the clepsydra, as well as by gnomon-shadows. 
-
-One particular feature is the assumption that the ratio of the length of the day to that of the night on the summer solstice day is as 3.: 2. 
+The Vedānga Jyotisa further describes measure ments of the subdivisions of the day by means of the clepsydra, as well as by gnomon-shadows. One particular feature is the assumption that the ratio of the length of the day to that of the night on the summer solstice day is as 3: 2 +++(Roughly Tashkent lattitude! 5)+++. 
 
 Let us now examine these points critically. 
 
+### nakṣatra
 We observe that all the mathematical rules point out only to mean motions of the sun and the moon, i.e, the periods of the sun and the moon were obtained by counting the number of sāvana days in a large number of years and months, and dividing the number by the number of periods (year or month). No evidence is found of the systematic day to day observations of the sun and the moon. Only the lunar zodiac was used for describing the positions of the sun and the moon, which appears to have been divided into 27 equal parts or nakṣatras ; in other words the nakṣatras no longer denoted star-clusters but equal divisions of the lunar belt. 
 
-There is no mention of the zodiac or twelve signs of the zodiac, or of week days, or of planetary motion, 
+There is **no mention** of the zodiac or **twelve signs of the zodiac**, or of **week days**, or of **planetary motion**. 
 
-Let us now look critically into the rules.. 
+Let us now look critically into the rules.
 
-5 solar years. = 365.2422 x 5-1826.2110 days; 62 synodic months=29.53059 x 62-1830.8965 days ; 67 sidereal months=27.32166 x 67=1830.5512 days. 
+5 solar years = 365.2422 x 5 = 1826.2110 days; 62 synodic months = 29.53059 x 62 = 1830.8965 days ; 67 sidereal months = 27.32166 x 67 = 1830.5512 days. 
 
+Therefore, regarded as a measure for **luni-solar adjustment**, the **error is 4.685 days in a period of 5 years**, i.e., if we started a yuga with the sun and the moon together on the winter solstice day, the beginning of the next yuga (6th year) would occur 4.685 days later than the winter solstice and in 5 to 6 yugas the discrepancy would amount to a month or half season. This cannot escape notice, and therefore there must have been some way of bringing back the yuga to the winter solstice day. Otherwise the calendar becomes useless. But how could it have been done? This is a matter for conjecture and several hypotheses have been proposed. According to S. B. Dīkṣit, we should have in 95 years : 
 
-Therefore, regarded as a measure for luni-solar adjustment, the error is 4.685 days in a period of 5 years, i.e., if we started a yuga with the sun and the moon together on the winter solstice day, the beginning of the next yuga (6th year) would occur. 4.685 days later than the winter solstice and in 5 to 6 yugas the discrepancy would amount to a month or half season. This cannot escape notice, and therefore there must have been some way of bringing back the yuga to the winter solstice day. Otherwise the calendar becomes useless. But how could it have been done ? . This is a matter for conjecture and several hypotheses have been proposed. According to S. B. Dīkṣit, we should have in 95 years : 
-
-according to the V. J., x 95-38 intercalary months, while actually we have, I'o x 95-35 intercalary months. 
+- according to the V. J., x 95-38 intercalary months, while actually we have, I'o x 95-35 intercalary months. 
 
 So the Vedānga Jyōtiṣa rules introduce 3 more intercalary months than necessary in 95 years, and if these are dropped, we can have good adjustment. This could have been done as follows : 
 
