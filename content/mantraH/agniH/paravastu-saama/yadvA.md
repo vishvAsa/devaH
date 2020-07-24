@@ -14,7 +14,7 @@ RV.8.23.13b; SV.1.114b.
 
 विश्वेद॒ग्निः प्रति॒ रक्षां॑सि सेधति +++(=हिनस्ति)+++॥
 
-{{< figure src="../../images/enemies-dead-in-soot-agni-giving-wealth-to-yajamAna.jpg" title="" class="thumbnail">}}
+{{< figure src="../../images/enemies-dead-in-soot-agni-giving-wealth-to-yajamAna.jpg" attributionclass="thumbnail">}}
 
 
 ## साम

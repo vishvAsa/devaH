@@ -24,7 +24,7 @@ SV.1.381a; 2.96a; JB.1.227,228; PB.9.2.21. RV.8.13.1a; A;S.6.4.10; ;S;S.9.18.1; 
 विदे वृधस्य दक्षस्य  
 महाᳱ हि षः ।।381 ।।
 
-{{< figure src="../../images/indra-as-maghavAn-followed-by-people-bearing-wealth-moving-towards-a-yajamAna.png" title="" class="thumbnail">}}
+{{< figure src="../../images/indra-as-maghavAn-followed-by-people-bearing-wealth-moving-towards-a-yajamAna.png" attributionclass="thumbnail">}}
 
 
 ## साम

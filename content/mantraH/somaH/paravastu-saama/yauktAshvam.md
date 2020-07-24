@@ -17,7 +17,7 @@ unicode_script: devanagari
 वृषा पवस्व धारया मरुत्वते च मत्सरः।  
 विश्वा दधान ओजसा  ।
 
-{{< figure src="../../images/soma-purification.png" title="" class="thumbnail">}}
+{{< figure src="../../images/soma-purification.png" attributionclass="thumbnail">}}
 
 ## साम - यौक्ताश्वाद्यम्
 - पारम्परिक-लेखाः - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n4/mode/1up)।

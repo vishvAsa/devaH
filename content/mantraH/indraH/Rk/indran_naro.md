@@ -20,4 +20,4 @@ RV.7.27.1a; SV.1.318a; TS.1.6.12.1a; MS.4.12.3a: 184.17; 4.14.5: 221.11; KB.26.1
 शू꣢रो꣣ नृ꣡षा꣢ता꣣ श्र꣡व꣢सश्च꣣ का꣢म꣣  
 आ꣡ गोम꣢꣯ति व्र꣣जे꣡ भ꣢जा꣣ त्वं꣡ नः꣢ ।।
 
-{{< figure src="../../images/indra-rising-to-protect-charriots-of-army.jpg" title="" class="thumbnail">}}
+{{< figure src="../../images/indra-rising-to-protect-charriots-of-army.jpg" attributionclass="thumbnail">}}

@@ -42,8 +42,8 @@ unicode_script: devanagari
   - "पलानि पञ्चाशदपां धृतानि तदाढकं द्रोणमतः प्रमेयम्। त्रिभिर् विहीनं कुडवैस् तु कार्यं तन् नाडिकायास् तु भवेत् प्रमाणम् ।२४।।" इति वेदाङ्गज्योतिषे।
   - "In a standard vedic water-clock 1 droNa- 3*kudava is that volume of water that drains in one 1 nADikA. Thus, the vedic water clock drained in 24 minutes or 1 nADikA. The water-clock is mentioned in the kAla sUktaM of the bhArgava-s in atharva veda. Thus, both the time units and the water clock find mention in the veda, suggesting that the systems mentioned in the VJ was a standard aspect of the vedic time keeping."
 
-{{< figure src="../images/shanku_illustration.jpg" title="" >}}
-{{< figure src="../images/bulhomalla-quadrant.jpg" title="" >}}
+{{< figure src="../images/shanku_illustration.jpg" attribution>}}
+{{< figure src="../images/bulhomalla-quadrant.jpg" attribution>}}
 
 ## चन्द्रदर्शनम्
 शतपथब्राह्मणे – तद्धैके दृष्ट्वोपवसन्ति। श्वो नोदेतेत्यभ्रस्य वा हेतोरनिर्ज्ञाय वाऽथोतोपवसन्त्यथैनमुताभ्युदेति स यद्यगृहीतं हविरभ्युदियात्प्रज्ञातमेव तदेषैव व्रतचर्या यत्पूर्वेद्युर्दुग्धं दधि हविरातञ्चनं तत्कुर्वन्ति प्रति प्रमुञ्चन्ति वत्सांस्तान्पुनरपाकुर्वन्ति (११।१।४।१) इत्युक्तम्।

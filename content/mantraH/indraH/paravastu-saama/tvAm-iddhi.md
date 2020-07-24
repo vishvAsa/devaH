@@ -25,7 +25,7 @@ practice_weight: 0
 त्वाम् । इत् । हि । हवा॑महे । सा॒ता । वाज॑स्य । का॒रवः॑ ।  
 त्वाम् । वृ॒त्रेषु॑ । इ॒न्द्र॒ । सत्ऽप॑तिम् । नरः॑ । त्वाम् । काष्ठा॑सु । अर्व॑तः ॥
 
-{{< figure src="../../images/Indra-kills-vRtra-snake-with-vajra.jpg" title="" class="thumbnail">}}
+{{< figure src="../../images/Indra-kills-vRtra-snake-with-vajra.jpg" attributionclass="thumbnail">}}
 
 
 ## साम

@@ -18,7 +18,7 @@ SV.1.445b; 2.464b; AA.5.2.2.11; ;S;S.18.15.5b.
 स्वर्का आस्तोभति 
 श्रुतो युवा स इन्द्रः।
 
-{{< figure src="../../images/Great-indra-on-airAvata-with-vajra-surrounded-by-other-smaller-deva-s-agni-on-ram-yama-on-buffalo-brahma-on-swan-sUrya-and-chandra.jpg" title="" class="thumbnail">}}
+{{< figure src="../../images/Great-indra-on-airAvata-with-vajra-surrounded-by-other-smaller-deva-s-agni-on-ram-yama-on-buffalo-brahma-on-swan-sUrya-and-chandra.jpg" attributionclass="thumbnail">}}
 
 
 ## साम

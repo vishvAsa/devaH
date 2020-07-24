@@ -39,7 +39,7 @@ RV.9.107.19a; SV.1.516a; 2.272a; JB.3.67a; PB.12.9.3a; Svidh.1.5.8.
 तवाहं नक्तमुत सोम ते दिवा दुहानो बभ्र ऊधनि।  
 घृणा तपन्तमति सूर्यं परः शकुना इव पप्तिम ।।2 ।। ।।11 (ति)।। [धा. 14 । उ 1 । स्व. 3 ।]
 
-{{< figure src="../../images/soma-enthroned.png" title="" class="thumbnail">}}
+{{< figure src="../../images/soma-enthroned.png" attributionclass="thumbnail">}}
 
 
 ## साम

@@ -16,7 +16,7 @@ unicode_script: devanagari
 विश्वतो दावन् विश्वतो न आ भर यं त्वा शविष्ठमीमहे।
 {भर! महः! ईडा+++(=स्तुतिः)+++। सुवः। ज्योतिः।}
 
-{{< figure src="../../images/indra-or-someone-on-an-arial-charriot-attacking-an-army-with-arrows.jpg" title="" class="thumbnail">}}
+{{< figure src="../../images/indra-or-someone-on-an-arial-charriot-attacking-an-army-with-arrows.jpg" attributionclass="thumbnail">}}
 
 
 ## साम १ हाउहाउ हउवा
