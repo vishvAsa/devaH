@@ -20,7 +20,7 @@ There is an extensive literature on Vedānga Jyōtiṣa which has been studied b
 ### yuga
 "**Five years** constitute a **Yuga** or Saros of the sun and the moon. The yuga comprises **1830 sāvana days** (civil days) and **1860 tithis** (lunar days). In the yuga, there are **62 +++(synodic)+++ lunar months** and **60 solar months**. So **two months are omitted** as intercalary months, in a period of 5 years. The number of omitted tithis in the period is 30. There are **67 nakṣatra-months** (sidereal months) in the yuga The moon passes through 67 x 27 = 1809 nakṣatras within this period. The **yuga begins at winter solstice** with the **sun, and the moon together at the Dhaniṣthā** asterism (α or β Delphini)." These are the main points from which the **five yearly calendar** can be constructed. 
 
-The Vedānga Jyotisa further describes measure ments of the subdivisions of the day by means of the clepsydra, as well as by gnomon-shadows. One particular feature is the assumption that the ratio of the length of the day to that of the night on the summer solstice day is as 3: 2 +++(Roughly Tashkent lattitude! 5)+++. 
+The Vedānga Jyotisa further describes measure ments of the subdivisions of the day by means of the clepsydra, as well as by gnomon-shadows. One particular feature is the assumption that the ratio of the length of the day to that of the night on the summer solstice day is as 3:2. 
 
 Let us now examine these points critically. 
 
@@ -34,9 +34,10 @@ Let us now look critically into the rules.
 
 5 solar years = 365.2422 x 5 = 1826.2110 days; 62 synodic months = 29.53059 x 62 = 1830.8965 days ; 67 sidereal months = 27.32166 x 67 = 1830.5512 days. 
 
-Therefore, regarded as a measure for **luni-solar adjustment**, the **error is 4.685 days in a period of 5 years**, i.e., if we started a yuga with the sun and the moon together on the winter solstice day, the beginning of the next yuga (6th year) would occur 4.685 days later than the winter solstice and in 5 to 6 yugas the discrepancy would amount to a month or half season. This cannot escape notice, and therefore there must have been some way of bringing back the yuga to the winter solstice day. Otherwise the calendar becomes useless. But how could it have been done? This is a matter for conjecture and several hypotheses have been proposed. According to S. B. Dīkṣit, we should have in 95 years : 
+Therefore, regarded as a +++(naive)+++ measure for **luni-solar adjustment**, the **error is 4.685 days in a period of 5 years**, i.e., if we started a yuga with the sun and the moon together on the winter solstice day, the beginning of the next yuga (6th year) would occur 4.685 days later than the winter solstice and in 5 to 6 yugas the discrepancy would amount to a month or half season. This cannot escape notice, and therefore there must have been some way of bringing back the yuga to the winter solstice day. Otherwise the calendar becomes useless. But how could it have been done? This is a matter for conjecture and several hypotheses have been proposed. According to S. B. Dīkṣit, we should have in 95 years : 
 
-- according to the V. J., 2/5 x 95 = 38 intercalary months, while actually we have, 7/19 x 95 = 35 intercalary months. 
+- according to the V. J., 2/5 x 95 = 38 intercalary months, 
+- while actually we have, 7/19 x 95 = 35 intercalary months. 
 
 So the Vedānga Jyōtiṣa rules introduce 3 more intercalary months than necessary in 95 years, and if these are dropped, we can have good adjustment. This could have been done as follows : 
 
@@ -44,11 +45,11 @@ In the first period of 30 years 6 yugas, suppose they had 11 intercalary months 
 
 The beginning of the yuga would go ahead of the winter solstice in 30 years by 4685 X6 = 28.110 days.  
 
-But if we do not have the intercalary month on the 30th year, the "yuga-beginning is brought back to 29.53–28.110- 1.421 days before the W.S. day. The same process is repeated for the next period of 30 years. The yugd-beginning is thus brought back to 2.842 days before the W.S. day. 
+But if we do not have the intercalary month on the 30th year, the yuga-beginning is brought back to 29.53–28.110 = 1.421 days before the W.S. day. The same process is repeated for the next period of 30 years. The yuga-beginning is thus brought back to 2.842 days before the W.S. day. 
 
 The next period may be taken to consist of 35 years, i.e., 7 yugas each of five years, in which the yuga beginning goes ahead by 3.264 days. The combined result of the three periods of 30, 30, and 35 years is to put the yuga beginning ahead of the W.S. day by 0.422 days only. Other conjectural cycles are described by Dr. Shama Sastry. 
 
-But was any such practice really followed ? We have no evidence from the verses ; but S. B. Diksit mentions that intercalary months were inserted only when needed, and hence probably they were 'dropped when not needed.' 
+But was any such practice really followed ? We have no evidence from the verses ; but S. B. Diksit mentions that **intercalary months were inserted only when needed, and hence probably they were dropped when not needed**. +++(This conforms with analysis by sammodācārya kauṇḍinyāyana.)+++ 
 
 ## Tithis 
 The main object of the Vedānga Jyōtiṣa calendar appears to have been the correct prediction of the tithi and nakṣatra on any sāvana (civil) day within the yuga. In this respect, the rules were more accurate. A tithi is defined as 1/30th of the lunar month. The correct measure is 1 tithi = 29.530588/30  =.984353 days,  while the measure taken = 61/62 = .983871 days. The mistake is .000482 days on the lower side or one tithi in 2075 days or in 5 2/3 years. 
@@ -80,7 +81,7 @@ These two verses taken together yield the following:
 
 The winter solstice took place at the lunar asterism Śraviṣtha, which is later called Dhaniṣthā. 
 
-This is the 21st nakṣatra in the Krttikādi system and 23rd in the Aśvinyādi system and its component stars are α, β, y and 8 Delphini.\* +++(* On & Dhanisthå day the moon got conjoined with both the B and a Delphinis at interval of 2 hours.)+++ These stars are far away from the ecliptic. We have for 1950 : 
+This is the 21st nakṣatra in the Krttikādi system and 23rd in the Aśvinyādi system and its component stars are α, β, y and δ Delphini.\* +++(* On & Dhanisthå day the moon got conjoined with both the β and α Delphinis at interval of 2 hours.)+++ These stars are far away from the ecliptic. We have for 1950 : 
 
 - α Delphini, Long. =316° 41', Lat. - +33° 2' 
 - β, 315 39, +31 55
@@ -99,19 +100,21 @@ In a period of 5 years, there are :
 - 62 lunar months, and so 1860 tithis, 
 - 67 sidereal months and so 1809 nakṣatras. 
 
-As the period contains 60 solar months, there are 2 intercalary months which are placed after every 
+As the period contains 60 solar months, there are 2 intercalary months which are placed after every 30 lunar months. Thus in the third year, the month śrāvaṇa is adhika which is followed by śuddha śrāvana ; and in the fifth year the last month is also adhika which is adhika Māgha. 
 
-30 lunar months. Thus in the third year, the month Srāvana is adhika which is followed by śuddha Brāvana ; and in the fifth year the last month is also adhika which is adhika Māgha. 
+There are 1860 tithis while the number of civil days is 1830 ; so there are 30 omitted tithis (tithi kṣaya). Each period of 61 days contains 62 tithis, so one tithi is omitted after 61 civil days. From this consideration the number of civil days per month can be obtained and will be shown in the table below. The Vedānga Jyōtiṣa people regularly counted a tithi to a day, but after 61 days one tithi was omitted. 
 
-There are 1860 tithis while the number of civil days is 1830 ; so there are 30 omitted tithis (tithi kṣaya). Each period of 61 days contains 62 tithis, so one lithi is omitted after 61 civil days. From this consideration the number of civil days per month can be obtained and will be shown in the table below. The Vedānga Jyōtiṣa people regularly counted a tithi to a day, but after 61 days one tithi was omitted. 
+As regards nakṣatras, their number is 1809 in 1830 civil days, the difference being 21. So 87 1/7 days were equivalent to 86 1/7 nakṣatras. They counted a nakṣatra to a day successively, but after every 87 days (actually 87 1/7 days), one nakṣatra was repeated for two days. 
 
-As regards nakṣatras, their number is 1809 in 1830 civil days, the difference being 21. So 877 days were equivalent to 867 nakṣatras. They counted a nakṣatra to a day successively, but after every 87 days (actually 874 days), one nakṣatra was repeated for two days. 
-
-The five different years of the period had distinctive names, vix., (1) Samvatsara, (2) Parivatsara, (3) Idavatsara, (4) Anuvatsara, and (5). Idvatsara. 
+The five different years of the period had distinctive names, viz., (1) Saṁvatsara, (2) Parivatsara, (3) Idavatsara, (4) Anuvatsara, and (5). Idvatsara. 
 
 The plan of the five yearly calendar is shown below : 
 
-period, and when it was added the last month adhika Magha contained 30 days instead of 29 days which was otherwise its due. 
+Table 12. +++(Typical)+++ Number of days in each month of the Vedanga Jyotiṣa Calendar 
+
+<div class="spreadsheet" src="../../../tables/vedanga_jyotiSha_5yr_calendar.csv" separator=","> </div>  
+
+As already shown, the actual length of 62 lunar months is 1830.8965 days, while there are 1830 civil days in the five yearly period. It is therefore very likely that one civil day was added to the period when necessary to make it conform to the phases of the moon which were regularly observed. This additional day was no doubt placed at the end of the period, and when it was added the last month adhika Magha contained 30 days instead of 29 days which was otherwise its due. 
 
 The ratio , for the duration of the longest day to that of the shortest night given in the Vedānga Jyotiṣa was first noted by Dr. Thibaut. Later the same ratio was found by Father Kugler from Babylonian cunei form records of the Seleucidean period. The ratio is characteristic of a latitude of 350 N, which is nearly that of Babylon (for Babylon Ø=32° 40'N). Hence it has been inferred that the Vedānga Jyotiṣa-astronomers got this ratio from Seleucidean Babylon. But it may be pointed out that the Vedic life centred round North-Western India, from the Sarasvatī valley (Kuruksetra 0=29° 58') to Gandhar (§=31° 32'N). The ratios of the duration of daylight to, night on the summer-solstice day for different latitudes are as follows: 
 
@@ -184,8 +187,6 @@ or 384
 It is seen from the above table, that even at the latitude of Babylon, the ratio is not 1.50 but: 1.45. At Gandhār, it is 1.42. The difference is not very large. But there is another factor to which attention must be drawn. 
 
 Both Babylonians and Indians measured subdivisions of the day by means of some kind of Clepsydra. A description of the Clepsydra used by Indians during the Vedānga Jyōtiṣa-period will be found in S.B. Dīkṣit's Bharatīya Jyotiśāstra (Sec. II, Chap. I). But 'the daya length must have been measured from the observed time of sunrise to the observed time of sunset. This is somewhat larger than the astronomical time of sunrise on account of refraction. Assuming that the effect of refraction is to elevate a celestial body near the horizon by about 35', and the sun's semi-diameter is about 16', the sun's upper limb appears on the horizon at a place on 32° latitude, about 45 minutes before the centre of the sun is due on the horizon. For the same reason, 'the sunset takes place 45 minutes after the astronomical 
-
-As already shown, the actual length of 62 lunar months is 1830.8965 days, while there are 1830 civil days in the five yearly period. It is therefore very likely that one civil day was added to the period when necessary to make it conform to the phases of the moon which were regularly observed. This additional day was no doubt placed at the end of the 
 
 226 
 
