@@ -9,6 +9,9 @@ title: Equinoctial records
 - Corresponds to phAlguna full moon being first month of the year/ uttarAyANArambha. Mentioned in jaiminIya brAhmaNa, kauShItakI brAhmaNa. See [saura-chAndra-mAna](../saura-chAndra-mAnam/) page for details.
 - mantra of vAmadeva gautama to agni: sa jAyata prathamaH pastyAsu maho budhne rajaso asya yonau | apAd ashIrShA guhamAno antAyoyuvAno vR^iShabhasya nILe || = (RV 4.1.11) In dwellings first he came into being, at great base [of heaven], and in this atmosphere’s womb; Footless and headless, concealing both his ends, drawing himself together in the bull’s station. ("The first hemistich refers to the 3 manifestations of agni: the ritual fire, the celestial fire and the atmospheric fire. Here, as Santillana and von Dechend argued in the Hamlet’s Mill the heavenly fire (vaishvAnara) is associated with the equinoctial colure: This is implied in this mantra by the statement that his ends come together – i.e. the ecliptic ends meet and this happens in the station of the bull.")
 
+{{< figure src="../images/zodiac_history/bce-3000-01-13_rohiNI_jyeShThA_equinox_shatabhiShak_pUrva_phAlgunI_solstice.png"  >}}
+
+
 ## 2300 BCE - Vernal equinox at kRttikA 
 - Vernal equinox was at actual kRttikA in 2300 BCE - yajurveda period (described elsewhere).
 - Corresponds to daxiNAyanArambha in maghA and uttarAyaNArambha in mAgha. See [saura-chAndra-mAna](../saura-chAndra-mAnam/) page for details.
@@ -19,7 +22,9 @@ title: Equinoctial records
 - वायुपुराणात् - 
   - मेषान्ते च तुलान्ते च भास्करोदयतः स्मृताः । मुहूर्त्ता दश पञ्चैव अहोरात्रिश्च तावती ।। ५०.१९५ ।। कृत्तिकानां यदा सूर्यः प्रथमांशगतो भवेत् । विशाखानां तथा ज्ञेयश्चतुर्थांशे निशाकरः।। ५०.१९६ ।। विशाखायां यदा सूर्यश् चरतेंऽशं तृतीयकम्। तदा चन्द्रं विजानीयात् कृत्तिकाशिरसि स्थितम् ।। ५०.१९७ ।। विषुवन्तं तदा विद्यादेवमाहुर्महर्षयः। सूर्येण विषुवं विद्यात् कालं सोमेन लक्षयेत् ।। ५०.१९८ ।। 
 
-{{< figure src="../images/zodiac_history/bce-2300-01-13_kRttikA_anUrAdhAH_equinox_dhaniShThA-shatabhiShak_maghA_solstice.png" title="2300-01-13" >}}
+{{< figure src="../images/zodiac_history/bce-2300-01-13_kRttikA_anUrAdhAH_equinox_dhaniShThA-shatabhiShak_maghA_solstice.png">}}
+
+{{< figure src="../images/zodiac_history/bce-3000_naxatra-chakra.jpg">}}
 
 
 ## 1400 BCE solistice at shraviShThArdha
@@ -49,4 +54,9 @@ title: Equinoctial records
 - Roughly corresponds to Spica/Citra (नक्षत्रम्, न तु तारा) at polar longitude 180°, and pushya at around 102 deg. Thence, is close to Lahiri ayanAmsha as of 2000-s.
 
 ## 550 AD - varAhamihira
-- "the Hindu encyclopedist varAhamihira, who was an acute observer, writing around 550 AD states that the spring equinox fell 10′ East of Zeta Piscium in revatI."
+- "the Hindu encyclopedist varAhamihira, who was an acute observer, writing around 550 AD states that the spring equinox fell 10′ East of Zeta Piscium in revatI." This is ashvinI-reavtI border.
+
+{{< figure src="../images/zodiac_history/ce-0499-12-20_revatI_chitrA_equinox_makara-sankramaNa_shroNa-10deg_punarvasU_solstice.png"  >}}
+
+## 20th CE
+{{< figure src="../images/zodiac_history/ce-2030-12-22_uttara-phAlgunI_uttara-proShThapAda_equinox_pUrvAShADhAH_mRgashIrSha-10deg_punarvasU_solstice.png"  >}}
