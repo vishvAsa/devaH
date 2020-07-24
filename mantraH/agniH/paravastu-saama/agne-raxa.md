@@ -18,7 +18,7 @@ unicode_script: devanagari
 प्रति स्म देव रीषतः ।  
 तपिष्ठैर् अजरो दह  ।
 
-{{< figure src="../../images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png" attributionclass="thumbnail">}}
+{{< figure src="../../images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png"  class="thumbnail">}}
 
 
 ## साम

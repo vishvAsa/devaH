@@ -28,7 +28,7 @@ practice_weight: 0
 स॒हस्रा॑णि च॒ दद्म॑हे । 
 तर॑त् स म॒न्दी धा॑वति॥  
 
-{{< figure src="../../images/soma-purification.png" attributionclass="thumbnail">}}
+{{< figure src="../../images/soma-purification.png"  class="thumbnail">}}
 
 ## साम १
 - पारम्परिकगानमूलम् - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n2/mode/1up&sa=D&ust=1542425956390000)।]

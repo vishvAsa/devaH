@@ -35,8 +35,8 @@ RV.3.9.2a; SV.1.53a; N.4.14a; M;S.3.8.1a.
 
 का꣡य꣢मानो व꣣ना꣢꣫ त्वं यन्मा꣣तृ꣡रज꣢꣯गन्न꣣पः꣢। न꣡ तत्ते꣢꣯ अग्ने प्र꣣मृ꣡षे꣢ नि꣣व꣡र्त꣢नं꣣ य꣢द्दू꣣रे꣢꣫ सन्नि꣣हा꣡भुवः꣢ ।।53
 
-{{< figure src="../../images/forest-fire.jpg" attributionclass="thumbnail">}}
-{{< figure src="../../images/lightning.jpg" attributionclass="thumbnail">}}
+{{< figure src="../../images/forest-fire.jpg"  class="thumbnail">}}
+{{< figure src="../../images/lightning.jpg"  class="thumbnail">}}
 
 
 ## साम

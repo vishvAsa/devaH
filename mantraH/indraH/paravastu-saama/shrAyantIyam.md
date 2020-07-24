@@ -23,7 +23,7 @@ RV.8.99.3a; AV;S.20.58.1a; SV.1.267a; 2.669a; VS.33.41a; JB.3.261a; KB.25.6; A;S
 अ꣡ल꣢र्षिरातिं वसु꣣दा꣡मुप꣢꣯ स्तुहि भ꣣द्रा꣡ इन्द्र꣢꣯स्य रा꣣त꣡यः꣢।  
 यो꣡ अ꣢स्य꣣ का꣡मं꣢ विध꣣तो꣡ न रोष꣢꣯ति꣣ म꣡नो꣢ दा꣣ना꣡य꣢ चो꣣द꣡य꣢न् ।।
 
-{{< figure src="../../images/indra-as-maghavAn-followed-by-people-bearing-wealth-moving-towards-a-yajamAna.png" attributionclass="thumbnail">}}
+{{< figure src="../../images/indra-as-maghavAn-followed-by-people-bearing-wealth-moving-towards-a-yajamAna.png"  class="thumbnail">}}
 
 
 ## साम

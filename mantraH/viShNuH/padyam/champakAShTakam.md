@@ -55,4 +55,4 @@ unicode_script: devanagari
 ये पठन्ति भक्तितः प्रयान्ति ते तु सर्वदा  
 चम्पकापुरी-निवास-मा-निवास-सन्निधिम् ॥ ९ ॥  
 
-{{< figure src="../../images/champakApurI-utsava.jpg" attributionclass="thumbnail">}}
+{{< figure src="../../images/champakApurI-utsava.jpg"  class="thumbnail">}}

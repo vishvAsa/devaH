@@ -24,5 +24,5 @@ practice_weight: 0
 श॒तं भ॑वास्यू॒तिभिः॑ +++(=रक्षाभिः)+++३  
 +++(अभिभवसि = सम्मुखो भवसि)+++
 
-{{< figure src="../../images/indra-as-maghavAn-followed-by-people-bearing-wealth-moving-towards-a-yajamAna.png" attributionclass="thumbnail">}}
+{{< figure src="../../images/indra-as-maghavAn-followed-by-people-bearing-wealth-moving-towards-a-yajamAna.png"  class="thumbnail">}}
 

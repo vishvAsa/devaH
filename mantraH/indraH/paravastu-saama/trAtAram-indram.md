@@ -24,7 +24,7 @@ unicode_script: devanagari
 त्रातारमिन्द्रमवितारमिन्द्रं हवेहवे सुहवं शूरमिन्द्रम्।  
 हुवे नु शक्रं पुरुहूतमिन्द्रमिदं हविर् मघवा वेत्व् इ्द्रः॥
 
-{{< figure src="../../images/indra-rising-to-protect-charriots-of-army.jpg" attributionclass="thumbnail">}}
+{{< figure src="../../images/indra-rising-to-protect-charriots-of-army.jpg"  class="thumbnail">}}
 
 
 ## साम
