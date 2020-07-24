@@ -18,7 +18,7 @@ There is an extensive literature on Vedānga Jyōtiṣa which has been studied b
 
 ## Summary of the Contents 
 ### yuga
-"Five years constitute a Yuga or Saros of the sun and the moon. The yuga comprises 1830 sāvana days (civil days) and 1860 tithis (lunar days). In the yuga, there are 62 lunar months and 60 solar months. So two months are omitted as intercalary months, in a period of 5 years. The number of omitted tithis in the period is 30. There are 67 naksatra-months (sidereal months) in the yuga The moon passes through 67 x 27 = 1809 nakṣatras within this period. The yuga begins at winter solstice with the sun, and the moon together at the Dhaniṣthā asterism (α or β Delphini)." These are the main points from which the five yearly calendar can be constructed. 
+"**Five years** constitute a **Yuga** or Saros of the sun and the moon. The yuga comprises **1830 sāvana days** (civil days) and **1860 tithis** (lunar days). In the yuga, there are **62 +++(synodic)+++ lunar months** and **60 solar months**. So **two months are omitted** as intercalary months, in a period of 5 years. The number of omitted tithis in the period is 30. There are **67 naksatra-months** (sidereal months) in the yuga The moon passes through 67 x 27 = 1809 nakṣatras within this period. The **yuga begins at winter solstice** with the **sun, and the moon together at the Dhaniṣthā** asterism (α or β Delphini)." These are the main points from which the **five yearly calendar** can be constructed. 
 
 The Vedānga Jyotisa further describes measure ments of the subdivisions of the day by means of the clepsydra, as well as by gnomon-shadows. One particular feature is the assumption that the ratio of the length of the day to that of the night on the summer solstice day is as 3: 2 +++(Roughly Tashkent lattitude! 5)+++. 
 
@@ -29,23 +29,20 @@ We observe that all the mathematical rules point out only to mean motions of the
 
 There is **no mention** of the zodiac or **twelve signs of the zodiac**, or of **week days**, or of **planetary motion**. 
 
+## Luni-solar adjustment
 Let us now look critically into the rules.
 
 5 solar years = 365.2422 x 5 = 1826.2110 days; 62 synodic months = 29.53059 x 62 = 1830.8965 days ; 67 sidereal months = 27.32166 x 67 = 1830.5512 days. 
 
 Therefore, regarded as a measure for **luni-solar adjustment**, the **error is 4.685 days in a period of 5 years**, i.e., if we started a yuga with the sun and the moon together on the winter solstice day, the beginning of the next yuga (6th year) would occur 4.685 days later than the winter solstice and in 5 to 6 yugas the discrepancy would amount to a month or half season. This cannot escape notice, and therefore there must have been some way of bringing back the yuga to the winter solstice day. Otherwise the calendar becomes useless. But how could it have been done? This is a matter for conjecture and several hypotheses have been proposed. According to S. B. Dīkṣit, we should have in 95 years : 
 
-- according to the V. J., x 95-38 intercalary months, while actually we have, I'o x 95-35 intercalary months. 
+- according to the V. J., 2/5 x 95 = 38 intercalary months, while actually we have, 7/19 x 95 = 35 intercalary months. 
 
 So the Vedānga Jyōtiṣa rules introduce 3 more intercalary months than necessary in 95 years, and if these are dropped, we can have good adjustment. This could have been done as follows : 
 
-In the first period of 30 years-6 yugas, suppose they had 11 intercalary months instead of 12. 
+In the first period of 30 years 6 yugas, suppose they had 11 intercalary months instead of 12. 
 
-The beginning of the yuga would go ahead of the winter solstice in 30 years by 4685 X6-28.110 days. 
-
-224 
-
-The mistake was .000305 days on the lower side of 1 nakṣatra in 3279 days or about 9 years. 
+The beginning of the yuga would go ahead of the winter solstice in 30 years by 4685 X6 = 28.110 days.  The mistake was .000305 days on the lower side of 1 nakṣatra in 3279 days or about 9 years. 
 
 But if we do not have the intercalary month on the 30th year, the "yuga-beginning is brought back to 29.53–28.110- 1.421 days before the W.S. day. The same process is repeated for the next period of 30 years. The yugd-beginning is thus brought back to 2.842 days before the W.S. day. 
 
