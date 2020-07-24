@@ -34,6 +34,6 @@ unicode_script: devanagari
 - "… उच्चस्तरीय "पंचांग- संशोधन-समिति" (Calender Reform Committee) का गठन किया, जिसमें होमी भाभा जैसे भौतिक शास्त्री भी थे। इस समिति ने पंचांगविशेषज्ञों से विस्तृत विचार-विमर्श के अनन्तर दृकपक्षीय पंचांगगणना को प्रामाणिक ठहराया और भारतसरकार को इसी पक्षानुसार निर्णीत व्रत-पों के दिनों को ही अवकाश आदि के लिए मान्यता देने का परामर्श दिया और भारत के अशेष भारतीय पंचांगकारों को भी इसी पक्षानुसार पंचांगनिर्माण के लिए प्रेरित किया। इसी कमेटी के परामर्श से भारतसरकार द्वारा English, संस्कृत, उर्दू एवम् भारत की गुजराती, मराठी आदि बारह प्रान्तीय भाषाओं में दृकपक्षीय 'राष्ट्रीय पञ्चांग' को प्रतिवर्ष प्रकाशित किया जा रहा है।"
 
 ## vedAnga-jyotiSha
-- See timing based on [equinoctial records](equinotical_records).
+- See timing based on [equinoctial records](equinoctial_records).
 - "Interestingly, the total variation in day-light time is given as 6 muhUrta-s which corresponds approximately to the latitude of 35° N. This will be north of kubhA (kabul in modern Afghanistan), and might imply that the observations were inherited from the time the Aryas occupied the BMAC archaeological sites." - [MT](https://manasataramgini.wordpress.com/2006/12/02/vedanga-jyotisha-and-other-ramblings-on-early-hindu-calenders/)
 - "* Time is kept using a water-clock. The volume of water of weight 50 pala-s, at room temperature, is one Adhaka (a volume measure)."

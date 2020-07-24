@@ -7,7 +7,7 @@ unicode_script: devanagari
 - "The veda also furnishes direct accounts of the deadly jaw-like nature of the halves of the years ...Thus, the crashing doors are the halves of the year held by the frame of solstices and equinoxes. ...  the deadly crashing doors are an ancient mythic motif representing the year and might be used in the precession myths. ... A corollary would be that these mythic motifs had come into being at least by 12000 year BP when the Native Americans are believed to have separated from the Eurasians. If so the long records of precession ‘literally” yuga after yuga” might not be surprising." [MT](https://manasataramgini.wordpress.com/2007/01/15/the-crashing-doors/)
 
 ## Record of shifting equinox points
-- See [tropicalization section of ayanAMsha](../equinotical_records/) notes
+- See [tropicalization section of ayanAMsha](../equinoctial_records/) notes
 - तैत्तिरीय-ब्राह्मणारण्यकयोर् नक्षत्रमुखभेदेन तज्ज्ञानं व्यक्तम्। 
 - "assertion of the American indologist Whitney maintained to this date among Abrahamistic white indologists and their imitators: "The Hindus borrowed their nakShatra system from Mesopotamia and would probably have retained it in that form \[i.e. with kR^ittikA at the vernal equinox of 2300 BCE\] until the present day but for the revolution wrought in their science by Greek teaching." Clearly even within the vaidika period (including vedA~Nga jyotiSha) the Hindus had made multiple changes for precession not just at the time of varAhamihira after interactions with yavana-s." \[[MT](https://manasataramgini.wordpress.com/2013/11/08/anatomy-and-heavens-in-the-boomorphic-universe/)\]
 
