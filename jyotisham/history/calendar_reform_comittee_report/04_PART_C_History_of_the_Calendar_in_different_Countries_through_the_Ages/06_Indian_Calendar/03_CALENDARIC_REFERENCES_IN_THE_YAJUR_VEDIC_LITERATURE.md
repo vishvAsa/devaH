@@ -89,39 +89,28 @@ The solar month-names given earlier have not gone into general currency. The mon
 तस्यैकै॒व नि॒र्या यथ् साम्मे᳚घ्ये विषू॒वान्थ् स॒म्पद्य॑ते । चि॒त्रा॒पू॒र्ण॒मा॒से दी᳚ख्षेरन् ।  
 मुखँ॒व् वा ए॒तथ्सँ॑व्वथ्स॒रस्य॒ यच् चि॑त्रापूर्णमा॒सः । मु॒ख॒त ए॒व सँ॑व्वथ्स॒रम् आ॒रभ्य॑ दीख्षन्ते । 
 
-Translation :--One should get consecrated on the Phalguni full-moon day because Phalguna full moon is the "mouth" of the year. Hence, ( such people ) are taken as consecrated from the very beginning of the year. But such people have to accept one 'niryā' ( draw back ), viz., that the Viṣuvān occurs in the cloudly season ( sammeghya ). Hence, one should consecrate on the Citrā full-moon day. The Citrā full moon month is the mouth of the year. 
+Translation :--One should get consecrated on the Phalguni full-moon day because Phalguna full moon is the "mouth" of the year. Hence, ( such people ) are taken as consecrated from the very beginning of the year. But such people have to accept one 'niryā' ( draw back ), viz., that the Viṣuvān occurs in the cloudly season ( sammeghya ). Hence, one should consecrate on the Citrā full-moon day +++(ie a month later)+++. The Citrā full moon month is the mouth of the year. 
 
-From these passages, we learn that the lunar month came gradually. The ancient Indians reckoned by the pakṣa or the fortnight, and distinguished the closing full moon day of the pakṣa by the nakṣatra where the moon was full. Thus Phālguni Paurṇamāsi is that full moon when the moon gets full near the Uttara Phalguni star (B Leonis ), one of the lunar mansions. Caitri Paurṇamāst is that full moon, when the moon gets full near the Citrā star (α Virginis ), which is the 14th lunar mansion. Later, as the months were always full-moon ending, the word paurṇamāsi was dropped, and, e.g., the first part of Caitra-Paurna māsi, i.e., Caitra became the lunar month-name. The above passage says that the Phālguna Paurnamāsi was regarded as the last day of the year and less frequently the Caitra Paurṇamāsi. This system still continues, and the first lunar month Caitra of the lunar year begins on the day after Phalguni Paurṇamāsi. 
+From these passages, we learn that the lunar month came gradually. The ancient Indians **reckoned by the pakṣa or the fortnight**, and distinguished the closing full moon day of the pakṣa by the nakṣatra where the moon was full. Thus **Phālguni Paurṇamāsi** is that full moon when the moon gets full near the Uttara Phalguni star (β Leonis ), one of the lunar mansions. Caitrī Paurṇamāsī is that full moon, when the moon gets full near the Citrā star (α Virginis ), which is the 14th lunar mansion. Later, as the months were always full-moon ending, the word **paurṇamāsi was dropped**, and, e.g., the first part of Caitra-Paurnamāsi, i.e., Caitra became the lunar month-name. The above passage says that the Phālguna Paurnamāsi was regarded as the last day of the year and less frequently the Caitra Paurṇamāsi. This system still continues, and the first lunar month Caitra of the lunar year begins on the day after Phalguni Paurṇamāsi. 
 
 There are twenty-seven nakṣatras and so only 12 can be selected for lunar month-names. 
 
-The twelve names which we have got are : Caitra 
+The twelve names which we have got are : 
 
-from Citra 
+- Caitra from Citra (No. 14) 
+- Vaisakha Visakhā ( 16) 
+- Jyaiṣtha Jyeṣtha ( 18) 
+- Aṣadha Āṣadha ( 20 & 21 ) 
+- śravaṇa Śravana ( 22 ) 
+- Bhadra Bhādrapada (25 & 26 ) 
+- Asvina Asvinī (1) 
+- Kartika Kr̥ttikā (3) 
+- Margaśirṣa Msgaśiras (5) 
+- Pauṣa Puṣya ( 8) 
+- Māgha Magha ( 10 ) 
+- Phālguna Phalgunī (11 & 12) 
 
-(No. 14) Vaisakha 
-
-Visakhā ( » 16) Jyaiṣtha 
-
-Jyeṣtha ( , 18) Aṣadha 
-
-Āṣadha ( , 20 & 21 ) śravaṇa 
-
-Śravana (,, 22 ) Bhadra 
-
-Bhādrapada (,, 25 & 26 ) Asvina 
-
-Asvinī (, 14) Kartika 
-
-Kșttikā (, 3) Margaśirṣa 
-
-Msgaśiras (,, 5) Pausa 
-
-Puṣya ( 8) Magha 
-
-Magha ( 10 ) Phalguna 
-
-Phalguni (, 11 & 12) 
+Of course, full moon takes place by turn in all the nakṣatras. But only 12 at approximately equal intervals could be selected. But we have too Rauhiṇya paurṇamāsī etc. the pakṣa when the moon becomes full near Rohini, or Aldebaran ( lunar mansion No. 4). But Rauhinya' was not selected for the name of a lunar month, because it was too near Kr̥ttikā-Paurṇa-māsī. 
 
 is completed when the moon is ahead of the sun by 12°, or integral multiples of 12° ( vide § 57). 
 
@@ -141,4 +130,3 @@ This has been interpreted by Prof. P. C. Sengupta as follows:
 
 During the waxing moon ( śukla pakṣa ), the tithi was reckoned from moon-set to moon-set ;, and during the waning moon ( krsna pakṣa ), the tithi was reckoned from moon-rise to moon-rise. The tithis were thus of unequal length, as shown by Prof. P. C. Sengupta in Table No. 11 on page 222. 
 
-Of course, full moon takes place by turn in all the nakṣatras. But only 12 at approximately equal intervals could be selected. But we have too Rauhinya paurṇamāsi etc. the pakṣa when the moon becomes full near Rohini, or Aldebaran ( lunar mansion No. 4). But Rauhinya' was not selected for the name of a lunar month, because it was too near Krttikā-Paurṇa māsī. 
