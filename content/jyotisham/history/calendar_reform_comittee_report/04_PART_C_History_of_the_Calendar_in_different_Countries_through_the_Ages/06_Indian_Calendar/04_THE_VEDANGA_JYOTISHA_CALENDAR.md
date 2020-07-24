@@ -117,41 +117,25 @@ Table 12. +++(Typical)+++ Number of days in each month of the Vedanga Jyotiṣa 
 As already shown, the actual length of 62 lunar months is 1830.8965 days, while there are 1830 civil days in the five yearly period. It is therefore very likely that one civil day was added to the period when necessary to make it conform to the phases of the moon which were regularly observed. This additional day was no doubt placed at the end of the period, and when it was added the last month adhika Magha contained 30 days instead of 29 days which was otherwise its due. +++(Or, this is an artificial problem - adding adhika-mAsa-s only when needed solves the problem quite satisfactorily.)+++
 
 ## Solstice day length and latitude
-The ratio 3/2 for the duration of the longest day to that of the shortest night given in the Vedānga Jyotiṣa was first noted by Dr. Thibaut. Later the same ratio was found by Father Kugler from Babylonian cunei form records of the Seleucidean period. The ratio is characteristic of a latitude of 350 N, which is nearly that of Babylon (for Babylon Ø=32° 40'N). Hence it has been inferred that the Vedānga Jyotiṣa-astronomers got this ratio from Seleucidean Babylon. But it may be pointed out that the Vedic life centred round North-Western India, from the Sarasvatī valley (Kuruksetra 0=29° 58') to Gandhar (§=31° 32'N). The ratios of the duration of daylight to, night on the summer-solstice day for different latitudes are as follows: 
+The ratio 3/2 for the duration of the longest day to that of the shortest night given in the Vedānga Jyotiṣa was first noted by Dr. Thibaut. Later the same ratio was found by Father Kugler from Babylonian cunei form records of the Seleucidean period. The ratio is characteristic of a latitude of 35° N, which is nearly that of Babylon (for Babylon φ=32° 40'N). Hence it has been inferred that the Vedānga Jyotiṣa-astronomers got this ratio from Seleucidean Babylon. But it may be pointed out that the Vedic life centred round North-Western India, from the Sarasvatī valley (Kurukṣetra φ=29° 58') to Gāndhār (φ=31° 32'N). The ratios of the duration of daylight to, night on the summer-solstice day for different latitudes are as follows: 
 
 Table 13. 
 
 Longest day and shortest night (Calculated with obliquity of ecliptic as 23° 51' which is for 1300 B. C. The results for 500 B. C. are also almost the same.) 
 
-Shortest night 
-
-Ratio 
-
-Longest day : 13h 58m 
-
-14 3 14 6 
-
-1.39 
-
-Latitude 
-
-30° N 31°N 31° 32' N 32° N 32°40' N 330 N 34° N 35° N 
-
-saro 
-
-9 57 9 54 9 52 948 9 46 941 9 36 
-
-14 12 14 14 14 19 14 24 
-
-1.41 1.42 1.43 1.45 146 1.48 1.50 
+<div class="spreadsheet" src="../../../tables/day_night_ratio_by_latitude.csv" separator=","> </div>  
 
 It is seen from the above table, that even at the latitude of Babylon, the ratio is not 1.50 but: 1.45. At Gandhār, it is 1.42. The difference is not very large. But there is another factor to which attention must be drawn. 
 
-Both Babylonians and Indians measured subdivisions of the day by means of some kind of Clepsydra. A description of the Clepsydra used by Indians during the Vedānga Jyōtiṣa-period will be found in S.B. Dīkṣit's Bharatīya Jyotiśāstra (Sec. II, Chap. I). But 'the daya length must have been measured from the observed time of sunrise to the observed time of sunset. This is somewhat larger than the astronomical time of sunrise on account of refraction. Assuming that the effect of refraction is to elevate a celestial body near the horizon by about 35', and the sun's semi-diameter is about 16', the sun's upper limb appears on the horizon at a place on 32° latitude, about 45 minutes before the centre of the sun is due on the horizon. For the same reason, 'the sunset takes place 45 minutes after the astronomical 
+Both Babylonians and Indians measured subdivisions of the day by means of some kind of Clepsydra. A description of the Clepsydra used by Indians during the Vedānga Jyōtiṣa-period will be found in S.B. Dīkṣit's Bharatīya Jyotiśāstra (Sec. II, Chap. I). But the day length must have been measured from the observed time of sunrise to the observed time of sunset. This is somewhat larger than the astronomical time of sunrise on account of refraction. Assuming that the effect of **refraction is to elevate a celestial body near the horizon by about 35'**, and the **sun's semi-diameter is about 16'**, the **sun's upper limb appears on the horizon at a place on 32° latitude, about 4.5 minutes before the centre** of the sun is due on the horizon. For the same reason, the **sunset takes place 4.5 minutes** after the astronomical calculated sunget. So the **apparent length of the day is increased** bg 2* 4.5 min. or by **9 minutes**. Therefore for the latitude of Babylon we have the length of maximum day-light 14h 12m +9m = 14h 21m, and the night is 9h 39m. The ratio is now 1.49. Taking the effect of refraction into consideration the ratio for **Gāndhār also becomes 1.46**, which is not much different from 1.50 as for Babylon. So it is not necessary to assume that the ratio was obtained from Babylonian sources. 
 
-226 
+## Effect of Procession
+The Vedānga Jyotiṣa was prevalent for a long time over India, for over 1300 years (1000 B.C. to 300 A.D.). Hence it is likely that the subsequent astronomers noticed the gradual shift of the solstitial colure in the lunar-zodiac. In fact, several references are found to this effect. Garga, an astronomer whose name is found in the Mahabharata, where he is described as having an astronomical school at a place called Gargasrota in the Sarasvatī basin, is the reputed author of a pre-Siddhāntic calendaric treatise called Garga Samhita. . He notes : 
 
-calculated sunget. So the apparent length of the day is increased bg 2* 44 min. or by 9 minutes. Therefore for the latitude of Babylon we have the length of maximum day-light 14h 12m +9m 14h 21m, and the night is gb 399 The ratio is now 1.49. Taking the effect of refraction into consideration the ratio for Gandhar also becomes 1.46, which is not much different from · 1.50 as for Babylon. So it is not necessary to assume that the ratio was obtained from Babylonian sources. 
+Yadā nivarta to'prāptaḥ śraviṣthamuttarāyape Aśleṣām dakśiṇo'prāptah tadā vindyanma had bhayam. 
+
+Translation : When at the time of Ottarāyana the sun is found turning (north) without reaching the Sraviṣthās; and (at the time of Dakṣiṇāyana) turning (south) without reaching the Aśleṣā, it should be taken to indicate a period of calamity. 
+
 
 : We get from this the time of composition of the Mahābhārata as about 450 B.C. or sometime earlier.. 
 
@@ -163,11 +147,6 @@ punarvasutab. Translation : When the return of the sun towards the south (1.., t
 
 In his Brhat Samhita, an astrological treatise, he. records : 
 
-Effect of Procession The Vedānga Jyotiṣa was prevalent for a long time over India, for over 1300 years (1000 B.C. to 300 A.D.). Hence it is likely that the subsequent astronomers noticed the gradual shift of the solstitial colure in the lunar-zodiac. In fact, several references are found to this effect. Garga, an astronomer whose name is found in the Mahabharata, where he is described as having an astronomical school at a place called Gargasrota in the Sarasvatī basin, is the reputed author of a pre-Siddhāntic calendaric treatise called Garga Samhita. . He notes : 
-
-Yadā nivarta to'prāptaḥ śraviṣthamuttarāyape Aśleṣām dakśiṇo'prāptah tadā vindyanma had bhayam. 
-
-Translation : When at the time of Ottarāyana the sun is found turning (north) without reaching the Sraviṣthās; and (at the time of Dakṣiṇāyana) turning (south) without reaching the Aśleṣā, it should be taken to indicate a period of calamity. 
 
 It shows that at the time of Garga the W.S. did no longer occur in Śraviṣthā, neither the S.S. occurred in the Aśleṣā division. At the time of. Vedānga Jyōtiṣa the two solstices were marked by the starting point of Śraviṣtha and the middle point of Asleṣā respectively. Garga therefore observed that the solstices were reced ing back over the lunar calendar, and had shifted at least by half a nakṣatra-division from the middle of Āṣleṣā. His observations are therefore at least 480 years later than those of the Vedānga Jyōtiṣa. 
 
@@ -183,9 +162,7 @@ Brhat Samhitā, III, 1 Asleṣārdbātdakgiṇam uttaramayanan raverdbaniṣthô
 
 Translation : The beginning of the southern motion when the sun has passed half of Aśleṣā and the begin ning of the northern motion when the sun has passed the beginning of Dhaniṣthā, must have taken place at some epoch; for these are recorded in old treatises. 
 
-From the time of Vedānga Jyotiṣa to Varāhamihira's. time the summer solstice moved through more than 14 nakṣatras ( f of Aslesá + Pusya ) which indicated a lapse of more than 1500 years from the time of Vedānga. 
-
-Jyotiṣa. 
+From the time of Vedānga Jyotiṣa to Varāhamihira's. time the summer solstice moved through more than 14 nakṣatras ( f of Aslesá + Pusya ) which indicated a lapse of more than 1500 years from the time of Vedānga Jyotiṣa. 
 
 It is thus seen that the Hindu astronomers observed. the shifting of the cardinal points due to precession of the equinoxes ; but as they had not developed the sense of era, they were unable to find out the time. interval between different records, and obtain a rate for precession, as was done by Hipparchos. Their observations were also crude; as they used only the lunar zodiac. The shifting of the solstitial colures remained to them an unsolved mystery. 
 

@@ -212,7 +212,7 @@ kṣatrapasa. . 19. Dewai : sam 200 Vesakhasa masasa dirase
 
 i athamo 8 itra khanasa. 
 
-Era or eras of unknown origin began to be mentioned in certain inscriptions found in the North Western Punjab and the Kabul valley about the first century B.C. Some of them mention kings belonging to the śaka tribes who ruled Ariana (west and southern Afghanistan comprising the Herat regions-Area), the Kandahar regions (Arachosia), and Gandhara (N.W. Punjab) between the second century B.C. and the first 
+Era or eras of unknown origin began to be mentioned in certain inscriptions found in the North Western Punjab and the Kabul valley about the first century B.C. Some of them mention kings belonging to the śaka tribes who ruled Ariana (west and southern Afghanistan comprising the Herat regions-Area), the Kandahar regions (Arachosia), and Gāndhāra (N.W. Punjab) between the second century B.C. and the first 
 
 230 
 
@@ -234,9 +234,9 @@ This series starts with the year 58, if Cunningham's reading of (1) with the add
 
 We now take the second group of inscriptions which are those of the Kuṣānas, who ruled in North India in the second century A.D. 
 
-· Date of records of Group A None of the inscriptions of Group A appear to be 'Royal Records' but some contain names of kings, e.g., No. 6, which mentions a Mahārājā Mahamta Moga, who is taken to be identical with a king whose coins have been found in large numbers in Gandhara. He calls himself 'Maves' in the Greek inscription on the obverse, and Moasa (i.e. of Moa) in Kharoṣthi on the reverse. The title given there usually is Maharajasa Rajatirajasa Mahantasa. It is held that King Moga was śaka leader who starting from a base in Seistan or Arachosia, invaded Gandhara through the southern route, sailed up the Indus, and ousted the Greek rulers Archebius from Taxila, Artemidorus from Puṣkalavati and Telephos from Kapsā (Bachhofer, 1936) and founded a large empire comprising parts of Afghanistan, Gandbara and the Punjab. 
+· Date of records of Group A None of the inscriptions of Group A appear to be 'Royal Records' but some contain names of kings, e.g., No. 6, which mentions a Mahārājā Mahamta Moga, who is taken to be identical with a king whose coins have been found in large numbers in Gāndhāra. He calls himself 'Maves' in the Greek inscription on the obverse, and Moasa (i.e. of Moa) in Kharoṣthi on the reverse. The title given there usually is Maharajasa Rajatirajasa Mahantasa. It is held that King Moga was śaka leader who starting from a base in Seistan or Arachosia, invaded Gāndhāra through the southern route, sailed up the Indus, and ousted the Greek rulers Archebius from Taxila, Artemidorus from Puṣkalavati and Telephos from Kapsā (Bachhofer, 1936) and founded a large empire comprising parts of Afghanistan, Gandbara and the Punjab. 
 
-He is generally held to have been a śaka, but some hold without sufficient reason that he was a Parthian. He is the firstwef Indo-Scythian kings known to numismatics. He was followed by other Indo-Scythian kings in Gandhara, who are known from wide variety of coins issued, viz., Azes I, .Azilises and Azes II. But there is no clear reference to them in these ins criptions except the word 'Ayasa' in Nos. 10 and 15, 
+He is generally held to have been a śaka, but some hold without sufficient reason that he was a Parthian. He is the firstwef Indo-Scythian kings known to numismatics. He was followed by other Indo-Scythian kings in Gāndhāra, who are known from wide variety of coins issued, viz., Azes I, .Azilises and Azes II. But there is no clear reference to them in these ins criptions except the word 'Ayasa' in Nos. 10 and 15, 
 
 GROUP B The Kuṣāna Inscriptions after Kaniska : 24. Kaniṣka casket: sam 1 mal harayasa ] 
 
