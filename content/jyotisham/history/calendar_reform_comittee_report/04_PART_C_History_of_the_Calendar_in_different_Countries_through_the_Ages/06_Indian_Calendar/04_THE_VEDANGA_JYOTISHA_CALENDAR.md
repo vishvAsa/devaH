@@ -116,6 +116,7 @@ Table 12. +++(Typical)+++ Number of days in each month of the Vedanga Jyotiṣa 
 
 As already shown, the actual length of 62 lunar months is 1830.8965 days, while there are 1830 civil days in the five yearly period. It is therefore very likely that one civil day was added to the period when necessary to make it conform to the phases of the moon which were regularly observed. This additional day was no doubt placed at the end of the period, and when it was added the last month adhika Magha contained 30 days instead of 29 days which was otherwise its due. +++(Or, this is an artificial problem - adding adhika-mAsa-s only when needed solves the problem quite satisfactorily.)+++
 
+## Solstice day length and latitude
 The ratio 3/2 for the duration of the longest day to that of the shortest night given in the Vedānga Jyotiṣa was first noted by Dr. Thibaut. Later the same ratio was found by Father Kugler from Babylonian cunei form records of the Seleucidean period. The ratio is characteristic of a latitude of 350 N, which is nearly that of Babylon (for Babylon Ø=32° 40'N). Hence it has been inferred that the Vedānga Jyotiṣa-astronomers got this ratio from Seleucidean Babylon. But it may be pointed out that the Vedic life centred round North-Western India, from the Sarasvatī valley (Kuruksetra 0=29° 58') to Gandhar (§=31° 32'N). The ratios of the duration of daylight to, night on the summer-solstice day for different latitudes are as follows: 
 
 Table 13. 
