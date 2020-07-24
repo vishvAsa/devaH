@@ -479,7 +479,7 @@ Iranian names, 166 ; length of, 211, 242-246, 251 ; length recommended by the
 
 Committee 2, 5, 6, 13, 15; names in. French Revolution 
 
-calendar, 187; names in Yajur-Veda, 218; names of, Indian 5, 6, 7, 14, 15 ; Dames, Persian 166, 167; number of days in Vedanga Jyōtiṣa, 
+calendar, 187; names in Yajur-Veda, 218; names of, Indian 5, 6, 7, 14, 15 ; Dames, Persian 166, 167; number of days in Vedānga Jyōtiṣa, 
 
 225; variation in length, 1 Synodic period, 197, 223 Moon, crescent of, 182 ; 
 
@@ -675,7 +675,7 @@ Vadi, 247, 248 Vaidya, Prof. R.V., 263 Vaidyanātha Dikṣitiyam, 101 Vājasaney
 
 237, 238, 240, 252, 255, 267 Varupa, Indian god, 215, 216 Vasistha, Indian sage, 238 Vasiṣtha Siddhānta, 236, 237, 267 Vasudeva I, 231, 232 Vāsudeva II, 231, 232 Vedas, description and literature, 214; 
 
-age of its literature, 214, 215 Vedangas, 214, 215 Vedãnga Jyotiṇa, 161, 217, 224, 226, 237, 240, 
+age of its literature, 214, 215 Vedangas, 214, 215 Vedãnga Jyotiṣa, 161, 217, 224, 226, 237, 240, 
 
 241, 245, 246; 
 
@@ -713,7 +713,7 @@ Yuga, 217; "Siddhāntic, 11, 241, 245 ;
 
 of Romaka Siddhānta 237 " Solar, 2, 241; 
 
-of Vedanga Jyotisa, 223, 224 ; » Vedanga Jyōtiṣa, 241, 245; Yug&di, 107 " " Vedic Aryan, 216, 218; definition of, 157, 158 ; draconitic (eclipse), 186 ; 
+of Vedānga Jyōtiṣa, 223, 224 ; » Vedānga Jyōtiṣa, 241, 245; Yug&di, 107 " " Vedic Aryan, 216, 218; definition of, 157, 158 ; draconitic (eclipse), 186 ; 
 
 Zarathustra, 167 error in beginning of, 1, 13, 15, 241 ; 
 
