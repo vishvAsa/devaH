@@ -1,5 +1,5 @@
 ---
-title: Equinotical records
+title: Equinoctial records
 ---
 
 ## 4500 BCE - Equinox at mRgashIrSha/ prajApati
