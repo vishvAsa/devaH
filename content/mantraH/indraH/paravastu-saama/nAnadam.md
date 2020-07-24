@@ -14,7 +14,7 @@ unicode_script: devanagari
  प्रत्यस्मै पिपीषते विश्वानि विदुषे भर  ।  
 अरङ् गमाय जग्मये ऽपश्चादध्वने नरः।
 
-{{< figure src="../../images/indra-squeezing-soma-into-mouth.jpg" attributionclass="thumbnail">}}
+{{< figure src="../../images/indra-squeezing-soma-into-mouth.jpg"  class="thumbnail">}}
 
 
 ## साम

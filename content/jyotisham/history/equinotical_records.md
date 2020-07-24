@@ -30,7 +30,7 @@ title: Equinoctial records
 ## 1300 BCE - Solstice : shraviShThAdi
 - "Dating by precession gives the date of the VJ as being around 1300 BC because the it states that the winter solistice was in the beginning for shraviShThA and summer in the mid-point of AshleShA. This is important because in the maitrAyaNi brAhmaNa, shAkhAyanya tells king bR^ihadratha that the winter solistice was in the middle of shraviShThA (MBU 6.14). Thus, the lagadha was clearly aware of the change from the epoch time little before his times. "
 
-{{< figure src="../images/zodiac_history/bce-1400-01-13_bharaNi-3deg_vishAkhA_equinox_dhaniShTha_AshreShA-maghA_solstice.png" attribution>}}
+{{< figure src="../images/zodiac_history/bce-1400-01-13_bharaNi-3deg_vishAkhA_equinox_dhaniShTha_AshreShA-maghA_solstice.png"  >}}
 
 ## 1000 BCE - Summer solstice at AshreShA (shrAvaNa monsoons)
 - वेदाङ्गज्योतिषे - "प्रपद्येते श्रविष्ठादौ सूर्याचन्द्रमसावुदक् । सार्पार्धे दक्षिणार्कस्तु माघश्रावणयोः सदा ।।"
@@ -41,7 +41,7 @@ title: Equinoctial records
     - "Here Nārāyaṇa is identified with the constellations even as Prajāpati was earlier identified with them in the ritual of the Nakṣatra-rūpin Prajāpati specified in the Yajurveda (Taittirīya Brāhmaṇa 1.5.2.2). This identification continues through later Vaiṣṇava tradition. ... The text is clearly a late one clinging to the edge of the Vaidika productions but when exactly was it composed. If one takes Aśvayujau to imply the start of the nakṣatra cycle having shifted to this asterism it would yield a date of around 2300 YBP. This date resonates with the white Indologists who ascribe late dates to all Vedic production. However, we do not think the mouth should be taken as the beginning of the nakṣatra cycle. Rather, that position is usually reserved for the top of the head. Hence, the mouth likely implies the nakṣatra after it which might imply the equinoctial coelure passing before Aśvayujau suggesting a date of around 3300-3000 YBP. (equinox at bharaNI)" [MT1](https://manasataramgini.wordpress.com/2017/07/01/a-note-on-the-asterisms-forming-the-nak%e1%b9%a3atra-s/)
 
 
-{{< figure src="../images/zodiac_history/bce-1100-01-14_bharaNI_vishAkhA_equinox_dhaniShThA-6deg_Ashlesha_solstice.png" attribution>}}
+{{< figure src="../images/zodiac_history/bce-1100-01-14_bharaNI_vishAkhA_equinox_dhaniShThA-6deg_Ashlesha_solstice.png"  >}}
 
 ## 200 BCE - Vernal equinox at ashvinI
 - "One also wonders if the tale of Prajāpati being fitted with a goat’s head after his beheading by Rudra’s agent Vīrabhadra alludes to this period, with the goat’s had representing Aries."

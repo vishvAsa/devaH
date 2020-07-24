@@ -17,7 +17,7 @@ unicode_script: devanagari
 सखाय आ नि षीदत पुनानाय प्र गायत।  
 शिशुं न यज्ञैः परि भूषत श्रिये ॥
 
-{{< figure src="../../images/soma-purification.png" attributionclass="thumbnail">}}
+{{< figure src="../../images/soma-purification.png"  class="thumbnail">}}
 
 
 ## साम १ प्रेङ्खपूर्णम्

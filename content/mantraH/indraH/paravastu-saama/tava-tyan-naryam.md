@@ -27,7 +27,7 @@ RV.2.22.4b; SV.1.466b.
 भु꣢वो꣣ वि꣡श्व꣢म꣣भ्य꣡दे꣢व꣣म् ओ꣡ज꣢सा  
 वि꣣दे꣡दूर्ज꣢꣯ᳱ श꣣त꣡क्र꣢तुर्वि꣣दे꣡दिष꣢꣯म् ।।466 ।।
 
-{{< figure src="../../images/Indra-kills-vRtra-snake-with-vajra.jpg" attributionclass="thumbnail">}}
+{{< figure src="../../images/Indra-kills-vRtra-snake-with-vajra.jpg"  class="thumbnail">}}
 
 
 ## साम

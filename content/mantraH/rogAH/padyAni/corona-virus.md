@@ -8,7 +8,7 @@ unicode_script: devanagari
 - २०१९ इति वर्षादारभ्य कॊरोनावैराणुरोगः प्रासरद् भयानकः। 
 
 ## पाठः
-{{< figure src="../../images/corona-virus.jpg" attributionclass="thumbnail">}}
+{{< figure src="../../images/corona-virus.jpg"  class="thumbnail">}}
 
 किरीट-विष-कीटाणुश्  
 चीनदेश-समुद्भवः ।  
@@ -35,14 +35,14 @@ unicode_script: devanagari
 दुःस्वप्नो मानवेन्द्राणां  
 धुर्यो वीर्याणु-सन्ततेः ॥
 
-{{< figure src="../../images/hand-wash-steps.jpg" attributionclass="thumbnail">}}
+{{< figure src="../../images/hand-wash-steps.jpg"  class="thumbnail">}}
 
 पाणि-प्रक्षालनाभ्यास-  
 प्रवणानाम् अपार्श्वगः ।  
 दन्तुराङ्गो महामारी-  
 क्रीडा-विभ्रम-कन्दुकः+++(५)+++ ॥ (२३)
 
-{{< figure src="../../images/corona-pandemic-map.jpg" attributionclass="thumbnail">}}
+{{< figure src="../../images/corona-pandemic-map.jpg"  class="thumbnail">}}
 
 जगदाक्रमणाटोप-  
 स्फुट-रोमाञ्च-कञ्चुकः।  
@@ -59,7 +59,7 @@ unicode_script: devanagari
 किंवदन्ती-स्रवन्तीनां  
 बह्वीनां प्रभवाचलः ॥
 
-{{< figure src="../../images/face-mask.jpg" attributionclass="thumbnail">}}
+{{< figure src="../../images/face-mask.jpg"  class="thumbnail">}}
 
 वृद्धेष्व् आमरण-स्थायी  
 निर्जनी-कृत-पद्धतिः ।  
@@ -107,7 +107,7 @@ unicode_script: devanagari
 दुरन्त-पटली-प्रावृट्-  
 कदम्ब-कुसुमाऽऽकृतिः॥
 
-{{< figure src="../../images/corona-growth-visualization.png" attributionclass="thumbnail">}}
+{{< figure src="../../images/corona-growth-visualization.png"  class="thumbnail">}}
 
 प्रजा-प्रजागर-क्लेश-  
 प्रतिपादन-कोविदः ।  

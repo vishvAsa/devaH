@@ -5,7 +5,7 @@ unicode_script: devanagari
 practice_weight: 0
 ---
 
-{{< figure src="../../images/sun_solar_flare.jpg" attributionclass="thumbnail">}}
+{{< figure src="../../images/sun_solar_flare.jpg"  class="thumbnail">}}
 
 <div class="audioEmbed"  caption="शङ्करवाचनम्" src="https://archive.org/download/mArtaNDa-daNDakaH/AUD-20141115-WA0006.mp3"></div>
 

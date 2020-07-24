@@ -2,7 +2,7 @@
 title: +रुद्रः
 ---
 
-{{< figure src="images/rudra-with-his-drawn-bow.png" attribution>}}
+{{< figure src="images/rudra-with-his-drawn-bow.png"  >}}
 
 ## रुद्रः
 - पशुपतिः। मरुत्पतिः। रोगदो रोगहा च।

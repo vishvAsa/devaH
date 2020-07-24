@@ -20,7 +20,7 @@ unicode_script: devanagari
 आ सूर्यस्य बृहतो बृहन्नधि  
 रथं विष्वञ्चम् अरुहद् विचक्षणः॥
 
-{{< figure src="../../images/soma_moon_chandra.jpg" attributionclass="thumbnail">}}
+{{< figure src="../../images/soma_moon_chandra.jpg"  class="thumbnail">}}
 
 ## साम
 - पारम्परिकगानमूलम् - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n2/mode/1up&sa=D&ust=1542425956390000)।]

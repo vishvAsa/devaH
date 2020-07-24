@@ -3,8 +3,8 @@ title: दर्भाः
 ---
 
 ## लक्षणम्
-{{< figure src="../images/darbha-1.jpg" attribution>}}
-{{< figure src="../images/darbha-collected.jpg" attribution>}}
+{{< figure src="../images/darbha-1.jpg"  >}}
+{{< figure src="../images/darbha-collected.jpg"  >}}
 
 
 ## आहरणम्
