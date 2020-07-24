@@ -443,7 +443,7 @@ K tutilya, views on astrology; 230
 
 eith, Dr. Berriedale, 218 Kendra, 236, 266 Kepler, 2, 206, 242 Ketu (node), 186 Khalatse (inscription), 229. Khandakhadyaka of Brah magupta, 162, 240, 
 
-253 Kbaroṣthi (inscription), 229, 230, 231, 233 Khotapi Baka (language), 231 Kidinnu, 200 Konow, Dr. Sten, 229, 231, 255 Kranti (declination), 282 Kyttikás, 182, 219, 252 Ksaya month, 247, 248 250 Kugler, 176, 196, 225 Kumbba mela, 6 Kumbha yoga, 108 Kurram (inscription), 230 Kuruksetra, latitude of, 225 Kuṣápas, 213, 230-234, 236, 252, 256 
+253 Kbaroṣthi (inscription), 229, 230, 231, 233 Khotapi Baka (language), 231 Kidinnu, 200 Konow, Dr. Sten, 229, 231, 255 Kranti (declination), 282 Kyttikás, 182, 219, 252 Ksaya month, 247, 248 250 Kugler, 176, 196, 225 Kumbba mela, 6 Kumbha yoga, 108 Kurram (inscription), 230 Kurukṣetra, latitude of, 225 Kuṣápas, 213, 230-234, 236, 252, 256 
 
 Māpikidla (inscription), 230 Månsehnt (inscription), 229. Manvādi, names of, 107 Manzil, Arabian lunar mansion, 182, 183, 
 
