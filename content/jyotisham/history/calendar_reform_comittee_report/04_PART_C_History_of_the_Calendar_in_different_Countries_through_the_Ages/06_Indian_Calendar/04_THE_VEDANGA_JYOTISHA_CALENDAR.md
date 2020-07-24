@@ -18,7 +18,7 @@ There is an extensive literature on Vedānga Jyōtiṣa which has been studied b
 
 ## Summary of the Contents 
 ### yuga
-"**Five years** constitute a **Yuga** or Saros of the sun and the moon. The yuga comprises **1830 sāvana days** (civil days) and **1860 tithis** (lunar days). In the yuga, there are **62 +++(synodic)+++ lunar months** and **60 solar months**. So **two months are omitted** as intercalary months, in a period of 5 years. The number of omitted tithis in the period is 30. There are **67 naksatra-months** (sidereal months) in the yuga The moon passes through 67 x 27 = 1809 nakṣatras within this period. The **yuga begins at winter solstice** with the **sun, and the moon together at the Dhaniṣthā** asterism (α or β Delphini)." These are the main points from which the **five yearly calendar** can be constructed. 
+"**Five years** constitute a **Yuga** or Saros of the sun and the moon. The yuga comprises **1830 sāvana days** (civil days) and **1860 tithis** (lunar days). In the yuga, there are **62 +++(synodic)+++ lunar months** and **60 solar months**. So **two months are omitted** as intercalary months, in a period of 5 years. The number of omitted tithis in the period is 30. There are **67 nakṣatra-months** (sidereal months) in the yuga The moon passes through 67 x 27 = 1809 nakṣatras within this period. The **yuga begins at winter solstice** with the **sun, and the moon together at the Dhaniṣthā** asterism (α or β Delphini)." These are the main points from which the **five yearly calendar** can be constructed. 
 
 The Vedānga Jyotisa further describes measure ments of the subdivisions of the day by means of the clepsydra, as well as by gnomon-shadows. One particular feature is the assumption that the ratio of the length of the day to that of the night on the summer solstice day is as 3: 2 +++(Roughly Tashkent lattitude! 5)+++. 
 
@@ -42,7 +42,7 @@ So the Vedānga Jyōtiṣa rules introduce 3 more intercalary months than necess
 
 In the first period of 30 years 6 yugas, suppose they had 11 intercalary months instead of 12. 
 
-The beginning of the yuga would go ahead of the winter solstice in 30 years by 4685 X6 = 28.110 days.  The mistake was .000305 days on the lower side of 1 nakṣatra in 3279 days or about 9 years. 
+The beginning of the yuga would go ahead of the winter solstice in 30 years by 4685 X6 = 28.110 days.  
 
 But if we do not have the intercalary month on the 30th year, the "yuga-beginning is brought back to 29.53–28.110- 1.421 days before the W.S. day. The same process is repeated for the next period of 30 years. The yugd-beginning is thus brought back to 2.842 days before the W.S. day. 
 
@@ -50,61 +50,56 @@ The next period may be taken to consist of 35 years, i.e., 7 yugas each of five 
 
 But was any such practice really followed ? We have no evidence from the verses ; but S. B. Diksit mentions that intercalary months were inserted only when needed, and hence probably they were 'dropped when not needed.' 
 
-Tithis The main object of the Vedānga Jyōtiṣa calendar appears to have been the correct prediction of the tithi and nakṣatra on any sāvana (civil) day within the yuga. In this respect, the rules were more accurate. A tithi is defined as asth of the lunar month. The correct measure is 
-
-1 tithi - 29.530588 
-
-v =.984353 days, . while the measure taken=$1=.983871 days. The mistake is .000482 days on the lower side or one tithi 
-
-in 2075 days or in 54 years. 
+## Tithis 
+The main object of the Vedānga Jyōtiṣa calendar appears to have been the correct prediction of the tithi and nakṣatra on any sāvana (civil) day within the yuga. In this respect, the rules were more accurate. A tithi is defined as 1/30th of the lunar month. The correct measure is 1 tithi = 29.530588/30  =.984353 days,  while the measure taken = 61/62 = .983871 days. The mistake is .000482 days on the lower side or one tithi in 2075 days or in 5 2/3 years. 
 
 The five yearly period consists of 1830 civil days in which there are 62 synodical months. 
 
 We know 62 x 29.53059=1830.8965 days. Hence in order to make the tithi calculations correct, one day (exactly 0.8965 days) had to be added to the total number of civil days in the period. 
 
-The Time of the Vedānga Jyōtiṣa All recensions of the Vedānga Jyotiṣa contain the following verses : 
+## Nakshatras 
+The days were named according to the nakṣatras or lunar asterisms in which the moon was found, and a lot of crude astrology\* had grown up round this system. So it was necessary to predict the nakṣatra in advance. The Vedānga Jyotiṣa calendar prescribed some methods for such predictions. 
 
-Svarākramete somārkau yadā sākam savāsavau Syāttadādiyugan māghastapah suklo'yanan hyudak. (6) Prapadyete graviṣthādau sūryācandramasāvudak Sārpārdhe dakṣiṇārkastu māghasrāvanayoḥ sadā. (7) These two verses taken together yield the following: 
+\* Astrology based only on the sun and the moon. Later post Siddhāntic, astrology in India is largely Graeco-Chaldean, and makes use of the signs of the zodiac, and of planetary position and motion. 
+
+In a five yearly period of 1830 days, the sidereal revolutions of the moon amounted to 67 in which there are 1809 nakṣatras. 
+
+Actually 1 nakṣatra day=51.74100 =1.011913 days, while the measure taken 1880/1809 = 1.011608 days. 
+
+The mistake was .000305 days on the lower side of 1 nakṣatra in 3279 days or about 9 years.
+
+## The Time of the Vedānga Jyōtiṣa 
+All recensions of the Vedānga Jyotiṣa contain the following verses : 
+
+Svarākramete somārkau yadā sākam savāsavau  
+Syāt tadādiyugaṁ māghastapaḥ śuklo'yanaṁ hyudak. (6)  
+**Prapadyete śraviṣṭhādau sūryācandramasāv udak**  
+Sārpārdhe dakṣiṇārkas tu māghasrāvanayoḥ sadā. (7) 
+
+These two verses taken together yield the following: 
 
 The winter solstice took place at the lunar asterism Śraviṣtha, which is later called Dhaniṣthā. 
 
-This is the 21st nakṣatra in the Krttikādi system and 23rd in the Aśvinyādi system and its component stars are α, β, y and 8 Delphini.* These stars are far away from the ecliptic. We have for 1950 : - 
+This is the 21st nakṣatra in the Krttikādi system and 23rd in the Aśvinyādi system and its component stars are α, β, y and 8 Delphini.\* +++(* On & Dhanisthå day the moon got conjoined with both the B and a Delphinis at interval of 2 hours.)+++ These stars are far away from the ecliptic. We have for 1950 : 
 
-a Delphini, Long. =316° 41' Lat. - +33° 2' B , j =315 39 
+- α Delphini, Long. =316° 41', Lat. - +33° 2' 
+- β, 315 39, +31 55
+- γ, 318 40, +32 41
+- δ, 318 35, +31 57 
 
-= +31 55 y , . = 318 40 
+The Arabs have β and ζ Aquarii which also. represent the Chinese Hsiu. 
 
-= +32 41 , . 318 35 
+It has been stated in the Vedānga Jyotiṣa that the **junction star of the asterism was placed at the beginning of the division** and it marked the **beginning of Uttarāyana** or the W.S. day. Thus the star representing the Dhaniṣthā division had 270° as the longitude at the time when the tradition of the Vedānga Jyotiṣa calendar was formulated. If α Delphini is taken as the principal star of the asterism, then its longitude was 270° at the time of the Vedānga Jyotiṣa and in 1950, its longitude is 316° 41'. As the solstices take about 72 years to retrograde through one degree, the time of Vedānga Jyotiṣa is found to be (316° 41'- 270°) ~ 72 = 46.07°x72=3362 years before 1950 A.D. or **1413 B.C.** The star ß Delphini, however, yields a somewhat lower period, i.e., about 1338 B.C. 
 
-= +31 57 
-
-30 
-
-The Arabs have Band & Aquarii which also. represent the Chinese Hsiu. 
-
-It has been stated in the Vedānga Jyotiṣa that the junction star of the asterism was placed at the beginning of the division and it marked the beginning of Uttarāyana or the W.S. day. Thus the star representing the Dhaniṣthā division had 270° as the longitude at the time when the tradition of the Vedānga Jyotiṣa calendar was formulated. If a Delphini is taken as the principal star of the asterism, then its longitude was 270° at the time of the Vedānga Jyotiṣa and in 1950, its longitude is 316° 41'. As the solstices take about 72 years to retrograde through one degree, the time of Vedānga Jyotiṣa is found to be (316° 41'--270°) ~ 72 46.07x72=3362 years before 1950 A.D. or 1413 B.C. The star ß Delphini, however, yields a somewhat lower period, i.e., about 1338 B.C. 
-
-Nakshatras The days were named according to the nakṣatras or lunar asterisms in which the moon was found, and a lot of crude astrology* had grown up round this system. So it was necessary to predict the nakṣatra in advance. The Vedānga Jyotiṣa calendar prescribed some methods for such predictions. 
-
-In a five yearly period of 1830 days, the sidereal revolutions of the moon amounted to 67 in which there are 1809 wakṣatras. 
-
-Actually 1 nakṣatra day=51.74100 =1.011913 days, while the measure taken 1888 = 1.011608 days. 
-
-The Plan of the Calendar 
+## The Plan of the Calendar 
 
 In a period of 5 years, there are : 
 
-1830 civil days, 62 lunar months, and so 1860 tithis, 
+- 1830 civil days, 
+- 62 lunar months, and so 1860 tithis, 
+- 67 sidereal months and so 1809 nakṣatras. 
 
-67 sidereal months and so 1809 nakṣatras. As the period contains 60 solar months, there are 2 intercalary months which are placed after every 
-
-*Astrology based only on the sun and the moon. Later post Siddhāntic, astrology in India is largely Graeco-Chaldean, and makes use of the signs of the zodiac, and of planetary position and motion. 
-
-* On & Dhanisthå day the moon got conjoined with both the B and a Delphinis at interval of 2 hours. 
-
-INDIAN CALENDAR 
-
-295 
+As the period contains 60 solar months, there are 2 intercalary months which are placed after every 
 
 30 lunar months. Thus in the third year, the month Srāvana is adhika which is followed by śuddha Brāvana ; and in the fifth year the last month is also adhika which is adhika Māgha. 
 
