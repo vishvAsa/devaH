@@ -1,147 +1,22 @@
 +++
-title = "04 THE VEDANGA JYOTISHA CALENDAR"
+title = "04 THE Vedānga Jyōtiṣa CALENDAR"
 
 +++
 
-Titbi 
+## Intro
+The history of the Indian calendar from the end of the Yajurveda period to the beginning of the Siddhānta Jyotiṣa period is very imperfectly known though there are plenty of calendaric references in the Brāhmanās, Sūtras, and the epic Mahābhārata and various literature. On time-scale, it extends from an unknown antiquity, which is set by some at 1300 B.C. to 900 A.D. 
 
-'Tithi' or 'Lunar Day' is a very important concep tion in Hindu astronomy, for holidays are always dated by the tithi. According to Siddhāntic definition, a lithi 
+The **Vedānga Jyōtiṣa** is generally assigned to this period. It may be said to be a sort of collection of short aphorisms giving mathematical rules for fixing the calendar in advance, and is known in three versions : the Rg-Jyotiṣa consisting of 36 verses, attached to the Rg-Veda and ascribed to one Lagadha as mentioned earlier, the Yājuṣ Jyotiṣa attached to the Yajurveda and consisting of 43 verses, and there is a text ascribed to one Somakara, a commentator of unknown age of the Vedas. The dffferent texts contain about the same matter, but the verses are haphazardly arranged showing that the original texts have not come down to us in an unadulterated form. The number of independent verses in all the versions is not more than 49, and some of the verses have not been interpreted. 
 
-The history of the Indian calendar from the end of the Yajurveda period to the beginning of the Siddhānta Jyotiṣa period is very imperfectly known though there are plenty of calendaric references in the Brāhmanās, Sūtras, and the epic Mahābhārata and various literature. On time-scale, it extends from 
+There are several other calendarical treatises which can be assigned to this period. The **Surya Prajñapti**, a Jaina astronomical work, the **Jyotiṣakaraṇḍa**, and the **Kālālokaprakaśa**. 
 
-222 
+A short account of the calendaric rules followed in these treatises is given in Varāhamihira's Pañca Siddhāntika, Chap. XII, where the rules are collected as "**Paitāmaha Siddhānta**" or Astronomical Calendar according to Grandfather Brahma, the Creator, in Hindu mythology. That shows the high antiquity of the rules. **Varāhamihira, as well as Brahmagupta** describe the rules as very "inaccurate" (**Dūravibhraṣṭau**, furthest from truth in Varahamihira's language) though they pay a formal courtesy to the supposed authors. But such has been the case with calendars of all ancient nations, including the Babylonians at this period and a critical account of the Vedānga Jyotiṣa is important from the historical point of view. 
 
-Table 1:1. Duration of Vedic Tithi 
+It may be remarked here that there are minor differences between Vedānga Jyotiṣa, the Jain systems, and the Paitāmaha Siddhānta, which appear to be the latest of this group. The older treatises have a year of 366 days, while the Paitamaha Siddhānta has a year of 365.3569 days (Dīkṣit). 
 
-English Date 
+There is an extensive literature on Vedānga Jyōtiṣa which has been studied by Dr. G. Thibaut, S. B. Diksit, S. K. Pillai, and Dr. R. Shama Sastry, amongst others. We here give an account of the calendar according to the Paitāmaha Siddhānta. 
 
-Modern Tithi 
-
-Ending of Vedic Tithi 
-
-Event 
-
-Time of Event (L. M. T.-Cal.) 
-
-Duration of Vedic Tithi 
-
-Vedic Elapsed 
-
-Tithi No. 
-
-(1936 A.D.) 
-
-m 
-
-h 
-
-me 
-
-Moonset or Sunset 
-
-17 
-
-Oct. 15 
-
-* 16 
-
-Moonset 
-
-17 33 18 36 19 16 20 3 20 53 21 .46 
-
-24 50 24 53 
-
-Amāvasyā Pratipad Dvitiyā Tstīya Caturthī Pañcami ṣaṣthi Saptami Astam i Navami Dasami Ekādasi Dvādasī Trayodasi Caturda si "Pūrnimā 
-
-25 
-
-35 
-
-Moonset Moonrise or 
-
-Sunset Moonrise 
-
-: : : 
-
-Nov.-1 
-
-18 
-
-20 
-
-20 
-
-ܟ 
-
-ܟ ܗ 
-
-22 23 
-
-23 21 
-
-Pratipad & 
-
-Dvitiyā Tftiyā Caturthī Pañcami ṣaṣthi Saptami Aṣtami Navami Dasami Ekādasi Dvadasi 
-
-Trayodasi Caturdaśī 
-
-ܗ ܒ 
-
-ܣ ܩ 
-
-: 
-
-ܟ 
-
-Moonrise Sunrise Sunset Moonget 
-
-14 
-
-24 50 24 50 24 57 11 1 24 45 
-
-30 17 18 
-
-Amāvasyā Nov. 15 ] Pratipad 
-
-14 15 0 
-
-Note :--The Vodic tithi ends at moonset in the light half and at moonrise in the dark half. Near amavasya when the moon remains invisible, the ending is at sunset. There are 29 or 30 such tithis in a lunar month, and all 'ithis are of more than 24 hours' duration except amāvasyā and purnimā which are of about 12 hours' duration. 
-
-an unknown antiquity, which is set by some at 1300 B.C. to 900 A.D. 
-
-The Vedanga Jyotupa is generally assigned to this period. It may be said to be a sort of collection of short aphorisms giving mathematical rules for fixing the calendar in advance, and is known in three versions : the Rg-Jyotiṣa consisting of 36 verses, attached to the Rg-Veda and ascribed to one Lagadha 
-
-as mentioned earlier, the Yājuṣ Jyotiṇa attached to the Yajurveda and consisting of 43 verses, and there is a text ascribed to one Somakara, a commentator of unknown age of the Vedas. The dffferent texts contain about the same matter, but the verses are haphazardly arranged showing that the original texts have not come down to us in an unadulterated form. The number of independent, verses in all the versions 
-
-INDIAN CALENDAR 
-
-223 
-
-is not more than 49, and some of the verses have not been interpreted. 
-
-There are several other calendarical treatises which can be assigned to this period. The Surya Prajnapti, a Jaina astronomical work, the Jyotisakaranda, and the Kalalokaprakaśa. 
-
-A short account of the calendaric rules followed in these treatises is given in Varāhamihira's Pañca Siddhāntika, Chap. XII, where the rules are collected as "Paitāmaha Siddhānta" or Astronomical Calendar according to Grandfather Brahma, the Creator, in Hindu mythology. That shows the high antiquity of the rules. Varāhamihira, as well as Brahmagupta describe the rules as very "inaccurate" (Daravibhrastau, furthest from truth in Varahamihira's language) though they pay a formal courtesy to the supposed authors. But such has been the case with calendars of all ancient nations, including the Babylonians at this period and a critical account of the Vedānga Jyotiṣa is important from the historical point of view. 
-
-It may be remarked here that there are minor differences between Vedānga Jyotiṣa, the Jain systems, and the Paitāmaha Siddhānta, which appear to be the latest of this group. The older treatises have a year of 366 days, while the Paitamaha Siddhānta has a year of 365-3569 days (Dıkṣit). 
-
-There is an extensive literature on Vedanga Jyotoṣa which has been studied by Dr. G. Thibaut, S. B. Diksit, S. K. Pillai, and Dr. R. Shama Sastry, amongst others. We hiere give an account of the calendar according to the Paitāmaha Siddhānta. 
-
-The Vedānga Jyotisa further describes measure ments of the subdivisions of the day by means of the clepsydra, as well as by gnomon-shadows. 
-
-One particular feature is the assumption that the ratio of the length of the day to that of the night on the summer solstice day is as 3.: 2. 
-
-Let us now examine these points critically. 
-
-We observe that all the mathematical rules point out only to mean motions of the sun and the moon, i.e, the periods of the sun and the moon were obtained by counting the number of sāvana days in a large number of years and months, and dividing the number by the number of periods (year or month). No evidence is found of the systematic day to day observations of the sun and the moon. Only the lunar zodiac was used for describing the positions of the sun and the moon, which appears to have been divided into 27 equal parts or nakṣatras ; in other words the nakṣatras no longer denoted star-clusters but equal divisions of the lunar belt. 
-
-There is no mention of the zodiac or twelve signs of the zodiac, or of week days, or of planetary motion, 
-
-Let us now look critically into the rules.. 
-
-5 solar years. = 365.2422 x 5-1826.2110 days; 62 synodic months=29.53059 x 62-1830.8965 days ; 67 sidereal months=27.32166 x 67=1830.5512 days. 
-
-Summary of the Contents 
+## Summary of the Contents 
 
 "Five years constitute a Yuga or Saros of the sun and the moon. 
 
@@ -156,12 +31,26 @@ There are 67 naksatra-months (sidereal months) in the yugu The moon passes throu
 The yuga begins at winter solstice with the sun, and the moon together at the Dhaniṣthā asterism (a or B Delphini)." 
 
 These are the main points from which the five yearly calendar can be constructed. 
+The Vedānga Jyotisa further describes measure ments of the subdivisions of the day by means of the clepsydra, as well as by gnomon-shadows. 
 
-Therefore, regarded as a measure for luni-solar adjustment, the error is 4.685 days in a period of 5 years, i.e., if we started a yuga with the sun and the moon together on the winter solstice day, the beginning of the next yuga (6th year) would occur. 4.685 days later than the winter solstice and in 5 to 6 yugas the discrepancy would amount to a month or half season. This cannot escape notice, and therefore there must have been some way of bringing back the yuga to the winter solstice day. Otherwise the calendar becomes useless. But how could it have been done ? . This is a matter for conjecture and several hypotheses have been proposed. According to S. B. Dikṣit, we should have in 95 years : 
+One particular feature is the assumption that the ratio of the length of the day to that of the night on the summer solstice day is as 3.: 2. 
+
+Let us now examine these points critically. 
+
+We observe that all the mathematical rules point out only to mean motions of the sun and the moon, i.e, the periods of the sun and the moon were obtained by counting the number of sāvana days in a large number of years and months, and dividing the number by the number of periods (year or month). No evidence is found of the systematic day to day observations of the sun and the moon. Only the lunar zodiac was used for describing the positions of the sun and the moon, which appears to have been divided into 27 equal parts or nakṣatras ; in other words the nakṣatras no longer denoted star-clusters but equal divisions of the lunar belt. 
+
+There is no mention of the zodiac or twelve signs of the zodiac, or of week days, or of planetary motion, 
+
+Let us now look critically into the rules.. 
+
+5 solar years. = 365.2422 x 5-1826.2110 days; 62 synodic months=29.53059 x 62-1830.8965 days ; 67 sidereal months=27.32166 x 67=1830.5512 days. 
+
+
+Therefore, regarded as a measure for luni-solar adjustment, the error is 4.685 days in a period of 5 years, i.e., if we started a yuga with the sun and the moon together on the winter solstice day, the beginning of the next yuga (6th year) would occur. 4.685 days later than the winter solstice and in 5 to 6 yugas the discrepancy would amount to a month or half season. This cannot escape notice, and therefore there must have been some way of bringing back the yuga to the winter solstice day. Otherwise the calendar becomes useless. But how could it have been done ? . This is a matter for conjecture and several hypotheses have been proposed. According to S. B. Dīkṣit, we should have in 95 years : 
 
 according to the V. J., x 95-38 intercalary months, while actually we have, I'o x 95-35 intercalary months. 
 
-So the Vedanga Jyotiṣa rules introduce 3 more intercalary months than necessary in 95 years, and if these are dropped, we can have good adjustment. This could have been done as follows : 
+So the Vedānga Jyōtiṣa rules introduce 3 more intercalary months than necessary in 95 years, and if these are dropped, we can have good adjustment. This could have been done as follows : 
 
 In the first period of 30 years-6 yugas, suppose they had 11 intercalary months instead of 12. 
 
@@ -177,7 +66,7 @@ The next period may be taken to consist of 35 years, i.e., 7 yugas each of five 
 
 But was any such practice really followed ? We have no evidence from the verses ; but S. B. Diksit mentions that intercalary months were inserted only when needed, and hence probably they were 'dropped when not needed.' 
 
-Tithis The main object of the Vedanga Jyotiṣa calendar appears to have been the correct prediction of the tithi and nakṣatra on any sāvana (civil) day within the yuga. In this respect, the rules were more accurate. A tithi is defined as asth of the lunar month. The correct measure is 
+Tithis The main object of the Vedānga Jyōtiṣa calendar appears to have been the correct prediction of the tithi and nakṣatra on any sāvana (civil) day within the yuga. In this respect, the rules were more accurate. A tithi is defined as asth of the lunar month. The correct measure is 
 
 1 tithi - 29.530588 
 
@@ -189,7 +78,7 @@ The five yearly period consists of 1830 civil days in which there are 62 synodic
 
 We know 62 x 29.53059=1830.8965 days. Hence in order to make the tithi calculations correct, one day (exactly 0.8965 days) had to be added to the total number of civil days in the period. 
 
-The Time of the Vedanga Jyotisha All recensions of the Vedānga Jyotiṣa contain the following verses : 
+The Time of the Vedānga Jyōtiṣa All recensions of the Vedānga Jyotiṣa contain the following verses : 
 
 Svarākramete somārkau yadā sākam savāsavau Syāttadādiyugan māghastapah suklo'yanan hyudak. (6) Prapadyete graviṣthādau sūryācandramasāvudak Sārpārdhe dakṣiṇārkastu māghasrāvanayoḥ sadā. (7) These two verses taken together yield the following: 
 
@@ -235,7 +124,7 @@ INDIAN CALENDAR
 
 30 lunar months. Thus in the third year, the month Srāvana is adhika which is followed by śuddha Brāvana ; and in the fifth year the last month is also adhika which is adhika Māgha. 
 
-There are 1860 tithis while the number of civil days is 1830 ; so there are 30 omitted tithis (tithi kṣaya). Each period of 61 days contains 62 tithis, so one lithi is omitted after 61 civil days. From this consideration the number of civil days per month can be obtained and will be shown in the table below. The Vedanga Jyotiṣa people regularly counted a tithi to a day, but after 61 days one tithi was omitted. 
+There are 1860 tithis while the number of civil days is 1830 ; so there are 30 omitted tithis (tithi kṣaya). Each period of 61 days contains 62 tithis, so one lithi is omitted after 61 civil days. From this consideration the number of civil days per month can be obtained and will be shown in the table below. The Vedānga Jyōtiṣa people regularly counted a tithi to a day, but after 61 days one tithi was omitted. 
 
 As regards nakṣatras, their number is 1809 in 1830 civil days, the difference being 21. So 877 days were equivalent to 867 nakṣatras. They counted a nakṣatra to a day successively, but after every 87 days (actually 874 days), one nakṣatra was repeated for two days. 
 
@@ -315,7 +204,7 @@ or 384
 
 It is seen from the above table, that even at the latitude of Babylon, the ratio is not 1.50 but: 1.45. At Gandhār, it is 1.42. The difference is not very large. But there is another factor to which attention must be drawn. 
 
-Both Babylonians and Indians measured subdivisions of the day by means of some kind of Clepsydra. A description of the Clepsydra used by Indians during the Vedanga Jyotéṣa-period will be found in S.B. Dikṣit's Bharatīya Jyotiśāstra (Sec. II, Chap. I). But 'the daya length must have been measured from the observed time of sunrise to the observed time of sunset. This is somewhat larger than the astronomical time of sunrise on account of refraction. Assuming that the effect of refraction is to elevate a celestial body near the horizon by about 35', and the sun's semi-diameter is about 16', the sun's upper limb appears on the horizon at a place on 32° latitude, about 45 minutes before the centre of the sun is due on the horizon. For the same reason, 'the sunset takes place 45 minutes after the astronomical 
+Both Babylonians and Indians measured subdivisions of the day by means of some kind of Clepsydra. A description of the Clepsydra used by Indians during the Vedānga Jyōtiṣa-period will be found in S.B. Dīkṣit's Bharatīya Jyotiśāstra (Sec. II, Chap. I). But 'the daya length must have been measured from the observed time of sunrise to the observed time of sunset. This is somewhat larger than the astronomical time of sunrise on account of refraction. Assuming that the effect of refraction is to elevate a celestial body near the horizon by about 35', and the sun's semi-diameter is about 16', the sun's upper limb appears on the horizon at a place on 32° latitude, about 45 minutes before the centre of the sun is due on the horizon. For the same reason, 'the sunset takes place 45 minutes after the astronomical 
 
 As already shown, the actual length of 62 lunar months is 1830.8965 days, while there are 1830 civil days in the five yearly period. It is therefore very likely that one civil day was added to the period when necessary to make it conform to the phases of the moon which were regularly observed. This additional day was no doubt placed at the end of the 
 
@@ -339,7 +228,7 @@ Yadā nivarta to'prāptaḥ śraviṣthamuttarāyape Aśleṣām dakśiṇo'prā
 
 Translation : When at the time of Ottarāyana the sun is found turning (north) without reaching the Sraviṣthās; and (at the time of Dakṣiṇāyana) turning (south) without reaching the Aśleṣā, it should be taken to indicate a period of calamity. 
 
-It shows that at the time of Garga the W.S. did no longer occur in Śraviṣthā, neither the S.S. occurred in the Aśleṣā division. At the time of. Vedanga Jyotoṣa the two solstices were marked by the starting point of Śraviṣtha and the middle point of Asleṣā respectively. Garga therefore observed that the solstices were reced ing back over the lunar calendar, and had shifted at least by half a nakṣatra-division from the middle of Āṣleṣā. His observations are therefore at least 480 years later than those of the Vedanga Jyotiṣa. 
+It shows that at the time of Garga the W.S. did no longer occur in Śraviṣthā, neither the S.S. occurred in the Aśleṣā division. At the time of. Vedānga Jyōtiṣa the two solstices were marked by the starting point of Śraviṣtha and the middle point of Asleṣā respectively. Garga therefore observed that the solstices were reced ing back over the lunar calendar, and had shifted at least by half a nakṣatra-division from the middle of Āṣleṣā. His observations are therefore at least 480 years later than those of the Vedānga Jyōtiṣa. 
 
 In the Mahabharata we get the following verse : 
 

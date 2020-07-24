@@ -15,5 +15,5 @@ We have described in Chap. III, the luni-solar calendars, prevalent in ancient M
 
 We have therefore devoted Chap. IV to **calendaric astronomy**, which was evolved by the Chaldeans, and taken over from them by the Greeks, and in time diffused to other countries. 
 
-In Chap. V, we have described the various stages of the development of the **Indian calendar** :--the **empirical stage** (Rg-Vedic), the **mean motion stage** (Vedanga Jyotiṣa), and the **scientific stage** (Siddhānta Jyotiṣa). From 1200 A.D., astronomical studies became decadent in India, and we have analysed the **cause of decadence**. We have given a **full account of precession**, as most Indian calendar makers still believe in the false theory of **Trepidation** which disappeared from Europe after 1687 A. D. 
+In Chap. V, we have described the various stages of the development of the **Indian calendar** :--the **empirical stage** (Rg-Vedic), the **mean motion stage** (Vedānga Jyōtiṣa), and the **scientific stage** (Siddhānta Jyotiṣa). From 1200 A.D., astronomical studies became decadent in India, and we have analysed the **cause of decadence**. We have given a **full account of precession**, as most Indian calendar makers still believe in the false theory of **Trepidation** which disappeared from Europe after 1687 A. D. 
 

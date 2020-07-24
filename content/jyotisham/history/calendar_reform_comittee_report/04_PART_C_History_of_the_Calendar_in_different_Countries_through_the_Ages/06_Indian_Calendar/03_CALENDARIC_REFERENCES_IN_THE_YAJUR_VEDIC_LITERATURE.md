@@ -130,3 +130,5 @@ This has been interpreted by Prof. P. C. Sengupta as follows:
 During the **waxing moon ( śukla pakṣa )**, the tithi was reckoned from **moon-set to moon-set**; and during the waning moon ( **kr̥ṣna pakṣa** ), the tithi was reckoned from **moon-rise to moon-rise**. The tithis were thus of unequal length, as shown by Prof. P. C. Sengupta in Table No. 11 on page 222. 
 
 {{< figure src="../../../images/vedic-tithi_sengupta_1936">}}
+
+Note :-- The Vedic tithi ends at moonset in the light half and at moonrise in the dark half. Near amavasya when the moon remains invisible, the ending is at sunset. There are 29 or 30 such tithis in a lunar month, and all tithis are of more than 24 hours duration except amāvasyā and purnimā which are of about 12 hours duration. 

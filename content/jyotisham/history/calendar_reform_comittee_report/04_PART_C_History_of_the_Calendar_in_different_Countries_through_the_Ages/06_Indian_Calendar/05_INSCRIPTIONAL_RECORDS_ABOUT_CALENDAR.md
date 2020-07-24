@@ -62,7 +62,7 @@ in one case where the month of Māgha is mentioned. They are purṇimānta, i.e.
 
 many particular performances. 4. The day reckoning was by the tithi (lunar day), 
 
-but the word tithi is probably not to be taken in the sense of the present Siddhāntic tithi, but in the sense of the Vedanga Jyotisa tithi or the old Brahmanic tithi. In the latter system, a tithi was counted from moon-set to moon-set during the bright half, and from 
+but the word tithi is probably not to be taken in the sense of the present Siddhāntic tithi, but in the sense of the Vedānga Jyōtiṣa tithi or the old Brahmanic tithi. In the latter system, a tithi was counted from moon-set to moon-set during the bright half, and from 
 
 ·moon-rise to moon-rise during the dark-half. 
 
