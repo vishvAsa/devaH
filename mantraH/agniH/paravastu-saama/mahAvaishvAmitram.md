@@ -13,7 +13,7 @@ RV.1.11.1a; SV.1.343a; 2.177a; VS.12.56a; 13.58a; 14.10a,22a,31a; 15.61a; 17.61a
 इन्द्रं॒ विश्वा॑ अवीवृधन्त् +++(=अवर्धयन्)+++ समु॒द्रव्य॑चसं॒ +++(=समुद्रवद् व्याप्तवन्तम्)+++ गिरः॑ ।  
 र॒थीत॑मं र॒थीनां॒ वाजा॑नां॒ +++(=अन्नानाम्)+++ सत्प॑तिं॒ पति॑म् १
 
-{{< figure src="../../../indraH/images/indra-rising-to-protect-charriots-of-army.jpg" title="" class="thumbnail">}}
+{{< figure src="../../../indraH/images/indra-rising-to-protect-charriots-of-army.jpg" attributionclass="thumbnail">}}
 
 
 RV.6.48.2d; SV.2.54d; VS.27.44d; MS.2.13.9d: 159.13; KS.39.12d; JB.1.177; 2.137; Ap;S.17.9.1d.
@@ -28,7 +28,7 @@ RV.6.48.2d; SV.2.54d; VS.27.44d; MS.2.13.9d: 159.13; KS.39.12d; JB.1.177; 2.137;
 अ॑स्म॒युर् +++(=अस्मान् कामयमानः)+++ दाशे॑म ह॒व्यदा॑तये +++(=हव्यदात्रे)+++ ।  
 भुव॒द् वाजे॑ष्व् +++(=युद्धेषु)+++ अवि॒ता भुव॑द् वृ॒ध +++(=वर्धकः)+++ उ॒त त्रा॒ता त॒नूना॑म् +++(=तनयानाम्)+++२
 
-{{< figure src="../../images/agni-headed-man-on-elephant-rushing-behind-his-army-column-.jpg" title="" class="thumbnail">}}
+{{< figure src="../../images/agni-headed-man-on-elephant-rushing-behind-his-army-column-.jpg" attributionclass="thumbnail">}}
 
 ## साम
 

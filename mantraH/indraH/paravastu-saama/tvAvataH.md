@@ -17,7 +17,7 @@ unicode_script: devanagari
 त्वावतः पुरूवसो वयमिन्द्र प्रणेतः  ।  
 स्मसि स्थातर् हरीणाम्  ।
 
-{{< figure src="../../images/indra-rising-to-protect-charriots-of-army.jpg" title="" class="thumbnail">}}
+{{< figure src="../../images/indra-rising-to-protect-charriots-of-army.jpg" attributionclass="thumbnail">}}
 
 
 ## साम

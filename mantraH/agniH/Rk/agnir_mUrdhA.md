@@ -15,4 +15,4 @@ practice_weight: 0
 
 अग्निर्मूर्धा दिवः ककुत् पतिः पृथिव्या अयम्। अपाᳱ रेताᳱसि जिन्वति ।।27
 
-{{< figure src="../../images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png" title="" class="thumbnail">}}
+{{< figure src="../../images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png" attributionclass="thumbnail">}}

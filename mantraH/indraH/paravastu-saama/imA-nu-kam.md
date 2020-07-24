@@ -19,7 +19,7 @@ practice_weight: 0
 ### पदपाठः
 इ॒मा । नु । क॒म् +++(=सुखम्)+++। भुव॑ना । सी॒स॒धा॒म॒ +++(=साधयामः)+++। इन्द्रः॑ । च॒ । विश्वे॑ । च॒ । दे॒वाः ॥
 
-{{< figure src="../../images/Great-indra-on-airAvata-with-vajra-surrounded-by-other-smaller-deva-s-agni-on-ram-yama-on-buffalo-brahma-on-swan-sUrya-and-chandra.jpg" title="" class="thumbnail">}}
+{{< figure src="../../images/Great-indra-on-airAvata-with-vajra-surrounded-by-other-smaller-deva-s-agni-on-ram-yama-on-buffalo-brahma-on-swan-sUrya-and-chandra.jpg" attributionclass="thumbnail">}}
 
 
 ## साम १

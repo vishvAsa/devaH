@@ -19,7 +19,7 @@ unicode_script: devanagari
 
 [ॐ आपो॒ ज्योती॒ रसो॒ ऽमृतं॒ ब्रह्म॒+++(=मन्त्राः)+++ भूर्-भुव॒-सुव॒रो३म् ॥] +++(इति ब्रह्मशिरः प्राणायामे निःस्वासे।)+++
 
-{{< figure src="../../images/savitR_SunEarthGravityGrid.jpg" title="" class="thumbnail">}}
+{{< figure src="../../images/savitR_SunEarthGravityGrid.jpg" attributionclass="thumbnail">}}
 
 ## परिचयः
 सवित्राभ्यनुज्ञातो हि सर्वोपि कर्म करोति। सविता वै प्रसवानामीशे इति ब्राह्मणम् ॥  

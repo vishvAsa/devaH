@@ -6,9 +6,9 @@ title: Coordinates
 
 ## Ecliptic 
 
-{{< figure src="../ecliptic_coordinates.png" title="" class="thumbnail">}}
+{{< figure src="../ecliptic_coordinates.png" attributionclass="thumbnail">}}
 
-{{< figure src="../images/equatorial-coordsystem-with-ecliptic.png" title="" class="thumbnail">}}
+{{< figure src="../images/equatorial-coordsystem-with-ecliptic.png" attributionclass="thumbnail">}}
 
 - Sun is always at 0 deg latitude. It's longitude (determinable using background stars) is 0 deg (=0 RA) during march vernal equinox, 90 deg (= 6h RA) during summer solstice, 270 (= 18h RA) during winter solstice etc..
 - Latitudes are parallel to each other, longitudes pass through the same two poles.

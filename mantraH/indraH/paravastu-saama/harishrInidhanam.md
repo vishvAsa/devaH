@@ -14,7 +14,7 @@ unicode_script: devanagari
 
 इन्द्र॒ त्वादा॑त॒मिद्यशः॑ ॥
 
-{{< figure src="../../images/indra-squeezing-soma-into-mouth.jpg" title="" class="thumbnail">}}
+{{< figure src="../../images/indra-squeezing-soma-into-mouth.jpg" attributionclass="thumbnail">}}
 
 ## साम
 

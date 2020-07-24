@@ -12,7 +12,7 @@ unicode_script: devanagari
 प्र मि॒त्राय प्र अ॑र्य॒म्णे स॑च॒थ्य॑म् +++(=सेवार्हम्)+++ ऋतावसो +++(=ऋतधन)+++ ।  
 वरू॒थ्ये३ +++(वरू॒थ्य॑म्=यज्ञागारस्थम् इति ऋग्वेदे)+++ वरु॑णे छन्द्य॑म् +++(=छान्दसम्)+++ वचः  स्तो॒त्रं राज॑सु गायत ।
 
-{{< figure src="../../images/varuna.png" title="" class="thumbnail">}}
+{{< figure src="../../images/varuna.png" attributionclass="thumbnail">}}
 
 ## साम १ प्रैङ्खभूयिष्ठम्
 

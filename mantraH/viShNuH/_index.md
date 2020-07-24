@@ -2,7 +2,7 @@
 title: +विष्णुः
 ---
 
-{{< figure src="images/vishnu.png" title="" >}}
+{{< figure src="images/vishnu.png" attribution>}}
 
 ## परिचयः
 - विष्णुः सर्वव्यापकः।

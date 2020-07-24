@@ -2,7 +2,7 @@
 title: वन्दे मातरम्
 ---
 
-{{< figure src="../../images/vande_mAtaram.jpg" title="" >}}
+{{< figure src="../../images/vande_mAtaram.jpg" attribution>}}
 
 
 वन्दे मातरम्  

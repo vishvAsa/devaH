@@ -2,7 +2,7 @@
 title: +लोकान्तरम्
 ---
 
-{{< figure src="images/bhU-devI.png" title="" >}}
+{{< figure src="images/bhU-devI.png" attribution>}}
 
 ## परिचयः
 - सूर्यो विवस्वान् आदित्यो मार्त्ताण्डो यो दिवि +अहोरात्रारित्रमत्या नौकया चलति।

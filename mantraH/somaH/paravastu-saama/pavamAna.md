@@ -14,7 +14,7 @@ RV.9.61.16a; SV.1.484a; 2.239a; JB.3.59; PB.12.7.5.
 दि॒वश् चि॒त्रं न त॑न्य॒तुम् +++(=अशनिम्)+++ ।  
 ज्योति॑र् वैश्वान॒रम् बृ॒हत् ।।
 
-{{< figure src="../../images/soma-for-agni.png" title="" class="thumbnail">}}
+{{< figure src="../../images/soma-for-agni.png" attributionclass="thumbnail">}}
 
 ## साम - जनित्रे द्वे १
 

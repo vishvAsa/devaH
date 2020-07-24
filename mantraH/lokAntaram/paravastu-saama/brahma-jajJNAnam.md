@@ -19,7 +19,7 @@ unicode_script: devanagari
 
 स॒तश्च॒ योनि॒म् +++(सूर्यम्)+++ अस॑तश्च॒ विवः॑ +++(=विवृतवान्)+++  ।
 
-{{< figure src="../../images/venus_morning_star.jpg" title="" class="thumbnail">}}
+{{< figure src="../../images/venus_morning_star.jpg" attributionclass="thumbnail">}}
 
 ## साम १
 
