@@ -112,21 +112,21 @@ The twelve names which we have got are :
 
 Of course, full moon takes place by turn in all the nakṣatras. But only 12 at approximately equal intervals could be selected. But we have too Rauhiṇya paurṇamāsī etc. the pakṣa when the moon becomes full near Rohini, or Aldebaran ( lunar mansion No. 4). But Rauhinya' was not selected for the name of a lunar month, because it was too near Kr̥ttikā-Paurṇa-māsī. 
 
-is completed when the moon is ahead of the sun by 12°, or integral multiples of 12° ( vide § 57). 
+## Tithi 
+'Tithi' or 'Lunar Day' is a very important conception in Hindu astronomy, for holidays are always dated by the tithi. According to Siddhāntic definition, a **tithi is completed when the moon is ahead of the sun by 12°**, or integral multiples of 12° ( vide § 5.7). 
 
-Thus the first tithi ( Pratipada, lit, when the moon. is regenerated ) in the waxing half starts when the moon is in conjunction with the sun, and ends when she has gone ahead of the sun by 12°, when the second tithi of the waxing moon begins. The tithis are numbered ordinally from 1 to 15, the end of the fifteenth tithi being full-moon. Then begins the tithis of the waning moon, numbered from 1 to 15, the end of the 15th tithi being the new-moon. There are thirty tithis in a lunar month, and though the average duration is less than a solar day, being 23.62 hours, the length of individual tithis may vary from 26.8 to 20.0 hours., on account of irregularity in the moon's motion. 
+Thus the first tithi ( Pratipada, lit, when the moon is regenerated ) in the waxing half starts when the moon is in conjunction with the sun, and ends when she has gone ahead of the sun by 12°, when the second tithi of the waxing moon begins. The tithis are numbered ordinally from 1 to 15, the end of the fifteenth tithi being full-moon. Then begins the tithis of the waning moon, numbered from 1 to 15, the end of the 15th tithi being the new-moon. There are thirty tithis in a lunar month, and though the **average duration is less than a solar day, being 23.62 hours, the length of individual tithis may vary from 26.8 to 20.0 hours**, on account of irregularity in the moon's motion +++(due to ecliptic orbit)+++. 
 
-This is the definition of the tithi given in Siddhāntas or scientific astronomy which started about 400 A.D. But this presupposes knowledge of measure ment of angles, and precise scientific observation, of which we find no trace in the Vedic literature. What was then the origin of this system ? 
+This is the definition of the tithi given in Siddhāntas or scientific astronomy which started about 400 A.D. But this presupposes knowledge of measurement of angles, and precise scientific observation, of which we find no trace in the Vedic literature. What was then the origin of this system ? 
 
-We have no reference to tithi in the Rg-Veda. The first reference is found in Yajurvedic literature, and the Brāhmaṇas. The Taittiriya Samhita talks of the pancadasi tithi, which shows that the lunar pakṣa was divided into 15 tithis, counted by ordinal numbers from 1 to 15 for each pakṣa. But what was the time period meant by a tithi ? The Aitareya Brāhmaṇa attached to the Rg-Veda gives the following definition of the tithi. 
+We have no reference to tithi in the Rg-Veda. The first reference is found in Yajurvedic literature, and the Brāhmaṇas. The **Taittiriya Samhita** talks of the **pancadasi tithi**, which shows that the lunar pakṣa was divided into 15 tithis, counted by ordinal numbers from 1 to 15 for each pakṣa. But what was the time period meant by a tithi ? The **Aitareya Brāhmaṇa** attached to the Rg-Veda gives the following definition of the tithi. 
 
-Aitareya Brāhmaṇa, 32.10 
-
-· Yām paryastamiyad abhyudiyāditi så tithih. 
+Aitareya Brāhmaṇa, 32.10 - Yām paryastam iyad abhyudiyād iti sā tithih. 
 
 The tithi is that time-period about which the moon sets or rises. 
 
 This has been interpreted by Prof. P. C. Sengupta as follows: 
 
-During the waxing moon ( śukla pakṣa ), the tithi was reckoned from moon-set to moon-set ;, and during the waning moon ( krsna pakṣa ), the tithi was reckoned from moon-rise to moon-rise. The tithis were thus of unequal length, as shown by Prof. P. C. Sengupta in Table No. 11 on page 222. 
+During the **waxing moon ( śukla pakṣa )**, the tithi was reckoned from **moon-set to moon-set**; and during the waning moon ( **kr̥ṣna pakṣa** ), the tithi was reckoned from **moon-rise to moon-rise**. The tithis were thus of unequal length, as shown by Prof. P. C. Sengupta in Table No. 11 on page 222. 
 
+{{< figure src="../../../images/vedic-tithi_sengupta_1936">}}
