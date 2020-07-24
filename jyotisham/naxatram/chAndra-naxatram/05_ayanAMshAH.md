@@ -11,4 +11,4 @@ title: ०५ अयनांशाः
 - The most popular Indian ayanAMshas adjust ecliptic coordinates so as to roughly place Spica/Citra at ecliptic longitude 180° or 0 Libra.
 
 ## Tropicalization सायनीकरणम्
-Here, one sets the ayanAmsha to adjust for precession. See [equinotical records](../../../history/equinotical_records/).
+Here, one sets the ayanAmsha to adjust for precession. See [equinoctial records](../../../history/equinotical_records/).

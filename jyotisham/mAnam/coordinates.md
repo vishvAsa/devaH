@@ -12,14 +12,14 @@ title: Coordinates
 
 - Sun is always at 0 deg latitude. It's longitude (determinable using background stars) is 0 deg (=0 RA) during march vernal equinox, 90 deg (= 6h RA) during summer solstice, 270 (= 18h RA) during winter solstice etc..
 - Latitudes are parallel to each other, longitudes pass through the same two poles.
-- The 0 deg and 180 deg longitude together form the equinotical colure.
+- The 0 deg and 180 deg longitude together form the equinoctial colure.
 
 ## Equatorial
 {{< figure src="../images/celestial-equator.jpg" title="Celestial equator and pole star" >}}
 
 ### Apparent solar motion
-- Angle between the ecliptic and the celestial equator (they meet at equinotical points) is around 23 deg.
-- Among celestial equatorial system logitudes: equinotical and solstical colures.
+- Angle between the ecliptic and the celestial equator (they meet at equinoctial points) is around 23 deg.
+- Among celestial equatorial system logitudes: equinoctial and solstical colures.
 - At poles, celestial equator = horizon. No seasonally visible stars = all stars visible at long winter night.
 - At equator, celestial pole is at horizon.  Celestial equator is directly overhead.
 - During equinox day, sun appears to travel along the celestial equator.  Looking from the poles, sun will be at the horizon then. From the equator, sun will be along the circle passing straight overhead.
