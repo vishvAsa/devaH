@@ -1032,7 +1032,7 @@ l
 
 0 36 
 
-Śravana 
+Śravaṇa 
 
 Dhaniṣthā 
 

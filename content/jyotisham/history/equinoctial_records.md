@@ -53,6 +53,31 @@ mantra of vAmadeva gautama to agni - In dwellings first he came into being, at g
 
 {{< figure src="../images/zodiac_history/bce-1100-01-14_bharaNI_vishAkhA_equinox_dhaniShThA-6deg_Ashlesha_solstice.png"  >}}
 
+## 800 BCE
+### garga-saṁhitā
+**Garga**, an astronomer whose name is found in the Mahabharata, where he is described as having an astronomical school at a place called **Gargasrota in the Sarasvatī basin**, is the reputed author of a pre-Siddhāntic calendaric treatise called **Garga Saṁhita**. He notes : 
+
+Yadā nivartatē 'prāptaḥ śraviṣṭhām uttarāyaṇe  
+Aśleṣām dakśiṇo 'prāptas tadā vindyān mahad bhayam. 
+
+Translation : When at the time of Ottarāyana the sun is found turning (north) without reaching the Sraviṣthās; and (at the time of Dakṣiṇāyana) turning (south) without reaching the Aśleṣā, it should be taken to indicate a period of calamity. 
+
+It shows that at the time of Garga the W.S. did no longer occur in Śraviṣthā, neither the S.S. occurred in the Aśleṣā division.
+
+### mahābhāratam
+In the Mahabharata we get the following verse : 
+
+Aśvamedha, Chap. 44;2: 
+Ahaḥ pūrvam tato rātrir  
+māsāḥ śuklādayaḥ smr̥tāḥ  
+śravaṇādīni r̥kṣāṇi  
+r̥tavaḥ śiśirādayaḥ 
+
+Translation : Day comes first and then the night ; months, are known to commence with the bright half, the nakṣatras with Śravaṇa, and the seasons with śiśira. 
+
+Here the asterism Śravaṇa is described as the one where the winter solstice takes place. śravaṇa is just preceding Sravistha and the solstices take about 460 years to retrograde through one nakṣatra division. 
+
+
 ## 200 BCE - Vernal equinox at ashvinI
 - "One also wonders if the tale of Prajāpati being fitted with a goat’s head after his beheading by Rudra’s agent Vīrabhadra alludes to this period, with the goat’s had representing Aries."
 - "अश्विनौ व्यात्तम्" इत्यस्मिन् उपर्युक्तम्।

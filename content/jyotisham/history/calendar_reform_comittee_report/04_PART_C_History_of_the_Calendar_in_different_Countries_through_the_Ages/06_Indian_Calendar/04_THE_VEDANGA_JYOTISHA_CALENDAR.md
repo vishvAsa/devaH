@@ -137,17 +137,21 @@ Aśleṣām dakśiṇo 'prāptas tadā vindyān mahad bhayam.
 
 Translation : When at the time of Ottarāyana the sun is found turning (north) without reaching the Sraviṣthās; and (at the time of Dakṣiṇāyana) turning (south) without reaching the Aśleṣā, it should be taken to indicate a period of calamity. 
 
-It shows that at the time of Garga the W.S. did no longer occur in Śraviṣthā, neither the S.S. occurred in the Aśleṣā division. At the time of. Vedānga Jyōtiṣa the two solstices were marked by the starting point of Śraviṣtha and the middle point of Asleṣā respectively. Garga therefore observed that the solstices were reced ing back over the lunar calendar, and had shifted at least by half a nakṣatra-division from the middle of Āṣleṣā. His observations are therefore at least 480 years later than those of the Vedānga Jyōtiṣa. 
+It shows that at the time of Garga the W.S. did no longer occur in Śraviṣthā, neither the S.S. occurred in the Aśleṣā division. At the time of Vedānga Jyōtiṣa the two solstices were marked by the starting point of Śraviṣtha and the middle point of Asleṣā respectively. Garga therefore observed that the solstices were receding back over the lunar calendar, and had shifted at least by half a nakṣatra-division from the middle of Āṣleṣā. His observations are therefore at least 480 years later than those of the Vedānga Jyōtiṣa. 
 
 In the Mahabharata we get the following verse : 
 
-Aśvamedha, Chap. 44;2: .. Abab pūrvani tatorātrirmāsāḥ śukládayalı gmịtāḥ Sravaṇādini çkṣāni staveb sisirādayah . 
+Aśvamedha, Chap. 44;2: 
+Ahaḥ pūrvam tato rātrir  
+māsāḥ śuklādayaḥ smr̥tāḥ  
+śravaṇādīni r̥kṣāṇi  
+r̥tavaḥ śiśirādayaḥ 
 
-Translation : Day comes first and then the night ; months, are known to commence with the bright half, the nakṣatras with Śravana, and the seasons with Sibira, 
+Translation : Day comes first and then the night ; months, are known to commence with the bright half, the nakṣatras with Śravaṇa, and the seasons with śiśira. 
 
-Here the asterism Śravana is described as the one where the winter solstice takes place. śravaṇa is ust preceding Sravistha and the solstices take about 460 years to retrograde through one nakṣaira division. 
+Here the asterism Śravaṇa is described as the one where the winter solstice takes place. śravaṇa is just preceding śraviṣṭha and the solstices take about 460 years to retrograde through one nakṣatra division. 
 
-We get from this the time of composition of the Mahābhārata as about 450 B.C. or sometime earlier.. 
+We get from this the time of composition of the Mahābhārata as about 450 B.C. or sometime earlier.
 
 Varahamihira also notes that the winter solstice: no longer took place at Dhansstha. 
 

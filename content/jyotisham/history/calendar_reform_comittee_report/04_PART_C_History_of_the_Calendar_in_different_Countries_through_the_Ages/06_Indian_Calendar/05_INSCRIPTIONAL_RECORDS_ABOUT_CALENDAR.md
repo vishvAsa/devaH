@@ -194,7 +194,7 @@ masasa divase painrame 5 etaye pūrvaye. 7. Mucai : vase ekaśitimaye 81.
 
 pakye. 11. Paja : sainvatsaraye ekadaśa [śa*] timaye 111 
 
-Śravanasa masasa di [var ] se pam[cada]śe 15. 12. Kaldarra : vaṣa 113 Śravaṇasa 20. 13. Marguz ; [vaṣe 1*]17. 14. Panjtar : sam 122 śravaṇasa masasa di pradhame 
+Śravaṇasa masasa di [var ] se pam[cada]śe 15. 12. Kaldarra : vaṣa 113 Śravaṇasa 20. 13. Marguz ; [vaṣe 1*]17. 14. Panjtar : sam 122 śravaṇasa masasa di pradhame 
 
 1 maharayasa Guṣanasa rajami. 15. Taxila silver scroll : sa 136 ayasa Aṣadasa 
 

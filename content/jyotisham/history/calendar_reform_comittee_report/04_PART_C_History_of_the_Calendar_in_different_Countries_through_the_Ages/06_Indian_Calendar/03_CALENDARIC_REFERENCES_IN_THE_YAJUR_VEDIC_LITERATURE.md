@@ -101,7 +101,7 @@ The twelve names which we have got are :
 - Vaisakha Visakhā ( 16) 
 - Jyaiṣtha Jyeṣtha ( 18) 
 - Aṣadha Āṣadha ( 20 & 21 ) 
-- śravaṇa Śravana ( 22 ) 
+- śravaṇa Śravaṇa ( 22 ) 
 - Bhadra Bhādrapada (25 & 26 ) 
 - Asvina Asvinī (1) 
 - Kartika Kr̥ttikā (3) 
