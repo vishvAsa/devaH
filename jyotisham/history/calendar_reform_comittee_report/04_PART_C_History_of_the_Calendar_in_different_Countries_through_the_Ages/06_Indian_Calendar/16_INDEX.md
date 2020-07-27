@@ -387,7 +387,7 @@ dates of, 119-124, Moslem, 125; Solar-general rules for, Iva;
 
 dates of, 117-118; South Indian-general rules for 106; Fotheringham, Dr. J. K., 165 
 
-Galilio. 159 Gándhára, 225, 226, 229, 230; latitude of 225 Ganeśa Caturthī, 108 Ganges, river, 157 Gangooly, P. L., 238 Garga, 226; receding of solstices, 226 Garga Samhita, 226 Gargasrota, river, 226 Gauna (måna), 247, 248 Geminua, 197 General Astronomy, 158 Geocentric theory, 204, 239 George Washington, birthday of, 161 Geah (division of time), 160 ghaṭika, 160 Ghirshman, 232 Ginzel, F. K. 162, 193 Gnomon, 159, 174, 188, 189, 202, 219, 223, 268; 
+Galilio. 159 Gándhára, 225, 226, 229, 230; latitude of 225 Ganeśa Caturthī, 108 Ganges, river, 157 Gangooly, P. L., 238 Garga, 226; receding of solstices, 226 Garga Saṁhita, 226 Gargasrota, river, 226 Gauna (måna), 247, 248 Geminua, 197 General Astronomy, 158 Geocentric theory, 204, 239 George Washington, birthday of, 161 Geah (division of time), 160 ghaṭika, 160 Ghirshman, 232 Ginzel, F. K. 162, 193 Gnomon, 159, 174, 188, 189, 202, 219, 223, 268; 
 
 measurement in Aitareya Brāhmapa, 266 Gondophernes, 178, 230 Gorpiaios, Greek month, 231 Great Bear (Saptarsi), 190 Greek Olympiade, 178 . Greenwich time (U..T.), 14 Gregory XIII, Pope, 2, 10, 11, 170, 171 Gunda (inscription), 234. Guptas, 254, 255, 257 
 
@@ -751,7 +751,7 @@ Yājñavalkya Vájasaneya, 218. Yajur Veda, 182, 183, 214, 218-222 ;
 
 Black, 218; 
 
-śukla, 218 Yajurveda Samhita, 218 Yajur Jyōtiṣa, 222 Yåma, division of day, 160 Yamakoti, 239 
+śukla, 218 Yajurveda Saṁhita, 218 Yajur Jyōtiṣa, 222 Yåma, division of day, 160 Yamakoti, 239 
 
 Yamardha, 108 
 

@@ -191,7 +191,7 @@ was extended & month later, and so for every season. to summer solstice, and vic
 
 Table 29, and Hemanta. 
 
-Indian Seasons Tropical Month-names Lunar Month-names The names of months given in the second column of Table No. 28 are found frat in Taittiriya Samhita, and they Spring (-30° to 309) Madhu & Madhava Caitra-Vaikkha aro tropical, boos oder den attempt to define the physical 
+Indian Seasons Tropical Month-names Lunar Month-names The names of months given in the second column of Table No. 28 are found frat in Taittiriya Saṁhita, and they Spring (-30° to 309) Madhu & Madhava Caitra-Vaikkha aro tropical, boos oder den attempt to define the physical 
 
 Summer (30° to 909) Sukra & suci 
 
