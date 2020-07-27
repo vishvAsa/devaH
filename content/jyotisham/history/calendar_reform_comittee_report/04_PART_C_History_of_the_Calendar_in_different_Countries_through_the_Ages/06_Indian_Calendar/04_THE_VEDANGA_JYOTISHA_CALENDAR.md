@@ -130,23 +130,12 @@ It is seen from the above table, that even at the latitude of Babylon, the ratio
 Both Babylonians and Indians measured subdivisions of the day by means of some kind of Clepsydra. A description of the Clepsydra used by Indians during the Vedānga Jyōtiṣa-period will be found in S.B. Dīkṣit's Bharatīya Jyotiśāstra (Sec. II, Chap. I). But the day length must have been measured from the observed time of sunrise to the observed time of sunset. This is somewhat larger than the astronomical time of sunrise on account of refraction. Assuming that the effect of **refraction is to elevate a celestial body near the horizon by about 35'**, and the **sun's semi-diameter is about 16'**, the **sun's upper limb appears on the horizon at a place on 32° latitude, about 4.5 minutes before the centre** of the sun is due on the horizon. For the same reason, the **sunset takes place 4.5 minutes** after the astronomical calculated sunget. So the **apparent length of the day is increased** bg 2* 4.5 min. or by **9 minutes**. Therefore for the latitude of Babylon we have the length of maximum day-light 14h 12m +9m = 14h 21m, and the night is 9h 39m. The ratio is now 1.49. Taking the effect of refraction into consideration the ratio for **Gāndhār also becomes 1.46**, which is not much different from 1.50 as for Babylon. So it is not necessary to assume that the ratio was obtained from Babylonian sources. 
 
 ## Effect of Procession
-The Vedānga Jyotiṣa was prevalent for a long time over India, for over 1300 years (1000 B.C. to 300 A.D.). Hence it is likely that the subsequent astronomers noticed the gradual shift of the solstitial colure in the lunar-zodiac. In fact, several references are found to this effect. Garga, an astronomer whose name is found in the Mahabharata, where he is described as having an astronomical school at a place called Gargasrota in the Sarasvatī basin, is the reputed author of a pre-Siddhāntic calendaric treatise called Garga Samhita. . He notes : 
+The Vedānga Jyotiṣa was prevalent for a long time over India, for over 1300 years (1000 B.C. to 300 A.D.). Hence it is likely that the subsequent astronomers noticed the gradual shift of the solstitial colure in the lunar-zodiac. In fact, several references are found to this effect. **Garga**, an astronomer whose name is found in the Mahabharata, where he is described as having an astronomical school at a place called **Gargasrota in the Sarasvatī basin**, is the reputed author of a pre-Siddhāntic calendaric treatise called **Garga Saṁhita**. He notes : 
 
-Yadā nivarta to'prāptaḥ śraviṣthamuttarāyape Aśleṣām dakśiṇo'prāptah tadā vindyanma had bhayam. 
+Yadā nivartatē 'prāptaḥ śraviṣṭhām uttarāyaṇe  
+Aśleṣām dakśiṇo 'prāptas tadā vindyān mahad bhayam. 
 
 Translation : When at the time of Ottarāyana the sun is found turning (north) without reaching the Sraviṣthās; and (at the time of Dakṣiṇāyana) turning (south) without reaching the Aśleṣā, it should be taken to indicate a period of calamity. 
-
-
-: We get from this the time of composition of the Mahābhārata as about 450 B.C. or sometime earlier.. 
-
-Varahamihira also notes that the winter solstice: no longer took place at Dhansstha. 
-
-.. - Pañica Siddhāntika, III, 21 A śleṣārdbádāsit yadā nivșttiḥ kiloṣnakiraṇasya Yuktamayanan tadāsit sāmpratamayanam 
-
-punarvasutab. Translation : When the return of the sun towards the south (1.., the summer solstice ) took place from. the middle of Aślesa, tbe ayana was right : at the present time ayana begins from Punarvasu. 
-
-In his Brhat Samhita, an astrological treatise, he. records : 
-
 
 It shows that at the time of Garga the W.S. did no longer occur in Śraviṣthā, neither the S.S. occurred in the Aśleṣā division. At the time of. Vedānga Jyōtiṣa the two solstices were marked by the starting point of Śraviṣtha and the middle point of Asleṣā respectively. Garga therefore observed that the solstices were reced ing back over the lunar calendar, and had shifted at least by half a nakṣatra-division from the middle of Āṣleṣā. His observations are therefore at least 480 years later than those of the Vedānga Jyōtiṣa. 
 
@@ -157,6 +146,19 @@ Aśvamedha, Chap. 44;2: .. Abab pūrvani tatorātrirmāsāḥ śukládayalı gm�
 Translation : Day comes first and then the night ; months, are known to commence with the bright half, the nakṣatras with Śravana, and the seasons with Sibira, 
 
 Here the asterism Śravana is described as the one where the winter solstice takes place. śravaṇa is ust preceding Sravistha and the solstices take about 460 years to retrograde through one nakṣaira division. 
+
+We get from this the time of composition of the Mahābhārata as about 450 B.C. or sometime earlier.. 
+
+Varahamihira also notes that the winter solstice: no longer took place at Dhansstha. 
+
+.. - Pañica Siddhāntika, III, 21 A śleṣārdbádāsit yadā nivșttiḥ kiloṣnakiraṇasya Yuktamayanan tadāsit sāmpratamayanam 
+
+punarvasutab. Translation : When the return of the sun towards the south (1.., the summer solstice ) took place from. the middle of Aślesa, tbe ayana was right : at the present time ayana begins from Punarvasu. 
+
+In his Brhat Saṁhita, an astrological treatise, he. records : 
+
+
+
 
 Brhat Samhitā, III, 1 Asleṣārdbātdakgiṇam uttaramayanan raverdbaniṣthôdyam Nūnaṁ kadācidāsīt yenoktani pūrvasõstresu. 
 

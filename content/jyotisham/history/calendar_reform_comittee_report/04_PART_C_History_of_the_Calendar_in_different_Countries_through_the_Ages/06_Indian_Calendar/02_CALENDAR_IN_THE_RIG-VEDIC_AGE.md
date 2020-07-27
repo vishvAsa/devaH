@@ -142,7 +142,7 @@ The following reference is more explicit.
 
 This passage occurs in the famous bridal hymn, where the Sun god (Savitr) gives away his daughter Suryā to Soma (Moon) in marriage. It says that on the Aghā-day the cows, given as bridal dowry are, driven away ; on the two Arjuni-days, the bride goes to the bridegroom's house. 
 
-This hymn is repeated in the Atharva Samhita as follows: 
+This hymn is repeated in the Atharva Saṁhita as follows: 
 
 सू॒र्याया॑ वह॒तुः प्रागा॑त्  
 सवि॒ता यम॒वासृ॑जत्।  

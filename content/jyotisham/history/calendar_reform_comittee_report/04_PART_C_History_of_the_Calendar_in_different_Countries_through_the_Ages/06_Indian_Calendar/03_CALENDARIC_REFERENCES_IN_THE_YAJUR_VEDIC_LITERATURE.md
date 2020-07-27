@@ -19,20 +19,20 @@ There are two schools of the Yajurveda Sathith each with a number of recensions 
 
 - 1. The Black Yajurveda School, with the following recensions : 
   - (A) The Kaṭhaka 
-  - (B) The Kapiṣṭhala-Kaṭha-Samhita, which is preserved only in a few fragments of manuscript.
+  - (B) The Kapiṣṭhala-Kaṭha-Saṁhita, which is preserved only in a few fragments of manuscript.
   - (c) The Maitriyaṇī-Saṁhitā - shortly called M. S. 
   - (d) The 'Taittiriys-Bahiti, also called "Apatamba Saṁhitā" after the Apostamba-School, one of the chief schools in which this text was taught - shortly called T. S. 
 - These four recensions are closely inter-related, and are designated As belonging to the "Black Yajurveda". Differing from them is the White Yajurveda which is known as śukla Yajurveda. 
-- 2. The Vajnaneyi-Samhita shortly called V. S. which takes its name from yājṇavalkya Vājasaneya, the chief teacher of this Veda. Of this Vājasaneyī-Saṁhitā there are two recensions, that of the kāṇva and that of the Madhyandina-school, which however differ very little from each other.
+- 2. The Vajnaneyi-Saṁhita shortly called V. S. which takes its name from yājṇavalkya Vājasaneya, the chief teacher of this Veda. Of this Vājasaneyī-Saṁhitā there are two recensions, that of the kāṇva and that of the Madhyandina-school, which however differ very little from each other.
 
-Winternitz gives reasons to believe that the Samhitas of the Black Yajurveda school are older than those of the White school. 
+Winternitz gives reasons to believe that the Saṁhitas of the Black Yajurveda school are older than those of the White school. 
 
-Even such a conservative thinker as Berriedale Keith gives 600 B.C. as the terminus ad quem for the verses of the Yajurveda Samhita. As we shall see, there are references which point to a much earlier origin. 
+Even such a conservative thinker as Berriedale Keith gives 600 B.C. as the terminus ad quem for the verses of the Yajurveda Saṁhita. As we shall see, there are references which point to a much earlier origin. 
 
 ## Months and lunar mansions
 The Yajur Veda gives the names of twelve months and the names of the lunar mansions with their presiding deities, and talks of the sun's northernly and southernly motion. We do not give the texts here, but only Dr. Berriedale Keith's translation. 
 
-Taittiriya Samhita, 4.4.11 
+Taittiriya Saṁhita, 4.4.11 
 - (a) (Ye are) Madhu and Madhava, the months of Spring. 
 - (b) (Ye are) Sukra and Suci, the months of Summer. 
 - (c) (Ye are) Nabha and Nabhasya, the months of Rain. 
@@ -82,7 +82,7 @@ The more important question is whether the lunar mansions denote definite cluste
 
 
 ## The Lunar Month-Names 
-The solar month-names given earlier have not gone into general currency. The month-names generally used are of lunar origin as given in § 5.7. These names are first found in the Taittiriya Samhita 7.4.8, and in many other places of the Yajur-Veda literature, but in a somewhat different form. We quote parts of the passage.
+The solar month-names given earlier have not gone into general currency. The month-names generally used are of lunar origin as given in § 5.7. These names are first found in the Taittiriya Saṁhita 7.4.8, and in many other places of the Yajur-Veda literature, but in a somewhat different form. We quote parts of the passage.
 
 सत्रँ॒व्व॒थ्स॒रस्य॒ यत् फ॑ल्गुनीपूर्णमा॒सः ।  
 मु॒ख॒त ए॒व सँ॑व्वथ्स॒रम् आ॒रभ्य॑ दीख्षन्ते ।  
@@ -119,7 +119,7 @@ Thus the first tithi ( Pratipada, lit, when the moon is regenerated ) in the wax
 
 This is the definition of the tithi given in Siddhāntas or scientific astronomy which started about 400 A.D. But this presupposes knowledge of measurement of angles, and precise scientific observation, of which we find no trace in the Vedic literature. What was then the origin of this system ? 
 
-We have no reference to tithi in the Rg-Veda. The first reference is found in Yajurvedic literature, and the Brāhmaṇas. The **Taittiriya Samhita** talks of the **pancadasi tithi**, which shows that the lunar pakṣa was divided into 15 tithis, counted by ordinal numbers from 1 to 15 for each pakṣa. But what was the time period meant by a tithi ? The **Aitareya Brāhmaṇa** attached to the Rg-Veda gives the following definition of the tithi. 
+We have no reference to tithi in the Rg-Veda. The first reference is found in Yajurvedic literature, and the Brāhmaṇas. The **Taittiriya Saṁhita** talks of the **pancadasi tithi**, which shows that the lunar pakṣa was divided into 15 tithis, counted by ordinal numbers from 1 to 15 for each pakṣa. But what was the time period meant by a tithi ? The **Aitareya Brāhmaṇa** attached to the Rg-Veda gives the following definition of the tithi. 
 
 Aitareya Brāhmaṇa, 32.10 - Yām paryastam iyad abhyudiyād iti sā tithih. 
 
