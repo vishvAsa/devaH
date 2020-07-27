@@ -113,7 +113,7 @@ To prevent the occurrence of this . undesirable feature, the system of intercala
 
 60 van WN fond 
 
-5 Śravana 
+5 Śravaṇa 
 
 3 Jyestha 
 
