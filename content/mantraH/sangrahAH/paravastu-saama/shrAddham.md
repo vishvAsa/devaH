@@ -35,7 +35,7 @@ practice_weight: 0
 
 <div class="js_include" url="../../../indraH/paravastu-saama/svAdor-itthA/"  newLevelForH1="2" includeTitle="true"> </div>  
 
-<div class="js_include" url="../pratIka/atiShangam/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../pratIkam/atiShangam/"  newLevelForH1="2" includeTitle="true"> </div>  
 
  
 # अधिश्रवण सामानि  

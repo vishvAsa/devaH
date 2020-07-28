@@ -12,11 +12,11 @@ unicode_script: devanagari
 # प्रतीकानि
 
 
-<div class="js_include" url="../pratIka/prakRti-pratIka/"  newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="../pratIkam/prakRti-pratIkam/"  newLevelForH1="2" includeTitle="true"> </div>
 
-<div class="js_include" url="../pratIka/Uha-pratIka/"  newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="../pratIkam/Uha-pratIkam/"  newLevelForH1="2" includeTitle="true"> </div>
 
-<div class="js_include" url="../pratIka/rahasya-pratIka/"  newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="../pratIkam/rahasya-pratIkam/"  newLevelForH1="2" includeTitle="true"> </div>
 
 
 # प्रोक्षणम्
