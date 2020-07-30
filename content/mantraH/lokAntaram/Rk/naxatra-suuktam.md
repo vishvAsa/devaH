@@ -454,7 +454,7 @@ unicode_script: devanagari
 अ॒जायैक॑पदे॒ स्वाहा॑ प्रोष्ठप॒देभ्यः॒ स्वाहा॑।  
 तेज॑से॒ स्वाहा॑ ब्रह्मवर्च॒साय॒ स्वाहा॑।  
 
-{{< figure src="../../../../jyotisham/history/images/zodiac_history/bce-3000_naxatra-chakra.jpg" title="पूर्वप्रोष्ठपदेष्व् अयनान्त्यम् पुरा - उग्रः सूर्यः" class="thumbnail">}}
+{{< figure src="../../../../../jyotiSham/history/images/zodiac_history/bce-3000_naxatra-chakra.jpg" title="पूर्वप्रोष्ठपदेष्व् अयनान्त्यम् पुरा - उग्रः सूर्यः" class="thumbnail">}}
 
 
 ## प्रोष्ठपदाः/ भाद्रपदाः उत्तराः  - अहिर् बिध्नियः
@@ -504,7 +504,7 @@ unicode_script: devanagari
 श्रोत्रा॑य॒ स्वाहा॒ श्रुत्यै॒ स्वाहा॑।  
 
 ### टिप्पणिः
-- "अश्विनौ व्यात्तम्" इत्युत्तरनारयणे। भरणीविषुवकाले। विवरणानि [अत्र](../../../../jyotisham/naxatram/chAndra-naxatram/)।
+- "अश्विनौ व्यात्तम्" इत्युत्तरनारयणे। भरणीविषुवकाले। विवरणानि [अत्र](../../../../../jyotiSham/naxatram/chAndra-naxatram/)।
 - पश्चाद् विशुवस्थानम् अत्र।
 
 ## भरणी - यमः
