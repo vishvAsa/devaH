@@ -1,8 +1,6 @@
 ---
 title: आक्रन्दय
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 
 ## ऋक्
