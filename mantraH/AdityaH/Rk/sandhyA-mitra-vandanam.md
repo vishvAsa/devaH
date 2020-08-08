@@ -8,7 +8,7 @@ practice_weight: .1
 
 TS.3.4.11.5a. सायणो [ऽत्र]+++(https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_5_-_Kasinath_Sastri_Agase_1946#page/n311/mode/2up)+++।
 
-{{< figure src="../../images/mitra.png" title="" class="thumbnail">}}
+{{< figure src="../../images/mitra.png"  class="thumbnail">}}
 
 मि॒त्रस्य॑ चर्षणी॒+++(मनुष्य)+++धृतः॒  
 श्रवो॑+++(=श्रव्यो)+++ दे॒वस्य॑ सान॒सिम्+++(=फलप्रदम्)+++ ।  

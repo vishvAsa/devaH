@@ -18,7 +18,7 @@ RV.8.2.1a
 तं ते॒ यवं॒ यथा॒ गोभिः॑ स्वा॒दुम॑कर्म +++(=अकार्ष्म)+++ श्री॒णन्तः॑  +++(=मिश्रयन्तः)+++।  
 इन्द्र॑ त्वा॒स्मिन् त्स॑ध॒मादे॑ +++(=सहमदने यज्ञे ([आह्वयामि])+++) ३
 
-{{< figure src="../../images/indra-squeezing-soma-into-mouth.jpg" title="" class="thumbnail">}}
+{{< figure src="../../images/indra-squeezing-soma-into-mouth.jpg"  class="thumbnail">}}
 
 
 ## साम

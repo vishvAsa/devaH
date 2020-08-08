@@ -2,7 +2,7 @@
 title: +रुद्रः
 ---
 
-{{< figure src="images/rudra-with-his-drawn-bow.png" title="" >}}
+{{< figure src="images/rudra-with-his-drawn-bow.png"  >}}
 
 ## रुद्रः
 - पशुपतिः। मरुत्पतिः। रोगदो रोगहा च।
@@ -25,6 +25,12 @@ title: +रुद्रः
 - मरुतः।
 - अश्विनाव् अपि।
 
+### लिङ्गम्
+- linga can mean both a symbol and a phallus.
+- Though to modern devotees, the linga tends to be a symbol of shiva (with no sexual connotations), it had associations with the erect human phallus, representing the yogic Urdhvaretas power and paradoxical fertility of shiva.
+    - Eg. the ancient linga at [guDimallam](https://en.wikipedia.org/wiki/Gudimallam). There are also several images of shiva with an erect phallus.
+    - किरातपतेर् ऊर्ध्वरेतस्त्वं यो न जानाति स खलु प्रायेण नावगच्छति लिङ्गस्य स्वारस्यमित्य् अनुमामि। 
+- "What is embarrassing about the phallic significance of the Śivaliṅga? People keep repeating verses praising the head & feet of the deva but get disgusted at a symbol that connotes what? The eternal fatherhood & motherhood of Śiva & his inseparable Śakti. I don’t care if getting defensive about the phallic significance is the politically “right” stance to take as per the prude-tva consensus. I am & will be a Śaiva till my last breath & will never be apologetic for the phallic significance of the Śivaliṅga. ... I don’t care for such immature folks. I care for the opinion of Śrī-Upamanyu-Ṛṣi who states in Mahābhārata that Śiva-Devī are the only deities whose signs/insignia are found on the very persons of all humans & even beasts."
 
 ## अश्विनौ
 - "Further, this sūkta mentions our ancient ancestor Cyavāna as the one who had measured out the vedi for the for the Aśvin-s. Cyavāna is mentioned in tradition as the one who instituted the rite where soma is offered to the Aśvin-s. Indeed, in the above ṛk it appears that Kakṣīvān seeks Indra permission for the same as there are indications from later narratives that Indra was not entirely on board with that." [MT](https://manasataramgini.wordpress.com/2020/01/12/the-asvin-s-and-rudra/)
@@ -37,5 +43,6 @@ title: +रुद्रः
 
 ## कुमारः
 - शिवात्मजः पुराणेषु। 
-- खय् आकाशगङ्गायाः पार्श्वे शरवणे रुद्रस्य रेतसो जातः, अग्निना कृत्तिकाभिश्च वर्धितः।
+- खय् आकाशगङ्गायाः पार्श्वे शरवणे रुद्रस्य रेतसो जातः, अग्निना कृत्तिकाभिश्च वर्धितः। 
+  - ततो हि कार्तिकमासे स्कन्द-षष्ट्य्-आचरणम्। अग्निसम्बन्धाद् अस्य नक्षत्रस्य सायन-मासोपि स्यात् (विषुवपरिसरे)। तारामण्डलसम्बन्धात् तु यथादृष्टम् अपि वा।
 - तस्मात् स्कन्दविशाखौ जातौ। विशाखा नक्षत्रं खचक्रे कृत्तिकाया विपरीतदिशि हि वर्तते। 

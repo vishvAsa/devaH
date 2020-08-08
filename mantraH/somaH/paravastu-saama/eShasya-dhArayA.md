@@ -14,7 +14,7 @@ RV.9.108.5a; SV.1.584a; JB.3.192a; PB.14.5.2.
  अव्यो वारे॑भिः +++(=वालैः)+++ पवते +++(=क्षरति)+++ म॒दिन्त॑मः +++(=मदयितृतमः)+++।  
  क्रीळ॑न्न् +++(=सङ्क्रीडमानः)+++ ऊ॒र्मिर् अ॒पाम् इव॥
 
-{{< figure src="../../images/soma-purification.png" title="" class="thumbnail">}}
+{{< figure src="../../images/soma-purification.png"  class="thumbnail">}}
 
 
 ## साम

@@ -4,7 +4,7 @@ unicode_script: devanagari
 
 ---
 
-{{< figure src="../../images/savitR_SunEarthGravityGrid.jpg" title="" class="thumbnail">}}
+{{< figure src="../../images/savitR_SunEarthGravityGrid.jpg"  class="thumbnail">}}
 
 
 ## MT's summary

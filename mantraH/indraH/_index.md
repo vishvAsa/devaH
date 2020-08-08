@@ -2,7 +2,7 @@
 title: +इन्द्रः
 ---
 
-{{< figure src="images/1000-eyed-indra-on-uchChaishravas.png" title="" >}}
+{{< figure src="images/1000-eyed-indra-on-uchChaishravas.png"  >}}
 
 ## परिचयः
 - इन्द्रः! पुरन्दरः! मघवा। दस्युहा। शची+++(→बल)+++पतिः। श्रवसो +++(=यशसो)+++ दाता।

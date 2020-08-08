@@ -2,7 +2,7 @@
 title: +विष्णुः
 ---
 
-{{< figure src="images/vishnu.png" title="" >}}
+{{< figure src="images/vishnu.png"  >}}
 
 ## परिचयः
 - विष्णुः सर्वव्यापकः।
@@ -20,6 +20,9 @@ title: +विष्णुः
 
 ### यजुर्वेदे प्राचुर्यम्
 - "extraordinary prominence of Viṣṇu in the Vedic tradition represented by the Yajurveda. This is clearly in contrast with the other Vedic tradition, namely that of the Samaveda. Tellingly, the one Samavedic text that is enriched in Viṣṇu is the Mantra-brāhmaṇa, which is primarily a collection of yajuṣ-es within the Samavedic tradition. This short collection of yajuṣ-es has the same order of magnitude of mentions of Viṣṇu as the SV Kauthuma-saṃhitā and Pañcaviṃśa-brāhmaṇa, both of which are several times the size of the Mantra-brāhmaṇa."
+
+## कृष्णः
+- रोहिणी-नक्षत्रे चन्द्र-वंशे जातो ऽसौ मध्यरात्रौ - चन्द्रस्य प्रियतमा हि रोहिणी। अष्टम्यां च तिथौ स जातो, येन चन्द्रोदयो ऽपि मध्यरात्रौ स्यात्। 
 
 ## जनान्तरे
 ### Víðarr

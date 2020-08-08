@@ -27,7 +27,7 @@ unicode_script: devanagari
 अभि त्वा शूर नोनुमोऽदुग्धा इव धेनवः। ईशानमस्य जगतः स्वर्दृशमीशानमिन्द्र तस्थुषः ।।1 ।।  
 न त्वावाᳱअन्यो दिव्यो न पार्थिवो न जातो न जनिष्यते। अश्वायन्तो मघवन्निन्द्र वाजिनो गव्यन्तस्त्वा हवामहे ।।2 ।।।।11(यी)।।  
 
-{{< figure src="../../images/Indra-kills-vRtra-snake-with-vajra.jpg" title="" class="thumbnail">}}
+{{< figure src="../../images/Indra-kills-vRtra-snake-with-vajra.jpg"  class="thumbnail">}}
 
 
 ## साम - द्व्यर्चम्

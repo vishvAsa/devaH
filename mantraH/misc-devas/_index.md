@@ -2,7 +2,7 @@
 title: +प्रकीर्णाः
 ---
 
-{{< figure src="images/rocket_takeoff.jpg" title="" >}}
+{{< figure src="images/rocket_takeoff.jpg"  >}}
 
 ## तार्क्ष्यः
 - तार्क्ष्यः, वेदमयः, गायत्रीस्वरूपः, श्येनः सपक्षाश्वो वा, अमृताहर्ता।

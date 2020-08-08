@@ -13,7 +13,7 @@ RV.6.16.10
 गृणा॒नो +++(=स्तूयमानः)+++ ह॒व्यदा॑तये +++(देवेभ्यः)+++ ।  
 नि होता॑ सत्सि ब॒र्हिषि॑ ।।
 
-{{< figure src="../../images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png" title="" class="thumbnail">}}
+{{< figure src="../../images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png"  class="thumbnail">}}
 
 
 ## साम १
