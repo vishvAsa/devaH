@@ -11,28 +11,27 @@ contents:
   - title: वंशाः
     contents:
       - url: recdir://bloodlines/
-  - title: ज्यौतिषम्
-    contents:
-      - url: recdir://jyotisham
   - title: न्यायशास्त्रम्
     contents:
       - url: recdir://nyAya-vaisheShike/
-  - title: संस्कृतम्
+  - title: सङ्ग्रहान्तरम्
     contents:
-      - url: ../sanskrit/
-  - title: मीमांसा
-    contents:
-      - url: ../mImAMsA/
+      - title: ज्यौतिषम्
+        url: ../jyotiSham/
+      - title: संस्कृतम्
+        url: ../sanskrit/
+      - title: मीमांसा
+        url: ../mImAMsA/
+      - title: Notes Home
+        url: ../notes/
+      - title: काव्यम्
+        url: ../kAvya/
   - title: प्रकीर्णम्
     contents:
       - title: Tags
         url: /tags/
       - title: Categories
         url: /categories/
-  - title: Notes Home
-    url: https://vvasuki.github.io/notes/
-  - title: काव्यम्
-    url: https://vvasuki.github.io/kAvya/
   - title: Vishvas's home page
     url: https://vvasuki.github.io/
 #  - title: <i class="fas fa-hand-holding-heart"></i>Donate Via Vishvas
