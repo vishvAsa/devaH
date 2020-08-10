@@ -35,3 +35,9 @@ unicode_script: devanagari
   -  तद्वदेवाग्नौ प्रहरति ।
 - ततः जयादयः इति बहवः
 - सर्पिष्मतः स्थालीपाकशेषात्ब्राह्मणभोजनम्
+
+## स्रोतांसि
+- आपस्तम्ब-गृह्यसूत्रे [ऽत्र](https://archive.org/stream/APASTHAMBAGRUHYASUTRAMSUDARSHANAHARADATHA/APASTHAMBA%20GRUHYASUTRAM%20%28SUDARSHANA%2CHARADATHA%29#page/n123/mode/2up)।
+    - टिप्पणयः [अत्र](https://checkvist.com/checklists/575296/export.html?export_notes=true&&task_ids=22638263)।
+- बोधायन-विधौ
+    - [अत्र](https://archive.org/stream/Bodhayana-Grihya-Sutra-shyAma-shAstrI-ed/bodhayana%20grihya%20sutra#page/n37/mode/2up)।

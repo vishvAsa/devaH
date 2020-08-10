@@ -33,3 +33,7 @@ Given the sentiment behind AgrayaNa sthAlIpAka (AhitAgni should not, and the anA
   - (स्थालीपाकात्) ओदनपिण्डं संवृत्त्य (यथा+उत्क्षेपे न विशीर्येत)
   - उत्तरेण यजुषा+++(प॒र॒मे॒ष्ठ्यसि॑ पर॒मां मा॒ꣳ॒ श्रियं॑ गमय ।)+++  ऽऽगारस्तूप उद्विद्धेत्
 
+## स्रोतांसि
+- आपस्तम्ब-गृह्यसूत्रे [ऽत्र](https://archive.org/stream/APASTHAMBAGRUHYASUTRAMSUDARSHANAHARADATHA/APASTHAMBA%20GRUHYASUTRAM%20%28SUDARSHANA%2CHARADATHA%29#page/n271/mode/2up)।
+- पूर्वप्रयोग-ग्रन्था [अत्र](http://i.imgur.com/K2SQ9EU.png)।
+- टीकानुमता टिप्पणिर् [अत्र](https://checkvist.com/checklists/113019/export.html?export_notes=true&&task_ids=23681190)।
