@@ -18,6 +18,7 @@ unicode_script: devanagari
 - १२ दिनानि निर्लवणभोजनम् भूशयनम्, ब्रह्मचर्यञ्च
   - अग्निस्थानक-बलिसमूहः + ११ पार्थिवस्थानीया बलयः
 - १ रात्रस्योपवासः वैहायस-स्थानीय-बलिभ्याम्
+- Ravilochana - "Though no one really follows this rule anymore. Rather what we have in practice is another method given in bodhAyana paddhati where kUShmANDa and three savana gaNa homas are done on the day before vaishvadeva is begun."  
 
 ### अन्न-साधनम्
 - अथ गृहमेधिनो यदशनीयमन्नं ततो होमार्थं हविष्यमन्नं पात्रे कल्पयति ।
@@ -84,6 +85,16 @@ unicode_script: devanagari
 - द्वौ श्वानौ श्यामशबलौ वैवस्वतकुलोद्भवौ।  
 ताभ्यां पिण्डम् प्रदास्यामि स्यातामेतावहिंसकौ ।।
 
+### स्रोतांसि
+- सूत्रे [अत्र](https://archive.org/stream/APASTHAMBAGRUHYASUTRAMSUDARSHANAHARADATHA/APASTHAMBA%20GRUHYASUTRAM%20%28SUDARSHANA%2CHARADATHA%29#page/n145/mode/2up)।
+- एकाग्निकाण्डे मन्त्रा [अत्र](https://archive.org/stream/apastamba/EkagniKandam#page/n13/mode/2up)।
+- धर्मसूत्रे [ऽत्र](https://archive.org/stream/apastamba/ApastambaDharmaSutram#page/n197/mode/2up)।
+- तत्रैव ५ महायज्ञाः।
+    - धर्मसूत्रे [अत्र](https://archive.org/stream/apastamba/ApastambaDharmaSutram#page/n83/mode/2up)।
+- श्रीवैष्णवसदाचारनिर्णये [ऽत्र](https://archive.org/details/Vaishvadeva)।
+- टिप्पणयः [अत्र](https://checkvist.com/checklists/575296/export.html?export_notes=true&&task_ids=22621929)।
+
+
 ## गरुडपुराणोक्त-होममन्त्राः
 ॐ प्र॒जाप॑तये॒ स्वाहा॑ ।  
 ॐ सोमा॑य॒ स्वाहा॑ ।  
@@ -108,3 +119,10 @@ unicode_script: devanagari
 ## सङ्क्षेपेण पञ्चमहायज्ञाः
 - स्नानविधावेव देव-ऋषि-पितृ-तर्पणानि
 - मानुषयज्ञ-भूतयज्ञ-धन-दानम्
+
+## आश्वलायन-सूत्रे
+- ऋग्विधाने [ऽत्र](https://archive.org/stream/ahnika/RigVedaAhnikaChandrika#page/n93/mode/2up)।
+
+### स्मृत्यन्तरम्
+- मनुः
+    - सायम् स्त्रिया \- [अत्र](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc199900.html)।

@@ -129,3 +129,5 @@ unicode_script: devanagari
 -  प्रा॒णे निवि॑ष्टो॒ऽमृतं॑ जुहोमि॒ ब्रह्म॑णि म आ॒त्माऽमृ॑त॒त्वाय॑ ।
   - ममामृतत्वाय जुहोमीति।
 
+## स्रोतांसि 
+- टिप्पणिर् [अत्र](https://checkvist.com/checklists/575296/export.html?export_notes=true&&task_ids=23909976) टीकानुमिता।

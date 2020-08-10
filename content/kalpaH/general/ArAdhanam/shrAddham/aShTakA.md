@@ -73,3 +73,6 @@ unicode_script: devanagari
 
 - मासिश्राद्धवत्
 - पूर्वदिनात् शिष्टेन मांसेन
+
+## स्रोतांसि
+- टीकानुमता टिप्पणिर् [अत्र](https://checkvist.com/checklists/575296/export.html?export_notes=true&&task_ids=24014678)।
