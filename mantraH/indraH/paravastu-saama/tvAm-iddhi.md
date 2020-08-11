@@ -12,8 +12,8 @@ practice_weight: 0
 ऋग्वेदः  ६.४६.१  
 ऋषिः  शंयुर्बार्हस्पत्यः  
 देवता  इंद्रः  
-छन्दः  बृहती  
-सायणो [ऽत्र](http://192.155.224.66/stage/rigveda-samhita/describe/rikMandala/006.046.001)।
+छन्दः  बृहती??  
+सायणो [ऽत्र](http://rigveda.sanatana.in/describe/rikMandala/006.046.001)।
 
 ### संहिता
 
