@@ -11,7 +11,7 @@ practice_weight: 0
 ऋषिः  परुच्छेपो दैवोदासिः  
 देवता  अग्निः  
 छन्दः  अत्यष्टिः  
-सायणः [अत्र](http://192.155.224.66/stage/rigveda-samhita/describe/rikMandala/001.127.001)
+सायणः [अत्र](http://rigveda.sanatana.in/describe/rikMandala/001.127.001)
 
 अग्निष् टपति प्रतिदहति।
 

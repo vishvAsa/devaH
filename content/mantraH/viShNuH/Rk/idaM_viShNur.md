@@ -10,7 +10,7 @@ unicode_script: devanagari
 ऋषिः  मेधातिथिः काण्वः
 देवता  विष्णुः
 छन्दः  गायत्री
-सायणः [अत्र](http://192.155.224.66/stage/rigveda-samhita/describe/rikMandala/001.022.017)।
+सायणः [अत्र](http://rigveda.sanatana.in/describe/rikMandala/001.022.017)।
 श्रौतेविनियोगः - गार्हपत्याहवनीययोर्मध्ये श्वातिक्रमणेऽनयैव श्वपदेषु भस्म प्रक्षिपेत् ।
 
 ## संहिता

@@ -10,7 +10,7 @@ practice_weight: 0
 ऋषिः  अनानतः पारुच्छेपिः  
 देवता  पवमानः सोमः  
 छन्दः  अत्यष्टिः  
-सायणो [अत्र](http://192.155.224.66/stage/rigveda-samhita/describe/rikMandala/009.111.001), [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n987)।
+सायणो [अत्र](http://rigveda.sanatana.in/describe/rikMandala/009.111.001), [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n987)।
 
 ### संहिता
 

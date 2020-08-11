@@ -10,7 +10,7 @@ practice_weight: 0
 ऋषिः  वसिष्ठः  
 देवता  मरुतः  
 छन्दः  बृहती  
-सायणः [अत्र](http://192.155.224.66/stage/rigveda-samhita/describe/rikMandala/007.059.003)।
+सायणः [अत्र](http://rigveda.sanatana.in/describe/rikMandala/007.059.003)।
 
 ### संहिता
 +++(स्तोत्रेषु)+++ न॒हि व॑श् चर॒मं+++(=अवरम्)+++ च॒न+++(=अपि)+++  
