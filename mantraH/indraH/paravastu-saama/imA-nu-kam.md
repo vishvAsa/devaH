@@ -10,7 +10,7 @@ practice_weight: 0
 ऋषिः  भुवन आप्त्यः साधनो वा भौवनः  
 देवता  विश्वेदेवाः  
 छन्दः  द्विपदा त्रिष्टुप्  
-सायणो [अत्र](http://192.155.224.66/stage/rigveda-samhita/describe/rikMandala/010.157.001)।
+सायणो [अत्र](http://rigveda.sanatana.in/describe/rikMandala/010.157.001)।
 
 
 ### संहिता

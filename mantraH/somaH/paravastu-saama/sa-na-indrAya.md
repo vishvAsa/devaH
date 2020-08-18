@@ -11,7 +11,7 @@ practice_weight: 0
 ऋषिः  अमहीयुः  
 देवता  पवमानः सोमः  
 छन्दः  गायत्री  
-सायणो [ऽत्र](http://192.155.224.66/stage/rigveda-samhita/describe/rikMandala/009.061.012)।
+सायणो [ऽत्र](http://rigveda.sanatana.in/describe/rikMandala/009.061.012)।
 
 
 ### संहिता

@@ -11,7 +11,7 @@ practice_weight: 0
 ऋषिः  कण्वो घौरः  
 देवता  ब्रह्मणस्पतिः  
 छन्दः  बृहती  
-सायणः [अत्र](http://192.155.224.66/stage/rigveda-samhita/describe/rikMandala/001.040.003)।
+सायणः [अत्र](http://rigveda.sanatana.in/describe/rikMandala/001.040.003)।
 श्रौतेविनियोगः - महावीराग्निपात्र-नयने।
 
 प्रैतु॒ ब्रह्म॑ण॒स् पतिः॒  

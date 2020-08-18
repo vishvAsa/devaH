@@ -41,3 +41,6 @@ Abhinavagupta and Kshemaraja considered mudrā as a “way of accessing higher l
 ## yantra-s
 
 In other traditions: a jewish yantra [here](http://i.imgur.com/fElQY78.png?1).
+
+## मन्त्रविभागाः
+- [मीमांसाक्षेत्रे](../../mImAMsA/bodhaH/veda-vAkyam/mantraH/) दृश्यताम् ।

@@ -10,7 +10,7 @@ practice_weight: 0
 ऋषिः  वसिष्ठः  
 देवता  अग्निः  
 छन्दः  गायत्री  
-सायणो [ऽत्र](http://192.155.224.66/stage/rigveda-samhita/describe/rikMandala/007.015.007)।
+सायणो [ऽत्र](http://rigveda.sanatana.in/describe/rikMandala/007.015.007)।
 
 ### संहिता
 नि त्वा॑ नक्ष्य+++(=व्याप्यः, गम्यः)+++ विश्पते द्यु॒मन्तं॑ देव धीमहि ।
