@@ -2,10 +2,17 @@
 title: +आदित्याः
 ---
 
-{{< figure src="images/savitR_SunEarthGravityGrid.jpg" title="" >}}
+{{< figure src="images/savitR_SunEarthGravityGrid.jpg"  >}}
 
 ## परिचयः
 [अत्रापि](meta/) दृश्यताम्।
+
+## सविता
+{{< figure src="images/savitR_SunEarthGravityGrid.jpg"  class="thumbnail">}}
+
+- सविता प्रचोदकः। 
+- सहस्रगायत्रीजपे देवः सविता गायत्री-श्येनारूढो मनस्य् अस्फुरत् - विष्णुर् गरुडे यथा।
+- तदीयो भर्गः सूर्यः।
 
 ## रेवन्तः
 - मार्ताण्डावतारो ऽश्वरुहः।

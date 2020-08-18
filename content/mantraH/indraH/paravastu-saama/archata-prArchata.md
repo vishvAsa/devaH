@@ -20,7 +20,7 @@ RV.8.69.8a; AV;S.20.92.5a; SV.1.362a; AB.4.4.4; A;S.6.2.9.
 अर्च॑न्तु पुत्र॒का उ॒त  
 पुरं न धृ॒ष्णु +++(=धर्षणशीलः)+++ +अ॑र्चत ।।
 
-{{< figure src="../../images/indra-emerging-in-a-yAga-and-shows-abhaya-hasta-to-people.jpg" title="" class="thumbnail">}}
+{{< figure src="../../images/indra-emerging-in-a-yAga-and-shows-abhaya-hasta-to-people.jpg"  class="thumbnail">}}
 
 
 ## साम

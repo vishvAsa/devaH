@@ -4,7 +4,7 @@ unicode_script: devanagari
 
 ---
 
-{{< figure src="http://en.es-static.us/upl/2010/06/precession_sky_chart_3751-e1336864495341.jpg" title="" class="thumbnail">}}
+{{< figure src="http://en.es-static.us/upl/2010/06/precession_sky_chart_3751-e1336864495341.jpg"  class="thumbnail">}}
 
 ध्रु॒वस्त्वम॑सि। ध्रु॒वस्य क्षि॑तमसि।
 

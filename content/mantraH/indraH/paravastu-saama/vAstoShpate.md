@@ -14,7 +14,7 @@ unicode_script: devanagari
 वास्तोष्पते ध्रुवा स्थूणा अंसत्रं सोम्यानाम्।  
 द्रप्सः पुरां भेत्ता शश्वतीनामिन्द्रो मुनीनां सखा  । । २७५
 
-{{< figure src="../../images/Indra-kills-vRtra-snake-with-vajra.jpg" title="" class="thumbnail">}}
+{{< figure src="../../images/Indra-kills-vRtra-snake-with-vajra.jpg"  class="thumbnail">}}
 
 
 ## साम १

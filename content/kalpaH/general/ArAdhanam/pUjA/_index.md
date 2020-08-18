@@ -23,10 +23,7 @@ Several are the ways one expresses adoration (performs pUjA) towards the deva-s.
 - Some representations seem to be partly associated with human genitalia, such as a linga (shiva, and rarely viShNu, brahma  - [MT](https://manasataramgini.wordpress.com/2005/11/22/the-tale-of-the-linga/), [KV](https://agnimaan.wordpress.com/2015/08/12/linga-the-phallic-symbol-of-the-ultimate-being/), [S](http://sarasvatam.in/en/2015/08/18/li%E1%B9%85ga-worship-in-vai%E1%B9%A3%E1%B9%87ava-agamas/)) or yoni (devI) may be used.
 
 ### linga of shiva.
-- linga can mean both a symbol and a phallus.
-- Though to modern devotees, the linga tends to be a symbol of shiva (with no sexual connotations), it had associations with the erect human phallus, representing the yogic Urdhvaretas power and paradoxical fertility of shiva.
-    - Eg. the ancient linga at [guDimallam](https://en.wikipedia.org/wiki/Gudimallam). There are also several images of shiva with an erect phallus.
-    - किरातपतेर् ऊर्ध्वरेतस्त्वं यो न जानाति स खलु प्रायेण नावगच्छति लिङ्गस्य स्वारस्यमित्य् अनुमामि। 
+- See [rudra](../../../../../mantraH/rudraH) page.
 
 ### Yoni-pUjA (vagina worship) -
 - The vagina represents godess, who is the source of everything, creation, the original desire.
