@@ -1,5 +1,5 @@
  ---
-title: परवस्तुसामाभ्यासः
+title: +परवस्तुसामाभ्यासः
 unicode_script: devanagari 
 
 ---

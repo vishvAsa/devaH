@@ -11,7 +11,7 @@ practice_weight: 0
 ऋषिः  प्रस्कण्वः  
 देवता  पवमानः सोमः  
 छन्दः  त्रिष्टुप्  
-सायणो [ऽत्र](http://192.155.224.66/stage/rigveda-samhita/describe/rikMandala/009.095.001)।
+सायणो [ऽत्र](http://rigveda.sanatana.in/describe/rikMandala/009.095.001)।
 
 ### संहिता
 कनि॑क्रन्ति॒+++(=पुनःपुनः शब्दायते)+++ +++(वर्णेन)+++ हरि॒र्  

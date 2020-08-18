@@ -1,5 +1,5 @@
 ---
-title: परवस्तुसामपरम्परा
+title: परम्परा
 unicode_script: devanagari
 ---
 
