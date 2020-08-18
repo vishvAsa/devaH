@@ -4,6 +4,7 @@ unicode_script: devanagari
 
 ---
 
+## परिचयः
 - भावः
   - विवाहस्य साक्षी यो ऽग्निः, +++स एव+++ विवाह-साक्षी भवति खलु दम्पत्योर् नित्यम् उपास्यः!
   - तेन विवाहे गृहस्थाश्रमे सर्वोत्तमे च श्रद्धा वर्धते, तयोस् सामरस्यञ्च। विशिष्य यदि दम्पती स्मरतो विस्मयेन सौन्दर्यांशम् इदम्।
@@ -28,6 +29,7 @@ unicode_script: devanagari
 ## आपन्नियमाः
 ### तन्त्रेण
 वैद्यनाथीयाह्निककाण्डे बृहस्पतिस्मृतेर् उदाहरणम्।
+
 सायम्प्रातस्तनौ होमाव्  
 उभौ सायं समस्य तु।  
 आपन्नो जुहुयात् तस्य  
@@ -37,12 +39,4 @@ My current understanding of the last part - having performed the combined aupAsa
 
 The combination itself, I presume, can happen by the following sequence: agnaye svAhA, sUryAya svAhA, agnaye sviShTakRte svAhA surrounded by parishechanas, and perhaps with an upasthAna.
 
-## शब्दावली
-### द्राविडी
-- godhUma - wheat - गोधूम - godi
-- thaviDu - bran - बुषम् - bhUsA - भूसा
-    - Godi bhusa (coarse variety), Rava bhusa (fine wheat  bran)
-- umi - husk/ chaff - तुषः 
-- muTTaan - dung ball - gomaya goLa or sagaNi goLa
-- varaTTi - compressed dung cake - beraNI.
-- srai - twigs - chakke
+

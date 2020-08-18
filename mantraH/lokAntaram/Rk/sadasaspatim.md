@@ -14,4 +14,4 @@ unicode_script: devanagari
 प्रि॒यम् इन्द्र॑स्य॒ काम्य॑म् ।  
 स॒निं +++(=दानरूपम्)+++ मे॒धाम् अ॑यासिषम् ६
 
-{{< figure src="../../images/bRhaspati-jupiter.jpg" title="" class="thumbnail">}}
+{{< figure src="../../images/bRhaspati-jupiter.jpg"  class="thumbnail">}}

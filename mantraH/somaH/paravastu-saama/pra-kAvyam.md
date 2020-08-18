@@ -11,7 +11,7 @@ practice_weight: 0
 ऋषिः  वृषगणो वासिष्ठ  
 देवता  पवमानः सोमः  
 छन्दः  त्रिष्टुप्  
-सायणो [ऽत्र](http://192.155.224.66/stage/rigveda-samhita/describe/rikMandala/009.097.007)।
+सायणो [ऽत्र](http://rigveda.sanatana.in/describe/rikMandala/009.097.007)।
 
 ### संहिता
 प्र काव्य॑मु॒शने॑व ब्रुवा॒णो   

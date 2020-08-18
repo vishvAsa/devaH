@@ -19,7 +19,7 @@ unicode_script: devanagari
 अग्न आयूंषि पवस आसुव +ऊर्जमिषं च नः ।  
 (आ सुवोर्जं इषं च नः। आरे बाधस्व दुच्छुनाम् ।।) ।।3 ।। ।।10 (य)।। [धा. 2 । उ नास्ति । स्व. 1।]
 
-{{< figure src="../../images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png" title="" class="thumbnail">}}
+{{< figure src="../../images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png"  class="thumbnail">}}
 
 
 ## साम

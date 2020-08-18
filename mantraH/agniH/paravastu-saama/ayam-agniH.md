@@ -11,7 +11,7 @@ practice_weight: 0
 ऋषिः  उत्कीलः कात्यः  
 देवता  अग्निः  
 छन्दः  बृहती  
-सायणो [ऽत्र](http://192.155.224.66/stage/rigveda-samhita/describe/rikMandala/003.016.001)।
+सायणो [ऽत्र](http://rigveda.sanatana.in/describe/rikMandala/003.016.001)।
 
 ### संहिता
 अ॒यम॒ग्निः सु॒वीर्य॒स्येशे॑+++(= ईष्टे)+++ म॒हः सौभ॑गस्य ।

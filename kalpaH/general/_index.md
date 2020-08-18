@@ -11,8 +11,10 @@ unicode_script: devanagari
 
 तत्रोदाहरणानि
 
-- अपि क्रियार्थं सुलभं समित्कुशं जलान्यपि स्नानविधिक्षमाणि ते । अपि स्वशक्त्या तपसि प्रवर्तसे शरीरमाद्यं खलु धर्मसाधनम् ।।
+- अपि क्रियार्थं सुलभं समित्कुशं जलान्यपि स्नानविधिक्षमाणि ते । अपि स्वशक्त्या तपसि प्रवर्तसे शरीरमाद्यं खलु धर्मसाधनम् ।। इति कालिदादः
 - ६०-प्राये वयसि मृतो विद्वान् देवनाथो तीव्रव्रती अपर्याप्ताशनो श्राद्धसिद्धतारतः।
+- R. [Venkatrama ghanapaatigal](http://vedabhavan.org/homage-to-our-selfless-guru-veda-brahma-sri-venkatrama-ghanapatigal/) 2020 - "He had fever and chest congestion... that got aggravated by the smoke of homa he performed during his mother's Shraddham last week"
+
 
 ## कर्मणां स्थूलः क्रमः
 

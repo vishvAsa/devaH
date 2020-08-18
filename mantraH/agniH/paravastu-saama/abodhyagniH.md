@@ -20,7 +20,7 @@ unicode_script: devanagari
 यह्वा इव प्र वयाम् उज् जिहानाः  
 प्र भानवः सस्रते नाकमच्छ ॥ ७३
 
-{{< figure src="../../images/Strengthening-brightening-agni.png" title="" class="thumbnail">}}
+{{< figure src="../../images/Strengthening-brightening-agni.png"  class="thumbnail">}}
 
 
 ## साम
