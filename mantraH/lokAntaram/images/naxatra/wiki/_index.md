@@ -1,0 +1,5 @@
+---
+title: +विकिचित्राणि
+unicode_script: devanagari
+---
+{{< gallery dir="." figureClass="thumbnail">}}
