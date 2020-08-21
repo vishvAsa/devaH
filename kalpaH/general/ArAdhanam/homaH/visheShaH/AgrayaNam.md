@@ -12,6 +12,7 @@ unicode_script: devanagari
 
 ## कालः
 - ऋतौ पर्वदिने
+- आग्रहायणी‌ ‌+इत्यपि नाम - पणिन्य्-अमरौ तथा। तैत्तिरीयसंहितायां (७.२ इत्यत्र) आग्रयणम् इत्यपि। पुरा ऽऽग्रयणेष्टयो तदैवाक्रियत - तत्रायनविशेषस्यारम्भात्। 
 
 ### आधुनिककाले ऽनुसरणम्
 Given the sentiment behind AgrayaNa sthAlIpAka (AhitAgni should not, and the anAhitAgni should try not to eat from a harvest the forepart of which has not been offered to the Gods via AgrayaNa), and given the impossibility of following this in practice in our modern city life (which harvest or region did the millet and rice I buy from market come from?), I've begun collecting a spoonful from all grain packets we buy in a jar with the intention of performing the AgrayaNa sthAlIpAka with it as and when a good amount is collected. 
