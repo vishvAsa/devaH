@@ -44,7 +44,7 @@ unicode_script: devanagari
     - सटीका-पुस्तकम् [अत्र](https://archive.org/stream/in.ernet.dli.2015.274624/2015.274624.Vaisheshika-Darshana#page/n43/mode/2up)।
 - गङ्गेशोपाध्याय-कृत-तत्त्व-चिन्तामणिः
     - ततः न्यायवैशेषिके एक्य् अभवताम्।
-- [२१-तम-शतकस्य पदार्थशास्त्र-परिष्का](https://docs.google.com/document/d/1KWa2ZqOCqdeYC3I0-Sf6ywua2__WDpKgW1IRFkcXb7A/edit#)।
+- [२१-तम-शतकस्य पदार्थशास्त्र-परिष्का](21ce-padArtha-shAstra-pariShkAraH/)।
 
 ## नव्यन्यायपरम्परा
 - प्राचीन-नव्य-परम्परयोर्‌ बह्व् अस्ति साम्यम् (८०%)।  
