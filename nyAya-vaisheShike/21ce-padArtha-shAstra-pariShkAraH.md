@@ -92,3 +92,6 @@ unicode_script = "devanagari"
     *   सम्बन्धः
         *   समवायः
     *   कर्म
+
+## सम्बद्धचर्चा
+[अत्र](https://docs.google.com/document/d/1KWa2ZqOCqdeYC3I0-Sf6ywua2__WDpKgW1IRFkcXb7A/edit#)।
