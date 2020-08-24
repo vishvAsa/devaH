@@ -73,9 +73,14 @@ unicode_script: devanagari
 ### टिप्पणिः
 - "प्रजापतेर् यत् सहजम् पुरस्तात्" इत्यनेन मृगशीर्षे ऽव्यङ्गस्योल्लेखो विशुवकाल इति केचित् - (~Apr 26 Julian 4500 BCE  [TW](https://twitter.com/blog_supplement/status/664525633217830915))।
   - आग्रहायणी‌ ‌+इत्यपि नाम - पणिन्य्-अमरौ तथा। तैत्तिरीयसंहितायां (७.२ इत्यत्र) आग्रयणम् इत्यपि। पुरा ऽऽग्रयणेष्टयो तदैवाक्रियत - तत्रायनविशेषस्यारम्भात्। 
+  - तस्यैव सूर्येणसहोदिते यज्ञकालस्यारम्भो ऽवर्तत - तेन हि तस्य सोमाधिपत्यम्, यज्ञ इति नामान्तरम्।
 - "Some take this to be the 3 stars on the head of Orion (φ 1, φ 2, λ Orionis), which is how they are denoted in classical astronomy. "
+- सोमो हि ब्राह्मणानां राजा। तस्यैवानुकरणं मेखलया दण्डेन +अजिनेन यज्ञोपवीतेनापि - पारसीकेषु ब्राह्मणेषु च!
+
+#### कथाः
 - "In Vaidika reckoning the core of Mṛga was Orion with the arrow of Rudra shot through it (See below). The arrow is identified with the three stars of the belt of Orion (ζ , ε , δ Orionis). " ता इण्वकाः। "Taittirīya Brāhmaṇa 1.5.1.1 states: somasyenvakā vitatāni ।" - ([MT](https://manasataramgini.wordpress.com/2017/07/01/a-note-on-the-asterisms-forming-the-nak%e1%b9%a3atra-s/))
 - मृगशीर्षकथा ऽध आर्द्राभागे दृश्या।
+- वृषाकपिर् इति +ऋग्वेदसूक्त इन्द्रस्य प्रियः, इन्द्राणीमन्युना शुना दष्टः कर्णे, शिरसा खण्डितः, पश्चात्+क्षान्तः।
 
 ## आर्द्रा - रुद्रः
 
