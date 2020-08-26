@@ -5,13 +5,13 @@ unicode_script = "devanagari"
 
 ## परिचयः
 ### मानसतरङ्गिणीकारः
-In the Vr̥ṣākapi hymn, correctly interpreted by Tilak as a precessional myth, Vr̥ṣākapi (the virile ape) makes and illicit advance towards indrANi. For which Indrāṇī punishes him by making a dog (Canis Major) bite him. These analogies suggest that the illicit sexual advance is a motif in the precessional which probably stands as a metaphor for the break in the old order or the longing for a new relationship, previously forbidden.
+In the Vr̥ṣākapi hymn, correctly interpreted by Tilak as a precessional myth, Vr̥ṣākapi (the virile ape) makes and illicit advance towards indrANi. For which Indrāṇī punishes him by making a dog (Canis Major) bite him.
 
 ### तिलकबालगङ्गाधरः
 - Source: Orion by BG Tilak  
 - Epoch: 4500 BCE. Vernal equinox was at आग्रहायणी = मृगशीर्षम्. Sacrificial period = devayAna = uttarAyaNa was defined as vernal equinox to autumnal equinox; corresponding also to devanaxatra-s.
 
-Vr̥ṣākapi is a Mr̥ga+++(=Orion)+++, and sacrifices are stopped where he revels +++(autumnal to vernal equinox, or Orion visible in night sky)+++. He is, however, a favourite of Indra, and consequently the latter, instead of punishing, follows him. Indrāṇī, who has herself been offended by the Kapi, now reproaches Indra for his over fondness for the animal and threatens to punish the beast by cutting off his head and letting loose a dog+++(=Canis Major)+++ at his ear. Indra intercedes and Indrāṇī assures him that the punishment has not been inflicted on his favorite beast, but on someone else. Vr̥ṣākapi is now going down to his house and Indra, in bidding farewell to his friend, asks him to come up again to his (Indra's) house, so that the sacrifices may be recommenced ; and, strange to say, that when Vriṣākapi +++(as sun in Orion)+++ returns, in his upward march to the house of Indra, the impertinent Mr̥ga is no longer to be seen +++(in the night sky)+++! Vr̥ṣākapi, Indra and Indrāṇī thus finally meet in the same house, without the offensive beast, and the hymn therefore concludes with a benedictory verse +++(to his child bearing wife)+++.
+"Vr̥ṣākapi is a Mr̥ga+++(=Orion)+++, and sacrifices are stopped where he revels +++(autumnal to vernal equinox, or Orion visible in eastern early night sky)+++. He is, however, a favourite of Indra, and consequently the latter, instead of punishing, follows him. Indrāṇī, who has herself been offended by the Kapi, now reproaches Indra for his over fondness for the animal and threatens to punish the beast by cutting off his head and letting loose a dog+++(=Canis Major)+++ at his ear. Indra intercedes"
 
 
 ## सूक्तम्
