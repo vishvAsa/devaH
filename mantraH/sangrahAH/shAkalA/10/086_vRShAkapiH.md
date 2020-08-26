@@ -1,0 +1,179 @@
++++
+title = "०८६ वृषाकपिः"
+unicode_script = "devanagari"
++++
+
+## परिचयः
+### मानसतरङ्गिणीकारः
+In the Vr̥ṣākapi hymn, correctly interpreted by Tilak as a precessional myth, Vr̥ṣākapi (the virile ape) makes and illicit advance towards indrANi. For which Indrāṇī punishes him by making a dog (Canis Major) bite him. These analogies suggest that the illicit sexual advance is a motif in the precessional which probably stands as a metaphor for the break in the old order or the longing for a new relationship, previously forbidden.
+
+### तिलकबालगङ्गाधरः
+- Source: Orion by BG Tilak  
+- Epoch: 4500 BCE. Vernal equinox was at आग्रहायणी = मृगशीर्षम्. Sacrificial period = devayAna = uttarAyaNa was defined as vernal equinox to autumnal equinox; corresponding also to devanaxatra-s.
+
+Vr̥ṣākapi is a Mr̥ga+++(=Orion)+++, and sacrifices are stopped where he revels +++(autumnal to vernal equinox, or Orion visible in night sky)+++. He is, however, a favourite of Indra, and consequently the latter, instead of punishing, follows him. Indrāṇī, who has herself been offended by the Kapi, now reproaches Indra for his over fondness for the animal and threatens to punish the beast by cutting off his head and letting loose a dog+++(=Canis Major)+++ at his ear. Indra intercedes and Indrāṇī assures him that the punishment has not been inflicted on his favorite beast, but on someone else. Vr̥ṣākapi is now going down to his house and Indra, in bidding farewell to his friend, asks him to come up again to his (Indra's) house, so that the sacrifices may be recommenced ; and, strange to say, that when Vriṣākapi +++(as sun in Orion)+++ returns, in his upward march to the house of Indra, the impertinent Mr̥ga is no longer to be seen +++(in the night sky)+++! Vr̥ṣākapi, Indra and Indrāṇī thus finally meet in the same house, without the offensive beast, and the hymn therefore concludes with a benedictory verse +++(to his child bearing wife)+++.
+
+
+## सूक्तम्
+### मृगीभूतस्य वृषाकपेः प्रीतिः
++++(इन्द्रः - )+++  
+वि हि सोतो॒र्+++(=सोमयागात्)+++ +++(वि-)+++असृ॑क्षत॒  
+नेन्द्रं॑ दे॒वम् अ॑मंसत ।  
+यत्राम॑दद् वृ॒षाक॑पिर् +++(रात्रिखे)+++  
+अ॒र्यः पु॒ष्टेषु॒ मत्स॑खा॒  
+विश्व॑स्मा॒द् इन्द्र॒ उत्त॑रः +++(नक्षत्रचक्रे देवनक्षत्राणाम् उत्तरवर्तित्वात्)+++ ॥ १०.०८६.०१
+
++++(इन्द्राणी -)+++  
+परा॒ ही॑न्द्र॒ धाव॑सि,  
++++(खचक्रे देवभागे भवस्य)+++ वृ॒षाक॑पे॒र् अति॒ व्यथिः॑+++(=चलितः)+++ ।  
+नो अह॒! प्र वि॑न्दस्य्  
+अ॒न्यत्र॒ सोम॑पीतये॒  
+विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥ १०.०८६.०२  
+
++++(इन्द्रः - )+++  
+किम् अ॒यं त्वां वृ॒षाक॑पिश्  
+च॒कार॒ +++(सूर्यसंसर्गाद् इन्द्रप्रीत्या च)+++ हरि॑तो+++(=सुवर्णो)+++ मृ॒गः ।  
+यस्मा॑ +++(ईर्ष्याम्)+++ इर॒स्यसि+++(=यच्छसि)+++ +इद् उ॒ न्व्?  
+अ१॒॑र्यो वा॑ पुष्टि॒मद् वसु॒?  
+विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥ १०.०८६.०३  
+
++++(इन्द्राणी -)+++  
+यम् इ॒मं त्वं वृ॒षाक॑पिं  
+प्रि॒यम् इ॑न्द्राभि॒रक्ष॑सि ।  
+श्वा+++(=canis major)+++ न्व् अ॑स्य जम्भिष॒द्  
+अपि॒ कर्णे॑ वराह॒युर्  
+विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥ १०.०८६.०४  
+
+प्रि॒या त॒ष्टानि॑+++(=कल्पितानि [यजमानैः])+++ मे क॒पिर्  
++++(इन्द्रप्रीतिम्, उक्षपाकं स्वस्या वक्ष्यमानं)+++  
+व्य॑क्ता॒ व्य॑दूदुषत् ।  
+शिरो॒ न्व् अ॑स्य राविषं॒ +++(यथा मृगशीर्षे दृश्यते)+++  
+न सु॒गं दु॒ष्कृते॑ भुवं॒  
+विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥ १०.०८६.०५  
+
+न मत् स्त्री सु॑भ॒सत्+++(=सुजघन)+++त॑रा॒  
+न सु॒याशु॑+++(=स्वालिङ्गन)+++तरा भुवत् ।  
+न मत् +++(सम्भोगे)+++ प्रति॑-च्यवीयसी॒  
+न सक्थ्+++(=ऊरु)+++-उद्य॑मीयसी॒  
+विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥ १०.०८६.०६  
+
++++(इन्द्रः - )+++  
+उ॒वे+++(=हे)+++ अ॑म्ब सुलाभिके॒  
++++(उक्तं)+++ यथे॑वा॒ङ्ग+++(=क्षिप्रं)+++ भ॑वि॒ष्यति॑ ।  
+भ॒सन्+++(=जघनम्)+++ मे॑ अम्ब॒ सक्थि॑+++(=ऊरु)+++ मे॒  
+शिरो॑ मे॒ वी॑व हृष्यति॒  
+विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥ १०.०८६.०७  
+
+किं सु॑बाहो स्वङ्गुरे॒+++(=स्वङ्गुलि)+++  
+पृथु॑ष्टो॒ पृथु॑जाघने ।  
+किं शू॑र-पत्नि न॒स् त्वम्  
+अ॒भ्य॑मीषि+++(=अभिक्रुध्यसि)+++ वृ॒षाक॑पिं॒  
+विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥ १०.०८६.०८  
+
++++(इन्द्राणी -)+++  
+अ॒वीरा॑म् इव॒ माम् अ॒यं  
+श॒रारु॑र्+++(=व्यग्रताकार्य्)+++ अ॒भि म॑न्यते ।  
+उ॒ताहम् अ॑स्मि वी॒रिणी-  
+-न्द्र॑पत्नी म॒रुत्स॑खा॒  
+विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥ १०.०८६.०९  
+
++++(इन्द्रः प्रशंसाम् अनुवर्तयति सान्त्वनाय - )+++  
+सं॒हो॒त्रं+++(=संयज्ञं)+++ स्म॑ पु॒रा नारी॒  
+सम॑नं॒+++(=संग्रामं)+++ वाव॑ गच्छति ।  
+वे॒धा+++(=विधात्री)+++ ऋ॒तस्य॑ वी॒रिणी-  
+-न्द्र॑पत्नी महीयते॒  
+विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥ १०.०८६.१०  
+
+इ॒न्द्रा॒णीम् आ॒सु नारि॑षु  
+सु॒भगा॑म् अ॒हम् अ॑श्रवम् ।  
+न॒ ह्य् अ॑स्या अप॒रं च॒न  
+ज॒रसा॒ मर॑ते॒ पति॒र्  
+विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥ १०.०८६.११  
+
+नाहम् इ॑न्द्राणि रारण॒  
+सख्यु॑र् वृ॒षाक॑पेर् ऋ॒ते ।  
+यस्ये॒दम् अप्यं॑+++(=[द्युगङ्गा]ऽप्सु भवं)+++ ह॒विः  
+प्रि॒यं दे॒वेषु॒ गच्छ॑ति॒  
+विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥ १०.०८६.१२  
+
+वृषा॑कपायि॒+++(=वृषाकपितुये)+++ रेव॑ति॒+++(=धनवति ‌/ताराविशेषे!‌)+++  
+सुपु॑त्र॒ आदु॒+++(=तथा)+++ सुस्नु॑षे ।  
++++(सूर्यस्य देवयाने यज्ञेषु)+++ घस॑त्+++(=खादतु)+++ त॒ इन्द्र॑ उ॒क्षणः॑+++(=वृषभान्‌ / तारमण्डलविशेषस्थान्)+++  
+प्रि॒यं का॑चित् क॒रं+++(→कुरु)+++ ह॒विर्  
+विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥ १०.०८६.१३  
+
+उ॒क्ष्णो+++(=वृषभान्‌ / तारमण्डलविशेषस्थान्)+++ हि मे॒ पञ्च॑दश  
+सा॒कं पच॑न्ति विंश॒तिम् +++(तारागणनया)+++ ।  
+उ॒ताहम् अ॑द्मि॒ पीव॒ इद्  
+उ॒भा कु॒क्षी पृ॑णन्ति मे॒  
+विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥ १०.०८६.१४  
+
++++(इन्द्राणी -)+++  
+वृ॒ष॒भो न ति॒ग्म-शृ॑ङ्गो॒  
+ऽन्तर् यू॒थेषु॒ रोरु॑वत् +++(खे)+++ ।  
+म॒न्थस् त॑ इन्द्र॒ शं हृ॒दे  
+यं ते॑ सु॒नोति॑+++(→साधयति)+++ भाव॒युर् +++(इन्द्राणी)+++  
+विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥ १०.०८६.१५  
+
+न स+ईशे॒ यस्य॒ र+++(ल)+++म्ब॑ते  
+ऽन्त॒रा स॒क्थ्या॒३॒॑+++(=ऊर्वा)+++ कपृ॑त्+++(=शेफः)+++ ।  
+सेद् ई॑शे॒ यस्य॑ रोम॒शं+++(→उपस्थं)+++  
+नि॑षे॒दुषो॑ +++(मयि मग्नस्य)+++ वि॒जृम्भ॑ते॒  
++++(अतो मय्य् अवधेहि, न मृगे।)+++  
+विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥ १०.०८६.१६  
+
++++(इन्द्रः - )+++  
+न स+ईशे॒ यस्य॑ रोम॒शं  
+नि॑षे॒दुषो॑ वि॒जृम्भ॑ते ।  
+सेदी॑शे॒ यस्य॒ रम्ब॑ते  
+ऽन्त॒रा स॒क्थ्या॒३॒॑ कपृ॒द्  
++++(त्वत्प्रभावस् तादृशः!)+++  
+विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥ १०.०८६.१७  
+
++++(इन्द्राणी -)+++  
+अ॒यम् इ॑न्द्र वृ॒षाक॑पिः॒  
+पर॑स्वन्तं ह॒तं वि॑दत् ।  
+अ॒सिं सू॒नां नवं॑ च॒रुम्  
+आद् एध॒स्यान॒ आचि॑तं॒  
+विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥ १०.०८६.१८  
+
+अ॒यम् ए॑मि वि॒चाक॑शद्  
+विचि॒न्वन् दास॒म् आर्य॑म् ।  
+पिबा॑मि पाक॒सुत्व॑नो॒  
+ऽभि धीर॑म् अचाकशं॒  
+विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥ १०.०८६.१९  
+
++++(इन्द्रः - )+++  
+धन्व॑ च॒ यत् कृ॒न्तत्रं॑ च॒  
+कति॑ स्वि॒त् ता वि योज॑ना ।  
+नेदी॑यसो वृषाक॒पे  
+ऽस्त॒म् एहि॑ गृ॒हाँ उप॒  
+विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥ १०.०८६.२०  
+
+पुन॒रेहि॑ वृषाकपे  
+सुवि॒ता क॑ल्पयावहै ।  
+य ए॒ष स्व॑प्न॒नंश॒नो  
+ऽस्त॒म् एषि॑ प॒था पुन॒र्  
+विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥ १०.०८६.२१  
+
+यद् उद॑ञ्चो वृषाकपे  
+गृ॒हम् इ॒न्द्राज॑गन्तन ।  
+क्व१॒॑ स्य पु॑ल्व॒घो मृ॒गः  
+कम् अ॑गञ् जन॒योप॑नो॒  
+विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥ १०.०८६.२२  
+
+पर्शु॑र् ह॒ नाम॑ मान॒वी  
+सा॒कं स॑सूव विंश॒तिम् ।  
+भ॒द्रं भ॑ल॒ त्यस्या॑ अभू॒द्  
+यस्या॑ उ॒दर॒म् आम॑य॒द्  
+विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥ १०.०८६.२३
+
+## देवतास्व् अभिप्रायाः
+- स्रोतः - Orion by BG Tilak.
+- As there is only one hymn in the r̥gveda which gives the story, it is not so easy, as in the case of the r̥bhus, to determine the nature of the deity, and hence various conjectures have been made by scholars as to its origin, character and meaning. The deities appear both in the masculine and in the feminine form, Vr̥ṣākapi and Vr̥shakapayī.
+- In the Br̥had-devatā Vr̥ṣākapi is said to represent the setting sun, and Vr̥shakapayī the gloaming.
+- Yāska (12. 27) would derive the word so as to mean the sun who shakes (the world) with his rays, and his commentator observes that the god showers mist or dew and shakes the animate world.
+- Amara\* considers that Vr̥ṣākapi means either Vishṇu or Shiva, and Vr̥shakapayī either Lakshmi or Gaurī. +++(\* Amara iii. 3. 130 and 156. हरो विष्णुर् वृषाकपिः and वृषाकपायी श्रीगौर्योः।)+++
+- had Yāska and Sāyaṇa known that there is a constellation called dog in the heavens by the side of Mr̥gaśiras, I feel certain that they would not have hesitated to recognize in Vr̥ṣākapi, the sun as represented by the constellation of Orion.
+- Prof. Max Müller, in one place, +++(Lectures on the Science of Language Vol. II., p. 539, )+++ observes that "it is difficult, on seeing the game of Vr̥ṣākapi, not to think of Erikapaeos, an Orphic name of Protogonos and synonymous with Phanes, Helios, Priapos, Dionysos," but, says he, "the original conception of Vr̥ṣākapi (Vr̥shan, bull, irrigator; Kapi, ape, tremulous) is not much clearer than that of Erikapireos."
+
