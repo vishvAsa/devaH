@@ -62,9 +62,9 @@ unicode_script: devanagari
 ये द॑न्द॒शूकाः॒ पार्थि॑वा॒स्- ताꣳस् त्वम् इ॒तः प॒रो गव्यू॑तिं॒ निवे॑शय ।  
 सन्ति॒ वै न॑श् श॒फिन॒स्, सन्ति॑ द॒ण्डिन॒स्, ते वो॒ नेद् +धि॒नसा॒न्, न्येद् यू॒यम् अ॒स्मान् हि॒नसा॑त ।  
 
-<div class="js_include" url="../../../../lokAntaram/yajuH/dik/samIchI_nAmAsi/"  newLevelForH1="4" includeTitle="false"> </div>  
+<div class="js_include" url="../../../../mantraH/lokAntaram/yajuH/dik/samIchI_nAmAsi/"  newLevelForH1="4" includeTitle="false"> </div>  
 
-<div class="js_include" url="../../../../lokAntaram/yajuH/dik/hetayo_nAma/"  newLevelForH1="4" includeTitle="false"> </div>  
+<div class="js_include" url="../../../../mantraH/lokAntaram/yajuH/dik/hetayo_nAma/"  newLevelForH1="4" includeTitle="false"> </div>  
 
 ## प्रत्येत्य गृहपरिषेचनमन्त्रौ
 अप॑ श्वेत +++(सर्पाधिपते)+++ प॒दा+++(वि३)+++ ज॑हि॒+++(→हन)+++  

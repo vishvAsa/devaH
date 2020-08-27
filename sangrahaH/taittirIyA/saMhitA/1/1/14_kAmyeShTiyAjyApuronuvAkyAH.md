@@ -66,7 +66,7 @@ ____
 ## दर्शपूर्णमासातिपातः
 +++('अग्नये पथिकृते पुरोडाशमष्टाकपालं निर्वपेद्यो दर्शपूर्णमासयाजी सन्नमावास्यां वा पौर्णमासीं वातिपादयेत्' (तै.सं. 2.2.2) इत्यस्य पुरोनुवाक्या)+++
 
-<div class="js_include" url="../../../../../../agniH/Rk/agne_naya_supathA/"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="../../../../../../mantraH/agniH/Rk/agne_naya_supathA/"  newLevelForH1="3" includeTitle="false"> </div>  
 
 ____
 +++(याज्या)+++  
@@ -86,7 +86,7 @@ ____
 ____
 +++(तत्रैव याज्या)+++  
 
-<div class="js_include" url="../../../../../../agniH/Rk/agne_tvam_pAraya/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../../../../../../mantraH/agniH/Rk/agne_tvam_pAraya/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 ____
 ## अहिताग्नाव् अव्रत्यमिव चरिते

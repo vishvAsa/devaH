@@ -3,7 +3,7 @@ title: गृहनिर्माणम्।
 unicode_script: devanagari
 ---
 
-हरदत्तो [ऽत्र](https://archive.org/stream/EKAGNIKANDABHASHYAMSAMSKRUTHAM/EKAGNIKANDA%20BHASHYAM%20SAMSKRUTHAM#page/n161/mode/2up)। प्रयोगो [ऽत्र](../../../../../kalpaH/sUtra/Apastamba/pramANAni/gRhya/karmANi/gRha/)।
+हरदत्तो [ऽत्र](https://archive.org/stream/EKAGNIKANDABHASHYAMSAMSKRUTHAM/EKAGNIKANDA%20BHASHYAM%20SAMSKRUTHAM#page/n161/mode/2up)। प्रयोगो [ऽत्र](../../../../../mantraH/kalpaH/sUtra/Apastamba/pramANAni/gRhya/karmANi/gRha/)।
 
 ## निर्माणम्
 __________________
@@ -14,7 +14,7 @@ __________________
 गोम॒द् अश्वा॑वद् इ॒दम् अ॑स्तु॒ प्र भूम॑ ।
 
 __________________
-<div class="js_include" url="../../../../lokAntaram/Rk/syonA_pRthivI/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../../../../mantraH/lokAntaram/Rk/syonA_pRthivI/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 ## स्थूणावधानम्
 इ॒हैव ति॑ष्ठ॒ निमि॑ता॒+++(=निखाता)+++  

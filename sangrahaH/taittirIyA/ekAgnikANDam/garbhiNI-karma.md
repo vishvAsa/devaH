@@ -5,11 +5,11 @@ unicode_script: devanagari
 
 ## सीमन्तोन्नयनम्
 ### होममन्त्राः
-<div class="js_include" url="../../../../AdityaH/Rk/dhAtA_dadAtu/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../../../../mantraH/AdityaH/Rk/dhAtA_dadAtu/"  newLevelForH1="2" includeTitle="true"> </div>  
 
-<div class="js_include" url="../../../../agniH/Rk/yas_tvA_hRdA/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../../../../mantraH/agniH/Rk/yas_tvA_hRdA/"  newLevelForH1="2" includeTitle="true"> </div>  
 
-<div class="js_include" url="../../../../indraH/Rk/tve_suputra/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../../../../mantraH/indraH/Rk/tve_suputra/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 ### सीमन्तोन्नयनम्
 भूर् भुव॒स् सुवः॑ 

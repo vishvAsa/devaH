@@ -19,7 +19,7 @@ ___________________
 
 ## अर्घ्यम्
 +++(अर्घ्याभिमन्त्रणम्)+++  
-<div class="js_include" url="../../../../jalam/Rk/A_mA_gan/"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="../../../../mantraH/jalam/Rk/A_mA_gan/"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ___________________
 +++(अञ्जलावानीयमानेर्घ्ये)+++  
@@ -40,7 +40,7 @@ ___________________
 ब्रह्म॑णो॒ दीप्ति॑रसि ।  
 तं मा॑ प्रि॒यं प्र॒जानां॑ कु॒र्व्, अधि॑पतिं पशू॒नाम् ।  
 
-<div class="js_include" url="../../../../jalam/Rk/A_mA_gan/"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="../../../../mantraH/jalam/Rk/A_mA_gan/"  newLevelForH1="2" includeTitle="false"> </div>  
 
 ## आचमनम् अशने
 +++(पूर्वम्)+++  
