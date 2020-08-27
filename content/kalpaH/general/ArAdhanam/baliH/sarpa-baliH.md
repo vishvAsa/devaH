@@ -66,11 +66,11 @@ Cassia Fistula +++(Mar. बाहवा)+++ Yellow gulmohar iva.
 - कुमाराणां बलिशिष्टधानाप्राशनम् ।
 
 ## मन्त्रपाठो ऽत्र
-<div class="js_include" url="../../../../../mantraH/sangrahAH/taittirIyA/ekAgnikANDam/sarpa-baliH/"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" url="../../../../../../sangrahaH/taittirIyA/ekAgnikANDam/sarpa-baliH/"  newLevelForH1="3" includeTitle="true"> </div>  
 
 ## स्रोतांसि
 - आपस्तम्ब-गृह्यसूत्रे [ऽत्र](https://archive.org/stream/APASTHAMBAGRUHYASUTRAMSUDARSHANAHARADATHA/APASTHAMBA%20GRUHYASUTRAM%20%28SUDARSHANA%2CHARADATHA%29#page/n263/mode/2up)। मूले [अत्र](https://archive.org/stream/APASTHAMBAGRUHYASUTRAMSUDARSHANAHARADATHA/APASTHAMBA%20GRUHYASUTRAM%20%28SUDARSHANA%2CHARADATHA%29#page/n31/mode/2up)। देवतानिर्देशो [ऽत्र](https://archive.org/stream/APASTHAMBAGRUHYASUTRAMSUDARSHANAHARADATHA/APASTHAMBA%20GRUHYASUTRAM%20%28SUDARSHANA%2CHARADATHA%29#page/n151/mode/2up)। 
-    - टीका [अत्र](../../../../../mantraH/sangrahAH/taittirIyA/ekAgnikANDa-haradatta-TIkA/)।
+    - टीका [अत्र](../../../../../../sangrahaH/taittirIyA/ekAgnikANDa-haradatta-TIkA/)।
     - टिप्पणिर् [अत्र](https://checkvist.com/checklists/575296/export.html?export_notes=true&&task_ids=22799169) टीकानुमिता। 
 - बोधायन-सूत्रे
     - [TW](https://twitter.com/sammodacharya/status/762117723115573248)।

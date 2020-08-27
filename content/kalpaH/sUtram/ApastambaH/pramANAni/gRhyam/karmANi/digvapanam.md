@@ -15,4 +15,4 @@ unicode_script: devanagari
 
 +++(तत्राचार्यस्संसर्जनोन्दने कृत्वा क्षुरं नापितादपादाय प्रतिदिशं प्रवाप्य पुनस्तस्मै प्रदाय तं च वपन्तमुत्तरयानुमन्त्रयते । इति स्नातकसंस्कारे हरदत्तः। नाचार्यः - अन्योऽपि ब्राह्मण इति सुदर्शनसूरिः।)+++
 
-<div class="js_include" url="../../../../../../../mantraH/sangrahAH/taittirIyA/ekAgnikANDam/upanayanam/digvapanam/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../../../../../../../../sangrahaH/taittirIyA/ekAgnikANDam/upanayanam/digvapanam/"  newLevelForH1="2" includeTitle="true"> </div>  

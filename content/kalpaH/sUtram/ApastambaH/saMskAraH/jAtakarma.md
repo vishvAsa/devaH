@@ -57,4 +57,4 @@ unicode_script: devanagari
 
 <div class="js_include" url="../../pramANAni/gRhyam/karmANi/jAtakarma/"  newLevelForH1="1" includeTitle="true"> </div>  
 
-<div class="js_include" url="../../../../../mantraH/sangrahAH/taittirIyA/ekAgnikANDam/jAtakarma/"  newLevelForH1="1" includeTitle="true"> </div>  
+<div class="js_include" url="../../../../../../sangrahaH/taittirIyA/ekAgnikANDam/jAtakarma/"  newLevelForH1="1" includeTitle="true"> </div>  
