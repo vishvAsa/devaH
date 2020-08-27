@@ -13,7 +13,7 @@ unicode_script: devanagari
 घृ॒तं पिब॑न्न् अ॒मृत॒ञ् चारु॒ गव्यं॑  
 पि॒तेव॑ पु॒त्रञ् ज॒रसे॑ नये॒मम् ।  
 
-<div class="js_include" url="../../../../misc-devas/Rk/dAmpatyam/ashmArohaNam/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../../../../mantraH/misc-devas/Rk/dAmpatyam/ashmArohaNam/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 
 ## भूषणम्
@@ -103,9 +103,9 @@ _________
 ## होमः
 +++(ते च सर्वे माणवकस्यैव । द्वितीयचतुर्थाव् आचार्यस्येत्येके ।)+++
 
-<div class="js_include" url="../../../../indraH/Rk/yogeyoge/"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" url="../../../../mantraH/indraH/Rk/yogeyoge/"  newLevelForH1="3" includeTitle="true"> </div>  
 
-<div class="js_include" url="../../../../misc-devas/Rk/imam_agna_AyuShe/"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" url="../../../../mantraH/misc-devas/Rk/imam_agna_AyuShe/"  newLevelForH1="3" includeTitle="true"> </div>  
 
 ### शिष्टम्  
 श॒तम् इन् नु श॒रदो॒ अन्ति॑+++(कं)+++ देवा॒,  
@@ -128,9 +128,9 @@ _________
 दैवी॒ या मा॑नु॒षी मे॒धा  
 सा मामा वि॑शतादि॒ह ।  
 
-<div class="js_include" url="../../../../AdityaH/Rk/imam_me_varuNa/"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="../../../../mantraH/AdityaH/Rk/imam_me_varuNa/"  newLevelForH1="4" includeTitle="true"> </div>  
 
-<div class="js_include" url="../../../../agniH/Rk/tvan_no_agne/"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="../../../../mantraH/agniH/Rk/tvan_no_agne/"  newLevelForH1="4" includeTitle="true"> </div>  
 
 
 ## उपदेशः  
@@ -138,7 +138,7 @@ _________
 <div class="js_include" url="kUrcha-Asanam/"  newLevelForH1="4" includeTitle="false"> </div>  
 
 
-<div class="js_include" url="../../../../AdityaH/Rk/tat_savitur/"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="../../../../mantraH/AdityaH/Rk/tat_savitur/"  newLevelForH1="4" includeTitle="true"> </div>  
 
 ### ओष्ठोपस्पर्शनम् 
 +++(सावित्रीग्रहणात्)+++ अवृ॑धम् अ॒सौ+++(←सम्बोधने)+++ सौ॑म्य प्रा॒ण, स्वं मे॑ गोपाय ।+++(५)+++  
@@ -177,7 +177,7 @@ _________
 
 ### आदित्योपस्थानम्
 +++(सूर्यस्)+++ तच् चक्षु॑र् दे॒व+++(नि)+++हि॑तं पु॒रस्ता॑च् छु॒क्र+++(द्ध)+++म् उ॒च्चर॑त् ।  
-<div class="js_include" url="../../../../misc-devas/Rk/pashyema_sharadaH/"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="../../../../mantraH/misc-devas/Rk/pashyema_sharadaH/"  newLevelForH1="3" includeTitle="false"> </div>  
 
 ### हस्तग्रहणमन्त्रः 
 यस्मि॑न् भू॒तञ् च॒ भव्य॑ञ् च॒  

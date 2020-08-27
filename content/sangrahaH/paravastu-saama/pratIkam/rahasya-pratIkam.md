@@ -1,5 +1,5 @@
 ---
-title: ऊह-प्रतीकानि
+title: रहस्य-प्रतीकानिव्
 unicode_script: devanagari
 ---
 

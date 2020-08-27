@@ -33,9 +33,9 @@ ____________
 उत्त॑रो॒ ऽसौ+++(←नामनिर्देशः)+++ द्वि॒षद्भ्यः॑ ।+++(५)+++  
 
 ## स्नानम्
-<div class="js_include" url="../../../../jalam/Rk/Apo_hi_ShThA/"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" url="../../../../mantraH/jalam/Rk/Apo_hi_ShThA/"  newLevelForH1="3" includeTitle="true"> </div>  
 
-<div class="js_include" url="../../../../jalam/Rk/hiraNyavarNAsh_shuchayaH/"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" url="../../../../mantraH/jalam/Rk/hiraNyavarNAsh_shuchayaH/"  newLevelForH1="3" includeTitle="true"> </div>  
 
 ## दन्तधावनम्  
 +++(दन्ताः!)+++ अ॒न्नाद्या॑य॒ व्यू॑हध्वं+++(=पृथग्भवत)+++  

@@ -7,27 +7,27 @@ title: १० हविर्ग्रहणम्
 प्रत्यु॑ष्टा॒ अरा॑तयः ।  
 अग्नेर् व॒स् तेजि॑ष्ठेन॒ तेज॑सा॒ निष्ट॑पामि ।  
 ____
-{{< figure src="../../../../../../kalpaH/images/shrauta-yAga/upakaraNa/sruk-big-sruva-small.jpg" title="स्रुक्, स्रुवः" class="thumbnail">}}
+{{< figure src="../../../../../../mantraH/kalpaH/images/shrauta-yAga/upakaraNa/sruk-big-sruva-small.jpg" title="स्रुक्, स्रुवः" class="thumbnail">}}
 
 
 +++(स्रुवं सम्मार्ष्टि)+++  
 गो॒ष्ठम् मा निर्मृ॑ख्षम्+++(=विनीनशम्)+++  ।  
 +++(अतः)+++ वा॒जिन॑न्+++(=अन्नवन्तम्)+++ त्वा सपत्न-सा॒हꣳ+++(=अभिभवितारं)+++ सम्मा᳚र्ज्मि ।  
 ____
-{{< figure src="../../../../../../kalpaH/images/shrauta-yAga/upakaraNa/juhU.png" title="जुहू" class="thumbnail">}}
+{{< figure src="../../../../../../mantraH/kalpaH/images/shrauta-yAga/upakaraNa/juhU.png" title="जुहू" class="thumbnail">}}
 
 +++(जुहूं सम्मार्ष्टि)+++  
 वाच॑म् [मा निर्मृ॑ख्षम्+++(=विनीनशम्)+++  ।  +++(अतः)+++ वा॒जिन॑न्+++(=अन्नवन्तम्)+++ त्वा सपत्न-सा॒हꣳ+++(=अभिभवितारं)+++ सम्मा᳚र्ज्मि ।]।   
 प्रा॒णम् [मा निर्मृ॑ख्षम्+++(=विनीनशम्)+++  ।  +++(अतः)+++ वा॒जिन॑न्+++(=अन्नवन्तम्)+++ त्वा सपत्न-सा॒हꣳ+++(=अभिभवितारं)+++ सम्मा᳚र्ज्मि ।]
 
 ____
-{{< figure src="../../../../../../kalpaH/images/shrauta-yAga/upakaraNa/upabhRt.png" title="उपभृत्" class="thumbnail">}}
+{{< figure src="../../../../../../mantraH/kalpaH/images/shrauta-yAga/upakaraNa/upabhRt.png" title="उपभृत्" class="thumbnail">}}
 
 +++(उपभृतं सम्मार्ष्टि)+++  
 चख्षुः॑ [मा निर्मृ॑ख्षम्+++(=विनीनशम्)+++  ।  +++(अतः)+++ वा॒जिन॑न्+++(=अन्नवन्तम्)+++ त्वा सपत्न-सा॒हꣳ+++(=अभिभवितारं)+++ सम्मा᳚र्ज्मि ।]   
 श्रोत्र॑म्  [मा निर्मृ॑ख्षम्+++(=विनीनशम्)+++  ।  +++(अतः)+++ वा॒जिन॑न्+++(=अन्नवन्तम्)+++ त्वा सपत्न-सा॒हꣳ+++(=अभिभवितारं)+++ सम्मा᳚र्ज्मि ।]
 ____
-{{< figure src="../../../../../../kalpaH/images/shrauta-yAga/upakaraNa/dhruvA.png" title="ध्रुवा" class="thumbnail">}}
+{{< figure src="../../../../../../mantraH/kalpaH/images/shrauta-yAga/upakaraNa/dhruvA.png" title="ध्रुवा" class="thumbnail">}}
 
 +++(ध्रुवां सम्मार्ष्टि)+++
 
@@ -95,7 +95,7 @@ ____
 तेजो॑ऽसि ।
 ____
 +++(प्रोक्षणीरुत्पुनाति)+++  
-<div class="js_include" url="../../../../../../AdityaH/Rk/devo_vas_savitotpunAtu/"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="../../../../../../mantraH/AdityaH/Rk/devo_vas_savitotpunAtu/"  newLevelForH1="4" includeTitle="true"> </div>  
 
 ____
 +++(जुह्वामाज्यं गृह्णाति)+++  

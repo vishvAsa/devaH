@@ -15,7 +15,7 @@ unicode_script: devanagari
 चर॑न्त॒म् परि॑ त॒स्थुषः॑ ।  
 +++(यावद्)+++ रोच॑न्ते रोच॒ना दि॒वि ।+++(र५)+++  
 
-<div class="js_include" url="../../../../../indraH/Rk/yogeyoge/"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="../../../../../mantraH/indraH/Rk/yogeyoge/"  newLevelForH1="4" includeTitle="true"> </div>  
 
 
 ## आरोहन्तीम् उत्तराभिर् अभिमन्त्रयते  
@@ -90,9 +90,9 @@ ___________
 स्यान् न॑स् सू॒+++(~~सु~~)+++नुस् तन॑यो+++(=पौत्रः)+++  
 वि॒जावा+++(विजनक)+++ ऽग्ने॒ सा ते॑ सुम॒तिर् भू᳚त्व् अ॒स्मे+++(=स्मासु)+++ ।   
 
-<div class="js_include" url="../../../../../AdityaH/Rk/imam_me_varuNa/"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="../../../../../mantraH/AdityaH/Rk/imam_me_varuNa/"  newLevelForH1="4" includeTitle="true"> </div>  
 
-<div class="js_include" url="../../../../../agniH/Rk/tvan_no_agne/"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="../../../../../mantraH/agniH/Rk/tvan_no_agne/"  newLevelForH1="4" includeTitle="true"> </div>  
 
 
 ## क्षीरिवृक्षाद्यतिक्रमे जपः 

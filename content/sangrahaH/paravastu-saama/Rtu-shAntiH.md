@@ -11,7 +11,7 @@ unicode_script: devanagari
 
 ## ऋक्
 
-<div class="js_include" url="../../../indraH/Rk/yad_dyAva/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../../../mantraH/indraH/Rk/yad_dyAva/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 
 ## साम
@@ -76,7 +76,7 @@ unicode_script: devanagari
 हा+++([])+++ओवा॥चतुः॥हु+++([])+++वे।ह+++([])+++ओवा॥एवं चतुः॥ना+++([])+++जा, तमष्टरोऒ,दासाइ।ऐ+++([])+++होइ।आ+++([])+++इहि॥एवं चतुः॥ह+++([])+++ओवा॥पंच॥हु+++([])+++वे।ह+++([])+++ओवा॥एवं पंच॥है+++([])+++है हैहोवा॥पंच॥है+++([])+++है हैहोवाअ।ह+++([])+++उवाअ।ऊ+++([])+++उउ॥౽॥
 
 
-<div class="js_include" url="../../../indraH/paravastu-saama/idaM-hi-no-ojasA-ghRtasUktam/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../../../mantraH/indraH/paravastu-saama/idaM-hi-no-ojasA-ghRtasUktam/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 ## ऋक्
 
@@ -89,13 +89,13 @@ unicode_script: devanagari
 
 # पञ्च शांतिः
 
-<div class="js_include" url="../../../misc-devas/Rk/tat_shaMyoH/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../../../mantraH/misc-devas/Rk/tat_shaMyoH/"  newLevelForH1="2" includeTitle="true"> </div>  
 
-<div class="js_include" url="../../../misc-devas/yajuH/shanno_mitraH/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../../../mantraH/misc-devas/yajuH/shanno_mitraH/"  newLevelForH1="2" includeTitle="true"> </div>  
 
-<div class="js_include" url="../../../misc-devas/yajuH/sahanAvavatu/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../../../mantraH/misc-devas/yajuH/sahanAvavatu/"  newLevelForH1="2" includeTitle="true"> </div>  
 
-<div class="js_include" url="../../../misc-devas/yajuH/bhadraM_karNebhiH/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../../../mantraH/misc-devas/yajuH/bhadraM_karNebhiH/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 ## ऋक्
 
@@ -132,7 +132,7 @@ unicode_script: devanagari
 अमां, धा, असाः।आ+++([])+++,अभि।वा+++([])+++त्सं, नास्वा।सारा+++([])+++इ।षू+++([])+++,धॆए, नावाः।आ+++([])+++,अइंद्रां।गा+++([])+++इर्भी, र्नावोवा, अ।मा+++([])+++,हेए॥౽॥
 
 ## ऋक्
-<div class="js_include" url="../../../indraH/Rk/mArgIyavam/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../../../mantraH/indraH/Rk/mArgIyavam/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 ## साम
 त+++([])+++द्वो, गाया अ।सु+++([])+++ताइ, सचा, अ।पू+++([])+++रू, हु, उता,अअ।आ+++([])+++,होओ।या+++([])+++,सत्वानाइ।शं+++([])+++यत् गा, अवॆ।ना+++([])+++शौ+++([])+++उ।हौ+++([])+++,उहु+++([])+++वोवा+++([])+++।का+++([])+++इनोंहाइ॥౽॥
@@ -227,22 +227,22 @@ unicode_script: devanagari
 
 # पवित्रवर्गः।
 
-<div class="js_include" url="../../../jalam/Rk/Apo_hi_ShThA/"  newLevelForH1="2" includeTitle="true"> </div> 
+<div class="js_include" url="../../../mantraH/jalam/Rk/Apo_hi_ShThA/"  newLevelForH1="2" includeTitle="true"> </div> 
 
-<div class="js_include" url="../../../somaH/paravastu-saama/tarat-sa-mandI/"  newLevelForH1="2" includeTitle="true"> </div> 
+<div class="js_include" url="../../../mantraH/somaH/paravastu-saama/tarat-sa-mandI/"  newLevelForH1="2" includeTitle="true"> </div> 
 
-<div class="js_include" url="../../../somaH/Rk/yaH_pAvamAnIH/"  newLevelForH1="2" includeTitle="true"> </div> 
+<div class="js_include" url="../../../mantraH/somaH/Rk/yaH_pAvamAnIH/"  newLevelForH1="2" includeTitle="true"> </div> 
 
-<div class="js_include" url="../../../indraH/paravastu-saama/eto-nvindram/"  newLevelForH1="2" includeTitle="true"> </div> 
+<div class="js_include" url="../../../mantraH/indraH/paravastu-saama/eto-nvindram/"  newLevelForH1="2" includeTitle="true"> </div> 
 
 
 इंद्र शुद्धोहिनोरयं। शुद्धो रत्नानि दाशुषे।शुद्धो वृत्राणि जघ्नसे। शुद्धो वाजं शिषासती।
 
 
-<div class="js_include" url="../../../misc-devas/paravastu-saama/somaM-rAjAnam/"  newLevelForH1="2" includeTitle="true"> </div> 
+<div class="js_include" url="../../../mantraH/misc-devas/paravastu-saama/somaM-rAjAnam/"  newLevelForH1="2" includeTitle="true"> </div> 
 
-<div class="js_include" url="../../../indraH/paravastu-saama/yata-indra/"  newLevelForH1="2" includeTitle="true"> </div> 
+<div class="js_include" url="../../../mantraH/indraH/paravastu-saama/yata-indra/"  newLevelForH1="2" includeTitle="true"> </div> 
 
-<div class="js_include" url="../../../worlds/paravastu-saama/brahma-jajJNAnam/"  newLevelForH1="2" includeTitle="true"> </div> 
+<div class="js_include" url="../../../mantraH/worlds/paravastu-saama/brahma-jajJNAnam/"  newLevelForH1="2" includeTitle="true"> </div> 
 
-<div class="js_include" url="../../../worlds/paravastu-saama/pavitran-te/"  newLevelForH1="2" includeTitle="true"> </div> 
+<div class="js_include" url="../../../mantraH/worlds/paravastu-saama/pavitran-te/"  newLevelForH1="2" includeTitle="true"> </div> 

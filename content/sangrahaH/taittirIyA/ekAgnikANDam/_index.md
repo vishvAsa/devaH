@@ -1,5 +1,5 @@
 ---
-title: +एकाग्निकाण्डम् - टिप्पणयः
+title: +एकाग्निकाण्डम्
 unicode_script: devanagari
 ---
 
@@ -21,7 +21,7 @@ unicode_script: devanagari
 
 ## होमविशेषाः
 ### उपाकरण समापनयोः काण्डर्षीणां स्विष्टकृत्-स्थानीयः होमः
-<div class="js_include" url="../../../lokAntaram/Rk/sadasaspatim/"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="../../../mantraH/lokAntaram/Rk/sadasaspatim/"  newLevelForH1="4" includeTitle="true"> </div>  
 
 ### स्वयं प्रज्वलिते ऽग्नौ समिदाधानम्
 उद्दी॑प्यस्व जातवेदो  
@@ -36,9 +36,9 @@ unicode_script: devanagari
 
 <div class="js_include" url="vivAhaH/sheSha-homAdikam/"  newLevelForH1="2" includeTitle="true"> </div>  
 
-<div class="js_include" url="../../../misc-devas/Rk/dAmpatyam/Arohorum/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../../../mantraH/misc-devas/Rk/dAmpatyam/Arohorum/"  newLevelForH1="2" includeTitle="true"> </div>  
 
-<div class="js_include" url="../../../misc-devas/Rk/dAmpatyam/viShNur_yonim/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../../../mantraH/misc-devas/Rk/dAmpatyam/viShNur_yonim/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 
 ## प्रासङ्गिक-जपाः
@@ -79,7 +79,7 @@ ____________________
 प्रति॑ नस् सु॒मना॑ भव ।। (14)
 
 ## दम्पत्योः हृदयविश्लेषे हृदयसंसर्गेप्सोर्होमः।
-<div class="js_include" url="../../../AdityaH/Rk/prAtar_agnim/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../../../mantraH/AdityaH/Rk/prAtar_agnim/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 <div class="js_include" url="pati-vashIkaraNam/"  newLevelForH1="1" includeTitle="true"> </div>  
 
@@ -226,11 +226,11 @@ ____________________
 ब्रह्म॑णा+++(=मन्त्रेण)+++ संपृञ्चा॒नस् सु॒कृता॑ कृ॒तेन॑+++(=प्रयुक्तेन)+++ ।+++(र४)+++  
 
 ## आगारस्थूणाविरोहणादिषु होमः
-<div class="js_include" url="../../../AdityaH/Rk/imam_me_varuNa/"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="../../../mantraH/AdityaH/Rk/imam_me_varuNa/"  newLevelForH1="4" includeTitle="true"> </div>  
 
-<div class="js_include" url="../../../agniH/Rk/tvan_no_agne/"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="../../../mantraH/agniH/Rk/tvan_no_agne/"  newLevelForH1="4" includeTitle="true"> </div>  
 
-<div class="js_include" url="../../../brahma/Rk/prajApate_na_tvat/"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="../../../mantraH/brahma/Rk/prajApate_na_tvat/"  newLevelForH1="4" includeTitle="true"> </div>  
 
 <div class="js_include" url="prakIrNam/saMrAjan_cha/"  newLevelForH1="3" includeTitle="false"> </div> 
 

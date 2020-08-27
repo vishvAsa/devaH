@@ -13,7 +13,7 @@ unicode_script: devanagari
 इ॒ह +++(स्वस्तरे)+++ धृति॑र्, इ॒ह विधृ॑तिः ।  
 इ॒ह रन्ति॑र्, इ॒ह रम॑तिः ।  
 
-<div class="js_include" url="../../../../lokAntaram/Rk/syonA_pRthivI/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../../../../mantraH/lokAntaram/Rk/syonA_pRthivI/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 
 बड् इ॒त्था+++(त्थं)+++ पर्व॑तानाङ्+++(→मेघानाम्)+++  

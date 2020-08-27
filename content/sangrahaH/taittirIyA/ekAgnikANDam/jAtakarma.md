@@ -4,7 +4,7 @@ unicode_script: devanagari
 ---
 
 ### अभिमर्शनम्
-<div class="js_include" url="../../../../agniH/Rk/divaspari/"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="../../../../mantraH/agniH/Rk/divaspari/"  newLevelForH1="4" includeTitle="true"> </div>  
 
 ### उपस्थ आधानम्
 अ॒स्मिन्न॒हँस॒हस्रं॑ पुष्या॒म्येध॑मान॒स् स्वे वशे॑ ।
@@ -30,7 +30,7 @@ unicode_script: devanagari
 
 ### स्नापनम्
 
-<div class="js_include" url="../../../../AdityaH/Rk/druho_munchAmi/"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="../../../../mantraH/AdityaH/Rk/druho_munchAmi/"  newLevelForH1="4" includeTitle="true"> </div>  
 
 ### दधि-घृत-प्राशनम्
 भूस्स्वाहा॒ भुव॒स्स्वाहा॒ सुव॒स्स्वाहा। ॐ स्वाहा॑ ।।
@@ -57,7 +57,7 @@ unicode_script: devanagari
 आप॑स्सु॒प्तेषु॑ जाग्रत॒ रक्षाꣳ॑सि॒ निरि॒तो नु॑दद्ध्वम् ।
 
 ## सूतकहोमः
-<div class="js_include" url="../../../../misc-devas/yajuH/sUtaka-homa-mantra-Ap/"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="../../../../mantraH/misc-devas/yajuH/sUtaka-homa-mantra-Ap/"  newLevelForH1="4" includeTitle="true"> </div>  
 
 सर्षपान् फलीकरणमिश्रानञ्जलिनोत्तरैस् त्रिस्त्रि प्रतिस्वाहाकारं हुत्वा +++(पिता)+++ संशास्ति- "प्रविष्टे प्रविष्ट एव तूष्णीमग्नावावपते"ति ६  
 एवमहरहरानिर्दशतायाः +++(="निर्दशा"निर्गता दशभ्योऽहोरात्रेभ्यो या रात्रिस्सा)+++७
@@ -68,7 +68,7 @@ unicode_script: devanagari
 मूर्धन्यवघ्राणम् - अश्मा॑ भव पर॒शुर्भ॑व॒ हिर॑ण्य॒मस्तृ॑तं भव । प॒शू॒नान्त्वा॑ हिङ्का॒रेणा॒भि जि॑घ्राम्य् असौ+++(→नामनिर्देशः)+++ ।
 
 ### कर्णे जपः
-<div class="js_include" url="../../../../misc-devas/Rk/agnirAyuShmAn/"  newLevelForH1="4" includeTitle="false"> </div>  
+<div class="js_include" url="../../../../mantraH/misc-devas/Rk/agnirAyuShmAn/"  newLevelForH1="4" includeTitle="false"> </div>  
 
 ## कुमार्या अभिमन्त्रणम्
 सर्व॑स्माद् आ॒त्मन॒स् संभू॑ताऽसि॒, सा जी॑व श॒रद॑श् श॒तम् ।  
