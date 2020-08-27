@@ -1,4 +1,4 @@
 +++
-title = "+०३"
+title = "+०६"
 unicode_script = "devanagari"
 +++
