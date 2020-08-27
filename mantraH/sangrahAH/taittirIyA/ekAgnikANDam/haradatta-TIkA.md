@@ -1,5 +1,5 @@
 ---
-title: एकाग्निकाण्डस्य हरदत्तटीका
+title: हरदत्तटीका
 unicode_script: devanagari
 ---
 
