@@ -186,13 +186,3 @@ practice_weight = 0
 भ॒द्रं भ॑ल॒+++(=भेदक +असे)+++ त्यस्या॑+++(=तस्या [इन्द्राण्या])+++ अभू॒द्  
 यस्या॑ उ॒दर॒म् आम॑य॒द् +++(भोजनेन)+++  
 विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥ १०.०८६.२३
-
-## देवतास्व् अभिप्रायाः
-- स्रोतः - Orion by BG Tilak.
-- As there is only one hymn in the r̥gveda which gives the story, it is not so easy, as in the case of the r̥bhus, to determine the nature of the deity, and hence various conjectures have been made by scholars as to its origin, character and meaning. The deities appear both in the masculine and in the feminine form, Vr̥ṣākapi and Vr̥shakapayī.
-- In the Br̥had-devatā Vr̥ṣākapi is said to represent the setting sun, and Vr̥shakapayī the gloaming.
-- Yāska (12. 27) would derive the word so as to mean the sun who shakes (the world) with his rays, and his commentator observes that the god showers mist or dew and shakes the animate world.
-- Amara\* considers that Vr̥ṣākapi means either Vishṇu or Shiva, and Vr̥shakapayī either Lakshmi or Gaurī. +++(\* Amara iii. 3. 130 and 156. हरो विष्णुर् वृषाकपिः and वृषाकपायी श्रीगौर्योः।)+++
-- had Yāska and Sāyaṇa known that there is a constellation called dog in the heavens by the side of Mr̥gaśiras, I feel certain that they would not have hesitated to recognize in Vr̥ṣākapi, the sun as represented by the constellation of Orion.
-- Prof. Max Müller, in one place, +++(Lectures on the Science of Language Vol. II., p. 539, )+++ observes that "it is difficult, on seeing the game of Vr̥ṣākapi, not to think of Erikapaeos, an Orphic name of Protogonos and synonymous with Phanes, Helios, Priapos, Dionysos," but, says he, "the original conception of Vr̥ṣākapi (Vr̥shan, bull, irrigator; Kapi, ape, tremulous) is not much clearer than that of Erikapireos."
-
