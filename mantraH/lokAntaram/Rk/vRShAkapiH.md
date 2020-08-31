@@ -5,8 +5,7 @@ practice_weight = 0
 +++
 
 ## परिचयः
-- सूक्ते ऽस्मिन् स्वाभिप्रायो बालगङ्गाधरार्याद् ईषद् भिन्नः - स उक्षसङ्केतं न जग्राह।
-
+- सूक्ते ऽस्मिन् स्वाभिप्रायो बालगङ्गाधरार्याद् ईषद् भिन्नः - स उक्षसङ्केतं न जग्राह। We place the myth in the rohiNI/ kRttikA era instead of the mArgashIrSha epoch.
 - पुरा Sacrificial period = devayAna = uttarAyaNa was defined as vernal equinox to autumnal equinox; corresponding also to devanaxatra-s. "विश्वस्माद् इन्द्र उत्तरः" इत्यनेनैवोच्यते - नक्षत्रचक्रस्योत्तरभागो देवयज्ञयोग्य इति।
 - वृषाकपिर् नाम Orion। स एव रूपान्तरेण मृगशीर्षम्।
 - पुरा कल्पे विषुवस्थानं सौरं तत्रावर्तत। तेन हि स सोमाधिपतिर् बभूव, इन्द्रस्य सखा।
