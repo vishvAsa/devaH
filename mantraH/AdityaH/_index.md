@@ -20,3 +20,6 @@ title: +आदित्याः
 - [MT1](https://manasataramgini.wordpress.com/2007/06/14/martanda-bhairava-mallari/), [MT2](https://manasataramgini.wordpress.com/2007/06/24/a-local-pantheon-of-mallanna/)
 
 {{< figure src="images/khANDoba.jpg" title="खाण्डोबा" class="thumbnail">}}
+
+## सूर्यः
+सूर्यो विवस्वान् आदित्यो मार्त्ताण्डो यो दिवि +अहोरात्रारित्रमत्या नौकया चलति।
