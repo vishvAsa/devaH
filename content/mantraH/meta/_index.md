@@ -7,9 +7,9 @@ title: +अधिमन्त्रम्
 - It is an aid to concentrating the mind on the deity or a sentiment. This is often true in the context of a ritual.
 
 ### siddhi-s
-- Many attribute supernatural effects beyond it - mAraNa, vashIkaraNa, uchChATana, stambhana, mohana, vidveShaNa ... All these are said to be possible with mastery (siddhi) over a single mantra and knowledge of appropriate rituals.
-- siddhI is said to be earned by practice involving diet and behavior restriction, japa, Asana-s, prANAyAma-s, secrecy (AG\_T\_27.3 [IMG](https://imgur.com/ZY9clni)) etc.. over an indeterminate period of time - under the guidance of a (dear) personal trainer/ guru (who helps avoid or counteract bad side-effects). Potential bad effects (physical, mental etc..) and errors in books (deliberate or otherwise) dissuade unguided uninitiated practice of many mantra-s.
-- Greater the siddhi, tougher the things that are said to be possible. Master tAntrikas sometimes train from childhood, with a big syllabus of mantra-s and rituals - and have siddhi-s over multiple mantra-s. The deshika-s among them are said to even be capable of making new effective mantra-s for disciples.
+- Many attribute supernatural effects beyond it - mAraNa, vashIkaraNa, uchChATana, stambhana, mohana, vidveShaNa ... All these are said to be possible with mastery (siddhi) over a single mantra and knowledge of appropriate rituals.
+- siddhI is said to be earned by practice involving diet and behavior restriction, japa, Asana-s, prANAyAma-s, secrecy (AG\_T\_27.3 [IMG](https://imgur.com/ZY9clni)) etc.. over an indeterminate period of time - under the guidance of a (dear) personal trainer/ guru (who helps avoid or counteract bad side-effects). Potential bad effects (physical, mental etc..) and errors in books (deliberate or otherwise) dissuade unguided uninitiated practice of many mantra-s.
+- Greater the siddhi, tougher the things that are said to be possible. Master tAntrikas sometimes train from childhood, with a big syllabus of mantra-s and rituals - and have siddhi-s over multiple mantra-s. The deshika-s among them are said to even be capable of making new effective mantra-s for disciples.
 
 ## Whence the power of mantra-s?
 - Consciousness - see [here](../consciousness/).
@@ -18,15 +18,15 @@ title: +अधिमन्त्रम्
 ## Sources of ineffectiveness
 Some claim that mantra-s are ineffective in case:
 
-- The user is not specially initiated \[Personal note: partially disagree\]
+- The user is not specially initiated \[Personal note: partially disagree\]
 - In case some 'curse' on a mantra is not removed ([BVP16](https://groups.google.com/forum/#!topic/bvparishat/Tz9zsuJGSN4)) \[Personal note: disagree\]
 
   
 
 ## Related Notes:
 
-- Mantras, metaphorical thinking and cross sensory stimulation : [MT](http://manasataramgini.wordpress.com/2008/11/23/the-spectrum-of-synesthesia-metaphors-and-samdhya-bhasha/).
-- Jewish view of mantra-s : [T14](http://www.tabletmag.com/jewish-arts-and-culture/books/164141/forbidden-jewish-magic-books).
+- Mantras, metaphorical thinking and cross sensory stimulation : [MT](http://manasataramgini.wordpress.com/2008/11/23/the-spectrum-of-synesthesia-metaphors-and-samdhya-bhasha/).
+- Jewish view of mantra-s : [T14](http://www.tabletmag.com/jewish-arts-and-culture/books/164141/forbidden-jewish-magic-books).
 
 ## Matching mantra-s with rituals
 
@@ -40,7 +40,7 @@ Abhinavagupta and Kshemaraja considered mudrā as a “way of accessing higher l
 
 ## yantra-s
 
-In other traditions: a jewish yantra [here](http://i.imgur.com/fElQY78.png?1).
+In other traditions: a jewish yantra [here](http://i.imgur.com/fElQY78.png?1).
 
 ## मन्त्रविभागाः
 - [मीमांसाक्षेत्रे](../../mImAMsA/bodhaH/veda-vAkyam/mantraH/) दृश्यताम् ।
