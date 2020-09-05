@@ -78,4 +78,4 @@ unicode_script: devanagari
 नमः॑ श्वे॒ताय॑ वैद॒र्वाय॑ ।। (17)
 
 ## स्रोतांसि
-- मन्त्रपाठे [ऽत्र](https://archive.org/stream/EKAGNIKANDABHASHYAMSAMSKRUTHAM/EKAGNIKANDA%20BHASHYAM%20SAMSKRUTHAM#page/n173/mode/2up)। 
+- मन्त्रपाठे [ऽत्र](https://archive.org/stream/EKAGNIKANDABHASHYAMSAMSKRUTHAM/EKAGNIKANDA%20BHASHYAM%20SAMSKRUTHAM#page/n173/mode/2up)। 

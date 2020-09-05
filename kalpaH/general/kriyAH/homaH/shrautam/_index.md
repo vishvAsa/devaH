@@ -11,13 +11,13 @@ title = "+श्रौतम्"
 - पिण्डपितृयज्ञः
     - जीवत्पितृकाधिकारे
         - आपस्तम्बीयैर् होमान्तं क्रियते।
-        - "२२ प्रेतेभ्यो ददाति जीवत्पितृकोऽपि जीवाऽन्तर्हितेऽपि २३ जीवत्पितृकस्य होमान्तम् २४ अनारम्भो वा २५ न व्यवेते जातूकर्ण्यः २६ न जीवन्तमतीत्य ददातीति श्रुतेः" इति कात्यायनसूत्रे [दृश्यते](http://www.peterffreund.com/Vedic_Literature/kalpa/shrauta/katyayana_shrauta_sutra.html)। 
+        - "२२ प्रेतेभ्यो ददाति जीवत्पितृकोऽपि जीवाऽन्तर्हितेऽपि २३ जीवत्पितृकस्य होमान्तम् २४ अनारम्भो वा २५ न व्यवेते जातूकर्ण्यः २६ न जीवन्तमतीत्य ददातीति श्रुतेः" इति कात्यायनसूत्रे [दृश्यते](http://www.peterffreund.com/Vedic_Literature/kalpa/shrauta/katyayana_shrauta_sutra.html)। 
 
 ### परिचयः
 - वेङ्कटेशावधानि-परिचयो [अत्र](https://www.youtube.com/watch?v=92pk0XV2_VE&list=PLhPjckGlZ7rT_sjGGNEbe0C6gNtf1q6im)।
 
 
-## वार्षिकाः हविर्यज्ञाः
+## वार्षिकाः हविर्यज्ञाः
 - अग्न्याधेयः?
 - चातुर्मास्यम् 
   - Actually this comprises three sacrifices to be performed at four-monthly intervals. They are: वैश्वदेवः, वरुणप्रघासः and साकमेधः. Sometimes one more, the शुनासीरीयः, is also added. Each of these marks the advent of a season.

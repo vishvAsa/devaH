@@ -38,5 +38,5 @@ unicode_script: devanagari
 - जयादिहोमादिस् तन्त्रः साधारणस् ततः
 
 ## स्रोतांसि
-- आपस्तम्ब सूत्रे सभाष्ये [ऽत्र](https://archive.org/stream/APASTHAMBAGRUHYASUTRAMSUDARSHANAHARADATHA/APASTHAMBA%20GRUHYASUTRAM%20%28SUDARSHANA%2CHARADATHA%29#page/n197/mode/2up)।
-- टिप्पणयो [ऽत्र](https://checkvist.com/checklists/113019/export.html?export_notes=true&&task_ids=8202309)। यज्ञोपवीतपरिवर्तने [ऽत्र](https://checkvist.com/checklists/113019/export.html?export_notes=true&&task_ids=13756102)।
+- आपस्तम्ब सूत्रे सभाष्ये [ऽत्र](https://archive.org/stream/APASTHAMBAGRUHYASUTRAMSUDARSHANAHARADATHA/APASTHAMBA%20GRUHYASUTRAM%20%28SUDARSHANA%2CHARADATHA%29#page/n197/mode/2up)।
+- टिप्पणयो [ऽत्र](https://checkvist.com/checklists/113019/export.html?export_notes=true&&task_ids=8202309)। यज्ञोपवीतपरिवर्तने [ऽत्र](https://checkvist.com/checklists/113019/export.html?export_notes=true&&task_ids=13756102)।

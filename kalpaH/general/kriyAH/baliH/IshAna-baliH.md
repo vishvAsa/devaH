@@ -77,4 +77,4 @@ unicode_script: devanagari
 सनाभय इत्येव सिद्धे<ये भवन्ति> इति वचनं दौहित्रादीनामपि सम्बन्धिनां प्रतिग्रहार्थम्
 
 ## स्रोतांसि
-- टीकानुमता टिप्पणिर् [अत्र](https://checkvist.com/checklists/575296/export.html?export_notes=true&&task_ids=23909975)।
+- टीकानुमता टिप्पणिर् [अत्र](https://checkvist.com/checklists/575296/export.html?export_notes=true&&task_ids=23909975)।
