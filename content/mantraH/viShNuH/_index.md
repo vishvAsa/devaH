@@ -15,6 +15,12 @@ title: +विष्णुः
 - "The Vāsudeva in his human manifestation (Kṛṣṇa Devakīputra) consorts with a large number of women. Viṣṇu consorting with a bevy of goddesses is already mentioned in RV 3.54.14. This also relates to his early fertility role as the protector of the sperm of males." ([MT](https://manasataramgini.wordpress.com/2020/01/02/the-roots-of-vai%E1%B9%A3%E1%B9%87avam-a-view-from-the-numerology-of-vedic-texts/))
 - "Already in the RV Viṣṇu is repeatedly mentioned as being the cowherd or the cow-protector (RV 1.22.18; RV 3.55.10). Thus, this aspect of the Devakīputra of the Sātvata religion are likely merely a humanization of an old trait of the deity." ([MT](https://manasataramgini.wordpress.com/2020/01/02/the-roots-of-vai%E1%B9%A3%E1%B9%87avam-a-view-from-the-numerology-of-vedic-texts/))
 
+### पाञ्चरात्रिककल्पना
+- आविर्भवति पर+++(=नारायण)+++-व्यूह-विभव+++(=अवतार)+++-अर्च-अन्तर्यामि-भेदैः।
+- ४ व्यूहाः - वासुदेवः+++(=feeling)+++, सङ्कर्षणः+++(=willing)+++, प्रद्युम्नः+++(=knowing)+++, अनिरुद्धः+++(=acting, प्रद्युम्न-पुत्रः)+++।
+- षाड्-गुण्यं → ज्ञानं शक्तिर् बलम् ऐश्वर्यं वीर्यं तेजः।
+- सेवनम् - अभिगमनम्, उपादानम्, इज्या, स्वाध्यायः, योगः।
+
 ## प्राचीनता
 - "Viṣṇu is a prominent deity of early Indo-European vintage. Mentioned 113 times in Ṛgveda itself (Table 1), one can already sense his prominence in the pantheon. ... His cognate in the Germanic world Víðarr provides evidence of his importance in the early undivided IE days. " ([MT](https://manasataramgini.wordpress.com/2020/01/02/the-roots-of-vai%E1%B9%A3%E1%B9%87avam-a-view-from-the-numerology-of-vedic-texts/))
 
