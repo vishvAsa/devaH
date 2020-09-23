@@ -24,3 +24,5 @@ title: दर्भाः
 - Collection points shrAvaNa kRShNa amAvAsya 2019
   - [1](https://maps.app.goo.gl/jtk1DLMau5Su7XEk9), [2](https://maps.app.goo.gl/Pa1bhRCrUHYucGEx8)
 
+## पवित्र-कूर्चादि-सृष्टिः
+चित्रम् [अत्र](https://www.youtube.com/watch?v=Bb8ohb0PC_M&feature=youtu.be)।
