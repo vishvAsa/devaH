@@ -4,8 +4,8 @@ unicode_script: devanagari
 practice_weight: 0
 ---
 
-{{< figure src="https://i.imgur.com/Nt1v8yj.jpg"  class="thumbnail">}}
-{{< figure src="http://en.es-static.us/upl/2010/06/precession_sky_chart_3751-e1336864495341.jpg"  class="thumbnail">}}
+{{< figure src="../../images/dolphin.jpg"  class="thumbnail">}}
+{{< figure src="../../images/precession_sky_chart.jpg"  class="thumbnail">}}
 
 यस्मै॒ नम॒स्  
 तच्छिरो॒ धर्मो॑ मू॒र्धानं॑  
