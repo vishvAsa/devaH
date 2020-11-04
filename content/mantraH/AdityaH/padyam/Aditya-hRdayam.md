@@ -3,6 +3,8 @@ title = "आदित्यहृदयम्"
 unicode_script = "devanagari"
 +++
 
+<div class="videoEmbed"  src="https://www.youtube.com/watch?v=zL9G69rTC-c" caption="मीरागानम्"></div>
+
 ## सङ्कल्पः
 अगस्त्यऋषिः । अनुष्टुप्छन्दः ।  आदित्यो देवता ।
 ॐ बीजम् । रश्मिमतेरिति शक्तिः । ॐ तत्सवितुरित्यादिगायत्री कीलकम् ।
