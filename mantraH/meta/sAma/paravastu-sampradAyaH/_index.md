@@ -5,10 +5,16 @@ unicode_script: devanagari
 ---
 
 ## परम्परा
-[परवस्तु-साम-परम्परा-पृष्ठं](../paravastu-sAma-paramparA/) दृश्यताम्।
+- [परवस्तु-साम-परम्परा-पृष्ठं](paravastu-sAma-paramparA/) दृश्यताम्।
+
+
+## लेखनम्
+- ग्रन्था [अत्र](https://archive.org/details/sAmaveda-jaiminIya-paravastu-paramparA-docs) रक्षिताः।
+- स्वरचिह्नार्था [अत्र](https://docs.google.com/document/d/1dHkElOzXoAue48_xVgP-LAlSSpmMQ9QKjUrnSazEG1M/edit) मृग्यमानाः।
 
 ## पारम्परिकविधिः
 - गुरुर् एकदा वदति। शिष्यो द्विरनुवदति - पुस्तकमदृष्ट्वा। एवं १०+वारम् अभ्यस्य ततः परं पुस्तकं दृष्ट्व्याऽभ्यस्यति। गुरुः परीक्ष्य शोधयति।
+- गानसङ्ग्रहः - [अत्र](https://docs.google.com/spreadsheets/d/1YTU1e2CIeUXqsu06z_pfugpt3lkMeXeZLbLauOtksCQ/edit#gid=55687938) मृग्याः। यथा [रामानुजार्यस्य](https://archive.org/details/jaiminIya-sAma-gAna-paravastu-tradition)।
 
 ## स्वानुभवः
 ### मुख्यांशाः
