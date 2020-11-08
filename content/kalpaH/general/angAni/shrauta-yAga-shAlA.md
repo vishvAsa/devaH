@@ -30,7 +30,7 @@ practice_weight: 0
 [![](../../../images/shrauta-yAga/vedI/soma-yAga-vinyAsa-en-2.png)](../../../images/shrauta-yAga/vedI/soma-yAga-vinyAsa-en-2.png)
 
 ## चित्राणि
-    - [Subhash](https://www.facebook.com/profile.php?id=100006278775898)अस्य [पत्रात्](http://arxiv.org/pdf/0902.4850.pdf)।
+    - [Subhash](https://www.facebook.com/profile.php?id=100006278775898)अस्य [पत्रात्](http://arxiv.org/pdf/0902.4850.pdf)।
   
 
     
@@ -44,7 +44,7 @@ practice_weight: 0
 - उत्करः \- अवकरपात्रमिव।
 
 ### कुण्डानाम् स्थापने मानम्
--  Baudhayana Maharishi suggests: divide distance between Ahavaniya & Garhapatya (AG) into 3 equal parts.
+-  Baudhayana Maharishi suggests: divide distance between Ahavaniya & Garhapatya (AG) into 3 equal parts.
     - [![](https://i.imgur.com/ZJmN8QH.jpg)](https://i.imgur.com/ZJmN8QH.jpg)
         
     - AD² = (2a/3)² + (a/3)² = 5a²/9  
@@ -60,15 +60,15 @@ practice_weight: 0
     (30 padas on west, 24 padas on east, 36 on vertical) [(रविकुमारः)](https://twitter.com/ravikumarg14/status/956493101526208512)
 - [![](https://pbs.twimg.com/media/DUX5bRxUQAAeelq.jpg)](https://pbs.twimg.com/media/DUX5bRxUQAAeelq.jpg)
     
-- Agnidhra (Square).            Side = 5 aratnis  
-    Catvala (Square).              Side = 36 angulas  
-    Dhisniyas (Circle).             Dia = 2 pradesas  
-    Havirdhana (Square).        Side = 10 prakramas
-- Marjaliya ( Square)               Side = 5 aratnis  
-    Sadas (Rectangle)               L = 12 prakramas, B = 10 prakramas  
-    Pragvamsa(Rectangle)        L = 16 prakramas, B = 12 prakramas  
+- Agnidhra (Square).            Side = 5 aratnis  
+    Catvala (Square).              Side = 36 angulas  
+    Dhisniyas (Circle).             Dia = 2 pradesas  
+    Havirdhana (Square).        Side = 10 prakramas
+- Marjaliya ( Square)               Side = 5 aratnis  
+    Sadas (Rectangle)               L = 12 prakramas, B = 10 prakramas  
+    Pragvamsa(Rectangle)        L = 16 prakramas, B = 12 prakramas  
     ....  
-    Mahavedi(Iso. Trapezium)   Face = 24 padas, Base = 30 padas, Altitude = 36 padas  
+    Mahavedi(Iso. Trapezium)   Face = 24 padas, Base = 30 padas, Altitude = 36 padas  
               
             
 ### भागपरिचयः

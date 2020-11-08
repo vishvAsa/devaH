@@ -38,10 +38,10 @@ unicode_script: devanagari
 - परीक्षा। लक्षणौचित्य-परीक्षा।
 
 ## सूत्राणि
-- [न्यायसूत्राणि](https://sa.wikibooks.org/wiki/%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0) \- गौतमप्रणीतानि
+- [न्यायसूत्राणि](https://sa.wikibooks.org/wiki/%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0) \- गौतमप्रणीतानि
 - वैशेषिक-सूत्राणि
-    - विकाव् [अत्र](https://sa.wikibooks.org/wiki/%E0%A4%B5%E0%A5%88%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%BF%E0%A4%95%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D)।
-    - सटीका-पुस्तकम् [अत्र](https://archive.org/stream/in.ernet.dli.2015.274624/2015.274624.Vaisheshika-Darshana#page/n43/mode/2up)।
+    - विकाव् [अत्र](https://sa.wikibooks.org/wiki/%E0%A4%B5%E0%A5%88%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%BF%E0%A4%95%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D)।
+    - सटीका-पुस्तकम् [अत्र](https://archive.org/stream/in.ernet.dli.2015.274624/2015.274624.Vaisheshika-Darshana#page/n43/mode/2up)।
 - गङ्गेशोपाध्याय-कृत-तत्त्व-चिन्तामणिः
     - ततः न्यायवैशेषिके एक्य् अभवताम्।
 - [२१-तम-शतकस्य पदार्थशास्त्र-परिष्का](21ce-padArtha-shAstra-pariShkAraH/)।
