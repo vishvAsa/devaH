@@ -6,7 +6,7 @@ unicode_script: devanagari
   
 ---
 
-सायणो [अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_037_Taittiriya_Brahmanam_with_Sayanabhashya_Part_2_-_Narayanasastri_Godbole_1898#page/n245/mode/2up)। 
+सायणो [अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_037_Taittiriya_Brahmanam_with_Sayanabhashya_Part_2_-_Narayanasastri_Godbole_1898#page/n245/mode/2up)। 
   
 ## प्रातर्वन्द्यावलिः
 प्रा॒तर् अ॒ग्निं प्रा॒तर् इन्द्रं॑ हवामहे  

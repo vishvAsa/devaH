@@ -37,10 +37,10 @@ title: भार्गवाः
 ## भार्गवेषु के महात्मान आसन्?!
 
 - ऋग्वेदे भार्गवाः
-    - "From the accounts of vedic tradition the bhR^igu-s were the foremost of the R^iShi-s. It appears that they were the founders of the fire ritual which is at the heart of the vedic religion. They are not authors of many mantra-s of the R^ig veda, though their surrogate clan, the shaunahotra-s, have a maNDala to themselves (RV2). Nevertheless, bhR^igu or the bhR^igu-s are mentioned 27 times by name in the RV." MT [अत्र](https://manasataramgini.wordpress.com/2006/05/21/the-bhrigu-s-of-the-rigveda/)।
-- भृगुः (अनिश्चिते जन्मनि) - 
-    - मणिकोशे [ऽत्र](http://www.sanskrit-lexicon.uni-koeln.de/scans/PEScan/2014/web/webtc/servepdf.php?page=139)।
-    - भृगुस्मृतिः [अत्र](https://archive.org/details/bhRgu-smRti-print)। (अत्र evolution-विषयः)
+    - "From the accounts of vedic tradition the bhR^igu-s were the foremost of the R^iShi-s. It appears that they were the founders of the fire ritual which is at the heart of the vedic religion. They are not authors of many mantra-s of the R^ig veda, though their surrogate clan, the shaunahotra-s, have a maNDala to themselves (RV2). Nevertheless, bhR^igu or the bhR^igu-s are mentioned 27 times by name in the RV." MT [अत्र](https://manasataramgini.wordpress.com/2006/05/21/the-bhrigu-s-of-the-rigveda/)।
+- भृगुः (अनिश्चिते जन्मनि) - 
+    - मणिकोशे [ऽत्र](http://www.sanskrit-lexicon.uni-koeln.de/scans/PEScan/2014/web/webtc/servepdf.php?page=139)।
+    - भृगुस्मृतिः [अत्र](https://archive.org/details/bhRgu-smRti-print)। (अत्र evolution-विषयः)
 
 ## प्रथमजन्मनि भृगुः।
 - प्रथम-जन्मनि ब्रह्मत्वचो जातो दक्षयागे हतः। पत्नी ख्यातिः।
@@ -50,9 +50,9 @@ title: भार्गवाः
   - दधीचिः/ दधीचः 
 
 ### दधीचिः
-- भृगुसूनुरिति महाभारते शल्यपर्वणि (५१॰८३)। सरस्वतीपार्श्चे आश्रमञ्चकार। तत्र जातस् सारस्वतः।
-- अस्यास्थिभ्यो वृत्रहा वज्रायुधं चक्रे।   (Mahābhārata, Chapter 100)
-- एवम् ऋग्वेदे ज्ञायते। वसिष्ठपौत्रो ऽथर्व्वमुनेरौरसात्कर्द्दमकन्यायां शान्तिनाम्न्यां जातः ऽपरो दध्यङ्नामा। ("The stories regarding the two hermits Dadhici and Dadhyaṅ in the Purāṇas are not very clear. In Mahābhārata Dadhīca is mentioned as the son of Bhṛgu, and in Ṛgveda it occurs that Dadhīca was the son of Hermit Atharva who was the son of Vasiṣṭha. Moreover the story of Dadhyaṅ teaching the Aśvinīdevas the ‘Madhuvidyā’ is connected with Dadhici in some other purānas  Some statements in the Ṛgveda make it difficult to assume that both Dadhyaṅ and Dadhīci are one and the same person. So shelving on the majority of statements in the various purāṇas this book has accepted the fact that these hermits are separate persons and that Dadhīci was the son of Bhṛgu whereas the hermit who taught Madhuvidyā to the Aśvinīdevas was Dadhyaṅ.\] ") 
+- भृगुसूनुरिति महाभारते शल्यपर्वणि (५१॰८३)। सरस्वतीपार्श्चे आश्रमञ्चकार। तत्र जातस् सारस्वतः।
+- अस्यास्थिभ्यो वृत्रहा वज्रायुधं चक्रे।   (Mahābhārata, Chapter 100)
+- एवम् ऋग्वेदे ज्ञायते। वसिष्ठपौत्रो ऽथर्व्वमुनेरौरसात्कर्द्दमकन्यायां शान्तिनाम्न्यां जातः ऽपरो दध्यङ्नामा। ("The stories regarding the two hermits Dadhici and Dadhyaṅ in the Purāṇas are not very clear. In Mahābhārata Dadhīca is mentioned as the son of Bhṛgu, and in Ṛgveda it occurs that Dadhīca was the son of Hermit Atharva who was the son of Vasiṣṭha. Moreover the story of Dadhyaṅ teaching the Aśvinīdevas the ‘Madhuvidyā’ is connected with Dadhici in some other purānas  Some statements in the Ṛgveda make it difficult to assume that both Dadhyaṅ and Dadhīci are one and the same person. So shelving on the majority of statements in the various purāṇas this book has accepted the fact that these hermits are separate persons and that Dadhīci was the son of Bhṛgu whereas the hermit who taught Madhuvidyā to the Aśvinīdevas was Dadhyaṅ.\] ") 
     - स हि मधुविद्याम् अश्विनीकुमाराभ्यां मधुविद्यां ददन् अश्वशिरा बभूव।
     - तस्य ह्य् अश्वशिरसा देवेन्द्रो ऽसुरनाशञ्चकार। (Ṛgveda, Maṇḍala 1, Anuvāka 13, Sūkta 84)
 - स दक्षयागे शिवभक्तिं दर्शयाञ्चक्रे।
@@ -63,20 +63,20 @@ title: भार्गवाः
 - वैवस्वतमन्वन्तरे प्रजापतिर् ब्रह्मसूनुर् अग्नौ जातो वरुणस्य ब्रह्मयज्ञे। वरुणेन तत्पत्न्या चर्षण्या च वर्धितः।
     - पत्नी पुलोमा।
     - "bhR^igu created rakSha-s to attack rudra's party on behalf of dakSha; shukra stole kubera's wealth and fought a battle with rudra; bhR^igu's wife paulomI hid the asura-s from the deva-s and was beheaded by viShNu."
-    - यस्याश्रमो ऽभूत् सरस्वती-दृशद्वती-नद्योस् सङ्गमे। 
-    - असौ ब्रह्मविष्णुमहेश्वरान् अपि धर्षयाञ्चकार। तस्यैव पादस्य चिह्नं विष्णोरुरसि **श्रीवत्स** इति।
+    - यस्याश्रमो ऽभूत् सरस्वती-दृशद्वती-नद्योस् सङ्गमे। 
+    - असौ ब्रह्मविष्णुमहेश्वरान् अपि धर्षयाञ्चकार। तस्यैव पादस्य चिह्नं विष्णोरुरसि **श्रीवत्स** इति।
     - कृतवीर्यस्य हैहयस्य राज्ञो गुरुर् भृगुः। तद्दानात् समृद्धा भार्गवाः। कार्तवीर्या ईर्षया ऽपहृतवन्तस् तद्धनम्, तयोर् वैरं जातम्।
     - वीतहव्यं राजानं चकार ब्राह्मणम्।
     - महान्तं तत्त्वविचारं चकार।
     - भार्गवा हि मानवधर्मशास्त्र-सम्पदकाः।
-        - etad vo 'yaṃ bhṛguḥ śāstraṃ śrāvayiṣyaty aśesataḥ | etad dhi matto 'dhijage sarvam eṣo 'khilaṃ muniḥ || tatas tathā sa tenokto maharṣimanunā bhṛguḥ | tān abravīd ṛṣīn sarvān prītātmā śrūyatām iti ||
-        - "The references in the atharva veda and the older cycles of the bhArgava myth in the mahabhArata, suggest that the core of these events concerned a historical struggle between the bhR^igus and the haihaya rulers of mAhiShmati. However, the later pauraNic redactions of the myth, and late reinsertion in the mahAbhArata seem to have given it the color of a general struggle between the kShatriyas and brahmins+rest of castes. I believe that this generalization was actually inspired again by a similar constellation of much later historical events that inspired the manu smR^iti’s reaction to the shudra threat. These events were most probably the oppressive rule of the nanda-s, colored to certain degree by the atrocities of the foreign rulers (described as shudras by the manu smR^iti) around the same time. The victory of the brAhmaNa ruler puShyamitra shu~Nga, probably inspired a mythological reworking, in which his clan’s glorious victories were compared to the historical struggle of parashurAma, and that tale romanticized to its extant mythological form. It is not a matter of coincidence that the politically pre-eminant brahmin clan, the bhArgavas were involved, both in the generalization of their family epic (the parashurAma epic) and the redaction of the manu smR^iti into its extant form." \[[MT](https://manasataramgini.wordpress.com/2004/09/01/inter-caste-strife/)\]
+        - etad vo 'yaṃ bhṛguḥ śāstraṃ śrāvayiṣyaty aśesataḥ | etad dhi matto 'dhijage sarvam eṣo 'khilaṃ muniḥ || tatas tathā sa tenokto maharṣimanunā bhṛguḥ | tān abravīd ṛṣīn sarvān prītātmā śrūyatām iti ||
+        - "The references in the atharva veda and the older cycles of the bhArgava myth in the mahabhArata, suggest that the core of these events concerned a historical struggle between the bhR^igus and the haihaya rulers of mAhiShmati. However, the later pauraNic redactions of the myth, and late reinsertion in the mahAbhArata seem to have given it the color of a general struggle between the kShatriyas and brahmins+rest of castes. I believe that this generalization was actually inspired again by a similar constellation of much later historical events that inspired the manu smR^iti’s reaction to the shudra threat. These events were most probably the oppressive rule of the nanda-s, colored to certain degree by the atrocities of the foreign rulers (described as shudras by the manu smR^iti) around the same time. The victory of the brAhmaNa ruler puShyamitra shu~Nga, probably inspired a mythological reworking, in which his clan’s glorious victories were compared to the historical struggle of parashurAma, and that tale romanticized to its extant mythological form. It is not a matter of coincidence that the politically pre-eminant brahmin clan, the bhArgavas were involved, both in the generalization of their family epic (the parashurAma epic) and the redaction of the manu smR^iti into its extant form." \[[MT](https://manasataramgini.wordpress.com/2004/09/01/inter-caste-strife/)\]
 
 ### प्रजाः
 - एकादशरुद्रा रुद्रपार्षदाश् चापि भृगुसूनवः भूतायाम् पत्न्याम्। सरूपायान्तु १००० रुद्राः।
 
 #### शुक्रः 
-- उशनाः भृगुपुत्रो दैत्यगुरुर् नीतिशास्त्रकृत्। हिरण्यकशिपु-प्रह्लाद-बलि-प्रभृतिभ्यः पुरोहितः। शशाप विष्णुं स्वमातृहन्तारं ७धा भुवि जातुम्। देवयानीपिता। 
+- उशनाः भृगुपुत्रो दैत्यगुरुर् नीतिशास्त्रकृत्। हिरण्यकशिपु-प्रह्लाद-बलि-प्रभृतिभ्यः पुरोहितः। शशाप विष्णुं स्वमातृहन्तारं ७धा भुवि जातुम्। देवयानीपिता। 
 - उल्लेखाः \- [PUI](http://www.sanskrit-lexicon.uni-koeln.de/scans/PUIScan/2014/web/webtc/servepdf.php?page=3-438).
 - प्रजाः -
     - देवयानी च ययातिपत्नीः। पुत्रौ -
@@ -87,18 +87,18 @@ title: भार्गवाः
 
 #### च्यवनः/ च्यवानः 
 - महायुर्वेदवित्। च्यवनप्राशस्य कर्ता। भृगुपुत्रः पौलोमिः, शीघ्रप्रसवोऽभूदस्येति च्यवनः \- जन्मक्षणे मातृपीडकं पुलोमाख्य-राक्षसं ददाह।
-    - तस्य नेत्रे ऽज्ञानेन विद्धे भाविपत्न्या सुकन्यया, न तथाऽपि क्रोधं जगाम। पुनरश्विनीकुमारसहकारेण प्राप यौवनमनामयञ्च। अश्विनीकुमाराभ्यां सोमदाता, तेनेन्द्रस्य च धर्षयिता।  \[[विकिः](https://en.wikipedia.org/wiki/Chyavana)। पुराणकोशे [ऽत्र](https://archive.org/stream/puranicencyclopa00maniuoft#page/189/mode/1up)।\] 
+    - तस्य नेत्रे ऽज्ञानेन विद्धे भाविपत्न्या सुकन्यया, न तथाऽपि क्रोधं जगाम। पुनरश्विनीकुमारसहकारेण प्राप यौवनमनामयञ्च। अश्विनीकुमाराभ्यां सोमदाता, तेनेन्द्रस्य च धर्षयिता।  \[[विकिः](https://en.wikipedia.org/wiki/Chyavana)। पुराणकोशे [ऽत्र](https://archive.org/stream/puranicencyclopa00maniuoft#page/189/mode/1up)।\] 
     - आरुषी मनुपुत्र्य् अपि तत्पत्नीति क्वचित्।
 
 ##### प्रजाः 
 - आप्नवानः
-- अरिष्टषेणः → अनूपः →नीरथः
+- अरिष्टषेणः → अनूपः →नीरथः
 - प्रमतिः →रुरुः →शुनकः →शौनकः
-    - नेमः → स्यूमरष्मी → इटन्तः
+    - नेमः → स्यूमरष्मी → इटन्तः
     - प्रयोगः
 
 #### आप्नवानः 
-- [PUI](http://www.sanskrit-lexicon.uni-koeln.de/scans/PUIScan/2014/web/webtc/servepdf.php?page=1-163). 
+- [PUI](http://www.sanskrit-lexicon.uni-koeln.de/scans/PUIScan/2014/web/webtc/servepdf.php?page=1-163). 
 
 #### ऊर्वः/ और्वः/ ऊरुजः -
 - च्यवनाद् अरुष्यां जातः इति केचित्। अप्नवान-सूनुरिति अन्ये।
@@ -113,7 +113,7 @@ title: भार्गवाः
       - हिरण्यदान्।
       - निमथित
 
-#### ऋचीकः 
+#### ऋचीकः 
 (ऊर्वो ऋचीकपुत्र इति केचित्! \[[PE](http://www.sanskrit-lexicon.uni-koeln.de/scans/PEScan/2014/web/webtc/servepdf.php?page=570)\])-
     - चन्द्रवंशिनो राज्ञः गाधेः विश्वामित्रपितुः पुत्रीं सत्यवतीं पर्यनयत्, तस्मै १००० अश्वविशेषान् दत्त्वा।
     - ब्राह्मण-क्षत्रिय-प्रकृत्योः विश्वामित्रजमदग्न्योर् जन्मनि तद्धोमकर्म कारणमिति वदन्ति।
@@ -137,7 +137,7 @@ title: भार्गवाः
 
 ##### प्रजाः 
 - भार्गवो रामः
-- अन्ये \- Ṛumaṇvān, Suhotra, Vasu  and Viśvāvasu
+- अन्ये \- Ṛumaṇvān, Suhotra, Vasu  and Viśvāvasu
     - >alekhana→sharkarakSha→sanka→pila→vihInara→barha→R^itabhAga→etaSha→aitaSha→somashuShman→jana→savarNa→jihItaya→maNDavit→suviShTa→vikarNa→... अत्र **श्रीवत्सगोत्रम्**!
 
 
@@ -148,10 +148,10 @@ title: भार्गवाः
 - ततस् स हि पितृहत्याप्रतीकारं लेभे दुष्टक्षत्रियान् हत्वा (१८ वारं वा, २१ वारं वा), तद्रुधिरसरोभ्यस् सप्तभ्यस् तर्पणान्य् अर्पयित्वा। प्रीताः पितरस् तत् क्षेत्रं समन्तपञ्चकं पुण्यं चक्रुः। पापान् मोचयाञ्चक्रुश्च। ततो यागदानादयः कृता अनेन। काश्यपाय भूमिं दत्त्वा दक्षिणसमुद्रप्रान्ते वासाय चोदितः, तदर्थं वरुणेन नूतनभूमिर्दत्ता।
 - राघवेण रामेन हतदर्पः पितृकृपया तपᳶप्रभावेन च स्वतेजसं पुनराप।
 - अम्बाप्रार्थनया सकृद् भीष्मेण युयोध।
--  \[p= [568](http://www.sanskrit-lexicon.uni-koeln.de/scans/PEScan/2014/web/webtc/servepdf.php?page=568),2\] 
+-  \[p= [568](http://www.sanskrit-lexicon.uni-koeln.de/scans/PEScan/2014/web/webtc/servepdf.php?page=568),2\] 
 
 ## दत्तक-भार्गवाः / केवल-भार्गवाः
-- भारद्वाजश् शुनहोत्रः \-\> शौनहोत्र = गृत्समदः \- शुनकः \- शौनकः पुराणवाचकः।
+- भारद्वाजश् शुनहोत्रः \-\> शौनहोत्र = गृत्समदः \- शुनकः \- शौनकः पुराणवाचकः।
 - वध्र्यश्वः (विवृषणाश्वः इत्यर्थः :-)) → दिवोदासः राजा →मित्रायुः ब्रह्मिष्ठः च्यवनपिता → ततो भार्गवा मैत्रायवः। (purANa-index)
 
 ## अन्ये प्रसिद्धा भार्गवाः

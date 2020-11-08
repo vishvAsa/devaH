@@ -48,10 +48,10 @@ unicode_script: devanagari
 
 - पारम्परिक-गान-मूलम् 
   - [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n55/mode/1up)
-  - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n51/mode/2up)
-  - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
+  - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n53/mode/2up)
+  - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n5/mode/1up)
 
-- कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume2SatyavrataSamasrami1876bis_201804/page/n443)।
+- कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume2SatyavrataSamasrami1876bis_201804/page/n443) ।
 
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/Akrandaya-mahAsAman
@@ -61,12 +61,12 @@ unicode_script: devanagari
 
 
 महासाम ।  
-आ+++([])+++, क्रन्दा,योवा ।  
-कू+++([])+++रु,घोषं, महा+++([])+++अ ।आ+++([])+++ता+++([])+++,अम् ।  
-ह+++([])+++रीन्द्रस्याभियोजया+++([])+++अ ।  
-आ+++([])+++शू+++([])+++उ ।  
+आ+++(["र]%)+++, क्रन्दायो+++(%)+++वा+++(३--%)+++ ।  
+कू+++([पो])+++रु+++(")+++, घोषं+++(")+++, महा+++([प्रे~~पे~~])+++अ+++(ँ)+++,,आ+++([ता]%)+++ता+++([प्रे])+++अम् ।  
+ह+++([ता])+++री+++(इ")+++न्द्रस्याभि+++(")+++योजया+++([प्रे])+++अ ।  
+आ+++([ता]%)+++शू+++([प्रे])+++उ ।  
 
-मर्मा,विधं, दधता,मन्यो+++([])+++ఒ । आन्या+++([])+++अ० ।  
-श+++([])+++ल्यात्मा, पदतु, श्लोक,माअअ ।  
-आ+++([])+++,अछा+++([])+++अअ औ+++([])+++होवाअ । 
-अस् ॥७॥
+म+++([पो])+++र्मा+++(")+++विधं+++(")+++ दधता+++(")+++म् अन्यो+++([प्रे])+++ऒ । आ+++([ता]%)+++न्या+++([प्रे])+++अम् ।  
+श+++([पौ])+++ल्यात्मा+++(")+++ पत+++(~~द~~)+++तु श्लोकमा+++(३--%)+++अ+++(२)+++ ।  
+आ+++([ता]")+++,अच्छा+++([टू])+++अअ औ+++(["प])+++हो+++(["]३%)+++वाअ । 
+अस्[अ]+++(३)+++ ॥७॥
