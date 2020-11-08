@@ -5,7 +5,7 @@ unicode_script: devanagari
 practice_weight: 0
 ---
 
-[एवं](https://manasataramgini.wordpress.com/2017/07/01/a-note-on-the-asterisms-forming-the-nak%E1%B9%A3atra-s/) मानसतरङ्गिणीकारः। 
+स्थानम् - पञ्चिका ३, अध्याय ३ (आदितः १३), ३३, षड्गुरुशिष्यभाष्यम् [अत्र](https://archive.org/details/in.ernet.dli.2015.493804/page/n571/mode/2up), सायणो [ऽत्र](https://archive.org/details/in.ernet.dli.2015.292710/page/n182/mode/1up)। [एवं](https://manasataramgini.wordpress.com/2017/07/01/a-note-on-the-asterisms-forming-the-nak%E1%B9%A3atra-s/) मानसतरङ्गिणीकारः।
 
 ## रोहिण्यनुसरणम्
 प्रजापतिर् +++(मृगशिरा भूत्वा )+++ वै स्वां दुहितरम्+++(=रोहिणीम्)+++ अभ्यध्यायद् । दिवम् इत्य् अन्य आहुर् उषसम् इत्य् अन्ये । ताम् ऋश्यो +++(मृगो)+++ भूत्वा +++(लज्जया)+++ रोहितम् भूताम् अनुयैत् । तं देवा अपश्यन्न् - आकृतं वै प्रजापतिः करोतीति । 

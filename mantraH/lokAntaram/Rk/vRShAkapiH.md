@@ -5,8 +5,7 @@ practice_weight = 0
 +++
 
 ## परिचयः
-- सूक्ते ऽस्मिन् स्वाभिप्रायो बालगङ्गाधरार्याद् ईषद् भिन्नः - स उक्षसङ्केतं न जग्राह।
-
+- सूक्ते ऽस्मिन् स्वाभिप्रायो बालगङ्गाधरार्याद् ईषद् भिन्नः - स उक्षसङ्केतं न जग्राह। We place the myth in the rohiNI/ kRttikA era instead of the mArgashIrSha epoch.
 - पुरा Sacrificial period = devayAna = uttarAyaNa was defined as vernal equinox to autumnal equinox; corresponding also to devanaxatra-s. "विश्वस्माद् इन्द्र उत्तरः" इत्यनेनैवोच्यते - नक्षत्रचक्रस्योत्तरभागो देवयज्ञयोग्य इति।
 - वृषाकपिर् नाम Orion। स एव रूपान्तरेण मृगशीर्षम्।
 - पुरा कल्पे विषुवस्थानं सौरं तत्रावर्तत। तेन हि स सोमाधिपतिर् बभूव, इन्द्रस्य सखा।
@@ -43,7 +42,7 @@ practice_weight = 0
 +++(इन्द्रः - )+++  
 किम् अ॒यं त्वां वृ॒षाक॑पिश्  
 च॒कार॒ +++(सूर्यसंसर्गाद् इन्द्रप्रीत्या च)+++ हरि॑तो+++(=सुवर्णो)+++ मृ॒गः ।  
-यस्मा॑ +++(ईर्ष्याम्)+++ इर॒स्यसि+++(=यच्छसि)+++ +इद् उ॒ न्व्?  
+यस्मा॑ +++(ईर्ष्याम्)+++ इर॒स्यसि॑+++(=यच्छसि)+++ +इद् उ॒ न्व्?  
 अ१॒॑र्यो वा॑ पुष्टि॒मद् वसु॒?  
 विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥ १०.०८६.०३  
 
@@ -130,7 +129,7 @@ practice_weight = 0
 यं ते॑ सु॒नोति॑+++(→साधयति)+++ भाव॒युर् +++(इन्द्राणी)+++  
 विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥ १०.०८६.१५  
 
-न स+ईशे॒ यस्य॒ र+++(ल)+++म्ब॑ते  
+न स+ई॒शे॒ यस्य॒ र+++(ल)+++म्ब॑ते  
 ऽन्त॒रा स॒क्थ्या॒३॒॑+++(=ऊर्वा)+++ कपृ॑त्+++(=शेफः)+++ ।  
 सेद् ई॑शे॒ यस्य॑ रोम॒शं+++(→उपस्थं)+++  
 नि॑षे॒दुषो॑ +++(मयि मग्नस्य)+++ वि॒जृम्भ॑ते॒  
@@ -138,7 +137,7 @@ practice_weight = 0
 विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥ १०.०८६.१६  
 
 +++(इन्द्रः - )+++  
-न स+ईशे॒ यस्य॑ रोम॒शं  
+न स+ई॒शे॒ यस्य॑ रोम॒शं  
 नि॑षे॒दुषो॑ वि॒जृम्भ॑ते ।  
 सेदी॑शे॒ यस्य॒ र+++(ल)+++म्ब॑ते  
 ऽन्त॒रा स॒क्थ्या॒३॒॑ कपृ॒द्+++(=शेफः)+++  
@@ -149,7 +148,7 @@ practice_weight = 0
 अ॒यम् इ॑न्द्र वृ॒षाक॑पिः॒  
 पर॑स्वन्तं+++(=परस्वं)+++ ह॒तं वि॑दत् ।  
 अ॒सिं सू॒नां नवं॑ च॒रुम्+++(=भाण्डम्)+++  
-आद्+++(=ततः)+++ एध॒स्य+++(=काष्ठस्य)+++ +अन॒+++(=शकटं)+++ आचि॑तं॒+++(=पूर्णम्)+++  
+आद्+++(=ततः)+++ एध॑स्य॒+++(=काष्ठस्य)+++ +अन॒+++(=शकटं)+++ आचि॑तं॒+++(=पूर्णम्)+++  
 +++(प्रजापतेः शकट इत्यपि प्रसिद्धः वृषराशिः!)+++  
 विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥ १०.०८६.१८  
 
@@ -186,13 +185,3 @@ practice_weight = 0
 भ॒द्रं भ॑ल॒+++(=भेदक +असे)+++ त्यस्या॑+++(=तस्या [इन्द्राण्या])+++ अभू॒द्  
 यस्या॑ उ॒दर॒म् आम॑य॒द् +++(भोजनेन)+++  
 विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥ १०.०८६.२३
-
-## देवतास्व् अभिप्रायाः
-- स्रोतः - Orion by BG Tilak.
-- As there is only one hymn in the r̥gveda which gives the story, it is not so easy, as in the case of the r̥bhus, to determine the nature of the deity, and hence various conjectures have been made by scholars as to its origin, character and meaning. The deities appear both in the masculine and in the feminine form, Vr̥ṣākapi and Vr̥shakapayī.
-- In the Br̥had-devatā Vr̥ṣākapi is said to represent the setting sun, and Vr̥shakapayī the gloaming.
-- Yāska (12. 27) would derive the word so as to mean the sun who shakes (the world) with his rays, and his commentator observes that the god showers mist or dew and shakes the animate world.
-- Amara\* considers that Vr̥ṣākapi means either Vishṇu or Shiva, and Vr̥shakapayī either Lakshmi or Gaurī. +++(\* Amara iii. 3. 130 and 156. हरो विष्णुर् वृषाकपिः and वृषाकपायी श्रीगौर्योः।)+++
-- had Yāska and Sāyaṇa known that there is a constellation called dog in the heavens by the side of Mr̥gaśiras, I feel certain that they would not have hesitated to recognize in Vr̥ṣākapi, the sun as represented by the constellation of Orion.
-- Prof. Max Müller, in one place, +++(Lectures on the Science of Language Vol. II., p. 539, )+++ observes that "it is difficult, on seeing the game of Vr̥ṣākapi, not to think of Erikapaeos, an Orphic name of Protogonos and synonymous with Phanes, Helios, Priapos, Dionysos," but, says he, "the original conception of Vr̥ṣākapi (Vr̥shan, bull, irrigator; Kapi, ape, tremulous) is not much clearer than that of Erikapireos."
-
