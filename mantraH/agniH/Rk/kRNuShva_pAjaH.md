@@ -7,8 +7,8 @@ status: to_memorize
 practice_weight: 5
 ---
 
-- सायणः \- तैत्तिरीयभाष्ये [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_1_-_Kasinath_Sastri_Agase_1940#page/n325/mode/2up)। ऋग्भाष्ये [ऽत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart2/rv_sayanabhasya_part2#page/n573/mode/2up)।
-- तत्रैव 'मदे चिदस्य ’ इत्यर्धर्चम् एवोद्धृत्य। तैत्तिरीयभाष्ये [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_1_-_Kasinath_Sastri_Agase_1940#page/n327/mode/2up)। 
+- सायणः \- तैत्तिरीयभाष्ये [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_1_-_Kasinath_Sastri_Agase_1940#page/n325/mode/2up)। ऋग्भाष्ये [ऽत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart2/rv_sayanabhasya_part2#page/n573/mode/2up)।
+- तत्रैव 'मदे चिदस्य ’ इत्यर्धर्चम् एवोद्धृत्य। तैत्तिरीयभाष्ये [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_1_-_Kasinath_Sastri_Agase_1940#page/n327/mode/2up)। 
 
 ## आह्वानम्
 कृ॒णु॒ष्व पाजः॒ +++(=तेजः)+++ प्रसि॑ति॒न् +++(=जालं)+++ न पृ॒थ्वीं  
@@ -77,7 +77,7 @@ practice_weight: 5
 
 +++(उतथ्यभार्या ममता। तस्याम् बृहस्पतिर् रेतः स्थापयितुम् अयतत। तत्र वर्तमानं रेतोऽन्तरम् आक्षिपत्। बृहस्पतिर् अशपत् तम् दीर्घतमा भवेति। सोऽ अग्नेर् अलभत चक्षुः।)+++  
 ये पा॒यवो॑ मामते॒यन् ते॑ अग्ने॒  
-पश्य॑न्तो अ॒न्धन्+ दु॑रि॒ताद् अर॑क्षन् ।  
+पश्य॑न्तो अ॒न्धन् दु॑रि॒ताद् अर॑क्षन् ।  
 र॒रक्ष॒ तान्त् सु॒कृतो॑ वि॒श्ववे॑दा॒  
 दिप्स॑न्त॒ +++(दम्भितुकामाः)+++ इद् रि॒पवो॒ ना ह॑ दे॒भुः +++(=परिभवन्ति)+++ ॥
 

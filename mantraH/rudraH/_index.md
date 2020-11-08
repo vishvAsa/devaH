@@ -28,8 +28,8 @@ title: +रुद्रः
 ### लिङ्गम्
 - linga can mean both a symbol and a phallus.
 - Though to modern devotees, the linga tends to be a symbol of shiva (with no sexual connotations), it had associations with the erect human phallus, representing the yogic Urdhvaretas power and paradoxical fertility of shiva.
-    - Eg. the ancient linga at [guDimallam](https://en.wikipedia.org/wiki/Gudimallam). There are also several images of shiva with an erect phallus.
-    - किरातपतेर् ऊर्ध्वरेतस्त्वं यो न जानाति स खलु प्रायेण नावगच्छति लिङ्गस्य स्वारस्यमित्य् अनुमामि। 
+    - Eg. the ancient linga at [guDimallam](https://en.wikipedia.org/wiki/Gudimallam). There are also several images of shiva with an erect phallus.
+    - किरातपतेर् ऊर्ध्वरेतस्त्वं यो न जानाति स खलु प्रायेण नावगच्छति लिङ्गस्य स्वारस्यमित्य् अनुमामि। 
 - "What is embarrassing about the phallic significance of the Śivaliṅga? People keep repeating verses praising the head & feet of the deva but get disgusted at a symbol that connotes what? The eternal fatherhood & motherhood of Śiva & his inseparable Śakti. I don’t care if getting defensive about the phallic significance is the politically “right” stance to take as per the prude-tva consensus. I am & will be a Śaiva till my last breath & will never be apologetic for the phallic significance of the Śivaliṅga. ... I don’t care for such immature folks. I care for the opinion of Śrī-Upamanyu-Ṛṣi who states in Mahābhārata that Śiva-Devī are the only deities whose signs/insignia are found on the very persons of all humans & even beasts."
 
 ## अश्विनौ

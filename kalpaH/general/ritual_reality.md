@@ -10,7 +10,7 @@ title: Ritual reality
 
 Even though, fundamentally, there is no sacred vs profane distinction in the hindu POV in terms of restriction of applicability of concepts such as "dharma" and "brahman", there is such distinction in the world of practice (a book should not be stepped on, though one can step on a shoe). Hindus are naturally emotionally affected by attacks or regard to these sacred entities. They serve to preserve some biases useful in the pursuit of dharma, artha and kaama.
 
-- "While H dharma has much diversity of praxis within it of course there are red lines. Fundamentally a religion does define the existence of a domain which might be termed sacred; which in the H system is related to praxis; so interference or infringement of those domains are red lines." \[[MT_TW](https://twitter.com/blog_supplement/status/703393262485282816)\]
+- "While H dharma has much diversity of praxis within it of course there are red lines. Fundamentally a religion does define the existence of a domain which might be termed sacred; which in the H system is related to praxis; so interference or infringement of those domains are red lines." \[[MT_TW](https://twitter.com/blog_supplement/status/703393262485282816)\]
 - vAma-tantra-s involve deliberate transgression of these sacred limits in the hopes of liberation. \[ST in Sutra\]
 
 #### Participation by abstinence

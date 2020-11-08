@@ -15,7 +15,7 @@ Finally, I'd add the same concept also extends to yantra-s: what distinguishes t
 
 ### शैवतन्त्रेषु
 - raurava-tantra: "न मीमांस्या विचार्या वा मन्त्राः स्वल्पधिया नरैः। प्रमाणमागमं कृत्वा श्रद्धातव्यं हितैषिभिः॥ सर्वे मन्त्रात्मक देवास् सर्वे मन्त्राः शिवात्मकाः। शिवात्मकमिदं ज्ञात्वैवमेवानुचिन्तयेत्॥ ... यावन्तो रुद्रदेवाश्च रक्षोयक्ष महेश्वराः। तावन् मन्त्राह् समाख्यातस् तेषाम् सम्ख्या न विद्यते॥ देशभाषा-निबद्धाश्च दिव्याक्षरपदैर्युताः। सर्वज्ञाः सर्वगाः शुद्धाः सर्वे सर्वज्ञ भाविताः॥"
-- parAkhya tantra [TW](https://twitter.com/GhorAngirasa/status/867148873692835840). mantreshvaras/ vidyeshvaras as embodied aspects of brahman [TW](https://twitter.com/GhorAngirasa/status/899223199996461056), associated with particular mantra-s. The vidyesha-s are denied union with brahman just so that they can uplift us, and are therefore quite disgusted by the world (and irritable). Knowledge of this embodiment makes reverence and formality surrounding a mantra common-sense.
+- parAkhya tantra [TW](https://twitter.com/GhorAngirasa/status/867148873692835840). mantreshvaras/ vidyeshvaras as embodied aspects of brahman [TW](https://twitter.com/GhorAngirasa/status/899223199996461056), associated with particular mantra-s. The vidyesha-s are denied union with brahman just so that they can uplift us, and are therefore quite disgusted by the world (and irritable). Knowledge of this embodiment makes reverence and formality surrounding a mantra common-sense.
 - "They are deities embodied in the form of objects or sounds. When one receives a mantra from an ācārya/guru (a teacher), having received proper initiation, and recites every letter of it with caution and competence, he is manifesting that very mantradevata (mantra-deity) in his mind and body, and receives the grace of that deity in the form of sound. The same goes for the very texts themselves: कामिकं पादयुग्मं स्याद्योगजं गुल्फमेव च। चिन्त्यं पादाङ्गुलिः प्रोक्तः कारणं जङ्घिका भवेत्॥" {[GA18](http://indiafacts.org/text-as-text-text-as-deity-reconciling-ritual-rules-of-textual-traditions-with-devotion-to-the-gods/)}
 
 ### वैष्णवतन्त्रेषु
@@ -28,8 +28,8 @@ pauṣkara āgama states:
 
 ## Avesha
 
-Excerpts from an insightful comment from another thread by shrI[ manISha-paNDita](): 
+Excerpts from an insightful comment from another thread by shrI[ manISha-paNDita](): 
 
-"The mantra first creates an image of the deity which is inherently present within the mantra. That image when strong enough to take a life of its own "shields the mind". The image starts finally getting replaced for moments at a time with the actual Devatha. ..... <snip> The more the sadhaka who has managed to attract a certain Devata on occasion... repeats that mantra... the more the Devata starts to descend into the consciousness of the sadhaka. The sadhaka changes and his or her mind and personality slowly start getting replaced with the personality of the Devata in question."
+"The mantra first creates an image of the deity which is inherently present within the mantra. That image when strong enough to take a life of its own "shields the mind". The image starts finally getting replaced for moments at a time with the actual Devatha. ..... <snip> The more the sadhaka who has managed to attract a certain Devata on occasion... repeats that mantra... the more the Devata starts to descend into the consciousness of the sadhaka. The sadhaka changes and his or her mind and personality slowly start getting replaced with the personality of the Devata in question."
 
-Also see notes on Avesha as an end in \[[IF16](http://indiafacts.org/brief-study-possession-hinduism-ii-spiritual-context/)\].
+Also see notes on Avesha as an end in \[[IF16](http://indiafacts.org/brief-study-possession-hinduism-ii-spiritual-context/)\].

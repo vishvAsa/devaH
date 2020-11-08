@@ -8,7 +8,7 @@ title: उपवीतधारणम्
 - "kAmikAgama gives adhikAra for upavIta for all 4 varNas, including all shUdras initiated into the shaiva religion."
 
 ### Women
-- Woman wearing yajnopavIta [TW16](https://twitter.com/blog_supplement/status/709601817584340992).
+- Woman wearing yajnopavIta [TW16](https://twitter.com/blog_supplement/status/709601817584340992).
 
 ## Practice
 - kShatriya-s
@@ -18,5 +18,5 @@ title: उपवीतधारणम्
 - shUdra-s
   - "Some of the villagers came to the Jeeyar and wondered if they could also wear the poonool (sacred thread) like the Jeeyar. The Jeeyar unhesitatingly assured them that they could but advised them about following a code of practice and applauding them for their interest He even affirmed them that if they were very keen he would perform the ritual for them." [vsk16](http://www.vsktamilnadu.org/2016/08/hindu-seer-turned-tables-on-jihadi.html)
 - Women:
-  - "इदानीमप्यौत्कल्यदेशे विवाहकाले कन्या धारयत्येव।  चतुर्थीकर्म पर्यन्तम्।  स्वयमेव दृष्टम्मया।"
+  - "इदानीमप्यौत्कल्यदेशे विवाहकाले कन्या धारयत्येव।  चतुर्थीकर्म पर्यन्तम्।  स्वयमेव दृष्टम्मया।"
 
