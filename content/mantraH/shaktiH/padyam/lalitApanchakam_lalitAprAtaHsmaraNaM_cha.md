@@ -1,5 +1,6 @@
 ---
 title: ललितापञ्चकम्
+practice_weight: 0
 ---
 
 <div class="videoEmbed"  src="https://www.youtube.com/watch?v=1Sing1o94ck&feature=youtu.be" caption="mIrA-gItam"></div>
