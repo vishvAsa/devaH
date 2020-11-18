@@ -1,6 +1,7 @@
 ---
 title: अद्य नो देव
 unicode_script: devanagari
+practice_weight: 0
 ---
 
 अ꣣द्य꣡ नो꣢ देव सवितः  
