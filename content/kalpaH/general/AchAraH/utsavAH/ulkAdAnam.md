@@ -7,8 +7,9 @@ unicode_script = "devanagari"
 ### Pre-gunpowder
 - "उल्काहस्ता नराः कुर्युः पितॄणां मार्गदर्शनम्". Ulkas were used to show pitRs the way back to pitRloka.
   - pitRloka is known to be an area in the sky (eg: southern ecliptic hemisphere) since vedic times - so showing light high in the air is essential for showing the path.
-- ulka-s then indicated burning torches held high up or thrown into the air.
+- ulka-s then indicated burning torches/ objects held high up or thrown into the air.
   - Might have looked like Agni Keli/ Fire Fight at the Kateel Durga Parameswari Temple in Mangalore, India, where hundreds of devotees hurl burning palm branches at each other. [YT](https://www.youtube.com/watch?v=WrS2se3hUcU)
+  - Reminds one of flying embers in "तव॑ भ्र॒मास॑ आशु॒या प॑त॒न्त्यनु॑ स्पृश धृष॒ता (=अभिभवता) शोशु॑चानः । तपूꣳ॑ष्यग्ने जु॒ह्वा॑ पत॒ङ्गान् अस॑न्दितो॒ (=अनिरुद्धः) वि सृ॑ज॒ विष्व॑गु॒ल्काः ॥"
   - They crackle and sparkle - hence merit the name crackers.
 -  In Telugu states for a kid's first deepavali, elders hold his hand and make him light up the stem a castor plant called dīviṭi. (Even in kannaDa the word dIvaTige is used for mashaal.) It is smashed to ground. 'dubbu dubbu deepavali malli vacche nagula chaviti' is said during that.
 
