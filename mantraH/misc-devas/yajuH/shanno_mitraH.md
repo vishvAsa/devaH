@@ -1,7 +1,7 @@
 ---
 title: शन्नो मित्रः
 unicode_script: devanagari
-
+practice_weight: 0
 ---
 
 शन् नो॑ मि॒त्रश्, शव्ँ वरु॑णः ।  
