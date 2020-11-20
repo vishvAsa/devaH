@@ -17,8 +17,8 @@ title: Food आहारः
 - पञ्चनखेषु
     - पञ्च पञ्च नखा भक्ष्या ब्रह्मक्षत्रेण राघव 4.17.38।। शल्यक श्श्वाविधो गोधा शशः कूर्मश्च पञ्चमः। (नान्ये)
 
-### क्याकवः
-- Likewise a mushroom with an umbrella-shape ChattrAkAara is proscribed in the dietary laws of V1s. 
+### कवकानि
+- Likewise a mushroom with an umbrella-shape ChattrAkAara is proscribed in the dietary laws of V1s. medhAtithi on manu [here](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200379.html). 
 
 ## Factors towards vegetarianism. 
 - Historical reasons. Why do many types of hindu-s not eat meat? Because their parents and relatives did not eat meat, and they have no idea why, and it is now a matter of cultural identity. Ok, why did this practice start and why was it sustained?
