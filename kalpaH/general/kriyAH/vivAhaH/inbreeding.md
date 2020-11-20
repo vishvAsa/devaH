@@ -6,7 +6,7 @@ title = "Inbreeding"
 - PV kANe and others proposed this reform: "sApiNDya rules exactly suffice on both sides."
 
 ## धर्मशास्त्रेष्व् अभिप्रायः
-- असपिण्डा च या मातुरसगोत्रा च या पितुः । सा प्रशस्ता द्विजातीनां दारकर्मणि मैथुने ॥ इति मनुः। विस्तारो [ऽत्र](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc199777.html)।
+- असपिण्डा च या मातुर् असगोत्रा च या पितुः । सा प्रशस्ता द्विजातीनां दारकर्मणि मैथुने ॥ इति मनुः। विस्तारो [ऽत्र](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc199777.html)।
 - Gautama (4. 2-5).—‘Marriage should he performed with persons not belonging to the same Pravara;—above the Seventh grade among his paternal relations;—also beyond persons of the same seed;—and above the fifth grade among maternal relations.’
 - Vaśiṣṭḥa (8. 1, 2).—‘He should marry a girl who has no common Ṛṣi (as her ancestor).........; nor one who is in the seventh grade among his paternal and in the fifth grade among his maternal relations.’
 - Bodhāyana (2. 1. 38).—‘If he unknowingly marries a girl who is of the same gotra as his mother, he should maintain her as his mother; if he has got a child from her, he should perform the following expiation.........’
