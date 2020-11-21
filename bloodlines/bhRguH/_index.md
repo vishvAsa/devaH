@@ -2,7 +2,10 @@
 title = "+भार्गवाः"
 
 +++
-![](http://i.imgur.com/PE5PKDj.png)
+
+{{< figure src="images/bhRgu-prajAH_MT.png" title="" class="thumbnail">}}
+
+{{< figure src="images/bhRgu-prajAH.png" title="" class="thumbnail">}}
 
 {{< figure src="images/nirNayasindhu-bhArgavagotrANi.jpg" title="" class="thumbnail">}}
 
@@ -46,10 +49,13 @@ title = "+भार्गवाः"
     - भृगुस्मृतिः [अत्र](https://archive.org/details/bhRgu-smRti-print)। (अत्र evolution-विषयः)
 
 ## अन्ये प्रसिद्धा भार्गवाः
-- अपरे \- पैलः ऋग्वेद-प्रचारकः व्यास-शिष्यः।
+- पैलः ऋग्वेद-प्रचारकः व्यास-शिष्यः।
 - काशकृत्स्नो वैयाकरणः। (बोधायन-प्रवराध्यायात्)
 - Vāmana-bhaṭṭa-bāṇa (14th–15th cen. CE) hailed from Koṇḍavīḍu, a princely state in Andhra. In his prose poem Vema-bhūpāla-carita ("बाणादन्ये कवयः काणाः खलु सरसगद्यसरणीषु। इति जगति रूढमयशो वामनबाणोऽपमार्ष्टि वत्सकुलः॥")
 
 
 ### ऐतशायनाः
 - "Etaśa is in the kauṣītaki brāhmaṇa1 the name of a sage who is said to have cursed his children because they interrupted him in the midst of a rite; hence the Aitaśāyanas (descendants of etaśa) are declared to be the worst of the Bhṛgus. The same story appears in the aitareya Brāhmaṇā2 where, however, the sage's name is aitaśa, and the Aitaśāyanas are described as the worst of the Aurvas."
+
+### मध्वः
+a भास्कर of भार्गवाः (अज्ञातगोत्रः)-born at पाजकक्षेत्र, KN, he propounded द्वैतवेदान्त through his भाष्याणि (commentaries) on ब्रह्मसूत्र, गीता & 10 main उपनिषदः -believed to be मुख्यप्राण himself
