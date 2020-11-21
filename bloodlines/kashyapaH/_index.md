@@ -11,7 +11,7 @@ unicode_script = "devanagari"
 - विनतया अरुणः, गरुडश् च।
 
 ## अर्वाचीनाः
-### कण्डादः
+### कणादः
 - propounded the वैशेषिक दर्शन. His system allowed a place for both the वेद (thus making it an आस्तिक दर्शन) & a framework which postulated अनुसिद्धान्त (doctrine of atoms) & natural forces such as gravity. A sample from वैशेषिकसूत्रम्
 
 ### व्यासतीर्थः
