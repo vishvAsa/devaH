@@ -1,5 +1,5 @@
 ---
-title: +भारद्वाजः
+title: +भारद्वाजाः
 unicode_script: devanagari
 ---
 
