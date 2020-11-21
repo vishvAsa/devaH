@@ -20,3 +20,6 @@ One of the most famous कवि-s, whose plays were lost for more than 1500 yea
 ### नेपाल-मल्ल-गुरवः
 - Avasthi surname among nepAl brAhmaNas means "agasti".
 -  these clans share a common ancestry with the northern ayyas of kuMbhaghoNa
+
+### अयोध्यासिंह उपाध्याय “हरिऔध”
+one of his ancestor settled down in Delhi (doesn’t say from where) when he took employment in service of Mughals (Jahangir). Maybe due to that, they were outcasted by the relatives, and eventually left Mughal employment to settle down first in the city of बदायूँ, then next generation moved towards Kashi and then Azamgarh (from where Rahul Sankrityayan also was). One of his ancestors had some fame as a scholar and teacher of Nyaya, wrote scholarly works. He doesn’t say where they were from before 1600s though. He himself was born in Azamgarh in eastern UP and lived all his life in and around Kashi. He taught at BHU.
