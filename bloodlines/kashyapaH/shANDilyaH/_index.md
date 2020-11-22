@@ -4,7 +4,7 @@ unicode_script = "devanagari"
 +++
 
 ## अर्वाचीनाः
-
+चित्राण्य् [अत्र](../images)।
 
 ### भास्कराचार्यः
 - Bhāskara (c. 1114–1185) also known as Bhāskarācārya  an Indian mathematician and astronomer.
