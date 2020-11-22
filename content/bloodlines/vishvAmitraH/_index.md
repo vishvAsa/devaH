@@ -27,3 +27,16 @@ title: +विश्वामित्रः
 ## अर्वाचीनाः
 ### वेदान्तदेशिकः, निगमान्त-महादेशिकः
 Known as कवितार्किकसिंह, this lion of poetry & logic was one of the greatest post-रामानुज आचार्य of the विशिष्टाद्वैतवेदान्त-श्रीवैष्णव-सम्प्रदाय; his genius manifesting in both संस्कृत & tamizh.
+
+### केशवदैवज्ञः
+Keśava composed the astronomical treatise called “Graha Kautuka” and several other works and commentaries on astronomy and astrology. Keśava has been considered as one of the best observational astronomers of ancient India.
+
+His father, Kamalakara, was also an eminent astronomer. 
+
+### गणेश-दैवज्ञः
+Ganeśa Daivajna, son of keshava, was a reputed astronomer and was born in Saka 1429 (ad 1507) at a village called Nandigrama on the Western Coast, about 40 miles south of Mumbai (Bombay) in the Konkan region of Maharashtra state. 
+
+Ganeśa himself authored several important treatises and manuals on astronomy and astrology. Included among them are “Grahalāghava,” “Laghu- and Brht-Tithi Chintamani,” a commentary on Bhaskara II’s “Siddharta Siromani,” “Buddhi Vilasini,” a commentary on Bhaskara II’s “Lilavati,” “Sraddha nirnaya,” “Patasārani,” and “Parva nimaya.” It is believed that Ganeśa composed his first work, “Graha Laghava,” when he was only 13 years old. “Laghu Tithi Chintamani” was composed in ad 1525 when he was 18 years old and “Buddhi Vilasini” in ad 1545.
+
+### गङ्गाधरः
+Gangadhara was a Vajasaneyi Brahmin belonging to Kaushika gotra. Fine astronomer. Gangadhara’s commentary on “Laghu Lāghava” is called “manorama.” His father himself has composed “Muhurta Mārtanda.” 
