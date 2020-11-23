@@ -28,6 +28,10 @@ dhArmika traditions comfortably got along without needing to read these as liter
 
 - Sallustius's extremely beneficial view is [excerpted here](../../darshanam/platonism/sallustius/).
 
+> I don’t believe anyone believes in a one-eyed man who is riding about on a horse with eight feet,” Hilmar Örn Hilmarsson, told Reuters. “We see the stories as poetic metaphors and a manifestation of the forces of nature and human psychology.” ... The priest said the gods are viewed as mystical and symbolic. Most modern worshipers don’t consider them to be living beings that are capable of flying down from the clouds. ... The Asatru religion might describe itself as poetic--but if some Christians, especially those in the Western hemisphere, were to take a literal look at the new altar to pagan gods they might consider it satanic.
+>
+> (The high priest of Ásatrúarfélagið, the norse temple in [DailyBeast](http://www.thedailybeast.com/articles/2015/02/05/why-iceland-is-building-a-temple-to-its-pagan-gods.html))
+
 ## Proving myths fallacy
 Despite this, some modern Hindu scholars have tried too hard "prove" myths as facts. \[nAgarAja's summary of bAlagangAdhara's thought here.\] :
 - 7\. One point is that narratives that can roughly be categorized as myth and legend have been there in a huge number throughout the world in all the ancient civilizations, in all the tribal and rural societies spread throughout the world. once the modern discipline and  category of 'history' came into existence as part of modernity, this new category along with all the elements of modernity got privileged over all other traditional forms of narrative. As a result, throughout the world, people started to attempt to prove their 'believed to be true' narratives as 'historical'.
