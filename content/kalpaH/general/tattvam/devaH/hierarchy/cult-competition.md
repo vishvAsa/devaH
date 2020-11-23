@@ -6,6 +6,8 @@ title: Competition among cults
 
 - The great sage Charles Darwin proposed the principle of natural selection. A generalization of his vision informs this narrative.
 - Every cult (or memeplex) that is more successful (ie fitter) than others (or successful at the cost of others) in the ecosystem of Indian minds, became so because of its superior adaptations. This spans not only hindu cults, but also buddhist ones - they were all in the meme pool competing against each other. You who use the term "comparative evolution" should consider these obvious parallels to biological evolution.
+
+## Examples
 - "The Prājāpatya-s competed with Viṣṇu for the two figures of the primordial turtle Kaśyapa and the primordial boar Varāha. While the former was originally associated with Indra (from the RV itself), the latter is hinted to be associated with Viṣṇu in the early AV tradition recorded in the Paippalāda-saṃhitā. However, the Prājāpatya-s laid a strong claim to both before Viṣṇu eventually won and claimed both the figures as his avatāra-s in the Post-Vedic period."
 - The govardhana incident is a transparent (and in hindsight successful) attempt by the kRShNa cult to supplant the ancient vaidika aindra cult. This we also see in the khANDava forest conflict, and it is in line with other paurANika cult competitions (eps. shiva vs viShNu, as in: narasimha → sharabha → gaNDaberuNDa chain).
 - buddhist subversion of hindu deities \[[MT1](https://manasataramgini.wordpress.com/2008/05/25/the-anti-shaiva-rants-of-the-nastika-s/), [MT2](https://manasataramgini.wordpress.com/2009/11/03/lama-taranatha%E2%80%99s-account-of-the-nastika-virupa-the-younger/), [TW1](https://twitter.com/blog_supplement/status/736035929631100928)\].
