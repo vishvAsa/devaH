@@ -5,7 +5,6 @@ title: Essence
 ## Epistemological essence
 
 - The classical hindu view is that the world is permeated with consciousness.
-- Beyond this, one [vaidika view](https://youtu.be/DUsZ_5A7-Ho?list=PLhPjckGlZ7rQFXvhumWnIctUgARdPYayL&t=228) \[[YT](https://youtu.be/DUsZ_5A7-Ho?list=PLhPjckGlZ7rQFXvhumWnIctUgARdPYayL&t=228)\] was that the devatA-s are conscious and willful entities attached to every single living or non-living substance. Prominently, they're in the natural objects/ forces/ motivations they personify.
 - In one point of view, the dEvatAs are actually concepts (and associated powers) which exist in the form of mantras and even entire texts - see citations in [V's mantra page](../../../../../mantra/)).
   - Consonance with modern views - Vishwa Adluri - "Rama is in the rAmAyaNa" [YT](https://twitter.com/agnimaan/status/1047594919085264896), [AR](https://archive.org/details/hindu-sanskrit-lectures/20180929-0001-ThinkOlio+_+Time%2C+Desire+and+Action+-+Ramayana+and+The+Cosmic+Game.mp3).
   - "रसो वै सः" इति श्रुतिः।
