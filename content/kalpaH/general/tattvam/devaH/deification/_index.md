@@ -1,7 +1,7 @@
 +++
 title = "+Deification"
 +++
-
+__
 ## Apotheosis and divine incarnation
 
 - In the hindu traditions raising humans to a divine level is very easy and common.

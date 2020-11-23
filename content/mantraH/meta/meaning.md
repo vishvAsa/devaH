@@ -8,13 +8,20 @@ title: Meaning
 
 ## Meaning denouncers
 - Some claim that it is not necessary to understand what the words in the mantra mean (to whatever extant the grammar would allow). 
-- "The chArvAka holds that the mantra-s are useless & probably senseless too. In support of the latter he would cite the famous vaidika jarbharI turpharI sUkta to the ashvin-s by a certain kAshyapa and point out the eponymous words are unetymologizable in Skt & convey the senselessness of mantra-s in addition to their uselessness."
-- The kautsa in contrast is a v1 who doesn't say that mantra-s are useless; he wants them to be appropriately pronounced with fidelity but sees them as mostly meaningless because: 
-  - 1) they follow a fixed word order whereas a real sentence would alter that word order in different ways (especially in Skt). 
-  - 2) The literal understanding of a mantra text in Skt results in meanings that cannot possibly be true.
-  - 3)They are replete with statements of opposite meaning. 
-- Via [MT](https://twitter.com/blog_supplement/status/1276383217290010626): Finally we have a third slightly different position who I suspect were the successors of the kautsa-s who were around during the classical mImAMsA exegesis. These chaps held that you can read meanings into mantra-s as they are for most part in Skt which you might understand directly or interpret like yAska & the shaunaka had done formerly. However, these meanings are not important, not the *purpose* of mantra & definitely not the intention of a mantra & its deployment. What was valid was it correct pronunciation & deployment at in the right ritual juncture. The nyAya of a blind man having eyes but they being dysfunctional is used by some proponents of this school. In some ways this is "kautsa lite".
-  - Via [MT](https://twitter.com/blog_supplement/status/1276383217290010626): However, despite opposition by influential AchArya-s this view has had a certain popular adherence. We see the average mantra-sAdhaka learning the shruti or other mantra-s by rote but not understanding their meaning at all. At times not even the most basic sense. However, this mantra-vAha might perform a ritual flawlessly without a clue of what he uttered in accompaniment. We see this a triumph of the kautsa position. 
+
+> The chArvAka holds that the mantra-s are useless & probably senseless too. In support of the latter he would cite the famous vaidika jarbharI turpharI sUkta to the ashvin-s by a certain kAshyapa and point out the eponymous words are unetymologizable in Skt & convey the senselessness of mantra-s in addition to their uselessness.
+>
+> The kautsa in contrast is a v1 who doesn't say that mantra-s are useless; he wants them to be appropriately pronounced with fidelity but sees them as mostly meaningless because:  
+> 1 they follow a fixed word order whereas a real sentence would alter that word order in different ways (especially in Skt).  
+> 2 The literal understanding of a mantra text in Skt results in meanings that cannot possibly be true.  
+> 3 They are replete with statements of opposite meaning. 
+> 
+> Finally we have a third slightly different position who I suspect were the successors of the kautsa-s who were around during the classical mImAMsA exegesis. These chaps held that you can read meanings into mantra-s as they are for most part in Skt which you might understand directly or interpret like yAska & the shaunaka had done formerly. However, these meanings are not important, not the *purpose* of mantra & definitely not the intention of a mantra & its deployment. What was valid was it correct pronunciation & deployment at in the right ritual juncture. The nyAya of a blind man having eyes but they being dysfunctional is used by some proponents of this school. In some ways this is "kautsa lite".
+> 
+> However, despite opposition by influential AchArya-s this view has had a certain popular adherence. We see the average mantra-sAdhaka learning the shruti or other mantra-s by rote but not understanding their meaning at all. At times not even the most basic sense. However, this mantra-vAha might perform a ritual flawlessly without a clue of what he uttered in accompaniment. We see this a triumph of the kautsa position. 
+> 
+> Via [MT](https://twitter.com/blog_supplement/status/1276383217290010626): 
+
 - kautsa opinion is denounced by authorities such as yAska, shaunaka and shikShA texts.
   - Such opinion is condemned in quotes in shikSha texts which denounce pATha without "understanding" with the aid of vedAnga-s (शीघ्रपाठी…). 
 
