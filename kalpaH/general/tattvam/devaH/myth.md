@@ -3,7 +3,7 @@ title: Myths
 ---
 
 ## Summary
-- The particular stories of deva-s (such as battles with asura-s) are not to be taken literally, according to the veda-s themselves (eg: [shatapatha-brAhmaNa asura-parAbhava part in 11.1.6](https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/shatapatha-asura-parAbhavaH/)).
+- The particular stories of deva-s (such as battles with asura-s) are not to be taken literally, according to the veda-s themselves (eg: [shatapatha-brAhmaNa asura-parAbhava part in 11.1.6](../../../../brAhmaNam/shatapatha-asura-parAbhavaH/)).
 - To derive benefits from the deva-s, one does not need belief in peripheral things like reincarnation, flying yogi-s, texts composing themselves, deities proffering boons and the like; at the same time, the hindu need not let questions like "How can monkeys talk?" hinder his enjoyment of the rAmAyaNa epics or his observance of [rAmanavamI](http://en.wikipedia.org/wiki/Rama_Navami) rituals. This is exactly the same as the concept of "[aesthetic distance](http://en.wikipedia.org/wiki/Aesthetic_distance)". Consider an actor in a play: he does not think "this is not real, I am not this character, this is a made up story" etc.. when acting. Neither does the full-hearted audience (sahRdaya rasika) insulate himself from feeling empathy with the characters on stage or in a book with similar questions.
 
 ### Implications
