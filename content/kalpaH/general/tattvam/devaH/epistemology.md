@@ -2,10 +2,6 @@
 title: Essence
 ---
 
-
-[![OM sUryAya namaH](../../../../images/gods/sUrya.jpg)](http://www.youtube.com/watch?v=vBbSbCczYeM&feature=autoplay&list=PLADEA3B94C0129539&index=4&playnext=3)
-[![](../../../../images/gods/sarasvatI.jpg)](http://www.youtube.com/watch?v=0GlkQWZAv7g)
-
 ## Epistemological essence
 
 - The classical hindu view is that the world is permeated with consciousness.
@@ -73,25 +69,3 @@ Also see notes on absorption of foreign deities at the [deity competition page](
 
 #### Examples elsewhere
 - Deified heroes among the Chinese \[[WP](https://agnimaan.wordpress.com/2016/03/26/guan-yu-pagan-reverence-of-anything-awesome/?fb_action_ids=10153616560317989&fb_action_types=news.publishes&fb_source=og_snowlift_photo_robotext)\]
-
-## Other near-human near-god beings
-### Among hindu-s
-
-#### Superhuman sky-travellers
-- siddha-s, chAraNa-s, vidyAdhara-s
-- gandharva-s
-- yakSha-s
-- asura-s and rAxasa-s (../also see [non-evil page](non-evil/))
-
-#### vAnara-s and the like
-- Possible inspiration from other coexisting homo-species
-    - Neanderthals and trolls and giants in Europe - [NA16](https://cogniarchae.wordpress.com/2016/12/01/neanderthals-in-ancient-mythology/).
-
-### Among non-hindu-s
-
-- Titans
-    - Mostly imprisoned in Tartarus, but some were revered "Saturn is identified with Kronos, a Titan, and yet has an important cult in Rome. Rhea, when she is identified with Kybele, also has important cultus in the Hellenistic era."
-- Giants and Trolls
-- Fairies
-- Elves
-- Dwarves
