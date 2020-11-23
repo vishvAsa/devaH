@@ -4,13 +4,13 @@ title: Science and magic
 
 ## Magic and supernatural phenomena
 
-- Supernatural claims were used to motivate and preserve "good" behavior (see [deities](../deva/), [karma](../Rta/) and rituals) \- just as one does in good legends and drama. They can, of course, be accepted in that sense from an aesthetic standpoint.  
+- Supernatural claims were used to motivate and preserve "good" behavior (see [deities](../devaH/), [karma](../Rtam/) and rituals) \- just as one does in good legends and drama. They can, of course, be accepted in that sense from an aesthetic standpoint.  
 - It was also supposed that one could attain one's goals (bringing rain, death of enemies, wealth, poetic abilities, freedom from debt, recovery of health etc..) through various rituals (chanting a mantra or a stotra, adoring a deity in certain ways).
   -  As GA said: "Too many people think tantra is about churning out supernatural effects that defy the operating laws of the universe at an extremely visible, public level. NO. Such effects are known & do exist, albeit at a private level.".
 
 ### Physical effect (in which life?)
 - There is no systematic credible evidence to support many of these claims (controlling for psychological effects) - as far as this life is concerned.
-- However, a natural resolution is that the goals are achieved in the next life (References in [karma](../Rta/karma/) section).
+- However, a natural resolution is that the goals are achieved in the next life (References in [karma](../Rtam/karma/) section).
 
 ### Psychological effects
 - Nevertheless, the rituals are themselves certainly useful in developing appropriate sentiments for the task. This applies to tasks and rituals involving multiple people (eg: a war party, or a family or even enemies observing the ritual) as well. Other benefits of rituals are discussed elsewhere.

@@ -26,7 +26,7 @@ dhArmika traditions comfortably got along without needing to read these as liter
 
 ## Comparable attitudes
 
-- Sallustius's extremely beneficial view is [excerpted here](../../darshana/platonism/sallustius/).
+- Sallustius's extremely beneficial view is [excerpted here](../../darshanam/platonism/sallustius/).
 
 ## Proving myths fallacy
 Despite this, some modern Hindu scholars have tried too hard "prove" myths as facts. \[nAgarAja's summary of bAlagangAdhara's thought here.\] :

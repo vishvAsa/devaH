@@ -41,7 +41,7 @@ title: Ananda addiction
 ## Origins of the Ananda-addiction
 
 - sampradAya-tree [here](https://drive.mindmup.com/map/16ppMA800tNBLadefIeUxO-vAXP98Pk8A).
-- The "supreme deity" concept gained prominent following as explained [here](../deva/index/), overtaking non-insistent personal preferences and "first among equals" aindra hierarchy.
+- The "supreme deity" concept gained prominent following as explained [here](../devaH/index/), overtaking non-insistent personal preferences and "first among equals" aindra hierarchy.
     - Thence was inspired ati-mArga.
         - The later pAshupata-s, who lived on the fringes of Arya society as part of one of their vrata-s, took to performing acts which attracted disgust from the Arya-s (carrying emblems of brahma-hatyA, wearing ashes). One already sees how some weird quest leads to adharma. These then gradually returned to mainstream society, constructing popular temples and spreading their ideas.
     - By the time the upaniShad-s were produced, the quest for Ananda became more and more emphasized.

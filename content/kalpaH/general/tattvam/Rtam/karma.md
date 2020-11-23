@@ -33,7 +33,7 @@ When does the fruit arise?
 
 ## Possible modifications
 
-However, it must be emphasized that the classical understanding of karma and punarjanma is not indispensable to the hindu worldview of the wonderful interconnected universe - or even to the notion of ethically responsible behavior. Indeed, all these concepts can be accepted as a useful, expedient and elegant fictitious framework (an upAya like the concept of deities explained [here](../deva/)). Otherwise, they can even given non-supernatural definitions, consequent to what one may call the nava-vaisheShika (modern atomist) metaphysics:
+However, it must be emphasized that the classical understanding of karma and punarjanma is not indispensable to the hindu worldview of the wonderful interconnected universe - or even to the notion of ethically responsible behavior. Indeed, all these concepts can be accepted as a useful, expedient and elegant fictitious framework (an upAya like the concept of deities explained [here](../devaH/)). Otherwise, they can even given non-supernatural definitions, consequent to what one may call the nava-vaisheShika (modern atomist) metaphysics:
 
 - For example, jIv[Atman](http://en.wikipedia.org/wiki/%C4%80tman_%28Hinduism%29) (The dichotomoy between the jIva-Atman and the body, a difference akin to the one between an algorithm and a computer, is very important in understanding Hindu thought and rituals.) is redefined to be an abstract concept which is equivalent to one's evolving personality.
 - The [sUkShma-sharIra](http://en.wikipedia.org/wiki/Subtle_body)a stands refuted as a vehicle of consciousness from this life to the next, and [punarjanma](http://en.wikipedia.org/wiki/Reincarnation) (reincarnation) is then just happen-stance.

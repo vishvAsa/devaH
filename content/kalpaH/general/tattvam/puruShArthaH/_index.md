@@ -27,7 +27,7 @@ The influence of (vedantic / yogic) asceticism or occidental condition causes ma
 - The vedAntin curailment/ ideal (consistent with their general nivRtti) is: "लोके व्यवायामिषमध्यसेव नित्या हि जन्तोर्न हि तत्र चोदना । व्यवस्थितिस्तेषु विवाहयज्ञ सुराग्रहैरासु निव्त्तिरिष्टा ॥".
 
 ## Spiritual highs
-One needs joy, satisfaction, and strength to follow and achieve the various [goals of life](../../tattvam/puruShArtha/), including [dharma](../../social-cultivation/dharma/). Spirituality (a focus on the development and maintenance of "good" mental states) is then an essential component of hindu self cultivation.
+One needs joy, satisfaction, and strength to follow and achieve the various [goals of life](/), including [dharma](../../social-cultivation/dharma/). Spirituality (a focus on the development and maintenance of "good" mental states) is then an essential component of hindu self cultivation.
 
 Secular/ spiritual non-separation: See [here](../../rivals/abe-disease/0-theism/secularism/).
 

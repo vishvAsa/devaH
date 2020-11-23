@@ -29,7 +29,7 @@ In the distant Indo Aryan vedic past, there were several polytheistic systems (o
 There was some fan following of particular deities based on personal preferences - but there was no firmly established doctrine to that effect.
 
 ### Origin stories and one puppet-master antaryAmin
-- The "many from one" view became well established. This is explained the [connection web section](../../../Rta/). Some systems took the original substance to be impersonal, others took it to be personal.
+- The "many from one" view became well established. This is explained the [connection web section](../../../Rtam/). Some systems took the original substance to be impersonal, others took it to be personal.
 - A value judgement: "Many from one" is good - "many forms of one" or "one antaryAmi puppet-master in everything" is where things risk of Ananda addiction begins to set in. But norse like "many from some thing(s)" seems safest.
 
 ### "puppet-master" concept gains prominence.
