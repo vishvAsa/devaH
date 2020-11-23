@@ -14,7 +14,7 @@ This has been variously presented in the tradition:
 
 #### Ideal realm
 - Rta is thought to be ultimately mathematical in nature. Its ultimate form is algebra (seen in natural laws of science expressed as symbol-relationships) which determines the functioning of the real world. \[[MT16](https://manasataramgini.wordpress.com/2016/10/23/syllable-number-and-rules-in-the-ideal-realm/)\]
-- Compare with [platonism](../darshana/platonism) of the yavanas.
+- Compare with [platonism](../darshanam/platonism) of the yavanas.
 
 > ṛco akṣare parame vyoman  
   yasmin devā adhi viśve niṣeduḥ |  

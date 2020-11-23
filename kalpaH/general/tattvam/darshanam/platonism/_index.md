@@ -84,7 +84,7 @@ See [sallustius](sallustius/).
 - the outer activity and effect of the First must be nous - pure and absolute “Consciousness”.  Hence the the second “Hypostasis”.
 - Consciousness would not be some kind of emergent property of material constituents arranged in a certain way, but rather be the first effect of the activity of the One.
 - "What, then, is the inner activity of Consciousness? The inherent task of consciousness is to understand, and understanding entails the cognition of causes. In trying to understand itself, Consciousness can only turn towards its origin and thus posit or behold the First as the transcendent principle of its own reality."
-- Compare with the [ideal realm of hindus](../../Rta/).
+- Compare with the [ideal realm of hindus](../../Rtam/).
 
 ### Forms
 - "Becoming thus aware of another entity, the originary unity of Consciousness breaks up into duality, and with it emerge the categories of identity and difference, of greater and smaller, of number, of change and of rest."
