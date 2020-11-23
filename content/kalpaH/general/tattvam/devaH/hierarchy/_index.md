@@ -3,8 +3,8 @@ title: +Hierarchy and Competition
 ---
 
 ## Intro
-- Various hindu views exist about hierarchies of power among deities.
-- Some place viShNu at the top, others shiva, others indra, others vAyu and so on.
+- Various hindu views exist about hierarchies of power among deities. Some place viShNu at the top, others shiva, others indra, others vAyu and so on.
+- My personal views are strongly platonic / polycentric.
 
 ### Harmony
 - Irrespective of specifics of hierarchy, all major hindu traditions assume great harmony among all the deva-s; and the vedic tradition necessarily involves adoring multiple deva-s in the prescribed rituals - no sectarian ifs and buts.
@@ -44,7 +44,7 @@ There was some fan following of particular deities based on personal preferences
 #### Consequences of sectarian "puppet-master" following.
 - Subscription to a puppet-master could, at an extreme, imply (partial and complete) abandonment and repudiation of other deities and duties at a personal level.
 - Examples:
-    - pAshupata-s urge devapitRkarmatyAga after accepting rudra as sole karta.
+    - pAshupata-s urge deva-pitR-karma--tyAga after accepting rudra as sole karta.
         - devavat pitṛvac ca // PS_2.10 //
         - ubhayaṃ tu rudre devāḥ pitaraś ca // PS_2.11 //
     - some fanatic lay shrIvaiShNava-s
