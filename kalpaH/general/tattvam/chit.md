@@ -1,12 +1,16 @@
 ---
-title: चित् The self
+title: चित् Consciousness
 ---
 
 ## सत् We exist.
 - "First: can we question our own existence? If yes, even such questions will be the product of our own existence." [SG_IF15](http://indiafacts.co.in/foundations-of-hinduism/)
 
 ## चित् 
-We are aware, to some extant at least. And we may even like it.
+We are aware, to some extant at least. And we may even like it. This is because we are conscious. 
+
+Consciousness is all-pervasive. A stone or dead wood is conscious but they are generally almost entirely of the guNa tamas.
+
+
 
 ## आनन्दः We want Happiness.
 - "Happiness is our highest goal. All our suffering, struggle, and effort invariably are exercises towards the attainment of happiness. Happiness is the one point where all our diverging natures converge." [SG_IF15-2](http://indiafacts.co.in/the-pillars/).
