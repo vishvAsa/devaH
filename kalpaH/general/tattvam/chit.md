@@ -8,7 +8,8 @@ title: चित् Consciousness
 ## चित् 
 We are aware, to some extant at least. And we may even like it. This is because we are conscious. 
 
-Consciousness is all-pervasive. A stone or dead wood is conscious but they are generally almost entirely of the guNa tamas.
+- Consciousness is fundamental constituent of the universe, more fundamental than time, space, matter and energy. We suppose this given the "hard problem of consciousness".
+- Consciousness is all-pervasive. A stone or dead wood is conscious but they are generally almost entirely of the guNa tamas.
 
 
 
