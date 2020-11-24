@@ -9,7 +9,7 @@ Indra of the Indo-Arya-s is not necessarily the same as Zeus of the Greeks or Ju
 
 That said, it is valid to approach new God shrines with reference to our experience with previous Gods. It is certainly possible for multiple Gods to be accessible from the very same icon/ portal - even if via the itermediary (mantresha) associated with the particular icon/ shrine. This is akin to multiple doctors sharing the same receptionist.
 
-Also see notes on absorption of foreign deities at the [deity competition page](../hierarchy/cult-competition/).
+Also see notes on absorption of foreign deities at the [deity competition page](../hierarchy/cult-competition/). 
 
 ### Gods in new shrines
 - Trinidad and Tobago
