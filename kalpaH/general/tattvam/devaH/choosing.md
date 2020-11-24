@@ -4,6 +4,7 @@ title = "Choosing"
 
 ## One vs many
 Pros and cons in either case:
+
 - Adoring the many:
   - More accommodating of other cults
   - Better explanation of vagaries of nature:
