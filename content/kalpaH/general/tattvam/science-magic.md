@@ -6,7 +6,7 @@ title: Science and magic
 
 - Supernatural claims were used to motivate and preserve "good" behavior (see [deities](../devaH/), [karma](../Rtam/) and rituals) \- just as one does in good legends and drama. They can, of course, be accepted in that sense from an aesthetic standpoint.  
 - It was also supposed that one could attain one's goals (bringing rain, death of enemies, wealth, poetic abilities, freedom from debt, recovery of health etc..) through various rituals (chanting a mantra or a stotra, adoring a deity in certain ways).
-  -  As GA said: "Too many people think tantra is about churning out supernatural effects that defy the operating laws of the universe at an extremely visible, public level. NO. Such effects are known & do exist, albeit at a private level.".
+  -  GA said: "Too many people think tantra is about churning out supernatural effects that defy the operating laws of the universe at an extremely visible, public level. NO. Such effects are known & do exist, albeit at a private level.".
 
 ### Physical effect (in which life?)
 - There is no systematic credible evidence to support many of these claims (controlling for psychological effects) - as far as this life is concerned.
@@ -22,14 +22,14 @@ title: Science and magic
 - Several spells and rituals attempt to bring misfortune to enemies (through the agency of various deities). Other spells and rituals counter these.
     - This might involve infilitration and planting of special ritual objects (valaga-s) in enemy territory.
     - In other traditions: Jewish \[[YT5](https://www.youtube.com/watch?v=BpXVt0kQwgY&app=desktop)\], Vodoo (with dattAtreya [YT1](https://youtu.be/Qd5kcqJPm1E?t=120))  
-- This might go to the extant of asking one deity to destroy another! Some incantations may even threated deities! (../see [here](../self-cultivation/rituals/))  
+- This might go to the extant of asking one deity to destroy another! Some incantations may even threaten deities!  
 
 
 ### Science vs scripture non-conflict
 
 The dominant fraction of Hindu thought did not see any conflict between the body of knowledge acquired by systematic application of the scientific method, which we call science, on one hand and other knowledge (such as concepts such as dharma, RNa) on the other. Cheers to Darwin! Examples:
 
-- **veda-s are parokSha-viShaya**. shankara lays out the importance of not contradicting direct (../or by extension near-direct) observation: "न हि श्रुतिशतमपि ‘शीतोऽग्निरप्रकाशो वा’ इति ब्रुवत् प्रामाण्यमुपैति । यदि ब्रूयात् ‘शीतोऽग्निरप्रकाशो वा’ इति, तथापि अर्थान्तरं श्रुतेः विवक्षितं कल्प्यम्। प्रामाण्यान्यथानुपपत्तेः। न तु प्रमाणान्तरविरुद्धं स्ववचनविरुद्धं वा ।" More in the "pramANa" page [here](../bases/books/index/).
+- **veda-s are parokSha-viShaya**. shankara lays out the importance of not contradicting direct (or by extension near-direct) observation: "न हि श्रुतिशतमपि ‘शीतोऽग्निरप्रकाशो वा’ इति ब्रुवत् प्रामाण्यमुपैति । यदि ब्रूयात् ‘शीतोऽग्निरप्रकाशो वा’ इति, तथापि अर्थान्तरं श्रुतेः विवक्षितं कल्प्यम्। प्रामाण्यान्यथानुपपत्तेः। न तु प्रमाणान्तरविरुद्धं स्ववचनविरुद्धं वा ।" More in the "pramANa" page [here](../bases/books/index/).
 - Scientific enquiry and openness to changing theories is clear early-on in our history.
 - On the all-knowing all-seeing supernatural abilities of yogi-s
 
@@ -42,7 +42,7 @@ On the other hand,
 - Certain devout people sometimes claim so-called "scientific" explanations for customs without properly understanding both: the custom itself and the meaning of "scientific" research.
 - Similarly, some reactionary atheists claim ritual is a waste of time without really understanding psychological benefits of ritual; with implicit belief that such a claim is "scientific". (Yet, the same people would find the japanese Tea ceremony - an intricate ritual - incredibly cool.) All this is apart from misquantifying the confidence they have in these beliefs as being 100%. When made aware of these defects, many people do correct themselves.
 
-Further, rational, error-free thought was highly regarded and sought after among the hindu-s, as the very structure of sAMkhya, nyAya, vaisheShika (../atomist) schools tell us. Of course there are remarkable achievements in mathematics, science engineering and medicine - described for example [here](../social-cultivation/intellect-sentiment/).  
+Further, rational, error-free thought was highly regarded and sought after among the hindu-s, as the very structure of sAMkhya, nyAya, vaisheShika (atomist) schools tell us. Of course there are remarkable achievements in mathematics, science engineering and medicine - described for example [here](../social-cultivation/intellect-sentiment/).  
 
 - One of the above images links to a fine video, from the TV series upaniShat-ga~NgA, about 12th century bhAskarAchArya, author of liilAvatii - which makes many mentions of skeptical strands of hindu thought, and of the heliocentric theory which was the norm at that time amongst jyothiShI-s.
 
