@@ -20,7 +20,7 @@ title: Myths
 dhArmika traditions comfortably got along without needing to read these as literal facts. (Eg. The concept of arthavAda.)
 - [shatapatha-brAhmaNa asura-parAbhava part in 11.1.6](https://vvasuki.github.io/saMskAra/kalpa/brAhmaNam/shatapatha-asura-parAbhavaH/)
 - There are many mythic elements in the purANa-s and the itihAsa-s, which guard against them being taken too literally (as more than allegories). The very nature of the hindu deities (multiple arms, animal heads etc..) ensure that they are not taken as literal statements of fact.
-- The concept of arthavAda was used in pUrva-mImAmsa to understand tales in the Veda-s, itihAsa-s and purANa-s as stories used to encourage dhArmika practice, rather than as history. However, they held that the veda-s are eternal expression of the divine order and that Vedic injunction is the sole means of knowing dharma. \[[AL01](http://www.advaita-vedanta.org/archives/advaita-l/2004-September/013449.html), (shabara-kumArIla-gangAdhara)[https://archive.org/stream/slokavartika015341mbp#page/n429/mode/2up]\]
+- The concept of arthavAda was used in pUrva-mImAmsa to understand tales in the Veda-s, itihAsa-s and purANa-s as stories used to encourage dhArmika practice, rather than as history. However, they held that the veda-s are eternal expression of the divine order and that Vedic injunction is the sole means of knowing dharma. \[[AL01](http://www.advaita-vedanta.org/archives/advaita-l/2004-September/013449.html), [shabara-kumArIla-gangAdhara](https://archive.org/stream/slokavartika015341mbp#page/n429/mode/2up) \]
   - This concept has been used by several later traditions as well.
 - Many modern and traditional scholars interpret claims and stories from hindu lore at multiple levels: Adhi-bhautika (phyiscal), Adhi-daivika (stories of the deva-s/ divine metaphors), and AdhyAtmika (spiritual allegories).
 
@@ -33,7 +33,10 @@ dhArmika traditions comfortably got along without needing to read these as liter
 > (The high priest of Ásatrúarfélagið, the norse temple in [DailyBeast](http://www.thedailybeast.com/articles/2015/02/05/why-iceland-is-building-a-temple-to-its-pagan-gods.html))
 
 ## Proving myths fallacy
-Despite this, some modern Hindu scholars have tried too hard "prove" myths as facts. \[nAgarAja's summary of bAlagangAdhara's thought here.\] :
+Despite this, some modern Hindu scholars have tried too hard "prove" myths as facts. 
+
+nAgarAja's summary of bAlagangAdhara's thought here:
+
 - 7\. One point is that narratives that can roughly be categorized as myth and legend have been there in a huge number throughout the world in all the ancient civilizations, in all the tribal and rural societies spread throughout the world. once the modern discipline and  category of 'history' came into existence as part of modernity, this new category along with all the elements of modernity got privileged over all other traditional forms of narrative. As a result, throughout the world, people started to attempt to prove their 'believed to be true' narratives as 'historical'.
 - 8\. Meanwhile, myth became a huge obsession in the west during modern period. People from various disciplines such as philosophy, psychology, cultural anthropology, philology etc., began to theorize myth. The pejorative use of the word myth as a word for non-real , false nation etc. took back seat in the wake of all these new theories. Some of these theories viewed myth as a kind of a 'degenerated'/'corrupted' history. But most of these theories posited myth as containing a different 'truth' than the one attempted to be captured by 'science' (of which 'history' is a part).
 - 9\. But attempts to trace 'historical' facts from Greco-Roman myths became a fashionable academic activity among general educated Europeans. It is such Europeans who after encountering Sanskrit books such as Mahabharata applied that approach to these Sanskrit books too.
