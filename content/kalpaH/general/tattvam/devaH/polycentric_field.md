@@ -1,8 +1,8 @@
 ---
-title: Polycentrism
+title: Polycentric field
 ---
 
-## Polycentric social field
+## Intro
 Definition: Mutual acknowledgement of certain multiple Gods (whatever the center) and intimate entanglement between their lores and cults defines a polycentric social field.
 
 - At a population level, that there is a "multiplicity of positive existential commitments" regarding the supreme deity is an empirical fact beyond dispute. Eg. Hinduism.
