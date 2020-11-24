@@ -1,4 +1,3 @@
 ---
-title: +devas
+title: +देवाः Gods
 ---
-
