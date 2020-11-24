@@ -2,7 +2,7 @@ name: Build Hugo site
 
 on:
   push:
-    branches: [ hugo-source ]
+    branches: [ master ]
 
 jobs:
   transform:
