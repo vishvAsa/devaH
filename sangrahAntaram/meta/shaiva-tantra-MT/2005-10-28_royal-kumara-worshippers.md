@@ -2,7 +2,7 @@
 title = "Royal kumAra worshippers"
 
 +++
-लेखकः - मनसतरङ्गिणीकारः।
+लेखकः - [मनसतरङ्गिणीकारः](https://manasataramgini.wordpress.com/)।
 
 The Shunga coins: The late Maurya and Shunga period has the square coins
 of the Ujjain series bearing the image of kumAra. They installed some
