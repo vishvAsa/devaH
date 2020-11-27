@@ -53,3 +53,8 @@ unicode_script = "devanagari"
 अघोर-घोरतरेभ्यश् च ।
 सर्वतः शर्वशर्वेभ्यो  
 नमस् ते रुद्र रूपेभ्यो नमः ॥  
+
+#### पश्चिमाम्नायसम्प्रदाये
+Used to invoke the bhairavI (as the shakti of navAtman bhairava), followed by the vyomavyApin & aghorAstra
+
+ॐ अघोरे-ऐम् अथ घोरे-ह्रीं घोरघोरतरे-श्रीं सर्वतः सर्वशर्वे-फ्रें रुद्ररूपे-ह्स्फ्रें नमस् ते ॥
