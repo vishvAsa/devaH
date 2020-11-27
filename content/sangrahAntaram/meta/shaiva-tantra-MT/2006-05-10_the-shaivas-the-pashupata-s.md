@@ -2,7 +2,7 @@
 title = "The shaivas: the pAshupata-s"
 
 +++
-लेखकः - मनसतरङ्गिणीकारः।
+लेखकः - [मनसतरङ्गिणीकारः](https://manasataramgini.wordpress.com/)।
 
 
 The early evolution of the shaiva fold is a topic of tremendous interest

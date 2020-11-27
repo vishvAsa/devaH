@@ -2,7 +2,7 @@
 title = "रुद्रतन्त्राणि"
 
 +++
-लेखकः - मनसतरङ्गिणीकारः।
+लेखकः - [मनसतरङ्गिणीकारः](https://manasataramgini.wordpress.com/)।
 
 urdhvasrotas- siddhAnta tantras  
 shivAgamas:  

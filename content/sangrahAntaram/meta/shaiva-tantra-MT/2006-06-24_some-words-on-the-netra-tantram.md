@@ -1,9 +1,8 @@
 +++
-title = "Some words on the netra tantraM"
+title = "netra tantraM"
 
 +++
-लेखकः - मनसतरङ्गिणीकारः।
-
+लेखकः - [मनसतरङ्गिणीकारः](https://manasataramgini.wordpress.com/)।
 
 tryambakaṃ yajāmahe sugandhiṃ puṣṭi vardhanam  
 urvārukam iva bandhanān mṛtyor mukṣīya māmṛtāt   

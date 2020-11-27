@@ -1,8 +1,8 @@
 +++
-title = "siddhAnta tantrics and the mainstream brahminical path"
+title = "siddhAnta tantrics and mainstream"
 
 +++
-लेखकः - मनसतरङ्गिणीकारः।
+लेखकः - [मनसतरङ्गिणीकारः](https://manasataramgini.wordpress.com/)।
 
 
 I have yarned a lot on this topic from different angles: [1) The
