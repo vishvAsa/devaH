@@ -4,6 +4,11 @@ title = "Inbreeding"
 
 ## स्वाभिप्रायः
 - mahAmahopAdhyAya PV kANe, author of the "History of dharmashAstra" and others (of the tattvaniShTha-parivartanavAdI-sabhA which included a prominent shankarAchArya) proposed this reform: "sApiNDya rules exactly suffice on both sides."
+- bhAradvAja-s and jAmadagnya-s have a tough time in south India.
+- The dhArmikatA would be the last constraint to loosen, yes - but there are other constraints to relax. Such as geographical location, language/ ethnicity and even sagotra-barrier.
+
+{{< figure src="../images/bhAradvAja-incel.jpg" title="">}}
+
 
 ## धर्मशास्त्रेष्व् अभिप्रायः
 - असपिण्डा च या मातुर् असगोत्रा च या पितुः । सा प्रशस्ता द्विजातीनां दारकर्मणि मैथुने ॥ इति मनुः। विस्तारो [ऽत्र](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc199777.html)।
