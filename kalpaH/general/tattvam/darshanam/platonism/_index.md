@@ -78,7 +78,9 @@ See [sallustius](sallustius/).
 ## Being
 - The principle of Being answers the question "what", while the principle of Unity/ To Hen answers the question "who". 
 - "Positing “the One” prior to Being, in the chain of hypostases, is not a matter of subordinating Being to some further singular entity. Rather, it establishes prior to being a distinct *mode of existence*, establishing *unity* (individuality) as the primary and originary attribute of each thing"- [EB](https://henadology.files.wordpress.com/2018/11/butler2018_article_bhaktiandhenadology.pdf).
+- Being as "a kind of 'consensus reality' among henads.
 - Being is constituted by the activity of Gods (who are actually super-essential henads).
+- "The difference between the God's self and Their power opens the space of Being, which is also a space of mediated relations between the Gods through the expression of Their powers."
 
 ## Nous - the Ideal realm
 - the outer activity and effect of the First must be nous - pure and absolute “Consciousness”.  Hence the the second “Hypostasis”.
