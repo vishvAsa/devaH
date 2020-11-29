@@ -4,6 +4,12 @@ unicode_script: devanagari
 ---
 
 ## अर्वाचीनाः
+### श्रीहर्षः
+- one of the greatest अद्वैती writers, author of the नैषधीयचरितम् & खण्डनखण्डखाद्यम्, the latter renowned for its aggressive tour de force against classical न्याय as we knew it
+
+### नच्चिनार्क्किनियार्
+One of the earliest, classical commentators for sangam-era tamiL classics including the great grammatical work, Tolkāppiyam (तोल्क्काप्पियम्) was मदुरैयासिरियर् (मदुरै-आचार्य) पारत्तुवासि (भारद्वाजी) नच्चिनार्क्किनियार्.
+
 ### सायणमाधवौ
 -माधवो विद्यारण्यः
   - Glory of भारद्वाज गोत्र, the 12th पीठाधिपति & शङ्कराचार्य of शृङ्गेरि शारदापीठ; brought light to भारत by establishing हरिहरराय & बुक्कराय in power, thus giving a blessed beginning to the विजयनगर line. A महातपस्वि & an ocean of knowledge of शास्त्राणि (śāstra-s).
@@ -23,3 +29,5 @@ An आन्ध्रदेश ornament of the भारद्वाज गो�
 ### त्यागराजः
 1 of the 3 founding fathers of the carnatic stream of the classical indic सङ्गीतसम्प्रदाय; born as a blessing to the भारद्वाज गोत्र in तिरुवारूर् , TN & named after its shiva of that great shrine; he grew up to be a musical genius & one of the most glorious रामभक्ताः
 
+### रङ्गरामानुजः
+the उपनिषद्-भाष्यकार of the रामानुज tradition & is remembered for writing commentaries for the उपनिषद्-s from a विशिष्टाद्वैत perspective
