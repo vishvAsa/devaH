@@ -3,7 +3,7 @@ title: अग्निना विश्वषाट्
 unicode_script: devanagari
 ---
 
-सायणो [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_6_-_Kasinath_Sastri_Agase_1949#page/n359/mode/1up)।
+सायणो [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_6_-_Kasinath_Sastri_Agase_1949#page/n359/mode/1up) ।
 
 अ॒ग्निना॑ विश्वा॒षाट्त् +++(=विश्वसहकः)+++,  
 सूर्ये॑ण स्व॒राट्,  
@@ -23,7 +23,7 @@ unicode_script: devanagari
 
 गोभि॑र् य॒ज्ञन् **दा॑धार**,  
 क्ष॒त्रेण॑ मनु॒ष्या॑न्,  
-अश्वे॑न च॒ रथे॑न च व॒ज्र्य्,  
++++(स)+++ अश्वे॑न च॒ रथे॑न च व॒ज्र्य्,  
 ऋ॑तुभि॑ᳶ प्र॒भुस्,  
 सँ॑व्वत्स॒रेण॑ परि॒भूस्,  
 तप॒सा ऽना॑धृष्ट॒स्,  
