@@ -1,5 +1,5 @@
 ---
-title: आपो वा इदं सर्वम्
+title: २२ आपो वा इदं सर्वम्
 unicode_script: devanagari
 
 ---
