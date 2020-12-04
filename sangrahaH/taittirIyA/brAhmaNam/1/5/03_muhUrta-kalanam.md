@@ -1,5 +1,5 @@
 +++
-title = "मुहूर्तकलनम्"
+title = "०३ मुहूर्तकलनम्"
 unicode_script = "devanagari"
 +++
 
