@@ -4,6 +4,7 @@ unicode_script = "devanagari"
 +++
 
 ## अर्वाचीनाः
+- कल्लिल् आत्रेयनार् - Poet in puraNanUru who praises Athanungan for resisting  Mauryan army equipped with advanced chariots.
 - शङ्करः
 
 ### लकुलीशः

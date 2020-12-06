@@ -92,4 +92,3 @@ practice_weight = 0
 ## परिचयः
 - भैरवपारिजाते ऽर्चनाकल्पो [ऽत्र](http://www.kamakotimandali.com/blog/index.php?p=1027&more=1&c=1&tb=1&pb=1) ।
 - पाठान्तरकलनम् [अत्र](https://manasataramgini.wordpress.com/2008/02/10/the-vyomavyapin-mantra/) । 
-
