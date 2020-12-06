@@ -10,11 +10,15 @@ title: Food आहारः
 - "For example, we learn that food was eaten while being seated (Rigveda Saṃhitā 4.30.3), food was eaten only twice a day (Taittirīya Brāhmaṇa 1.4.9), and that talking was kept to a minimum while eating (Baudhayana Dharmasūtra 2.7.2). In times of emergencies, there were absolutely no restrictions on food (Brahma Sūtra 3.4.29-31). We are asked to greet our food, honour it, rejoice upon seeing it, and pray that we may always obtain it (Manusmṛti 2.54-55)." [SG15](http://indiafacts.co.in/the-hindu-view-on-food-and-drink/).
 - Veg promotion
     - "मुन्यन्नं ब्राह्मणस्योक्तं मांसं क्षत्रियवैश्ययोः " इत्यादि वाक्यं तु याज्ञवल्क्यस्मृतेः (१.२६१) मिताक्षरायां पुलस्त्यस्मृतेरुद्धृतम्।
-- Meat restriction
-    - अपञ्चनखेषु
-        - अभक्ष्यो ग्राम्यकुक्कुटः अभक्ष्यो ग्राम्यसूकरः। (महाभाष्ये)
-    - पञ्चनखेषु
-        - पञ्च पञ्च नखा भक्ष्या ब्रह्मक्षत्रेण राघव 4.17.38।। शल्यक श्श्वाविधो गोधा शशः कूर्मश्च पञ्चमः। (नान्ये)
+
+### Meat restriction
+- अपञ्चनखेषु
+    - अभक्ष्यो ग्राम्यकुक्कुटः अभक्ष्यो ग्राम्यसूकरः। (महाभाष्ये)
+- पञ्चनखेषु
+    - पञ्च पञ्च नखा भक्ष्या ब्रह्मक्षत्रेण राघव 4.17.38।। शल्यक श्श्वाविधो गोधा शशः कूर्मश्च पञ्चमः। (नान्ये)
+
+### कवकानि
+- Likewise a mushroom with an umbrella-shape ChattrAkAara is proscribed in the dietary laws of V1s. medhAtithi on manu [here](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200379.html). 
 
 ## Factors towards vegetarianism. 
 - Historical reasons. Why do many types of hindu-s not eat meat? Because their parents and relatives did not eat meat, and they have no idea why, and it is now a matter of cultural identity. Ok, why did this practice start and why was it sustained?

@@ -44,3 +44,11 @@ Some of these offerings may be specially selected to invoke the desired feelings
 
 - Horsegram is considered a favorite of the horse headed hayagrIva.
 - In the indra dhvaja festival images of genitalia were made from mixture of wheat and brown sugar and offered before the dhvaja. Their offering was accompanied by telling of jokes to induce laughter in the assembled (The Mbh records it). It was generally not seen as correct for V1s to eat those after they were offered but the rest of the community did eat them. 
+
+## Avesha
+
+Excerpts from an insightful comment from another thread by shrI[ manISha-paNDita](): 
+
+> The mantra first creates an image of the deity which is inherently present within the mantra. That image when strong enough to take a life of its own "shields the mind". The image starts finally getting replaced for moments at a time with the actual Devatha. ..... <snip> The more the sadhaka who has managed to attract a certain Devata on occasion... repeats that mantra... the more the Devata starts to descend into the consciousness of the sadhaka. The sadhaka changes and his or her mind and personality slowly start getting replaced with the personality of the Devata in question.
+
+Also see notes on Avesha as an end in \[[IF16](http://indiafacts.org/brief-study-possession-hinduism-ii-spiritual-context/)\].
