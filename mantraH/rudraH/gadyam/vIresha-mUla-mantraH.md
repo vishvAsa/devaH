@@ -57,7 +57,7 @@ practice_weight = 0
 चतुर्थे नर्तेश्वरी नामतः ॥
 
 ## मानसतरङ्गिणीकारकृतपरिचयः
-> He is described as having 4 heads, with 3 eyes, of blue color, very fierce, stationed on a corpse with with a garland of skulls, holding a skull, a skull-topped brand, a bow and arrows. The 4 yoginI-s accompanying him are pAtanI of silvery blue color; mAraNI emerald white colorAkarShaNI or red white color and narteshvarI of yellow white color, each 4 armed with the described weapons. 
+> He is described as having 4 heads, with 3 eyes, of blue color, very fierce, stationed on a corpse with with a garland of skulls, holding a skull, a skull-topped brand, a bow and arrows. The 4 yoginI-s accompanying him are pAtanI of silvery blue color; mAraNI emerald white color, AkarShaNI or red white color and narteshvarI of yellow white color, each 4 armed with the described weapons. 
 >
 > The tantra is the vajraDAka-tantra, a bauddha yoginItantra and the central deity being described there is vajraDAka who is called a tathAgatha. Otherwise the iconography is purely that of a bhairava from shaiva yoginI tantra. Then mUlamantra cited at the head of this thread is mostly agnostic & would apply entirely for such a bhairava. 
 >
