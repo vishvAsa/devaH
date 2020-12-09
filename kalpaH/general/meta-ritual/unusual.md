@@ -51,13 +51,6 @@ Some unusual rituals involve some unusual components, some of which people may n
         - " The controversial acts are limited to the variant given in the jaiminīya Brāhmaṇa (2.113), the āpastamba śrautasūtra (22.13.1-3) that seems to have replicated the verses in the jaiminīya text and the brahmāṇḍa purāṇa (2.36-64). " ([ghorAngIrasa](https://aryanthought.wordpress.com/2016/03/24/gosava-and-bovine-mimesis-in-ritual-part-1/))
         - "Others don't talk about it or assume you know the details. Panchaviṃśa comes out and says these are no longer performed.""
 
-## Fireworks!
-
--  एभिः कारणैः प्रामुख्यक्रमेणसूचितैर् दीपोत्सवः सविस्फोटम् आचरणीय इति मदभिप्रायः  -
-    - स्फोटकप्रयोगेनोत्सवस्याचरणेन नन्दन्तितमाम् बहवो जना इत्यपि सत्यम्। तेन हिन्दुकानाम् अत्यन्त-साधारणानामपि स्वसमुदायेन म्लेच्छभिन्नेन सहैक्यभावना वर्द्धते। (युद्धकल्पना दीपोत्सवे न ममैकाकिन एव जातस् स्याद् बाल्यकाले 🙂, अविस्मरणीयरोमाञ्चनम्। )
-    - यस्मिन् कस्मिन्नपि कर्मणि काचिद्धानिर्वा दोषो वा सम्भवति पृकृत्यैव (यथा होमाग्नि-दीपागर्वादिभ्यो ऽपि धूमः, पाके लघुजीवानाम् हत्या)। सर्वं यज्ञस्वरूपम् इत्यतः किमप्य् अदत्त्वा लाभोऽस्माकं सम्भवतीति मोहः।
-    - * ४००-वर्षेभ्यो दीपोत्सवे स्फोटकादीनाम् प्रयोगो दृश्यत इति चित्रादिप्रमाणावलोकनेन स्पष्टम्। \[प्रमाण-[चित्राणि](https://www.quora.com/What-historical-connection-is-there-between-firecrackers-and-Diwali-When-did-Indians-start-bursting-crackers-and-how-did-it-become-a-part-of-our-culture/answer/Deep-Patel-77)\]
-
 ## Mock gambling
 - Certain vaidika rituals
 
@@ -68,7 +61,7 @@ Some unusual rituals involve some unusual components, some of which people may n
     - Certain vaidika and tAntrika rituals
     -  5th sAdhyaHkra soma ritual: The shuklayajurvedin-s specify the deity there as agni-rudravat to whom a red animal is sacrificed. Also the ritualists where their upavita around the neck like a garland for the ritual. They carry bows strap quivers to back full of arrows while performing the yAga.
 - Threatening the deities! Some stretch the concept of deities coming under the control of the invoker a bit too far.  
-- Several shabara (non-sanskrit) mantra-s threaten a deity with dire consequences if the requests of the chanter are not granted. Example: [rati-threatening](http://i.imgur.com/CDSKIBg.png).
+- Several shabara (non-sanskrit) mantra-s threaten a deity with dire consequences if the requests of the chanter are not granted. Example: [rati-threatening](../rati-threat/).
 
 ### Skulls
 - In chayana during vaidika yAga-s [here](http://i.imgur.com/1H9XrMy.png).
