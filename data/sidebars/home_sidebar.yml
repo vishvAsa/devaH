@@ -17,7 +17,7 @@ contents:
   - title: न्यायशास्त्रम्
     contents:
       - url: recdir://nyAya-vaisheShike/
-  - title: विषयान्तरम्
+  - title: सङ्ग्रहान्तरम्
     contents:
       - title: ज्यौतिषम्
         url: ../jyotiSham/
@@ -29,6 +29,10 @@ contents:
         url: ../notes/
       - title: काव्यम्
         url: ../kAvya/
+      - title: त्रिपिटकम्
+        url: ../tipiTaka/
+      - title: पाळयः
+        url: ../pALi/
   - title: प्रकीर्णम्
     contents:
       - title: Tags
