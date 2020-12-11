@@ -14,3 +14,9 @@ title = "च्यवनः"
 - प्रमतिः →रुरुः →शुनकः →शौनकः
     - नेमः → स्यूमरष्मी → इटन्तः
     - प्रयोगः
+
+
+### अर्वाचीनेषु धूसरभार्गवाः
+- धूसरभार्गवाणां विषये [ऽन्यत्र](../../../../kalpaH/general/social-cultivation/clan/practice/varNa/brAhmaNa/dhUsara-bhArgavas.md) पाठ्यम्।
+- Naval Kishore, pioneer publisher ("Empire of books"). They were kayasthas who started claiming brahmin status
+- मञ्जुलभार्गवः। गणितज्ञः प्रख्यातः। संस्कृतपण्डितस्य पुरुषोत्तमलालस्य (Purushottam Lal Bhargava, Sanskrit Department at Rajasthan University) पौत्रः, Pandit M.B.L. Bhargava इत्यस्य प्रपौत्रः।
