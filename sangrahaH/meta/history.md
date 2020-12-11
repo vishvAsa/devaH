@@ -28,7 +28,7 @@ In fact, with regards to the multiplicity of shAkhA-s and samhita-s, an **evolut
 
 ## ऋग्वेदस्य इतिहासः
 - "Short story: White indologists swear by Oldenburg. I remain unconvinced by the counts reflecting age of the family books."
-- "What we do know is that vishvAmitra-s, vasiShTha-s and jamadagni-s refer to each other or share mantra-s suggesting they were contemporaneous. Thus RV3, RV7& jamadagni mantra-s in RV9, 10 are likely contemporaneous." - [MT_TW](https://twitter.com/blog_supplement/status/1262959738385563648).
+- "What we do know is that vishvAmitra-s, vasiShTha-s and jamadagni-s refer to each other or share mantra-s suggesting they were contemporaneous. Thus RV3, RV7 & jamadagni mantra-s in RV9, 10 are likely contemporaneous." - [MT_TW](https://twitter.com/blog_supplement/status/1262959738385563648).
 - "atri-s, certain kAshyapa-s and certain kANva-s refer to each other they were likely contemporaneous."
 - "The RV9 is collection of soma sUkta-s from many families so it is obviously of composite age."
 - "RV1 shares authors with RV8 - so there is partial contemporaneity of those two."
