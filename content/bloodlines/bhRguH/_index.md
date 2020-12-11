@@ -64,8 +64,3 @@ Parameśvara (ad 1360–1455) was one of the most well-known astronomers of Kera
 
 Parameśwara was a prolific author and he composed nearly 30 works. Among these writings included are (1) “the Drgganitam,” (2) Goldipika I, II, III written in ad 1443, (3) three manuels on improved computations and rationale of the occurrence of eclipses, namely “Grahana,” “Grahana mandana,” and “Grahananyaya-dipika,” and (4) “Candracchāyā-ganitham” (a manuel on moon’s shadow) and “Vakyakarana.”
 
-### मञ्जुलभार्गवः
-गणितज्ञः प्रख्यातः। संस्कृतपण्डितस्य पुरुषोत्तमलालस्य (Purushottam Lal Bhargava, Sanskrit Department at Rajasthan University) पौत्रः, Pandit M.B.L. Bhargava इत्यस्य प्रपौत्रः।
-
-### कायस्थाः
-- Naval Kishore, pioneer publisher ("Empire of books"). They were kayasthas who started claiming brahmin status
