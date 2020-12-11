@@ -41,18 +41,17 @@ title = "+भार्गवाः"
 
 
 ## भार्गवेषु के महात्मान आसन्?!
-
 - ऋग्वेदे भार्गवाः
-    - "From the accounts of vedic tradition the bhR^igu-s were the foremost of the R^iShi-s. It appears that they were the founders of the fire ritual which is at the heart of the vedic religion. They are not authors of many mantra-s of the R^ig veda, though their surrogate clan, the shaunahotra-s, have a maNDala to themselves (RV2). Nevertheless, bhR^igu or the bhR^igu-s are mentioned 27 times by name in the RV." MT [अत्र](https://manasataramgini.wordpress.com/2006/05/21/the-bhrigu-s-of-the-rigveda/)।
+    - "From the accounts of vedic tradition the bhR^igu-s were the foremost of the R^iShi-s. It appears that they were the founders of the fire ritual which is at the heart of the vedic religion. They are not authors of many mantra-s of the R^ig veda, though their surrogate clan, the shaunahotra-s, have a maNDala to themselves (RV2). Nevertheless, bhR^igu or the bhR^igu-s are mentioned 27 times by name in the RV." MT [अत्र](https://manasataramgini.wordpress.com/2006/05/21/the-bhrigu-s-of-the-rigveda/)। तस्यानुकरणम् [अत्र](MT_articles/)।
 - भृगुः (अनिश्चिते जन्मनि) - 
     - मणिकोशे [ऽत्र](http://www.sanskrit-lexicon.uni-koeln.de/scans/PEScan/2014/web/webtc/servepdf.php?page=139)।
     - भृगुस्मृतिः [अत्र](https://archive.org/details/bhRgu-smRti-print)। (अत्र evolution-विषयः)
+- जामदग्न्या [अत्र](dvitIyajanmani_bhRguH/chyavanaH/ApnavAna/aurvaH/jamadagniH)। दत्तका [अत्र](dattakAH)। 
 
 ## अन्ये प्रसिद्धा भार्गवाः
 - पैलः ऋग्वेद-प्रचारकः व्यास-शिष्यः।
 - काशकृत्स्नो वैयाकरणः। (बोधायन-प्रवराध्यायात्)
 - Vāmana-bhaṭṭa-bāṇa (14th–15th cen. CE) hailed from Koṇḍavīḍu, a princely state in Andhra. In his prose poem Vema-bhūpāla-carita ("बाणादन्ये कवयः काणाः खलु सरसगद्यसरणीषु। इति जगति रूढमयशो वामनबाणोऽपमार्ष्टि वत्सकुलः॥")
-
 
 ### ऐतशायनाः
 - "Etaśa is in the kauṣītaki brāhmaṇa1 the name of a sage who is said to have cursed his children because they interrupted him in the midst of a rite; hence the Aitaśāyanas (descendants of etaśa) are declared to be the worst of the Bhṛgus. The same story appears in the aitareya Brāhmaṇā2 where, however, the sage's name is aitaśa, and the Aitaśāyanas are described as the worst of the Aurvas."
@@ -64,3 +63,7 @@ a भास्कर of भार्गवाः (अज्ञातगोत्
 Parameśwara (ad 1360–1455) was one of the most well-known astronomers of Kerala and enunciator in ad 1430 of the famous DRK system of computation of the positions of planets in his work “Drgganitam.” He belonged to Brugu gotra and was a Rgvedin of “Aswalayana Sutra.” His son Damodara was also a great astronomer.
 
 Parameśwara was a prolific author and he composed nearly 30 works. Among these writings included are (1) “the Drgganitam,” (2) Goldipika I, II, III written in ad 1443, (3) three manuels on improved computations and rationale of the occurrence of eclipses, namely “Grahana,” “Grahana mandana,” and “Grahananyaya-dipika,” and (4) “Candracchāyā-ganitham” (a manuel on moon’s shadow) and “Vakyakarana.”
+
+
+### कायस्थाः
+- Naval Kishore, pioneer publisher ("Empire of books"). They were kayasthas who started claiming brahmin status
