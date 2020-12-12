@@ -1,6 +1,0 @@
-+++
-title = "०४५ दिवस्परि"
-unicode_script = "devanagari"
-+++
-
-<div class="js_include" url="../../../../../mantraH/agniH/Rk/divaspari/"  newLevelForH1="2" includeTitle="false"> </div>  
