@@ -35,4 +35,4 @@ title: +इन्द्रः
 - Omphale who enslaved Hercules for one year in a comic subversion of roles, taking his club and lion's skin while forcing him to spin wool and dress as a woman
 
 ### रामः
-… 
+- रामस्यैन्द्रत्वम्, रामायणस्यैन्द्रमूलञ्चान्यत्र प्रदर्शितम्।
