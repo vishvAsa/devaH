@@ -28,4 +28,11 @@ title: +इन्द्रः
 > Another is the teaching of indra . What is more inspiring than indra cutting down the likes of trishiras tvAShTra or hurling shambara off the mountain for his Arya votary, the atithigva. That spirit permeates old IE tradition: you see it in Thor, you see it in Zeus & even the Zoroastrian Iranians cannot pass verethraghana by. Hence, I feel that inculcating the aindra pantheonic configuration from an early age might produce that kShatra spirit in people. What about brahma then?  some might ask. I'd say in this pantheon even brahma is war-like represented the brahma ectype of the indra: bR^ihaspati attacking the mountain strongholds of vala. " - MT
 
 ## इन्द्रपुत्रः
-- अर्जुनो भारते, 
+### अर्जुनः
+
+#### बृहन्नला
+- महाभारते कथा।
+- Omphale who enslaved Hercules for one year in a comic subversion of roles, taking his club and lion's skin while forcing him to spin wool and dress as a woman
+
+### रामः
+… 
