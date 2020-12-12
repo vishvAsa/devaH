@@ -1,8 +1,8 @@
----
-title: महत् तद् उल्बम्
-unicode_script: devanagari
-practice_weight: 0
----
++++
+title = "०५१ महत् तद् उल्बम्"
+unicode_script = "devanagari"
++++
+
 
 ## परिचयः
 - [MT](https://manasataramgini.wordpress.com/2006/11/21/the-path-of-fire/) अत्र।
