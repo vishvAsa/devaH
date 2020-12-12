@@ -134,7 +134,7 @@ unicode_script: devanagari
 ध्यात्वा। विष्णुहस्तङ्कृत्वा। स्थितस्य प्राञ्जलेः शिष्यस्य मूर्ध्नि निधाय। देशिकः तत्र अग्निसन्निधौ  
 शिष्यस्य आचारान्नियमान् च सर्वान् बोधयेत्। यथा  
 
-<div class="js_include" url="shiShyopadeshaH।md" newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="shiShyopadeshaH/" newLevelForH1="2" includeTitle="false"> </div>  
 
 इति गुरुः शिष्याय नियमान् सम्बोध्य। 
 
