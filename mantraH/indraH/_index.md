@@ -19,6 +19,8 @@ title: +इन्द्रः
 - **शम्बरः** - शम्बरो देवको विश्वश्वस्कम्भमूलस्थो ऽहिर्बुध्नियः प्रोष्ठपदासु पुरा स्थितः। अथवा अर्वषा वा मेघो वा दस्युराजा बहुदुर्गवान् वा दिवोदासशत्रुर् वा । स हि "पर्वतेषु शयानः" इति "[स जनास इन्द्रः](../../sangrahaH/shAkalA/saMhitA/02/012_sa_janAsa_indraH/)" इति सूक्ते।
 - **शुष्णः** शोषको +अपामावरको ऽहिरूपः। [MT](https://manasataramgini.wordpress.com/2015/12/28/matters-of-religion-1/)। तस्य हन्ता हीन्द्रः। 
 - **कुयवः** causing a bad harvest
+- **वलः** - "अहिं हित्वा सप्त सिन्धून् जजान्, वलस्य गा उद्-आजद् " इति "[स जनास इन्द्रः](../../sangrahaH/shAkalA/saMhitA/02/012_sa_janAsa_indraH/)" इति सूक्ते। - "bRhaspati attacking the mountain strongholds of vala" इत्यपि वर्तते।
+- **पर्वताः** - विषुवस्थानकम्पकास् ते। "[स जनास इन्द्रः](../../sangrahaH/shAkalA/saMhitA/02/012_sa_janAsa_indraH/)" इति सूक्ते तथा भाति।
 
 ## ऐन्द्रप्रशंसा
 > "As I've said many times here, sometimes drawing the howls of the dull-witted, the aindra system of the core RV is superior to others. That unlike the late Vedic prAjApatya system privileges kShatra spirit inspired by the fort-breaking god himself. The sUkta of apratiratha aindra or the gautama's long string of gAyatrI-s starting with nakirindra… is largely more inspiring than a prAjApatya lesson.
