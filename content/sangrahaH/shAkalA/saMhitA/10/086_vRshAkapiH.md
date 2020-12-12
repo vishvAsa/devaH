@@ -1,8 +1,8 @@
 +++
-title = "वृषाकपिः ०८६"
+title = "०८६ वृषाकपिः"
 unicode_script = "devanagari"
-practice_weight = 0
 +++
+
 
 ## परिचयः
 - सूक्ते ऽस्मिन् स्वाभिप्रायो बालगङ्गाधरार्याद् ईषद् भिन्नः - स उक्षसङ्केतं न जग्राह। We place the myth in the rohiNI/ kRttikA era instead of the mArgashIrSha epoch.
