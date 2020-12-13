@@ -7,7 +7,7 @@ title: +Rituals
 
 ## Notes in external sites
 - Wiki
-- [VV](../benefits/)
+- [VV](../../benefits/)
 
 ## Language
 
@@ -21,4 +21,4 @@ A western pagan reconstructionist's view ([KR16](https://krasskova.wordpress.com
 
 ### Eligibility limitations
 
-- The [right to exclusivity](../communal-support/exclusivity/) (based on gender, stage of life, varNa, position etc..) naturally applies.
+- The [right to exclusivity](../../communal-support/exclusivity/) (based on gender, stage of life, varNa, position etc..) naturally applies.

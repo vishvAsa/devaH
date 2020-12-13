@@ -9,7 +9,7 @@ Some unusual rituals involve some unusual components, some of which people may n
 - Oil instead of ghee in tAntrika and AtharvaNa homa-s
     - "ashvattha-parNa-darvyA i~NgiDa-tailena juhoti | atharvavede sUktam 6.75 tasya prayogaH"
 - AV practices include offering poisonous seeds etc.. \[[TW1](https://twitter.com/RangaTheDude/status/880476974145077248)\]
-- Animal and human sacrifice (considered [here](../../social-cultivation/violence/))
+- Animal and human sacrifice (considered [here](../../../social-cultivation/violence/))
 
 ### Drinking and offering liquor
 - Certain vaidika and tAntrika rituals
@@ -61,7 +61,7 @@ Some unusual rituals involve some unusual components, some of which people may n
     - Certain vaidika and tAntrika rituals
     -  5th sAdhyaHkra soma ritual: The shuklayajurvedin-s specify the deity there as agni-rudravat to whom a red animal is sacrificed. Also the ritualists where their upavita around the neck like a garland for the ritual. They carry bows strap quivers to back full of arrows while performing the yAga.
 - Threatening the deities! Some stretch the concept of deities coming under the control of the invoker a bit too far.  
-- Several shabara (non-sanskrit) mantra-s threaten a deity with dire consequences if the requests of the chanter are not granted. Example: [rati-threatening](../rati-threat/).
+- Several shabara (non-sanskrit) mantra-s threaten a deity with dire consequences if the requests of the chanter are not granted. Example: [rati-threatening](../../rati-threat/).
 
 ### Skulls
 - In chayana during vaidika yAga-s [here](http://i.imgur.com/1H9XrMy.png).

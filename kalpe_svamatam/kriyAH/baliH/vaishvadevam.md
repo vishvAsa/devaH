@@ -94,6 +94,9 @@ unicode_script: devanagari
 - श्रीवैष्णवसदाचारनिर्णये [ऽत्र](https://archive.org/details/Vaishvadeva)।
 - टिप्पणयः [अत्र](https://checkvist.com/checklists/575296/export.html?export_notes=true&&task_ids=22621929)।
 
+### मनुः
+- सायम् स्त्रिया \- [अत्र](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc199900.html)।
+
 
 ## गरुडपुराणोक्त-होममन्त्राः
 ॐ प्र॒जाप॑तये॒ स्वाहा॑ ।  
