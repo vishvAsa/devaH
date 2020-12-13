@@ -9,3 +9,8 @@ title = "भार्गवो रामः"
 - राघवेण रामेन हतदर्पः पितृकृपया तपᳶप्रभावेन च स्वतेजसं पुनराप।
 - अम्बाप्रार्थनया सकृद् भीष्मेण युयोध।
 -  \[p= [568](http://www.sanskrit-lexicon.uni-koeln.de/scans/PEScan/2014/web/webtc/servepdf.php?page=568),2\] 
+
+## Sukthankar's criticism
+> There is only one explanation of the childish exaggeration and this repeated mention on the annihilation of the Ksatriyas by the Bhargava Ráma. A deep analysis of the motives underlying this phenomenon) would suggest that these fabrications are only a form of over-compensation, and endeavour to make the Bhrgus feel important and 'worth while', after the disastrous blow to their egoideals. It is the psychological revenge of the Bhrgus who were all but exterminated by the Ksatriyas. The slaughter of the Bhrgus admitted by the Bhrgus themselves in the Aurva legend deserves all the credence which unfavourable evidence by a witness against one's own self ordinarily does what the Bhrgus in turn did to the Ksatriyas --namely, the annihilating the Ksatriyas by Bhargava Räma 3X7 is known to us only from the account of the event from Brahmin sources. This myth the dream of the Bhrgus—is the sublimation of that intolerable inferiority feeling which had been repressed, but which was clamouring for expression.
+
+This is based on a poor understanding of the nature of myth (esp this one) - Especially given the myth of bhArgava rAma being vanquished later by rAma aikShvAkava rAghava.
