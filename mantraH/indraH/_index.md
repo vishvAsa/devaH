@@ -15,7 +15,7 @@ title: +इन्द्रः
 - पिप्रुः - He was repeatedly defeated by indra for ṛjiśvan. Mentioned as possessing forts, he is called a dāsa, as well as an asura. He is described as having a black brood, and as being allied with blacks./
 
 ### अब्-निरोधकाः
-- **अहिः** - रोहिण्यां यदा विषुवम् बभूव, तदा **पूर्वप्रोष्ठपदास्व् अहौ बुध्निये** दक्षिणायनारम्भो ऽभवत्। भारतेषु दक्षिणायनारम्भ एव वृष्टिकालः।
+- **अहिः** - रोहिण्यां यदा विषुवम् बभूव, तदा **पूर्वप्रोष्ठपदास्व् अहौ बुध्निये** दक्षिणायनारम्भो ऽभवत्। भारतेषु दक्षिणायनारम्भ एव वृष्टिकालः। अहिर् अब्निरोधक इति भारतान् विहाय +इरानयवनादिजनेष्व् अपि प्रतीतिर् वर्तते वा? अथवा ऽस्मास्व् एव तथा??
   - **गवां विमोको** यः पुनः पुनः प्रोच्यते (यथा "[स जनास इन्द्रः](../../../vedAH/shAkalam/saMhitA/02/012_sa_janAsa_indraH/)" इति सूक्ते), तत्रापि प्रोष्ठपदसङ्केतो लक्ष्यः। तिलकबलगङ्गाधरस्तु "[स जनास इन्द्रः](../../../vedAH/shAkalam/saMhitA/02/012_sa_janAsa_indraH/)" इति सूक्ते - "40th day of autumn when at high latitudes the rapid decrease in day length would be felt; marking the battle of indra & shambara for the release of cows (solar rays)".
 - **शम्बरः** - शम्बरो देवको विश्व-स्कम्भमूलस्थो ऽहिर्बुध्नियः प्रोष्ठपदासु पुरा स्थितः। अथवा अवर्षा वा मेघो वा दस्युराजा बहुदुर्गवान् वा दिवोदासशत्रुर् वा । स हि "पर्वतेषु शयानः" इति "[स जनास इन्द्रः](../../../vedAH/shAkalam/saMhitA/02/012_sa_janAsa_indraH/)" इति सूक्ते।
 - **शुष्णः** शोषको +अपाम् आवरको ऽहि-रूपः। [MT](https://manasataramgini.wordpress.com/2015/12/28/matters-of-religion-1/)। तस्य हन्ता हीन्द्रः। 
