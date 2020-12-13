@@ -18,7 +18,7 @@ title: Myths
 
 ## Non-literalness in Hindu traditions
 dhArmika traditions comfortably got along without needing to read these as literal facts. (Eg. The concept of arthavAda.)
-- [shatapatha-brAhmaNa asura-parAbhava part in 11.1.6](https://vvasuki.github.io/saMskAra/kalpa/brAhmaNam/shatapatha-asura-parAbhavaH/)
+- [shatapatha-brAhmaNa asura-parAbhava part in 11.1.6](/vedAH/vAjasaneyam/brAhmaNam/shatapatha-asura-parAbhavaH/)
 - There are many mythic elements in the purANa-s and the itihAsa-s, which guard against them being taken too literally (as more than allegories). The very nature of the hindu deities (multiple arms, animal heads etc..) ensure that they are not taken as literal statements of fact.
 - The concept of arthavAda was used in pUrva-mImAmsa to understand tales in the Veda-s, itihAsa-s and purANa-s as stories used to encourage dhArmika practice, rather than as history. However, they held that the veda-s are eternal expression of the divine order and that Vedic injunction is the sole means of knowing dharma. \[[AL01](http://www.advaita-vedanta.org/archives/advaita-l/2004-September/013449.html), [shabara-kumArIla-gangAdhara](https://archive.org/stream/slokavartika015341mbp#page/n429/mode/2up) \]
   - This concept has been used by several later traditions as well.

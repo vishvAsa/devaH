@@ -14,4 +14,4 @@ unicode_script: devanagari
 सर्व॑म् असि स॒र्वायुः॑।  
 अ॒भि॒भू [ओङ् गायत्रीम् आवा॑हया॒मि । (41)]
 
-अस्य महत्त्वम् [अत्र](../../../../kalpaH/brAhmaNam/taittirIyam/tattvam/ojosi-mAhattvam/)।
+अस्य महत्त्वम् [अत्र](../../../../kalpe_svamatam/brAhmaNam/taittirIyam/tattvam/ojosi-mAhattvam/)।

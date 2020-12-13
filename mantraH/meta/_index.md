@@ -12,7 +12,7 @@ title: +अधिमन्त्रम्
 - Greater the siddhi, tougher the things that are said to be possible. Master tAntrikas sometimes train from childhood, with a big syllabus of mantra-s and rituals - and have siddhi-s over multiple mantra-s. The deshika-s among them are said to even be capable of making new effective mantra-s for disciples.
 
 ## Whence the power of mantra-s?
-- Consciousness - see [here](../../kalpaH/general/tattvam/devaH/limited_devatAs/mantreshaH/).
+- Consciousness - see [here](../../kalpe_svamatam/tattvam/devaH/limited_devatAs/mantreshaH/).
 - Meaning - see [here](../meaning/).
 
 ## Sources of ineffectiveness
