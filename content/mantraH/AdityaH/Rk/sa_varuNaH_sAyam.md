@@ -3,7 +3,7 @@ title: स वरुणः सायम्
 unicode_script: devanagari
 ---
 
-+++([Generality](../../../../kalpaH/general/tattvam/devaH/generality/) of Gods इति स्मारयति।)+++
++++([Generality](../../../../kalpe_svamatam/tattvam/devaH/generality/) of Gods इति स्मारयति।)+++
 
 स वरु॑णः सा॒यम् अ॒ग्निर् भ॑वति॒, स मि॒त्रो भ॑वति प्रा॒तर् उ॒द्यन्।  
 स स॑वि॒ता भू॒त्वा ऽन्तरि॑क्षेण याति॒, स इन्द्रो॑ भू॒त्वा त॑पति मध्य॒तो दिव॑म्।  

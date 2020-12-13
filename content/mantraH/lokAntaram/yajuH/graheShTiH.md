@@ -4,7 +4,7 @@ unicode_script = "devanagari"
 practice_weight = 0
 +++
 
-+++(काठकब्राह्मणम् [अन्यत्र](../../../../kalpaH/brAhmaNam/kAThakam/graheShTiH/)।)+++
++++(काठकब्राह्मणम् [अन्यत्र](../../../../kalpe_svamatam/brAhmaNam/kAThakam/graheShTiH/)।)+++
 
 आदित्यस् तेजस्वी - तेजो अस्मिन् यज्ञे यजमाने दधातु ॥१ ॥  
 शुक्रो भ्राजस्वी - भ्राजो अस्मिन् यज्ञे यजमाने दधातु ॥२ ॥

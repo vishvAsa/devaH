@@ -1,5 +1,5 @@
 ---
-title: +स्वमतम्
+title: +कल्पे स्वमतम्
 unicode_script: devanagari  
   
 ---

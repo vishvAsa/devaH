@@ -7,7 +7,7 @@ title: +Rituals
 
 ## Notes in external sites
 - Wiki
-- [VV](https://vvasuki.github.io/saMskAra/kalpaH/general/benefits/)
+- [VV](../benefits/)
 
 ## Language
 
