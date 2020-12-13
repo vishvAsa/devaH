@@ -20,4 +20,4 @@ title: Exclusivity अधिकार-भेदः
 
 ## Consequences
 
-- See jAti-varna etc.. [here](../../../social-cultivation/clan/varna-theory/).
+- See jAti-varna etc.. [here](../../../../social-cultivation/clan/varna-theory/).

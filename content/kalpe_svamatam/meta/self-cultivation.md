@@ -1,5 +1,5 @@
 ---
-title: +Self cultivation
+title: Self cultivation
 ---
 
 A personal note: I enjoy chanting (especially bits of the vEda-s I know), doing Asanas, various niyta and naimittika karmas. Repeating well crafted mantra-s, until a pinnacle of mood, memory and understanding is reached, is a favorite 'meditation'. Thence I enjoy benefits such as courage, steadfastness in the dharma, joy etc.
