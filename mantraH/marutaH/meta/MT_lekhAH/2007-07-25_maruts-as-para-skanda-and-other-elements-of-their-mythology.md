@@ -3,7 +3,7 @@ title = "maruts as \"para-skanda\" and other elements of their mythology"
 
 +++
 ## परिचयः
-- maruts as \"para-skanda\" and other elements of their mythology इति मानसतरङ्गिणीकृल्लेखा काचित्। अत्र सौकर्यार्थं रक्षितम्।
+- maruts as \"para-skanda\" and other elements of their mythology इति [मानसतरङ्गिणीकृल्लेखा](https://manasataramgini.wordpress.com/) काचित्। अत्र सौकर्यार्थं रक्षितम्।
 
 ## Shift
 Many deities undergo drastic changes when they move across the
