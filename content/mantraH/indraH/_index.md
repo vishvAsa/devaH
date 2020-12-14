@@ -17,11 +17,11 @@ title: +इन्द्रः
 ### अब्-निरोधकाः
 - **अहिः** - रोहिण्यां यदा विषुवम् बभूव, तदा **पूर्वप्रोष्ठपदास्व् अहौ बुध्निये** दक्षिणायनारम्भो ऽभवत्। भारतेषु दक्षिणायनारम्भ एव वृष्टिकालः। अहिर् अब्निरोधक इति भारतान् विहाय +इरानयवनादिजनेष्व् अपि प्रतीतिर् वर्तते वा? अथवा ऽस्मास्व् एव तथा??
   - **गवां विमोको** यः पुनः पुनः प्रोच्यते (यथा "[स जनास इन्द्रः](../../../vedAH/shAkalam/saMhitA/02/012_sa_janAsa_indraH/)" इति सूक्ते), तत्रापि प्रोष्ठपदसङ्केतो लक्ष्यः। तिलकबलगङ्गाधरस्तु "[स जनास इन्द्रः](../../../vedAH/shAkalam/saMhitA/02/012_sa_janAsa_indraH/)" इति सूक्ते - "40th day of autumn when at high latitudes the rapid decrease in day length would be felt; marking the battle of indra & shambara for the release of cows (solar rays)".
-- **शम्बरः** - शम्बरो देवको विश्व-स्कम्भमूलस्थो ऽहिर्बुध्नियः प्रोष्ठपदासु पुरा स्थितः। अथवा अवर्षा वा मेघो वा दस्युराजा बहुदुर्गवान् वा दिवोदासशत्रुर् वा । स हि "पर्वतेषु शयानः" इति "[स जनास इन्द्रः](../../../vedAH/shAkalam/saMhitA/02/012_sa_janAsa_indraH/)" इति सूक्ते।
+- **शम्बरः** - शम्बरो देवको (नक्षत्र)-पर्वतेषु पुरा स्थितः। अहोस्वित् अवर्षा वा मेघो वा दस्युराजा बहुदुर्गवान् वा दिवोदासशत्रुर् वा । स हि "पर्वतेषु शयानः" इति "[स जनास इन्द्रः](../../../vedAH/shAkalam/saMhitA/02/012_sa_janAsa_indraH/)" इति सूक्ते।
 - **शुष्णः** शोषको +अपाम् आवरको ऽहि-रूपः। [MT](https://manasataramgini.wordpress.com/2015/12/28/matters-of-religion-1/)। तस्य हन्ता हीन्द्रः। 
 - **कुयवः** - causing a bad harvest
 - **वलः** - "अहिं हित्वा सप्त सिन्धून् जजान्, वलस्य गा उद्-आजद् " इति "[स जनास इन्द्रः](../../../vedAH/shAkalam/saMhitA/02/012_sa_janAsa_indraH/)" इति सूक्ते। - "bRhaspati attacking the mountain strongholds of vala" इत्यपि वर्तते।
-- **पर्वताः** - विषुवस्थानकम्पकास् ते। "[स जनास इन्द्रः](../../../vedAH/shAkalam/saMhitA/02/012_sa_janAsa_indraH/)" इति सूक्ते तथा भाति।
+- **पर्वताः** - विषुवस्थानकम्पकास् ते - खचक्रगतनक्षत्रस्थाः प्रायेण। "[स जनास इन्द्रः](../../../vedAH/shAkalam/saMhitA/02/012_sa_janAsa_indraH/)" इति सूक्ते तथा भाति। महापर्वतस् तु खगोलस्कम्भः।
 
 ## ऐन्द्रप्रशंसा
 > "As I've said many times here, sometimes drawing the howls of the dull-witted, the aindra system of the core RV is superior to others. That unlike the late Vedic prAjApatya system privileges kShatra spirit inspired by the fort-breaking god himself. The sUkta of apratiratha aindra or the gautama's long string of gAyatrI-s starting with nakirindra… is largely more inspiring than a prAjApatya lesson.

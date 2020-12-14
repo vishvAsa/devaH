@@ -26,5 +26,5 @@ title: +लोकान्तरम्
 
 ## नक्षत्राणि
 - नक्षत्राणि देवगृहाणि। 
-- [atra](../jyotiSham/content/naxatram/tArAmaNDala/)..
+- [atra](../../jyotiSham/content/naxatram/tArAmaNDala/)..
 
