@@ -3,7 +3,7 @@ title: Myths
 ---
 
 ## Summary
-- The particular stories of deva-s (such as battles with asura-s) are not to be taken literally, according to the veda-s themselves (eg: [shatapatha-brAhmaNa asura-parAbhava part in 11.1.6](../../../../brAhmaNam/shatapatha-asura-parAbhavaH/)).
+- The particular stories of deva-s (such as battles with asura-s) are not to be taken literally, according to the veda-s themselves (eg: [shatapatha-brAhmaNa asura-parAbhava part in 11.1.6](/vedAH/vAjasaneyam/shatapatha-brAhmaNam/tattvam/shatapatha-asura-parAbhavaH/)).
 - To derive benefits from the deva-s, one does not need epistemological belief in peripheral things like reincarnation, flying yogi-s, texts composing themselves, deities proffering boons and the like; at the same time, the hindu need not let questions like "How can monkeys talk?" hinder his enjoyment of the rAmAyaNa epics or his observance of [rAmanavamI](http://en.wikipedia.org/wiki/Rama_Navami) rituals. This is exactly the same as the concept of "[aesthetic distance](http://en.wikipedia.org/wiki/Aesthetic_distance)". Consider an actor in a play: he does not think "this is not real, I am not this character, this is a made up story" etc.. when acting. Neither does the full-hearted audience (sahRdaya rasika) insulate himself from feeling empathy with the characters on stage or in a book with similar questions.
 
 ### Implications
@@ -27,6 +27,8 @@ dhArmika traditions comfortably got along without needing to read these as liter
 ## Comparable attitudes
 
 - Sallustius's extremely beneficial view is [excerpted here](../../darshanam/platonism/sallustius/).
+
+Some practitioners who might regard the Gods as non-living or merely metaphorical share this attitude. (It would be a fallacy though to think that everyone who does not take myths literally does not consider the Gods true or real in a more substantial sense).
 
 > I don’t believe anyone believes in a one-eyed man who is riding about on a horse with eight feet,” Hilmar Örn Hilmarsson, told Reuters. “We see the stories as poetic metaphors and a manifestation of the forces of nature and human psychology.” ... The priest said the gods are viewed as mystical and symbolic. Most modern worshipers don’t consider them to be living beings that are capable of flying down from the clouds. ... The Asatru religion might describe itself as poetic--but if some Christians, especially those in the Western hemisphere, were to take a literal look at the new altar to pagan gods they might consider it satanic.
 >
