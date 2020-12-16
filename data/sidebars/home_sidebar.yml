@@ -2,21 +2,7 @@
 
 title: भागाः
 contents:
-  - title: मन्त्राः
-    contents:
-      - url: recdir://mantraH/
-  - title: कल्पः
-    contents:
-      - url: recdir://kalpaH/
-  - title: वेदसङ्ग्रहः
-    contents:
-      - url: recdir://sangrahaH/
-  - title: वंशाः
-    contents:
-      - url: recdir://bloodlines/
-  - title: न्यायशास्त्रम्
-    contents:
-      - url: recdir://nyAya-vaisheShike/
+  - url: recdir://
   - title: सङ्ग्रहान्तरम्
     contents:
       - title: ज्यौतिषम्
