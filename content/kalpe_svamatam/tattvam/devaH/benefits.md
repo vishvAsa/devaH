@@ -21,7 +21,7 @@ but for the sake of the Self
 - It may even improve our performance at various tasks.
     - Example: The ancestor effect: Thinking about our genetic origin enhances intellectual performance (article [here](http://onlinelibrary.wiley.com/doi/10.1002/ejsp.778/abstract))
 - Not answering prayer stuff (considered in a separate subsection).
-    - Personal note: - To me, the influence of the deva-s is limited to being the influence of concepts, symbols and perception on minds (and ultimately behavior) - yet what satisfying influence that can be!
+    - Personal note: - To me, the influence of (connection with) the deva-s is limited to being the influence of concepts, symbols and perception on minds (and ultimately behavior) - yet what satisfying influence that can be!
 
 ## Answering prayers, or not.
 
