@@ -49,6 +49,7 @@ title = "+भार्गवाः"
 - जामदग्न्या [अत्र](dvitIyajanmani_bhRguH/chyavanaH/ApnavAna/aurvaH/jamadagniH)। दत्तका [अत्र](dattakAH)। 
 
 ## अन्ये प्रसिद्धा भार्गवाः
+- vAlmIki the bhArgava (baudhAyanIya-pravarAdhyAye bhRguNAM sUchyAm 31), he who was supposedly reared by vanavAsIs, great poet with a wet heart, author of rAmAyaNa.
 - पैलः ऋग्वेद-प्रचारकः व्यास-शिष्यः।
 - काशकृत्स्नो वैयाकरणः। (बोधायन-प्रवराध्यायात्)
 - Vāmana-bhaṭṭa-bāṇa (14th–15th cen. CE) hailed from Koṇḍavīḍu, a princely state in Andhra. In his prose poem Vema-bhūpāla-carita ("बाणादन्ये कवयः काणाः खलु सरसगद्यसरणीषु। इति जगति रूढमयशो वामनबाणोऽपमार्ष्टि वत्सकुलः॥")
