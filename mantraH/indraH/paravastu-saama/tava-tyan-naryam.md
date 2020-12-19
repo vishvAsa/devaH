@@ -8,7 +8,7 @@ unicode_script: devanagari
 
 RV.2.22.4b; SV.1.466b.
 
-+++([सायणो [ऽत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart2/rv_sayanabhasya_part2#page/n142/mode/1up&sa=D&ust=1542425956188000)। गृत्स्नमदः। अतिशक्वरी। इन्द्रः।])+++
++++([सायणो [ऽत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart2/rv_sayanabhasya_part2#page/n142/mode/1up&sa=D&ust=1542425956188000)। गृत्स्नमदः। अतिशक्वरी। इन्द्रः।] ज्येष्ठानक्षत्र आकाशगङ्गापार्श्वे ऽहिमर्दनं लक्ष्यते दिवि।)+++
 
 तव त्यन् +++(=तत्)+++ नर्यं॑ +++(= नराणाम्)+++ नृतो +++(=नर्तयितः)+++  
 ऽप इन्द्र प्रथ॒मम् +++(=प्रततम्)+++ पूर्वि॒यं दि॒वि  प्र॒वाच्यं॑ कृ॒तम् ।
