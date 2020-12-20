@@ -1,0 +1,81 @@
++++
+title = "प्रत्यङ्गिरा-स्तोत्रम्"
+unicode_script = "devanagari"
++++
+
+ब्रह्म-स्वरूपे ब्रह्मेशी  
+ब्रह्मास्त्र-खड्गधारिणी ।  
+ब्राह्मी प्रत्यङ्गिरे देवि  
+अव, ब्रह्म-द्विषो जहि ॥
+
+विष्णुरूपे वैष्णवी  
+घोरास्त्र खड्गधारिणी ।  
+नारायणि प्रत्यङ्गिरे  
+मम शत्रून् विद्वेषय ॥
+
+रुद्र स्वरूपे रुद्रेशी  
+रुद्रास्त्र-खड्गधारिणी ।  
+रौद्री प्रत्यङ्गिरे देवी  
+मम शत्रून् उच्चाटय ॥
+
+उग्रस्वरुपे उग्रेशी  
+उग्रास्त्र-खड्गधारिणी ।  
+उग्रकृत्या प्रत्यङ्गिरे  
+उग्राभिचार्यान् नाशय ॥
+
+भद्रकालि उग्र+अथर्व-  
+सूक्त-खड्ग-धारिणी ।  
+भार्गव-मन्त्र-हृदया  
+रक्ष मां शरणागतं ॥
+
+महाकृत्ये उग्रविद्या  
+महास्त्र खड्गधारिणी ।  
+महाकृत्या प्रत्यङ्गिरे  
+महाक्षुद्रान् विनाशय ॥
+
+## अस्यैतिह्ये मानसतरङ्गिणीकृत्
+> The stotra shrI pratya\~NgirA devI passed through the lineage of hoary
+  tantrics thus:
+  
+>  The trident-bearing shrInAtha and kaulinI roaming in kailAsha founded
+  the vidyA.  
+  This they taught to the ancient tantric khagendranAtha and his wife
+  vijayAmba.  
+  They taught it to the students of brahminical splendour first, viktaShTi
+  and his dame illAIambA from the drAviDa country and second, vimala and
+  his wife anantamekhalA. These were the pUrvanAthas  
+  Then it passed to the great tantric master of mantra vidyAs and
+  prayogas, kUrmanAtha, and his wife ma\~NgalAjyotI. They taught it to
+  jaitra and his wife also named illAIambA and avijita and his wife
+  AnandamekhalA. These were the dakShiNanAthas.
+> 
+> Then it passed to the great brahmin meShanAtha, knower of veda and
+  tantra, and his beautiful wife kAmama\~NgalA, the knower of the erotic
+  lores. They gave to it their student the mighty vindhya and his wife
+  kullAIAmbA and the yoga master ajita and his wife ajaramekhalA. These
+  were the paschimanAthas.
+> 
+> From them it passed for a while to the mysterious tantric of secret
+  rites, vR^ikShanatha who roamed the Himalayan fastness. From him it went
+  to the great ritualist mitranAtha. After him the tantric masters
+  committed a fatal error in the worship of kArttikeya. Enraged, the
+  six-headed god drowned the vidyAs in the ocean. There it was eaten by a
+  fish. The fisherman matsyendra caught the fish and having read the book
+  eaten by the fish acquired the great vidyAs as well as the great lore of
+  haTha yoga. Having acquired these lores he and his wife ku\~NkumAmbA
+  became the revivers of the tantra in this yuga. In addition to their six
+  sons, they initiated brAhmaNas and kShatriyas who furthered the tantra.
+  They were:  
+  amaranAtha and his wife sillA.  
+  varadeva and his wife eruNa.  
+  chitranAtha and his wife kumArI  
+  OlinAtha and his wife bodhA  
+  vindhya and his wife mahAlakShaNA  
+  guDikanAtha and his wife aparamekhalA
+> 
+> After them came oDIshanAtha who went from the Himalayan fastness to the
+  west coast of bhArata, where he was succeeded by shrIShaShThanAtha, the
+  great adept of the kaumAra lore in addition to shrI-kula and kAli-kula
+  tantras. He was succeeded by shrIcharyendranAtha.
+> 
+> Thus, is the line of tantric teachers.
