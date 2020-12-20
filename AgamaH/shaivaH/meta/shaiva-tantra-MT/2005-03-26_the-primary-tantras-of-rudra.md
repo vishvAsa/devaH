@@ -1,9 +1,7 @@
 +++
-title = "रुद्रतन्त्राणि"
+title = "The primary tantras of rudra"
 
 +++
-लेखकः - [मनसतरङ्गिणीकारः](https://manasataramgini.wordpress.com/)।
-
 urdhvasrotas- siddhAnta tantras  
 shivAgamas:  
 1\) kAmika 2) yogaja 3) chintya 4) kAraNa 5) ajita 6) dIpta 7) sUkShma
