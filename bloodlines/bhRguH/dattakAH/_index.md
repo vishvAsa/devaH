@@ -18,3 +18,6 @@ title = "+दत्तक-भार्गवाः"
 - रामानुजभागिनेयः
 - कन्दाडै-आण्डन् इति तदात्मजश् श्रीवैष्णवपीठाधिपतिष्व् अन्यतमः। 
 - तदात्मजः - कन्दाडै-तोळप्पार्।  
+
+### गङ्गाधरः
+Gaṅgādhara Vājapeyayāi also known by names Gangadhara Adhvarin and Gangadhara Suri was a great vedic scholar of the Krishna Yajurveda from Thiruvalangadu in Thanjavur district of Tamil Nadu. He was an expert in Nyaya and Taraka Shastra. He was one of the eight jewels at the court of Maratha king Serfoji I of Tanjore. Bhaskararaya acquired knowledge of the Nyaya sastra and Tarka sastra from Gangadhara Vajapeyin.
