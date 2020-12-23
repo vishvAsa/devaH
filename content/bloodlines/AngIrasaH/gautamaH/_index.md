@@ -11,6 +11,9 @@ title = "+गोतमः"
 - शरद्वान्, कृपकृप्योः पिता, धनुर्वेदाचार्यः।
 
 ## प्रसिद्धा अर्वाचीनाः
+### अक्षपादः
+न्यायसूत्रप्रणेता
+
 ### सोमशम्भुः
 - a blessing for गौतमगोत्रम् a 11th-century काश्मीर native of the Pampur Razdhans/पद्मापुर-राजानक-s, head of the esteemed गोलकीमठः of Rewa, मध्यप्रदेशः, author of the revered सोमशम्भुपद्धति/कर्मकाण्डक्रमावली; a pan-indian treasure, a brilliant sage of सिद्धान्त-शैवम्
 

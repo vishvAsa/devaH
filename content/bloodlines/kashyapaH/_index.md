@@ -29,5 +29,6 @@ A true स्मार्त, he composed on शिव/विष्णु/गण
 ### विद्यापतिः
 from मिथिलदेश, he not only wrote fine love poetry राधा-कृष्ण as a key theme but also wrote instructive texts on धर्म such as दुर्गाभक्तितरङ्गिणी & शैवसर्वस्वसार.
 
-### प्रकीर्णाः
-- गणेशो ऽवधानी नैकभाषावित्।
+### गणेशो ऽवधानी 
+
+नैकभाषावित्। [shatAvadhAnI](http://ellakavi.wordpress.com/2007/11/22/shatavadhani-dr-r-ganesh/) rAga gaNesha, the kAshyapa, polymath and polyglot who has performed avadhAna-s in kannaDa, saMskRta, telugu, who embodies the living hindu intellectual tradition in its purity and might, who understands that the shAstra-s are but precursors to true knowledge.
