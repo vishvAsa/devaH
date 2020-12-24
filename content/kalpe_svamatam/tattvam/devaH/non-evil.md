@@ -13,7 +13,7 @@ title: Non-evil
 - Texts mention asura-s (including daitya-s like hiraNyakashipu and bali, dAnava-s like maya) and rAxasa-s (like rAvaNa)
 - "asura is used as an apithet of varuNa, rudra and, wait, indra himself in the Rgveda"
 -  one of the classic (but obscure to modern hindu) synonyms for asura-s is "पूर्वदेव" (= former deva-s, now fallen into a corrupt station)
-- Stories of asura-deva-battles are not to be taken literally, according to the veda-s themselves (eg: [shatapatha-brAhmaNa asura-parAbhava part in 11.1.6](/vedAH/vAjasaneyam/brAhmaNam/shatapatha-asura-parAbhavaH/)).
+- Stories of asura-deva-battles are not to be taken literally, according to the veda-s themselves (eg: [shatapatha-brAhmaNa asura-parAbhava part in 11.1.6](/vedAH/yajuH/vAjasaneyam/brAhmaNam/shatapatha-asura-parAbhavaH/)).
 
 ### Adoration
 - Even many demons are ultimately redeemable (often at the cost of being terminated by a deva)!
