@@ -13,3 +13,6 @@ title = "Cross-cultural comparison"
 - Emperor Shomu (8th ce) had banned cow and horse slaughter. This was one of the justifications used by Toyotomi Hideyoshi to expel Jesuits. For centuries, it was taboo in Japan to kill cows (and more broadly other domestic animals) - wild game was allowed. \[[B](http://agrarianstudies.macmillan.yale.edu/sites/default/files/files/colloqpapers/18botsman.pdf)\]
 - "Tsunayoshi’s “Laws of Compassion” are most closely associated with the protection of dogs, but as Tsukamoto points out, the laws he enacted regarding the abandonment of sick cattle and horses were, in fact, both stricter and further reaching." \[[B](http://agrarianstudies.macmillan.yale.edu/sites/default/files/files/colloqpapers/18botsman.pdf)\]
 - Yet, almost as soon as the new “treaty port” of Kobe was opened to Western settlement in 1868, it began to develop a reputation for its meat. The Tokugawa continued this ban. \[[B](http://agrarianstudies.macmillan.yale.edu/sites/default/files/files/colloqpapers/18botsman.pdf)\]
+
+## Reindeer
+Reindeer meat was on the table of a Lapland arctic tribe. When asked if they slaughter their sleigh reindeers, the host says, sleigh reindeers are family and never slaughtered. So two distinct ways of treating the same animal. Draught animals are very precious to any pre-modern mobile society.
