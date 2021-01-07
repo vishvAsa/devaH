@@ -5,5 +5,5 @@ unicode_script: devanagari
 
 ---
 
-<div class="js_include" url="../../../../sangrahaH/shAkalA/saMhitA/10/125_ahaM_rudrebhiH/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="/vedAH/Rk/shAkalam/saMhitA/10/125_ahaM_rudrebhiH/"  newLevelForH1="2" includeTitle="true"> </div>  
 
