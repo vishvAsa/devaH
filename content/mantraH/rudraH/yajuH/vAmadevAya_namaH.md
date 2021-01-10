@@ -5,14 +5,4 @@ unicode_script = "devanagari"
 
 +++(तैत्तिरीयारण्यकस्वरोऽत्र।)+++
 
-
-वा॒म॒दे॒वाय॒ नमो᳚  
-ज्ये॒ष्ठाय॒ नमो॑  
-रु॒द्राय॒ नमः॒  
-काला॑य॒ नमः॒  
-कल॑विकरणाय॒ नमो॒  
-बल॑विकरणाय॒ नमो॒  
-बल॑प्रमथनाय॒ नम॒स्  
-सर्व॑भूतदमनाय॒ नमो॑  
-म॒नोन्म॑नाय॒ नमः॑ । (59)
-
+<div class="js_include" url="/vedAH/taittirIyam/AraNyakam/06/44_vAmadevAya_namaH"  newLevelForH1="2" includeTitle="true"> </div>  

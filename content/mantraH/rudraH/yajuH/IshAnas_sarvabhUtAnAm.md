@@ -5,7 +5,4 @@ unicode_script = "devanagari"
 
 +++(तैत्तिरीयारण्यकस्वरोऽत्र।)+++
 
-ईशानस् सर्व॑विद्या॒ना॒म्  
-ईश्वरस् सर्व॑भूता॒नां॒  
-ब्रह्माधि॑पति॒र् ब्रह्म॒णो ऽधि॑पति॒र्  
-ब्रह्मा॑ शि॒वो मे॑ अस्तु सदाशि॒वोम् । (62)
+<div class="js_include" url="/vedAH/taittirIyam/AraNyakam/06/47_IshAnas_sarvabhUtAnAm"  newLevelForH1="2" includeTitle="true"> </div>  
