@@ -5,7 +5,5 @@ unicode_script: devanagari
 
 +++(तैत्तिरीयारण्यकस्वरा दर्शिताः।)+++
 
-उ॒त्तमे॑ शिख॑रे दे॒वी॒  
-भू॒म्यां प॑र्वत॒मूर्ध॑नि ।  
-ब्रा॒ह्म॒णे॑भ्यो ह्य॑नुज्ञा॒न॒ङ्  
-ग॒च्छ दे॑वि य॒थासु॑खम् । (45)
+<div class="js_include" url="/vedAH/taittirIyam/AraNyakam/06/30_uttame_shikhare/"  newLevelForH1="2" includeTitle="true"> </div>  
+

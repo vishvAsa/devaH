@@ -3,8 +3,6 @@ title: आयातु वरदा
 unicode_script: devanagari
 ---
 
-आया॑तु॒ वर॑दा दे॒वी॒  
-अ॒क्षरं॑ ब्रह्म॒संमि॑तम् ।  
-गा॒य॒त्री᳚ छन्द॑सां मा॒तेदं  
-ब्र॑ह्म जु॒षस्व॑ नः । 
+<div class="js_include" url="/vedAH/taittirIyam/AraNyakam/06/26_AyAtu_varadA/"  newLevelForH1="2" includeTitle="true"> </div>  
+
 
