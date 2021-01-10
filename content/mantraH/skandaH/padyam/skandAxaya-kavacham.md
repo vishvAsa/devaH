@@ -1,6 +1,7 @@
 +++
 title = "स्कन्दाक्षय-कवचम्"
 unicode_script = "devanagari"
+practice_weight = 0
 +++
 
 ## न्यासः
