@@ -4,11 +4,6 @@ unicode_script: devanagari
 practice_weight: 0.1
 ---
 
-इ॒मं मे॑ वरुण श्रुधी॒ +++(=श्रुणु)+++  
-हव॑म्+++(=आह्वानम्)+++ अ॒द्या च॑ मृळय +++(=सुखय)+++।  
-त्वाम॑व॒स्युरा च॑के +++(=अवदन्)+++॥  
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/01/aMshAH/imam_me_varuNa/"  newLevelForH1="2" includeTitle="true"> </div>  
 
-तत्त्वा॑ यामि॒ ब्रह्म॑णा॒ वन्द॑मान॒स्  
-तदा शा॑स्ते॒ यज॑मानो ह॒विर्भिः॑ ।  
-अहे॑ळमानो +++(=अक्रुध्यन्)+++ वरुणे॒ह बो॒ध्युरु॑शंस॒  
-मा न॒ आयुः॒ प्र मो॑षीः ॥
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/01/aMshAH/tat_tvA_yAmi/"  newLevelForH1="2" includeTitle="true"> </div>  
