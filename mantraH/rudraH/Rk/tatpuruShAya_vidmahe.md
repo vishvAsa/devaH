@@ -3,5 +3,4 @@ title = "तत्पुरुषाय विद्महे"
 unicode_script = "devanagari"
 +++
 
-तत्पुरु॑षाय वि॒द्महे॑ महादे॒वाय॑ धीमहि ।  
-तन् नो॑ रुद्रः प्रचो॒दयात् । (61)
+<div class="js_include" url="/vedAH/taittirIyam/AraNyakam/06/aMshAH/tatpuruShAya_vidmahe_rudraH.md"  newLevelForH1="2" includeTitle="false"> </div>  
