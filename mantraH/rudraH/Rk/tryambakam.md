@@ -3,7 +3,5 @@ title = "त्र्यम्बकम्"
 unicode_script = "devanagari"
 +++
 
-त्र्य॑म्बकं यजामहे  
-सु॒गन्धिं॑ पुष्टि॒-वर्ध॑नम्।  
-उ॒र्वा॒रु॒कम् इ॑व॒ बन्ध॑नान्  
-मृ॒त्योर् मु॑क्षीय॒ मामृता॑त्॥
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/07/aMshAH/tryambakam/"  newLevelForH1="2" includeTitle="true"> </div>  
+
