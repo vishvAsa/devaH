@@ -4,14 +4,6 @@ unicode_script: devanagari
 
 ---
 
-भ॒द्रं कर्णे॑भिः शृणु॒याम॑ देवाः ।  
-भ॒द्रं प॑श्येमा॒क्षभि॒र्यज॑त्राः ।  
-स्थि॒रैर् अङ्गै॑स् तुष्टु॒वाꣳस॑स् त॒नूभिः॑ ।  
-व्यशे॑म दे॒वहि॑तं॒ यद् आयुः॑ ।  
-स्व॒स्ति न॒ इन्द्रो॑ वृ॒द्धश्र॑वाः ।  
-स्व॒स्ति नः॑ पू॒षा वि॒श्ववे॑दाः ।  
-स्व॒स्ति न॒स् तार्क्ष्यो॒ अरि॑ष्टनेमिः ।  
-स्व॒स्ति नो॒ बृह॒स्पति॑र्दधातु ।
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/01/aMshAH/bhadraM_karNebhiH/"  newLevelForH1="2" includeTitle="true"> </div>  
 
-आप॑म् आपाम् अ॒पस् सर्वाः॑ ।  
-अ॒स्माद् अ॒स्माद् इ॒तो ऽमुतः॑ । [1]
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/01/aMshAH/svasti_na_indro/"  newLevelForH1="2" includeTitle="true"> </div>  
