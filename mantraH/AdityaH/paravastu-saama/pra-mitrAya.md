@@ -1,5 +1,5 @@
 ---
-title: वरुण-सूक्तम्  
+title: प्र मित्राय  
 unicode_script: devanagari  
 --- 
 
@@ -15,6 +15,8 @@ unicode_script: devanagari
 {{< figure src="../../images/varuna.png"  class="thumbnail">}}
 
 ## साम १ प्रैङ्खभूयिष्ठम्
+
+वरुण-सूक्तम् इत्य् अप्य् अभिधीयते।
 
 - पारम्परिक-गान-मूलम् [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n1/mode/1up&sa=D&ust=1542425956431000)। कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n581&sa=D&ust=1542425956432000)।
 <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
@@ -63,7 +65,7 @@ unicode_script: devanagari
 
 +++(लघ्वक्षरपादेषु स्वरप्लवनेन गाने पादेषु मात्रासाम्यं सिद्ध्यति।)+++
 
-सू+++(["पो])+++गा+++(%)+++या+++(--%३)+++ता, औ+++(["टू])+++,उहो+++(%३)+++इ। औ+++(["ला])+++,हो+++([रॄ]--%३)+++ओ+++(३)+++वा+++(--%-%३)+++।  
+सू+++(["पो])+++गा+++(%)+++या+++(--%३)+++ता, औ+++(["टू])+++,उहो+++(%३)+++इ। औ+++(["ला])+++हो+++([रॄ]--%३),+++ओ+++(३)+++वा+++(--%-%३)+++।  
 ओ+++([ति]"")+++इडा+++([प]")+++अ॥
 
 ## साम ३
