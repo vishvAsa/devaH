@@ -3,7 +3,7 @@ title = "+अधिवैष्णवम्"
 unicode_script = "devanagari"
 +++
 
-## अतिमार्गाः
+## व्यभिचारः
 ### सहजीयाः
 - The Vaishnava-Sahajiya sought religious experience through the five senses which included human coupling and sexual love. Sahaja (Sanskrit: “easy” or “natural”) as a system of worship was prevalent in the Tantric traditions common to both Hinduism and Buddhism in Bengal as early as the 8th–9th centuries. The tradition used the romance between Krishna and Radha as a metaphor for union with God, and sought to experience that union through its physical reenactment. It teaches that the ideal way to understand the union of humanity is to transcend the profane aspects of sexual intercourse and experience it as a divine act. 
 - The Vaisnava-Sahajiyas operated in secrecy because their sexual tantric practices were viewed with marked disdain by other religious communities. In their literature they adopted an enigmatic style employing substitutions and correspondences that has come to be known as twilight language (Sanskrit: saṃdhyā-bhāṣā).
