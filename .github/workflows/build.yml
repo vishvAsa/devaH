@@ -21,6 +21,7 @@ jobs:
         submodules: true
         fetch-depth: 1
     - name: Update submodules
+      if: ${{ github.event_name != 'pull_request'}}
       run: |
         git pull --recurse-submodules --depth 1
         git submodule update --remote --recursive
@@ -37,6 +38,7 @@ jobs:
         hugo
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
+      if: ${{ github.event_name != 'pull_request'}}
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./build_github
