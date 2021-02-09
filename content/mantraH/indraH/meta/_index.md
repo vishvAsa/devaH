@@ -17,7 +17,14 @@ unicode_script = "devanagari"
 ## खे
 - नक्षत्रं ज्येष्ठा। 
 - समीप एव वर्तते खगङ्गाया आपः, सर्पाश्च Ophuichus तथा Hercules इत्येताभ्यां वध्यमानाः (very same ecliptic longitude)। मूलम् अपि सर्पवद् आभाति। (चित्रम् अधः।) 
-- खचक्रे तद्विपरीतया रोहिण्या ऽपि सम्बद्धः। एतद् वृषाकपिसूक्ते "[स जनास इन्द्रः](../../../vedAH/Rk/shAkalam/saMhitA/02/012_sa_janAsa_indraH/)" इति सूक्ते च च्यक्तम्।
+- खचक्रे तद्-विपरीतया रोहिण्या ऽपि सम्बद्धः। एतद् वृषाकपिसूक्ते "[स जनास इन्द्रः](../../../vedAH/Rk/shAkalam/saMhitA/02/012_sa_janAsa_indraH/)" इति सूक्ते च च्यक्तम्।
+- indra preparing to slay vR^itra tells viShNu in the RV: athAbravId vR^itram indro haniShyan sakhe viShNo vitaraM vi kramasva | (vAmadeva gautama) sakhe viShNo vitaraM vi kramasva dyaur dehi lokaM vajrAya viShkabhe | (nema bhArgava) विश्ष्णोर् नक्षत्रं श्रवणः ज्येष्ठासर्पादिसमीपवर्ती। 
+
+{{< figure src="jyeShThA_serpens_hercules_ophiuchus.jpg" title="" class="thumbnail">}}
+
+{{< figure src="jyeShThA_serpens_hercules_ophiuchus_shravaNa.jpg" title="" class="thumbnail">}}
+
+
 
 ## शत्रवः
 - पिप्रुः - He was repeatedly defeated by indra for ṛjiśvan. Mentioned as possessing forts, he is called a dāsa, as well as an asura. He is described as having a black brood, and as being allied with blacks./

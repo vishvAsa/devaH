@@ -18,12 +18,14 @@ KS.11.8; K;S.4.15.6; M;S.1.6.1.26? "आदित्यस्योन्नय�
 {{< figure src="../../images/ship_in_space.jpg"  class="thumbnail">}}
 
 ## आङ्ग्लानुवादः
-The boat song-  
++++(The boat song-)+++  
 {I lift (the oars), ahoy! Go close to the sun!}+++(thrice)+++  
 {Day and night are the oars, ahoy!}+++(thrice)+++  
 {Outer space is the boat, haau!}+++(thrice)+++  
 {In it the sun goes, haau!}+++(thrice)+++  
 {As he goes, we too go, haau!}+++(thrice)+++  
+{We too go, haau!}+++(twice)+++  
+We too go, eha uva!  
 {In the three-lettered abode!}+++(thrice)+++
 
 ## साम
