@@ -1,6 +1,6 @@
 baseURL = "file:///storage/emulated/0/notesData/saMskAra/"
 languageCode = "en-us"
-title = "संस्कारे विश्वासटिप्पणयः"
+title = "संस्कारे विश्वासटिप्पण्यः"
 theme = "sanskrit-documentation-theme-hugo"
 publishDir = "build_offline_android"
 disablePathToLower = true

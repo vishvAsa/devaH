@@ -43,6 +43,6 @@ unicode_script: devanagari
 
 नमः सोमारुद्राभ्यां नमः प्रजापतये ॥
 
-## अन्याष् टिप्पणयः
+## अन्याष् टिप्पण्यः
 - \[[MT10](https://manasataramgini.wordpress.com/2010/04/07/society-and-biological-constraints/)\]
 

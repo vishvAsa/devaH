@@ -92,7 +92,7 @@ unicode_script: devanagari
 - तत्रैव ५ महायज्ञाः।
     - धर्मसूत्रे [अत्र](https://archive.org/stream/apastamba/ApastambaDharmaSutram#page/n83/mode/2up)।
 - श्रीवैष्णवसदाचारनिर्णये [ऽत्र](https://archive.org/details/Vaishvadeva)।
-- टिप्पणयः [अत्र](https://checkvist.com/checklists/575296/export.html?export_notes=true&&task_ids=22621929)।
+- टिप्पण्यः [अत्र](https://checkvist.com/checklists/575296/export.html?export_notes=true&&task_ids=22621929)।
 
 ### मनुः
 - सायम् स्त्रिया \- [अत्र](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc199900.html)।
