@@ -22,7 +22,7 @@ unicode_script: devanagari
 
 {{< figure src="../../images/tArkShya.jpg"  class="thumbnail">}}
 
-### टिप्पणिः
+### टिप्पनी
 हेषारव इव श्येनशब्दः! तार्क्ष्यो गरुण इत्य् अर्वाचीनाः।
 
 ## साम १ आआआ
