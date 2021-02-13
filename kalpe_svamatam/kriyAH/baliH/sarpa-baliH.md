@@ -75,7 +75,7 @@ Cassia Fistula +++(Mar. बाहवा)+++ Yellow gulmohar iva.
 ## स्रोतांसि
 - आपस्तम्ब-गृह्यसूत्रे [ऽत्र](https://archive.org/stream/APASTHAMBAGRUHYASUTRAMSUDARSHANAHARADATHA/APASTHAMBA%20GRUHYASUTRAM%20%28SUDARSHANA%2CHARADATHA%29#page/n263/mode/2up)। मूले [अत्र](https://archive.org/stream/APASTHAMBAGRUHYASUTRAMSUDARSHANAHARADATHA/APASTHAMBA%20GRUHYASUTRAM%20%28SUDARSHANA%2CHARADATHA%29#page/n31/mode/2up)। देवतानिर्देशो [ऽत्र](https://archive.org/stream/APASTHAMBAGRUHYASUTRAMSUDARSHANAHARADATHA/APASTHAMBA%20GRUHYASUTRAM%20%28SUDARSHANA%2CHARADATHA%29#page/n151/mode/2up)। 
     - टीका [अत्र](../../../../../vedAH/taittirIyam/ekAgnikANDa-haradatta-TIkA/)।
-    - टिप्पणिर् [अत्र](https://checkvist.com/checklists/575296/export.html?export_notes=true&&task_ids=22799169) टीकानुमिता। 
+    - टिप्पनीर् [अत्र](https://checkvist.com/checklists/575296/export.html?export_notes=true&&task_ids=22799169) टीकानुमिता। 
 - बोधायन-सूत्रे
     - [TW](https://twitter.com/sammodacharya/status/762117723115573248)।
 

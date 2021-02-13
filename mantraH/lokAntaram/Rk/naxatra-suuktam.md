@@ -32,7 +32,7 @@ unicode_script: devanagari
 व॒र्ष॒य॑न्त्यै॒ स्वाहा॑।  
 चु॒पु॒णिका॑यै॒ स्वाहा॑।  
 
-### टिप्पणिः
+### टिप्पनीः
 - "in Greek tradition there was an older record of 7 with Aratus claiming that one of them had faded away. This is generally believed to be Ambā (Greek Pleione/ 28 Tauri)."  - ([MT](https://manasataramgini.wordpress.com/2017/07/01/a-note-on-the-asterisms-forming-the-nak%e1%b9%a3atra-s/))
 - अत्र विषुवदिनम् इति तैत्तिरीयब्राह्मणाद् अनुमेयम् ~ २३०० BCE।
 
@@ -51,7 +51,7 @@ unicode_script: devanagari
 प्र॒जाप॑तये॒ स्वाहा॑ रोहि॒ण्यै स्वाहा॑।  
 रोच॑मानायै॒ स्वाहा॑ प्र॒जाभ्यः॒ स्वाहा॑।  
 
-### टिप्पणिः
+### टिप्पनीः
 - रोहिद्वर्णा नाम्नैव। ब्रह्महृदयं = capella = β taurii खलु रोहिणीशकटे (Taurus-मुखम्) वर्तते।
 - "prajāpatī rohiņyām agnim asŕjata" इति तैत्तिरीयब्राह्मणे। प्रजापति-रोहिणी-सङ्गमतः कृत्तिकास्व् अग्निर् जात इति कृत्वा तान्त्रिकाग्निमुखे दैवतसङ्गमेनाग्निं जायमानम् भावयन्तीति कस्तूरिरङ्गः।
 - प्रजापतिः पुरा मृगशीर्षेण सम्बद्धः, पश्चाद् रोहिण्या, तयोस् सङ्गमतो ऽग्निः कृत्तिकासु जातः - एतद् विषुवस्थानचलन-द्योतकम् भाति।
@@ -75,7 +75,7 @@ unicode_script: devanagari
 इ॒न्व॒काभ्यः॒ स्वाहौष॑धीभ्यः॒ स्वाहा॑।  
 रा॒ज्याय॒ स्वाहा॒ ऽभिजि॑त्यै॒ स्वाहा॑।  
 
-### टिप्पणिः
+### टिप्पनीः
 - पुरा प्रजापतिना सम्बद्धम्। "प्रजापतेर् यत् सहजम् पुरस्तात्" इत्यनेन मृगशीर्षे ऽव्यङ्गस्योल्लेखो विशुवकाल इति केचित् - (~Apr 26 Julian 4500 BCE  [TW](https://twitter.com/blog_supplement/status/664525633217830915))।
   - आग्रहायणी‌ ‌+इत्यपि नाम - पणिन्य्-अमरौ तथा। तैत्तिरीयसंहितायां (७.२ इत्यत्र) आग्रयणम् इत्यपि। पुरा ऽऽग्रयणेष्टयो तदैवाक्रियत - तत्रायनविशेषस्यारम्भात्। 
   - वृषाकपिसूक्तम् अपि तद्विषये प्रवृत्तम्, यदा विषुवस्थानं वृषराशाव् अवर्तत।
@@ -102,7 +102,7 @@ unicode_script: devanagari
 
 रु॒द्राय॒ स्वाहा॒ऽऽर्द्रायै॒ स्वहा॑। पिन्व॑मानायै॒ स्वाहा॒ प॒शुभ्यः॒ स्वाहा॑।  
 
-### टिप्पणिः
+### टिप्पनीः
 - "ārdrayā rudraḥ prathamānam eti । This means that he original Ārdrā was likely seen as a bright star. Now, while both α Ori and α Canis Majoris are bright stars, α Ori is too close to Mṛgaśiras making α Can Ma more likely, and is also closer to the position of the later yogatāra (γ Geminorum) when projected on to the ecliptic."
 - "In the brāhmaṇa on the nakṣatra ritual in TB 1.5.1.1 the name Ārdrā is replaced by Mṛgayu which is always understood as Sirius: rudrasya bāhū mṛgayavaḥ".
 - Further, this is supported by the evidence of the Aitareya Brāhmaṇa on the famed āgnimāruta-śastra recitation:  प्रजापतिबाणो हि orion belt इति। स बाणो रोहिणीम् अनुसरते प्रजापतये। पूर्णकथा [ऽत्र](../../../../kalpe_svamatam/brAhmaNam/aitareya/tattvam/pashupati-prajApati-rohiNI/)।
@@ -123,7 +123,7 @@ unicode_script: devanagari
 अदि॑त्यै॒ स्वाहा॒ पुन॑र्वसुभ्याम् स्वाहा।  
 भू॑त्यै॒ स्वाहा॒ प्रजा॑त्यै॒ स्वाहा॑।  
 
-### टिप्पणिः
+### टिप्पनीः
 - अदितेर् द्वे शिरसी।
     - तैत्तिरीयसंहितायाम् - 1.2.4 "अदितिर् अस्य् उभ्यतः शीर्ष्णी, सा नः सुप्राची सुप्रतीची सं भव ।"
     - Śatapatha Brāhmaṇa (3.2.4.16) - "aditir asy ubhayataḥ śīrṣṇīti. sa yadenayā samānaṃ sadviparyāsaṃ vadati, yadaparaṃ tatpūrvaṃ karoti, yatpūrvaṃ tadaparaṃ - tenobhayataḥ śīrṣṇī, tasmād āhāditir asy ubhayataḥśīrṣṇīti ||"
@@ -145,7 +145,7 @@ unicode_script: devanagari
 बृह॒स्पत॑ये॒ स्वाहा॑ ति॒ष्या॑य॒ स्वाहा॑।  
 ब्र॒ह्म॒व॒र्च॒साय॒ स्वाहा॑।  
 
-### टिप्पणिः
+### टिप्पनीः
 - Ṛgveda - यु॒ष्माद॑त्तस्य मरुतो विचेतसो रा॒यः स्या॑म र॒थ्यो॒३॒॑ वय॑स्वतः । न यो युच्छ॑ति ति॒ष्यो॒३॒॑ यथा॑ दि॒वो॒३॒॑ऽस्मे रा॑रन्त मरुतः सह॒स्रिण॑म् ॥ 
     - " The comparison of great riches, in thousands, is indicative of the great mass of stars in the open cluster supporting the identification of the old Tiṣya with M44."
 
@@ -165,7 +165,7 @@ unicode_script: devanagari
 स॒र्पेभ्यः॒ स्वाहा॑ऽऽश्रे॒षाभ्यः॒ स्वाहा॑।  
 द॒न्द॒शूके॑भ्यः॒ स्वाहा॑॥  
 
-### टिप्पण्यः
+### टिप्पन्यः
 - "It corresponds to the head of the Greek constellation of Hydra, suggesting that the link to a snake goes back to early Indo-European times. Āśleṣā is specifically associated with the head of the snake. Hence, the 6 stars should correspond to θ , ζ , ε , δ , σ , η Hydrae."
 - वेदाङ्गज्योतिषानुसारम् अस्य मध्य आसीद् अयनारम्भः ~ ११०० BCE इत्यस्मिन्।
 
@@ -185,7 +185,7 @@ unicode_script: devanagari
 पि॒तृभ्यः॒ स्वाहा॑ म॒घाभ्यः॑ स्वाह ा॑ऽन॒घाभ्यः॒ स्वाहा॑  
 अग॒दाभ्यः॑ स्वाहा॑ ऽरुन्ध॒तीभ्यः॒ स्वाहा॑।  
 
-### टिप्पण्यः
+### टिप्पन्यः
 - "Atharvaveda Nakṣatra sūkta states that the summer solstice happened in this asterism pointing to a period of ~4400 YBP"
  
 ## पूर्व-फल्गुन्यः  - अर्यमा
@@ -203,7 +203,7 @@ unicode_script: devanagari
 अ॒र्य॒म्णे स्वाहा॒ फल्गु॑नीभ्या॒ꣳ॒ स्वाहा॑।  
 प॒शुभ्यः॒ स्वाहा॑।  
 
-### टिप्पण्यः
+### टिप्पन्यः
 - अत्र वै यदा चन्द्रमा ऽवर्तत ३००० BCE इति वर्षे, तदाभूद् वत्सरारम्भः।
     - विवरणानि [सौर-चान्द्र-मान-पृष्ठे](../../../../mantraH/worlds/Rk/naxatra-suuktam/)। 
 
@@ -254,7 +254,7 @@ unicode_script: devanagari
 त्वष्ट्रे॒ स्वाहा॑ चि॒त्रायै॒ स्वाहा॑।  
 चैत्रा॑य॒ स्वाहा॑ प्र॒जायै॒ स्वाहा॑।  
 
-### टिप्पणिः
+### टिप्पनीः
 - "The star itself is one the nakṣatra-s mentioned in the RV (according to us contra white indological opinion)."
 - "In the TB 1.5.1.3 Citrā is described as an additional star of the god Indra."
 
@@ -288,7 +288,7 @@ unicode_script: devanagari
 इ॒न्द्रा॒ग्निभ्या॒ꣳ॒ स्वाहा॒ विशा॑खाभ्या॒ꣳ॒ स्वाहा॑।  
 स्रेष्टया॑य॒ स्वाहा॒ऽभिजि॑त्यै॒ स्वाहा॑।  
 
-### टिप्पणिः
+### टिप्पनीः
 "The constellation of the Ikṣvāku-s according to the Rāmāyaṇa."
 
 ## पूर्णिमा
@@ -332,7 +332,7 @@ unicode_script: devanagari
 इन्द्रा॑य॒ स्वाहा॑ ज्ये॒ष्ठायै॒ स्वाहा॑।  
 ज्ये॒ष्ठया॑य॒ स्वाहा॒ऽभिजि॑त्यै॒ स्वाहा॑।  
 
-### टिप्पणिः
+### टिप्पनीः
 - "The TB describes this star as a second Rohiṇī keeping with the red color of the star."
 
 ## मूलम् - निरृतिः
@@ -350,7 +350,7 @@ unicode_script: devanagari
 प्र॒जाप॑तये॒ स्वाहा॒ मूला॑य॒ स्वाहा॑।  
 प्र॒जायै॒ स्वाहा॑।  
 
-### टिप्पणिः
+### टिप्पनीः
 "In the Rāmāyaṇa it is associated with Rākṣasa-s who are supposed to have emanated from Nirṛtti."
 
 ## अषाढाः पूर्वाः - आपः
@@ -400,7 +400,7 @@ unicode_script: devanagari
 ब्रह्म॑णे॒ स्वाहा॑ऽभि॒जिते॒ स्वाहा॑।  
 ब्र॒ह्म॒लो॒काय॒ स्वाहा॒ऽभिजि॑त्यै॒ स्वाहा॑।  
 
-### टिप्पणिः
+### टिप्पनीः
 - "However, its name meaning the all conquering is equivalent to the Iranian name for the same star Vanant. This suggests that it might have been an ancient association."
 - "The Aitareya brāhmaṇa indicates that it was used to mark the day just before the svarasāman days during the annual sattra. Tilak we believe rightly realized this was the reason why Abhijit was important in the early period to mark this ritual day which in turn is critical for marking the days leading up to the Viśuvān day."
 
@@ -449,7 +449,7 @@ unicode_script: devanagari
 वरु॑णाय॒ स्वाहा॒ श॒तभि॑षजे॒ स्वाहा॑।  
 भे॒ष॒जेभ्यः॒ स्वाहा॑।  
 
-### टिप्पणिः
+### टिप्पनीः
 "There is an asterism of Iranians known as Satavaēsa, which we hold to be the equivalent of the Vedic one. The Iranian asterism was associated with the sea while the Vedic one with Varuṇa. The possibility of Fomalhaut (α  Pisces Austrinisis) being this star is not implausible."
 
 ## प्रोष्ठपदाः/ भाद्रपदाः पूर्वाः - अज एकपात्
@@ -484,7 +484,7 @@ unicode_script: devanagari
 
 अह॑ये बु॒ध्निया॑य॒ स्वाहा॑ प्रोष्ठप॒देभ्यः॒ स्वाहा॑।  
 
-### टिप्पणिः
+### टिप्पनीः
 - यदा मृगशीर्षे बभूव विषुवस्थानम्, अत्रासीद् दक्षिणायनारम्भः। विश्व-स्कम्भमूलस्थो ऽहिर्बुध्नियः। स च प्रोष्ठपदास्व् अपि कल्पितः प्रायेण तेनैव कारणेन।
 
 ## रेवती
@@ -502,7 +502,7 @@ unicode_script: devanagari
 पू॒ष्णे स्वाहा॑ रे॒वत्यै॒ +++(=ζ Piscium)+++ स्वाहा॑।  
 प॒शुभ्यः॒ स्वाहा॑।  
 
-### टिप्पणिः
+### टिप्पनीः
 - "Classical astronomy identifies it with ζ  Piscium. This is a really undistinguished star. So we cannot be sure if that is what was originally meant or a higher up star like β  Andromedae was used. Narahari Achar holds that the goddess Pathyā Revatī mentioned in the Svastisūkta of the Atri-s implied this asterism. While this is not impossible we are not entirely sure of that especially given the undistinguished nature of the star identified with it."
 
 ## अश्विनौ
@@ -519,7 +519,7 @@ unicode_script: devanagari
 अ॒श्विभ्या॒ꣳ॒ स्वाहा॑ऽश्व॒युग्भ्या॒ꣳ॒ स्वाहा॑।  
 श्रोत्रा॑य॒ स्वाहा॒ श्रुत्यै॒ स्वाहा॑।  
 
-### टिप्पणिः
+### टिप्पनीः
 - "अश्विनौ व्यात्तम्" इत्युत्तरनारयणे। भरणीविषुवकाले। विवरणानि [अत्र](../../../../../jyotiSham/naxatram/chAndra-naxatram/)।
 - पश्चाद् विशुवस्थानम् अत्र।
 
