@@ -8,4 +8,4 @@ A young and upcoming archaka gRhastha we knew died. He was a good temple and gRh
 
 In contrast, hindu-s of most sorts believe that the dead keep moving – through the pitRloka where thrive on our grateful offerings, to svarga/ naraka/ vaikuNTha/ kailaasa etc.. and thence possibly back to earth. When “rest in peace” muttered by the ignorant, those with the “defect” of knowledge can’t but cringe at the effective “post-mortem conversion”.
 
-Better wish: “May he attain sadgati” or “भावपूर्ण श्रद्दान्जलि” instead!
+Better wish: “May he attain sadgati” or “भावपूर्ण श्रद्धाञ्जलि” instead!
