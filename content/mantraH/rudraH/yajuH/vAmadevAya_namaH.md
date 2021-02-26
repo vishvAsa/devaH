@@ -1,6 +1,7 @@
 +++
 title = "वामदेवाय नमः"
 unicode_script = "devanagari"
+practice_weight = 5
 +++
 
 +++(तैत्तिरीयारण्यकस्वरोऽत्र।)+++
