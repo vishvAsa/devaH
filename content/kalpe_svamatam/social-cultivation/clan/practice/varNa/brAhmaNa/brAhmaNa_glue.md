@@ -30,6 +30,21 @@ The **vaidika ideals** (../deva-s, xAtra, dharma, brahman, yajna ... mentioned i
 - Cambodia \[kauNDinya dynasty [Q](https://www.quora.com/What-is-the-link-between-the-Khmer-Empire-and-ancient-India), brAhmaNa priests' ceremonies [C05](https://www.cambodiadaily.com/archives/priests-uphold-a-unique-and-royal-tradition-50637/)\]
 - Bali.
 
+### rAmAyaNa
+- India - Valmiki Rāmāyaṇa
+- Nepal - Sidhi
+- Sri Lanka - Jānakī-Haraṇa
+- Thailand - Ramakien
+- Japan - Ramaensho
+- Java - Kakavin
+- Cambodia - Reamker
+- Malaysia - Seri
+- Phillipines - Maharadia Lawana
+- Burma - Yamayana
+- Laos - Phra Lak Rama
+
+The Rāmāyaṇa is truly "Asia's Epic" & it is eternal.
+
 
 ## Continual harmonization
 - This penetration was likely accompanied by acknowledgement of kShatriya status of local lords. Late examples include: shivAjI, the hiraNyagarbha ritual for nair rulers.
