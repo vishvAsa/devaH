@@ -58,6 +58,10 @@ unicode_script: devanagari
 - प्रजापत्यनुसरणकथा पश्चादुच्यते।
 - विषुवदिनम् अत्रावर्तत ३००० BCE इति वर्षे।
 
+The Romans, like the H, seemed to remember of Orion as being the "leader of the constellations" i.e. the AgrayaNa position. Did some see the belt as the sword?:
+
+> Orion may be seen stretching his arms over a vast expanse of sky and rising to the stars with no less huge a stride. A single light marks each of his shining shoulders, and three aslant trace the downward line of his sword ; but three mark Orion’s head, which is embedded in high heaven with his countenance remote. It is Orion who leads the constellations as they speed over the full circuit of heaven. Astronomica by Marcus Manilius (translated by Goold)
+
 ## मृगशीर्षम् - सोमः
 
 {{<figure src="../../images/naxatram/wiki/mRgashIrSha.png" title="मृगशीर्षम्" class="thumbnail">}}
