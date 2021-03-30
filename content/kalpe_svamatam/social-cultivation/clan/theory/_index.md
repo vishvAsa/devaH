@@ -43,12 +43,12 @@ varNa/ jAti = (social role/ hereditary caste) system.
 
 ## Role of later traditions
 
-Some people falsely generalize later anti-varNAshrama traditions.
+Some people falsely generalize later anti-varNAshrama traditions. 
 
 - Agamika pAncharAtra tradition strongly supports varNAshrama-dharma.
     - See quotes in the "Unrestricted ability to enter intellectual/ spiritual life" section.
 - shaiva-siddhAnta supports varNAshrama-vyavasthA.
-    - "iti varNAshramAchArAn manasApi na la~nghayet | yo yasminn Ashrame tiShThan dIkShitaH shivashAsane | sa tasminn eva samtiShThech ChivadharmaM ca pAlayet || ... siddhAnta shaiva did not forsake his Ashrama or varNa when he attained dIkSha into the shaiva path and was not a means of “revolting against” or “escaping” the ordinances of the Aryas. ... the general followers were encouraged to maintain their existing life-style/profession and varNa-related observances, while accomodating the shaiva observances with that framework. In fact the basic dharma-shAstric injunctions are relating to other nitya issues are reiterated by the shiva-dharma." \[[MT](https://manasataramgini.wordpress.com/2006/06/23/siddhanta-tantrics-and-the-mainstream-brahminical-path/)\]
+    - वर्णाश्रमाचारान् मनसापि न लङ्घयेत्॥ यो यस्मिन्नाश्रमे तिष्ठन् प्राप्तो दीक्षां शिवात्मिकाम्। स तस्मिन्नेव संतिष्ठन् शिवधर्मं च पालयेत् - श्रीमद्भार्गवागमः as quoted by लक्षद्वयाध्यापक-श्रीमदघोरशिवाचार्य ... siddhAnta shaiva did not forsake his Ashrama or varNa when he attained dIkSha into the shaiva path and was not a means of “revolting against” or “escaping” the ordinances of the Aryas. ... the general followers were encouraged to maintain their existing life-style/profession and varNa-related observances, while accomodating the shaiva observances with that framework. In fact the basic dharma-shAstric injunctions are relating to other nitya issues are reiterated by the shiva-dharma." \[[MT](https://manasataramgini.wordpress.com/2006/06/23/siddhanta-tantrics-and-the-mainstream-brahminical-path/)\]
     - See quotes in the "Unrestricted ability to enter intellectual/ spiritual life" section.
 
 
