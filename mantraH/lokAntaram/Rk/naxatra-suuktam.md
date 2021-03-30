@@ -57,10 +57,7 @@ unicode_script: devanagari
 - प्रजापतिः पुरा मृगशीर्षेण सम्बद्धः, पश्चाद् रोहिण्या, तयोस् सङ्गमतो ऽग्निः कृत्तिकासु जातः - एतद् विषुवस्थानचलन-द्योतकम् भाति।
 - प्रजापत्यनुसरणकथा पश्चादुच्यते।
 - विषुवदिनम् अत्रावर्तत ३००० BCE इति वर्षे।
-
-The Romans, like the H, seemed to remember of Orion as being the "leader of the constellations" i.e. the AgrayaNa position. Did some see the belt as the sword?:
-
-> Orion may be seen stretching his arms over a vast expanse of sky and rising to the stars with no less huge a stride. A single light marks each of his shining shoulders, and three aslant trace the downward line of his sword ; but three mark Orion’s head, which is embedded in high heaven with his countenance remote. It is Orion who leads the constellations as they speed over the full circuit of heaven. Astronomica by Marcus Manilius (translated by Goold)
+- "Interesting both the kR^ittikAH (Pleiades) and Hyades which contains rohiNI are close by open clusters; 1 young, 1 older. "
 
 ## मृगशीर्षम् - सोमः
 
@@ -81,16 +78,22 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 ### टिप्पनीः
 - पुरा प्रजापतिना सम्बद्धम्। "प्रजापतेर् यत् सहजम् पुरस्तात्" इत्यनेन मृगशीर्षे ऽव्यङ्गस्योल्लेखो विशुवकाल इति केचित् - (~Apr 26 Julian 4500 BCE  [TW](https://twitter.com/blog_supplement/status/664525633217830915))।
-  - आग्रहायणी‌ ‌+इत्यपि नाम - पणिन्य्-अमरौ तथा। तैत्तिरीयसंहितायां (७.२ इत्यत्र) आग्रयणम् इत्यपि। पुरा ऽऽग्रयणेष्टयो तदैवाक्रियत - तत्रायनविशेषस्यारम्भात्। 
+  - आग्रहायणी‌ +इत्यपि नाम - पणिन्य्-अमरौ तथा। तैत्तिरीयसंहितायां (७.२ इत्यत्र) आग्रयणम् इत्यपि। पुरा ऽऽग्रयणेष्टयो तदैवाक्रियत - तत्रायनविशेषस्यारम्भात्। 
   - वृषाकपिसूक्तम् अपि तद्विषये प्रवृत्तम्, यदा विषुवस्थानं वृषराशाव् अवर्तत।
   - तस्यैव सूर्येणसहोदिते यज्ञकालस्यारम्भो ऽवर्तत - तेन हि तस्य सोमाधिपत्यम्, यज्ञ इति नामान्तरम्।
 - "Some take this to be the 3 stars on the head of Orion (φ 1, φ 2, λ Orionis), which is how they are denoted in classical astronomy. "
 - सोमो हि ब्राह्मणानां राजा। तस्यैवानुकरणं मेखलया दण्डेन +अजिनेन यज्ञोपवीतेनापि - पारसीकेषु ब्राह्मणेषु च!
+- "It features the great Nebula the brightest nebula visible to us, which blazes from the ionization caused by hot theta Orionis group of multiple stars. 4 of them can be easily seen with a small telescope. That would also show the M78 nebula. The region is rich in star birth."
+
+The Romans, like the H, seemed to remember of Orion as being the "leader of the constellations" i.e. the AgrayaNa position. Did some see the belt as the sword?:
+
+> Orion may be seen stretching his arms over a vast expanse of sky and rising to the stars with no less huge a stride. A single light marks each of his shining shoulders, and three aslant trace the downward line of his sword ; but three mark Orion’s head, which is embedded in high heaven with his countenance remote. It is Orion who leads the constellations as they speed over the full circuit of heaven. Astronomica by Marcus Manilius (translated by Goold)
 
 #### कथाः
 - "In Vaidika reckoning the core of Mṛga was Orion with the arrow of Rudra shot through it (See below). The arrow is identified with the three stars of the belt of Orion (ζ , ε , δ Orionis). " ता इण्वकाः। "Taittirīya Brāhmaṇa 1.5.1.1 states: somasyenvakā vitatāni ।" - ([MT](https://manasataramgini.wordpress.com/2017/07/01/a-note-on-the-asterisms-forming-the-nak%e1%b9%a3atra-s/))
 - मृगशीर्षकथा ऽध आर्द्राभागे दृश्या।
 - वृषाकपिर् इति +ऋग्वेदसूक्त इन्द्रस्य प्रियः, इन्द्राणीमन्युना शुना दष्टः कर्णे, शिरसा खण्डितः, पश्चात्+क्षान्तः।
+- "It is also likely that the 3 stars in a line inspired the myth of the tripura-s with the 3 asura forts need to be a in a line to be pierced by the arrow of rudra."
 
 ## आर्द्रा - रुद्रः
 
@@ -107,10 +110,13 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 रु॒द्राय॒ स्वाहा॒ऽऽर्द्रायै॒ स्वहा॑। पिन्व॑मानायै॒ स्वाहा॒ प॒शुभ्यः॒ स्वाहा॑।  
 
 ### टिप्पनीः
+- The hands of rudra were associated with the other forward stars like beta.
 - "ārdrayā rudraḥ prathamānam eti । This means that he original Ārdrā was likely seen as a bright star. Now, while both α Ori and α Canis Majoris are bright stars, α Ori is too close to Mṛgaśiras making α Can Ma more likely, and is also closer to the position of the later yogatāra (γ Geminorum) when projected on to the ecliptic."
 - "In the brāhmaṇa on the nakṣatra ritual in TB 1.5.1.1 the name Ārdrā is replaced by Mṛgayu which is always understood as Sirius: rudrasya bāhū mṛgayavaḥ".
 - Further, this is supported by the evidence of the Aitareya Brāhmaṇa on the famed āgnimāruta-śastra recitation:  प्रजापतिबाणो हि orion belt इति। स बाणो रोहिणीम् अनुसरते प्रजापतये। पूर्णकथा [ऽत्र](../../../../kalpe_svamatam/brAhmaNam/aitareya/tattvam/pashupati-prajApati-rohiNI/)।
 - "Further, the name Ārdrā means moist indicating a link with the wet season. The Iranian equivalent of Sirius, Tishtrya is also associated with rain suggesting that Ārdrā inherits this ancestral association."
+- "Another rich part of the sky with the open cluster M41 below Sirius. "
+- "A good challenge in this constellation is to see the companion star of Sirius . It was predicted by great mathematician Friedrich Bessel through the wobble of Sirius and seen only later by others. It is a small star about the size of the Earth but with the mass of the sun. IA good challenge in this constellation is to see the companion star of Sirius . It was predicted by great mathematician Friedrich Bessel through the wobble of Sirius and seen only later by others. It is a small star about the size of the Earth but with the mass of the sun." - MT
 
 ## पुनर्वसू - अदितिः
 
@@ -152,6 +158,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 ### टिप्पनीः
 - Ṛgveda - यु॒ष्माद॑त्तस्य मरुतो विचेतसो रा॒यः स्या॑म र॒थ्यो॒३॒॑ वय॑स्वतः । न यो युच्छ॑ति ति॒ष्यो॒३॒॑ यथा॑ दि॒वो॒३॒॑ऽस्मे रा॑रन्त मरुतः सह॒स्रिण॑म् ॥ 
     - " The comparison of great riches, in thousands, is indicative of the great mass of stars in the open cluster supporting the identification of the old Tiṣya with M44."
+- "The name tiShya seems homologous to the Iranian tiShtrya. Today the Iranian asterism is equated with Sirius but there is a suspicion that this might have been secondary."
 
 ## आश्रेषाः - सर्पाः
 
@@ -191,7 +198,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 ### टिप्पन्यः
 - "Atharvaveda Nakṣatra sūkta states that the summer solstice happened in this asterism pointing to a period of ~4400 YBP"
- 
+
 ## पूर्व-फल्गुन्यः  - अर्यमा
 
 {{<figure src="../../images/naxatram/wiki/maghA.png" title="फल्गु॑न्यः" class="thumbnail">}}
