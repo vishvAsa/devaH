@@ -21,9 +21,13 @@ brAhmaNa and kShatriya jAti-s have already degraded from their roles/ expertise,
 #### A point of attack
 The jAti-hierarchy has become a point of attack on hindu society by various streams of thought including inimical abrahamisms and communists. Many of the formerly untouchable jAti-s have been converted.
 
+##### Kerala
 - One aspect where the jAti-system was completely rotten - especially in the madhouse of keraLa, is where a low-jAti person converted to a muslim or christian would be treated much better. This contributed to their increase in numbers. अश्वं नैव गजं नैव व्याघ्रं नैव च नैव च | अजापुत्रं बलिं दद्याद्देवो दुर्बलघातक: || applies to these idiots as well.
     - Portuguese quotes about KeraLa here \[[WP16](https://agnimaan.wordpress.com/2016/02/19/the-mleccha-dalit-stupidity/)\].
-    - Exceptions and consequences - Pathinalu desam in Walluvanad and Kavalappara \[[TW17](https://twitter.com/maidros78/status/854153022640750593).\]
+
+###### Exceptions and consequences 
+- Pathinalu desam in Walluvanad and Kavalappara \[[TW17](https://twitter.com/maidros78/status/854153022640750593).\]
+- Though Travancore Maharajas & court Brahmins maintained good alliance with Europeans, they built special place to meet them. They would change sacred thread & take bath to purify themselves after meeting Europeans whom they still considered as mlechchas. Only later this changed.
 
 #### Unoptimality
 

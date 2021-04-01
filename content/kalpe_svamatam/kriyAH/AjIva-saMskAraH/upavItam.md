@@ -5,7 +5,17 @@ title: उपवीतधारणम्
 ## Eligibility
 - "The assumption that the upavIta, received in the vaidika upanayana ceremony, is worn only by brAhmaNas, is completely baseless. But the vaidika upanayanam was available to kSatriyas, vaishyas & rathakAras." - GA. 
 - pAncharAtra-Agama: "the sanatkumAra saMhitA gives two forms of upanayanaM, the vedic form for dvijas and tantric agnimukhaM version for women and shUdras. On recieving that they may perform several rites, but the pA~ncharatric brahmin is still supposed to perform vaidika rites to various deities in addition to the internal pA~ncharatric sacrifices to vedic deities given in the rudra rAtra." - [MT](https://manasataramgini.wordpress.com/2006/03/27/notes-on-early-pancharatra-vaishnavism/)
+
+### Alternate dvijatvam
+#### shaivAgamas
 - "kAmikAgama gives adhikAra for upavIta for all 4 varNas, including all shUdras initiated into the shaiva religion."
+
+#### jAtyutkarSha in shaiva-siddhAnta
+- Anyone who is a Paśu but has received Śaktipāta is qualified for it.
+- Vaidika-Dvijatvam confers on one born in an appropriate body, the ability to become a Brāhmaṇa, Kṣatriya & Vaiśya. Śaiva-Dvijatvam on the other hand transforms anyone born in a human body from a paśu to a muktiyogya.
+
+#### vaiShNavAgamas
+- "Most interestingly the sanatkumAra saMhitA gives two forms of upanayanaM, the vedic form for dvijas and tantric agnimukhaM version for women and shUdras. On recieving that they may perform several rites, but the pA~ncharatric brahmin is still supposed to perform vaidika rites to various deities in addition to the internal pA~ncharatric sacrifices to vedic deities given in the rudra rAtra." - MT
 
 ### Women
 - Woman wearing yajnopavIta [TW16](https://twitter.com/blog_supplement/status/709601817584340992).
