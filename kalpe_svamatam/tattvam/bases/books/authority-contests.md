@@ -4,6 +4,7 @@ title: Pedigree and corruption
 
 ## Intro
 Scholars have been selective about deciding whether any book's statement can be taken as authoritative.
+
 - Patanjali (in पस्पशाह्निकम् , महाभाष्यम् ) cautions "क्व पुनरिदं  पठितम् ?  भ्राजा नाम श्लोकाः । किंच भोः श्लोका अपि प्रमाणम् ?  किंचातः ? यदि प्रमाणम् , अयमपि प्रमाणम् भवितुम् अर्हति ..... प्रमत्तगीत एष तत्रभवतः । यस्तु अप्रमत्तगीतः तत्प्रमाणम् ।"
 
 

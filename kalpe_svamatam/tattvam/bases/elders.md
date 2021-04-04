@@ -22,7 +22,7 @@ title: शिष्टः Role-models
     - See discussion under "history".
 
 ## Antiquity
->  Traditions instinctively value historical antiquity because it signals an stable strategy to its votaries. Thus even the nirgrantha & tathAgata respectively claimed that they were one in a long series of teachers/incarnates who existed alongside known H historical figures like uddAlaka AruNi or rAma the ikShvAku or kR^iShNa devakIputra or the pANDu-s. Their tradition wrote pseudo-rAmAyaNa-s and pseudo-bhArata-s to emphasize the deep history of their mata to their followers i.e. it is antiquity was not less than that of their ortho-religious (H) rivals. 
+> Traditions instinctively value historical antiquity because it signals an stable strategy to its votaries. Thus even the nirgrantha & tathAgata respectively claimed that they were one in a long series of teachers/incarnates who existed alongside known H historical figures like uddAlaka AruNi or rAma the ikShvAku or kR^iShNa devakIputra or the pANDu-s. Their tradition wrote pseudo-rAmAyaNa-s and pseudo-bhArata-s to emphasize the deep history of their mata to their followers i.e. it is antiquity was not less than that of their ortho-religious (H) rivals. 
 > 
 > This idea was probably quite deep in the Indian psyche -- that's why perhaps kAlidAsa actually had a verse protesting the idea that not all that is old is necessarily a positive signal. Even as late as as the 1700s the H students of Euclid commented that it has value because it
 was a revelation of prajApati that had simply been transmitted by uklidasha.
