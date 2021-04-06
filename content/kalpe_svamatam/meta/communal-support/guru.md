@@ -17,14 +17,22 @@ title: Guru गुरुः
 ## Disagreements between guru and shiShya
 
 - Doctrinal differences between gurus and shiShya-s may arise; with far fewer disagreements about ideal practice.
-- Examples
-    - Entire new traditions springing from older traditions -
-        - Arya samAja and mAdhva-s from shAnkara renunciates.
-    - yAjJNavalkya's famous split with his teacher.
-    - rAmAnuja disagreeing with his teacher
-    - madhusUdana sarasvatI's boldly diverging from AcArya shankara (or even sUreshvara his own disciple!)
-    - kumArila's bold independence from shabarasvAmin
-    - nIlakaNTha dIxita very respectfully acknowledging his uncle appayya's stationary earth error \[[TW](https://twitter.com/blog_supplement/status/878469240298381313)\].
+
+### Examples
+- Entire new traditions springing from older traditions -
+    - Arya samAja and mAdhva-s from shAnkara renunciates.
+- yAjJNavalkya's famous split with his teacher.
+- rAmAnuja disagreeing with his teacher
+- madhusUdana sarasvatI's boldly diverging from AcArya shankara (or even sUreshvara his own disciple!)
+- kumArila's bold independence from shabarasvAmin
+- nIlakaNTha dIxita very respectfully acknowledging his uncle appayya's stationary earth error \[[TW](https://twitter.com/blog_supplement/status/878469240298381313)\].
+
+>  Gurubhakti is not the suspension of thinking, standards or thresholds. 
+> - Sūreśvarācārya could depart from his Guru, Śaṅkara on some views. Madhusūdana Sarasvatī could depart from Śaṅkara as well. A Śrībhāṣya was born because a Kūreśa could raise questions about his Guru, Rāmānuja’s definition of a Jīva. 
+> - Kāśmīra Śaivācārya Rāmakaṇṭha could pay his deep respects to Saiddhāntika Ācārya Bṛhaspati while disagreeing with him on the correct view regarding a tricky issue in Siddhānta—The liberation of the highest of all beings endowed with divine authority, Ananta the Vidyeśvara. 
+> - Kumārila writes his Tantravārttika on Śabarasvāmī’s Mīmām̐sasūtrabhāṣya but does not hesitate to depart from his predecessor’s commentary on the Mīmām̐sasūtra in several places.
+
+## Forced Conformism
 - Of late, disagreements among various traditionalist lineages has been replaced by conformism and forced unoriginality.  
     - "What makes the situation very difficult is the fact that in a traditional teaching in the guru-disciple relationship an objective discussion of facts is not admitted. Studying the authoritative texts does not mean that they be read, discussed, and their meaning discovered with a simple, unprejudiced mind. Instead, the guru teaches his disciples a particular ideology and shows them how this ideology can be “proven” referring to those authoritative texts, which are considered as a divine revelation. In this process, considerable violence is often done to the texts, and it happens that their meaning is turned into the exact opposite. If a student discovers that the teaching of the guru is in contradiction to the Vedas he is expected to believe that this contradiction is only due to his own limited understanding of things." - D Koch
 

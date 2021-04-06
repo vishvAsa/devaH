@@ -302,7 +302,8 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 स्रेष्टया॑य॒ स्वाहा॒ऽभिजि॑त्यै॒ स्वाहा॑।  
 
 ### टिप्पनीः
-"The constellation of the Ikṣvāku-s according to the Rāmāyaṇa."
+- "The constellation of the Ikṣvāku-s according to the Rāmāyaṇa."
+- "Observationally, one may attempt to see if 1 perceives beta Librae as having a green hue. Some people say so making it the only naked eye star with a greenness to it."
 
 ## पूर्णिमा
 
