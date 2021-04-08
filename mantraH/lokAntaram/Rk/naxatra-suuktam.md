@@ -417,6 +417,8 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 ### टिप्पनीः
 - "However, its name meaning the all conquering is equivalent to the Iranian name for the same star Vanant. This suggests that it might have been an ancient association."
 - "The Aitareya brāhmaṇa indicates that it was used to mark the day just before the svarasāman days during the annual sattra. Tilak we believe rightly realized this was the reason why Abhijit was important in the early period to mark this ritual day which in turn is critical for marking the days leading up to the Viśuvān day."
+- "It is far away from the ecliptic and has been dropped even by the time of the mahAbhArata where indra mentions this to skanda in a cryptic legend. This probably was due to precession making it no longer suitable for marking the days for the specific abhijit ritual in the annual sattra. Since this was recorded in the bhArata itself, I believe it is evidence for the actual coeval use of the kRttikAdi system in early history before its precession by the time of the bhArata."
+- " we have the great Ring Nebula M 57 which is one of the best planetary nebulae for a small scope. I have even managed it with my 20 x 70 binocs on good nights. The double-double (Epsilon Lyrae) NW of abhijit is a good wide multiple system for beginners. The globular cluster of M 56 is also a good sight at the lower part of the constellation."
 
 ## श्रोणा / श्रवणम् - विष्णुः
 
@@ -433,6 +435,9 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 विष्ण॑वे॒ स्वाहा॑ श्रो॒णायै॒ स्वाहा॑।  
 श्लोका॑य॒ स्वाहा॑ श्रु॒ताय॒स्स्वाहा॑।  
 
+### टिप्पनी
+- " A dense part of the Milky Way with excellent sights of star fields, with globular NGC 6760 eta Aquilae in the wing of the Eagle is a Cepheid variable that varies clearly enough to be perceived by the naked eye under good skies over a period of ~ 1 week. .. This star is < 30 Myr old"
+
 ## धनिष्ठाः/ श्रविष्ठाः - वसवः
 
 {{< figure src="../../images/naxatram/wiki/dhaniShThA.svg"  class="thumbnail">}}  
@@ -447,6 +452,10 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 वसु॑भ्यः॒ स्वाहा॒ श्रवि॑ष्ठाभ्यः॒ स्वाहा॑।  
 अग्रा॑य॒ स्वाहा॒ परी॑त्यै॒ स्वाहा॑।  
+
+### टिप्पनी
+- An ancient solstitial constellation.
+- "From an observer's viewpoint the Blue Flash Nebula NGC 6905 right at the top is a good challenge. ... NGC 6934 is a good globular."
 
 ## शतभिषग् - वरुणः
 
@@ -464,7 +473,10 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 भे॒ष॒जेभ्यः॒ स्वाहा॑।  
 
 ### टिप्पनीः
-"There is an asterism of Iranians known as Satavaēsa, which we hold to be the equivalent of the Vedic one. The Iranian asterism was associated with the sea while the Vedic one with Varuṇa. The possibility of Fomalhaut (α  Pisces Austrinisis) being this star is not implausible."
+- "The taittirIya brAhmaNa associates this with varuNa; however, the taittirIya saMhitA makes it 1 of the 3 indra nakShatra-s."
+- "There is an asterism of Iranians known as Satavaēsa, which we hold to be the equivalent of the Vedic one. The Iranian asterism was associated with the sea while the Vedic one with Varuṇa. The possibility of Fomalhaut (α  Pisces Austrinisis) being this star is not implausible."
+- "It is believed to be the group of stars around Lambda Aquarii a slowly pulsating red giant. "
+- " First and foremost is the Helix Nebula NGC 7293 which was discovered by Karl Harding, while making his giant star atlas funded along with Gauss by Laplace and Lagrange. It is a glorious sight even with a mere 6in reflector. Then there is M2 which along with M 56 which we saw in the vicinity of abhijit remarkably is is part a former dwarf galaxy termed the Gaia sausage that was swallowed by the Milky Way well before the birth of the sun. Another great planetary is the Saturn Nebula NGC 7009 discovered by Herschel."
 
 ## प्रोष्ठपदाः/ भाद्रपदाः पूर्वाः - अज एकपात्
 
