@@ -493,8 +493,10 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 अ॒जायैक॑पदे॒ स्वाहा॑ प्रोष्ठप॒देभ्यः॒ स्वाहा॑।  
 तेज॑से॒ स्वाहा॑ ब्रह्मवर्च॒साय॒ स्वाहा॑।  
 
+### टिप्पनी
 {{< figure src="../../../../../jyotiSham/history/images/zodiac_history/bce-3000_naxatra-chakra.jpg" title="पूर्वप्रोष्ठपदेष्व् अयनान्त्यम् पुरा - उग्रः सूर्यः" class="thumbnail">}}
 
+- अत्रैवावर्तत दधिक्रावा?
 
 ## प्रोष्ठपदाः/ भाद्रपदाः उत्तराः  - अहिर् बिध्नियः
 
@@ -512,6 +514,8 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 ### टिप्पनीः
 - यदा मृगशीर्षे बभूव विषुवस्थानम्, अत्रासीद् दक्षिणायनारम्भः। विश्व-स्कम्भमूलस्थो ऽहिर्बुध्नियः। स च प्रोष्ठपदास्व् अपि कल्पितः प्रायेण तेनैव कारणेन।
+- The yavana-s saw it representing the ancestress of themselves & the Iranics.
+- "Of course M 31 the great Andromeda galaxy & its satellite galaxies M 32 and M 110. Probably someone sitting on a planet there is writing likewise about the Milky Way & the Magellanic clouds."
 
 ## रेवती
 
@@ -525,11 +529,14 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 क्षु॒द्रान् प॒शून् र॑क्षतु रे॒वती॑ नः। गावो॑ नो॒ अश्वा॒ꣳ॒ अन्वे॑तु पू॒षा।  
 अन्न॒ꣳ॒ रक्ष॑न्तौ बहु॒दा विरू॑पम्। वाजꣳ॑+++(=अन्नम्)+++ सनुता॒य्ँ+++(=दत्ताम्)+++ यज॑मानाय य॒ज्ञम्॥  
 
+
 पू॒ष्णे स्वाहा॑ रे॒वत्यै॒ +++(=ζ Piscium)+++ स्वाहा॑।  
 प॒शुभ्यः॒ स्वाहा॑।  
 
 ### टिप्पनीः
 - "Classical astronomy identifies it with ζ  Piscium. This is a really undistinguished star. So we cannot be sure if that is what was originally meant or a higher up star like β  Andromedae was used. Narahari Achar holds that the goddess Pathyā Revatī mentioned in the Svastisūkta of the Atri-s implied this asterism. While this is not impossible we are not entirely sure of that especially given the undistinguished nature of the star identified with it."
+- "The constellation of Pisces while clearly discernable under dark skies is a dim one. This goes against the early H tendency to use bright asterisms to mark nakShatra-s even if they are far from the ecliptic. What were the stars defining revatI? The nakShatra-kalpa of the atharvan tradition holds say ekA revatI: hence, there was only one star in it. siddhAnta astronomy takes that to be zeta Piscium. While close to the ecliptic, at mag 5.2 that is really a faint start to have been the original. 2. We know that the preceding proShThapada literally meant the constellation of the feet of the stool. That makes it unambiguous that square of Pegasus was seen as a stool by the Arya-s, and revatI should be to the west of that. Hence, we suspect that originally revatI was probably beta Andromedae."
+- 2nd deity: "The next puzzling issue regarding revatI is the assignment of dual deities with it - puShTipatI pashupA. One of those is transparently named as pUShan. Who is the other one? Most likely it is the goddess pathyA revatI, whom the gopathabrAhmaNa of the AV holds to be the wide of the goat-riding pUShan, with the 2 being the guardians of paths, and in this case horses, cows and other domesticates+ food. ... The aitareya brAhmaNa mentions the sun following the path laid our out pathyA (revatI). Given the solar connections of puShan, this coupling is most likely."
 
 ## अश्विनौ
 
