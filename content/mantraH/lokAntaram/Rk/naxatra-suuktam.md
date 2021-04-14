@@ -58,6 +58,7 @@ unicode_script: devanagari
 - प्रजापत्यनुसरणकथा पश्चादुच्यते।
 - विषुवदिनम् अत्रावर्तत ३००० BCE इति वर्षे।
 - "Interesting both the kR^ittikAH (Pleiades) and Hyades which contains rohiNI are close by open clusters; 1 young, 1 older. "
+- मैत्रायणीयसम्प्रदाये - "In some reckonings it holds rohiNI as the nakShatra of soma & narrates how of all the daughters of prajApati soma preferred rohiNI and was afflicted with TB. Hence, the ritual in rohiNI is recommended for TB. It also mentions a certain brAhmaNa-nakShatra for soma at the end of the list in the ritual of the laying of the nakShatra bricks during the somayAga."
 
 ## मृगशीर्षम् - सोमः
 
@@ -84,6 +85,7 @@ unicode_script: devanagari
 - "Some take this to be the 3 stars on the head of Orion (φ 1, φ 2, λ Orionis), which is how they are denoted in classical astronomy. "
 - सोमो हि ब्राह्मणानां राजा। तस्यैवानुकरणं मेखलया दण्डेन +अजिनेन यज्ञोपवीतेनापि - पारसीकेषु ब्राह्मणेषु च!
 - "It features the great Nebula the brightest nebula visible to us, which blazes from the ionization caused by hot theta Orionis group of multiple stars. 4 of them can be easily seen with a small telescope. That would also show the M78 nebula. The region is rich in star birth."
+- kaTha-s and maitrAyaNIya-s assign mRgashiras to maruts (also a good combination with ArdrA/ rudra. "On the other hand somArudrA is also an ancient combination.") 
 
 The Romans, like the H, seemed to remember of Orion as being the "leader of the constellations" i.e. the AgrayaNa position. Did some see the belt as the sword?:
 
