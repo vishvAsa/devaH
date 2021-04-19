@@ -32,3 +32,6 @@ bodhAyana sheSha sUtra 2.16-18, rudra-pratiShTha: kalpa gives the rite for the i
 
 ## Rise of Agamas and purANa-s
 " Thus, we see a link between the gR^ihya image worship and the origins of the larger image worship in temples. However, in most streams except the vaikhAnasa-s, this shift to the large temples was closely linked to the rise of a new class of texts and rituals in place of the vedic ones – the Agamic texts. Thus, one might state with confidence the origin of the classical Agama-s as well as extant paurANic narratives are closely linked to the emergence of the large temples. It is not without reason that town-planning, civil constructions and the arts occupy the interest of early Agamas like devyAmata and purANa-s like viShNudharmottara." ([MT](https://manasataramgini.wordpress.com/2008/02/23/early-temples-and-iconic-worship/))
+
+## Iconoclasm
+- The Hindus believed that the Gods and Goddesses leave for their abode before the hatchet or the hammer of the vile “mlecchas” or “asuras” so much as even touched the idols. The idea has been well described in Kanhadade Prabandha (written in 1456 A.D.) when giving an account of the destruction of the somanAtha Temple by Sultan Alauddin’s troops in 1299.
