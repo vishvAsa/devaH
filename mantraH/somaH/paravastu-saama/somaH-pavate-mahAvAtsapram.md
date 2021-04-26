@@ -2,7 +2,7 @@
 title: सोमः पवते - महावात्सप्रम्  
 unicode_script: devanagari  
 
---- 
+---
 
 ## ऋक्
 <div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/10/aMshAH/somaH_pavate/"  newLevelForH1="3" includeTitle="false"> </div> 

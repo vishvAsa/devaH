@@ -3,7 +3,7 @@ title: मूर्धानं दिवः - आज्यदोहम्
 unicode_script: devanagari  
 
 practice_weight: 0
---- 
+---
 
 ## ऋक्
 <div class="js_include" url="../../Rk/mUrdhAnam_divaH/"  newLevelForH1="3" includeTitle="false"> </div>  

@@ -3,7 +3,7 @@ title: इन्द्रन्नरो- रौहिणिकम्
 unicode_script: devanagari  
 
 practice_weight: 0
---- 
+---
 
 ## ऋक्
 <div class="js_include" url="../../Rk/indran_naro/"  newLevelForH1="3" includeTitle="false"> </div>

@@ -1,7 +1,7 @@
 ---
 title: प्र मित्राय  
 unicode_script: devanagari  
---- 
+---
 
 ## ऋक्
 
