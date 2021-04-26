@@ -1,34 +1,7 @@
----
-title: सुरूपकृत्नम् 
-unicode_script: devanagari
++++
+title = "सुरूपकृत्नम्"
+unicode_script = "devanagari"
+practice_weight = 0
 
-practice_weight: 0
----
-
-## ऋक्
-ऋग्वेदः  १.४.१  
-ऋषिः  मधुच्छंदा वैश्वामित्रः  
-देवता  इंद्रः  
-छन्दः  गायत्री
-
-### संहिता
-सु॒रू॒प॒कृ॒त्नुम् +++(इन्द्रं)+++ ऊ॒तये॑+++(=रक्षायै)+++  
-सु॒दुघा॑मिव गो॒दुहे॑ ।  
-जु॒हू॒मसि॒ द्यवि॑द्यवि ॥
-
-सु꣣रूपकृत्नु꣢म् ऊ꣣त꣡ये  
-सु꣣दु꣡घा꣢मिव गो꣣दु꣡हे꣢।  
-जु꣣हूम꣢सि꣣ द्य꣡वि꣢द्यवि ।।1 ।।
-
-## साम
-
-<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/surUpakRtnam.mp3"></div>
-
-रैवतऋषभम् ॥  
-सु+++([])+++रूपकृत्नमूतये ॥ त्रिः ॥  
-सु+++([])+++दुघा,म् इव गो,ओ,दूहे ।  
-जु+++([])+++हूमा,असाइ ।  
-द्या+++([])+++वि द्यवाइ ॥ द्वि: ॥  
-द्या+++([])+++,वी द्य,वआउ,वा+++([])+++अ।  
-हिं+++([])+++॥ त्रिः ॥ ७ ॥
++++
+<div class="js_include" url="/vedAH/sAma/paravastu-saama/devaH/indraH/surUpakRtnam/"  newLevelForH1="1" includeTitle="true"> </div>
