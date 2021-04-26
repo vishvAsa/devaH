@@ -3,7 +3,7 @@ title: सोमः पवते
 unicode_script: devanagari  
 
 practice_weight: 0
---- 
+---
 
 ## ऋक्
 <div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/10/aMshAH/somaH_pavate/"  newLevelForH1="3" includeTitle="false"> </div> 

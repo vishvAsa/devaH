@@ -2,7 +2,7 @@
 title: अग्निर् मूर्धा  
 unicode_script: devanagari  
 
---- 
+---
 
 ## ऋक्
 

@@ -2,7 +2,7 @@
 title: गौषूक्तम्  
 unicode_script: devanagari  
 
---- 
+---
 
 ## ऋक्
 <div class="js_include" url="../../Rk/yadindrAham/"  newLevelForH1="3" includeTitle="false"> </div>  

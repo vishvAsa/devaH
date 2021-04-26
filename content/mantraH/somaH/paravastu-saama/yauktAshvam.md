@@ -1,7 +1,7 @@
 ---
 title: यौक्ताश्वम्
 unicode_script: devanagari  
---- 
+---
 
 ## ऋक्
 

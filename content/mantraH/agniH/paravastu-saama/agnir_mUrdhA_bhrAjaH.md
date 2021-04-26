@@ -3,7 +3,7 @@ title: अग्निर् मूर्धा-आभ्राजः
 unicode_script: devanagari  
 
 practice_weight: 0
---- 
+---
 
 ## ऋक्
 <div class="js_include" url="../../../Rk/agnir_mUrdhA_bhrAjaH/"  newLevelForH1="3" includeTitle="false"> </div> 

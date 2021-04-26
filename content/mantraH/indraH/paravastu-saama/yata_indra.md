@@ -4,7 +4,7 @@ unicode_script: devanagari
 
 status: to_memorize
 practice_weight: 0
---- 
+---
 
 ## ऋक्
 <div class="js_include" url="../../Rk/yata_indra/"  newLevelForH1="2" includeTitle="false"> </div>  

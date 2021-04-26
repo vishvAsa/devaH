@@ -2,7 +2,7 @@
 title: मूर्धानं दिवः 
 unicode_script: devanagari  
 
---- 
+---
 
 ## ऋक्
 <div class="js_include" url="../../Rk/mUrdhAnam_divaH/"  newLevelForH1="3" includeTitle="false"> </div>  

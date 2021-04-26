@@ -2,7 +2,7 @@
 title: उच्चा ते  
 unicode_script: devanagari  
 
---- 
+---
 
 ## ऋक्
 <div class="js_include" url="../../Rk/uchchA_te/"  newLevelForH1="3" includeTitle="false"> </div> 
