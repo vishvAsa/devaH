@@ -1,29 +1,7 @@
----
-title: पुरां भिन्दुर्युवा
-unicode_script: devanagari
-practice_weight: 0
----
++++
+title = "पुरां भिन्दुर्युवा"
+unicode_script = "devanagari"
+practice_weight = 0
 
-## ऋक्
-
-ऋग्वेदे 1.11.4। कौथुमायाम् 1.1.4.1.8।
-
-पु꣣रां꣢ भि꣣न्दु꣡र्+++(=भेत्ता)+++ युवा꣢꣯ क꣣वि꣡र् अमि꣢꣯तौजा अजायत।  
-इ꣢न्द्रो꣣ वि꣡श्व꣢स्य꣣ क꣡र्म꣢णो ध꣣र्त्ता꣢ व꣣ज्री꣡ पु꣢रुष्टु꣣तः꣢ ।।
-
-पुरां भिन्दुर्युवा कविरमितौजा अजायत। इन्द्रो विश्वस्य कर्मणो धर्त्ता वज्री पुरुष्टुतः ।।359 ।।
-
-## साम
-
-<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/purAm-bhindur-yuvA.mp3"></div>
-
-
-मारुतम् ॥  
-पु+++([])+++रां, भिंदुर्यूवा, कविः ।  
-अ+++([])+++मितौ,जा, आजाया,अता ।  
-आ+++([])+++, इंद्रो, विश्वा,अ,,स्या+++([])+++,कर्माणाः  ।  
-ध+++([])+++र्ता ।  
-वा+++([])+++,ज्रौवा, ओ, वाअ ।  
-पु+++([])+++रूष्ठुताः ।  
-हू+++([])+++इ ।  डा+++([])+++अ ॥ ७ ॥
++++
+<div class="js_include" url="/vedAH/sAma/paravastu-saama/devaH/indraH/purAm-bhindur-yuvA/"  newLevelForH1="1" includeTitle="true"> </div>
