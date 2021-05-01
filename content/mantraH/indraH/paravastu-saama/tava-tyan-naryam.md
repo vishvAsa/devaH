@@ -1,6 +1,0 @@
-+++
-title = "तव त्यन्नर्यत्"
-unicode_script = "devanagari"
-
-+++
-<div class="js_include" url="/vedAH/sAma/paravastu-saama/devaH/indraH/tava-tyan-naryam/"  newLevelForH1="1" includeTitle="false"> </div>
