@@ -2,9 +2,9 @@ name: Build Hugo site
 
 on:
   push:
-    branches: [ master ]
+    branches: [ master, content ]
   pull_request:
-    branches: [ master ]
+    branches: [ master, content ]
   workflow_dispatch:
     inputs:
       logLevel:
@@ -24,7 +24,7 @@ jobs:
       if: ${{ github.event_name != 'pull_request'}}
       run: |
         git pull --recurse-submodules --depth 1
-        git submodule update --remote --recursive
+        echo SKIPPING git submodule update --remote --recursive
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
       with:
