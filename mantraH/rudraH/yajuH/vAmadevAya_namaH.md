@@ -6,4 +6,4 @@ practice_weight = 5
 
 +++(तैत्तिरीयारण्यकस्वरोऽत्र।)+++
 
-<div class="js_include" url="/vedAH/taittirIyam/AraNyakam/06/44_vAmadevAya_namaH"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/AraNyakam/06/44_vAmadevAya_namaH"  newLevelForH1="2" includeTitle="true"> </div>  

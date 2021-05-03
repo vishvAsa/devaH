@@ -4,5 +4,5 @@ unicode_script: devanagari
 
 ---
 
-<div class="js_include" url="/vedAH/taittirIyam/saMhitA/3/2/yan_ma_Atmano_mindAbhUt/"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/saMhitA/3/2/yan_ma_Atmano_mindAbhUt/"  newLevelForH1="2" includeTitle="false"> </div>  
 
