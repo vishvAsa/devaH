@@ -18,13 +18,15 @@ jobs:
     - name: Checkout
       uses: actions/checkout@master
       with:
-        submodules: true
+        submodules: false
+        # Setting true above seems to lead to submodule updation problems.
         fetch-depth: 1
     - name: Update submodules
       if: ${{ github.event_name != 'pull_request'}}
       run: |
-        git pull --recurse-submodules --depth 1
-        echo SKIPPING git submodule update --remote --recursive
+        set -o xtrace
+        git submodule update --init --recursive
+        git submodule update --remote --merge --recursive
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
       with:
@@ -37,8 +39,8 @@ jobs:
       run: |
         hugo
     - name: Deploy
-      uses: peaceiris/actions-gh-pages@v3
       if: ${{ github.event_name != 'pull_request'}}
+      uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./build_github
