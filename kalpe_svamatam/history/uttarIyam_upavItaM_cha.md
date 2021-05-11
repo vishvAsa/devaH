@@ -7,7 +7,7 @@ title = "उत्तरीयम् उपवीतञ्च"
 - nivIta, upavIta etc.. apply to uttarIya, not yajJNopavIta.
 - Jaiminīya-nyaya-māla-vistāra, iii. 4. 1.अत्र प्रतीयमानं निवीतादिकं वासोविषयं, न त्रिवृत्सूत्रविषयम्। "अजिनं वासो वा दक्षिणत उपवीय" (Taitt. Ara. ii. 1) इत्यनेन सदृशत्वात्। वस्त्रस्य च निवीतं सौकर्याय प्राप्तम्। Taitt. Ara. ii. 1 is the only passage in the Vedic works which fully describes the positions foret &c., and it expressly mentions वास and अजिन, but not सूत्र.
 
-### प्राचीनकर्मस् सूत्रस्याभावः
+### प्राचीनोपनयनकर्मसु सूत्रस्याभावो 
 - According to the ritual given in the Sūtras, no sacred thread is mentioned in the description of the ceremony of Upanayana; while the investiture with the  thread is looked upon at present as the principal part of that ceremony. We have still retained a memory of this old practice in the performance of obsequies and at the time of performing sacrifices, when a piece of cloth is worn in addition to the sacred thread. देवलो वदति - तृतीयम् उत्तरीयाय वस्त्राभावे तद् इष्यते।
 - yajnopavīta originally, meant a piece of cloth, and that in the times of the smriti writers, it came to be symbolically represented by the sacred thread, thrice twisted and thrice folded.
 

@@ -18,8 +18,9 @@ Many hold that there might have been a common ancestral IE ritual girdle or uppe
 In conclusion I do think there was an I-Ir concept of upavIta and ajina with the former being a cord and the later an upper garment. I suspect that in the Indo-Aryan side the cord's function was split up between the mekhala and upavIta and the upavIta shifted to a ajina like position. Iranians say that it should be worn all the time. That is the general Arya belief too even if not codified. Hence, I think that too was ancestral to I-Ir.
 
 ## सूत्रेषूल्लेखः
-1. Some sUtra-s do recognize the existence of a cord as upavIta. e.g. gobhila:
-   yaj~nopavItam kurute sUtraM vastraM vA .api vA kusharajjum eva | so it could be a sUtra or a rajju.
-2. khAdira has: yaj~nopavItam   sautram kaushaM vA  grIvAyAṃ pratimuchya dakShiNaM bAhumuddhR^itya yaj~nopavItI bhavati | savyaṃ prAchInAvItI | This clearly shows again *sautram* that a thread was used. That is keeping with the ancestral reconstruction.
-3. Now, upavIta-dhAraNa mantra is in saMhitA of yajuSh and RV khila (practiced), AV saMhitA (practiced). So put together the tradition can be seen as ancestral.
-4. What biology has taught us is that not all ancestral traits are reconstructible from absolute conservation. If we went by that we would say that the last ancestor of all life forms had only translation apparatus and RNA polymerase. But we can by logic infer there was more and reconstruct those probabilistically from less perfectly preserved components. This applies for basic rites like saMdhyA which were definitely there at least in the I-Ir ancestor.
+- Some sUtra-s do recognize the existence of a cord as upavIta.
+   - e.g. gobhila: यज्ञोपवीतं कुरुते सूत्रं वस्त्रं वा ऽपि वा कुशरज्जुम् एव। so it could be a sUtra or a rajju. 
+   - khAdira has: यज्ञोपवीतं सौत्रं कौशं वा ग्रीवायाम् प्रति-मुच्य दक्षिणं बाहुम् उद्धृत्य यज्ञोपवीती भवति। सव्यं प्राचीनावीती। This clearly shows again - *sautram* - that a thread was used. That is keeping with the ancestral reconstruction.
+- Now, upavIta-dhAraNa mantra is in saMhitA of yajuSh and RV khila (practiced), AV saMhitA (practiced). So put together the tradition can be seen as ancestral.
+
+What biology has taught us is that not all ancestral traits are reconstructible from absolute conservation. If we went by that we would say that the last ancestor of all life forms had only translation apparatus and RNA polymerase. But we can by logic infer there was more and reconstruct those probabilistically from less perfectly preserved components. This applies for basic rites like saMdhyA which were definitely there at least in the I-Ir ancestor.
