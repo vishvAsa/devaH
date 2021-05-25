@@ -11,11 +11,6 @@ They are very valuable to us due to their:
 
 "Neoplatonism absorbed, appropriated, and creatively harmonized almost the entire Hellenic tradition of philosophy, religion, and even literature—with the exceptions of Epicureanism and the thoroughgoing corporealism of the Stoics."
 
-### Tradition
-Middle Platonists, possibly Hindus →  Ammonius Saccas (died c. AD 265) an apostate → Plotinus (c. 205 – c. 270) of Egypt → Porphyry (c. 233–c. 309) of Syria → Iamblichus (c. 245 – c. 325) of Syria.
-
-Later, Hypatia (c. 360 – 415) of Egypt who was burned by Christians, Proclus Lycaeus (February 8, 412 – April 17, 485) of Lycia in Anatolia, Roman Emperor Julian (331/332 – 26 June 363)) the apostate and his friend Sallustius.
-
 ## Summaries
 From Proclus: "Zeus created the World-Intellect (noun tou pantos) from
 himself, prior to all others"[and then, still from himself] "the rest of the intellectual and whole classes (ie. the ideas, and forms). In conjunction with the 'Mixing Bowl' (kratEr) he created the World-Soul (psuche pantos)' and the the "partible souls", prior to the bodies. He also created the souls' associated vehicles (ochemata; see II.A.4.4) and arranged the appropriate souls around the appropriate divinity...this includes all the celestial, dalmonic and sublunary classes.. all according to the law of Fate". "In conjunction with the universal Nature (holes phuseOs) and Necessity (anankes), he fashioned (plattOn) the World-Body (sOma pantos) and the partible bodies, and delineated (diagraphOn) the heavens"
