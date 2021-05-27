@@ -25,4 +25,6 @@ title: दर्भाः
   - [1](https://maps.app.goo.gl/jtk1DLMau5Su7XEk9), [2](https://maps.app.goo.gl/Pa1bhRCrUHYucGEx8)
 
 ## पवित्र-कूर्चादि-सृष्टिः
-चित्रम् [अत्र](https://www.youtube.com/watch?v=Bb8ohb0PC_M&feature=youtu.be) ।
+- पवित्र-कूर्च-सृष्टौ द्राविडपाद्धतिः, केरलपद्धतिश् चास्मिन् चित्रम् [अत्र](https://www.youtube.com/watch?v=Bb8ohb0PC_M) । केरलपद्धतिर् [अत्रापि](https://www.youtube.com/watch?v=Gngxxyr_tMY)।
+  - दॊरै-पुरोहितः [अत्र](https://www.youtube.com/watch?v=EWM2ShPiwMY&t=19s) ।
+- श्रीवैष्णवपद्धत्या कूर्चसृष्टिर् [अत्र](https://www.youtube.com/watch?v=sEDAgXKMDs0)।
