@@ -66,7 +66,7 @@ Cassia Fistula +++(Mar. बाहवा)+++ Yellow gulmohar iva.
 - कुमाराणां बलि-शिष्ट-धाना-प्राशनम् ।
 
 ## मन्त्रपाठः
-<div class="js_include" url="../../../../../vedAH/taittirIyam/ekAgnikANDam/sarpa-baliH/"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" url="../../../../../vedAH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarpa-baliH/"  newLevelForH1="3" includeTitle="true"> </div>  
 
 ## सूत्रपाठः
 <div class="js_include" url="../../../../../vedAH/taittirIyam/sUtram/ApastambaH/pramANAni/gRhyam/karmANi/sarpabaliH/"  newLevelForH1="3" includeTitle="true"> </div>  
