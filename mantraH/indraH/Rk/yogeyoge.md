@@ -7,7 +7,5 @@ unicode_script: devanagari
 प्रयाणे विनियोगः।
 
 ## मन्त्रः
-+++(रथादि)+++योगे॑योगे त॒वस्+++(=गति[वत्])+++त॑र॒व्ँ  
-वाजे॑वाजे हवामहे ।  
-+++(वयं स्तोतृत्वेन)+++ सखा॑य॒+++(ः)+++ इन्द्र॑म् ऊ॒तये᳚ ।+++(५)+++
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/030/07_yogeyoge_tavastaraM.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
