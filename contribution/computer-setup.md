@@ -32,6 +32,9 @@ cd ..
 
 ```
 cd saMskAra-master
+cd themes/sanskrit-documentation-theme-hugo/
+git pull
+cd ../.. 
 hugo server --renderToDisk --config ./config_dev.toml
 ```
 
