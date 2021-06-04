@@ -4,6 +4,8 @@ unicode_script = "devanagari"
 +++
 
 ## समानं कर्म
+- अधः XYZ इति यद् अस्ति, तस्य स्थाने स्वीयं github-नाम प्रयुङ्क्ताम्।
+- https://github.com/XYZ/saMskAra इति पूर्वम् एव वर्तते चेन् निष्कासयतु browser-उपयोगेन।
 - https://github.com/vvasuki/saMskAra इत्यत्र गत्वा पुनः fork इति करोतु। https://github.com/XYZ/saMskAra इति किञ्चिल् लभ्यते।
 - यदि कार्यम् saMskAra-content इत्यस्मिन् क्रियते
   - `git pull upstream content` इति परिवर्तनानि लभ्यानि।
