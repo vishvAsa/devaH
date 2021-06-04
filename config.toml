@@ -18,3 +18,4 @@ disablePathToLower = true
 
 [markup.goldmark.renderer]
   unsafe= true
+
