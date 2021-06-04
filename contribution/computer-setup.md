@@ -45,7 +45,7 @@ rm -rf ~/git_projects/saMskAra-master/content
 ln -s ~/git_projects/saMskAra-content ~/git_projects/saMskAra-master/content 
 ```
 
-## सञ्चिकासु प्राप्तेषु सत्सु कार्यम्
+## सञ्चिकासु प्राप्तासु सत्सु कार्यम्
 ```
 - यदि कार्यम् saMskAra-content इत्यस्मिन् क्रियते
     - `git pull upstream content` इति परिवर्तनानि लभ्यानि।
