@@ -15,13 +15,12 @@ unicode_script = "devanagari"
 
 ## सञ्चिकाप्राप्तिः
 ```
-git clone --single-branch --depth 1 --branch content https://github.com/XYZ/saMskAra.git saMskAra-content
 git clone --single-branch --depth 1 --branch master https://github.com/XYZ/saMskAra.git saMskAra-master
-
 cd saMskAra-master
 git submodule update --init  themes/sanskrit-documentation-theme-hugo
 cd ..
 
+git clone --single-branch --depth 1 --branch content https://github.com/XYZ/saMskAra.git saMskAra-content
 cd saMskAra-content
 git remote add upstream https://github.com/vvasuki/saMskAra.git
 git pull upstream content
