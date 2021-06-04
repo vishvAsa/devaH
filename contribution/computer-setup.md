@@ -23,10 +23,6 @@ cd f:\Git\saMskAra-content
 git remote add upstream https://github.com/vvasuki/saMskAra.git
 git pull upstream content
 
-rmdir /S F:\Git\saMskAra-master\content
-rmdir /S F:\Git\saMskAra-master\static
-mklink /h F:\Git\saMskAra-master\content F:\Git\saMskAra-content
-mklink /h F:\Git\saMskAra-master\static F:\Git\saMskAra-static
 ```
 
 ## Linux setup
