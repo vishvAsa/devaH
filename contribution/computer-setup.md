@@ -22,12 +22,8 @@ unicode_script = "devanagari"
 cd F:\Git\
 
 git clone --single-branch --depth 1 --branch content https://github.com/XYZ/saMskAra.git saMskAra-content
-git clone --single-branch --depth 1 --branch static_files https://github.com/XYZ/saMskAra.git saMskAra-static
 git clone --single-branch --depth 1 --branch master https://github.com/XYZ/saMskAra.git saMskAra-master
 
-cd f:\Git\saMskAra-static
-git remote add upstream https://github.com/vvasuki/saMskAra.git
-git pull upstream static_files
 
 cd f:\Git\saMskAra-content
 git remote add upstream https://github.com/vvasuki/saMskAra.git
@@ -46,9 +42,6 @@ cd ~
 git clone --single-branch --depth 1 --branch content https://github.com/XYZ/saMskAra.git saMskAra-content
 git clone --single-branch --depth 1 --branch master https://github.com/XYZ/saMskAra.git saMskAra-master
 
-cd ~/git_projects/saMskAra-static
-git remote add upstream https://github.com/vvasuki/saMskAra.git
-git pull upstream static_files
 
 cd ~/git_projects/saMskAra-content
 git remote add upstream https://github.com/vvasuki/saMskAra.git
