@@ -3,5 +3,5 @@ title: यस् त्वा हृदा
 unicode_script: devanagari
 
 ---
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/05/prAchInA_prastutiH/aMshAH/yas_tvA_hRdA.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/prAchInA_prastutiH/05/aMshAHyas_tvA_hRdA.md"  newLevelForH1="2" includeTitle="false"> </div>  
 

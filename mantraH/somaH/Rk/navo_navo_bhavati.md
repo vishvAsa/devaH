@@ -3,5 +3,5 @@ title: नवो नवो भवति
 unicode_script: devanagari
 ---
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/10/prAchInA_prastutiH/aMshAH/navo_navo_bhavati"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/prAchInA_prastutiH/10/aMshAHnavo_navo_bhavati"  newLevelForH1="2" includeTitle="false"> </div>  
 
