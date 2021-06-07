@@ -17,6 +17,7 @@ unicode_script = "devanagari"
 ```
 git clone --single-branch --depth 1 --branch master https://github.com/XYZ/saMskAra.git saMskAra-master
 cd saMskAra-master
+git remote add upstream https://github.com/vvasuki/saMskAra.git
 git submodule update --init  themes/sanskrit-documentation-theme-hugo
 cd ..
 
