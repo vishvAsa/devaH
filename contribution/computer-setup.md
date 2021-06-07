@@ -14,6 +14,8 @@ unicode_script = "devanagari"
   - `cd ~` इति linux पक्षे
 
 ## सञ्चिकाप्राप्तिः
+- सङ्गणके समीचीनस्थानप्राप्तिः इति भागे यद् उक्तं तत् कृत्वा
+
 ```
 git clone --single-branch --depth 1 --branch master https://github.com/XYZ/saMskAra.git saMskAra-master
 cd saMskAra-master
