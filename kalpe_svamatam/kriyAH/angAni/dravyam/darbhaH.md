@@ -2,9 +2,7 @@
 title: दर्भाः
 ---
 
-## लक्षणम्
-{{< figure src="../images/darbha-1.jpg"  >}}
-{{< figure src="../images/darbha-collected.jpg"  >}}
+लक्षण-प्राप्त्य्-आदिविषयो [ऽन्यत्र](/notes/biology/organism/plant/ritual/)।
 
 
 ## आहरणम्
@@ -16,13 +14,6 @@ title: दर्भाः
 ### मन्त्रः
 विरिञ्चिना सहोत्पन्न परमेष्ठि निसर्गज।  
 नुद सर्वाणि पापानि दर्भ स्वस्तिकरो मम।।
-
-### आहरणम् बॆङ्गळूरुनगरे
-स्रोतश् चन्द्रादयः।
-
-- Visit the ICAR - Horticultural Research Institute. As a special gesture they allow Dvijas with kachcham (only on amAvAsya with mAgha star?), entry reportedly allowed before 2PM. They give a badge. Once you are in you need to get to the back side of the institute where the farms are located. Just drive long enough and you will get places where darbha is found. Ground staff are very helpful.
-- Collection points shrAvaNa kRShNa amAvAsya 2019
-  - [1](https://maps.app.goo.gl/jtk1DLMau5Su7XEk9), [2](https://maps.app.goo.gl/Pa1bhRCrUHYucGEx8)
 
 ## पवित्र-कूर्चादि-सृष्टिः
 - पवित्र-कूर्च-सृष्टौ द्राविडपाद्धतिः, केरलपद्धतिश् चास्मिन् चित्रम् [अत्र](https://www.youtube.com/watch?v=Bb8ohb0PC_M) । केरलपद्धतिर् [अत्रापि](https://www.youtube.com/watch?v=Gngxxyr_tMY)।
