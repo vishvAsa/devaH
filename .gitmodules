@@ -4,6 +4,6 @@
 	update = merge
 [submodule "content"]
 	path = content
-	url = https://github.com/vvasuki/saMskAra.git
+	url = https://github.com/vishvAsa/saMskAra.git
 	update = merge
 	branch = content
