@@ -1,5 +1,0 @@
-+++
-title = "+Hinduism insights"
-
-+++
-
