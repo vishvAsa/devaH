@@ -1,13 +1,13 @@
-baseURL = "https://vishvAsa.github.io/saMskAra/"
+baseURL = "https://vishvAsa.github.io/devaH/"
 languageCode = "en-us"
-title = "संस्कारे विश्वासटिप्पन्यः"
+title = "देवेषु विश्वासटिप्पन्यः"
 theme = "sanskrit-documentation-theme-hugo"
 publishDir = "build_github"
 disablePathToLower = true
 
 [params]
-  githubEditMePathBase = "https://github.com/vishvAsa/saMskAra/edit/content/"
-  contactLink = "https://github.com/vishvAsa/saMskAra/issues/new"
+  githubEditMePathBase = "https://github.com/vishvAsa/devaH/edit/content/"
+  contactLink = "https://github.com/vishvAsa/devaH/issues/new"
   fullSearchURL = "/full_search"
   env = "production"  
   disqusShortcode = "vvasuki-site"
