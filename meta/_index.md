@@ -1,3 +1,3 @@
 ---
-title: +देवाः Gods
+title: +अधिदैवम् Meta-God
 ---
