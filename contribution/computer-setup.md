@@ -5,8 +5,8 @@ unicode_script = "devanagari"
 
 ## समानं कर्म
 - अधः XYZ इति यद् अस्ति, तस्य स्थाने स्वीयं github-नाम प्रयुङ्क्ताम्।
-- https://github.com/XYZ/saMskAra इति पूर्वम् एव वर्तते चेन् निष्कासयतु browser-उपयोगेन।
-- https://github.com/vishvAsa/saMskAra इत्यत्र गत्वा पुनः fork इति करोतु। https://github.com/XYZ/saMskAra इति किञ्चिल् लभ्यते।
+- https://github.com/XYZ/devaH इति पूर्वम् एव वर्तते चेन् निष्कासयतु browser-उपयोगेन।
+- https://github.com/vishvAsa/devaH इत्यत्र गत्वा पुनः fork इति करोतु। https://github.com/XYZ/devaH इति किञ्चिल् लभ्यते।
 
 ## सङ्गणके समीचीनस्थानप्राप्तिः
 - ततः समीचीनस्थाने terminal/ command-prompt इत्य् उद्घाट्य गच्छतु। यथा 
@@ -17,15 +17,15 @@ unicode_script = "devanagari"
 - सङ्गणके समीचीनस्थानप्राप्तिः इति भागे यद् उक्तं तत् कृत्वा
 
 ```
-git clone --single-branch --depth 1 --branch master https://github.com/XYZ/saMskAra.git saMskAra-master
-cd saMskAra-master
-git remote add upstream https://github.com/vishvAsa/saMskAra.git
+git clone --single-branch --depth 1 --branch master https://github.com/XYZ/devaH.git devaH-master
+cd devaH-master
+git remote add upstream https://github.com/vishvAsa/devaH.git
 git submodule update --init  themes/sanskrit-documentation-theme-hugo
 cd ..
 
-git clone --single-branch --depth 1 --branch content https://github.com/XYZ/saMskAra.git saMskAra-content
-cd saMskAra-content
-git remote add upstream https://github.com/vishvAsa/saMskAra.git
+git clone --single-branch --depth 1 --branch content https://github.com/XYZ/devaH.git devaH-content
+cd devaH-content
+git remote add upstream https://github.com/vishvAsa/devaH.git
 git pull upstream content
 cd ..
 ```
@@ -34,7 +34,7 @@ cd ..
 - सङ्गणके समीचीनस्थानप्राप्तिः इति भागे यद् उक्तं तत् कृत्वा
 
 ```
-cd saMskAra-master
+cd devaH-master
 git pull upstream master
 cd themes/sanskrit-documentation-theme-hugo/
 git pull origin master
@@ -43,6 +43,6 @@ hugo server --renderToDisk --config ./config_dev.toml
 ```
 
 ## सञ्चिकासु प्राप्तासु सत्सु कार्यम्
-- यदि कार्यम् saMskAra-content इत्यस्मिन् क्रियते
+- यदि कार्यम् devaH-content इत्यस्मिन् क्रियते
     - `git pull upstream content` इति परिवर्तनानि लभ्यानि।
     - ततो नुदित्वाकर्षणाभ्यर्थनं https://github.com/XYZ/devaH/tree/content इत्यत्र गत्वा प्रेषणीयम्।
