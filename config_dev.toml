@@ -1,0 +1,27 @@
+baseURL = "https://vishvAsa.github.io/devaH/"
+languageCode = "en-us"
+title = "देवेषु विश्वासटिप्पन्यः"
+theme = "sanskrit-documentation-theme-hugo"
+publishDir = "build_github"
+disablePathToLower = true
+
+[params]
+  githubEditMePathBase = "https://github.com/vishvAsa/devaH/edit/content/"
+  contactLink = "https://github.com/vishvAsa/devaH/issues/new"
+  fullSearchURL = "/full_search"
+  env = "production"  
+  disqusShortcode = "vvasuki-site"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON", "CSV"]
+  section = ["HTML", "RSS", "JSON"]
+
+[markup.goldmark.renderer]
+  unsafe= true
+
+[module]
+
+  [[module.mounts]]
+    source = "../devaH-content"
+    target = "content"
+
