@@ -10,7 +10,7 @@ unicode_script: devanagari
 function getSelectionWeight(url) {
   var cleanedUrl = url.replace("//", "/");
   let pageParams = module_dir_tree.getPageParams(cleanedUrl);
-  if (!cleanedUrl.startsWith("/mantraH/misc-devas/") ||  cleanedUrl.includes("/meta/") || pageParams.logicalName == "_index.md") {
+  if (!cleanedUrl.startsWith("/hindukaH/misc-devas/") ||  cleanedUrl.includes("/meta/") || pageParams.logicalName == "_index.md") {
     return 0;
   }
   if (!pageParams || !pageParams.hasOwnProperty("practice_weight")) {
