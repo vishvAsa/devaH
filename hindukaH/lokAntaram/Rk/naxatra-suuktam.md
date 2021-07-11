@@ -218,7 +218,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 ### टिप्पन्यः
 - अत्र वै यदा चन्द्रमा ऽवर्तत ३००० BCE इति वर्षे, तदाभूद् वत्सरारम्भः।
-    - विवरणानि [सौर-चान्द्र-मान-पृष्ठे](../../../../mantraH/worlds/Rk/naxatra-suuktam/)। 
+    - विवरणानि [सौर-चान्द्र-मान-पृष्ठे](/devaH/hindukaH/worlds/Rk/naxatra-suuktam/)। 
 
 
 ## उत्तर-फल्गुन्यः - भगः
