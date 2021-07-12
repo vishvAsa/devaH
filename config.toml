@@ -8,6 +8,8 @@ disablePathToLower = true
 [params]
   githubEditMePathBase = "https://github.com/vishvAsa/devaH/edit/content/"
   contactLink = "https://github.com/vishvAsa/devaH/issues/new"
+  build_img = "https://github.com/vishvAsa/devaH/actions/workflows/build.yml/badge.svg"
+  build_url = "https://github.com/vishvAsa/devaH/actions/workflows/build.yml"
   fullSearchURL = "/full_search"
   env = "production"  
   disqusShortcode = "vvasuki-site"
