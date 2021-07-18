@@ -3,7 +3,4 @@ title: आ मा गन्
 unicode_script: devanagari
 ---
 
-+++(उदक!)+++ आ मा॑ ऽग॒न्॒ यश॑सा॒ वर्च॑सा॒  
-सꣳसृ॑ज॒ पय॑सा॒ तेज॑सा च ।  
-तं मा॑ प्रि॒यं प्र॒जानां॑  
-कु॒र्व् अधि॑पतिं पशू॒नाम् ।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_09/16_AmA-gan_yashasA.md"  newLevelForH1="2" includeTitle="false"> </div>
