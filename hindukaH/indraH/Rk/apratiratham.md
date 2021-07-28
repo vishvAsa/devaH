@@ -7,5 +7,5 @@ status: to_understand
 practice_weight: 0
 ---
 
-<<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/10/103_AshuH_shishAno/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103_AshuH_shishAno/"  newLevelForH1="2" includeTitle="true"> </div>  
 

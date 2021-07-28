@@ -4,7 +4,7 @@ tags: [नासदीयसूक्तम्]
 unicode_script: devanagari
 
 ---
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/10/129_nAsadIyam/"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129_nAsadIyam/"  newLevelForH1="2" includeTitle="false"> </div>  
 
 
 
