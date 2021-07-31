@@ -4,4 +4,8 @@ unicode_script: devanagari
 practice_weight: 0
 ---
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/093/04_yadadya_kachcha.md"  newLevelForH1="2" includeTitle="false"> </div>
+(सुकक्षः, इन्द्रः, गायत्री।)
+
+य꣢द꣣द्य꣡ कच्च꣢꣯+++(=किञ्चित्)+++ वृत्र+++(=जलावरक-मेघ)+++हन्नु꣣द꣡गा꣢ अ꣣भि꣡ सू꣢र्य। स꣢र्वं꣣ त꣡दि꣢न्द्र ते꣣ व꣡शे꣢ ।।126
+
+यदद्य कच्च वृत्रहन्नुदगा अभि सूर्य। सर्वं तदिन्द्र ते वशे ।।126

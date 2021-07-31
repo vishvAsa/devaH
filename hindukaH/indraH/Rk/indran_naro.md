@@ -11,4 +11,9 @@ RV.7.27.1a; SV.1.318a; TS.1.6.12.1a; MS.4.12.3a: 184.17; 4.14.5: 221.11; KB.26.1
 
 <div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/027/01_indraM_naro.md"  newLevelForH1="2" includeTitle="false"> </div>
 
+इ꣢न्द्रं꣣ न꣡रो꣢ ने꣣म꣡धि꣢ता हवन्ते꣣  
+य꣡त्पार्या꣢꣯+++(=पारङ्गमनसाधनानि)+++ यु꣣न꣡ज꣢ते꣣ धि꣢य꣣स्ताः꣢।  
+शू꣢रो꣣ नृ꣡षा꣢ता꣣ श्र꣡व꣢सश्च꣣ का꣢म꣣  
+आ꣡ गोम꣢꣯ति व्र꣣जे꣡ भ꣢जा꣣ त्वं꣡ नः꣢ ।।
+
 {{< figure src="../../images/indra-rising-to-protect-charriots-of-army.jpg"  class="thumbnail">}}
