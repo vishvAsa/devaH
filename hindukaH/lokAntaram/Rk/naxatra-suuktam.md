@@ -5,7 +5,7 @@ unicode_script: devanagari
 ---
 
 ## परिचयः
-- zodiac = ऋतस्य पन्था +इति बालगङ्गाधरः। 
+- zodiac = ऋतस्य पन्था +इति बालगङ्गाधरः।
 - टीकाः - तैत्तिरीयब्राह्मणभाष्ये सायणीय [अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_037_Taittiriya_Brahmanam_with_Sayanabhashya_Part_2_-_Narayanasastri_Godbole_1898#page/n249/mode/2up)।
 - सर्वस्मिन् भागय् आदिमा ऋक् पुरोनुवाक्या होत्रा - ऽध्वर्युणा चोदितेन - वाच्या। अपरा याज्या ऽध्वर्युणा।
 - आथर्वणनक्षत्रकल्पे - "षट् कृत्तिका, एका रोहिणी, तिस्रो मृगशिर, एकार्द्रा, द्वे पुनर्वसू, एकः पुष्यः, षड् आश्लेषाः, षण् मघाः, चतस्रः फल्गुन्यः, पञ्च हस्त, एका चित्रा, एका स्वातिर्, द्वे विशाखे, चतस्रो ऽनुराधा, एका ज्येष्ठा, सप्त मूलम्, अष्टाव् अषाढा, एको ऽभिजित्, तिस्रः श्रवणः, पञ्च श्रविष्ठा, एका शतभिषा, चतस्रः प्रोष्ठपदौ, एका रेवती, द्वे अश्वयुजौ, तिस्रो भरण्य - इति सङ्ख्या परिमितं ब्रह्म॥" - ([MT](https://manasataramgini.wordpress.com/2017/07/01/a-note-on-the-asterisms-forming-the-nak%e1%b9%a3atra-s/))
@@ -17,11 +17,9 @@ unicode_script: devanagari
 {{<figure src="../../images/naxatram/stellarium/kRttikAH.png" title="कृत्ति॑काः" class="thumbnail">}}  
 +++(Pleiades)+++
 
-अ॒ग्निर् नᳶ॑ पातु॒ कृत्ति॑काः। नक्ष॑त्रन् दे॒वम् +++(=द्योतमानम्)+++ इ॑न्द्रि॒यम्।  
-इ॒दम् आ॑साव्ँ विचक्ष॒णम्। ह॒विर् आ॒सञ् जु॑होत न।
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/brAhmaNam/vishvAsa-prastutiH/3/1/1/01_agnirnapH_pAtu.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-यस्य॒ भान्ति॑ र॒श्मयो॒ यस्य॑ के॒तवः॑। यस्ये॒मा विश्वा॒ भुव॑नानि॒ सर्वा॑।  
-स कृत्ति॑काभिर् अ॒भि सव्ँवसा॑नः। अ॒ग्निर् नो॑ +++(=अस्मान्)+++ दे॒वस् सु॑वि॒ते +++(=सुप्राप्ते {कर्मफले})+++ द॑धातु॥  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/brAhmaNam/vishvAsa-prastutiH/3/1/1/02_yasya_bhAnti.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 अ॒ग्नये॒ स्वाहा॒, कृत्ति॑काभ्यः॒ स्वाहा॑।  
 अ॒म्बायै॒ स्वाहा॑।  
@@ -42,11 +40,9 @@ unicode_script: devanagari
 {{<figure src="../../images/naxatram/stellarium/rohiNI.png" title="रोहि॒णी" class="thumbnail">}}  
 +++(Aldebaran। )+++
 
-प्र॒जाप॑ते+++(ः)+++ रोहि॒णी वे॑तु॒ +++(=भुङ्क्ताम्)+++ पत्नी॑। वि॒श्वरू॑पा बृह॒ती चि॒त्रभा॑नुः।  
-सा नो॑ य॒ज्ञस्य॑ सुवि॒ते द॑धातु। यथा॒ जीवे॑म श॒रद॒स् सवीराः॑।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/brAhmaNam/vishvAsa-prastutiH/3/1/1/03_prajApate_rohiNI.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-रो॒हि॒णी दे॒व्य् उद॑गात् पु॒रस्ता॑त्। विश्वा॑ रू॒पाणि॑ प्रति॒मोद॑माना।  
-प्र॒जाप॑तिꣳ ह॒विषा॑ व॒र्धय॑न्ती। प्रि॒या दे॒वाना॒म् उप॑यातु य॒ज्ञम्॥  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/brAhmaNam/vishvAsa-prastutiH/3/1/1/04_rohiNI.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 प्र॒जाप॑तये॒ स्वाहा॑ रोहि॒ण्यै स्वाहा॑।  
 रोच॑मानायै॒ स्वाहा॑ प्र॒जाभ्यः॒ स्वाहा॑।  
@@ -67,11 +63,9 @@ unicode_script: devanagari
 {{<figure src="../../images/naxatram/mRgashiras-tilak.png" title="मृगशीर्षम् (Tilak)" class="thumbnail">}}  
 +++(Orion belt)+++
 
-सोमो॒ राजा॑ मृगशी॒र्॒षेण॒ आगन्न्॑ +++(=आयातु)+++। शि॒वन् नक्ष॑त्रम् प्रि॒यम् अ॑स्य॒ धाम॑।  
-आ॒प्याय॑मानो बहु॒धा जने॑षु। रेतᳶ॑ प्र॒जाय्ँ यज॑माने दधातु।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/brAhmaNam/vishvAsa-prastutiH/3/1/1/05_somo_rAjA.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-यत् ते॒ नक्ष॑त्रं मृगशी॒र्॒षम् अस्ति॑। प्रि॒यꣳ रा॑जन् प्रि॒यत॑मम् प्रि॒याणा॑म्।  
-तस्मै॑ ते सोम ह॒विषा॑ विधेम। शन् न॑ एधि द्वि॒पदे॒ शञ् चतु॑ष्पदे॥  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/brAhmaNam/vishvAsa-prastutiH/3/1/1/06_yatte.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 सोमा॑य॒ स्वाहा॑ मृगशी॒र्षाय॒ स्वाहा॑।  
 इ॒न्व॒काभ्यः॒ स्वाहौष॑धीभ्यः॒ स्वाहा॑।  
@@ -79,13 +73,13 @@ unicode_script: devanagari
 
 ### टिप्पनीः
 - पुरा प्रजापतिना सम्बद्धम्। "प्रजापतेर् यत् सहजम् पुरस्तात्" इत्यनेन मृगशीर्षे ऽव्यङ्गस्योल्लेखो विशुवकाल इति केचित् - (~Apr 26 Julian 4500 BCE  [TW](https://twitter.com/blog_supplement/status/664525633217830915))।
-  - आग्रहायणी‌ +इत्यपि नाम - पणिन्य्-अमरौ तथा। तैत्तिरीयसंहितायां (७.२ इत्यत्र) आग्रयणम् इत्यपि। पुरा ऽऽग्रयणेष्टयो तदैवाक्रियत - तत्रायनविशेषस्यारम्भात्। 
+  - आग्रहायणी‌ +इत्यपि नाम - पणिन्य्-अमरौ तथा। तैत्तिरीयसंहितायां (७.२ इत्यत्र) आग्रयणम् इत्यपि। पुरा ऽऽग्रयणेष्टयो तदैवाक्रियत - तत्रायनविशेषस्यारम्भात्।
   - वृषाकपिसूक्तम् अपि तद्विषये प्रवृत्तम्, यदा विषुवस्थानं वृषराशाव् अवर्तत।
   - तस्यैव सूर्येणसहोदिते यज्ञकालस्यारम्भो ऽवर्तत - तेन हि तस्य सोमाधिपत्यम्, यज्ञ इति नामान्तरम्।
 - "Some take this to be the 3 stars on the head of Orion (φ 1, φ 2, λ Orionis), which is how they are denoted in classical astronomy. "
 - सोमो हि ब्राह्मणानां राजा। तस्यैवानुकरणं मेखलया दण्डेन +अजिनेन यज्ञोपवीतेनापि - पारसीकेषु ब्राह्मणेषु च!
 - "It features the great Nebula the brightest nebula visible to us, which blazes from the ionization caused by hot theta Orionis group of multiple stars. 4 of them can be easily seen with a small telescope. That would also show the M78 nebula. The region is rich in star birth."
-- kaTha-s and maitrAyaNIya-s assign mRgashiras to maruts (also a good combination with ArdrA/ rudra. "On the other hand somArudrA is also an ancient combination.") 
+- kaTha-s and maitrAyaNIya-s assign mRgashiras to maruts (also a good combination with ArdrA/ rudra. "On the other hand somArudrA is also an ancient combination.")
 
 The Romans, like the H, seemed to remember of Orion as being the "leader of the constellations" i.e. the AgrayaNa position. Did some see the belt as the sword?:
 
@@ -103,11 +97,9 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 {{<figure src="../../images/naxatram/stellarium/ArdrA.png" title="आ॒र्द्रा" class="thumbnail">}}  
 +++(alpha Orinionis = Betelgeuse इति केचित्। sirius [इति](https://manasataramgini.wordpress.com/2017/07/01/a-note-on-the-asterisms-forming-the-nak%E1%B9%A3atra-s/) मानसतरङ्गिणीकारः।)+++
 
-आ॒र्द्रया॑ रु॒द्रᳶ प्रथ॑मान +++(=प्रसिद्ध)+++ एति। श्रेष्ठो॑ दे॒वाना॒म् पति॑र् अघ्नि॒याना॑म् +++(=गवाम्)+++।  
-नक्ष॑त्रमस्य ह॒विषा॑ विधेम +++(=परिचरेम)+++। मा नᳶ॑ प्र॒जाꣳ री॑रिष॒न् मोत वी॒रान्।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/brAhmaNam/vishvAsa-prastutiH/3/1/1/07_ArdrayA_rudrapH.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-हे॒ती रु॒द्रस्य॒ परि॑ णो वृणक्तु। आ॒र्द्रा नक्ष॑त्रञ् जुषताꣳ ह॒विर् नः॑।  
-प्र॒मु॒ञ्चमा॑नौ दुरि॒तानि॒ विश्वा॑। अपा॒घशꣳसन् नुदता॒म् अरा॑तिम्।॥  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/brAhmaNam/vishvAsa-prastutiH/3/1/1/08_hetI_rudrasya.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 रु॒द्राय॒ स्वाहा॒ऽऽर्द्रायै॒ स्वहा॑। पिन्व॑मानायै॒ स्वाहा॒ प॒शुभ्यः॒ स्वाहा॑।  
 
@@ -127,10 +119,8 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 +++(α , β Geminorum - Castor and Pollux)+++
 
 
-पुन॑र् नो दे॒व्य् अदि॑तिस् स्पृणोतु +++(=प्रीणयतु)+++। पुन॑र्वसू नᳶ॒ पुन॒र् एता॑य्ँ य॒ज्ञम्।  
-पुन॑र् नो दे॒वा अ॒भिय॑न्तु॒ सर्वे॑। पुनᳶ॑ पुनर् वो ह॒विषा॑ यजामः।  
-ए॒वा न दे॒व्य् अदि॑तिर् अन॒र्वा +++(=अनर्वाचीना)+++। विश्व॑स्य भ॒र्त्री जग॑तᳶ प्रति॒ष्ठा।  
-पुन॑र्वसू ह॒विषा॑ व॒र्धय॑न्ती। प्रि॒यम् दे॒वाना॒म् अप्ये॑तु॒ पाथः॑ +++(=हविः)+++॥  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/brAhmaNam/vishvAsa-prastutiH/3/1/1/09_punarno.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/brAhmaNam/vishvAsa-prastutiH/3/1/1/10_evA_na.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 अदि॑त्यै॒ स्वाहा॒ पुन॑र्वसुभ्याम् स्वाहा।  
 भू॑त्यै॒ स्वाहा॒ प्रजा॑त्यै॒ स्वाहा॑।  
@@ -148,17 +138,15 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 {{<figure src="../../images/naxatram/stellarium/tiShyaH.png" title="तिष्यम्" class="thumbnail">}}  
 +++(γ, δ and θ Cancri इति केचित्। Praesepe open cluster (M44) इति केचित्।)+++
 
-बृह॒स्पति॑ᳶ प्रथ॒मञ् जाय॑मानः। ति॒ष्य॑न् नक्ष॑त्रम् अ॒भि सम्ब॑भूव।  
-श्रेष्ठो॑ दे॒वाना॒म् पृत॑नासु जि॒ष्णुः। दिशोऽनु॒ सर्वा॒ अभ॑यन् नो अस्तु।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/brAhmaNam/vishvAsa-prastutiH/3/1/1/11_bRhaspatipH_prathamanjAyamAnaH.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-ति॒ष्य॑ᳶ पु॒रस्ता॑द् उ॒त म॑ध्य॒तो नः॑। बृह॒स्पति॑र् न॒ᳶ परि॑ पातु प॒श्चात्।  
-बाधे॑ता॒न् द्वेषो॒ अभ॑यङ् कृणुताम्। सु॒वीर्य॑स्य॒ पत॑यस् स्याम।  
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/brAhmaNam/vishvAsa-prastutiH/3/1/1/12_tiShyapH_purastAduta.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 बृह॒स्पत॑ये॒ स्वाहा॑ ति॒ष्या॑य॒ स्वाहा॑।  
 ब्र॒ह्म॒व॒र्च॒साय॒ स्वाहा॑।  
 
 ### टिप्पनीः
-- Ṛgveda - यु॒ष्माद॑त्तस्य मरुतो विचेतसो रा॒यः स्या॑म र॒थ्यो॒३॒॑ वय॑स्वतः । न यो युच्छ॑ति ति॒ष्यो॒३॒॑ यथा॑ दि॒वो॒३॒॑ऽस्मे रा॑रन्त मरुतः सह॒स्रिण॑म् ॥ 
+- Ṛgveda - यु॒ष्माद॑त्तस्य मरुतो विचेतसो रा॒यः स्या॑म र॒थ्यो॒३॒॑ वय॑स्वतः । न यो युच्छ॑ति ति॒ष्यो॒३॒॑ यथा॑ दि॒वो॒३॒॑ऽस्मे रा॑रन्त मरुतः सह॒स्रिण॑म् ॥
     - " The comparison of great riches, in thousands, is indicative of the great mass of stars in the open cluster supporting the identification of the old Tiṣya with M44."
 - "The name tiShya seems homologous to the Iranian tiShtrya. Today the Iranian asterism is equated with Sirius but there is a suspicion that this might have been secondary."
 
@@ -205,7 +193,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 {{<figure src="../../images/naxatram/wiki/maghA.png" title="फल्गु॑न्यः" class="thumbnail">}}
 {{<figure src="../../images/naxatram/stellarium/pUrva-phAlgunyau.png" title="फल्गु॑न्यः" class="thumbnail">}}  
-+++(=δ, θ Leonis)+++ 
++++(=δ, θ Leonis)+++
 
 गवा॒म् पतिः॒ फल्गु॑नीनाम् असि॒ त्वम्। तद् अ॑र्यमन् वरुणमित्र॒ चारु॑।  
 तन् त्वा॑ व॒यꣳ स॑नि॒तारꣳ॑ +++(=दातारं)+++ सनी॒नाम् +++(=दातव्यानाम्)+++। जी॒वा जीव॑न्त॒म् उप॒ सव्ँवि॑शेम।  
@@ -218,7 +206,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 ### टिप्पन्यः
 - अत्र वै यदा चन्द्रमा ऽवर्तत ३००० BCE इति वर्षे, तदाभूद् वत्सरारम्भः।
-    - विवरणानि [सौर-चान्द्र-मान-पृष्ठे](/devaH/hindukaH/worlds/Rk/naxatra-suuktam/)। 
+    - विवरणानि [सौर-चान्द्र-मान-पृष्ठे](/devaH/hindukaH/worlds/Rk/naxatra-suuktam/)।
 
 
 ## उत्तर-फल्गुन्यः - भगः
@@ -323,7 +311,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 {{<figure src="../../images/naxatram/stellarium/anUrAdhAH.png" title="अ॒नू॒रा॒धाः" class="thumbnail">}}  
 +++(β, δ, η, ρ Scorpionis)+++
 
-ऋ॒द्ध्यास्म॑ ह॒व्यैर् न॑मसो॒पसद्य॑,, 
+ऋ॒द्ध्यास्म॑ ह॒व्यैर् न॑मसो॒पसद्य॑,,
 मि॒त्रन् दे॒वं+++(।)+++, मि॑त्र॒धेय॑न् +++(=मित्रेण सम्पाद्यन्)+++ नो अस्तु।  
 अ॒नू॒रा॒धान् ह॒विषा॑ व॒र्धय॑न्तः। श॒तञ् जी॑वेम॒ श॒रदः॒ सवी॑राः।  
 
