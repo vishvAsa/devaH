@@ -191,15 +191,9 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 ## पूर्व-फल्गुन्यः  - अर्यमा
 
-<<<<<<< HEAD
-{{<figure src="../../images/naxatram/wiki/maghA.png" title="फल्गु॑न्यः" class="thumbnail">}}
-{{<figure src="../../images/naxatram/stellarium/pUrva-phAlgunyau.png" title="फल्गु॑न्यः" class="thumbnail">}}  
-+++(=δ, θ Leonis)+++
-=======
 {{<figure src="/devaH/hindukaH/lokAntaram/images/naxatram/wiki/maghA.png" title="फल्गु॑न्यः" class="thumbnail">}}
 {{<figure src="/devaH/hindukaH/lokAntaram/images/naxatram/stellarium/pUrva-phAlgunyau.png" title="फल्गु॑न्यः" class="thumbnail">}}  
-+++(=δ, θ Leonis)+++ 
->>>>>>> 55a645de43626153ccd054451e07f0c9a21661f7
++++(=δ, θ Leonis)+++
 
 गवा॒म् पतिः॒ फल्गु॑नीनाम् असि॒ त्वम्। तद् अ॑र्यमन् वरुणमित्र॒ चारु॑।  
 तन् त्वा॑ व॒यꣳ स॑नि॒तारꣳ॑ +++(=दातारं)+++ सनी॒नाम् +++(=दातव्यानाम्)+++। जी॒वा जीव॑न्त॒म् उप॒ सव्ँवि॑शेम।  
