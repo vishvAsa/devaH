@@ -13,8 +13,8 @@ unicode_script: devanagari
 
 ## कृत्तिकाः - अग्निः
 
-{{<figure src="../../images/naxatram/wiki/kRttikA.png" title="कृत्ति॑काः" class="thumbnail">}}
-{{<figure src="../../images/naxatram/stellarium/kRttikAH.png" title="कृत्ति॑काः" class="thumbnail">}}  
+{{<figure src="/devaH/hindukaH/lokAntaram/images/naxatram/wiki/kRttikA.png" title="कृत्ति॑काः" class="thumbnail">}}
+{{<figure src="/devaH/hindukaH/lokAntaram/images/naxatram/stellarium/kRttikAH.png" title="कृत्ति॑काः" class="thumbnail">}}  
 +++(Pleiades)+++
 
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/brAhmaNam/vishvAsa-prastutiH/3/1/1/01_agnirnapH_pAtu.md"  newLevelForH1="2" includeTitle="false"> </div>
@@ -36,8 +36,8 @@ unicode_script: devanagari
 
 ## रोहिणी - प्रजापतिः
 
-{{<figure src="../../images/naxatram/wiki/kRttikA.png" title="रोहि॒णी" class="thumbnail">}}
-{{<figure src="../../images/naxatram/stellarium/rohiNI.png" title="रोहि॒णी" class="thumbnail">}}  
+{{<figure src="/devaH/hindukaH/lokAntaram/images/naxatram/wiki/kRttikA.png" title="रोहि॒णी" class="thumbnail">}}
+{{<figure src="/devaH/hindukaH/lokAntaram/images/naxatram/stellarium/rohiNI.png" title="रोहि॒णी" class="thumbnail">}}  
 +++(Aldebaran। )+++
 
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/brAhmaNam/vishvAsa-prastutiH/3/1/1/03_prajApate_rohiNI.md"  newLevelForH1="2" includeTitle="false"> </div>
@@ -58,9 +58,9 @@ unicode_script: devanagari
 
 ## मृगशीर्षम् - सोमः
 
-{{<figure src="../../images/naxatram/wiki/mRgashIrSha.png" title="मृगशीर्षम्" class="thumbnail">}}
-{{<figure src="../../images/naxatram/stellarium/mRgashIrSham.png" title="मृगशीर्षम्" class="thumbnail">}}  
-{{<figure src="../../images/naxatram/mRgashiras-tilak.png" title="मृगशीर्षम् (Tilak)" class="thumbnail">}}  
+{{<figure src="/devaH/hindukaH/lokAntaram/images/naxatram/wiki/mRgashIrSha.png" title="मृगशीर्षम्" class="thumbnail">}}
+{{<figure src="/devaH/hindukaH/lokAntaram/images/naxatram/stellarium/mRgashIrSham.png" title="मृगशीर्षम्" class="thumbnail">}}  
+{{<figure src="/devaH/hindukaH/lokAntaram/images/naxatram/mRgashiras-tilak.png" title="मृगशीर्षम् (Tilak)" class="thumbnail">}}  
 +++(Orion belt)+++
 
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/brAhmaNam/vishvAsa-prastutiH/3/1/1/05_somo_rAjA.md"  newLevelForH1="2" includeTitle="false"> </div>  
@@ -93,8 +93,8 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 ## आर्द्रा - रुद्रः
 
-{{<figure src="../../images/naxatram/wiki/mRgashIrSha.png" title="आ॒र्द्रा" class="thumbnail">}}
-{{<figure src="../../images/naxatram/stellarium/ArdrA.png" title="आ॒र्द्रा" class="thumbnail">}}  
+{{<figure src="/devaH/hindukaH/lokAntaram/images/naxatram/wiki/mRgashIrSha.png" title="आ॒र्द्रा" class="thumbnail">}}
+{{<figure src="/devaH/hindukaH/lokAntaram/images/naxatram/stellarium/ArdrA.png" title="आ॒र्द्रा" class="thumbnail">}}  
 +++(alpha Orinionis = Betelgeuse इति केचित्। sirius [इति](https://manasataramgini.wordpress.com/2017/07/01/a-note-on-the-asterisms-forming-the-nak%E1%B9%A3atra-s/) मानसतरङ्गिणीकारः।)+++
 
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/brAhmaNam/vishvAsa-prastutiH/3/1/1/07_ArdrayA_rudrapH.md"  newLevelForH1="2" includeTitle="false"> </div>  
@@ -114,8 +114,8 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 ## पुनर्वसू - अदितिः
 
-{{<figure src="../../images/naxatram/wiki/punarvasU.png" title="पुन॒र्वसू" class="thumbnail">}}
-{{<figure src="../../images/naxatram/stellarium/punarvasU.png" title="पुन॒र्वसू" class="thumbnail">}}  
+{{<figure src="/devaH/hindukaH/lokAntaram/images/naxatram/wiki/punarvasU.png" title="पुन॒र्वसू" class="thumbnail">}}
+{{<figure src="/devaH/hindukaH/lokAntaram/images/naxatram/stellarium/punarvasU.png" title="पुन॒र्वसू" class="thumbnail">}}  
 +++(α , β Geminorum - Castor and Pollux)+++
 
 
@@ -134,8 +134,8 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 ## तिष्यम् / पुष्यम् - बृहस्पतिः
 
-{{<figure src="../../images/naxatram/wiki/tiShya.png" title="तिष्यम्" class="thumbnail">}}
-{{<figure src="../../images/naxatram/stellarium/tiShyaH.png" title="तिष्यम्" class="thumbnail">}}  
+{{<figure src="/devaH/hindukaH/lokAntaram/images/naxatram/wiki/tiShya.png" title="तिष्यम्" class="thumbnail">}}
+{{<figure src="/devaH/hindukaH/lokAntaram/images/naxatram/stellarium/tiShyaH.png" title="तिष्यम्" class="thumbnail">}}  
 +++(γ, δ and θ Cancri इति केचित्। Praesepe open cluster (M44) इति केचित्।)+++
 
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/brAhmaNam/vishvAsa-prastutiH/3/1/1/11_bRhaspatipH_prathamanjAyamAnaH.md"  newLevelForH1="2" includeTitle="false"> </div>
@@ -152,8 +152,8 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 ## आश्रेषाः - सर्पाः
 
-{{<figure src="../../images/naxatram/wiki/AshreShA.png" title="आश्रेषाः" class="thumbnail">}}
-{{<figure src="../../images/naxatram/stellarium/AshreShAH.png" title="आश्रेषाः" class="thumbnail">}}  
+{{<figure src="/devaH/hindukaH/lokAntaram/images/naxatram/wiki/AshreShA.png" title="आश्रेषाः" class="thumbnail">}}
+{{<figure src="/devaH/hindukaH/lokAntaram/images/naxatram/stellarium/AshreShAH.png" title="आश्रेषाः" class="thumbnail">}}  
 
 +++(δ, ε, η, ρ, σ, θ Hydrae)+++  
 
@@ -172,8 +172,8 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 ## मघाः - पितरः
 
-{{<figure src="../../images/naxatram/wiki/maghA.png" title="मघा" class="thumbnail">}}
-{{<figure src="../../images/naxatram/stellarium/maghAH.png" title="मघा" class="thumbnail">}}  
+{{<figure src="/devaH/hindukaH/lokAntaram/images/naxatram/wiki/maghA.png" title="मघा" class="thumbnail">}}
+{{<figure src="/devaH/hindukaH/lokAntaram/images/naxatram/stellarium/maghAH.png" title="मघा" class="thumbnail">}}  
 
 +++(=Regulus इति केचित्। " 6 stars - entire sickle of Leo" इत्यन्ये।)+++
 
@@ -191,9 +191,15 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 ## पूर्व-फल्गुन्यः  - अर्यमा
 
+<<<<<<< HEAD
 {{<figure src="../../images/naxatram/wiki/maghA.png" title="फल्गु॑न्यः" class="thumbnail">}}
 {{<figure src="../../images/naxatram/stellarium/pUrva-phAlgunyau.png" title="फल्गु॑न्यः" class="thumbnail">}}  
 +++(=δ, θ Leonis)+++
+=======
+{{<figure src="/devaH/hindukaH/lokAntaram/images/naxatram/wiki/maghA.png" title="फल्गु॑न्यः" class="thumbnail">}}
+{{<figure src="/devaH/hindukaH/lokAntaram/images/naxatram/stellarium/pUrva-phAlgunyau.png" title="फल्गु॑न्यः" class="thumbnail">}}  
++++(=δ, θ Leonis)+++ 
+>>>>>>> 55a645de43626153ccd054451e07f0c9a21661f7
 
 गवा॒म् पतिः॒ फल्गु॑नीनाम् असि॒ त्वम्। तद् अ॑र्यमन् वरुणमित्र॒ चारु॑।  
 तन् त्वा॑ व॒यꣳ स॑नि॒तारꣳ॑ +++(=दातारं)+++ सनी॒नाम् +++(=दातव्यानाम्)+++। जी॒वा जीव॑न्त॒म् उप॒ सव्ँवि॑शेम।  
@@ -211,8 +217,8 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 ## उत्तर-फल्गुन्यः - भगः
 
-{{<figure src="../../images/naxatram/wiki/maghA.png" title="फल्गुन्यः" class="thumbnail">}}
-{{<figure src="../../images/naxatram/stellarium/uttara-phAlgunyau.png" title="फल्गुन्यः" class="thumbnail">}}  
+{{<figure src="/devaH/hindukaH/lokAntaram/images/naxatram/wiki/maghA.png" title="फल्गुन्यः" class="thumbnail">}}
+{{<figure src="/devaH/hindukaH/lokAntaram/images/naxatram/stellarium/uttara-phAlgunyau.png" title="फल्गुन्यः" class="thumbnail">}}  
 +++(Denebola - β, 93 Leonis)+++
 
 श्रेष्ठो॑ दे॒वाना॑म् भगवो भगासि।  तत् त्वा॑ विदु॒ᳶ फल्गु॑नी॒स्, तस्य॑ वित्तात् +++(=विद्धि)+++।  
@@ -227,8 +233,8 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 ## हस्तः - सविता
 
-{{<figure src="../../images/naxatram/wiki/hasta.png" title="हस्तः" class="thumbnail">}}
-{{<figure src="../../images/naxatram/stellarium/hastaH.png" title="हस्तः" class="thumbnail">}}  
+{{<figure src="/devaH/hindukaH/lokAntaram/images/naxatram/wiki/hasta.png" title="हस्तः" class="thumbnail">}}
+{{<figure src="/devaH/hindukaH/lokAntaram/images/naxatram/stellarium/hastaH.png" title="हस्तः" class="thumbnail">}}  
 +++(Corvus- α , β , γ , δ , ε Corvi.)+++
 
 आया॒तु दे॒वस् स॑वि॒तोप॑यातु। हि॒र॒ण्यये॑न सु॒वृता॒ रथे॒न।  
@@ -243,8 +249,8 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 ## चित्रा - त्वष्टा
 
-{{<figure src="../../images/naxatram/wiki/chitrA.png" title="चित्रा" class="thumbnail">}}
-{{<figure src="../../images/naxatram/stellarium/chitrA.png" title="चित्रा" class="thumbnail">}}  
+{{<figure src="/devaH/hindukaH/lokAntaram/images/naxatram/wiki/chitrA.png" title="चित्रा" class="thumbnail">}}
+{{<figure src="/devaH/hindukaH/lokAntaram/images/naxatram/stellarium/chitrA.png" title="चित्रा" class="thumbnail">}}  
 
 त्वष्टा॒ नक्ष॑त्रम् अ॒भ्ये॑ति चि॒त्राम् +++(=Spica)+++। सु॒भꣳस॑सय्ँ +++(=सुजघनां)+++ युव॒तिꣳ रोच॑मानाम्।  
 नि॒वे॒शय॑न्न् अ॒मृता॒न् मर्त्याꣳ॑श् च। रू॒पाणि॑ पि॒ꣳ॒शन् +++(=निरूपयन्)+++ भुव॑नानि॒ विश्वा॑।  
@@ -263,8 +269,8 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 ## निष्ट्या, स्वातिः - वायुः
 
-{{<figure src="../../images/naxatram/wiki/niShTyA.png" title="निष्ट्या॑" class="thumbnail">}}
-{{<figure src="../../images/naxatram/stellarium/niShTyA_svAtiH.png" title="निष्ट्या॑" class="thumbnail">}}  
+{{<figure src="/devaH/hindukaH/lokAntaram/images/naxatram/wiki/niShTyA.png" title="निष्ट्या॑" class="thumbnail">}}
+{{<figure src="/devaH/hindukaH/lokAntaram/images/naxatram/stellarium/niShTyA_svAtiH.png" title="निष्ट्या॑" class="thumbnail">}}  
 
 वा॒युर् नक्ष॑त्रम् अ॒भ्ये॑ति॒ निष्ट्या॑म्+++(=Arctrus)+++। ति॒ग्मशृ॑ङ्गो वृष॒भो रोरु॑वाणः।  
 स॒मी॒रय॒न् भुव॑ना मात॒रिश्वा॑ +++(←मातरि आकाशे श्वयति वर्द्धते)+++। अप॒ द्वेषाꣳ॑सि नुदता॒म् अरा॑तीः।  
@@ -278,8 +284,8 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 ## विशाखे - इन्द्राग्नी
 
-{{<figure src="../../images/naxatram/wiki/vishAkhA.png" title="विशा॑खे" class="thumbnail">}}
-{{<figure src="../../images/naxatram/stellarium/vishAkhA.png" title="विशा॑खे" class="thumbnail">}}  
+{{<figure src="/devaH/hindukaH/lokAntaram/images/naxatram/wiki/vishAkhA.png" title="विशा॑खे" class="thumbnail">}}
+{{<figure src="/devaH/hindukaH/lokAntaram/images/naxatram/stellarium/vishAkhA.png" title="विशा॑खे" class="thumbnail">}}  
 +++(α, β Librae। रामायणानुसारम् इक्ष्वाकूणां नक्षत्रम् - 6.4.51।)+++
 
 दू॒रम् अ॒स्मच्-छत्र॑वो यन्तु भी॒ताः। तद् इ॑न्द्रा॒ग्नी कृ॑णुता॒म् तद् विशा॑खे।  
@@ -307,8 +313,8 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 ## अनूराधाः - मित्रः
 
-{{<figure src="../../images/naxatram/wiki/anUrAdhAH.png" title="अ॒नू॒रा॒धाः" class="thumbnail">}}
-{{<figure src="../../images/naxatram/stellarium/anUrAdhAH.png" title="अ॒नू॒रा॒धाः" class="thumbnail">}}  
+{{<figure src="/devaH/hindukaH/lokAntaram/images/naxatram/wiki/anUrAdhAH.png" title="अ॒नू॒रा॒धाः" class="thumbnail">}}
+{{<figure src="/devaH/hindukaH/lokAntaram/images/naxatram/stellarium/anUrAdhAH.png" title="अ॒नू॒रा॒धाः" class="thumbnail">}}  
 +++(β, δ, η, ρ Scorpionis)+++
 
 ऋ॒द्ध्यास्म॑ ह॒व्यैर् न॑मसो॒पसद्य॑,,
@@ -323,8 +329,8 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 ## ज्येष्ठा - इन्द्रः
 
-{{<figure src="../../images/naxatram/wiki/anUrAdhAH.png" title="ज्येष्ठा" class="thumbnail">}}
-{{<figure src="../../images/naxatram/stellarium/anUrAdhAH.png" title="ज्येष्ठा" class="thumbnail">}}  
+{{<figure src="/devaH/hindukaH/lokAntaram/images/naxatram/wiki/anUrAdhAH.png" title="ज्येष्ठा" class="thumbnail">}}
+{{<figure src="/devaH/hindukaH/lokAntaram/images/naxatram/stellarium/anUrAdhAH.png" title="ज्येष्ठा" class="thumbnail">}}  
 +++(α, σ, and τ Scorpionis इति केचित्। Antares इत्यन्ये - द्वितीया रोहिणीवेति ब्राह्मणम्।)+++
 
 इन्द्रो॑ ज्ये॒ष्ठाम् अनु॒ नक्ष॑त्रम् एति। यस्मि॑न् वृ॒त्रव्ँ वृ॑त्र॒तूर्ये॑ +++(=वृत्रवधे)+++ त॒तार॑।  
@@ -341,8 +347,8 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 ## मूलम् - निरृतिः
 
-{{< figure src="../../images/naxatram/wiki/anUrAdhAH.png"  class="thumbnail">}}  
-{{< figure src="../../images/naxatram/stellarium/mUlam.png"  class="thumbnail">}}  
+{{< figure src="/devaH/hindukaH/lokAntaram/images/naxatram/wiki/anUrAdhAH.png"  class="thumbnail">}}  
+{{< figure src="/devaH/hindukaH/lokAntaram/images/naxatram/stellarium/mUlam.png"  class="thumbnail">}}  
 +++(ζ, η, θ, ι, κ, λ, and ν Scorpionis। मूलायाङ्खल्व् आकाशगङ्गाकेन्द्रम् अपि वर्तते!)+++
 
 मूल॑म् प्र॒जाव्ँ वी॒रव॑तीव्ँ विदेय+++(=लभेय)+++। परा॑च्य्+++(=पराङ्मुखा)+++ एतु॒ निरृ॑तिᳶ परा॒चा +++(मार्गेण)+++।  
@@ -359,8 +365,8 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 ## अषाढाः पूर्वाः - आपः
 
-{{< figure src="../../images/naxatram/wiki/aShADhAH.png"  class="thumbnail">}}  
-{{< figure src="../../images/naxatram/stellarium/pUrva-aShADhAH.png"  class="thumbnail">}}  
+{{< figure src="/devaH/hindukaH/lokAntaram/images/naxatram/wiki/aShADhAH.png"  class="thumbnail">}}  
+{{< figure src="/devaH/hindukaH/lokAntaram/images/naxatram/stellarium/pUrva-aShADhAH.png"  class="thumbnail">}}  
 +++(δ, γ, η and ε Sagittarii। जलरूपाया आकाशङ्गङ्गायाः केन्द्रम् अस्य पार्श्वे।)+++
 
 या दि॒व्या आपᳶ॒ पय॑सा सम्बभू॒वुः+++(=आकाशगङ्गा पार्श्वे वर्तमाना)+++। +++(मेघादिरूपा)+++ या अ॒न्तरि॑क्ष उ॒त +++(नद्यादिषु)+++ पार्थि॑वी॒र् याः।  
@@ -376,8 +382,8 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 ## अषाढाः उत्तराः - विश्वे देवाः
 
-{{< figure src="../../images/naxatram/wiki/aShADhAH.png"  class="thumbnail">}}  
-{{< figure src="../../images/naxatram/stellarium/uttara-aShADhAH.png"  class="thumbnail">}}  
+{{< figure src="/devaH/hindukaH/lokAntaram/images/naxatram/wiki/aShADhAH.png"  class="thumbnail">}}  
+{{< figure src="/devaH/hindukaH/lokAntaram/images/naxatram/stellarium/uttara-aShADhAH.png"  class="thumbnail">}}  
 +++(φ, ζ, tau and σ Sagittarii)+++
 
 तन् नो॒ विश्वे॒ उप॑ शृण्वन्तु दे॒वाः। तद् अ॑षा॒ढा अ॒भिसंय॑न्तु य॒ज्ञम्।  
@@ -391,8 +397,8 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 ## अभिजित्
 
-{{< figure src="../../images/naxatram/wiki/abhijit.png"  class="thumbnail">}}  
-{{< figure src="../../images/naxatram/stellarium/abhijit.png"  class="thumbnail">}}  
+{{< figure src="/devaH/hindukaH/lokAntaram/images/naxatram/wiki/abhijit.png"  class="thumbnail">}}  
+{{< figure src="/devaH/hindukaH/lokAntaram/images/naxatram/stellarium/abhijit.png"  class="thumbnail">}}  
 +++(Vega)+++
 
 यस्मि॒न् ब्रह्मा॒भ्यज॑य॒त् सर्व॑म् ए॒तत्। अ॒मुञ् च॑ लो॒कम् इ॒दमू॑ च॒ सर्व॑म्।  
@@ -412,8 +418,8 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 ## श्रोणा / श्रवणम् - विष्णुः
 
-{{< figure src="../../images/naxatram/wiki/shroNA.png"  class="thumbnail">}}  
-{{< figure src="../../images/naxatram/stellarium/shroNA.png"  class="thumbnail">}}  
+{{< figure src="/devaH/hindukaH/lokAntaram/images/naxatram/wiki/shroNA.png"  class="thumbnail">}}  
+{{< figure src="/devaH/hindukaH/lokAntaram/images/naxatram/stellarium/shroNA.png"  class="thumbnail">}}  
 +++(α, β and γ Aquilae)+++
 
 शृ॒ण्वन्ति॑ श्रो॒णाम् अ॒मृत॑स्य गो॒पाम्। पुण्या॑म् अस्या॒ उप॑शृणोमि॒ वाच॑म्।  
@@ -430,8 +436,8 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 ## धनिष्ठाः/ श्रविष्ठाः - वसवः
 
-{{< figure src="../../images/naxatram/wiki/dhaniShThA.svg"  class="thumbnail">}}  
-{{< figure src="../../images/naxatram/stellarium/dhaniShThA_shraviShThA.png"  class="thumbnail">}}  
+{{< figure src="/devaH/hindukaH/lokAntaram/images/naxatram/wiki/dhaniShThA.svg"  class="thumbnail">}}  
+{{< figure src="/devaH/hindukaH/lokAntaram/images/naxatram/stellarium/dhaniShThA_shraviShThA.png"  class="thumbnail">}}  
 +++(α to δ Delphini)+++
 
 अ॒ष्टौ दे॒वा वस॑वस् सो॒म्यासः॑। चत॑स्रो दे॒वीर् अ॒जराः॒ श्रवि॑ष्ठाः।  
@@ -449,8 +455,8 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 ## शतभिषग् - वरुणः
 
-{{< figure src="../../images/naxatram/wiki/shatabhiShaj.png"  class="thumbnail">}}  
-{{< figure src="../../images/naxatram/stellarium/shatabhiShaj.png"  class="thumbnail">}}  
+{{< figure src="/devaH/hindukaH/lokAntaram/images/naxatram/wiki/shatabhiShaj.png"  class="thumbnail">}}  
+{{< figure src="/devaH/hindukaH/lokAntaram/images/naxatram/stellarium/shatabhiShaj.png"  class="thumbnail">}}  
 +++(Sadachbia = γ Aquarii इति केचित्। Fomalhaut स्याद् इत्यन्ये।)+++
 
 क्ष॒त्रस्य॒ राजा॒ वरु॑णो ऽधिरा॒जः। नक्ष॑त्राणाꣳ श॒तभि॑ष॒ग् वसि॑ष्ठः।  
@@ -470,8 +476,8 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 ## प्रोष्ठपदाः/ भाद्रपदाः पूर्वाः - अज एकपात्
 
-{{< figure src="../../images/naxatram/wiki/proShThapada.png"  class="thumbnail">}}  
-{{< figure src="../../images/naxatram/stellarium/pUrva-proShThapadau.png"  class="thumbnail">}}  
+{{< figure src="/devaH/hindukaH/lokAntaram/images/naxatram/wiki/proShThapada.png"  class="thumbnail">}}  
+{{< figure src="/devaH/hindukaH/lokAntaram/images/naxatram/stellarium/pUrva-proShThapadau.png"  class="thumbnail">}}  
 +++(α and β Pegasi)+++
 
 अ॒ज एक॑पा॒द् उद॑गात् पु॒रस्ता॑त्। विश्वा॑ भू॒तानि॑ प्रति॒ मोद॑मानः।  
@@ -490,8 +496,8 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 ## प्रोष्ठपदाः/ भाद्रपदाः उत्तराः  - अहिर् बिध्नियः
 
-{{< figure src="../../images/naxatram/wiki/proShThapada.png"  class="thumbnail">}}  
-{{< figure src="../../images/naxatram/stellarium/uttara-proShThapadau.png"  class="thumbnail">}}  
+{{< figure src="/devaH/hindukaH/lokAntaram/images/naxatram/wiki/proShThapada.png"  class="thumbnail">}}  
+{{< figure src="/devaH/hindukaH/lokAntaram/images/naxatram/stellarium/uttara-proShThapadau.png"  class="thumbnail">}}  
 +++(γ Pegasi and α Andromedae)+++
 
 अहि॑र् बु॒ध्नियᳶ॒+++(=मूलस्थः)+++ प्रथ॑मान एति। श्रेष्ठो॑ दे॒वाना॑म् उ॒त मानु॑षाणाम्।  
@@ -509,8 +515,8 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 ## रेवती
 
-{{< figure src="../../images/naxatram/wiki/revatI.png"  class="thumbnail">}}  
-{{< figure src="../../images/naxatram/stellarium/revatI.png"  class="thumbnail">}}  
+{{< figure src="/devaH/hindukaH/lokAntaram/images/naxatram/wiki/revatI.png"  class="thumbnail">}}  
+{{< figure src="/devaH/hindukaH/lokAntaram/images/naxatram/stellarium/revatI.png"  class="thumbnail">}}  
 +++(ζ Piscium)+++
 
 पू॒षा रे॒वत्यन्वे॑ति॒ पन्था॑म्। पु॒ष्टि॒पती॑ पशु॒पा वाज॑+++(=अन्न)+++बस्त्यौ+++(बलौ)+++।  
@@ -530,8 +536,8 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 ## अश्विनौ
 
-{{< figure src="../../images/naxatram/wiki/ashvinau.png"  class="thumbnail">}}  
-{{< figure src="../../images/naxatram/stellarium/ashvinau.png"  class="thumbnail">}}  
+{{< figure src="/devaH/hindukaH/lokAntaram/images/naxatram/wiki/ashvinau.png"  class="thumbnail">}}  
+{{< figure src="/devaH/hindukaH/lokAntaram/images/naxatram/stellarium/ashvinau.png"  class="thumbnail">}}  
 +++(β and α Arietis)+++
 
 तद् अ॒श्विना॑व् अश्व॒युजोप॑याताम्। शुभ॒ङ् गमि॑ष्ठौ सु॒यमे॑भि॒र् अश्वैः॑।  
@@ -548,8 +554,8 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 ## भरणी - यमः
 
-{{< figure src="../../images/naxatram/wiki/bharaNI.png"  class="thumbnail">}}  
-{{< figure src="../../images/naxatram/stellarium/bharaNI.png"  class="thumbnail">}}  
+{{< figure src="/devaH/hindukaH/lokAntaram/images/naxatram/wiki/bharaNI.png"  class="thumbnail">}}  
+{{< figure src="/devaH/hindukaH/lokAntaram/images/naxatram/stellarium/bharaNI.png"  class="thumbnail">}}  
 +++(35, 39, and 41 Arietis)+++
 
 अप॑ पा॒प्मान॒म् भर॑णीर् +++(=35, 39, 41 Arietis)+++ भरन्तु। तद् य॒मो राजा॒ भग॑वा॒न्॒ विच॑ष्टाम्।  
