@@ -1,7 +1,11 @@
 +++
 title = "kShemendra on kalki"
+date = "2005-03-03"
+upstream_url = "https://manasataramgini.wordpress.com/2005/03/03/kshemendra-on-kalki/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/03/03/kshemendra-on-kalki/).
+
 The great Kashmirian author in his text the dashAvatAracharitra which
 was written in 1066 AD describes the conditions that would prevail on
 the earth just before the coming of kalki.  
@@ -19,3 +23,4 @@ mlechChas who will spread havoc and bloodshed throughout the world.
 Thus, the kAlachakra tantra and the Hindu depictions are quite parallel
 and definitely inspired by the dreaded advent of Islam \[a problem that
 continues to seize the world\].
+
