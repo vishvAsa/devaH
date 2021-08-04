@@ -11,18 +11,11 @@ practice_weight: 0
 - माधवभरतस्वामिनाव् [अत्र](https://archive.org/stream/TFIC_ASI_Books/SamaVedaSamhita#page/n149/mode/2up)।
 
 
-कया॑ नश्चि॒त्र +++(=चयनीयः)+++ आ भु॑वद्  
-ऊ॒ती +++(=रक्षणम्/ तर्पणम् [तेन])+++ स॒दा-वृ॑धः॒ +++(=वर्धमानः)+++ सखा॑ ।  
-कया॒ शचि॑ष्ठया +++(=प्रज्ञावता)+++ वृ॒ता +++(=वर्तनेन)+++ १
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/01_kayA_nashchitra.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-कस्त्वा॑ स॒त्यो मदा॑नां॒  
-मंहि॑ष्ठो +++(=पूज्यः)+++ मत्स॒द् +++(=मादयेद्)+++ अन्ध॑सः+++(= भोज्यः ([सोमः])+++) ।  
-दृ॒ऴा +++(=ढम्)+++ चि॑दा॒रुजे॒ +++(=सम्भङ्क्तुम्)+++ वसु॑ २
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/02_kastvA_satyo.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-अ॒भी षु णः॒ सखी॑नाम्  
-अवि॒ता ज॑रितॄ॒णाम् +++(=स्तोतॄणाम्)+++।  
-श॒तं भ॑वास्यू॒तिभिः॑ +++(=रक्षाभिः)+++३  
-+++(अभिभवसि = सम्मुखो भवसि)+++
+<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/03_abhI_Shu.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 ## कौथुम-पाठः
 क꣡या꣢ नश्चि꣣त्र꣡ आ भुव꣢꣯दू꣣ती꣢ स꣣दा꣢वृ꣣धः꣢ स꣡खा꣢। क꣢या꣣ श꣡चि꣢ष्ठया वृ꣣ता꣢ ।।1 ।।  
@@ -31,4 +24,3 @@ practice_weight: 0
 
 
 {{< figure src="../../images/indra-as-maghavAn-followed-by-people-bearing-wealth-moving-towards-a-yajamAna.png"  class="thumbnail">}}
-
