@@ -1,9 +1,10 @@
 +++
 title = "The wives of Mars and the Carmen Arvale"
+date = "2008-10-04"
+upstream_url = "https://manasataramgini.wordpress.com/2008/10/04/the-wives-of-mars/"
 
 +++
-[मानसतरङ्गिणीकृता](https://manasataramgini.wordpress.com/) लिखितम्। अत्र सौकर्याय रक्षितम्।
-
+Source: [here](https://manasataramgini.wordpress.com/2008/10/04/the-wives-of-mars/).
 
 In our earlier discussion we had argued based on structural homologies
 the marut-s of the vedic system are “para-skanda”. We speculated that
@@ -66,10 +67,11 @@ root tR^ip. Thus, it may be seen as a tarpaNa of Mars\]
 *semunis alterni advocapit conctos* \[Here the deities called the
 Semones are invoked\]  
 *enos Marmor iuvato* \[Mars is called for help again\]  
-* triumpe\! *\[victory: the analog of the Sanskrit invocation jaya\!\]
+* triumpe! *\[victory: the analog of the Sanskrit invocation jaya!\]
 
 These two sets of plural deities the Lares and Semones are troops of
 gods who accompany Mars and thus appear to be cognates of the marut-s in
 the plural sense. The Semones are etymological connected to fallen
 seeds. This might parallel the fertilizing seed of rudra which was the
 source of skanda.
+
