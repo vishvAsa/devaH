@@ -36,3 +36,7 @@ unicode_script = "devanagari"
 > What is embarrassing about the phallic significance of the Śivaliṅga? People keep repeating verses praising the head & feet of the deva but get disgusted at a symbol that connotes what? The eternal fatherhood & motherhood of Śiva & his inseparable Śakti. I don’t care if getting defensive about the phallic significance is the politically “right” stance to take as per the prude-tva consensus. I am & will be a Śaiva till my last breath & will never be apologetic for the phallic significance of the Śivaliṅga. ... I don’t care for such immature folks. I care for the opinion of Śrī-Upamanyu-Ṛṣi who states in Mahābhārata that Śiva-Devī are the only deities whose signs/insignia are found on the very persons of all humans & even beasts.
 > -GA
 
+## यवद्वीपे
+Hyang Manikmaya.
+
+Semar is also called Sang Hyang Ismaya, the elder brother of Sang Hyang Manikmaya (Shiva). He is worshipped by followers of Javanese Hinduism and Kejawen, being considered as the guardian of Brahmins and Kshatriyas, the keeper of wisdom and protector of Java.
