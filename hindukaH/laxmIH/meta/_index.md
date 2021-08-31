@@ -15,4 +15,4 @@ title = "+अधि-लक्ष्मि"
 > Sri is jIva but foremost among them & the reason for her omnipresence is His will.
 
 ## वैखानसम्
-> Their very philosophy is called lakshmI vishiShTAdvaita. She is not independent of Vishnu nor is She a mere jIva. For them, when Ishvara takes form, He becomes lakshminArAyaNa. She is inseparable from Him & is personification of His shakti
+> Their very philosophy is called lakshmI vishiShTAdvaita. She is not independent of Vishnu nor is She a mere jIva. For them, when Ishvara takes form, He becomes lakshminArAyaNa. She is inseparable from Him & is personification of His shakti.
