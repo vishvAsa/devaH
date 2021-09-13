@@ -1,7 +1,7 @@
 +++
 title = "प्रत्यङ्गिरा-स्तोत्रम्"
 unicode_script = "devanagari"
-practice_weight: 0
+practice_weight = 0
 
 +++
 
