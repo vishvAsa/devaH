@@ -3,6 +3,5 @@ title = "देवस्य त्वा सवितुः"
 unicode_script = "devanagari"
 +++
 
-दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे᳚+++(=अनुज्ञायां)+++,
-ऽश्विनो᳚र् बा॒हुभ्या᳚म्,
-पू॒ष्णो हस्ता᳚भ्या॒म् आ द॑दे ।
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/1/3/devasya_tvA_savituH.md"  newLevelForH1="2" includeTitle="false"> </div>  
+
