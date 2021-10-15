@@ -1,6 +1,7 @@
 +++
 title = "कार्त्तिकेयं सुरश्रेष्ठं"
 unicode_script = "devanagari"
+practice_weight = 0
 +++
 
 कार्तिकेयं सुरश्रेष्ठं  
