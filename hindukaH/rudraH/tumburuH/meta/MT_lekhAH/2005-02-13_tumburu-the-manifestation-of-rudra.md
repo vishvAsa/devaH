@@ -16,7 +16,7 @@ mahAsaMmohana and 4) nayottara.
 The shirashCheda tantra gives the following description of the tumburu
 emanation of vAmadeva:
 
-tumburu is the lord rudra himself and is called the called the great
+> tumburu is the lord rudra himself and is called the called the great
 fierce reptile, the crest jewel of all the devas adorning their shikha
 (a cryptic allusion to the sahasrAra). He two aspects asakala and
 sakala, the latter being described here. He has four energies which
@@ -27,8 +27,9 @@ aparAjitA who generate the phenomenal universe, while he himself is the
 fifth and highest energy shAntyatItakalA, which transcends all
 manifestation. He resides in the abode of soma (saumyadhAma), which is
 full of the savour of countless mantras. His entire body is illuminated
-by the circle of his light and rays of the jewels of his many vidyAs. He
-smells sweetly with the scent on many garlands and his body is smeared
+by the circle of his light and rays of the jewels of his many vidyAs. 
+>
+> He smells sweetly with the scent on many garlands and his body is smeared
 with a blood-red anguent. He shows the mudra of the shaktipITha and his
 maNDala is that of the chandradurdaNDa. He has 4 hands in which he holds
 a lasso, a\~nkusha, trident and varada mudra. His four faces are white,
@@ -46,15 +47,15 @@ lasso is the abode of all fetters that binds beings as they rise to
 higher levels or descend. The trident he sports has for its three prongs
 persistance, origin and destruction. He bestows all that people desires
 with the varada mudra.
-
-tumburu resides in the circle of the 14 powers and great fetters and is
+>
+> tumburu resides in the circle of the 14 powers and great fetters and is
 surrounded by a host of female gaNas. His female attendents laugh and
 yell horribly and their forms are hideous in appearance. He is the great
 hero who can consume the entire universe with a mere twand of his great
 bow. At the same time he is the source of all existence and its
 protector. He is the cosmic breath, the great mahAkAla and kAlagnirudra.
-
-He sits on a lotus with 4 petals. On the eastern petal is seated jayA,
+>
+> He sits on a lotus with 4 petals. On the eastern petal is seated jayA,
 vijayA in the south, ajitA in the north and aparAjitA in the western
 petal. These lovely goddess are his sisters and they melodiously play on
 their vINAs.
