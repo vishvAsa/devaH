@@ -1,7 +1,7 @@
 ---
 title: mantresha-s
----
 
+---
 ## Embodiment in text
 - In one point of view, the dEvatAs are actually concepts (and associated powers) which exist in the form of mantras and even entire texts - see citations in [V's mantra page](/mantra/)).
 - Consonance with modern views - Vishwa Adluri - "Rama is in the rAmAyaNa" [YT](https://twitter.com/agnimaan/status/1047594919085264896), [AR](https://archive.org/details/hindu-sanskrit-lectures/20180929-0001-ThinkOlio+_+Time%2C+Desire+and+Action+-+Ramayana+and+The+Cosmic+Game.mp3).
@@ -58,4 +58,3 @@ parAkhya tantra [TW](https://twitter.com/GhorAngirasa/status/867148873692835840)
 > There are empowered souls on the path to mokSha that are delegated various cosmological tasks (e.g., the vidyeshvara-s).
 >
 > Then there are those who have attained mokSha/shivatvam who may no longer do any work since they won’t do anything impelled by desire. Do they then do anything spontaneously? I’m not sure. They are all-pervasive like *the* Śiva & also bear all of existence within themselves.
-
