@@ -4,9 +4,6 @@ unicode_script: devanagari
 
 ---
 
-स॒ह ना॑व् अवतु ।  
-स॒ह नौ॑ भुनक्तु ।  
-स॒ह वी॒र्यं॑ करवावहै ।  
-ते॒ज॒स्वि ना॒व् अधी॑तम् अस्तु॒ ।  
-मा वि॑द्विषा॒वहै॑ ।  
-ओं शान्ति॒श् शान्ति॒श् शान्तिः॑ ।। (23)
+<div class="js_include" url="/vedAH/yajuH/taittirIyam/AraNyakam/sarva-prastutiH/05/23_sahanAvavatu/"  newLevelForH1="2" includeTitle="true"> </div>  
+
+
