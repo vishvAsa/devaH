@@ -58,11 +58,11 @@ hugo server --renderToDisk --config ./config_dev.toml
   - ततो नुदित्वाकर्षणाभ्यर्थनं https://github.com/XYZ/devaH/tree/static_files इत्यत्र गत्वा प्रेषणीयम्।
 
 <script>
-module_ui_lib.default.replaceWithQueryParam("githubUserId", /XYZ(?=[^'’])/g);
+module_ui_lib.replaceWithQueryParam("githubUserId", /XYZ(?=[^'’])/g);
 
 document.getElementById("transformId").onclick = function(e) {
   let userId = document.getElementById("input_githubUserId").value;
   console.log(userId);
-  module_ui_lib.default.insertQueryParam("githubUserId", userId);
+  module_main.default.query.setParamAndGo("githubUserId", userId);
 };
 </script>
