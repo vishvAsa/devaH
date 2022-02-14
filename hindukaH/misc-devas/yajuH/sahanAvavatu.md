@@ -4,6 +4,6 @@ unicode_script: devanagari
 
 ---
 
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/AraNyakam/sarva-prastutiH/05/23_sahanAvavatu/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/05/23_sahanAvavatu/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 

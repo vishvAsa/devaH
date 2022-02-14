@@ -12,4 +12,4 @@ unicode_script: devanagari
 
 ## मन्त्राः
 
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/20_-25_hetayo_nAmastha.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/20_-25_hetayo_nAmastha.md"  newLevelForH1="2" includeTitle="false"> </div>

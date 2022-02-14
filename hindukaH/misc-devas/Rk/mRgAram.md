@@ -8,5 +8,5 @@ status: to_memorize
 practice_weight: 0
 ---
 
-<div class="js_include" url="/vedAH/yajuH/taittirIyam/saMhitA/4/7/15_agner_manve_mRgAram/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/4/7/15_agner_manve_mRgAram/"  newLevelForH1="2" includeTitle="true"> </div>  
 
