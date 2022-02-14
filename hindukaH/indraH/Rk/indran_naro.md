@@ -9,7 +9,7 @@ RV.7.27.1a; SV.1.318a; TS.1.6.12.1a; MS.4.12.3a: 184.17; 4.14.5: 221.11; KB.26.1
 
 +++([सायणो [ऽत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart3/rv_sayanabhasya_part3#page/n423/mode/1up&sa=D&ust=1542425956264000)। वसिष्ठः। त्रिष्टुभ्। इन्द्रः।])+++
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/027/01_indraM_naro.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/027/01_indraM_naro.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 इ꣢न्द्रं꣣ न꣡रो꣢ ने꣣म꣡धि꣢ता हवन्ते꣣  
 य꣡त्पार्या꣢꣯+++(=पारङ्गमनसाधनानि)+++ यु꣣न꣡ज꣢ते꣣ धि꣢य꣣स्ताः꣢।  

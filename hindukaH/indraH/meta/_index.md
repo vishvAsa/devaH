@@ -7,9 +7,9 @@ unicode_script = "devanagari"
 - बलस्य परीक्षकः। शची+++(→बल)+++पतिः। 
 - युद्धेषु वृकवत्। अधः सूचितानां शत्रूणां हन्ता। दस्युहा।
 - मघवा। श्रवसो +++(=यशसो)+++ दाता। सोमपाः।
-- पृथिव्या दृंहकः ("[स जनास इन्द्रः](../../../vedAH/Rk/shAkalam/saMhitA/02/012_sa_janAsa_indraH/)")। अन्तरिक्षस्य मापकः। द्यावः स्तम्भकः। सूर्यम् उषसम् अपि जजान!
+- पृथिव्या दृंहकः ("[स जनास इन्द्रः](/vedAH_Rk/shAkalam/saMhitA/02/012_sa_janAsa_indraH/)")। अन्तरिक्षस्य मापकः। द्यावः स्तम्भकः। सूर्यम् उषसम् अपि जजान!
 - स वाय् आकाश इति [जैमिनीयाः](/vedAH/sAma/jaiminIyam/brAhmaNam/jaiminiya-upaniShad-brAhmaNam/01/10/)।
-- अश्मनोर् अन्तर् अग्निं जजान। रौहिणम् अस्फुरत् ("[स जनास इन्द्रः](../../../vedAH/Rk/shAkalam/saMhitA/02/012_sa_janAsa_indraH/)")।
+- अश्मनोर् अन्तर् अग्निं जजान। रौहिणम् अस्फुरत् ("[स जनास इन्द्रः](/vedAH_Rk/shAkalam/saMhitA/02/012_sa_janAsa_indraH/)")।
 - अपां विमोक्ता। +++(सप्त)+++सिन्धूनाम् प्रेरकः।
 - गवां विमोक्ता।
 - वर्षकः, +++(विद्युदाकार)+++वज्रधरः।
@@ -17,7 +17,7 @@ unicode_script = "devanagari"
 ## खे
 - नक्षत्रं ज्येष्ठा। 
 - समीप एव वर्तते खगङ्गाया आपः, सर्पाश्च Ophuichus तथा Hercules इत्येताभ्यां वध्यमानाः (very same ecliptic longitude)। मूलम् अपि सर्पवद् आभाति। (चित्रम् अधः।) 
-- खचक्रे तद्-विपरीतया रोहिण्या ऽपि सम्बद्धः। एतद् वृषाकपिसूक्ते "[स जनास इन्द्रः](../../../vedAH/Rk/shAkalam/saMhitA/02/012_sa_janAsa_indraH/)" इति सूक्ते च च्यक्तम्।
+- खचक्रे तद्-विपरीतया रोहिण्या ऽपि सम्बद्धः। एतद् वृषाकपिसूक्ते "[स जनास इन्द्रः](../../../vedAH_Rk/shAkalam/saMhitA/02/012_sa_janAsa_indraH/)" इति सूक्ते च च्यक्तम्।
 - indra preparing to slay vR^itra tells viShNu in the RV: athAbravId vR^itram indro haniShyan sakhe viShNo vitaraM vi kramasva | (vAmadeva gautama) sakhe viShNo vitaraM vi kramasva dyaur dehi lokaM vajrAya viShkabhe | (nema bhArgava) विश्ष्णोर् नक्षत्रं श्रवणः ज्येष्ठासर्पादिसमीपवर्ती। 
 
 {{< figure src="jyeShThA_serpens_hercules_ophiuchus.jpg" title="" class="thumbnail">}}
@@ -33,14 +33,14 @@ unicode_script = "devanagari"
 - पर्वतानाम्+++(→मेघानाम् इति हरदत्तः)+++ पक्षान् छिनत्तीत्यपि प्रसिद्धम्।
 - **पर्वताः** 
   - तेष्व् इन्द्रशत्रवो भवन्ति केचन् गुप्ताः। खचक्रगतनक्षत्रस्थाः प्रायेण। महापर्वतस् तु खगोलस्कम्भः।
-  - विषुवस्थानकम्पकास् ते स्युर् हन्यमानाः। "[स जनास इन्द्रः](../../../vedAH/Rk/shAkalam/saMhitA/02/012_sa_janAsa_indraH/)" इति सूक्ते तथा भाति। 
+  - विषुवस्थानकम्पकास् ते स्युर् हन्यमानाः। "[स जनास इन्द्रः](../../../vedAH_Rk/shAkalam/saMhitA/02/012_sa_janAsa_indraH/)" इति सूक्ते तथा भाति। 
 - **शम्बरः** 
   - शम्बरो देवको (नक्षत्र)-पर्वतेषु पुरा स्थितः। 
   - अहोस्वित् अवर्षा वा मेघो वा दस्युराजा बहुदुर्गवान् वा दिवोदासशत्रुर् वा । 
-  - स हि "पर्वतेषु शयानः" इति "[स जनास इन्द्रः](../../../vedAH/Rk/shAkalam/saMhitA/02/012_sa_janAsa_indraH/)" इति सूक्ते।
-  - तिलकबलगङ्गाधरस्तु "[स जनास इन्द्रः](../../../vedAH/Rk/shAkalam/saMhitA/02/012_sa_janAsa_indraH/)" इति सूक्ते - "40th day of autumn when at high latitudes the rapid decrease in day length would be felt; marking the battle of indra & shambara for the release of cows (solar rays)".
-- **वलः** - "अहिं हित्वा सप्त सिन्धून् जजान्, वलस्य गा उद्-आजद् " इति "[स जनास इन्द्रः](../../../vedAH/Rk/shAkalam/saMhitA/02/012_sa_janAsa_indraH/)" इति सूक्ते। - "bRhaspati attacking the mountain strongholds of vala" इत्यपि वर्तते।
-- **गवां विमोको** यः पुनः पुनः प्रोच्यते (यथा "[स जनास इन्द्रः](../../../vedAH/Rk/shAkalam/saMhitA/02/012_sa_janAsa_indraH/)" इति सूक्ते), तत्रापि प्रोष्ठपदसङ्केतो लक्ष्यः।
+  - स हि "पर्वतेषु शयानः" इति "[स जनास इन्द्रः](../../../vedAH_Rk/shAkalam/saMhitA/02/012_sa_janAsa_indraH/)" इति सूक्ते।
+  - तिलकबलगङ्गाधरस्तु "[स जनास इन्द्रः](../../../vedAH_Rk/shAkalam/saMhitA/02/012_sa_janAsa_indraH/)" इति सूक्ते - "40th day of autumn when at high latitudes the rapid decrease in day length would be felt; marking the battle of indra & shambara for the release of cows (solar rays)".
+- **वलः** - "अहिं हित्वा सप्त सिन्धून् जजान्, वलस्य गा उद्-आजद् " इति "[स जनास इन्द्रः](../../../vedAH_Rk/shAkalam/saMhitA/02/012_sa_janAsa_indraH/)" इति सूक्ते। - "bRhaspati attacking the mountain strongholds of vala" इत्यपि वर्तते।
+- **गवां विमोको** यः पुनः पुनः प्रोच्यते (यथा "[स जनास इन्द्रः](../../../vedAH_Rk/shAkalam/saMhitA/02/012_sa_janAsa_indraH/)" इति सूक्ते), तत्रापि प्रोष्ठपदसङ्केतो लक्ष्यः।
 
 
 ### अहिः

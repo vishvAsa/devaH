@@ -4,13 +4,13 @@ unicode_script: devanagari
 
 ---
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/184/01_viShNuryoniM_kalpayatu.md"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/184/01_viShNuryoniM_kalpayatu.md"  newLevelForH1="2" includeTitle="true"> </div>  
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/184/02_garbhaM_dhehi.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/184/02_garbhaM_dhehi.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/184/03_hiraNyayI_araNI.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/184/03_hiraNyayI_araNI.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 <div class="js_include" url="/vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_13/04_yatheyam_pRthivI.md"  newLevelForH1="2" includeTitle="false"> </div>
 

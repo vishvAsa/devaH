@@ -9,7 +9,7 @@ practice_weight: 0
 १ १ २ ०७०५  
 कौथुमभाष्ये सायणो [ऽर्त](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n244)। भारद्वाजः। अग्निः।
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/007/01_mUrdhAnaM_divo.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/007/01_mUrdhAnaM_divo.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 मू꣣र्धा꣡नं꣢ दि꣣वो꣡ अ꣢र꣣तिं꣡ +++(=गन्तारम्)+++ पृ꣢थि꣣व्या꣡ वै꣢श्वान꣣र꣢मृ꣣त꣢꣯+++(य्)+++ आ जा꣣त꣢म꣣ग्नि꣢म्।  
 क꣣वि꣢ᳱ स꣣म्रा꣢ज꣣म꣡ति꣢थिं꣣ ज꣡ना꣢नामा꣣स꣢न् +++(=आस्यं)+++ नः꣣ पा꣡त्रं꣢ जनयन्त दे꣣वाः꣢।।1 ।।

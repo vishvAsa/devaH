@@ -8,7 +8,7 @@ practice_weight: 0
 
 ([सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n171) कौथुमभाष्ये। वसिष्ठः।अग्निः])
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/044/16_agnirmUrdhA_divaH.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/044/16_agnirmUrdhA_divaH.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 १ १ १ ०३०७  
 अ꣣ग्नि꣢र्मू꣣र्धा꣢ दि꣣वः꣢ क꣣कु꣡त्  
