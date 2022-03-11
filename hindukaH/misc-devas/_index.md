@@ -24,3 +24,4 @@ title: +प्रकीर्णाः
   - "the divine craftsmen whose masters are said to be the Rudra-s: RV 8.7.12"
 - गन्धर्वाः
   - वेदेषु पञ्च - "śvāna-bhrāț, anghāri-bambhāri, hasta-suhasta and kŕśānu-viśvāvasu. Indologist proposal for the 2nd as nabhrāț is correct IMO. the set of 8 is prasiddha right from veda. Just like lots of ādityas but 8 and later 12 forming a set."
+- यमः +++(→खे ऽन्धकारः)+++, यमी‌/ यमुना (→ आकाशगङ्गा)
