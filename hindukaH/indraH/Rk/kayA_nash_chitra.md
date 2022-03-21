@@ -11,11 +11,10 @@ practice_weight: 0
 - माधवभरतस्वामिनाव् [अत्र](https://archive.org/stream/TFIC_ASI_Books/SamaVedaSamhita#page/n149/mode/2up)।
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/01_kayA_nashchitra.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031_kaya_nash_chitra/"  newLevelForH1="2" includeTitle="true"> </div>  
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/02_kastvA_satyo.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/03_abhI_Shu.md"  newLevelForH1="2" includeTitle="false"> </div>
+
 
 ## कौथुम-पाठः
 क꣡या꣢ नश्चि꣣त्र꣡ आ भुव꣢꣯दू꣣ती꣢ स꣣दा꣢वृ꣣धः꣢ स꣡खा꣢। क꣢या꣣ श꣡चि꣢ष्ठया वृ꣣ता꣢ ।।1 ।।  
