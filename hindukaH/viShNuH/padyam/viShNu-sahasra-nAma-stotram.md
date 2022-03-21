@@ -1,8 +1,8 @@
----  
+---
 title: विष्णु-सहस्र-नाम-स्तोत्रम्  
 unicode_script: devanagari  
 practice_weight: 0
----  
+---
 
 श्रीविष्णुसहस्रनामस्तोत्रम्   
 
