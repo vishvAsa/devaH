@@ -19,5 +19,5 @@ function getSelectionWeight(url) {
   return pageParams.practice_weight;
 }
 
-module_main.default.redirectToRandomPage(getSelectionWeight, document.getElementsByName("manualRedirectionDiv"), false);
+module_uiLib.default.navigation.redirectToRandomPage(getSelectionWeight, document.getElementsByName("manualRedirectionDiv"), false);
 </script>
