@@ -2,7 +2,7 @@
 title = "Pushan goat dog"
 +++
 
-(Article on Daena's dogs stored [elsewhere](/devaH/yAvanaH/daena/articles/MT/daena-dogs.md), yama's dogs [here](/devaH/hindukaH/yamaH/meta/MT/yama-dogs/) .)
+(Article on Daena's dogs stored [elsewhere](/devaH/yAvanaH/daena/articles/MT/daena-dogs.md), yama's dogs [here](/devaH/AryaH/hindukaH/yamaH/meta/MT/yama-dogs/) .)
 
 Next we come to the presence of Hermes in the image. As suggested by some, one connection is the link to saramA the mother of these dogs praised in mantra-s of the YV. However, multiple lines of evidence suggest that Hermes is a cognate of puShan. We shall see that there is tangled web of connections between puShan, the dog & the realm of the dead.
 
