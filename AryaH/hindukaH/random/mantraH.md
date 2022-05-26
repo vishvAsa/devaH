@@ -9,7 +9,7 @@ unicode_script: devanagari
 <script>
 function getSelectionWeight(url) {
   var cleanedUrl = url.replace("//", "/");
-  let pageParams = module_dir_tree.getPageParams(cleanedUrl);
+  let pageParams = module_uiLib.default.content.getPageParams(cleanedUrl);
   if ( ! cleanedUrl.includes("/hindukaH/")  || cleanedUrl.includes("/meta/")  || cleanedUrl.includes("/images/")|| pageParams.logicalName == "_index.md") {
     return 0;
   }
