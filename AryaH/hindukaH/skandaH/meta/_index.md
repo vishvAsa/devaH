@@ -11,3 +11,6 @@ unicode_script = "devanagari"
 - तस्मात् स्कन्दविशाखौ जातौ। विशाखा नक्षत्रं खचक्रे कृत्तिकाया विपरीतदिशि हि वर्तते। 
 - मरुर्द्भिस् सह सादृश्यम् [अन्यत्रोक्तम्](../../marutaH/MT_lekhAH/2007-07-25_maruts-as-para-skanda-and-other-elements-of-their-mythology/)।
 - भैरवीकृतरूपम् - वटुकः (baTuka/ vaTuka)।
+
+## Rhino ride
+> rhino manifestation of viShNu is described as having fiery form  -- epithets of agni are used. This could have resulted in the identification of ekashR^i~Nga viShNu with agni or skanda on a rhino. - MT

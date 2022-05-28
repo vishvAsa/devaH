@@ -30,6 +30,9 @@ unicode_script = "devanagari"
 ## कृष्णः
 - रोहिणी-नक्षत्रे चन्द्र-वंशे जातो ऽसौ मध्यरात्रौ - चन्द्रस्य प्रियतमा हि रोहिणी। अष्टम्यां च तिथौ स जातो, येन चन्द्रोदयो ऽपि मध्यरात्रौ स्यात्। 
 
+## एकशृङ्गः
+> There is a manifestation of viShNu (poorly know to the laity) as the rhinoceros -- ekashR^i~Nga. rhino manifestation of viShNu is described as having fiery form  -- epithets of agni are used. 
+
 ## जनान्तरे
 ### Víðarr
 - "In the Gylfaginning of the Icelandic prose Edda, Snorri Sturluson, who still had links to the old Germanic heathenism, described Víðarr thus: “Víðarr is the name of the silent asa. He has a very thick shoe, and he is the strongest next after Thor. From him the gods have much help in all hard tasks. ” ..."
