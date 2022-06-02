@@ -13,6 +13,7 @@ practice_weight: 0
 <div class="js_include" url="/purANam/mahAbhAratam/goraxapura-pAThaH/hindy-anuvAdaH/13_anushAsanaparva/01_dAna-dharma-parva/149/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 स्कन्दः स्कन्दधरो धुर्यो वरदो वायुवाहनः ।  
 वासुदेवो बृहद्भानुर् आदिदेवः पुरन्दरः ॥ ३६॥  
@@ -232,8 +233,10 @@ practice_weight: 0
 सर्वप्रहरणायुध ॐ नम इति ।  
 वनमाली गदी शार्ङ्गी शङ्खी चक्री च नन्दकी ।  
 श्रीमान् नारायणो विष्णुर् वासुदेवोऽभिरक्षतु ॥ १०८॥  
+</details>
 
-श्री वासुदेवोऽभिरक्षतु ॐ नम इति ।  
+
+
 
 ## फलस्तुतिः  
 भीष्म उवाच ---  
