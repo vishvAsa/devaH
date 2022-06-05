@@ -1,5 +1,5 @@
 +++
-title = "कठ-सरस्वती"
+title = "कठ-मैत्रायणीय-सरस्वती"
 unicode_script = "devanagari"
 +++
 
@@ -47,3 +47,8 @@ Other triadic forms
 > पूष्णे स्वाहा । पूष्णे प्रपथ्याय स्वाहा। पूष्णे नरंधिषाय स्वाहा ॥  
 > त्वष्ट्रे स्वाहा । त्वष्ट्रे तुरीपाय स्वाहा ।त्वष्ट्रे पुरुरूपाय स्वाहा ॥  
 > विष्णवे स्वाहा । विष्णवे निखुर्यपाय स्वाहा । विष्णवे निभूयपाय स्वाहा ॥
+
+
+## Mynah and parrot
+सरस्वत्यै शारिः पुरुषवाक् । सरस्वते शुकः पुरुषवाक् ॥  
+The binding of a mynah and a parrot  talking human speech for sarasvatI in the maitrAyaNIya shruti. Brings to mind the gruesome ritual (for modern H sensibilities) in the atharvaNIya upanayana.
