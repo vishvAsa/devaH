@@ -2,6 +2,9 @@
 title = "Provability by science"
 +++
 
+## Problem
+The Gods have two kinds of activities - impersonal (by which they "run" the universe) and personal (by which they grace their devotees). The former can subsumed by the scientific laws of nature, leaving the latter to be questioned by skeptics. Here we consider possible justifications for the latter from a quasi-scientific point of view.
+
 ## Potential data - Divine experiences
 - siddhi-s.
 - rAmAnujan's dreams
