@@ -3,4 +3,4 @@ title = "विरूपाक्ष-दन्ताञ्जि-ध्यान
 unicode_script = "devanagari"
 +++
 
-<div class="js_include" url="/vedAH/sAma/jaiminIyam/sUtram/mantraH/virUpAxa-dantAnji-dhyAnam.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_sAma/jaiminIyam/sUtram/mantraH/virUpAxa-dantAnji-dhyAnam.md"  newLevelForH1="2" includeTitle="false"> </div>  
