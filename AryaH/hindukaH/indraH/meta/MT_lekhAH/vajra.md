@@ -25,12 +25,13 @@ Throughout the IE world the iconography of the vajra (or cognate) is three-prong
 
 </details>
 
+
 <details><summary>English (MT)</summary>
 
 Then Āruņi had stated thus:  
 What should he performing sorcery or being attacked by sorcery worship?  
 He who knows this threefold vajra, three-pronged, incapable of being cleaved and unbaffled, day after day attended to by these worlds,  
-~~himself having performed sorcery~~ he's himself bewitched, whom he knowing thus hates, or he who hates him knowing thus.
+himself ~~having~~ has performed sorcery _about_ whom he knowing thus hates, or he who hates him knowing thus.
 
 Verily ~~on~~ by that one this threefold vajra turns, three-pronged, incapable of being cleaved, and unbaffled day after day attended to by these words.
 </details>
