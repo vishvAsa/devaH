@@ -244,17 +244,6 @@ unicode_script: devanagari
 ब्रह्म॑णे॒ स्वाहा॑ऽभि॒जिते॒ स्वाहा॑।  
 ब्र॒ह्म॒लो॒काय॒ स्वाहा॒ऽभिजि॑त्यै॒ स्वाहा॑।  
 
-### टिप्पनीः
-
-{{< figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/abhijit.png"  class="thumbnail">}}  
-{{< figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/abhijit.png"  class="thumbnail">}}  
-+++(Vega)+++
-
-- "However, its name meaning the all conquering is equivalent to the Iranian name for the same star Vanant. This suggests that it might have been an ancient association."
-- "The Aitareya brāhmaṇa indicates that it was used to mark the day just before the svarasāman days during the annual sattra. Tilak we believe rightly realized this was the reason why Abhijit was important in the early period to mark this ritual day which in turn is critical for marking the days leading up to the Viśuvān day."
-- "It is far away from the ecliptic and has been dropped even by the time of the mahAbhArata where indra mentions this to skanda in a cryptic legend. This probably was due to precession making it no longer suitable for marking the days for the specific abhijit ritual in the annual sattra. Since this was recorded in the bhArata itself, I believe it is evidence for the actual coeval use of the kRttikAdi system in early history before its precession by the time of the bhArata."
-- " we have the great Ring Nebula M 57 which is one of the best planetary nebulae for a small scope. I have even managed it with my 20 x 70 binocs on good nights. The double-double (Epsilon Lyrae) NW of abhijit is a good wide multiple system for beginners. The globular cluster of M 56 is also a good sight at the lower part of the constellation."  
-
 
 ## श्रोणा / श्रवणम् - विष्णुः
 
@@ -266,13 +255,7 @@ unicode_script: devanagari
 विष्ण॑वे॒ स्वाहा॑ श्रो॒णायै॒ स्वाहा॑।  
 श्लोका॑य॒ स्वाहा॑ श्रु॒ताय॒स्स्वाहा॑।  
 
-### टिप्पनी
 
-{{< figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/shroNA.png"  class="thumbnail">}}  
-{{< figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/shroNA.png"  class="thumbnail">}}  
-+++(α, β and γ Aquilae)+++
-
-- " A dense part of the Milky Way with excellent sights of star fields, with globular NGC 6760 eta Aquilae in the wing of the Eagle is a Cepheid variable that varies clearly enough to be perceived by the naked eye under good skies over a period of ~ 1 week. .. This star is < 30 Myr old"
 
 
 ## धनिष्ठाः/ श्रविष्ठाः - वसवः
@@ -284,14 +267,6 @@ unicode_script: devanagari
 वसु॑भ्यः॒ स्वाहा॒ श्रवि॑ष्ठाभ्यः॒ स्वाहा॑।  
 अग्रा॑य॒ स्वाहा॒ परी॑त्यै॒ स्वाहा॑।  
 
-### टिप्पनी
-
-{{< figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/dhaniShThA.svg"  class="thumbnail">}}  
-{{< figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/dhaniShThA_shraviShThA.png"  class="thumbnail">}}  
-+++(α to δ Delphini)+++
-
-- An ancient solstitial constellation.
-- "From an observer's viewpoint the Blue Flash Nebula NGC 6905 right at the top is a good challenge. ... NGC 6934 is a good globular."
 
 ## शतभिषग् - वरुणः
 
@@ -302,18 +277,6 @@ unicode_script: devanagari
 वरु॑णाय॒ स्वाहा॒ श॒तभि॑षजे॒ स्वाहा॑।  
 भे॒ष॒जेभ्यः॒ स्वाहा॑।  
 
-### टिप्पनीः
-
-{{< figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/shatabhiShaj.png"  class="thumbnail">}}  
-{{< figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/shatabhiShaj.png"  class="thumbnail">}}  
-+++(Sadachbia = γ Aquarii इति केचित्। Fomalhaut स्याद् इत्यन्ये।)+++
-
-- "The taittirIya brAhmaNa associates this with varuNa; however, the taittirIya saMhitA makes it 1 of the 3 indra nakShatra-s."
-- "There is an asterism of Iranians known as Satavaēsa, which we hold to be the equivalent of the Vedic one. The Iranian asterism was associated with the sea while the Vedic one with Varuṇa. The possibility of Fomalhaut (α  Pisces Austrinisis) being this star is not implausible."
-- "It is believed to be the group of stars around Lambda Aquarii a slowly pulsating red giant. "
-- " First and foremost is the Helix Nebula NGC 7293 which was discovered by Karl Harding, while making his giant star atlas funded along with Gauss by Laplace and Lagrange. It is a glorious sight even with a mere 6in reflector. Then there is M2 which along with M 56 which we saw in the vicinity of abhijit remarkably is is part a former dwarf galaxy termed the Gaia sausage that was swallowed by the Milky Way well before the birth of the sun. Another great planetary is the Saturn Nebula NGC 7009 discovered by Herschel."
-
-
 ## प्रोष्ठपदाः/ भाद्रपदाः पूर्वाः - अज एकपात्
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/2/19_aja_ekapAdudagAtpurastAt.md"  newLevelForH1="2" includeTitle="false"> </div>
@@ -323,15 +286,6 @@ unicode_script: devanagari
 अ॒जायैक॑पदे॒ स्वाहा॑ प्रोष्ठप॒देभ्यः॒ स्वाहा॑।  
 तेज॑से॒ स्वाहा॑ ब्रह्मवर्च॒साय॒ स्वाहा॑।  
 
-### टिप्पनी
-
-{{< figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/proShThapada.png"  class="thumbnail">}}  
-{{< figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/pUrva-proShThapadau.png"  class="thumbnail">}}  
-+++(α and β Pegasi)+++
-
-{{< figure src="../../../../../jyotiSham/history/images/zodiac_history/bce-3000_naxatra-chakra.jpg" title="पूर्वप्रोष्ठपदेष्व् अयनान्त्यम् पुरा - उग्रः सूर्यः" class="thumbnail">}}
-
-- अत्रैवावर्तत दधिक्रावा?
 
 ## प्रोष्ठपदाः/ भाद्रपदाः उत्तराः  - अहिर् बिध्नियः
 
@@ -340,16 +294,6 @@ unicode_script: devanagari
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/2/22_chatvAra_ekamabhikarma.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 अह॑ये बु॒ध्निया॑य॒ स्वाहा॑ प्रोष्ठप॒देभ्यः॒ स्वाहा॑।  
-
-### टिप्पनीः
-
-{{< figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/proShThapada.png"  class="thumbnail">}}  
-{{< figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/uttara-proShThapadau.png"  class="thumbnail">}}  
-+++(γ Pegasi and α Andromedae)+++
-
-- यदा मृगशीर्षे बभूव विषुवस्थानम्, अत्रासीद् दक्षिणायनारम्भः। विश्व-स्कम्भमूलस्थो ऽहिर्बुध्नियः। स च प्रोष्ठपदास्व् अपि कल्पितः प्रायेण तेनैव कारणेन।
-- The yavana-s saw it representing the ancestress of themselves & the Iranics.
-- "Of course M 31 the great Andromeda galaxy & its satellite galaxies M 32 and M 110. Probably someone sitting on a planet there is writing likewise about the Milky Way & the Magellanic clouds."
 
 
 ## रेवती
@@ -362,17 +306,6 @@ unicode_script: devanagari
 पू॒ष्णे स्वाहा॑ रे॒वत्यै॒ +++(=ζ Piscium)+++ स्वाहा॑।  
 प॒शुभ्यः॒ स्वाहा॑।  
 
-### टिप्पनीः
-
-{{< figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/revatI.png"  class="thumbnail">}}  
-{{< figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/revatI.png"  class="thumbnail">}}  
-+++(ζ Piscium)+++
-
-- "Classical astronomy identifies it with ζ  Piscium. This is a really undistinguished star. So we cannot be sure if that is what was originally meant or a higher up star like β  Andromedae was used. Narahari Achar holds that the goddess Pathyā Revatī mentioned in the Svastisūkta of the Atri-s implied this asterism. While this is not impossible we are not entirely sure of that especially given the undistinguished nature of the star identified with it."
-- "The constellation of Pisces while clearly discernable under dark skies is a dim one. This goes against the early H tendency to use bright asterisms to mark nakShatra-s even if they are far from the ecliptic. What were the stars defining revatI? The nakShatra-kalpa of the atharvan tradition holds say ekA revatI: hence, there was only one star in it. siddhAnta astronomy takes that to be zeta Piscium. While close to the ecliptic, at mag 5.2 that is really a faint start to have been the original. 2. We know that the preceding proShThapada literally meant the constellation of the feet of the stool. That makes it unambiguous that square of Pegasus was seen as a stool by the Arya-s, and revatI should be to the west of that. Hence, we suspect that originally revatI was probably beta Andromedae."
-- 2nd deity: "The next puzzling issue regarding revatI is the assignment of dual deities with it - puShTipatI pashupA. One of those is transparently named as pUShan. Who is the other one? Most likely it is the goddess pathyA revatI, whom the gopathabrAhmaNa of3 the AV holds to be the wide of the goat-riding pUShan, with the 2 being the guardians of paths, and in this case horses, cows and other domesticates+ food. ... The aitareya brAhmaNa mentions the sun following the path laid our out pathyA (revatI). Given the solar connections of puShan, this coupling is most likely."
-
-
 ## अश्विनौ
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/2/25_tadashvinAvashvayujopayAtAm.md"  newLevelForH1="2" includeTitle="false"> </div>  
@@ -381,14 +314,6 @@ unicode_script: devanagari
 अ॒श्विभ्या॒ꣳ॒ स्वाहा॑ऽश्व॒युग्भ्या॒ꣳ॒ स्वाहा॑।  
 श्रोत्रा॑य॒ स्वाहा॒ श्रुत्यै॒ स्वाहा॑।  
 
-### टिप्पनीः
-
-{{< figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/ashvinau.png"  class="thumbnail">}}  
-{{< figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/ashvinau.png"  class="thumbnail">}}  
-+++(β and α Arietis)+++
-
-- "अश्विनौ व्यात्तम्" इत्युत्तरनारयणे। भरणीविषुवकाले। विवरणानि [अत्र](../../../../../jyotiSham/naxatram/chAndra-naxatram/)।
-- पश्चाद् विशुवस्थानम् अत्र।
 
 ## भरणी - यमः
 
@@ -399,10 +324,6 @@ unicode_script: devanagari
 य॒माय॒ स्वाहा॑ऽपभ॒रणीभ्यः॒ स्वाहा॑।  
 रा॒ज्याय॒ स्वाहा॒ऽभिजि॑त्यै॒ स्वाहा॑।  
 
-
-{{< figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/bharaNI.png"  class="thumbnail">}}  
-{{< figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/bharaNI.png"  class="thumbnail">}}  
-+++(35, 39, and 41 Arietis)+++
 
 ## अमावास्या
 
