@@ -27,16 +27,6 @@ unicode_script: devanagari
 व॒र्ष॒य॑न्त्यै॒ स्वाहा॑।  
 चु॒पु॒णिका॑यै॒ स्वाहा॑।  
 
-### टिप्पनीः
-
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/kRttikA.png" title="कृत्ति॑काः" class="thumbnail">}}
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/kRttikAH.png" title="कृत्ति॑काः" class="thumbnail">}}  
-+++(Pleiades)+++
-
-- "in Greek tradition there was an older record of 7 with Aratus claiming that one of them had faded away. This is generally believed to be Ambā (Greek Pleione/ 28 Tauri)."  - ([MT](https://manasataramgini.wordpress.com/2017/07/01/a-note-on-the-asterisms-forming-the-nak%e1%b9%a3atra-s/))
-- अत्र विषुवदिनम् इति तैत्तिरीयब्राह्मणाद् अनुमेयम् ~ २३०० BCE।
-
-
 
 ## रोहिणी - प्रजापतिः
 
@@ -48,19 +38,7 @@ unicode_script: devanagari
 प्र॒जाप॑तये॒ स्वाहा॑ रोहि॒ण्यै स्वाहा॑।  
 रोच॑मानायै॒ स्वाहा॑ प्र॒जाभ्यः॒ स्वाहा॑।  
 
-### टिप्पनीः
 
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/kRttikA.png" title="रोहि॒णी" class="thumbnail">}}
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/rohiNI.png" title="रोहि॒णी" class="thumbnail">}}  
-+++(Aldebaran। )+++
-
-- रोहिद्वर्णा नाम्नैव। ब्रह्महृदयं = capella = β taurii खलु रोहिणीशकटे (Taurus-मुखम्) वर्तते।
-- "prajāpatī rohiņyām agnim asŕjata" इति तैत्तिरीयब्राह्मणे। प्रजापति-रोहिणी-सङ्गमतः कृत्तिकास्व् अग्निर् जात इति कृत्वा तान्त्रिकाग्निमुखे दैवतसङ्गमेनाग्निं जायमानम् भावयन्तीति कस्तूरिरङ्गः।
-- प्रजापतिः पुरा मृगशीर्षेण सम्बद्धः, पश्चाद् रोहिण्या, तयोस् सङ्गमतो ऽग्निः कृत्तिकासु जातः - एतद् विषुवस्थानचलन-द्योतकम् भाति।
-- प्रजापत्यनुसरणकथा पश्चादुच्यते।
-- विषुवदिनम् अत्रावर्तत ३००० BCE इति वर्षे।
-- "Interesting both the kR^ittikAH (Pleiades) and Hyades which contains rohiNI are close by open clusters; 1 young, 1 older. "
-- मैत्रायणीयसम्प्रदाये - "In some reckonings it holds rohiNI as the nakShatra of soma & narrates how of all the daughters of prajApati soma preferred rohiNI and was afflicted with TB. Hence, the ritual in rohiNI is recommended for TB. It also mentions a certain brAhmaNa-nakShatra for soma at the end of the list in the ritual of the laying of the nakShatra bricks during the somayAga."
 
 
 ## मृगशीर्षम् - सोमः
@@ -76,55 +54,14 @@ unicode_script: devanagari
 
 ### टिप्पनीः
 
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/mRgashIrSha.png" title="मृगशीर्षम्" class="thumbnail">}}
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/mRgashIrSham.png" title="मृगशीर्षम्" class="thumbnail">}}  
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/mRgashiras-tilak.png" title="मृगशीर्षम् (Tilak)" class="thumbnail">}}  
-+++(Orion belt)+++
-
-- पुरा प्रजापतिना सम्बद्धम्। "प्रजापतेर् यत् सहजम् पुरस्तात्" इत्यनेन मृगशीर्षे ऽव्यङ्गस्योल्लेखो विशुवकाल इति केचित् - (~Apr 26 Julian 4500 BCE  [TW](https://twitter.com/blog_supplement/status/664525633217830915))।
-  - आग्रहायणी‌ +इत्यपि नाम - पणिन्य्-अमरौ तथा। तैत्तिरीयसंहितायां (७.२ इत्यत्र) आग्रयणम् इत्यपि। पुरा ऽऽग्रयणेष्टयो तदैवाक्रियत - तत्रायनविशेषस्यारम्भात्।
-  - वृषाकपिसूक्तम् अपि तद्विषये प्रवृत्तम्, यदा विषुवस्थानं वृषराशाव् अवर्तत।
-  - तस्यैव सूर्येणसहोदिते यज्ञकालस्यारम्भो ऽवर्तत - तेन हि तस्य सोमाधिपत्यम्, यज्ञ इति नामान्तरम्।
-- "Some take this to be the 3 stars on the head of Orion (φ 1, φ 2, λ Orionis), which is how they are denoted in classical astronomy. "
-- सोमो हि ब्राह्मणानां राजा। तस्यैवानुकरणं मेखलया दण्डेन +अजिनेन यज्ञोपवीतेनापि - पारसीकेषु ब्राह्मणेषु च!
-- "It features the great Nebula the brightest nebula visible to us, which blazes from the ionization caused by hot theta Orionis group of multiple stars. 4 of them can be easily seen with a small telescope. That would also show the M78 nebula. The region is rich in star birth."
-- kaTha-s and maitrAyaNIya-s assign mRgashiras to maruts (also a good combination with ArdrA/ rudra. "On the other hand somArudrA is also an ancient combination.")
-
-The Romans, like the H, seemed to remember of Orion as being the "leader of the constellations" i.e. the AgrayaNa position. Did some see the belt as the sword?:
-
-
-> Orion may be seen stretching his arms over a vast expanse of sky and rising to the stars with no less huge a stride. A single light marks each of his shining shoulders, and three aslant trace the downward line of his sword ; but three mark Orion’s head, which is embedded in high heaven with his countenance remote. It is Orion who leads the constellations as they speed over the full circuit of heaven. Astronomica by Marcus Manilius (translated by Goold)
-
-
-#### कथाः
-- "In Vaidika reckoning the core of Mṛga was Orion with the arrow of Rudra shot through it (See below). The arrow is identified with the three stars of the belt of Orion (ζ , ε , δ Orionis). " ता इण्वकाः। "Taittirīya Brāhmaṇa 1.5.1.1 states: somasyenvakā vitatāni ।" - ([MT](https://manasataramgini.wordpress.com/2017/07/01/a-note-on-the-asterisms-forming-the-nak%e1%b9%a3atra-s/))
-- मृगशीर्षकथा ऽध आर्द्राभागे दृश्या।
-- वृषाकपिर् इति +ऋग्वेदसूक्त इन्द्रस्य प्रियः, इन्द्राणीमन्युना शुना दष्टः कर्णे, शिरसा खण्डितः, पश्चात्+क्षान्तः।
-- "It is also likely that the 3 stars in a line inspired the myth of the tripura-s with the 3 asura forts need to be a in a line to be pierced by the arrow of rudra."
 
 ## आर्द्रा - रुद्रः
-
-+++(alpha Orinionis = Betelgeuse इति केचित्। sirius [इति](https://manasataramgini.wordpress.com/2017/07/01/a-note-on-the-asterisms-forming-the-nak%E1%B9%A3atra-s/) मानसतरङ्गिणीकारः।)+++
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/07_ArdrayA_rudrapH.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/08_hetI_rudrasya.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 रु॒द्राय॒ स्वाहा॒ऽऽर्द्रायै॒ स्वहा॑। पिन्व॑मानायै॒ स्वाहा॒ प॒शुभ्यः॒ स्वाहा॑।  
-
-### टिप्पनीः
-
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/mRgashIrSha.png" title="आ॒र्द्रा" class="thumbnail">}}
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/ArdrA.png" title="आ॒र्द्रा" class="thumbnail">}}
-
-- The hands of rudra were associated with the other forward stars like beta.
-- "ārdrayā rudraḥ prathamānam eti । This means that he original Ārdrā was likely seen as a bright star. Now, while both α Ori and α Canis Majoris are bright stars, α Ori is too close to Mṛgaśiras making α Can Ma more likely, and is also closer to the position of the later yogatāra (γ Geminorum) when projected on to the ecliptic."
-- "In the brāhmaṇa on the nakṣatra ritual in TB 1.5.1.1 the name Ārdrā is replaced by Mṛgayu which is always understood as Sirius: rudrasya bāhū mṛgayavaḥ".
-- Further, this is supported by the evidence of the Aitareya Brāhmaṇa on the famed āgnimāruta-śastra recitation:  प्रजापतिबाणो हि orion belt इति। स बाणो रोहिणीम् अनुसरते प्रजापतये। पूर्णकथा [ऽत्र](../../../../kalpe_svamatam/brAhmaNam/aitareya/tattvam/pashupati-prajApati-rohiNI/)।
-- "Further, the name Ārdrā means moist indicating a link with the wet season. The Iranian equivalent of Sirius, Tishtrya is also associated with rain suggesting that Ārdrā inherits this ancestral association."
-- "Another rich part of the sky with the open cluster M41 below Sirius. "
-- "A good challenge in this constellation is to see the companion star of Sirius . It was predicted by great mathematician Friedrich Bessel through the wobble of Sirius and seen only later by others. It is a small star about the size of the Earth but with the mass of the sun. IA good challenge in this constellation is to see the companion star of Sirius . It was predicted by great mathematician Friedrich Bessel through the wobble of Sirius and seen only later by others. It is a small star about the size of the Earth but with the mass of the sun." - MT
-
 
 ## पुनर्वसू - अदितिः
 
@@ -135,15 +72,6 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 भू॑त्यै॒ स्वाहा॒ प्रजा॑त्यै॒ स्वाहा॑।  
 
 ### टिप्पनीः
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/punarvasU.png" title="पुन॒र्वसू" class="thumbnail">}}
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/punarvasU.png" title="पुन॒र्वसू" class="thumbnail">}}  
-+++(α , β Geminorum - Castor and Pollux)+++
-
-- अदितेर् द्वे शिरसी।
-    - तैत्तिरीयसंहितायाम् - 1.2.4 "अदितिर् अस्य् उभ्यतः शीर्ष्णी, सा नः सुप्राची सुप्रतीची सं भव ।"
-    - Śatapatha Brāhmaṇa (3.2.4.16) - "aditir asy ubhayataḥ śīrṣṇīti. sa yadenayā samānaṃ sadviparyāsaṃ vadati, yadaparaṃ tatpūrvaṃ karoti, yatpūrvaṃ tadaparaṃ - tenobhayataḥ śīrṣṇī, tasmād āhāditir asy ubhayataḥśīrṣṇīti ||"
-- रामायणे - "kumbhakarṇa-śiro bhāti kuṇḍalālaṅkṛtaṃ mahat । āditye’bhyudite rātrau madhyastha iva candramāḥ ॥"
-- "These allusions indicate that the two-headed nature of the constellation of Gemini was transposed on to the presiding deity Aditi and the inversion associated with the two heads along with the eastward and westward paths might indicate an old memory of the start of the ecliptic at Aditi in prehistoric times (>7000 years BP)."  
 
 
 
@@ -157,17 +85,6 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 बृह॒स्पत॑ये॒ स्वाहा॑ ति॒ष्या॑य॒ स्वाहा॑।  
 ब्र॒ह्म॒व॒र्च॒साय॒ स्वाहा॑।  
 
-### टिप्पनीः
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/tiShya.png" title="तिष्यम्" class="thumbnail">}}
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/tiShyaH.png" title="तिष्यम्" class="thumbnail">}}  
-+++(γ, δ and θ Cancri इति केचित्। Praesepe open cluster (M44) इति केचित्।)+++
-
-- Ṛgveda - यु॒ष्माद॑त्तस्य मरुतो विचेतसो रा॒यः स्या॑म र॒थ्यो॒३॒॑ वय॑स्वतः । न यो युच्छ॑ति ति॒ष्यो॒३॒॑ यथा॑ दि॒वो॒३॒॑ऽस्मे रा॑रन्त मरुतः सह॒स्रिण॑म् ॥
-    - " The comparison of great riches, in thousands, is indicative of the great mass of stars in the open cluster supporting the identification of the old Tiṣya with M44."
-- "The name tiShya seems homologous to the Iranian tiShtrya. Today the Iranian asterism is equated with Sirius but there is a suspicion that this might have been secondary."
-
-
-
 ## आश्रेषाः - सर्पाः
 
 
@@ -177,16 +94,6 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 स॒र्पेभ्यः॒ स्वाहा॑ऽऽश्रे॒षाभ्यः॒ स्वाहा॑।  
 द॒न्द॒शूके॑भ्यः॒ स्वाहा॑॥  
-
-### टिप्पन्यः
-
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/AshreShA.png" title="आश्रेषाः" class="thumbnail">}}
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/AshreShAH.png" title="आश्रेषाः" class="thumbnail">}}  
-
-+++(δ, ε, η, ρ, σ, θ Hydrae)+++
-
-- "It corresponds to the head of the Greek constellation of Hydra, suggesting that the link to a snake goes back to early Indo-European times. Āśleṣā is specifically associated with the head of the snake. Hence, the 6 stars should correspond to θ , ζ , ε , δ , σ , η Hydrae."
-- वेदाङ्गज्योतिषानुसारम् अस्य मध्य आसीद् अयनारम्भः ~ ११०० BCE इत्यस्मिन्।
 
 
 ## मघाः - पितरः
@@ -199,15 +106,6 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 पि॒तृभ्यः॒ स्वाहा॑ म॒घाभ्यः॑ स्वाह ा॑ऽन॒घाभ्यः॒ स्वाहा॑  
 अग॒दाभ्यः॑ स्वाहा॑ ऽरुन्ध॒तीभ्यः॒ स्वाहा॑।  
 
-### टिप्पन्यः
-
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/maghA.png" title="मघा" class="thumbnail">}}
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/maghAH.png" title="मघा" class="thumbnail">}}  
-
-+++(=Regulus इति केचित्। " 6 stars - entire sickle of Leo" इत्यन्ये।)+++  
-
-- "Atharvaveda Nakṣatra sūkta states that the summer solstice happened in this asterism pointing to a period of ~4400 YBP"
-
 ## पूर्व-फल्गुन्यः  - अर्यमा
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/17_gavAmpatipH_phalgunInAmasi.md"  newLevelForH1="2" includeTitle="false"> </div>
@@ -217,17 +115,8 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 अ॒र्य॒म्णे स्वाहा॒ फल्गु॑नीभ्या॒ꣳ॒ स्वाहा॑।  
 प॒शुभ्यः॒ स्वाहा॑।  
 
-### टिप्पन्यः
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/maghA.png" title="फल्गु॑न्यः" class="thumbnail">}}
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/pUrva-phAlgunyau.png" title="फल्गु॑न्यः" class="thumbnail">}}  
-+++(=δ, θ Leonis)+++
-
-- अत्र वै यदा चन्द्रमा ऽवर्तत ३००० BCE इति वर्षे, तदाभूद् वत्सरारम्भः।
-    - विवरणानि [सौर-चान्द्र-मान-पृष्ठे](/devaH/AryaH/hindukaH/worlds/Rk/naxatra-suuktam/)।
-
 
 ## उत्तर-फल्गुन्यः - भगः
-
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/19_shreShTho_devAnAmbhagavo.md"  newLevelForH1="2" includeTitle="false"> </div>
 
@@ -237,9 +126,6 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 भगा॑य॒ स्वाहा॒ फल्गु॑नीभ्या॒ꣳ॒ स्वाहा॑।  
 श्रेष्टाया॑य॒ स्वाहा॑।  
 
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/maghA.png" title="फल्गुन्यः" class="thumbnail">}}
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/uttara-phAlgunyau.png" title="फल्गुन्यः" class="thumbnail">}}  
-+++(Denebola - β, 93 Leonis)+++
 
 ## हस्तः - सविता
 
@@ -252,9 +138,6 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 ऽऽदद॒ते स्वाहा॑ पृण॒ते स्वाहा॑  
 प्र॒यच्छ॑ते॒ स्वाहा॑ प्रतिगृभ्ण॒ते स्वाहा॑।  
 
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/hasta.png" title="हस्तः" class="thumbnail">}}
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/hastaH.png" title="हस्तः" class="thumbnail">}}  
-+++(Corvus- α , β , γ , δ , ε Corvi.)+++
 
 ## चित्रा - त्वष्टा
 
@@ -267,13 +150,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 ### टिप्पनीः
 
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/chitrA.png" title="चित्रा" class="thumbnail">}}
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/chitrA.png" title="चित्रा" class="thumbnail">}}  
 
-- "The star itself is one the nakṣatra-s mentioned in the RV (according to us contra white indological opinion)."
-- "In the TB 1.5.1.3 Citrā is described as an additional star of the god Indra."
-- "Whereas the taittirIya brAhmaNa & other traditions recognize tvaShTR^i as the god of the asterism, the other taittirIya saMhitA, assigns 3 nakShatra-s to indra at intervals of 7 centered in Antares; chitra is the first of them. This might relate to the timing of ancient aindra rituals along the early satra."
-- "this constellation offers a window, with a relatively small telescope 6-10in, of both the vastness & higher order structure of the universe. 1st we can start with M 104 or the Sombrero galaxy at the border with Corvus. It is probably the brightest galaxy in our local group& has a gigantic black hole at its center. I have routinely seen it with my 50x70 binocs on good nights. Moving from the Local group we go to the upper part of Virgo. The galaxies M 100,M 49,M 58,M 59,M 60,M 61,M 84,M 85,M 86,M 87,M 88,M 89,M 90,M 91,M 98,M 99 can be seen as part of this cluster with a small telescope. This cluster with our own local group and many others forms the Virgo supercluster. A lot of what we know of the universe is from this cluster."  
 
 
 ## निष्ट्या, स्वातिः - वायुः
@@ -285,9 +162,6 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 वा॒यवे॒ स्वाहा॒ निष्ट्या॑यै॒ स्वाहा॑।  
 का॒म॒चारा॑य॒ स्वाहा॒ऽभिजि॑त्यै॒ स्वाहा॑।  
 
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/niShTyA.png" title="निष्ट्या॑" class="thumbnail">}}
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/niShTyA_svAtiH.png" title="निष्ट्या॑" class="thumbnail">}}  
-
 
 ## विशाखे - इन्द्राग्नी
 
@@ -297,15 +171,6 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 इ॒न्द्रा॒ग्निभ्या॒ꣳ॒ स्वाहा॒ विशा॑खाभ्या॒ꣳ॒ स्वाहा॑।  
 स्रेष्टया॑य॒ स्वाहा॒ऽभिजि॑त्यै॒ स्वाहा॑।  
-
-### टिप्पनीः
-
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/vishAkhA.png" title="विशा॑खे" class="thumbnail">}}
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/vishAkhA.png" title="विशा॑खे" class="thumbnail">}}  
-+++(α, β Librae। रामायणानुसारम् इक्ष्वाकूणां नक्षत्रम् - 6.4.51।)+++
-
-- "The constellation of the Ikṣvāku-s according to the Rāmāyaṇa."
-- "Observationally, one may attempt to see if 1 perceives beta Librae as having a green hue. Some people say so making it the only naked eye star with a greenness to it."
 
 
 ## पूर्णिमा
@@ -325,9 +190,6 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 मि॒त्राय॒ स्वाहा॑ऽनूरा॒धेभ्यः॒ स्वाहा॑।  
 मि॒त्र॒धेया॑य॒  स्वाहा॒ऽभिजि॑त्यै॒ स्वाहा॑।  
 
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/anUrAdhAH.png" title="अ॒नू॒रा॒धाः" class="thumbnail">}}
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/anUrAdhAH.png" title="अ॒नू॒रा॒धाः" class="thumbnail">}}  
-+++(β, δ, η, ρ Scorpionis)+++
 
 
 ## ज्येष्ठा - इन्द्रः
@@ -339,14 +201,6 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 इन्द्रा॑य॒ स्वाहा॑ ज्ये॒ष्ठायै॒ स्वाहा॑।  
 ज्ये॒ष्ठया॑य॒ स्वाहा॒ऽभिजि॑त्यै॒ स्वाहा॑।  
 
-### टिप्पनीः
-
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/anUrAdhAH.png" title="ज्येष्ठा" class="thumbnail">}}
-{{<figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/anUrAdhAH.png" title="ज्येष्ठा" class="thumbnail">}}  
-+++(α, σ, and τ Scorpionis इति केचित्। Antares इत्यन्ये - द्वितीया रोहिणीवेति ब्राह्मणम्।)+++
-
-- "The TB describes this star as a second Rohiṇī keeping with the red color of the star."
-
 ## मूलम् - निरृतिः
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/2/05_mUlamprajAv.N_vIravatIv.N.md"  newLevelForH1="2" includeTitle="false"> </div>
@@ -356,13 +210,6 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 प्र॒जाप॑तये॒ स्वाहा॒ मूला॑य॒ स्वाहा॑।  
 प्र॒जायै॒ स्वाहा॑।  
 
-### टिप्पनीः
-
-{{< figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/anUrAdhAH.png"  class="thumbnail">}}  
-{{< figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/mUlam.png"  class="thumbnail">}}  
-+++(ζ, η, θ, ι, κ, λ, and ν Scorpionis। मूलायाङ्खल्व् आकाशगङ्गाकेन्द्रम् अपि वर्तते!)+++
-
-"In the Rāmāyaṇa it is associated with Rākṣasa-s who are supposed to have emanated from Nirṛtti."
 
 ## अषाढाः पूर्वाः - आपः
 
@@ -375,9 +222,6 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 स॒मु॒द्राय॒ स्वाहा॒ कामा॑य॒ स्वाहा॑।  
 
 
-{{< figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/aShADhAH.png"  class="thumbnail">}}  
-{{< figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/pUrva-aShADhAH.png"  class="thumbnail">}}  
-+++(δ, γ, η and ε Sagittarii। जलरूपाया आकाशङ्गङ्गायाः केन्द्रम् अस्य पार्श्वे।)+++
 
 ## अषाढाः उत्तराः - विश्वे देवाः
 
@@ -390,9 +234,6 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 अ॒न॒प॒ज॒य्याय॒ स्वाहा॒ जित्यै॒ स्वाहा॑।  
 
 
-{{< figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/wiki/aShADhAH.png"  class="thumbnail">}}  
-{{< figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/stellarium/uttara-aShADhAH.png"  class="thumbnail">}}  
-+++(φ, ζ, tau and σ Sagittarii)+++
 
 ## अभिजित्
 
