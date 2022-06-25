@@ -107,10 +107,11 @@ The 12 Hittite gods from Yazılıkaya
 
 The Rudra category originally also included the Marut-s who constitute a second block of major Vedic deities. The Vasu category includes Agni, Vāyu, Soma and Dyaus, among others, who make another key set of Vedic deities.
 
-This way, one can see why the Vedic pantheon is often described as triad of Vasu-s, Rudra-s and Āditya-s. Finally, we have the twin Aśvin-s and Bṛhaspati, who are usually in the Viśvedeva category. Finally, we may note that the functional principle of the triad of Vasu-s, Rudra-s and Āditya-s also lurks behind the classical Hindu trinity: Dyaus, who is the old Indo-European father figure in the Vasu category, reemerges as the father-deity Brahman; Śiva is the exemplar of the Rudra category; Viṣṇu the epitome of the Āditya category.
+This way, one can see why the Vedic pantheon is often described as triad of Vasu-s, Rudra-s and Āditya-s. Finally, we have the twin Aśvin-s and Bṛhaspati, who are usually in the Viśvedeva category. Finally, we may note that the functional principle of the triad of Vasu-s, Rudra-s and Āditya-s also lurks behind the classical Hindu trinity: Dyaus, who is the old Indo-European father figure in the Vasu category, reemerges as the father-deity Brahman; Śiva is the exemplar of the Rudra category; Viṣṇu the epitome of the Āditya category.+++(5)+++
 
-In this regard, the Mahābhārata holds: “jaghanyajaḥ sa sarveṣām ādityānāṃ guṇādhikaḥ ||” 1.59.16cd (“Critical”) i.e.  He [Viṣṇu], who is the last-born (of the Āditya-s) is the most endowed of all of them. This marks the rise of Viṣṇu to the preeminent status in that category.
-Aditya-s in Iconography
+In this regard, the Mahābhārata holds: “jaghanyajaḥ sa sarveṣām ādityānāṃ guṇādhikaḥ ||” 1.59.16cd (“Critical”) i.e.  He [Viṣṇu], who is the last-born (of the Āditya-s) is the most endowed of all of them. This marks the rise of Viṣṇu to the preeminent status in that category.+++(5)+++
+
+## Aditya-s in Iconography
 
 This position of Viṣṇu among the Āditya-s, while a hallmark of Vaiṣṇava ascendancy [Note that elsewhere in the Mahābhārata, Indra or Varuṇa are mentioned as the foremost of the Āditya-s], was also interiorized in part by the Saura-mata.
 
@@ -132,60 +133,77 @@ The image shows stylistic and material similarity to a toraṇa with 12 Āditya-
 
 The image was auctioned by the Sotheby’s auction house and has been since lost to the public. Hence, it is possible that the image was stolen from the Hinglajgarh ruins or a temple renovated by the Chandela-s or Paramāra-s by one of the image thieves who have been operating at these sites for several years.
 
-The 12 Āditya-s with the Saura pantheon
+## The 12 Āditya-s with the Saura pantheon
 
-Here the central Āditya may be identified with his primary solar aspect, i.e. Vivasvān. Forming a right triangle around his head are the triad of Āditya-s who come as a group from the Ṛgveda: Mitra, Varuṇa and Aryaman who are also associated with the rising, setting and meridian solar aspects. The remain tetrads on either side of the “top-center” Aryaman account for the remaining 8 Āditya-s of the dodecad.
+Here the central Āditya may be identified with his primary solar aspect, i.e. Vivasvān. Forming a right triangle around his head are the triad of Āditya-s who come as a group from the Ṛgveda: Mitra, Varuṇa and Aryaman who are also associated with the rising, setting and meridian solar aspects.+++(5)+++ The remain tetrads on either side of the “top-center” Aryaman account for the remaining 8 Āditya-s of the dodecad.
 
 In addition to the 12 Āditya-s, the image also depicts the distinctive Saura pantheon which includes:
 
-The twin Aśvin-s: These are horse-headed deities depicted at extreme lower corners of both images. The twins are ancient deities going back to the Proto-Indo-European period and are attested in most branches of the Indo-European tree. They may even go back to an earlier phase of human history being related to twin deities seen elsewhere in Eurasiatic cultures and their New World descendants. In the Hindu tradition, they are said to be born of Vivasvān and his wife Saṃjñā when they assumed the form of horses. They are the physicians of the gods who are supposed to have transmitted the science of medicine to the Bhṛgus.
+### The twin Aśvin-s
+These are horse-headed deities depicted at extreme lower corners of both images. The twins are ancient deities going back to the Proto-Indo-European period and are attested in most branches of the Indo-European tree. They may even go back to an earlier phase of human history being related to twin deities seen elsewhere in Eurasiatic cultures and their New World descendants.+++(5)+++ In the Hindu tradition, they are said to be born of Vivasvān and his wife Saṃjñā when they assumed the form of horses. They are the physicians of the gods who are supposed to have transmitted the science of medicine to the Bhṛgus.
 
-Saṃjñā: On the right of the god is his wife Saṃjñā also known as Rājṅī. She is said to have assumed the form of a mare in the realm of the Uttarakuru where Vivasvān is a said to have mated with her in the form of horse to sire the Aśvin-s.
+### Saṃjñā
+On the right of the god is his wife Saṃjñā also known as Rājṅī. She is said to have assumed the form of a mare in the realm of the Uttarakuru where Vivasvān is a said to have mated with her in the form of horse to sire the Aśvin-s.
 
 Chāyā or Nikṣubhā: The left of the god is his wife Chāyā, the personification of the shadow or darkness. She is specifically known as Nikṣubhā in the Iranized flavors of the Saura-mata and is central to the origin mythology of the Iranic Saura ritualists. The Bhaviṣyata purāṇa narrates the following tale in her regard:
 
-Kṛṣṇa, the hero of the Yadu-s married Jāṃbavatī, the daughter of the great bear Jāmbavān. Their son was the valiant Sāmba. As Sāmba grew up he secretly dallied with some of numerous wives of Kṛṣṇa. Hence, Kṛṣṇa cursed him with an incurable disease that disfigured his skin.
+> Kṛṣṇa, the hero of the Yadu-s married Jāṃbavatī, the daughter of the great bear Jāmbavān. Their son was the valiant Sāmba. As Sāmba grew up he secretly dallied with some of numerous wives of Kṛṣṇa. Hence, Kṛṣṇa cursed him with an incurable disease that disfigured his skin.
+>
+> To relieve himself of this curse, Sāmba went to the banks of the river Candrabhāgā, worshiped Vivasvān, and honored the god by constructing a temple at Mūlasthāna (what is today Multan, where the temple was destroyed by the Mohammedans). No local brāhmaṇa knew of the mysteries of his worship; hence, they could not take up priesthood at the temple. So Sāmba sought help of Gauramukha, the adviser of the Yadu chief, Ugrasena.
+>
+> Gauramukha asked him to go to Śakadvīpa and obtain a special class of ritualists called magācārya-s to worship Sūrya. Sāmba then asked regarding the antecedents of these worshipers of the sun. Gauramukha told him that the first of the brāhmaṇa-s amidst the śakha-s was called Sujihva. He had a daughter of the name Nikṣubhā. Sūrya was enamored by her took her as his wife.
+>
+> Thus, she gave birth to Jaraśabda [the Indianized Zarathushtra of the old Zoroastrians], who was the founding father of all the Magacārya-s [Indianized Magi]. The gotra he founded was hence termed the Mihira gotra. They are distinguished by the sacred girdle called the avyaṅga [Avestan: Aiwyanghana, i.e. Parsi kusti] that they wear around their waist. Sāmba there upon requested Kṛṣṇa to send him Garuḍa and flying on the latter’s back he landed in Śakadvīpa. He collected the magācārya-s, brought them back to Bhārata and installed them as priests of his Sūrya temple.
 
-To relieve himself of this curse, Sāmba went to the banks of the river Candrabhāgā, worshiped Vivasvān, and honored the god by constructing a temple at Mūlasthāna (what is today Multan, where the temple was destroyed by the Mohammedans). No local brāhmaṇa knew of the mysteries of his worship; hence, they could not take up priesthood at the temple. So Sāmba sought help of Gauramukha, the adviser of the Yadu chief, Ugrasena.
+### Piṅgala
+On the proper right of the god is a deity with a pen and inkpot. He is the attendant of Vivasvān known as Piṅgala. He is the deity of writing. Thus, he becomes the patron deity of the kāyastha-s or the old Indian scribal guild.+++(4)+++ Sometimes, he is identified with Citragupta who records all the deeds of beings. In the later Saura tradition he came to be identified with Agni.
 
-Gauramukha asked him to go to Śakadvīpa and obtain a special class of ritualists called magācārya-s to worship Sūrya. Sāmba then asked regarding the antecedents of these worshipers of the sun. Gauramukha told him that the first of the brāhmaṇa-s amidst the śakha-s was called Sujihva. He had a daughter of the name Nikṣubhā. Sūrya was enamored by her took her as his wife.
+### Daṇḍin
+On the proper left of the god is the attendant deity Daṇḍin. He is depicted typically with a scepter of law. He is said to be the enforcer of law among the beings even as Piṅgala records their deeds. In the later Saura tradition, he came to be identified with Yama.+++(4)+++
 
-Thus, she gave birth to Jaraśabda [the Indianized Zarathushtra of the old Zoroastrians], who was the founding father of all the Magacārya-s [Indianized Magi]. The gotra he founded was hence termed the Mihira gotra. They are distinguished by the sacred girdle called the avyaṅga [Avestan: Aiwyanghana, i.e. Parsi kusti] that they wear around their waist. Sāmba there upon requested Kṛṣṇa to send him Garuḍa and flying on the latter’s back he landed in Śakadvīpa. He collected the magācārya-s, brought them back to Bhārata and installed them as priests of his Sūrya temple.
+### Srauṣa and Rājña
+Like Piṅgala and Daṇḍin, another pair of attendants of Vivasvān, Srauṣa and Rājña, are mentioned in the Saura tantra literature, like the tantra sections of the Sāmba purāṇa. Their origins from the Mithraic branch of the Iranic tradition are transparent: in the Avesta, Mithra (cognate of Indic Mitra) is said to be flanked on either side by the deities Rašnu and Sraoša. They were Indianized as Rājña and Srauṣa even as Mithra (Mihira) was identified with primary solar deity in the Saura-mata. In later tradition, Rājña is further identified with Indic Rudra and Srauṣa with Skanda. The latter’s identification is unsurprising as Indic Skanda and Iranic Sraoša are deities sharing an ancient common origin, as supported by two diagnostic iconographic features. The first is found in the Sraoša yasht of the Avesta:
 
-Piṅgala: On the proper right of the god is a deity with a pen and inkpot. He is the attendant of Vivasvān known as Piṅgala. He is the deity of writing. Thus, he becomes the patron deity of the kāyastha-s or the old Indian scribal guild. Sometimes, he is identified with Citragupta who records all the deeds of beings. In the later Saura tradition he came to be identified with Agni.
+> sraoshahe ashyehe taxmahe  
+> tanu-mãthrahe darshi-draosh âhûiryehe  
+> xshnaothra ýasnâica vahmâica  
+> xshnaothrâica frasastayaêca ||
 
-Daṇḍin: On the proper left of the god is the attendant deity Daṇḍin. He is depicted typically with a scepter of law. He is said to be the enforcer of law among the beings even as Piṅgala records their deeds. In the later Saura tradition, he came to be identified with Yama.
-
-Srauṣa and Rājña: Like Piṅgala and Daṇḍin, another pair of attendants of Vivasvān, Srauṣa and Rājña, are mentioned in the Saura tantra literature, like the tantra sections of the Sāmba purāṇa. Their origins from the Mithraic branch of the Iranic tradition are transparent: in the Avesta, Mithra (cognate of Indic Mitra) is said to be flanked on either side by the deities Rašnu and Sraoša. They were Indianized as Rājña and Srauṣa even as Mithra (Mihira) was identified with primary solar deity in the Saura-mata. In later tradition, Rājña is further identified with Indic Rudra and Srauṣa with Skanda. The latter’s identification is unsurprising as Indic Skanda and Iranic Sraoša are deities sharing an ancient common origin, as supported by two diagnostic iconographic features. The first is found in the Sraoša yasht of the Avesta:
-
-sraoshahe ashyehe taxmahe tanu-mãthrahe darshi-draosh âhûiryehe
-xshnaothra ýasnâica vahmâica xshnaothrâica frasastayaêca ||
-
-To the embodiment of universal law, the mighty Sraoša,
-whose body is made of mantra-s, the mighty-speared and lordly god, be propitiating ýasna offering, recitation, propitiation, and praise. [Translation from Avestan modified by me based on Darmesteter]
+> To the embodiment of universal law, the mighty Sraoša,  
+> whose body is made of mantra-s, the mighty-speared and lordly god,  
+> be propitiating ýasna offering, recitation, propitiation, and praise. 
+> 
+> [Translation from Avestan modified by me based on Darmesteter]
 
 Here we note that Sraoša’s primary weapon like that of Skanda is the spear, a epithet repeated for Sraoša in the Iranian holy book the Fargard 18.
 
 In Fargard 18.23 we have:
 
-âat hô sraoshô ashyô aom merekhem frakhrârayeiti parô-darsh nãma spitama zarathushtra ýim mashyâka avi duzhvacanghô kahrkatâs nãma aojaite, âat hô merekhô vâcim baraiti upa ushånghem ýãm sûrãm |
-
-And then the universal-law embodied Sraoša awakens his rooster named Parodarsh, O Zarathushtra of the Spitama clan, which ill-speaking people call Kahrkatas, and the rooster lifts up his voice against the mighty Ushah [demonized cognate of Indic dawn goddess the Uṣas; Translation from Avestan modified by me based on Darmesteter].
+> âat hô sraoshô ashyô aom merekhem frakhrârayeiti parô-darsh nãma spitama zarathushtra ýim mashyâka avi duzhvacanghô kahrkatâs nãma aojaite, âat hô merekhô vâcim baraiti upa ushånghem ýãm sûrãm |
+> 
+> And then the universal-law embodied Sraoša awakens his rooster named Parodarsh, O Zarathushtra of the Spitama clan, which ill-speaking people call Kahrkatas, and the rooster lifts up his voice against the mighty Ushah 
+> 
+> [demonized cognate of Indic dawn goddess the Uṣas; Translation from Avestan modified by me based on Darmesteter].
 
 Here were see that Sraoša’s bird is the rooster, which is the same as the bird of Skanda.
 
 This identification of Sraoša and Skanda might relate to the fact there is some evidence for the worship of Skanda by Iranians in the Indosphere in first few centuries of the common era [^4].
 
+[^4]: For example: we have Skanda depicted on the early Iranic ruler Ayalisha (Azilises) in India. We also have an inscription of an Iranian general in the Kadamba army who records worshiping Skanda in South India and then building a temple for Skanda in Gandhara upon his return.
+
 In this later period, where Skanda is explicitly identified with Srauṣa we observe Daṇḍin being replaced by Skanda or iconographically converging to Skanda. We can see that in the above image.
 
-Mahāśvetā: Below the solar deity rising from the pedestal is seen the image of a goddess named Mahāśvetā, a key deity of the Saura-mata. She is identified sometimes with the white light emitted by the sun or more commonly with the deity of the earth i.e. Pṛthivī.
+### Mahāśvetā
+Below the solar deity rising from the pedestal is seen the image of a goddess named Mahāśvetā, a key deity of the Saura-mata. She is identified sometimes with the white light emitted by the sun or more commonly with the deity of the earth i.e. Pṛthivī.
 
-The Marīcī-s: Above the two wives are shown two archer-goddesses in the above image. Sometimes there might four such archer goddesses. They are known as the Marīcī-s or the light goddess and sometimes explicitly named as Uṣas and Pratyuṣas when present as a pair. They represent the darkness-dispelling function of the sun with the arrow they shoot representing the rays of light. Their warrior nature was combined with elements drawn from another āstika warrior goddess, Vārāhī and essentialized in the bauddha tradition in the form of the solo goddess Marīcī.
+### The Marīcī-s
+Above the two wives are shown two archer-goddesses in the above image. Sometimes there might four such archer goddesses. They are known as the Marīcī-s or the light goddess and sometimes explicitly named as Uṣas and Pratyuṣas when present as a pair. They represent the darkness-dispelling function of the sun with the arrow they shoot representing the rays of light. Their warrior nature was combined with elements drawn from another āstika warrior goddess, Vārāhī and essentialized in the bauddha tradition in the form of the solo goddess Marīcī.+++(4)+++
 
-Aruṇa: The lame charioteer of the sun, the brother of the celestial eagle Garuḍa, is sometimes shown managing the seven horses of the solar chariot. He can be seen the first of the images shown above.
+### Aruṇa
+The lame charioteer of the sun, the brother of the celestial eagle Garuḍa, is sometimes shown managing the seven horses of the solar chariot. He can be seen the first of the images shown above.
+
 
 The Saura pantheon also includes other deities like Revanta and Yama, the god of death and the netherworld, both of whom are the sons of Vivasvān. They are rarely depicted in classic Saura images as those shown above. However, Revanta along with deities of his maṇḍala, including Piṅgala and Daṇḍin, were depicted in images specifically dedicated to him.
 
 
 
-[^4]: For example: we have Skanda depicted on the early Iranic ruler Ayalisha (Azilises) in India. We also have an inscription of an Iranian general in the Kadamba army who records worshiping Skanda in South India and then building a temple for Skanda in Gandhara upon his return.
