@@ -12,6 +12,10 @@ The Indian Saura-mata (or the Hindu sect of the Sun) is an amalgam of two distin
 
 2) The neo-morphic layer of Iranic origin which was transferred to India as a result of contact with Zoroastrians and to an extent, non-Zoroastrian Iranians from a period spanning the beginning of the common era to the around the 6th -7th centuries of the common era.
 
+
+[^1]: Picture showing reconstructed evolution of Saura-mata
+
+
 While primarily an āstika tradition, the later period of the nāstika traditions of the Bauddha-s and to some degree, the Jaina-s also developed reflexes of the Saura system.
 
 Among Bauddha-s, the earlier manifestation crystallized around the goddess Marīcī whose roots as a warrior goddess lay in the Saura pantheon. In the later phase, the high-point of the Vajrayāna tradition, in the form of Kālacakra also incorporated several Saura elements.
@@ -61,40 +65,43 @@ In the late Vedic period, we also have statements that give the number of Ādity
 
 By the epic period the 12 Āditya-s are specifically named as Mitra, Varuṇa, Aryaman, Bhaga, Vivasvān, Dhātṛ[or Dakṣa], Aṃśa, Puṣan, Savitṛ, Tvaṣṭṛ, Indra and Viṣṇu. For example, this Mahābhārata verse:
 
-adityāṃ dvādaśādityāḥ saṃbhūtā bhuvaneśvarāḥ |
-
-ye rājan nāmatas tāṃs te kīrtayiṣyāmi bhārata ||
-
-dhātā mitro ‘ryamā śakro varuṇaś cāṃśa eva ca |
-
-bhago vivasvān pūṣā ca savitā daśamas tathā ||
-
-ekādaśas tathā tvaṣṭā viṣṇur dvādaśa ucyate | 1.59.14-16a (“Critical”)
-
-From Aditi were generated 12 Āditya-s, the lords of the universe, whose names, O king, I shall narrate: Dhātṛ, Mitra, Aryaman, Śakra (i.e. Indra), Varuṇa, Aṃśa, Bhaga, Vivasvān, Puṣan, Savitṛ, Tvaṣṭṛ, and Viṣṇu.
+> adityāṃ dvādaśādityāḥ saṃbhūtā bhuvaneśvarāḥ |  
+> ye rājan nāmatas tāṃs te kīrtayiṣyāmi bhārata ||
+>
+> dhātā mitro ‘ryamā śakro varuṇaś cāṃśa eva ca |  
+> bhago vivasvān pūṣā ca savitā daśamas tathā ||
+>
+> ekādaśas tathā tvaṣṭā viṣṇur dvādaśa ucyate | 1.59.14-16a (“Critical”)
+> 
+> From Aditi were generated 12 Āditya-s, the lords of the universe, whose names, O king, I shall narrate: Dhātṛ, Mitra, Aryaman, Śakra (i.e. Indra), Varuṇa, Aṃśa, Bhaga, Vivasvān, Puṣan, Savitṛ, Tvaṣṭṛ, and Viṣṇu.
 
 In this regard we may point out a sūkta from the Atharvaveda where the above 12 are all named, albeit along with other gods (AV 11.6). Taking the number of Āditya-s as 12 also allows us to explain the traditional short count of male deities, i.e. 33 [^2], which is seen in both the Veda and the Itihāsa-s, in a straightforward way. For example, this Rāmāyaṇa verse:
 
-adityāṃ jajñire devās trayastriṃśad ariṃdama |
+> adityāṃ jajñire devās trayastriṃśad ariṃdama |  
+> ādityā vasavo rudrā aśvinau ca paraṃtapa || 3.13.14c-15a (“critical edition”)
+> 
+> From Aditi were born the 33 deva-s, O foe-crusher (i.e. Rāma): the Āditya-s (12), the Vasu-s (8), the Rudrā-s (11) and the twin Aśvin-s (2), O foe-scorcher. [Traditional numbers in brackets]
 
-ādityā vasavo rudrā aśvinau ca paraṃtapa || 3.13.14c-15a (“critical edition”)
+[^2]: The short count is 33; the long count given in the Veda as 3339 (A lunar eclipse cycle number, as noted by R. Shamasastry) and subsequently, later day Hindus hold that number to be 33 x 107.
 
-From Aditi were born the 33 deva-s, O foe-crusher (i.e. Rāma): the Āditya-s (12), the Vasu-s (8), the Rudrā-s (11) and the twin Aśvin-s (2), O foe-scorcher. [Traditional numbers in brackets]
 
 One may note that the same counts as above for the Āditya, Vasu-s and Rudrā categories are given in the Śatapatha Brāḥmaṇa 6.1.2.6-8. Regarding these categories and the total count, in the Ṛgveda we have:
 
-tvam agne vasūṃr iha rudrāṃ ādityāṃ uta |
+> tvam agne vasūṃr iha rudrāṃ ādityāṃ uta |  
+> yajā svadhvaraṃ janam manujātaṃ ghṛtapruṣam ||  
+> 
+> śruṣṭīvāno hi dāśuṣe devā agne vicetasaḥ |  
+> tān rohidaśva girvaṇas trayastriṃśatam ā vaha || RV 1.45.1-2
+>
+> You O Agni offer ritual here to the Vasu-s, the Rudra-s and also the Āditya-s [on behalf] of the people who are Manu’s descendants, who perform proper rituals and pour the offering of ghee. 
+> 
+> O Agni and the gods, wise ones, do hear the worshiper: O you with a red-horse, delighting in Vedic chants, bring those 33 gods!
 
-yajā svadhvaraṃ janam manujātaṃ ghṛtapruṣam ||
-
-śruṣṭīvāno hi dāśuṣe devā agne vicetasaḥ |
-
-tān rohidaśva girvaṇas trayastriṃśatam ā vaha || RV 1.45.1-2
-
-You O Agni offer ritual here to the Vasu-s, the Rudra-s and also the Āditya-s [on behalf] of the people who are Manu’s descendants, who perform proper rituals and pour the offering of ghee. O Agni and the gods, wise ones, do hear the worshiper: O you with a red-horse, delighting in Vedic chants, bring those 33 gods!
-Thus, we find both the categories (Ādityas, Rudra-s, Vasu-s, and also Aśvin-s), and the total number 33 to be an ancient one. Indeed this count 33 likely goes back to the Indo-Iranian period as the Zoroastrians also enumerate 33 yazata-s. Hence, it is possible that there was a system of counting even from the earlier Vedic period that already had 12 Āditya-s, 11 Rudra-s, 8 Vasu-s, 2 Aśvin-s, and it would suggest that the count of eight or lower for the Āditya-s seen in the Ṛgveda is a parallel tradition.
+Thus, we find both the categories (Ādityas, Rudra-s, Vasu-s, and also Aśvin-s), and the total number 33 to be an ancient one. Indeed this count 33 likely goes back to the Indo-Iranian period as the Zoroastrians also enumerate 33 yazata-s. Hence, it is possible that there was a system of counting even from the earlier Vedic period that already had 12 Āditya-s, 11 Rudra-s, 8 Vasu-s, 2 Aśvin-s, and it would suggest that the count of eight or lower for the Āditya-s seen in the Ṛgveda is a parallel tradition.+++(4)+++
 
 Accepting this proposal allows us to account for most major Vedic deities within those 3 categories plus the Aśvin-s: The 12 Āditya-s as listed above already includes a big fraction of the chief Vedic deities going back to the Indo-Iranian period. Indeed, such a number 12 for the chief gods might have ancient Indo-European antecedents for among the Hittites, Greeks and the northern Germanic people we either see pantheons with 12 chief gods or a category of deities with 12 gods [^3].
+
+[^3]: The significance of this number was also transmitted to Japan, where the Indo-Aryan deities inherited via the Bauddha was developed into a Nipponic pantheon of 12 gods drawn from different original categories (dvādaśadevāḥ). The Nipponic dvādaśadevāḥ are (left to right each row): Pṛthivī [Vasu], Soma [Vasu], Kubera [Yakṣa], Vāyu [Vasu], Varuṇa [Āditya], Nairṛta [Rākṣasa], Brahman, Vivasvān [Āditya], Rudra [Rudra], Indra [Āditya], Agni [Vasu], Yama.
 
 The 12 Hittite gods from Yazılıkaya
 
@@ -180,10 +187,5 @@ Aruṇa: The lame charioteer of the sun, the brother of the celestial eagle Garu
 The Saura pantheon also includes other deities like Revanta and Yama, the god of death and the netherworld, both of whom are the sons of Vivasvān. They are rarely depicted in classic Saura images as those shown above. However, Revanta along with deities of his maṇḍala, including Piṅgala and Daṇḍin, were depicted in images specifically dedicated to him.
 
 
-[^1]: Picture showing reconstructed evolution of Saura-mata
-
-[^2]: The short count is 33; the long count given in the Veda as 3339 (A lunar eclipse cycle number, as noted by R. Shamasastry) and subsequently, later day Hindus hold that number to be 33 x 107.
-
-[^3]: The significance of this number was also transmitted to Japan, where the Indo-Aryan deities inherited via the Bauddha was developed into a Nipponic pantheon of 12 gods drawn from different original categories (dvādaśadevāḥ). The Nipponic dvādaśadevāḥ are (left to right each row): Pṛthivī [Vasu], Soma [Vasu], Kubera [Yakṣa], Vāyu [Vasu], Varuṇa [Āditya], Nairṛta [Rākṣasa], Brahman, Vivasvān [Āditya], Rudra [Rudra], Indra [Āditya], Agni [Vasu], Yama.
 
 [^4]: For example: we have Skanda depicted on the early Iranic ruler Ayalisha (Azilises) in India. We also have an inscription of an Iranian general in the Kadamba army who records worshiping Skanda in South India and then building a temple for Skanda in Gandhara upon his return.
