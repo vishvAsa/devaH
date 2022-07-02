@@ -3,7 +3,7 @@ title: +अधिदैवम्
 unicode_script: devanagari
 ---
 
-
+- प्रतापवन्तो ये केऽपि। इन्द्रादयः। 
 - वरुणः पाशवान्।
 - मित्र ऋतनियामकः।
 - भगो भागान् वितरति। " If Savitṛ apportions the shares, those shares are then distributed by Bhaga."
