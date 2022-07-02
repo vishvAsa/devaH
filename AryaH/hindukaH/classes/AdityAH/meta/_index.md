@@ -4,6 +4,10 @@ unicode_script: devanagari
 ---
 
 - प्रतापवन्तो ये केऽपि। इन्द्रादयः। 
+- सूचयः
+  - १२ इति क्वचित् पुरा। ८ इत्य् अन्यत्र वेदकाले।  
+  - Mitra, Varuṇa, Aryaman, Bhaga, Vivasvān, Dhātṛ[or Dakṣa], Aṃśa, Puṣan, Savitṛ, Tvaṣṭṛ, Indra and Viṣṇu
+
 - वरुणः पाशवान्।
 - मित्र ऋतनियामकः।
 - भगो भागान् वितरति। " If Savitṛ apportions the shares, those shares are then distributed by Bhaga."
