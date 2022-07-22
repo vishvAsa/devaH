@@ -1,0 +1,841 @@
++++
+title = "03 Secondary Sources"
+
++++
+- Adigal, Prince Ilango. 1965. Shilappadikaram (The Ankle Bracelet). Trans. Alain Danielou. New York: New Direction Books.
+- Agrawala, Vasudeva S. 1963. Matsya Purāṇa—A Study. Varanasi: All-India Kashiraj Trust.
+- Allen, Michael R. 1986. The Cult of Kumari: Virgin Worship in Nepal. Kathmandu: Institute of Nepal and Asian Studies.
+- Allen, N. J. 1985. “The Category of the Person: A Reading of Mauss’s Last Essay.” In Carrithers et al. (ed.), The Category of the Person, pp. 26–45.
+- Alter, Joseph S. 1992. The Wrestler’s Body: Identity and Ideology in North India. Berkeley and Los Angeles: University of California Press.
+- American Psychiatric Association. 1952, 1968, 1980, 1994. Diagnostic and Statistical Manual of Mental Disorders [DSM-I, II, III, IV]. Washington, DC: American Psychiatric Association Press.
+- Andersen, Poul. 1989–90. “The Practice of Bugang.” Cahiers d’Extrême-Asie 5:15–53.
+- ———. 1995. “The Transformation of the Body in Taoist Ritual.” In Religious Reflections on the Human Body, ed. Jane Marie Law, pp. 186–208. Bloomington and Indianapolis: Indiana University Press.
+- Appadurai, Arjun. 1986. “Is Homo Hierarchicus?” American Ethnologist 13.4:745–760.
+- ———. 1993. “Number in the Colonial Imagination.” In Breckenridge and van der Veer (ed.), Orientalism and the Postcolonial Predicament, pp. 314–339.
+- Appadurai, Arjun, Frank J. Korom, and Margaret A. Mills. 1991. Gender, Genre, and Power in South Asian Expressive Traditions. Philadelphia: University of Pennsylvania Press.
+- Arya, Usharbudh. 1986. The Yoga Sutras of Patañjali, Volume 1. Honesdale, PA: Himalayan Institute.
+- Assayag, Jackie, and Gilles Tarabout (ed.). 1999. La possession en Asie du Sud: parole, corps, territoire. Puruṣārtha 21. Paris: Editions de l’Ecole des hautes études en sciences sociales.
+- Atkinson, Jane Monnig. 1992. “Shamanisms Today.” Annual Review of Anthropology 21:307–330.
+- Ātmajñānānanda, Svāmī. 1997. “Scandals, Cover-Ups, and Other Imagined Occurrences in the Life of Rāmakṛṣṇa: An Examination of Jeffrey Kripal’s Kālī’s Child.” IJHS 1.2:401–420.
+- Avedon, John. 1984. Exile in the Land of Snows. London: Michael Joseph.
+- Aziz, Barbara. 1976. “Reincarnation Reconsidered: Or the Reincarnate Lama as Shaman.” In Hitchcock and Jones (ed.), Spirit Possession in the Nepal Himalayas, pp. 343–360.
+- ———. 1978. Tibetan Frontier Families. Reflections of Three Generations from D’ingri. New Delhi: Vikas.
+- Bahulkar, S. S. 1994. Medical Ritual in the Atharvavedic Tradition. Puṇe: Tilak Maharashtra Vidyapeeth.
+- Bailey, Greg. 1995. “The Fundamental Problems of Contemporary Indology.” In International Conference on Sanskrit and Related Studies, ed. Przemyslaw Piekarski et al., pp. 15–26. Cracow Indological Studies, vol. 1. Cracow: Enigma Press.
+- Bakhtin, Mikhail. 1968. Rabelais and His World. Trans. Helene Iswolsky. Cambridge, MA: MIT Press.
+- ———. 1981. The Dialogic Imagination. Trans. C. Emerson and M. Holquist. Austin: University of Texas Press.
+- ———. 1984. Problems of Dostoevsky’s Poetics. Trans. Caryl Emerson. Minneapolis, University of Minnesota Press.
+- Bakker, Hans. 2000. “Somasarman, Somavaṃśa and Somasiddhānta: A Pāsupata Tradition in Seventh-Century Dakṣiṇa Kosala.” In Harānandalaharī: Volume in Honour of Professor Minoru Hara on his Seventieth Birthday, ed. Ryutaro Tsuchida and Albrecht Wezler, pp. 1–19. Reinbek: Dr. Inge Wezler Verlag für Orientalistische Fachpublikationen.
+- Bandhyopādhyāy, Haricaraṇ (ed.). 1988. Baṅgīya Śabdakoṣ, vol. 1. Kalikātā: Sāhitya Akāḍemi.
+- Baptandier, Brigitte. 1996. “The Lady Linshui: How a Woman Became a Goddess.” In Unruly Gods: Divinity and Society in China, ed. Meir Shahar and Robert P. Weller, pp. 105–149. Honolulu: University of Hawai‘i Press.
+- Bargen, Doris R. 1997. A Woman’s Weapon: Spirit Possession in the Tale of Genji. Honolulu: University of Hawai‘i Press.
+- Barnett, L. D. 1926–28. “Yama, Gandharva, and Glaucus.” Bulletin of the School of Oriental Studies 4:703–716.
+- Becker, Carl B. 1993. Paranormal Experience and Survival of Death. Albany: SUNY Press.
+- Bedekar, V. M. 1967. “Legend of the Churning of the Ocean in the Epics and Purāṇas: A Comparative Study.” Purāṇa 9:7–61.
+- Beer, Robert. 1988. “Autobiographical Note by the Illustrator.” In Buddhist Masters of Enchantment: The Lives and Legends of the Mahasiddhas. Trans. Keith Dowman, illus. Robert Beer. Rochester, VT: Inner Traditions.
+- ———. 1999. The Encyclopedia of Tibetan Symbols and Motifs. Boston: Shambhala.
+- Behrend, Heike. 1999. “Power to Heal, Power to Kill: Spirit Possession and War in Northern Uganda (1986–1994).” In Behrend and Luig (ed.), Spirit Possession: Modernity and Power in Africa, pp. 20–33.
+- Behrend, Heike, and Ute Luig (ed.). 1999. Spirit Possession: Modernity and Power in Africa. Madison: University of Wisconsin Press.
+- Bell, Catherine. 1992. Ritual Theory, Ritual Practice. New York: OUP.
+- Bellamy, Carla. 2004. “Who Died and Left You in Charge? Or, Possession, Power, and Religious Identity in Contemporary Northwestern India.” Paper presented at the annual meeting of the American Academy of Religion, San Antonio.
+- Bellezza, John Vincent. 2005. Spirit-Mediums, Sacred Mountains and Related Bon Textual Traditions in Upper Tibet: Calling Down the Gods. Leiden, Boston: Brill.
+- Bennett, Peter. 1993. “Krishna’s Own Form: Image Worship and Puṣṭi Mārga.” Journal of Vaiṣṇava Studies 1.4:109–134.
+- Bentor, Jael. 1996. “Literature on Consecration (Rab gnas).” In Tibetan Literature: Studies in Genre, ed. José Ignacio Cabezón and Roger R. Jackson, pp. 290–311. Ithaca: Snow Lion.
+- Benz, Ernst. 1972. “Ergriffenheit und Besessenheit als Grundformen religiöser Erfahrung.” In Ergriffenheit und Besessenheit, ed. Jürg Zutt, pp. 125–148. Bern and Munich: Francke Verlag.
+- Berglie, Per-Arne. 1976. “Preliminary Remarks on Some Tibetan ‘Spirit-Mediums’ in Nepal.” Kailash: A Journal of Himalayan Studies 4.1:85–108.
+- ———. 1982a. “Spirit-Possession in Theory and Practice—Séances with Tibetan Spirit-Mediums in Nepal.” In Holm (ed.), Religious Ecstasy, pp. 151–166.
+- ———. 1982b. “When the Corpses Rise: Some Tibetan ro langs Stories.” Indologica Taurinensia 10:37–44.
+- ———. 1996. “Spirit-Mediums and the Epic. Remarks on Gesar and the Epic Among Spirit-Mediums in Tibet and Ladakh.” Shaman. Journal of the International Society for Shamanistic Research 4.1–2:17–26.
+- ———. 1998. “The Gods Appear. From Vision to Possession: Remarks on Visualization and Visibility in Tibetan Religion.” In “Living Through the Eyes.” Studies in Religious Iconography and Iconology, ed. Peter Schalk, pp. 35–42. Uppsala: Uppsala University Library.
+- ———. 2000. “The Avesa Ritual in Tantric Buddhism and Ritual Possession in Tibet.” In La politique des esprits. Chamanisme et religions universalistes, ed. Denise Aigle, Bénédicte Brac de la Perrière, and Jean-Pierre Chaumeil, pp. 25–34. Nanterre: Société d’ethnologie.
+- Berkeley-Hill, Owen. 1921. “The Anal-Erotic Factor in the Religion, Philosophy, and Character of the Hindus.” International Journal of Psychoanalysis 2:306–338.
+- Berreman, Gerald D. 1963. Hindus of the Himalayas. Berkeley: University of California Press.
+- Berti, Daniela. 1999. “Un dieu maître-chanteur: La résolution d’un villageois dans la Vallée de Kullu (Himachal Pradesh).” In Assayag and Tarabout (ed.), La possession en Asie du Sud, pp. 61–97.
+- Bertrand, Didier. 2004. “A Medium Possession and Its Relationship with Cambodian Buddhism: the Grū Pāramī.” In History, Buddhism, and New Religious Movements in Cambodia, ed. John Marston and Elizabeth Guthrie, pp. 150–169. Honolulu: University of Hawai‘i Press.
+- Beyer, Stephen. 1973. The Cult of Tara: Magic and Ritual in Tibet. Berkeley, Los Angeles: University of California Press.
+- Bharati, Agehananda. 1965. The Tantric Tradition. London: Rider.
+- Bharati, Agehananda (ed.). 1976. The Realm of the Extra-Human: Agents and Audiences. The Hague: Mouton.
+- Bhat, M. Ramakrishna. 1981. Varāhamihira’s Bṛhat Saṃhitā with English Translation, Exhaustive Notes and Literary Comments. Delhi: Motilal Banarsidass.
+- Bhat, M. S. 1987. Vedic Tantrism: A Study of the Ṛgvidhana of Śaunaka with Text and Translation. Delhi: Motilal Banarsidass.
+- Bhattacharya, Gouriswar. 1971. “Studies in the Concept of Sraddhā in Post-Vedic Hinduism.” Diss., University of Basel.
+- Bhattacharyya, Deborah P. 1986. Pāgalāmi: Ethnopsychiatric Knowledge in Bengal. Foreign and Comparative Studies/South Asian Series, no. 11, Maxwell School of Citizenship and Public Affairs. Syracuse: Syracuse University Press.
+- Bhattacharyya, N. N. 2000. Indian Demonology: The Inverted Pantheon. Delhi: Manohar.
+- Biardeau, Madeleine. 1989a. Hinduism: The Anthropology of a Civilization. Delhi: OUP.
+- ———. 1989b. Histoires de poteaux: Variations védiques autour de la déesse Hindoue. Paris: Ecole française d’Extrême-Orient.
+- Biernacki, Loriliai. 1999. “Taboo and Orthodoxy: Making Tantra Respectable in 11th-Century Kashmir.” Ph.D. diss., University of Pennsylvania.
+- ———. 2006. “Possession, Absorption and the Transformation of Samāveśa.” In Expanding and Merging Horizons: Contributions to South Asian and Cross-Cultural Studies in Commemoration of Wilhelm Halbfass, ed. Karin Preisendanz, pp. 491–504. Wien: Verlag der Österreichischen Akademie der Wissenschaften.
+- Bishop, Peter. 1989. The Myth of Shangri-La: Tibet, Travel Writing, and the Western Creation of Sacred Landscape. London: Athlone.
+- Black, Ned Joel, Owen Flanagan, and Güven Güzeldere (ed.). 1996. The Nature of Consciousness: Philosophical Debates. Cambridge, MA: MIT Press.
+- Blackburn, Stuart H. 1988. Singing of Birth and Death: Texts in Performance. Philadelphia: University of Pennsylvania Press.
+- Blacker, Carmen. 1975. The Catalpa Bow. A Study of Shamanistic Practices in Japan. London: George Allen & Unwin.
+- Blatty, William Peter. 1971. The Exorcist. New York: Harper & Row.
+- Bloomfield, Maurice. 1894. “Trita, the Scapegoat of the Gods, in Relation to Atharva-Veda vi.112 and 113.” Proceedings of the American Oriental Society 16:cxix–cxxiii.
+- ———. 1897. The Atharvaveda. Sacred Books of the East 42. Oxford: Clarendon Press.
+- ———. 1917. “On the Art of Entering Another’s Body: A Hindu Fiction Motif.” Proceedings of the American Philosophical Society 56:1–43.
+- Boas, Frans. 1940. Race, Language and Culture. New York: Macmillan.
+- Boddy, Janice. 1994. “Spirit Possession Revisited: Beyond Instrumentality.” Annual Review of Anthropology 23:407–434.
+- Bodewitz, H. W. 1973. Jaiminīya Brāhmaṇa I, 1–65. Translation and Commentary. Leiden: Brill.
+- Böhtlingk, Otto, and Rudolf Roth. 1855–75. Sanskrit-Wörterbuch. St. Petersburg: Kaiserlichen Academie der Wissenschaften.
+- Bourguignon, Erika. 1976. Possession. San Francisco: Chandler and Sharp.
+- ———. 1979. Psychological Anthropology: An Introduction to Human Nature and Cultural Differences. New York: Holt, Rinehart & Winston.
+- Breckenridge, Carol A., and Peter van der Veer (ed.). 1993. Orientalism and the Postcolonial Predicament. Philadelphia: University of Pennsylvania Press.
+- Brinkhaus, Horst. 1987. Jagatprakāśamallas Mūladevaśaśidevavyākhyāna-nāṭaka: das älteste bekannte vollstāndig überlieferte Newari-Drama. Stuttgart: Franz Steiner.
+- Bronkhorst, Johannes. 1986. The Two Traditions of Meditation in Ancient India. Stuttgart: Franz Steiner.
+- Brooks, Douglas Renfrew. 1992. Auspicious Wisdom: The Texts and Traditions of Srividyā Sākta Tantrism in South India. Albany: SUNY Press.
+- Brough, John. 1971. “Soma and Amanita muscaria.” Bulletin of the School of Oriental and African Studies 34.2:331–362. [Reprinted in John Brough, Collected Papers, ed. Minoru Hara and J. C. Wright, pp. 336–397. London: School of Oriental and African Studies, 1996.]
+- Brown, George William. 1921. The Human Body in the Upanishads. Jubbulpore: Christian Mission Press.
+- Brown, Michael F. 1997. The Channeling Zone: American Spirituality in an Anxious Age. Cambridge: Harvard University Press.
+- Brown, W. Norman. 1978. “Dīrghatamas’s Vision of Creation.” In India and Indology: Selected Articles by W. Norman Brown, ed. Rosane Rocher, pp. 53–74. Delhi: Motilal Banarsidass. [Originally published as: “Agni, Sun, Sacrifice, and Vāc: A Sacerdotal Ode by Dīrghatamas (Rig Veda 1.164).” JAOS 88 (1968):199–218.]
+- Brückner, Heidrun. 1987. “Bhuta-Worship in Coastal Karnataka.” Studien zur Indologie und Iranistik 13/14:17–37.
+- ———. 1995. Fürstliche Feste: Texte und Rituale der Tulu-Volksreligion an der Westküste Südindiens. Wiesbaden: Otto Harrassowitz.
+- Brückner, Heidrun, Lothar Lutze, and Aditya Malik (ed.). 1993. Flags of Flame: Studies in South Asian Folk Culture. New Delhi: Manohar.
+- Brunner, Hélène. 1974. “Un tantra du nord: Le Netra Tantra.” Bulletin l’Ecole française d’Extrême-Orient 61:125–197.
+- ———. 1986. “The Pāsupatas as Seen by the Saivas.” In Sanskrit and World Culture. Proceedings of the Fourth World Sanskrit Conference, Weimar May 23–30, 1979, ed. Wolfgang Morgenroth, pp. 513–530. Berlin: Schriften zur Geschichte und Kultur des Alten Orients 18.
+- Brunner, Hélène, Gerhard Oberhammer, and André Padoux (ed.). 2000. Tāntrikābhidhāna-kośa I: Dictionnaire des termes techniques de la littérature hindoue tantrique. Vienna: Österreichischen Akademie der Wissenschaften.
+- Bryant, Edwin. 2001. The Indo-Aryan Migration Debate: Dissonant Indian Perspectives on a European Enterprise. New York: OUP.
+- Bühnemann, Gudrun. 1999. “Buddhist Deities and Mantras in the Hindu Tantras.” IIJ 42.4:303–334.
+- ———. 2000. “The Six Rites of Magic.” In White (ed.), Tantra in Practice, pp. 447–462.
+- Buitenen, J. A. B. van. 1968. The Pravargya: An Ancient Indian Iconic Ritual.
+- Building Centenary and Silver Jubilee Series, vol. 58. Poona: Deccan College.
+- ———. 1973. The Mahābhārata, Volume 1. Book 1: The Book of the Beginning. Chicago: University of Chicago Press.
+- ———. 1975. The Mahābhārata, Volume 2. Book 2: The Book of the Assembly Hall. Book 3: The Book of the Forest. Chicago: University of Chicago Press.
+- Burnell, A. C. 1894, 1896. “The Devil Worship of the Tuluvas. From the Papers of the Late A. C. Burnell.” Indian Antiquary 23 (1894):1–69; 25 (1896):295–342.
+- Burrow, Thomas. 1979. Review of Hart, The Relation Between Tamil and Classical Sanskrit Literature. IIJ 21:282–284.
+- Buswell, Robert E., Jr. 1997. “The ‘Aids to Penetration’ (Nirvediyabhāgiya) According to the Vaibhāṣika School.” Journal of Indian Philosophy 25:589–611.
+- Byams-pa ‘Phrin-las, and Wang Lei. n.d. Tibetan Medical Thangka of the Four Medical Tantras. Trans. Cai Jingfeng. Lhasa: People’s Publishing House of Tibet.
+- Bynum, Caroline Walker. 1994. The Resurrection of the Body in Western Christianity, 200–1336. New York: Columbia University Press.
+- ———. 2001. Metamorphosis and Identity. New York: Zone Books.
+- Cahill, Thomas. 1995. How the Irish Saved Civilization: The Untold Story of Ireland’s Heroic Role from the Fall of Rome to the Rise of Medieval Europe. New York: Doubleday.
+- Caillat, Collette, and Ravi Kumar. 1981. Jain Cosmology. Trans. R. Norman. New Delhi: Harmony Books.
+- Caland, Willem. 1908. Altindische Zauberei: Darstellung der altindische “Wunschopfer.” Amsterdam: Johannes Müller.
+- ———. 1919. Das Jaiminīya Brāhmaṇa in Auswahl. Amsterdam: Johannes Müller.
+- ———. 1921–28. Das Śrautasūtra des Āpastamba aus dem Sanskrit übersezst. Vol. 1. Göttingen: Vandenhoeck & Ruprecht, 1921. Vols. 2–3. Amsterdam: Koninklijke Akademie van Wetenschappen, 1924, 1928.
+- ———. 1926. “Rāhu im Veda.” In Beiträge zur Literaturwissenschaft und Geistesgeshichte Indiens, ed. Willibald Kirfel, pp. 240–241. Bonn: Kommissionsverlag Fritz Klopp.
+- ———. 1927. “Vierte Mitteilung über das Vādhūla Sūtra.” Acta Orientalia 6:147–150.
+- ———. 1931. Pañcaviṃśa-Brāhmaṇa. The Brāhmaṇa of Twenty Five Chapters. Bibliotheca Indica 255. Calcutta: Asiatic Society of Bengal.
+- Caland, Willem, and Victor Henri. 1906–7. L’Agniṣṭoma: Description complète de la forme normale du sacrifice de Soma dans le culte védique. 2 vols. Paris: Ernest Leroux.
+- Caldwell, Sarah. 1996. “Bhagavati: Ball of Fire.” In Hawley and Wulff (ed.), Devi: Goddesses of India, pp. 195–226.
+- ———. 1999. Oh Terrifying Mother: Sexuality, Violence and Worship of the Goddess Kāḷi. New Delhi: OUP.
+- Campany, Robert Ford. 1996. Strange Writing: Anomaly Accounts in Early Medieval China. Albany: SUNY Press.
+- Carman, John, and Vasudha Narayanan. 1989. The Tamil Veda: Piḷḷāṉ’s Interpretation of the Tiruvāymol̠i. Chicago: University of Chicago Press.
+- Carri, Sebastian J. 2000. Gaveṣaṇam. Or on the Track of the Cow and in Search of the Mysterious Word and in Search of the Hidden Light. Wiesbaden: Harrassowitz.
+- Carrithers, Michael. 1985. “An Alternative Social History of the Self.” In Carrithers et al. (ed.), The Category of the Person, pp. 234–256.
+- Carrithers, Michael, Steven Collins, and Steven Lukes (eds.). 1985. The Category of the Person: Anthropology, Philosophy, History. Cambridge: Cambridge University Press.
+- Carstairs, G. Morris. 1957. The Twice-Born: A Study of a Community of High-Caste Hindus. London: Hogarth Press.
+- Carstairs, G. Morris, and R. L. Kapur. 1976. The Great Universe of Kota: Stress, Change, and Disorder in an Indian Village. London: Hogarth Press.
+- Castillo, Richard J. 1994a. “Spirit Possession in South Asia, Dissociation or Hysteria? Part 1: Theoretical Background.” Culture, Medicine and Psychiatry 18.1:1–21.
+- ———. 1994b. “Spirit Possession in South Asia, Dissociation or Hysteria? Part 2: Case Histories.” Culture, Medicine and Psychiatry 18.2:141–162.
+- Caturvedi, Mahendra, and Bhola Nath Tiwari. 1975. Hindi-English Dictionary. 2nd ed. Delhi: National Publishing House.
+- Certeau, Michel de. 1984. The Practice of Everyday Life. Trans. Steven Rendall. Berkeley and Los Angeles: University of California Press.
+- Chalmers, David J. 1997. The Conscious Mind: In Search of a Fundamental Theory. New York: OUP.
+- Chary, V. K. 1993. Sanskrit Criticism. Delhi: Motilal Banarsidass. [Originally published by Honolulu: University of Hawai‘i Press, 1990.]
+- Chattopadhyaya, Debiprasad. 1979. Science and Society in Ancient India. Calcutta: Research India Publications.
+- Chaudhuri, Sanjib Kumar. 1940. Sri Sri Caitanya-Caritamrita: English Translation. Puri: Nagendra Kumar Ray.
+- Chemparathy, George. 1972. An Indian Rational Theology: Introduction to Udayana’s Nyāyakusumāñjali. Vienna: Publications of the de Nobili Research Library.
+- Clarke, J. J. 1997. Oriental Enlightenment: The Encounter Between Asian and Western Thought. London and New York: Routledge.
+- Claus, Peter J. 1973. “Possession, Protection, and Punishment as Attributes of Deities in a South Indian Village.” Man in India 53.3:231–242.
+- ———. 1979. “Spirit Possession and Spirit Mediumship from the Perspective of Tulu Oral Traditions,” Culture, Medicine and Psychiatry 3:29–52.
+- ———. 1984. “Medical Anthropology and the Ethnology of Spirit Possession.” Contributions to Asian Studies 18:60–72.
+- Clifford, Terry. 1984. Tibetan Buddhist Medicine and Psychiatry: The Diamond Healing. Wellingborough, Northamptonshire, UK: Aquarian Press.
+- Clooney, Francis X. 1987. “Why the Veda Has No Author: Language as Ritual in Early Mīmāṃsā and Post-Modern Theology.” JAAR 55.4:659–684.
+- ———. 1990. Thinking Ritually. Rediscovering the Pūrva Mīmāṃsā of Jaimini. Ed. Gerhard Oberhammer. Publications of the de Nobili Research Library 17. Vienna: Sammlung de Nobili.
+- Coburn, Thomas. 1984. Devi-Māhātmya: The Crystallization of the Goddess Tradition. Delhi: Motilal Banarsidass.
+- ———. 1991. Encountering the Goddess: A Translation of the Devī-Māhātmya and a Study of Its Interpretation. Albany: SUNY Press.
+- Collins, Elizabeth Fuller. 1997. Pierced by Murugan’s Lance: Ritual, Power, and Moral Redemption Among Malaysian Hindus. Dekalb: Northern Illinois University Press.
+- Collins, Steven. 1982. Selfless Persons: Imagery and Thought in Theravāda Buddhism. Cambridge: Cambridge University Press.
+- Coomaraswamy, A. K. 1971. Yakṣas. New Delhi: Munshiram Manoharlal.
+- ———. 1993. Yakṣas: Essays in the Water Cosmology. New edition revised and enlarged. Ed. Paul Schroeder. New Delhi: IGNCA and OUP.
+- Cort, John. 2001. Review of Kelting, Singing to the Jinas. History of Religions 42.3:257–259.
+- Cousins, L. S. 1994. “Person and Self.” In Buddhism into the Year 2000. International Conference Proceedings, pp. 15–31. Bangkok and Los Angeles: Dhammakaya Foundation.
+- Crangle, Edward Fitzpatrick. 1994. The Origin and Development of Early Indian Contemplative Practices. Wiesbaden: Harrassowitz.
+- Crapanzano, Vincent. 1977. “Introduction.” In Crapanzano and Garrison (ed.), Case Studies in Spirit Possession, pp. 1–40.
+- Crapanzano, Vincent, and Vivian Garrison (ed.). 1977. Case Studies in Spirit Possession. New York: John Wiley.
+- Crook, John H. 1997. “The Indigenous Psychiatry of Ladakh, Part I: Practice Theory Approaches to Trance Possession in the Himalayas.” Anthropology & Medicine 4.3:289–307.
+- ———. 1998. “The Indigenous Psychiatry of Ladakh, Part II: Narrative and Metanarrative in the Cultural Control of Dissociative States in the Himalayas.” Anthropology & Medicine 5.1:23–42.
+- Crooke, William. 1894. Introduction to the Popular Religion and Folklore of Northern India. Allahabad: Government Press.
+- Csordas, Thomas J. 1990. “Embodiment as a Paradigm for Anthropology.” Ethnos 18.1:5–47.
+- ———. 1994. The Sacred Self: A Cultural Phenomenology of Charismatic Healing. Berkeley and Los Angeles: University of California Press.
+- Cuneo, Michael W. 2001. American Exorcism: Expelling Demons in the Land of Plenty. New York: OUP.
+- Dalai Lama (Tenzin Gyatso). 2001. Stages of Meditation. Ithaca: Snow Lion.
+- ———. 1990. Freedom in Exile. London: Hodder and Stoughton.
+- Dalai Lama (Tenzin Gyatso) and Jeffrey Hopkins. 1989 [1983]. Kalachakra Tantra, Rite of Initiation. London: Wisdom.
+- Danforth, Loring M. 1989. Firewalking and Religious Healing: The Anastenaria of Greece and the American Firewalking Movement. Princeton: Princeton University Press.
+- Daniel, E. Valentine. 1984. Fluid Signs: Being a Person the Tamil Way. Berkeley and Los Angeles: University of California Press.
+- Das, Shyam. 1986. Ocean of Jewels: Prameyaratnārṇava of Lāllū Bhaṭṭa. Baroda, Delhi: Shri Vallabha.
+- Dash, Bhagvan, and Lalitesh Kashyap. 1980. Basic Principles of Āyurveda Based on Āyurveda Saukhyaṃ of Ṭoḍarānanda. New Delhi: Concept.
+- Davidson, Ronald. 1991. “Reflections on the Maheśvara Subjugation Myth: Indic Materials, Sa-skya-pa Apologetica, and the Birth of Heruka.” Journal of the International Association of Buddhist Studies 14.2:197–235.
+- ———. 2001. “Born to Be Wild: Siddhas, Outcastes, Shabaras, and Local Esoterism.” Paper presented at the conference on Tantra and Daoism, Boston University, April 19–21.
+- ———. 2002. Indian Esoteric Buddhism: A Social History of the Tantric Movement. New York: Columbia University Press.
+- Davis, Edward L. 2001. Society and the Supernatural in Song China. Honolulu: University of Hawai‘i Press.
+- Davis, Richard. 1991. Ritual in an Oscillating Universe: Worshipping Śiva in Medieval India. Princeton: Princeton University Press.
+- De, S. K. 1942. Early History of the Vaishnava Faith and Movement in Bengal. Calcutta: Firma KLM.
+- DeBernardi, Jean. 1995. “On Trance and Temptation: Images of the Body in Malaysian Chinese Popular Religion.” In Religious Reflections on the Human Body, ed. Jane Marie Law, pp. 151–165. Bloomington and Indianapolis: Indiana University Press.
+- DeCaroli, Robert. 2004. Haunting the Buddha: Indian Popular Religions and the Formation of Buddhism. Oxford, New York: OUP.
+- Deeg, Max. 1993. “Shamanism in the Veda: The Keśin-Hymn (10.136), the Journey to Heaven of Vasiṣṭha (ṚV 7.88) and the Mahāvrata-Ritual.” Nagoya Studies in Indian Culture and Buddhism, Saṃbhāṣā 1993:95–144.
+- Deleu, Jozef. 1970. Viyāhapannatti (Bhagavaī). The Fifth Anga of the Jaina Canon. Brugge: De Tempel. Reprint, Delhi: Motilal Banarsidass, 1996.
+- Delmonico, Neal. 1993. Review of Haberman, Acting as a Way of Salvation. Journal of Vaiṣṇava Studies 1.3:134–146.
+- DeMaris, Richard E. 2000. “Possession, Good and Bad—Ritual, Effects, and Side-Effects: The Baptism of Jesus and Mark 1.9–11 from a Cross-cultural Perspective.” Journal for the Study of the New Testament 80:3–30.
+- Demiéville, Paul. 1952. “Le premier Bhāvanā-krama de Kamalaśīla. Analyse sommaire d’après la version chinoise.” In Demiéville, Le Concile de Lhasa, pp. 333–353. Paris: Imprimerie nationale.
+- Deren, Maya. 1991. Divine Horsemen: The Living Gods of Haiti. New York: McPherson.
+- Dernbach, Katherine. 2005. “Popular Religion: A Cultural and Historical Study of Catholicism and Spirit Possession in Chuuk, Micronesia.” Ph.D. diss., University of Iowa.
+- Derrida, Jacques. 1976. Of Grammatology. Trans. Gayatri Spivak. Baltimore: Johns Hopkins University Press.
+- ———. 1981. “Plato’s Pharmacy.” In Derrida, Dissemination, pp. 61–172. Trans. Barbara Johnson. Chicago: University of Chicago Press.
+- ———. 2001. The Work of Mourning. Ed. Pascale-Anne Brault and Michael Naas. Chicago and London: University of Chicago Press.
+- Deshpande, Madhav M. 1995. “Vedic Aryans, Non-Vedic Aryans, and Non-Aryans: Judging the Linguistic Evidence of the Veda.” In The Indo-Aryans of Ancient South Asia: Language, Material Culture and Ethnicity, ed. George Erdosy, pp. 67–84. Berlin: de Gruyter.
+- Desjarlais, Robert R. 1992. Body and Emotion: The Aesthetics of Illness and Healing in the Nepal Himalayas. Philadelphia: University of Pennsylvania Press.
+- Devasenapathy, V. A. 1983. “Karma and Grace in Saiva Siddhānta.” In Experiencing Śiva, ed. Fred W. Clothey and J. Bruce Long, pp. 7–18. Columbia, MO: South Asia Books.
+- Deveney, John Patrick. 1997. Paschal Beverly Randolph: a Nineteenth-Century Black American Spiritualist, Rosicrucian, and Sex Magician. Albany: SUNY Press.
+- Dhaky, M. A. 1984. “Bhūtas and Bhūtanāyakas: Elementals and their Captains.” In Discourses on Śiva, ed. Michael W. Meister, pp. 240–256. Philadelphia: University of Pennsylvania Press.
+- Diehl, Carl Gustav. 1956. Instrument and Purpose: Studies on Rites and Rituals in South India. Lund: CWK Gleerup.
+- Diemberger, Hildegard. 2005. “Female Oracles in Modern Tibet.” In Women in Tibet. Ed. Janet Gyatso and Hanna Havnevik, pp. 113–168. New York: Columbia University Press.
+- Dietrich, Angela. 1998. Tantric Healing in the Kathmandu Valley. Delhi: Book Faith India.
+- Dikshit, M. G., and D. C. Sircar. 1955–56. “Senakapat Inscription of the Time of Sivagupta Balarjuna.” Epigraphia Indica 31:31–36.
+- Dirks, Nicholas B. 1992. “Ritual and Resistance: Subversion as a Social Fact.” In Contesting Power: Resistance and Everyday Social Relations in South Asia, ed. Douglas Haynes and Gyan Prakash, pp. 213–239. Berkeley and Los Angeles: University of California Press.
+- Dissanayake, Wimal. 1993. “Self and Body in Theravada Buddhism: A Tropological Analysis of the ‘Dhammapada.’” In Kasulis et al. (ed.), Self as Body in Asian Theory and Practice, pp. 123–145.
+- Doniger, Wendy. 2000. The Bedtrick: Tales of Sex and Masquerade. Chicago: University of Chicago Press. [See also O’Flaherty.]
+- Driver, Tom F. 1991. The Magic of Ritual. San Francisco: HarperSanFrancisco.
+- Dryden, John. 1992 [1681]. The Spanish Fryar, or, The Double Discovery. In The Works of John Dryden: Plays: The Kind Keeper, the Spanish Fryar, the Duke of Guise, and the Vindication of the Duke of Guise. Ed. Vinton A. Dearing, pp. 97–204. Berkeley: University of California Press.
+- Dubianski, Alexander A. 2000. Ritual and Mythological Sources of the Early Tamil Poetry. Groningen: Egbert Forsten.
+- Dubois, Abbé J. A. 1818. Description of the Character, Manners, and Customs of the People of India; and of Their Institutions, Religious and Civil. Philadelphia: M. Carey and Son.
+- Dudbridge, Glen. 1995. Religious Experience and Lay Society in T’ang China: A Reading of Tai Fu’s Kuang-i chi. Cambridge: Cambridge University Press.
+- Dumont, Louis. 1960. “World Renunciation in Indian Religions.” Contributions to Indian Sociology 4:33–62.
+- Dumont, Louis (ed.). 1970. Religion, Politics and History in India: Collected Papers in Indian Sociology. Paris, The Hague: Mouton.
+- Dumont, Louis, and David Pocock. 1959. “Possession and Priesthood.” Contributions to Indian Sociology 3:55–75.
+- Dumont, Paul-Emile. 1959. “The Full-Moon and New-Moon Sacrifices in the Taittirīya-Brāhmaṇa (Second Part).” Proceedings of the American Philosophical Society 103.4:584–608.
+- ———. 1960. “The Full-Moon and New-Moon Sacrifices in the Taittirīya-Brāhmaṇa (Third Part).” Proceedings of the American Philosophical Society 104.1:1–10.
+- Dupuche, John R. 2001. “Person to Person: Vivaraṇa of Abhinavagupta on Parātriṃśikā Verses 3–4.” IIJ 44:1–16.
+- During Caspers, E. C. L. 1992. “Rituals and Belief Systems in the Indus Valley Civilization.” In van den Hoek et al. (ed.), Ritual, State and History in South Asia, pp. 102–127.
+- Dwyer, Graham. 1998. “The Phenomenology of Supernatural Malaise: Attribution, Vulnerability and Patterns of Affliction at a Hindu Pilgrimage Center in Rajasthan.” Social Analysis 42.2:3–23.
+- ———. 1999. “Healing and the Transformation of Self in Exorcism at a Hindu Shrine in Rajasthan.” Social Analysis 43.2:108–137.
+- ———. 2003. The Divine and the Demonic: Supernatural Affliction and Its Treatment in North India. London and New York: RoutledgeCurzon.
+- Dyczkowski, Mark S. G. 1987. The Doctrine of Vibration: An Analysis of the Doctrines and Practices of Kashmir Shaivism. Albany: SUNY Press.
+- Eck, Diana L. 1985. Darsan: Seeing the Divine Image in India. Chambersburg, PA: Anima Books.
+- ———. 1993. Encountering God: A Spiritual Journey from Bozeman to Banaras. Boston: Beacon Press.
+- Eder, Matthias. 1973. Chinese Religion. Asian Folklore Studies Monograph no. 6. Tokyo: Society for Asian Folklore.
+- Edgerton, Franklin. 1953. Buddhist Hybrid Sanskrit Grammar and Dictionary. New Haven: Yale University Press.
+- Eggeling, Julius. 1900. The Śatapatha-Brāhmaṇa according to the text of the Mādhyandina School, Part 5. Sacred Books of the East, vol. 44. Oxford: Clarendon Press. Reprint, Delhi: Motilal Banarsidass, 1972.
+- Egnor, Margaret. 1980. “On the Meaning of Śakti to Women in Tamilnadu.” In The Powers of Tamil Women, ed. Susan S. Wadley, pp. 1–34. Syracuse: Maxwell School of Citizenship and Public Affairs, Syracuse University.
+- Eliade, Mircea. 1964. Shamanism: Archaic Techniques of Ecstasy. Trans. Willard Trask. Princeton: Princeton University Press.
+- ———. 1969. Yoga: Immortality and Freedom. Trans. Willard Trask. Princeton: Princeton University Press.
+- Emeneau, Murray B. 1934. Jambhaladatta’s Version of the Vetālapañcaviṇśati. American Oriental Series, vol. 4. New Haven: American Oriental Society.
+- ———. 1938. “Toda Culture Thirty-Five Years After: An Acculturation Study.” Annals of the BORI 19:103–121.
+- Engler, Steven. 2003. “‘Science’ vs. ‘Religion’ in Classical Āyurveda.” Numen 50:416–463.
+- Erndl, Kathleen. 1993. Victory to the Mother. New York, Oxford: OUP.
+- ———. 1996. “Śerāṅvālī: The Mother Who Possesses.” In Hawley and Wulff (ed.), Devi: Goddesses of India, pp. 173–194.
+- ———. 1997. “The Goddess and Women’s Power: A Hindu Case Study.” In Women and Goddess Traditions in Antiquity and Today, ed. Karen L. King, pp. 17–38. Minneapolis: Fortress Press.
+- Ernst, Carl W. 1997. The Shambhala Guide to Sufism. Boston: Shambhala.
+- Ervin, Frank R., Ronald C. Simons, and Raymond H. Prince. 1988. “The Psychobiology of Trance, II: Physiological and Endocrine Correlates.” Transcultural Psychiatric Research Review 25:267–283.
+- Fabricius, J. P. 1972 [1897]. Tamil and English Dictionary. 4th ed. Tranquebar: Lutheran Evangelical Mission Publishing House.
+- Falk, Harry. 1990. “Goodies for India: Literacy, Orality, and Vedic Culture.” In Erscheinungsformen kultureller Prozesse, ed. Wolfgang Raible, pp. 103–120. Tübingen: Gunter Narr Verlag.
+- Faure, Bernard. 1998. The Red Thread: Buddhist Approaches to Sexuality. Princeton: Princeton University Press.
+- Feldhaus, Anne. 1995. Water and Womanhood: Religious Meanings of Rivers in Maharashtra. New York, Oxford: OUP.
+- Fenner, Todd. 1996. “The Origin of the rGyud bzhi: A Tibetan Medical Tantra.” In Tibetan Literature: Studies in Genre, ed. José Ignacio Cabezón and Roger R. Jackson, pp. 458–469. Ithaca, NY: Snow Lion.
+- Ferris, Timothy. 1999. “How to Predict Everything.” New Yorker, July 12, 35–39.
+- Filliozat, Jean. 1935. “Le Kumāratantra de Rāvaṅa.” Journal Asiatique 226:1–66.
+- ———. 1937. Etude de démonologie indienne: le Kumāratantra de Rāvaṇa et les textes parallèles indiens, tibétains, chinois, cambodgiens et arabes. Cahiers de la Société Asiatique, series 1, vol. 4. Paris: Imprimerie nationale.
+- ———. 1964. The Classical Doctrine of Indian Medicine. Trans. Dev Raj Chanana. Delhi: Munshi Ram Manohar Lal. [Originally published as La doctrine classique de la médicine indienne: ses origines et ses parallèles grecs. Paris: Imprimerie nationale, 1949.]
+- Finn, Louise M. 1986. The Kulacūḍāmaṇi Tantra and the Vāmakeśvara Tantra with the Jayaratha Commentary. Wiesbaden: Otto Harrassowitz.
+- Fitzgerald, James L. 2003. “The Many Voices of the Mahābhārata.” JAOS 123.4:803–818.
+- ———. 2004. The Mahābhārata, Volume 7. Book 11: The Book of the Women. Book 12: The Book of Peace, Part One. Chicago: University of Chicago Press, 2004.
+- Flood, Gavin D. 1993. Body and Cosmology in Kashmir Saivism. San Francisco: Mellen Research University Press.
+- ———. 1999. Beyond Phenomenology: Rethinking the Study of Religion. New York: Cassell.
+- ———. 2002. “The Purification of the Body in Tantric Ritual Purification.” IIJ 45.1:25–43.
+- Foucault, Michel. 1988. “Technologies of the Self.” In Technologies of the Self: A Seminar with Michel Foucault, ed. Luther H. Martin, Huck Gutman, and Patrick Hutton, pp. 16–49. Amherst: University of Massachusetts Press.
+- Foulston, Lynn. 2002. At the Feet of the Goddess: The Divine Feminine in Local Hindu Religion. Brighton, UK; Portland, OR: Sussex Academic Press.
+- Fountain, John W. 2000. “Exorcists and Exorcisms Proliferate Across U.S.” New York Times, November 28:A16.
+- Frank, Jerome D., and Julia B. Frank. 1991 Persuasion and Healing: A Comparative Study of Psychotherapy. 3rd ed. Baltimore and London: Johns Hopkins University Press.
+- Frasca, Richard Armando. 1990. The Theater of the Mahābhārata: Terukkūttu Performances in South India. Honolulu: University of Hawai‘i Press.
+- Freed, Ruth S., and Stanley A. Freed. 1993. Ghosts: Life and Death in North India. Anthropological Papers of the American Museum of Natural History, no. 72. New York: American Museum of Natural History.
+- Freed, Stanley A., and Ruth S. Freed. 1964. “Spirit Possession as Illness in a North Indian Village.” Ethnology 3:152–171.
+- Freeman, J. Richardson. 1993. “Performing Posession: Ritual and Consciousness in the Teyyam Complex of Northern Kerala.” In Brückner et al. (ed.), Flags of Flame, pp. 109–138.
+- ———[J. R. Freeman]. 1998. “Formalized Possession Among the Tantris and Teyyams of Malabar.” South Asia Research 18.1:73–98.
+- ———[Richard Freeman]. 1999a. “Dynamics of the Person in the Worship and Sorcery of Malabar.” In Assayag and Tarabout (ed.), La possession en Asie du Sud, pp. 149–181.
+- ———[Rich Freeman]. 1999b. “Texts, Temples, and the Teaching of Tantra in Kerala.” In The Resources of History: Tradition, Narration and Nation in South Asia, ed. Jackie Assayag, pp. 63–79. Paris, Pondicherry: Ecole française d’Extrême-Orient; Institut française de Pondichéry.
+- ———[Rich Freeman]. 2001. “Thereupon Hangs a Tail: The Deification of Vāli in the Teyyam Worship of Malabar.” In Questioning Ramayanas: A South Asian Tradition, ed. Paula Richman, pp. 187–220. Berkeley and Los Angeles: University of California Press.
+- Freud, Sigmund. 1946. Totem and Taboo: Resemblances Between the Psychic Lives of Savages and Neurotics. Trans. with an introduction by A. A. Brill. New York: Random House.
+- ———. 1955 [1919]. “The Uncanny.” In The Standard Edition of the Complete Psychological Works of Sigmund Freud, vol. 17, trans. James Strachey with Anna Freud, pp. 217–252. London: Hogarth Press and the Institute of Psycho-Analysis.
+- ———. 1959 [1923]. “A Neurosis of Demoniacal Possession in the Seventeenth Century.” In Collected Papers, vol. 4. Authorized translation under the supervision of Joan Riviere, pp. 436–472. London: Hogarth Press and the Institute of Psycho-Analysis.
+- ———. 1962. “Letter 56.” In The Standard Edition of the Complete Psychological Works of Sigmund Freud, vol. 1. Ed. and trans. James Strachey, p. 242. London: Hogarth Press and the Institute of Psycho-Analysis.
+- ———. 1972. Gesammelte Werke, vol. 12. Frankfurt: S. Fischer.
+- Friedman, Barry Steven. 1986. “Negotiating Destiny: The Astrologer and His Art in Bengali Cultural History.” Ph.D. diss., University of Chicago.
+- Fuchs, Stephen. 1964. “Magic Healing Techniques Among the Balahis in Central India.” In Magic, Faith, and Healing: Studies in Primitive Psychiatry Today, ed. Ari Kiev, pp. 127–131. Glencoe, IL: Free Press.
+- Fuller, Christopher J. 1992. The Camphor Flame. Princeton: Princeton University Press.
+- Gaborieau, Marc. 1975a. “Les bāyu du Nepal Central.” Puruṣārtha 1:67–90.
+- ———. 1975b. “La transe rituelle dans l’Himalaya Central: folie, avatār, méditation.” Puruṣārtha 2:147–172.
+- Gail, Adalbert. 1980. “Planets and Pseudoplanets in Indian Literature and Art with Special Reference to Nepal.” East and West 30.1–2:133–146.
+- Garrett, Clarke. 1987. Spirit Possession and Popular Religion from the Camisards to the Shakers. Baltimore and London: Johns Hopkins University Press.
+- Gaur, Pt. Ashok Kumar. 1979. Navagraha-Rahasya. Varanasi: Thakur Prasad and Sons.
+- Gazetteer of Bombay State: Poona District. 1954. District Series, vol. 20. Bombay: Government Central Press.
+- Geels, Antoon. 1992. “Ego-Psychology and the Problem of Ecstasy. A Case Study of a Tibetan Shaman.” In Tibetan Studies. Proceedings of the 5th Seminar of the International Association for Tibetan Studies, Narita 1989. Vol. 2: Language, History and Culture. Ed. Ihara Shōren and Yamaguchi Zuihō, pp. 451–464. Tokyo: Naritasan Shinshoji.
+- Geertz, Clifford. 1983. “‘From the Native’s Point of View’: On the Nature of Anthropological Understanding.” In Geertz, Local Knowledge: Further Essays in Interpretive Anthropology, pp. 55–70. New York: Basic Books.
+- Geldner, Karl F. 1951, 1957. Der Rig-Veda aus dem Sanskrit ins Deutsche ubersetzt und mit einem laufenden Kommentar versehen. Harvard Oriental Series, vols. 33–36. Cambridge: Harvard University Press.
+- Gellner, David N. 1988. “Priesthood and Possession: Newar Religion in the Light of Some Weberian Concepts.” Pacific Viewpoint 29.2:119–143. [Reprinted in Gellner, Anthropology of Buddhism and Hinduism, pp. 85–105.]
+- ———. 1992. Monk, Householder, and Tantric Priest: Newar Buddhism and Its Hierarchy of Ritual. Cambridge: Cambridge University Press.
+- ———. 1994. “Priests, Healers, Mediums, and Witches: The Context of Possession in the Kathmandu Valley, Nepal.” Man (N.S.) 29:27–48. [Reprinted in Gellner, Anthropology of Buddhism and Hinduism, pp. 197–220.]
+- ———. 2001. The Anthropology of Buddhism and Hinduism: Weberian Themes. New Delhi: OUP.
+- George, Dieter. 1991. Ṣaṇmukha-kalpa. Ein Lehrbuch der Zauberei und Diebeskunst aus dem indischen Mittelalter. Monographien zur indischen Archāologie, Kunst und Philologie, no. 7. Berlin: Dietrich Reimer Verlag.
+- Germano, David, and Janet Gyatso. 1998. “Longchenpa and the Possession of the Ḍākinīs.” In White (ed.), Tantra in Practice, pp. 239–265.
+- Ghatage, A. M. (general editor), et al. 1976–. An Encyclopaedic Dictionary of Sanskrit on Historical Principles. Poona: Deccan College Post Graduate and Research Institute.
+- Ghose, Aurobindo. 1971. Birth Centenary Library, vol. 20. Pondicherry: Sri Aurobindo Ashram Trust.
+- Ginzburg, Carlo. 1989. The Cheese and the Worms: The Cosmos of a Sixteenth-Century Miller. Trans. John and Anne Tedeschi. New York: Dorsett Press.
+- Girard, René. 1977. Violence and the Sacred. Trans. Patrick Gregory. Baltimore: Johns Hopkins University Press.
+- Glucklich, Ariel. 1997. The End of Magic. New York, Oxford: OUP.
+- Gnoli, Raniero. 1968. The Aesthetic Experience According to Abhinavagupta. Varanasi: Chowkhamba Sanskrit Series Office.
+- ———. 1980. Luce delle Sacre Scritture [Tantrāloka] di Abhinavagupta. Turin: Unione Tipografico.
+- ———. 1985. Il commento di Abhinavagupta alla Parātriṃśikā (Parātriṃśikāvivaraṇam). Traduzione e Testo. Serie Orientale Roma 58. Rome: Istituto Italiano per il Medio ed Estremo Oriente.
+- Gold, Ann Grodzins. 1987. Fruitful Journeys. Berkeley and Los Angeles: University of California Press.
+- ———. 1988. “Spirit Possession Perceived and Performed in Rural Rajasthan.” Contributions to Indian Sociology 22.1:35–63.
+- ———. 1991. “Gender and Illusion in a Rajasthani Yogic Tradition.” In Appadurai et al. (ed.), Gender, Genre, and Power in South Asian Expressive Traditions, pp. 102–135.
+- Gold, Ann Grodzins, and Gloria Raheja. 1994. Listen to the Heron’s Words: Reimagining Gender and Kinship in North India. Berkeley and Los Angeles: University of California Press.
+- Goldman, Robert P. 1978. “Fathers, Sons and Gurus: Oedipal Conflict in the Sanskrit Epics.” Journal of Indian Philosophy 6:325–392.
+- ———. 1984. The Rāmāyaṇa of Vālmīki, An Epic of Ancient India. Volume I: Bālakāṇḍa. Princeton: Princeton University Press.
+- Goldman, Robert P., and Sally Sutherland Goldman. 1996. The Rāmāyaṇa of Vālmīki, An Epic of Ancient India. Volume V: Sundarakāṇḍa. Princeton: Princeton University Press.
+- Gombrich, Richard. 1971. Precept and Practice. Traditional Buddhism in the Rural Highlands of Ceylon. Oxford: OUP.
+- ———. 1988. Theravada Buddhism: A Social History from Ancient Benares to Modern Colombo. London and New York: Routledge and Kegan Paul.
+- ———. 1997. “The Buddhist Attitude to Thaumaturgy.” In Bauddhavidyā Sudhākaraḥ. Studies in Honour of Heinz Bechert on the Occasion of His 65th Birthday, ed. Petra Kieffer-Pülz and Jens-Uwe Hartmann, pp. 165–184. Swisttal-Odendorf: Indica et Tibetica Verlag.
+- Gomez, Luis O. 1983. “Indian Materials on the Doctrine of Sudden Enlightenment.” In Early Ch’an in China and Tibet, ed. Lai Whalen and Lewis Lancaster, pp. 393–434. Berkeley: Asian Humanities Press.
+- Gonda, J. 1950. Notes on Brahman. Leiden: Brill.
+- ———. 1954. “Pratiṣṭhā.” In Saṃjñāvyākaraṇam, Studia Indologica Internationalia I, Centre for International Indological Research, Poona/Paris, pp. 1–37. [Reprinted in J. Gonda, Selected Studies, vol. 2, pp. 338–374. Leiden: Brill, 1975.]
+- ———. 1962. “Some Notes on the Study of Ancient-Indian Religious Terminology.” History of Religions 1.2:243–273.
+- ———. 1965. The Savayajñas (Kauśikasūtra 60–68. Translation, Introduction, Commentary). Amsterdam: N.V. Noord-Hollandsche Uitgevers Maatschappu.
+- ———. 1969. Eye and Gaze in the Veda. Amsterdam: North-Holland.
+- ———. 1970a. Old Indian. Leiden: Brill.
+- ———. 1970b. Viṣṇuism and Śivaism: A Comparison. London: Athlone. Reprint, New Delhi: Munshiram Manoharlal, 1976.
+- ———. 1977. The Ritual Sutras. History of Indian Literature, vol. I.2, ed. J. Gonda. Wiesbaden: Otto Harrassowitz.
+- ———. 1987. Rice and Barley Offerings in the Veda. Leiden: Brill.
+- Goodheart, Adam. 2001. “Theme Park on a Hill.” New York Times Magazine, February 25:13–14.
+- Goodall, Dominic. 1998. Bhaṭṭa Rāmakaṇṭha’s Commentary on the Kiraṇatantra, Volume I: Chapters 1–6. Pondicherry: Institut français de Pondichéry, Ecole française d’Extrême-Orient.
+- Goodman, Felicitas D. 1988. How About Demons? Possession and Exorcism in the Modern World. Bloomington: Indiana University Press.
+- ———. 1990. Where Spirits Ride the Wind: Trance Journeys and Other Ecstatic Experiences. Bloomington: Indiana University Press.
+- Goudriaan, Teun. 1977. “Khaḍga-Ravaṇa and His Worship in Balinese and Indian Tantric Sources.” Wiener Zeitschrift fur die Kunde Südasiens 21:143–169.
+- ———. 1978. Māyā Divine and Human. Delhi: Motilal Banarsidass.
+- Granoff, Phyllis. 1979. “Maheśvara/Mahākāla: A Unique Buddhist Image from Kaśmīr.” Artibus Asiae 41:64–82.
+- ———. 1998a. The Forest of Thieves and the Magic Garden: An Anthology of Medieval Jain Stories. New Delhi: Penguin.
+- ———. 1998b. “Cures and Karma: Attitudes Towards Healing in Medieval Jainism.” In Self, Soul and Body in Religious Experience, ed. A. I. Baumgarten, J. Assmann, and G. G. Stroumsa, pp. 218–256. Leiden: Brill.
+- Gray, David. 2004. “Avesa in the Buddhist Yoginītantras.” Unpublished ms.
+- ———. 2005. “Eating the Heart of the Brahmin: Representations of Alterity and the Formation of Identity in Tantric Buddhist Discourse.” History of Religions 45.1:45–69.
+- ———. 2006. The Discourse of Śrī Heruka: A Study and Annotated Translation of the Cakrasaṃvara Tantra. New York: American Institute of Buddhist Studies/Columbia University Press.
+- Greenough, Paul R. 1982. Prosperity and Misery in Modern Bengal: The Famine of 1943–1944. New York: OUP.
+- Gujarat State Gazetteers: Broach District. 1961. Ahmedabad: Directorate of Government Printing, Stationery, and Publications.
+- Gupta, Akhil, and James Ferguson. 1992. “Beyond ‘Culture’: Space, Identity, and the Politics of Difference.” Cultural Anthropology 7.1:6–23.
+- Gupta, Dipankar. 1995. “Legitimizing Demerit: The Pre-History of Mandal.” The Times of India, November 28:10.
+- Gupta, Sanjukta. 1972. Lakṣmī Tantra: A Pāñcarātra Text. Leiden: Brill.
+- ———. 2000. “The Worship of Kālī According to the Toḍala Tantra.” In White (ed.), Tantra in Practice, pp. 472–476.
+- Gupta, Sanjukta, Dirk Jan Hoens, and Teun Goudriaan. 1979. Hindu Tantrism. Handbuch der Orientalistik, 2nd sec., no. 4.2. Leiden/Cologne: Brill.
+- Gutschow, Kim. 1997. “A Case of Madness or ‘Wind Disorder’ in Zanskar.” In Recent Research on Ladakh 7, ed. Thierry Dodin and Heinz Räther, pp. 177–202. Ulmerkulturanthropologische Schriften, no. 9. Ulm: Universität Ulm.
+- ———. 2004. “Ladakhi Shamans and Oracles (Himalayas).” In Walter and Fridman (ed.), Shamanism, Vol. 2, pp. 756–763.
+- Haas, George C. O. 1912. The Daśarūpa: A Treatise on Hindu Dramaturgy. New York: Columbia University Press. Reprint, Delhi: Motilal Banarsidass, 1962.
+- Haberman, David. 1988. Acting as a Way of Salvation: A Study of Rāgānugā Bhakti Sādhana. New York, Oxford: OUP.
+- ———. 1997. Review of Kripal, Kālī’s Child. Journal of Asian Studies 56:3:531–532.
+- ———. 2003. The Bhaktirasāmṛtasindhu of Rūpa Gosvāmin. New Delhi: IGNCA, and Delhi: Motilal Banarsidass.
+- Haksar, A. N. D. 2000. Shuka Saptati: Seventy Tales of the Parrot. New Delhi: Harper Collins.
+- Halbfass, Wilhelm. 1988. India and Europe: An Essay in Understanding. Albany: SUNY Press.
+- ———. 1991. Tradition and Reflection. Albany: SUNY Press.
+- ———. 1992. On Being and What There Is: Classical Vaiśeṣika and the History of Indian Ontology. Albany: SUNY Press.
+- ———. 1995. “Practical Vedānta.” In Representing Hinduism: The Construction of Religious Traditions and National Identity, ed. Vasudha Dalmia and Heinrich von Stietencron, pp. 211–223. New Delhi: Sage.
+- Halbwachs, Maurice. 1992. On Collective Memory. Chicago: University of Chicago Press.
+- Halliburton, Murphy. 2002. “Rethinking Anthropological Studies of the Body: Manas and Bodham in Kerala.” American Anthropologist 104.4:1123–1134.
+- Halperin, Daniel. 1996. “A Delicate Science: A Critique of an Exclusively Emic Anthropology.” Anthropology and Humanism 21.1:31–40.
+- Hanaway, William L., and Mumtaz Nasir. 1996. “Chapbook Publishing in Pakistan.” In Studies in Pakistani Popular Culture, ed. William L. Hanaway and Wilma Heston, pp. 339–615. Lahore: Sang-e-Meel Publications and Lok Virsa Publication House.
+- Hancock, Mary E. 1995. “The Dilemmas of Domesticity: Possession and Devotional Experience Among Urban Smārta Women.” In From the Margins of Hindu Marriage: Essays on Gender, Religion, and Culture, ed. Lindsey Harlan and Paul Courtright, pp. 60–91. New York, Oxford: OUP.
+- Handelman, Don, and David Shulman. 1997. God Inside Out: Śiva’s Game of Dice. New York: OUP.
+- ———. 2004. Śiva in the Forest of Pines: An Essay on Sorcery and Self-Knowledge. New Delhi: OUP.
+- Hanegraaf, Wouter J. 1998. New Age Religion and Western Culture: Esotericism in the Mirror of Secular Thought. Albany: SUNY Press.
+- ———. 2004. “Mysteries of Incarnation: The Hermetic Animation of Statues in Christian Monotheism.” Paper presented at the annual meeting of the American Academy of Religion, San Antonio.
+- Hara, Minoru  1979a. “Sraddhāviveśa.” Indologica Taurinensia 7:261–273.
+- ———. 1979b. Koten indo no gu gyō  [Joint Practices of Classical India]. Tokyo: Shunjūsha.
+- ———. 2001. “Hindu Concepts of Anger: Manyu and Krodha.” In: Le Parole e i Marmi: Studi in Onore di Raniero Gnoli nel Suo 70º Compleanno, ed. Raffaele Torella, pp. 419–444. Rome: Istituto Italiano per L’Africa e L’Oriente.
+- Hardikar, A. R. 1994. “The Aesthetic Appreciator or Sahṛdaya.” Annals of the BORI 75:265–272.
+- Hardy, Friedhelm. 1983. Viraha-Bhakti: The Early History of Kṛṣṇa Devotion in South India. Delhi: OUP.
+- Harootunian, Harry D. 1988. Things Seen and Unseen: Discourse and Ideology in Tokugawa Nativism. Chicago: University of Chicago Press.
+- Harper, Edward B. 1963. “Spirit Possession and Social Structure.” In Bala Ratnam (ed.), Anthropology on the March, pp. 165–177. Madras: Book Centre.
+- ———. 1969. “Fear and the Status of Women.” Southwestern Journal of Anthropology 25:81–95.
+- Hart, George L. 1975. The Poems of Ancient Tamil: Their Milieu and Their Sanskrit Counterparts. Berkeley and Los Angeles: University of California Press.
+- ———. 2004. Review of Tieken, Kavya in South India. JAOS 124.1:180–184.
+- Hartzell, James Francis. 1997. “Tantric Yoga: A Study of the Vedic Precursors, Historical Evolution, Literatures, Cultures, Doctrines, and Practices of the 11th-Century Kaśmirī Śaivite and Buddhist Unexcelled Tantric Yogas.” Ph.D. diss., Columbia University.
+- Hawley, John Stratton, in association with Shrivatsa Goswami. 1981. At Play with Krishna: Pilgrimage Dramas from Brindavan. Princeton: Princeton University Press.
+- Hawley, John Stratton, and Donna Wulff (ed.). 1996. Devi: Goddesses of India. Berkeley and Los Angeles: University of California Press.
+- Heesterman, J. C. 1957. The Ancient Indian Royal Consecration. The Hague: Mouton.
+- ———. 1962. “Vrātya and Sarifice.” IIJ 6:1–37.
+- ———. 1991. “‘I Am Who I Am,’ Truth and Identity in Vedic Ritual.” Beiträge zur Hermeneutik indischer und abenländischer Religionstraditionen, ed. Gerhard Oberhammer, pp. 147–177. Vienna: Österreichischen Akademie der Wissenschaften.
+- ———. 1993. The Broken World of Sacrifice: An Essay in Ancient Indian Ritual. Chicago: University of Chicago Press.
+- Hegel, G. W. F. 1977. Phenomenology of Spirit. Trans. A. V. Miller with analysis of the text and foreword by J. N. Findlay. Oxford: Clarendon Press. (Originally published as Phänomenologie des Geistes. Jena, 1807.)
+- Hein, Norvin. 1972. The Miracle Plays of Mathurā. New Haven: Yale University Press.
+- Heine, Steven. 1999. Shifting Shape, Shaping Text: Philosophy and Folklore in the Fox Kōan. Honolulu: University of Hawai‘i Press.
+- Henry, E. O. 1981. “A North Indian Healer and the Sources of His Power.” In The Social and Cultural Context of Medicine in India, ed. Giri Raj Gupta, pp. 286–307. Delhi: Vikas.
+- Hillebrandt, Alfred. 1981. Vedic Mythology, vols. 1 and 2. Trans. Sreeramula Rajeswara Sarma of Vedische Mythologie (1891–1902). Delhi: Motilal Banarsidass.
+- Hiltebeitel, Alf. 1980. “Śiva, the Goddess, and the Disguises of the Pāṇḍavas and Draupadī.” History of Religions 20:147–174.
+- ———. 1988. The Cult of Draupadī. Vol. 1: Mythologies: From Gingee to Kurukṣetra. Chicago: University of Chicago Press.
+- ———. 1989a. Criminal Gods and Demon Devotees: Essays on the Guardians of Popular Hinduism. Albany: SUNY Press, 1989.
+- ———. 1989b. “Draupadī’s Two Guardians: The Buffalo King and the Muslim Devotee.” In Hiltebeitel (ed.), Criminal Gods and Demon Devotees, pp. 339–371.
+- ——–. 1991. The Cult of Draupadī. Vol. 2: On Hindu Ritual and the Goddess. Chicago: University of Chicago Press.
+- ———. 2001. Rethinking the Mahābhārata: A Reader’s Guide to the Education of the Dharma King. Chicago: University of Chicago Press.
+- Hirakawa, Akira. 1990. A History of Indian Buddhism. From Śākyamuni to Early Mahāyāna. Trans. and ed. Paul Groner. Honolulu: University of Hawai‘i Press.
+- Hitchcock, John T., and Rex L. Jones (ed.) 1976. Spirit Possession in the Nepal Himalayas. Warminster, UK: Aris and Phillips.
+- Hoek, A. W. van den, D. H. A. Kolff, and M. S. Oort (ed.) 1992. Ritual, State, and History in South Asia: Essays in Honour of J. C. Heesterman. Leiden, New York: Brill.
+- Hoens, D. J. 1969. “Prasāda in the Rāmāyaṇa.” In Liber Amicorum: Studies in Honor of Professor C.J. Bleeker, pp. 80–98. Leiden: Brill.
+- Hoernle, A. F. R. 1909. The Bower Manuscript: Facsimile Leaves, Nagari Transcript, Romanized Transliteration and English Translation with Notes. Archaeological Survey of India, New Imperial Series, vol. 22. Calcutta: Archaeological Survey of India.
+- Höfer, András. 1974. “A Note on Possession in South Asia.” In Contributions to the Anthropology of Nepal, ed. Christof von Fürer Haimendorf, pp. 159–167. Warminster, UK: Aris & Phillips.
+- ———. 1994. A Recitation of the Tamang Shaman in Nepal. Bonn: VGH Wissenschaftsverlag.
+- Holm, Nils G. 1982. “Ecstasy Research in the 20th Century: An Introduction.” In Religious Ecstasy, ed. Nils G. Holm, pp. 7–26. Stockholm: Almqvist & Wiksell.
+- Holt, John Clifford. 2004. The Buddhist Viṣṇu: Religious Transformation, Politics, and Culture. New York: Columbia University Press.
+- ———. Forthcoming. “Gone But Not Departed: The Dead Among the Living in Contemporary Buddhist Sri Lanka.” In The Buddhist Dead: Practices, Discourses, Representations, ed. Jacqueline Stone and Bryan Cuevas. Honolulu: Kuroda Institute/University of Hawai‘i Press.
+- Honko, Lauri. 1998. Textualizing the Siri Epic. FF Communications no. 224. Helsinki: Suomalainen Tieleakademia.
+- Hooykaas, C. 1983. “Homa in India and Bali.” In Strickmann (ed.), Tantric and Taoist Studies in Honour of R. A. Stein, vol. 2, pp. 512–591.
+- Houben, Jan E. M. 1999. “To Kill or Not to Kill: The Sacrificial Animal (yajñapaśu)? Arguments and Perspectives in Brahmanical Ethical Philosophy.” In Violence Denied: Violence, Non-Violence and the Rationalization of Violence in South Asian Cultural History, ed. Jan E. M. Houben and Karel R. Van Kooij, pp. 105–183. Leiden: Brill.
+- ———. 2000. “The Ritual Pragmatics of a Vedic Hymn: The ‘Riddle Hymn’ and the Pravargya Ritual.” JAOS 120.4:499–536.
+- Hufford, David J. 1977. “Ambiguity and the Rhetoric of Belief.” Keystone Folklore 21:11–24.
+- Humphrey, Caroline, and James Laidlaw. 1994. The Archetypal Actions of Ritual: A Theory of Ritual Illustrated by the Jain Rite of Worship. Oxford: Clarendon Press.
+- Huntington, Samuel P. 1996. The Clash of Civilizations and the Remaking of World Order. New York: Simon and Schuster.
+- Hurston, Nora Zeale. 1938. Tell My Horse. Philadelphia: J.B. Lippincott.
+- Hutton, J. H. 1921a. The Angami Nagas. London: Macmillan. Reprint, London: OUP, 1969.
+- ———. 1921b. The Sema Nagas. London: Macmillan. Reprint, London: OUP, 1968.
+- Huxley, Aldous. 1952. The Devils of Loudun. New York: Harper.
+- Inden, Ronald. 1990. Imagining India. Oxford: Basil Blackwell.
+- ———. 1992. “Changes in the Vedic Priesthood.” In van den Hoek et al. (ed.), Ritual, State, and History in South Asia, pp. 556–577.
+- Inden, Ronald, Jonathan Walters, and Daud Ali. 2000. Querying the Medieval: Texts and the History of Practices in South Asia. Oxford, New York: OUP.
+- Ingalls, Daniel H. H., Jeffrey Moussaieff Masson, and M. V. Patwardhan. 1990. The Dhvanyaloka of Anandavardhana with the Locana of Abhinavagupta. Harvard Oriental Series 49. Cambridge: Harvard University Press.
+- Inglis, Stephen. 1985. “Possession and Pottery: Serving the Divine in a South Indian Community.” In Waghorne and Cutler (ed.), Gods of Flesh / Gods of Stone, pp. 89–102.
+- Iyanaga, Nobumi. 1985. “Récits de la soumission de Maheśvara par Trailokyavijaya, d’après les sources chinoises et japonaises.” In Strickmann (ed.), Tantric and Taoist Studies in Honour of R. A. Stein, vol. 3, pp. 633–745.
+- Jacobi, Hermann. 1895. Jaina Sūtras, part 2. Sacred Books of the East, vol. 45. Oxford: OUP. Reprint, Delhi: Motilal Banarsidass, 1964.
+- Jain, Jagdishchandra. 1984. Life in Ancient India as Depicted in the Jain Canon and Commentaries. New Delhi: Munshiram Manoharlal.
+- Jain, Sagarmal. 1999. Jaina Literature and Philosophy: A Critical Approach. Varanasi: Pārśvanātha Vidyāpīṭha.
+- Jakobsen, Merete Demant. 1999. Shamanism: Traditional and Contemporary Approaches to the Mastery of Spirits and Healing. New York: Berghahn.
+- James, Henry. 1898. The Turn of the Screw. New York: Macmillan.
+- James, William. 1902. Varieties of Religious Experience. New York: Modern Library. Reprint, Cambridge: Harvard University Press, 1985.
+- Jamgön Kongtrul Lodrö Tayé. 2005. The Treasury of Knowledge. Book Six, Part Four: Systems of Buddhist Tantra. The Indestructible Way of Secret Mantra. Kalu Rinpoche Translation Group, under the direction of the Venerable Bokar Rinpoché. Trans. Elio Guarisco and Ingrid McLeod. Ithaca and Boulder: Snow Lion.
+- Jamison, Stephanie W. 1986. “Brāhmaṇa Syllable Counting, Vedic tvác ‘Skin,’ and the Sanskrit Expression for the Canonical Creature.” IIJ 29.3:161–181.
+- ———. 1991. The Ravenous Hyenas and the Wounded Sun: Myth and Ritual in Ancient India. Ithaca: Cornell University Press.
+- ———. 1996. Sacrificed Wife /Sacrificer’s Wife: Women, Ritual, and Hospitality in Ancient India. New York, Oxford: OUP.
+- Janna. 1994. Tale of the Glory-Bearer. The Episode of Candasāsana. Trans. T. R. S. Sharma. New Delhi: Penguin Books India.
+- Jensen, Jeppe Sinding, and Armin W. Geertz. 1991. “Tradition and Renewal in the History of Religions: Some Observations and Reflection.” In Religion Tradition, and Renewal, ed. Geertz and Jensen, pp. 11–27. Aarhus, Denmark: Aarhus University Press.
+- Jeyaraj, Daniel. 2004. Genealogy of the South Indian Deities; An English Translation of Bartholomaeus Ziegenbalg’s Original German Manuscript with a Textual Analysis and Glossary. London and New York: RoutledgeCurzon.
+- Jettmar, Karl. 1975. Die Religionen des Hindukusch. Stuttgart: W. Kohlhammer.
+- Jilek, W. G. 1971. “From Crazy Witch Doctor to Auxiliary Psychotherapist—The Changing Image of the Medicine Man.” Psychiatria Clinica 4:200–220.
+- Johnson, W. J. 1998. The Sauptikaparvan of the Mahābhārata: The Massacre at Night. Oxford, New York: OUP.
+- Jonas, Adolphe D. 1965. Ictal and Subictal Neurosis: Diagnosis and Treatment. Springfield, IL: Thomas.
+- Jones, J. J. 1949. The Mahāvastu. Sacred Books of the Buddhists 16. London: Luzac.
+- Jones, Rex L. 1968. “Shamanism in South Asia: A Preliminary Survey.” History of Religions 7.4:330–347.
+- ———. 1976. “Spirit Possession and Society in Nepal.” In Hitchcock & Jones (ed.), Spirit Possession in the Nepal Himalayas, pp. 1–11.
+- Jung, Carl G. 1990. Basic Writings. Princeton: Princeton University Press.
+- Kakar, Sudhir. 1978. The Inner World: A Psychoanalytic Study of Childhood and Society in India. New Delhi: OUP.
+- ———. 1982. Shamans, Mystics and Doctors: A Psychological Inquiry into India and its Healing Traditions. Chicago: University of Chicago Press.
+- ———. 1991. The Analyst and the Mystic: Psychoanalytic Reflections on Religion and Mysticism. Chicago: University of Chicago Press.
+- ———. 1999. “Clinical Work and Cultural Imagination.” In Vaidyanathan and Kripal (ed.), Vishnu on Freud’s Desk, pp. 216–231.
+- Kane, P. V. 1962–75. [HDh] History of Dharmasāstra, vols. 1–4. Poona: BORI.
+- Kapadia, Karin. 2000. “Pierced by Love: Tamil Possession, Gender and Caste.” In Invented Identities: The Interplay of Gender, Religion and Politics in India, ed. Julia Leslie and Mary McGee, pp. 181–202. New Delhi: OUP.
+- Kapferer, Bruce. 1983. A Celebration of Demons. Bloomington: Indiana University Press.
+- ———. 1997. The Feast of the Sorcerer: Practices of Consciousness and Power. Chicago: University of Chicago Press.
+- Kapstein, Matthew T. (ed.). 2000. The Tibetan Assimilation of Buddhism: Conversion, Contestation, and Memory. Oxford, New York: OUP.
+- Karim, Anwarul. 1988. “Shamanism in Bangladesh.” Asian Folklore Studies 47:277–309. [Reprinted in Shamanism in Asia, ed. Clark Chilson and Peter Knecht, pp. 51–85. London and New York: RoutledgeCurzon, 2003.]
+- Kashikar, C. G. 1968. A Survey of the Śrautasūtras. Bombay: University of Bombay. [Journal of the University of Bombay 35(n.s.,pt. 2).41 (September 1966).]
+- Kasulis, Thomas P., Roger T. Ames, and Wimal Dissanayake (ed.). 1993. Self as Body in Asian Theory and Practice. Albany: SUNY Press.
+- Katz, Ruth Cecily. 1989. Arjuna in the Mahābhārata: Where Krishna Is, There Is Victory. Columbia: University of South Carolina Press.
+- Kavirāj, Gopināth. 1963. Tāntrik Vāṅmay me Śāktadṛṣṭi. Patnā: Bihār Rāṣṭrabhāṣā Pariṣad.
+- Kaw, R. K. 1967. The Doctrine of Recognition. Hoshiarpur: Vishveshvaranand Institute.
+- ———. 1975. Pratyabhijna Karika of Utpaladeva. Srinagar: Sharada Peetha Research Centre.
+- Keith, Arthur Berriedale. 1909. The Aitareya Āraṇyaka. Oxford: Clarendon Press.
+- ———. 1914, 1915. The Veda of the Black Yajus School, Entitled Taittirīya Saṃhitā. Harvard Oriental Series 18 and 19. Cambridge: Harvard University Press.
+- ———. 1920. Rigveda Brāḥmaṇas: The Aitareya and Kauṣītaki Brāḥmaṇas of the Rigveda. Harvard Oriental Series 25. Cambridge: Harvard University Press.
+- ———. 1925. The Religion and Philosophy of the Veda and Upaniṣads, vols. 1 and 2. Harvard Oriental Series 31 and 32. Cambridge: Harvard University Press.
+- ———. 1937. “A New Explanation of the Gandharva.” Journal of the Indian Society of Oriental Art 5:32–39.
+- Keller, Mary. 2002. The Hammer and the Flute: Women, Power, and Spirit Possession. Baltimore, London: Johns Hopkins University Press.
+- Kelly, George Armstrong. 1998. “Notes on Hegel’s ‘Lordship and Bondage’.” In The Phenomenology of Spirit Reader, ed. Jon Stewart, pp. 172–191. Albany: SUNY Press.
+- Kendall, Laurel. 1985. Shamans, Housewives, and Other Restless Spirits: Women in Korean Ritual Life. Honolulu: University of Hawai‘i Press.
+- ———. 1988. The Life and Hard Times of a Korean Shaman. Honolulu: University of Hawai‘i Press.
+- Khanna, Madhu. 1986. “The Concept and Liturgy of the Śrīcakra Based on Sivānanda’s Trilogy.” Ph.D. diss., Oxford University.
+- Kimura, Takayasu, et al. See Amoghapāsasutra.
+- Kinsley, David. 1997. Tantric Visions of the Divine Feminine: The Ten Mahāvidyās. Berkeley and Los Angeles: University of California Press.
+- Kittel, Ferdinand. 1968–71. A Kannada-English Dictionary. Vols. 1–4. Madras: University of Madras. [Originally published, Mangalore: Basel Mission Book and Tract Depository, 1894.]
+- Kjaerholm, Lars. 1982. “Possession and Substance in Indian Civilization: Thoughts Emanating from Fieldwork in South India.” Folk 24:179–196.
+- Kleinman, Arthur, and Don Seeman. 1998. “The Politics of Moral Practice in Psychotherapy and Religious Healing.” Contributions to Indian Sociology 32.2:237–252.
+- Klimkeit, Hans-Joachim. 1976. “Die ‘Teufelstänz’ von Südindien.” Anthropos 71:555–578.
+- Knecht, Peter. 2003. “Introduction.” In Shamanism in Asia, ed. Clark Chilson and Peter Knecht, pp. 1–30. London and New York: RoutledgeCurzon.
+- Knipe, David M. 1989. “Night of the Growing Dead: A Cult of Vīrabhadra in Coastal Andhra.” In Hiltebeitel (ed.), Criminal Gods and Demon Devotees, pp. 123–156.
+- ———. 1991. Hinduism: Experiments in the Sacred. San Francisco: HarperSan Francisco.
+- ———. 1997. “Rivalries Inside Out: Personal History and Possession Ritualism in Coastal Andhra.” Paper presented at a seminar on the Dynamics of Rituals and Narratives in Indian Folk Culture, Centre for Folk Culture Studies, University of Hyderabad, Hyderabad.
+- ———. 2001. “Balancing Raudra and Sānti: Rage and Repose in States of Possession.” In Vidyārṇavavadanam. Essays in Honour of Asko Parpola, ed. Klaus Karttunen and Petteri Koskikallio. Studia Orientalia 94:343–357.
+- ———. 2004. “Ritual Subversion: Reliable Enemies and Suspect Allies.” In The Vedas: Texts, Language & Ritual: Proceedings of the Third International Vedic Workshop, Leiden 2002, ed. Arlo Griffiths and Jan E. M. Houben, pp. 433–448. Groningen: Egbert Forsten.
+- Koller, John T. 1993. “Human Embodiment: Indian Perspectives.” In Kasaulis et al. (ed.), Self as Body in Asian Theory and Practice, pp. 45–58.
+- Korom, Frank J. 1992. “‘To Be Happy’: Narrative, Ritual Play and Leisure in an Annual Bengali Religious Festival.” Ph.D. diss., University of Pennsylvania.
+- ———. 1997. “Language, Belief, and Experience in Bengali Folk Religion.” In Beyond Orientalism: The Work of Wilhelm Halbfass and Its Impact on Indian and Cross-Cultural Studies, ed. Eli Franco and Karin Preisendanz, pp. 567–586. Poznan Studies in the Philosophy of the Sciences and the Humanities, vol. 59. Amsterdam-Atlanta: Rodopi.
+- ———. 1999. “‘To Be Happy’: Ritual, Play, and Leisure in the Bengali Dharmarāj puja.” IJHS 3.2:113–64.
+- ———. 2000. “Close Encounters of the Numinous Kind: Personal Experience Narratives and Memorates in Goalpura, West Bengal.” South Asia Research 20.1:19–45.
+- Kosambi, D. D., and V. V. Gokhale (ed.). 1957. The Subhāṣitaratnakoṣa, Compiled by Vidyākara. Cambridge: Harvard University Press.
+- Krick, Hertha. 1975. “Der Vaniṣṭhusava und Indras Offenbarung.” Wiener Zeitschrift für die Kunde Südasiens 19:25–74.
+- ———. 1982. Das Ritual der Feuergründung (Agnyādheya). Ed. Gerhard Oberhammer. Vienna: Österreichischen Akademie der Wissenschaften.
+- Kripal, Jeffrey J. 1995 [1998]. Kālī’s Child: The Mystical and Erotic in the Life and Teachings of Ramakrishna. Chicago: University of Chicago Press.
+- ———. 1997. Response to Larson’s review of Kripal, Kālī’s Child. JAAR 65:627–639.
+- Kuhn, Adalbert. 1852. “Gandharven und Kentauren.” Zeitschrift für vergleichende Sprachforschung 1: 513–542.
+- Kumar, Abhimanyu. 1994. Child Health Care in Āyurveda. Indian Medical Science Series 16. Delhi: Sri Satguru.
+- Kurtz, Stanley N. 1999. “Psychoanalytic Approaches to Hindu Child Rearing: A Critique.” In Vaidyanathan and Kripal (ed.), Vishnu on Freud’s Desk, pp. 185–215. [Originally published in Stanley N. Kurtz, All the Mothers Are One. New York: Columbia University Press, 1994, pp. 29–53.]
+- LaFleur, William R. 1998. “Body.” In Taylor (ed.), Critical Terms for Religious Studies, pp. 36–54.
+- Laine, James W. 1989. Visions of God: Narratives of Theophany in the Mahābhārata. Publications of the de Nobili Research Library 16. Vienna: Sammlung de Nobili.
+- Lambek, Michael. 1996. “Afterword: Spirits and Their Histories.” In Mageo and Howard (ed.), Spirits in Culture, History, and Mind, pp. 238–247.
+- Lambert, H. 1988. “Medical Knowledge in Rajasthan: Popular Constructions of Illness and Therapeutic Practice.” D.Phil. diss., Oxford University.
+- Langford, Jean M. 1998. “Ayurvedic Psychotherapy: Transposed Signs, Parodied Selves.” PoLAR: Political and Legal Anthropology Review 21.1:84–98.
+- ———. 2002. Fluent Bodies: Ayurvedic Remedies for Postcolonial Imbalance. Durham: Duke University Press.
+- Lariviere, Richard. 1995. “Protestants, Orientalists, and Brāhmaṇas: Reconstructing Indian Social History.” Second Annual Jan Gonda Lecture, Royal Netherlands Academy of Arts and Sciences, Amsterdam. Available at http://asnic.utexas.edu/asnic/subject/gondalecture.html.
+- Larson, Gerald. 1993. “Ayurveda and the Hindu Philosophical Systems.” In Kasulis et al. (ed.), Self as Body in Asian Theory and Practice, pp. 103–121.
+- ———. 1997. Review of Kripal, Kālī’s Child. JAAR 65.3:655–665.
+- Larson, Gerald James, and Ram Shankar Bhattacharya. 1987. Sāṃkhya: A Dualist Tradition in Indian Philosophy. Encyclopedia of Indian Philosophies, vol. 4. General Editor, Karl Potter. Princeton: Princeton University Press.
+- Lawrence, Patricia. 2003. “Kāḷi in a Context of Terror: The Tasks of a Goddess in Sri Lanka’s Civil War.” In Encountering Kali: In the Margins, at the Center, in the West, ed. Rachel Fell McDermott and Jeffrey J. Kripal, pp. 100–123. Berkeley: University of California Press.
+- Lefeber, Rosalind. 1994. The Rāmāyaṇa of Vālmīki, An Epic of Ancient India. Volume IV: Kiṣkindhākāṇḍa. Princeton: Princeton University Press.
+- Lessa, William A., and Evon Z. Vogt (ed.). 1972. Reader in Comparative Religion: An Anthropological Approach. New York: Harper & Row.
+- Lessing, Ferdinand D., and Alex Wayman. 1978. Introduction to the Buddhist Tantric Systems. Delhi: Motilal Banarsidass.
+- Lévi, Sylvain, J. Takakusa, and Paul Demiéville. 1929–83. Hōbōgirin. Dictionnaire encyclopédique du Bouddhism d’après les sources chinoises et japonaises. Tokyo: Maison franco-japonaise.
+- Levin, Theodore. 1996. The Hundred Thousand Fools of God: Musical Travels in Central Asia (and Queens, New York). Bloomington and Indianapolis: Indiana University Press.
+- Levy, Robert I., Jeannette Marie Mageo, and Alan Howard. 1996. “Gods, Spirits, and History: A Theoretical Perspective.” In Mageo and Howard (ed.), Spirits in Culture, History, and Mind, pp. 11–27.
+- Lewis, I. M. 1966. “Spirit Possession and Devotional Cults.” Man (n.s.) 1:307–329.
+- ———. 1986. Religion in Context: Cults and Charisma. Cambridge: Cambridge University Press.
+- ———. 1989 [1971]. Ecstatic Religion: A Study of Shamanism and Spirit Possession. London and New York: Routledge.
+- Lewis, Todd T. 2000. Popular Buddhist Texts from Nepal: Narratives and Rituals of Newar Buddhism. Albany: SUNY Press.
+- Lewis-Fernández, Roberto. 1998. “A Cultural Critique of the DSM-IV Dissociative Disorders Section.” Transcultural Psychiatry 35.3:387–400.
+- Littlewood, Roland. 1996. Reason and Necessity in the Specification of the Multiple Self. Royal Anthropological Society of Great Britain and Ireland. Occasional Paper no. 43. London: Royal Anthropological Institute.
+- Lockwood, Michael, and A. Vishnu Bhat. 1994. Metatheater and Sanskrit Drama. Tambaram: Tambaram Research Associates.
+- Lopez, Donald S., Jr. 1995a. “Authority and Orality in the Mahāyāna.” Numen 42.1:21–47.
+- ———. 1996. Elaborations on Emptiness: Uses of the Heart Sutra. Princeton: Princeton University Press.
+- Lopez, Donald S., Jr. (ed.). 1995b. Curators of the Buddha: The Study of Buddhism Under Colonialism. Chicago: University of Chicago Press.
+- Lord, Albert. 1960. The Singer of Tales. Cambridge: Harvard University Press.
+- Lubotsky, Alexander. 1997. A Ṛgvedic Word Concordance. American Oriental Series 82, 83. New Haven: American Oriental Society.
+- ———. 2001. “The Indo-Iranian Substratum.” In Early Contacts Between Uralic and Indo-European: Linguistic and Archaeological Considerations, ed. Christian Carpelan, Asko Parpola, and Petteri Koskikallio, pp. 301–317. Suomalais-Ugrilaisen Seuren Toimituksia. Mémoires de la Société Finno-Ougrienne 242. Helsinki: Suomalais-Ugrilainen Seura.
+- Lüders, Heinrich. 1924. “Vedisch gṛh-.” Zeitschrift für vergleichende Sprachforschung 52:99–105. [Reprinted in Philologica Indica: Ausgewählte kleine Schriften von Heinrich Lüders, pp. 561–566. Göttingen: Vandenhoeck & Ruprecht, 1940.]
+- Lusthaus, Dan. 2002. Buddhist Phenomenology: A Philosophical Investigation of Yogācāra Buddhism and the Ch’eng Wei-shih lun. London: RoutledgeCurzon.
+- Lutgendorf, Philip. 1991. The Life of a Text: Performing the Rāmcaritmānas of Tulsidas. Berkeley and Los Angeles: University of California Press.
+- ———. 1994. “My Hanumān Is Bigger Than Yours.” History of Religions 33.3:211–245.
+- ———. 1997. “Monkey in the Middle: The Status of Hanuman in Popular Hinduism.” Religion 27:311–332.
+- Lutz, Catherine. 1988. Unnatural Emotions: Everyday Sentiments on a Micronesian Atoll and Their Challenge to Western Theory. Chicago: University of Chicago Press.
+- Lynch, Owen (ed.). 1990. Divine Passions: The Social Construction of Emotion in India. Delhi: OUP.
+- Lynch, Owen. 2003. “Person.” In South Asian Folklore: An Encyclopedia, ed. Margaret A. Mills, Peter J. Claus, and Sarah Diamond, pp. 474–475. New York, London: Routledge.
+- Macdonald, Alexander W. 1975. “The Healer in the Nepalese World.” In Macdonald, Essays on the Ethnology of Nepal and South Asia, pp. 113–128. Kathmandu: Ratna Pustak Bhandar.
+- ———. 1976. “Preliminary Report on Some Jhãkri of Muglan.” In Hitchcock and Jones (ed.), Spirit Possession in the Nepal Himalayas, pp. 309–340.
+- Mageo, Jeannette Marie, and Alan Howard (ed.). 1996. Spirits in Culture, History, and Mind. New York and London: Routledge.
+- Mair, Victor. 1990. Tao Te Ching: The Classic Book of Integrity and the Way. New York: Bantam.
+- Malamoud, Charles. 2002. “A Body Made of Words and Poetic Meters.” In Self and Self-Transformation in the History of Religions, ed. David Shulman and Guy G. Stroumsa, pp. 19–28. Oxford, New York: OUP.
+- Maloney, Clarence. 1976. “Don’t Say ‘Pretty Baby’ Lest You Zap It With Your Eye—The Evil Eye in South Asia.” In The Evil Eye, ed. Clarence Maloney, pp. 102–148. New York: Columbia University Press.
+- ———. 1980. People of the Maldive Islands. New Delhi: Orient Longman.
+- Mann, Richard. 2003. “The Early Cult of Skanda in North India: From Demon to Divine Son.” Ph.D. diss., McMaster University.
+- ———. 2005. “Parthian and Hellenistic Influences on the Development of Skanda’s Cult in North India: Evidence from Kuṣāṇa Era Art and Coins.” Bulletin of the Asia Institute 15:111–128.
+- Marglin, Frédérique Apffel. 1985. Wives of the God-King. The Rituals of the Devadasis of Puri. Delhi: OUP.
+- Marks, Joel, and Roger T. Ames (ed.). 1995. Emotions in Asian Thought: A Dialogue in Comparative Philosophy. Albany: SUNY Press.
+- Marriott, McKim. 1976. “Hindu Transactions: Diversity Without Dualism.” In Transaction and Meaning: Directions in the Anthropology of Exchange and Symbolic Behavior, ed. Bruce Kapferer, pp. 109–142. Philadelphia: Institute for the Study of Human Issues.
+- ———. 1990. “Constructing an Indian Ethnosociology.” In India Through Hindu Categories, ed. McKim Marriott, pp. 1–39. New Delhi, Newbury Park, CA, and London: Sage.
+- Marriott, McKim, and Ronald Inden. 1977. “Toward an Ethnosociology of South Asian Caste Systems.” In The New Wind: Changing Identities in South Asia, ed. Ken David, pp. 227–238. The Hague: Mouton.
+- Martin, Dan. 1995. “‘Ol-mo lung-ring, the Original Holy Place.” Tibet Journal 20:48–82.
+- Maskarinec, Gregory G. 1998. Nepalese Shaman Oral Texts. Harvard Oriental Series 55. Cambridge, MA: Department of Sanskrit and Indian Studies, Harvard University.
+- Masson, J. M. (Moussaieff), and M. V. Patwardhan. 1969. Sāntarasa and Abhinavagupta’s Philosophy of Aesthetics. Poona: BORI.
+- ———. 1974. “Sex and Yoga: Psychoanalysis and the Indian Religious Experience.” Journal of Indian Philosophy 2:307–320.
+- ———. 1976. “The Psychology of the Ascetic.” Journal of Asian Studies 35.4:611–625. [Reprinted in Vaidyanathan and Kripal (ed.), Vishnu on Freud’s Desk, pp. 235–249.]
+- ———. 1993. My Father’s Guru: A Journey Through Spirituality and Disillusion. Reading, MA: Addison-Wesley.
+- Matory, James L. 1993. “Government by Seduction: History and Tropes of ‘Mounting’ in Oyo-Yoruba Religion.” In Modernity and its Malcontents: Ritual and Power in Postcolonial Africa, ed. Jean Comaroff and John Comaroff, pp. 58–85. Chicago: University of Chicago Press.
+- Maurer, Walter H. 1986. Pinnacles of India’s Past: Selections from the Ṛgveda. Amsterdam, Philadelphia: John Benjamins.
+- Mauss, Marcel. 1938. “Une catégorie de l’esprit humain: La notion de personne, celle de ‘moi.’” Journal of the Royal Anthropological Institute 68:4–28. Available at www.uqac.uquebec.ca/zone30/Classiques_des_sciences_sociales/classiques/mauss_marcel/socio_et_anthropo/5_Une_categorie/Une_categorie.html. [Trans. W. D. Halls as “A Category of the Human Mind: The Notion of Person; the Notion of Self,” in Carrithers et al. (ed.), The Category of the Person, pp. 1–25; reprinted in Mauss, Sociologie et anthropologie, 3rd ed. (Paris: Presses universitaires de France, 1966), pp. 331–361.]
+- Mayaram, Shail. 2000. “Spirit Possession: Reframing Discourses of the Self and Other.” In Assayag and Tarabout (ed.), La possession en Asie du sud, pp. 101–131.
+- ———. 2001. “Recent Anthropological Works on Spirit Possession.” Religious Studies Review 27.3:213–222.
+- Mayeda, Sengaku. 1979. A Thousand Teachings: The Upadeśasāhasrī of Śaṅkara. Tokyo: University of Tokyo Press.
+- Mayer, Robert. 1996. A Scripture of the Ancient Tantra Collection: The Phur-pa bcugnyis. Oxford: Kiscadale.
+- ———. 1998. “The Figure of Maheśvara/Rudra in the rÑiṇ-ma-pa Tantric Tradition.” Journal of the International Association of Buddhist Studies 21.2:271–310.
+- Mayes, Elizabeth. 1998. “The Fantasy of Internalization in the Theoretical Imaginary.” Representations 62:100–110.
+- Mayrhofer, Manfred. 1955. Kurzgefasstes etymologisches Wörterbuch des Altindischen, vol. 1. Heidelberg: Carl Winter Univertätsverlag.
+- McClintock, Wayne. 1990. “Demons and Ghosts in Indian Foklore.” Missiology: An International Review 18.1:37–47.
+- McCullough, William H. 1973. “Spirit Possession in the Heian Period.” In Studies in Japanese Culture 1, ed. Ōta Saburō and Fukuda Ritukarō, pp. 91–98. Tokyo: Japan PEN Club.
+- McDaniel, June. 1988. “Possession States among the Sāktas of West Bengal.” Journal of Ritual Studies 2.1:87–99.
+- ———. 1990. The Madness of the Saints: Ecstatic Religion in Bengal. Chicago: University of Chicago Press.
+- McGee, Mary. 1987. “Feasting and Fasting: The Vrata Tradition and Its Significance for Hindu Women.” Th.D. diss., Harvard University.
+- McHugh, James. 2000. “Netratantra Chapter 19, Introduction and Translation.” M.A. thesis, Oxford University.
+- McLean, Malcolm. 1997. Review of Kripal, Kālī’s Child. JAOS 117:571–572.
+- Meisezahl, R. O. 1962. “The Amoghapāśahṛdaya-dhāraṇi: The Early Sanskrit Manuscript of the Reiunji Critically Edited and Translated.” Monumenta Nipponica 17:265–328.
+- Melton, J. Gordon, Jerome Clark, and Aidan A. Kelly. 1990. New Age Encyclopedia. Detroit: Gale Research.
+- Menges, Karl Heinrich. 1989. “Aus dem animistisch-schamanistischen Wortschatz der Altajer.” In Gedanke und Wirkung: Festschrift zum 90. Geburtstag von Nikolaus Poppe, ed. W. Heissig and K. Sagaster, pp. 221–251. Wiesbaden: Harrassowitz, 1989.
+- Menzies, Robert. 2004. “Symbols of Suhāg: Paradigms of Women’s Empowerment in Hindu Women’s Domestic Stories.” Ph.D. diss., University of Iowa.
+- Merleau-Ponty, Maurice. 1962. The Phenomenology of Perception. London: Routledge and Paul.
+- Merz, Brigette. 1996. “Wild Goddesses and Mother of Us All: Some Preliminary Remarks on the Cult of the Goddess Hāratī in Nepal.” In Wild Goddesses in India and Nepal, ed. Axel Michaels, Cornelia Vogelsanger, and Annette Wilke, pp. 343–354. Bern: Peter Lang.
+- Meulenbeld, G. Jan. 1997. “Aspects of Indian Psychiatry.” History of Psychiatric Diagnoses. Proceedings of the 16th International Symposium on the Comparative History of Medicine—East and West, ed. Yosio Kawakita, Shizu Sakai, and Yasuo Otsuka, pp. 183–237. Tokyo: Ishiyaku EuroAmerica.
+- ———. 1999–2002. [HIML] History of Indian Medical Literature, vol. 1A Texts, vol. 1B Annotations, vol. 2A Texts, vol. 2B Annotations, vol. 3 Indexes. Groningen: Egbert Forsten.
+- Meyer, Eveline. 1986. Aṅkālaparamēcuvari. A Goddess of Tamilnadu, Her Myths and Cult. Beiträge zur Südasienforschung. Südasien-Institut, Universität Heidelberg, no. 107. Wiesbaden: Franz Steiner.
+- Meyer, J. J. 1937. Trilogie altindischer Mächte und Feste der Vegetation. 3 vols. Zürich: Max Niehans.
+- Miles, Jack. 1997. “Religion Makes a Comeback (Belief to Follow).” New York Times Magazine, December 7:56.
+- Minkowski, Christopher Z. 1991. Priesthood in Ancient India: A Study of the Maitrāvaruṇa Priest. Publications of the de Nobili Research Library 18. Vienna: Sammlung de Nobili.
+- Mishra, Shivdatt. 1971. Hanumad-Rahasyam. Varanasi: Thakur Prasad.
+- Miśra, Kedār Nāth. 1971. Tattvārthadīpanibandhaḥ, Hindi anuvāda. Varanasi: Bharatiya Vidyā Prakāsan.
+- Molesworth, J. T. 1857. A Dictionary of Maráṭhí and English. 2nd ed. Bombay: Bombay Education Society’s Press.
+- Monier-Williams, M. 1851. English-Sanskrit Dictionary. London: W. H. Allen.
+- ———. 1899. Sanskrit-English Dictionary. Oxford: Clarendon Press.
+- Moreno, Manuel. 1985. “God’s Forceful Call: Possession as a Divine Strategy.” In Waghorne and Cutler (ed.), Gods of Flesh/Gods of Stone, pp. 103–123.
+- Morris, Rosalind C. 2000. In the Place of Origins: Modernity and Its Mediums in Northern Thailand. Durham: Duke University Press.
+- Mukherjee, Prabhati. 1981. “Some Notes on Pancha–an Historical Enigma.” Journal of the Indian Anthropological Society 16.1:19–26.
+- Muller-Ortega, Paul Eduardo. 1989. The Triadic Heart of Śiva. Albany: SUNY Press.
+- ———. 1996. “Aspects of Jīvanmukti in the Tantric Saivism of Kashmir.” In Living Liberation in Hindu Thought, ed. Andrew O. Fort and Patricia Y. Mumme, pp. 187–217. Albany: SUNY Press.
+- Mumford, Stan Royal. 1989. Himalayan Dialogue: Tibetan Lamas and Gurung Shamans in Nepal. Madison: University of Wisconsin Press. [Reprint, Kathmandu: Tiwari’s Pilgrim’s Book House, 1990.]
+- Murphy, Jane M. 1976. “Psychiatric Labeling in Cross-Cultural Perspective.” Science 191:1019–1028.
+- Murthy, A. R. V., and R. H. Singh. 1987. “The Concept of Psychotherapy in Āyurveda with Special Reference to Satvavajaya.” Ancient Science of Life 6.4:255–261.
+- Nabokov, Isabelle. 2000. Religion Against the Self: An Ethnography of Tamil Rituals. New York: OUP.
+- Nagano, Sadako. 2000. “Sacrifice and the lha pa in the glu rol Festival of Rebskong.” In New Horizons in Bon Studies, ed. Samten G. Karmay and Yasuhiko Nagano, pp. 567–649. Osaka: National Museum of Ethnology.
+- Nagar, Shanti Lal. 1993. Varāha in Indian Art, Culture and Literature. New Delhi: Aryan Books International.
+- Nakamura Hajime  1975. Bukkyōgo daijiten  Tokyo: Tōkyō shoseki.
+- Nambiar, Balan. 1993. “Tāi Paradēvata: Ritual Impersonation in the Teyyam Tradition of Kerala.” In Brückner et al. (ed.), Flags of Flame, pp. 139–163.
+- Nambiar, Sita K. 1996. The Ritual Art of Teyyam and Bhutaradhane: Theatrical Performance and Spirit Mediumship. New Delhi: IGNCA and Navrang.
+- Nandi, R. N. 1994. “Tantra and Jainism.” In Jainism and Prakrit in Ancient and Medieval India, ed. N. N. Bhattacharya, pp. 389–398. New Delhi: Manohar.
+- Nandy, Ashis. 1983. The Intimate Enemy: Loss and Recovery of Self Under Colonialism. Delhi: OUP.
+- Nasir, Mumtaz. 1987. “Baiṭhak: Exorcism in Peshawar (Pakistan).” Asian Folklore Studies 46.2:159–178.
+- Nebesky-Wojkowitz, René de. 1956. Oracles and Demons of Tibet: The Cult and Iconography of the Tibetan Protective Deities. The Hague: Mouton.
+- Neff, Deborah Lyn. 1995. “Fertility and Power in a Kerala Serpent Ritual.” Ph.D. diss., University of Wisconsin.
+- Nelson, Lance. 1993. “Theism for the Masses, Non-dualism for the Monastic Elite: A Fresh Look at Śaṅkara’s Trans-theistic Spirituality.” In The Struggle over the Past: Fundamentalism in the Modern World, ed. William Shea, pp. 61–77. Latham, MD: University Press of America.
+- New Catalogus Catalogorum: An Alphabetical Register of Sanskrit and Allied Works and Authors. 1949–. University of Madras Sanskrit Department. Madras: University of Madras.
+- Newman, John. 1988. “Buddhist Sanskrit in the Kālacakra Tantra.” Journal of the International Association of Buddhist Studies 11.1:123–140.
+- Nickerson, Peter. 1996. “Taoism, Death, and Bureaucracy in Early Medieval China.” Ph.D. diss., University of California.
+- Norbeck, Edward. 1974. “The Anthropological Study of Human Play.” Rice University Studies 60.3:1–8.
+- ———. 1976. “Religion and Human Play.” In Bharati (ed.), The Realm of the Extra-Human, pp. 95–104.
+- Norton, Mary Beth. 2002. In the Devil’s Snare: The Salem Witchcraft Crisis of 1692. New York: Alfred A. Knopf.
+- Nourse, Jennifer. 1996. “The Voice of the Winds Versus the Masters of Cure: Contested Notions of Spirit Possession Among the Lauje of Sulawesi.” Journal of the Royal Anthropological Institute n.s. 2.3:425–442.
+- Nuckolls, Charles W. 1991a. “Deciding How to Decide: Possession-Mediumship in Jalari Divination.” Medical Anthropology 13:57–82.
+- ———. 1991b. “Becoming a Possession-Medium in South India: A Psychocultural Account.” Medical Anthropology Quarterly 5.1:62–77.
+- ———. 1997. “The Dynamics of Desire in Jalari Myth.” History of Religions 36.4:357–388.
+- Nussbaum, Martha C. 2001. Upheavals of Thought: The Intelligence of Emotions. Cambridge: Cambridge University Press.
+- Oberlies, Thomas. 1999. Die Religion des Ṛgveda, Zweiter Teil: Kompositionsanalyse der Soma-hymnen des Ṛgveda. Publications of the de Nobili Research Library. Vienna: University of Vienna.
+- Obermiller, E. E. 1989. “Ways of Studying Tibetan Medical Literature.” Tibetan Medicine 12:3–18.
+- Obeyesekere, Gananath. 1970. “The Idiom of Demonic Possession, a Case Study.” Social Science and Medicine 4:97–111.
+- ———. 1977. “Psychocultural Exegesis of a Case of Spirit Possession in Sri Lanka.” In Crapanzano and Garrison (ed.), Case Studies in Spirit Possession, pp. 235–294.
+- ———. 1981. Medusa’s Hair: An Essay on Personal Symbols and Religious Experience. Chicago: University of Chicago Press.
+- ———. 1984. The Cult of the Goddess Pattini. Chicago: University of Chicago Press.
+- Oertel, Hans. 1896. “The Jāiminīya or Talavakāra Upaniṣad Brāhmaṇa: Text, Translation, and Notes.” JAOS 16:79–260.
+- ———. 1908. “Contributions from the Jaiminīya Brāhmaṇa to the History of the Brāhmaṇa Literature.” JAOS 28.1:81–98.
+- Oesterreich, T. K. 1930. Possession, Demoniacal and Other, Among Primitive Races, in Antiquity, the Middle Ages and Modern Times. New York: Richard R. Smith.
+- O’Flaherty, Wendy Doniger. 1975. Hindu Myths: A Sourcebook Translated from the Sanskrit. Middlesex, UK: Penguin.
+- ———. 1981. The Rig Veda: An Anthology. Middlesex, UK: Penguin.
+- ———. 1985. Tales of Sex and Violence: Folklore, Sacrifice, and Danger in the Jaiminīya Brāhmaṇa. Chicago and London: University of Chicago Press.
+- Ojihara, Yutaka. 1984. “Sur un manuscrit médico-démonologique en provenance de Bāmiyān.” In Aṃrtadhārā: Professor R. N. Dandekar Felicitation Volume, ed. S. D. Joshi, pp. 301–311. Delhi: Ajanta Publications.
+- Oldenberg, Hermann. 1919. Vorwissenschaftliche Wissenschaft. Die Weltanschauung der Brāhmaṇa-Texte. Göttingen: Vandenhoek & Rupprecht.
+- ———. 1988. The Religion of the Veda. Trans. Shridhar B. Shrotri. Delhi: Motilal Banarsidass. [Originally published as Die Religion des Veda (1894).]
+- Olivelle, Patrick. 1992. Saṃnyāsa Upaniṣads: Hindu Scriptures on Asceticism and Renunciation. New York, Oxford: OUP.
+- ———. 1993. The Asrama System: The History and Hermeneutics of a Religious Institution. New York: OUP.
+- ———. 1998. The Early Upaniṣads: Annotated Text and Translation. New York, Oxford: OUP.
+- Olivelle, Patrick, with the editorial assistance of Suman Olivelle. 2005. Manu’s Code of Law: A Critical Edition of the Mānava-Dharmasāstra. Oxford, New York: OUP.
+- Olson, Robert F., and Masao Ichishima. 1979. “An English Translation of the Third Process of Meditative Actualization by Kamalaśīla.” Taishō Daigaku sōgō bukkyō kenkyūjo nenpō [Annual of the Institute for Comprehensive Studies of Buddhism, Taisho University] 1:241(17)–205(53).
+- Ong, Walter J. 1982. Orality and Literacy: The Technologizing of the Word. London and New York: Routledge.
+- Orofino, Giacomella. 1994a. “Divination with Mirrors. Observations on a Simile Found in the Kalacakra Literature.” In Tibetan Studies, ed. Per Kvaerne, vol. 2, pp. 612–628. Oslo: Institute for Comparative Research in Human Culture.
+- ———. 1994b. Sekoddesa. A Critical Edition of the Tibetan Translations, with an appendix “On the Sanskrit Text,” by Raniero Gnoli. Serie Orientale Roma 72. Rome: Istituto Italiano per il Medio ed Estremo Oriente.
+- Orsi, Robert. 2001. “Snakes Alive: Resuscitating the Moral in the Study of Religion.” In Women, Gender, Religion: A Reader, ed. Elizabeth A. Castelli with the assistance of Rosamond C. Rodman, pp. 98–118. New York: Palgrave.
+- Ortner, Sherry. 1978. Sherpas Through Their Rituals. Cambridge: Cambridge University Press.
+- Östör, Akos. 1980. The Play of the Gods: Locality, Ideology, Structure and Time in the Festivals of a Bengali Town. Chicago: University of Chicago Press.
+- Padoux, André. 1975. La Parātrīśikālaghuvṛtti de Abhinavagupta. Publications de l’Institute de civilisation indienne 38. Paris: Boccard.
+- ———. 1999. Review of Kripal, Kālī’s Child. Revue de l’histoire des religions 216.2: 241–243.
+- ———. 1999. “Transe, possession ou absorption mystique? L’āveśa selon quelques textes tantriques cachmiriens.” In Assayag and Tarabout (ed.), La possession en Asie du sud, pp. 133–147.
+- ———. 2002. “What Do We Mean by Tantrism?” In The Roots of Tantra, ed. Katherine Anne Harper and Robert L. Brown, pp. 17–24. Albany: SUNY Press.
+- Padoux, André (ed.). 1986. Mantras et diagrammes rituels dans l’Hindouisme. Paris: Centre National de la Recherche Scientifique.
+- Pakaslahti, Antti. 1998. “Family-Centered Treatment of Mental Health Problems at the Balaji Temple in Rajasthan.” In Changing Patterns of Family and Kinship in South Asia, ed. Asko Parpola and Sirpa Tenhunen. Studia Orientalia 84:129–166.
+- ———. 2005. “Traditional Healers as Culturally Accepted/Sanctioned Mental Health Practitioners.” In Mental Disorders in Children and Adolescents: Need and Strategies for Intervention, ed. Savita Malhotra, pp. 215–229. Delhi, Bangalore: CBS.
+- Palsule, G. B. 1967. “Sanskrit Vigraha: ‘Body, Form, Figure.” Indian Antiquary ser. 3, 2.3:9–13.
+- Paper, Jordan. 1995. The Spirits Are Drunk: Comparative Approaches to Chinese Religion. Albany: SUNY Press.
+- Parkinson, Edward J. 1991. “The Turn of the Screw: A History of Its Critical Interpretations, 1898–1979.” Ph.D. diss., St. Louis University.
+- Parpola, Asko. 1998. “Sāvitrī and Resurrection.” In Changing Patterns of Family and Kinship in South Asia, ed. Asko Parpola and Sirpa Tenhunen. Studia Orientalia 84:167–312.
+- ———. 2002. “ПANΔAIH and Sītā: On the Historical Background of the Sanskrit Epics.” JAOS 122.2:361–373.
+- Parry, Jonathan P. 1994. Death in Banaras. Cambridge, New Delhi: Cambridge University Press.
+- Parsons, William. 1997. “Psychoanalysis and Mysticism: The Case of Ramakrishna.” Religious Studies Review 23.4:355–361.
+- ———. 1999. “Freud’s Encounter with Hinduism: An Historical-Textual Overview.” In Vaidyanathan and Kripal (ed.), Vishnu on Freud’s Desk, pp. 41–80.
+- Patton, Laurie L. 1996a. Myth as Argument: The Bṛhaddevatā as Canonical Commentary. Berlin, New York: Walter de Gruyter.
+- ———. 1996b. Review of Kripal, Kālī’s Child. Journal of the History of Sexuality 7:287–289.
+- Perinbanayagam, R. S. 1982. The Karmic Theater: Self, Society, and Astrology in Jaffna. Amherst: University of Massachusetts Press.
+- Pesic, Peter. 2002. Seeing Double: Shared Identities in Physics, Philosophy, and Literature. Cambridge, MA, and London: MIT Press.
+- Pettigrew, Judith, and Yarjung Kromchhain Tamu (Gurung). 1994. “Tamu Shamanistic Possession (Khhlye Khhaba): Some Preliminary Ethnographic Observations.” In Anthropology of Nepal: Peoples, Problems, and Processes, ed. Michael Allen, pp. 416–422. Kathmandu: Mandala Book Point.
+- Pfleiderer, Beatrix, and Lothar Lutze. 1979. “Jagar—Therapeutic Vigil in Kumau.” In South Asian Digest of Regional Writing, vol. 8, Sources of Illness and Healing in South Asian Regional Literatures, ed. Beatrix Pfleiderer and Günther-Dietz Sontheimer, pp. 99–119. Heidelberg: South Asia Institute, University of Heidelberg.
+- Philostratus. 1970. Life of Apollonius. Trans. C. P. Jones, ed. G. W. Bowersock. Harmondsworth, UK: Penguin.
+- Pingree, David. 1994. Census of the Exact Sciences in Sanskrit, vol. 5. Philadelphia: American Philosophical Society.
+- Planalp, Jack M. 1956. “Religious Life and Values in a North Indian Village.” Ph.D. diss., Cornell University.
+- Pocock, David. 1992. “The Evil Eye.” In Religion in India, ed. T. N. Madan, pp. 50–62. Delhi: OUP. [Originally published in Pocock, Mind, Body, and Wealth: A Study of Belief and Practice in an Indian Village, pp. 25–40. Oxford: Basil Blackwell, 1973.]
+- Poleman, Horace I. 1938. A Census of Indic Manuscripts in the United States and Canada. American Oriental Series, vol. 12. New Haven: American Oriental Society.
+- Pollock, Sheldon I. 1990. “From Discourse of Ritual to Discourse of Power in Sanskrit Culture.” Journal of Ritual Studies 4.2:315–345.
+- ———. 1991. The Rāmāyaṇa of Vālmīki, An Epic of Ancient India. Volume III: Araṇyakāṇḍa. Princeton: Princeton University Press.
+- ———. 1993a. “Deep Orientalism? Notes on Sanskrit and Power Beyond the Raj.” In Breckenridge and van der Veer (ed.), Orientalism and the Postcolonial Predicament, pp. 76–133.
+- ———. 1993b. “Rāmāyaṇa and Political Imagination in India.” Journal of Asian Studies 52.2:261–297.
+- Prabhu, K. Sanjiva. 1977. Special Study Report on Bhuta Cult in South Kanara District. Census of India, 1971: Series 14: Mysore. Bangalore: Government of India Publications.
+- Proudfoot, Wayne. 1985. Religious Experience. Berkeley and Los Angeles: University of California Press.
+- Pugh, Judy F. 1983. “Astrological Counseling in Contemporary India.” Culture, Medicine, and Psychiatry 7:279–299.
+- Qvarnstrøm, Olle. 2000. “Jaina Tantra: Divinatory and Meditative Practices in the Twelfth-Century Yogaśāstra of Hemacandra.” In White (ed.), Tantra in Practice, pp. 595–604.
+- Raghavan, V. 1967. The Number of Rasas. Madras: Adyar Library and Research Centre.
+- ———. 1978. Bhoja’s Śṛṅgāra Prakāśa. Madras: Punarvasu.
+- ———. 1980. The Ramayana Tradition in Asia. New Delhi: Sahitya Akademi.
+- Raja, K. Kunjunni. 1991. “On the Dates of Śaṃkara and Maṇḍana.” Adyar Library Bulletin 55:104–118.
+- Rajagopalachar, K. (ed.). 1990. Descriptive Catalogue of Sanskrit Manuscripts. Volumes XVI–XVII: Tantra Mantra Sāstram. Mysore: Oriental Research Institute, University of Mysore.
+- Rajam, V. S. 1986. “Aṇaṅku: A Notion Semantically Reduced to Signify Female Sacred Power.” JAOS 106.2:257–272.
+- Ram, Kalpana. 1991. Mukkuvar Women: Gender, Hegemony and Capitalist Transformation in a South Indian Fishing Community. North Sydney, NSW, Australia: Allen & Unwin.
+- Raman, Bangalore Venkata. 1991. Prasna Mārga. 2 vols. Delhi: Motilal Banarsidass.
+- Ramanujan, A. K. 1981. Hymns for the Drowning: Poems for Viṣṇu by Nāmmāḻvār. Princeton: Princeton University Press.
+- ———. 1986a. “Two Realms of Kannada Folklore.” In Another Harmony: ‘New Essays on the Folklore of India, ed. Stuart Blackburn and A. K. Ramanujan, pp. 41–75. Berkeley and Los Angeles: University of California Press.
+- ———. 1986b. “On Women Saints.” In The Divine Consort: Rādhā and the Goddesses of India, ed. John Stratton Hawley and Donna Marie Wulff, pp. 316–324. Boston: Beacon Press.
+- ———. 1991. “Three Hundred Rāmāyaṇas: Five Examples and Three Thoughts on Translation.” In Many Rāmāyaṇas: The Diversity of a Narrative Tradition in South Asia, ed. Paula Richman, pp. 22–49. Berkeley: University of California Press.
+- ———. 1999. “The Indian Oedipus.” In Vaidyanathan and Kripal (ed.), Viṣṇu on Freud’s Desk, pp. 109–136. [Originally published in Oedipus: A Folklore Casebook, ed. Lowell Edmunds and Alan Dundes, pp. 234–261. New York: Garland, 1983.]
+- Ramaswamy, Sumathi. 1997. Passions of the Tongue: Language Devotion in Tamil India, 1891–1970. Berkeley and Los Angeles: University of California Press.
+- Ramaswamy, Vijaya. 1997. Walking Naked: Women, Society, and Spirituality in South India. Shimla: Indian Institute of Advanced Study.
+- Ransom, John S. 1997. Foucault’s Discipline: The Politics of Subjectivity. Durham: Duke University Press.
+- Reat, N. Ross. 1990. The Origins of Indian Psychology. Berkeley: Asian Humanities Press.
+- Reddy, Sita. 2000. “Reinventing Medical Traditions: The Professionialization of Āyurveda in Contemporary America.” Ph.D. diss., University of Pennsylvania.
+- Reiniche, Marie-Louise. 1979. Les dieux et les hommes: Etude des cultes d’un village du Tirunelveli. Paris and The Hague: Mouton.
+- Renou, Louis. 1939. “Les éléments védiques dans le vocabulaire du sanskrit classique.” Journal Asiatique 231:321–404.
+- ———. 1956. Etudes védiques et pāṇinéennes, vol. 2. Paris: Boccard.
+- ———. 1960. Le destin du Veda dans l’Inde. Etudes védiques et pāṇinéennes, vol. 6. Paris: Boccard. [Trans. Dev Raj Chanana as The Destiny of the Veda in India. Delhi: Motilal Banarsidass, 1965.]
+- Report on the Census of British India, Vol. I, 1881. 1883. London: Her Majesty’s Stationery Office.
+- Revathi, R. 2001. “They Dig Graves, Chew Human Bones & Dance the Night.” Sunday Pioneer [New Delhi] March 4:1, 4.
+- Rhys-Davids, T. W., and W. Stede. 1921. Pāli-English Dictionary. London: Pali Text Society.
+- Richardson, Hugh. 1993. Ceremonies of the Lhasa Year. Ed. Michael Aris. London: Serindia Publications.
+- Richman, Paula. 1991. Many Rāmāyaṇas: The Diversity of Narrative Tradition in South Asia. Berkeley: University of California Press.
+- Richmond, Farley, Darius Swann, and Philip Zarrilli (ed.). 1990. Indian Theater. Honolulu: University of Hawai‘i Press.
+- Rigopoulos, Antonio. 1993. The Life and Teachings of Sai Baba of Shirdi. Albany: SUNY Press.
+- Ripinsky-Naxon, Michael. 1993. The Nature of Shamanism: Substance and Function of a Religious Metaphor. Albany: SUNY Press.
+- Risley, H. H. 1891. Tribes and Castes of Bengal, Ethnographic Glossary, vol. 1. Calcutta: Bengal Secretariat Press.
+- Robinet, Isabelle. 1993. Taoist Meditation: The Mao-shan Tradition of Great Purity. Trans. Julian F. Pas and Norman J. Girardot. Albany: SUNY Press.
+- Rocher, Ludo. 1980. “Karma and Rebirth in the Dharmasāstras.” In Karma and Rebirth in Classical Indian Traditions, ed. Wendy Doniger O’Flaherty, pp. 61–89. Berkeley: University of California Press.
+- ———. 1986. The Purāṇas. History of Indian Literature II. 3. Ed. J. Gonda. Wiesbaden: Otto Harrassowitz.
+- Roçu, Arion. 1986. “Mantra et yantra en médicine et alchemie indiennes.” In Padoux (ed.), Mantras et diagrammes rituels dans l’Hindouisme, pp. 117–126.
+- Roebuck, Valerie. 2000. The Upaniṣads. New Delhi: Penguin Books.
+- Rorty, Richard. 1979. Philosophy and the Mirror of Nature. Princeton: Princeton University Press.
+- Rothenberg, Bonnie. 1996. Kṣemendra’s Bodhisattvāvadānakalpalatā: A Text-Critical Edition and Translation, Chapters One to Five. Delhi: Motilal Banarsidass.
+- Rouget, Gilbert. 1985. Music and Trance: A Theory of the Relations Between Music and Possession. Chicago: University of Chicago Press.
+- Ruben, Walter. 1940. “Schamanismus im alten Indien.” Acta Orientalia [Prague] 18:164–205.
+- Ruegg, David Seyfort. 1989. Buddha-Nature, Mind, and the Problem of Gradualism in a Comparative Perspective: On the Transmission and Reception of Buddhism in India and Tibet. London: School of Oriental and African Studies, University of London. Reprint, New Delhi: Heritage, 1992.
+- Rukmani, T. S. 1987. Yogavārttika of Vijñānabhikṣu: Text with English Translation and Critical Notes Along with the Text and English Translation of the Patañjala Yogasūtras and Vyāsabhāṣya. Vol. 3: Vibhutipāda. New Delhi: Munshiram Manoharlal.
+- Said, Edward. 1978. Orientalism. New York: Pantheon.
+- Saindon, Marcelle. 1995. “Le Pitṛkalpa du Harivaṃśa et son concept de pitṛ.” Journal Asiatique 283.1:90–120.
+- Salomon, Richard. 1989. “Daily Life in Ancient Mathurā.” In Mathurā. The Cultural Heritage, ed. Doris M. Srinivasan, pp. 38–45. Delhi: Manohar.
+- Samuel, Geoffrey. 1991. “Music and Shamanic Power in the Gesar Epic.” In Metaphor: a Musical Dimension, ed. Jamie Kassler, pp. 89-108. Sydney: Currency Press.
+- ———. 1993. Civilized Shamans: Buddhism in Tibetan Societies. Washington: Smithsonian Institution Press.
+- ———. 1994. “Gesar of Ling: Shamanic Power and Popular Religion.” In Tantra and Popular Religion in Tibet, ed. Geoffrey Samuel, Hamish Gregor, and Elisabeth Stutchbury, pp. 53–78. New Delhi: International Academy of Indian Culture and Aditya Prakashan.
+- ———. 2000. “The Indus Valley Civilization and Early Tibet.” In New Horizons in Bön Studies, ed. Samten G. Karmay and Yasuhiko Nagano, pp. 651–670. Osaka: National Museum of Ethnology.
+- ———. 2005. “Ge-sar of gLing: The Origins and Meanings of the East Tibetan Epic.” In Geoffrey Samuel, Tantric Revisionings: New Understandings of Tibetan Buddhism and Indian Religion, pp. 165–191. Delhi: Motilal Banarsidass.
+- Sanderson, Alexis. 1985. “Purity and Power among the Brahmans of Kashmir.” In Carrithers et al. (ed.), The Category of the Person, pp. 190–216.
+- ———. 1986. “Maṇḍala and Āgamic Identity in the Trika of Kashmir.” In Padoux (ed.), Mantras et diagrammes rituels dans l’Hindouisme, pp. 169–219.
+- ———. 1988. “Saivism and the Tantric Tradition.” In The World’s Religions, ed. Stewart Sutherland, Leslie Houlden, Peter Clarke, and Friedhelm Hardy, pp. 660–704. London: Routledge.
+- ———. 1994. “Vajrayāna: Origin and Function.” In Buddhism into the Year 2000. International Conference Proceedings, pp. 87–102. Bangkok and Los Angeles: Dhammakaya Foundation.
+- ———. 2001. “History Through Textual Criticism in the Study of Saivism, the Pañcarātra and the Buddhist Yoginītantras.” In Les sources et le temps / Sources and Time. A Colloquium, Pondicherry, 11–13 January 1997, ed. François Grimal, pp. 1–47. Pondicherry: Ecole française d’Extrême Orient.
+- ———. 2002. “Remarks on the Text of the Kubjikāmatatantra.” IIJ 45:1–24.
+- Sarbacker, Stuart. 2001. “The Concept of Samādhi: Method and the Study of Meditation in South Asian Religion.” Ph.D. diss., University of Wisconsin. Now published in revised form: Samādhi: The Numinous and Cessative in Indo-Tibetan Yoga. Albany: SUNY Press, 2005.
+- Sax, William. 1991a. Mountain Goddess: Gender and Politics in a Himalayan Pilgrimage. New York, Oxford: OUP.
+- ———. 1991b. “Ritual and Performance in the Pāṇḍavalīlā of Garhwal.” In Essays on the Mahābhārata, ed. Arvind Sharma, pp. 274–295. Leiden: Brill.
+- ———. 1995. “Who’s Who in the Pāṇḍav Līlā.” In The Gods at Play: Līlā in South Asia, ed. William Sax, pp. 131–155. New York: OUP.
+- ———. 1996. “Draupadī and Kuntī in the Pāṇḍav līlā.” In The Wild Goddess in India and Nepal, ed. Axel Michaels and Cornelia Vogelsanger, pp. 355–381. Zürich: Studia Religiosa Helvetica.
+- ———. 2002. Dancing the Self: Personhood and Performance in the Pāṇḍav Līlā of Garhwal. New York, Oxford: OUP.
+- Schayer, Stanislov. 1925. “Die Struktur der magischen Weltanschauung nach dem Atharva-Veda und den Brāhmāṇa-Texten.” Zeitschrift für Buddhismus 6:259–299.
+- Schenk, Amelie. 1993. “Inducing Travel.” In Anthropology of Tibet and the Himalayas, ed. Charles Ramble and Martin Brauer, pp. 331–342. Zürich: Ethnological Museum of the University of Zürich.
+- Schipper, Kristofer. 1993. The Taoist Body. Trans. Karen C. Duval. Berkeley and Los Angeles: University of California Press.
+- Schmidt, Hanns-Peter. 1968. Bṛhaspati und Indra: Untersuchungen zur vedischen Mythologie und Kulturgeschichte. Wiesbaden: Otto Harrassowitz.
+- Schmithausen, Lambert. 1987. Alayavijñana: On the Origin and the Early Development of a Central Concept of Yogācāra Philosophy. Tokyo: International Institute for Buddhist Studies.
+- Schoembucher, Elisabeth. 1993. “Gods, Ghosts, and Demons: Possession in South Asia.” In Brückner et al. (ed.), Flags of Flame, pp. 239–267.
+- Schopen, Gregory. 1991. “Archaeology and Protestant Presuppositions in the Study of Indian Buddhism.” History of Religions 31.1:1–23.
+- Scott, A. O. 2005. Review of “The Exorcism of Emily Rose.” New York Times, September 9:B6.
+- Scott, David. 1994. Formations of Ritual: Colonial and Anthropological Discourses on the Sinhala Yaktovil. Minneapolis: University of Minnesota Press.
+- Seidel, Anna. 1987. “Post-Mortem Immortality or: The Taoist Resurrection of the Body.” In Gilgul: Essays on Transformation, Revolution and Permanence in the History of Religions. ed. S. Shaked, D. Shulman, and G. G. Stroumsa, pp. 223–237. Studies in the History of Religions (Supplements to Numen). Leiden: Brill.
+- Seligmann, C. G., and Brenda Seligmann. 1911. The Veddas. Cambridge: Cambridge University Press.
+- Sen, Madhu. 1975. A Cultural History of the Niśītha Cūrṇi. Amritsar: Sohanlal Jaindharma Pracharak Samiti.
+- Sen, Sukumar. 1971. An Etymological Dictionary of Bengali: c. 1000–1800 A.D. Calcutta: Eastern Publishers.
+- Seyller, John. 2001. Pearls of the Parrot of India: The Walters Art Museum Khamsa of Amir Khusraw of Delhi. Baltimore: Walters Art Museum.
+- Shankar, Darshan, and P. M. Unnikrishnan. 2004. Challenging the Indian Medical Heritage. Ahmedabad: Centre for Environment Education.
+- Sharf, Robert H. 1995. “Buddhist Modernism and the Rhetoric of Meditative Experience.” Numen 42:228–283.
+- ———. 1998. “Experience.” In Taylor (ed.), Critical Terms for Religious Studies, pp. 94–116.
+- Sharma, Priyavrat. 1972. Indian Medicine in the Classical Age. Chowkhamba Sanskrit Series 85. Benares: Chowkhamba Sanskrit Series Office.
+- Sharp, Leslie A. 1993. The Possessed and the Dispossessed: Spirits, Identity and Power in a Madagascar Migrant Town. Berkeley and Los Angeles: University of California Press.
+- Shastri, Ajaya Mitra. 1962. “Bhaṭṭotpala: His Date, Life, and Writings.” Indian Historical Quarterly 38.4:247–259.
+- ———. 1995. Inscriptions of the Śarabhapurīyas, Pāṇḍuvaṃśins and Somavaṃśins. 2 vols. New Delhi: Indian Council of Historical Research, and Delhi: Motilal Banarsidass.
+- Sheets-Johnstone, Maxine (ed.). 1992. Giving the Body Its Due. Albany: SUNY Press.
+- Shirokogoroff, Sergei M. 1935. Psychomental Complex of the Tungus. London: K. Paul, Trench, Trubner.
+- Shukla, K. P. 1980. Traditional Healers in Community Health. Varanasi: Gomati Krishna.
+- Shulman, David. 1981. Tamil Temple Myths: Sacrifice and Divine Marriage in the South Indian Śaiva Tradition. Princeton: Princeton University Press.
+- ———. 1991. “The Yogi’s Human Self: Tāyumāṉavar in the Tamil Mystical Tradition.” Religion 21:51–72.
+- ———. 1994. “On Being Human in the Sanskrit Epic: The Riddle of Nala.” Journal of Indian Philosophy 22:1–29.
+- ———. 2002. “Tirukkovaiyār: Downstream into God.” In Self and Self-Transformation in the History of Religions, ed. David Shulman and Guy G. Stroumsa, pp. 131–149. Oxford, New York: OUP.
+- Siikala, Anna-Leena. 1982. “The Siberian Shaman’s Technique of Ecstasy.” In Holm (ed.), Religious Ecstasy, pp. 103–121.
+- Sil, Narasingha. 1991. Ramakrishna Paramahamsa: A Psychological Profile. Leiden: Brill.
+- Silburn, Lilian. 1988. Kuṇḍalinī: Energy of the Depths. Albany: SUNY Press.
+- Silburn, Lilian, and André Padoux. 1998. La lumière sur les Tantras: Le Tantrāloka d’Abhinavagupta, chapitres 1 à 5. Collège de France, Publications de l’Institut de civilisation indienne, no. 66. Paris: Boccard.
+- Simons, Ronald C., Frank R. Ervin, and Raymond H. Prince. 1988. “The Psychobiology of Trance, I: Training for Thaipusam.” Transcultural Psychiatric Research Review 25:249–266.
+- Singer, Milton. 1984. Man’s Glassy Essence: Explorations in Semiotic Anthropology. Bloomington: Indiana University Press.
+- Singh, Jaideva. 1963. Pratyabhijñāhṛdayam, Saṃskṛta Text with English Translation and Notes. Delhi: Motilal Banarsidass.
+- ———. 1979. Vijñanabhairava or Divine Consciousness. Delhi: Motilal Banarsidass.
+- Sinh Jee, Bhagvat. 1896. A Short History of Aryan Medical Science. London: Macmillan.
+- Sinha, Jadunath. 1961. Indian Psychology: Emotion and Will. Calcutta: Sinha.
+- Śivadāsa. 1995. The Five-and-Twenty Tales of the Genie (Vetalapañcavinsati). Trans. Chandra Rajan. New Delhi: Penguin.
+- Skorupski, Tadeusz. 1983. The Sarvadurgatiparisodhana Tantra: Elimination of All Evil Destinies. Delhi: Motilal Banarsidass.
+- Slater, Lauren. 2003. “The Cruelest Cure.” New York Times Magazine, November 2:34–37.
+- Smith, Brian K. 1989. Reflections on Resemblance, Ritual, and Religion. New York, Oxford: OUP.
+- ———. 1994. Classifying the Universe: The Ancient Indian Varṇa System and the Origins of Caste. New York, Oxford: OUP.
+- Smith, David. 1996. The Dance of Śiva. Cambridge: Cambridge University Press.
+- Smith, Frederick M. 1987. The Vedic Sacrifice in Transition: A Translation and Study of the Trikāṇḍamaṇḍana of Bhāskara Miśra. Poona: BORI.
+- ———. 1994. “Purāṇaveda.” In Arguing the Vedas, ed. Laurie Patton, pp. 97–139. Albany: SUNY Press.
+- ———. 1995. Review of Heesterman, The Broken World of Sacrifice. Journal of Ritual Studies 9.2:145–149.
+- ———. 1998a. “Nirodha and the Nirodhalakṣaṇam of Vallabhācārya.” Journal of Indian Philosophy 29.6:589–651.
+- ———. 1998b. “Notes on the Development of Bhakti.” Journal of Vaiṣṇava Studies 6.1:17–36.
+- ———. 2001a. “The Current State of Possession Studies as a Cross-Disciplinary Project.” Religious Studies Review 27.3:203–212.
+- ———. 2001b. “The Recent History of Vedic Ritual in Maharashtra.” In Vidyārṇavavadanam. Essays in Honour of Asko Parpola, ed. Klaus Karttunen and Petteri Koskikallio. Studia Orientalia 94:443–63.
+- ———. 2004. “Possession as an Intermedial Event.” In Intermedia: Threshold States, ed. Hans Breder and Klaus-Peter Busse, pp. 122–130. Dortmund: Universität Dortmund Press.
+- ———. 2005. “The Hierarchy of Philosophical Systems According to Vallabhācārya.” Journal of Indian Philosophy 33.4: 421–453.
+- Smith, Frederick M., and S. J. Carri. 1994. “The Identity and Significance of the valmīkavapā in the Vedic Sacrificial Ritual.” IIJ 38.1:30–61.
+- Smith, John D. 1980. “Old Indian: The Two Sanskrit Epics.” In Traditions of Heroic and Epic Poetry, I: The Traditions, ed. A. T. Hatto, pp. 48–78. London: Humanities Research Association.
+- Smith, William L. 1980. The One-Eyed Goddess: A Study of the Manasā Maṅgal. Stockholm: Almqvist & Wiksell International.
+- ———. 1995. “Changing Bodies. The Mechanics of the Metamorphic Curse.” Acta Orientalia [Netherlands]:125–143.
+- Snell, Bruno. 1953. The Discovery of the Mind: The Greek Origins of European Thought. Trans. T. G. Rosenmeyer. Cambridge: Harvard University Press.
+- Snellgrove, David. 1987. Indo-Tibetan Buddhism: Indian Buddhists and Their Tibetan Successors. Boston & London: Serindia.
+- Solomon, Robert C. 1995. “The Cross-Cultural Comparison of Emotions.” In Marks and Ames (ed.), Emotions in Asian Thought, pp. 253–300.
+- Sontheimer, Günther-Dietz. 1965. “Religious Endowments in India: The Juristic Personality of Hindu Deities.” Zeitschrift für vergleichende Rechtswissenschaft 67:45–100. [Reprinted in Günther-Dietz Sontheimer, Essays on Religion, Literature, and Law, ed. Heidrun Brückner, Anne Feldhaus, and Aditya Malik, pp. 15–68. New Delhi: IGNCA and Manohar, 2004.]
+- ———. 1989a. “Between Ghost and God: A Folk Deity of the Deccan.” In Hiltebeitel (ed.), Criminal Gods and Demon Devotees, pp. 299–337.
+- ———. 1989b. Pastoral Deities in Western India. Trans. Anne Feldhaus. New York: OUP. [Originally published as Birobā, Mhaskobā, und Khaṇḍobā: Ursprung, Geschichte und Umwelt von Pastoralen Gottheiten in Mahārāṣṭra. Wiesbaden: Franz Steiner Verlag, 1976.]
+- ———. 1995. “The Folk Festival (Jatra) in the Religious Traditions of Maharashtra: the Case of Khaṇḍobā.” In Folk Culture, Folk Religion and Oral Traditions as a Component in Maharashtrian Culture, ed. Günther-Dietz Sontheimer, pp. 129–145. New Delhi: Manohar.
+- ———. 1997. King of Hunters, Warriors, and Shepherds: Essays on Khaṇḍobā. Ed. Anne Feldhaus, Aditya Malik, and Heidrun Brückner. New Delhi: IGNCA; New Delhi: Manohar.
+- Sopa, Ven. Geshe Lhundub, Ven. Elvin W. Jones, and John Newman. 1998. The Stages of Meditation, Middle Volume (Bhāvanākrama II). Madison, WI: Deer Park Books.
+- Sprockhoff, J. F. 1976. Saṃnyāsa: Quellenstudien zur Askese in Hinduismus. I–Untersuchungen über die Saṃnyāsa-Upaniṣads. Abhandlungen für die Kunde des Morgenlandes 42,1. Wiesbaden: Franz Steiner.
+- ———. 1979. “Die Alten in alten Indien: Ein Versuch nach brahmanischen Quellen.” Saeculum 20:374–433.
+- Speziale, Fabrizio. 2002. “Soufisme et sciences médicales en Inde.” Ph.D. diss., Ecole des Hautes Etudes en Sciences Sociales.
+- Śrīmālī, Rādhā Kṛṣṇa. n.d. Hanumān-Upāsanā. New Delhi: Diamond Pocket Books.
+- Srinivas, Smriti. 1998. The Mouths of People, the Voice of God: Buddhists and Muslims in a Frontier Community of Ladakh. Delhi: OUP.
+- Staal, J. F. (Frits). 1963. “Sanskrit and Sanskritization.” Journal of Asian Studies 22:261–275.
+- ———. 1983. Agni: The Vedic Ritual of the Fire Altar, vols. 1 and 2. Berkeley: Asian Humanities Press.
+- ———. 1990a. Rules Without Meaning: Ritual, Mantras and the Human Sciences. New York: Peter Lang.
+- ———. 1990b. “The Lake of the Yakṣa Chief.” In Indo-Tibetan Studies: Papers in Honour and Appreciation of Professor David. L. Snellgrove’s Contribution to Indo-Tibetan Studies, ed. Tadeusz Skorupski, pp. 275–291. Buddhica Britannica, Series Continua II. Trung, UK: Institute of Buddhist Studies.
+- ———. 1993. “Indian Bodies.” In Kasulis et al. (ed.), Self as Body in Asian Theory and Practice, pp. 59–102.
+- ———. 2001. “How a Psychoactive Substance Becomes a Ritual: The Case of Soma.” Social Research 78.3:745–778.
+- Stablein, William. 1976. “Mahākāla the Neo-Shaman–Master of the Ritual.” In Hitchcock and Jones (ed.), Spirit Possession in the Nepal Himalayas, pp. 361–375.
+- Stanley, John M. 1977. “Special Time, Special Power: The Fluidity of Power in a Popular Hindu Festival.” Journal of Asian Studies 37.1:27–43.
+- ———. 1988. “Gods, Ghosts, and Possession.” In The Experience of Hinduism: Essays on Religion in Maharashtra, ed. Eleanor Zelliot and Maxine Berntsen, pp. 26–59. Albany: SUNY Press.
+- Stein, Rolf A. 1995. “La soumission de Rudra et autres contes tantrique.” Journal Asiatique 283.1:121–160.
+- Stephens, Walter. 2003. Demon Lovers: Witchcraft, Sex, and the Crisis of Belief. Chicago: University of Chicago Press.
+- Stewart, Tony. 1995. “The Exemplary Devotion of the ‘Servant of Hari.’” In Religions of India in Practice, ed. Donald S. Lopez, Jr., pp. 564–577. Princeton: Princeton University Press.
+- Stoller, Paul. 1998. “Rationality.” In Taylor (ed.), Critical Terms for Religious Studies, pp. 239–255.
+- Stoller, Paul, and Cheryl Olkes. 1987. In Sorcery’s Shadow: A Memoir of Apprenticeship Among the Songhay of Niger. Chicago and London: University of Chicago Press.
+- Strickmann, Michel. 1983, 1985. Tantric and Taoist Studies in Honour of R. A. Stein, vols. 2 and 3. Brussels: Institut Belge des Hautes Etudes Chinoises.
+- ———. 1996. Mantras et mandarins: Le bouddhisme tantrique en Chine. Paris: Gallimard.
+- ———. 2002. Chinese Magical Medicine. Ed. Bernard Faure. Stanford: Stanford University Press.
+- Sukla, Vidyādhara. 1985 (Saṃ. 2042). Āyurvedaśāstre Bhūtavidyāyāḥ Saṃvīkṣaṇātmakam Adhyayanam. Sarasvatībhavana-adhyayanamālā 34. Vārāṇasī: Saṃpūrṇānandasaṃskṛta-viśvavidyālaya.
+- Sutherland, Gail Hinich. 1991. The Disguises of the Demon: The Development of the Yakṣa in Hinduism and Buddhism. Albany: SUNY Press.
+- Svoboda, Robert E. 1986. Aghora: At the Left Hand of God. Albuquerque: Brotherhood of Life.
+- Sweetman, Will. 2003. Mapping Hinduism: ‘Hinduism’ and the Study of Indian Religions 1600–1776. Halle: Verlag der Frankeschen Stiftungen zu Halle.
+- Tachikawa, Musashi. 2000. “Mandala Visualization and Possession.” In New Horizons in Bön Studies, ed. Samten G. Karmay and Yasuhiko Nagano, pp. 227–247. Osaka: National Museum of Ethnology.
+- Tagare, G. V. 1997. The Skanda-Purāṇa, Part XI. Ancient Indian Tradition and Mythology, vol. 59. General editor, G. P. Bhatt. Delhi: Motilal Banarsidass.
+- Tagliabue, John. 1999. “Shoring Up Satan, Closing Limbo.” New York Times, January 31: (Week in Review) 4.
+- Takakusu Junjiro  ed. 1922–33. Taishō shinshū daizōkyō  85 vols. Tokyo: Daizō shuppan kai. [Cited as T.]
+- Tambiah, Stanley J. 1970. Buddhism and the Spirit Cults in North-East Thailand. Cambridge: Cambridge University Press.
+- ———. 1990. Magic, Science, Religion and the Scope of Rationality. Cambridge: Cambridge University Press.
+- Tarabout, Gilles. 1986. Sacrifier et donner à voir en pays Malabar. Les fêtes de temple au Kerala (Inde du Sud): étude anthropologique. Paris: Etude française d’Extrême-Orient.
+- ———. 2003. “Magical Violence and Non-Violence: Witchcraft in Kerala.” In Violence and Non-Violence: Some Hindu Perspectives, ed. Denis Vidal, Gilles Tarabout, and Eric Meyer, pp. 219–254. New Delhi: Manohar.
+- Taussig, Michael. 1987. Shamanism, Colonialism, and the Wild Man: A Study in Terror and Healing. Chicago: University of Chicago Press.
+- Tawney, C. H. 1901. The Prabandhacintāmaṇi, or Wishing-Stone of Narratives. Calcutta: Asiatic Society.
+- Taylor, Kathleen. 2001. Sir John Woodroffe, Tantra and Bengal: ‘An Indian Soul in a European Body?’ Richmond, Surrey, UK: Curzon Press.
+- Taylor, Mark C. 1998a. “Introduction.” In Taylor (ed.), Critical Terms for Religious Studies, pp. 1–19.
+- Taylor, Mark C. (ed.). 1998b. Critical Terms for Religious Studies. Chicago: University of Chicago Press.
+- Teiser, Stephen F. 1988. The Ghost Festival in Medieval China. Princeton: Princeton University Press.
+- Tezuka, Osamu. 2003. Buddha Vol. 1: Kapilavastu. New York: Vertical.
+- Thakur, Laxman S. 2001. Buddhism in the Western Himalayas. New Delhi: OUP.
+- Thite, G. U. 1982. Medicine. Its Magico-Religious Aspects According to the Vedic and Later Literature. Poona: Continental Prakashan.
+- ———. 1997. Music in the Vedas: Its Magico-Religious Significance. Delhi: Sharada Publishing House.
+- Thomas, Keith. 1977. Religion and the Decline of Magic: Studies in Popular Beliefs in Sixteenth- and Seventeenth-Century England. London: Penguin.
+- Thompson, George. 1997. “Ahaṃkāra and Atmastuti: Self-Assertion and Impersonation in the Ṛgveda.” History of Religions 37.2:141–172.
+- ———. 2003. “Soma and Ecstasy in the Ṛgveda.” Electronic Journal of Vedic Studies 9.1 (http://users.primushost.com/~india/ejvs/ejvs0901/ejvs0901e.txt).
+- Thrasher, Allen. 1979. “The Dates of Maṇḍana Miśra and Śaṃkara.” Wiener Zeitschrift für des Kunde Süd- und Östasiens 23:117–140.
+- Tieken, Herman J. H. 2001. Kāvya in South India: Old Tamil Caṇkam Poetry. Gonda Indological Studies 10. Groningen: Egbert Forsten.
+- Timm, Jeffrey R. 1985. “God, Language, and Revelation: The Tattvārthadipanibandha of Vallabhācārya.” Ph.D. diss., Temple University.
+- Torella, Raffaele. 1994. The Īśvarapratyabhijñākārikā of Utpaladeva with the Author’s Vṛtti: Critical Edition and Annotated Translation. Serie Orientale Roma 71. Rome: Istituto Italiano per il Medio ed Estremo Oriente.
+- Trautmann, Thomas R. 1997. Aryans and British India. Berkeley and Los Angeles: University of California Press.
+- Trawick, Margaret. 1992. “Death and Nurturance in Indian Systems of Healing.” In Paths to Asian Medical Knowledge, ed. Charles Leslie and Allan Young, pp. 129–159. Berkeley and Los Angeles: University of California Press.
+- Trenckner, V., H. Smith, D. Andersen, et al. 1948–90. A Critical Pali Dictionary. Copenhagen: Royal Danish Academy of Sciences and Letters.
+- Troisi, J. 1976. The Santals: A Classified and Annotated Bibliography. New Delhi: Manohar.
+- Tsai, Yi-jia. 2003. “The Reformative Visions of Mediumship in Contemporary Taiwan.” Ph.D. diss., Rice University.
+- ———. 2004. “The Writing of History: The Religious Practices of the Mediums’ Association in Taiwan.” Taiwan Journal of Anthropology 2.2:43–80.
+- Tsarong, Tsawang Jigme, Drakton Jampa Gyaltsen, and Lobsang Choephel, rev. Lobsang Tsultrim and Tenzin Dakpa. 2001. Fundamentals of Tibetan Medicine. 4th rev. ed. Dharmasala: Men-Tsee-Khang.
+- Tucci, Guiseppe. 1958. Minor Buddhist Texts. Part II: First Bhāvanākrama of Kamalaśīla. Sanskrit and Tibetan Texts with Introduction and English Summary. Rome: Istituto Italiano per il Medio ed Estremo Oriente.

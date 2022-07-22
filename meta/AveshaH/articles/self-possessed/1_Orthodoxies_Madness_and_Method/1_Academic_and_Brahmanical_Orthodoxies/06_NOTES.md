@@ -1,0 +1,37 @@
++++
+title = "06 NOTES"
+
++++
+39. Erndl 1996:178. See Daniel 1984:227 on the impossibility of studying a culture in its own terms, but for its own terms. We must keep Daniel’s caveat in mind throughout this study.
+40. Eliade 1969:339, also 320; cf. Eliade 1964:411ff.
+41. Eliade 1969:339; Lewis 1989.
+42. In a different context, Benz (1972) distinguishes between emotion (Ergriffenheit) and frenzy or spirit possession (Besessenheit). Ergriffenheit indicates blessing, healing, renewal, while Besessenheit indicates malevolent and destructive possession); cited by Schoembucher 1993:241–42.
+43. Fuller 1992:231.
+44. I explore the vocabulary and senses of possession in both their “microstructures” and “macrostructures,” as elucidated by Gonda 1962: “There are ‘microstructures’: ‘meanings’ which are complex, consisting of semantic aspects, grouped round a ‘kernel’; there are also ‘macrostructures’ or ‘fields’ composed of groups of words which are in some way or other—morphologically, notionally, etc.—more closely associated” (p. 245); also Gonda 1970a:177–178.
+45. I cannot treat this fully this here, so it must be reserved for a future article. But see, e.g., BhP 4.7.26, cinmātram; 5.12.11, jñānaṃ viśuddham; 5.19.4, viśuddhānubhavamātram; 8.18.12, avyaktacit; 10.51.57, jñaptimātram.
+46. Were I to struggle for a definition of consciousness in the present context, I would begin by revisiting the discussion of over a century ago by William James in Varieties of Religious Experience (1958:140–156), in which he considers it an open-ended, responsive, and adaptive mental activity.
+47. The philosophical analysis of consciousness is problematized differently in the fields of neurophysiology and cognitive science. The questions raised by neurobiologists ultimately involve behavioral and cognitive function. But, asks David Chalmers, a cognitive scientist, why is it necessary for these functions to be accompanied by conscious experience? This question remains unanswered, but the issues it raises are now being addressed by physicists, neuropsychologists, geneticists, information theorists, and an array of metaphysicians. Chalmers (1997) sees an explanatory gap between physical processes and consciousness, which, he posits, may be negated (if not closed) by considering consciousness as an independent, irreducible, fundamental property in a final “theory of everything.” As such, awareness would be defined as physical and objective, while its psychophysical counterpart, consciousness, would not. See also Black, Flanagan, and Güzeldere 1996.
+    I should acknowledge that “states of consciousness” have different constructions in the contexts of South Asian philosophical and religious textuality: deep sleep, dream, waking, or, in the Upaniṣads and elsewhere, turīya, a fourth transcendent state. It has also been construed as a momentary finite unit connected by time or innate tendency. Elsewhere it has been regarded as identical with thought, with the thinking I; as the central product of embodiment; as an event connected with embodiment but not necessarily limited to it, and so on. Much modern anthropological and philosophical reflection on the term draws on Merleau-Ponty’s now rather quaint view (1962) that consciousness derives from embodiment. As noted in the previous paragraph, the questions asked today are nuanced differently.
+48. Taylor 1998a.
+49. Winquist states, in partial introduction to his article in that volume on the concept of person: “It is a commonplace in scholarship to recognize that words, ideas, or concepts are embedded in historical and cultural settings and cannot be isolated or abstracted without being misplaced, or translated without accounting for the transformation of or the difference in the cultural milieu into which the word is rendered or onto which it is inscribed” (1998:225).
+50. Halbfass 1988:388–402.
+51. Proudfoot 1985; Sharf 1995, 1998.
+52. Sharf 1998:111.
+53. Cf., e.g., Yogasūtras 1.11, 4.4, and Vyāsa’s commentary. Opposed to this is, e.g., Chāndogya Upaniṣad 7.26.2. For a good description of memory in brahmanical thought, see Caraka Saṃhitā, Śārīrasthāna 1.148–151.
+54. Sharf writes elsewhere: “The notion that the term ‘experience’ is self-evident betrays a set of specifically Cartesian assumptions, according to which experience is held to be immediately present to consciousness. It would appear that the phenomenological transparency of consciousness—what Richard Rorty has called the ‘glassy essence’ or ‘mirror of nature’ picture of mind (Rorty 1979)—is reproduced in the conceptual transparency of the category ‘experience,’ obviating the need for definitional precision or critical analysis” (1995:229).
+55. Mauss 1938 [1966]. The volume in which the English translation appears, in The Category of the Person, ed. Carrithers et al., is dedicated to unpacking the legacy of Mauss’s essay and includes one article dedicated to the “person” in South Asia (Sanderson 1985:190–216). Less Indological, but more anthropologically informed, is Carrithers (1985:234–256).
+56. Critiqued by Allen, in Carrithers et al. 1985:26–45. See also Lynch: “it suffers from its evolutionary framework, which can be read as putting the Western idea of the fully individualized self as the height of progress, rather than as a different idea of the self” (2003:474).
+57. Translation of Mauss 1938 by W. D. Hall in Carrithers et al. 1985. This deceptively simple statement may be used to counter in part the tired (and tiresome) idea, caricatured from Dumont, that Indians have little or no independent self-identity, only a corporate or systemic reflexivity.
+58. Sanderson comments on Mauss: “What is striking in his cursory treatment is not so much his evolutionism as the inadequacy of his evidence and his lack of sociological and historical perspective” (1985:190).
+59. Mauss 1938:18.
+60. See Shulman 1994:26f. I address Shulman’s views more fully in dealing with the Mahābhārata in Chapter 6.
+61. This is explored more extensively below; cf. Marriott 1976.
+62. Csordas 1994:14.
+63. Winquist 1998:229.
+64. On ātman (self), its relation with nara (person), and its use dialogically by Abhinavagupta, see Dupuche 2001.
+65. See Larson and Bhattacharya 1987:73f.
+66. Cf. Kaṭha Upaniṣad, 4.12,13, 6.17; Śvetāśvatara Up. 5.8; etc.
+67. Gonda 1965:266.
+68. Collins 1982:160, 172, for mention of an ‘inner soul” (abbhantare jīva), used conventionally, in the Milinda Pañha.
+69. The texts Collins exploited were the Visuddhimagga, Dīgha Nikāya, Nettipakaraâa, Anguttara Nikāya, Saṃyutta Nikāya, Paramattha-joṭikā, and the Katthāvatthu. The latter is discussed in Cousins 1994, which relates Vasubandhu’s representation of the Vātsīputrīyas, a remnant sect of early Buddhism that maintained a certain pudgalavāda view based on the coalescence of the aggregates or skandhas. See also the references cited in ibid.:28n6.
+    In Jainism, poggala is an ontological category that denotes particles of matter or basic constituents of nature. These can be aggregated, recombined, and transformed to yield substances (davya < Skt. dravya) that may serve as a locus for a jīva. But they do not in themselves bear the weight of a person or personality. Cf. Deleu 1970:145, 183f., passim.

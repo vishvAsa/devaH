@@ -1,0 +1,1445 @@
++++
+title = "Index"
+
++++
+- abhicāra
+- abhicāraja
+- Abhinavagupta, on bhūtavidyā, on definition of possession, on devotion, on mudrās, on possession as enlightenment, on possession as knowledge, on possession as practice, on sahṛdaya, on śaktipāta
+- abhiṣaṅgaja
+- abhiśāpaja
+- abhyāsa
+- acintyabhedābheda
+- adālat. See also legal models
+- Aḍhamalla
+- adhikāra
+- ädurā
+- advaita
+- aesthetic theory. See alaṃkāraśāstra
+- Āgamarahasyam
+- agency
+- aghau
+- Aghori Vimalananda
+- Agni: and creation/incarnation, and pervasion/immersion in Vedas, and shape-shifting, and transfer of essence, and Ucchuṣma
+- agnicayana
+- Agnihotra ritual
+- AH Uttarasthāna (AH-Ut)
+- Aitareya Brāhmaṇa (AB)
+- Aitareya Upaniṣad (AiU)
+- Akanāṉūṟu
+- ākarṣaṇa
+- Aklujkar, Ashok
+- akṣarabrahman
+- Aks (Hindi film)
+- alaṃkāraśāstra, and authenticity, and bhūtavidyā, brahmanical orthodoxy on, and Buddhism, and ethnographies, and folk-classical relationship, and legitimization of emotion, and performative contexts, rasa categories, and sahṛdaya, and social construction of emotion, and vocabularies of possession
+- alchemy
+- Alexander the Great
+- amanussaparaggahītā
+- Amaruka. See Śaṅkara’s possession of Amaruka
+- Amaruśataka
+- Ama Ta Bap
+- amatigṛhīta
+- āmil
+- Amma, Andavan Pichchi
+- ammaṉ vantatu
+- Amoghapāśasūtra
+- ānanda korā
+- Ānandavardhana
+- aṇaṅku
+- Anantānandagiri
+- anatta
+- Andersen, Poul
+- androgyny
+- Angala Amman
+- angāt vāḍhlā
+- angāt yeṇe
+- anger. See raudra
+- āṅgmā caṛhnu
+- animals: in art, in fiction, in Mahābhārata, products used in healing, and shape-shifting,
+- anthropological approaches, definitions of possession, and Eurocentrism, interpretive strategies, and psychiatric/psychoanalytic theories, on ritual, and social control/resistance, and vocabularies of possession, and Western unitary self. See also ethnographies
+- Aṇubhāṣya (Vallabhācārya)
+- anugraha
+- anu-pra√viś
+- apadṛṣṭi
+- apasmāra
+- āpastambagraha
+- Āpastamba Śrautasūtra (ĀpŚS)
+- apauruṣeya
+- Apollonius of Tyana
+- Appadurai, Arjun
+- Appayya Dīkṣita
+- apsaras
+- Arjuna, disguise of
+- army of spirits
+- art: animals in, and fluid/multiple self
+- ārūḍe
+- āruḍha
+- arugu darśana ātuṇḍu
+- aruḷ
+- Āryaśūra
+- āsana
+- asceticism
+- Asclepius
+- Assamese vocabularies of possession
+- association of possession with low social status, and control, and cross-dressing, and folk-classical relationship, and “irrationality,” and shamanism, and svasthāveśa, See also possession as primitive; social control/resistance
+- Aṣṭāṅgahṛdaya Saṃhitā (AH), bhūtavidyā in, and contemporary Āyurveda
+- astrology (jyotiṣa), and bhūtavidyā, brahmanical orthodoxy on, and contemporary Āyurveda, and prasenā, and vocabularies of possession
+- Aśatthāman. See Śiva’s possession of Aśvatthāman
+- Atharvaveda (AV): and Āyurveda, bhūtavidyā, in discourse vs. practice in, fluid/multiple self in, gandharva in, pervasion/immersion in, soma ritual in, and Tantra, transfer of essence in
+- atirudra
+- ātkoḷ
+- ātmabhāvaparigraham
+- ātmajñānānanda, Svāmī
+- ātman/brahman
+- attabhāva
+- audience. See performative contexts
+- audience response theory
+- authenticity: Derrida on, ethnographic overview, and fiction, and Nala’s possession by Kali, and performative contexts
+- authoritarian societies
+- Avaloiteśvara
+- avatār
+- avatāra: as Viṣṇu’s descents, similarity to āveśa in devotional possession, śarabha. as descent of Bhairava, as a vigraha, on its use in the Āviṣṭaceṣṭāvidhiparivartaḥ
+- avatolagraha
+- āvēcam
+- āveśa, Bengali usage, and bhakti, and bhāva, in Brahmasūtras, in Buddhist Sanskrit literature, and Chinese vocabulary, control of, and creation/incarnation, in devotional literature, and emotion, in Mahābhārata, and Malayalam vocabularies of possession, and possession among deities, review, in Tantra, and transfer of essence, and Vajrayāna Buddhism, Vallabhācārya on, in Vedāntasāra, and vocabularies of possession, in Yogasūtras
+- ā√viś, and alaṃkāraśāstra, in Buddhist Sanskrit literature, and entrance, in Mahābhārata, and night/darkness, and poetic meters, in Rāmāyaṇa, Sāyaṇa on, and soma ritual, and transfer of essence
+- avishkara
+- Āviṣṭaceṣṭāvidhiparivartaḥ (ACVP)
+- āviṣṭatā
+- aweishe. See Chinese aweishe ritual
+- Āyaraṃgasutta
+- Ayodhyākāṇḍa
+- Āyurveda, and Atharvaveda, and attabhāva, on bālagrahas, Cakradatta, on disease-producing possession, healing in early texts, and Sāṃkhya, Siddhasāra, skandagrahas in, and svasthāveśa, and Tantra, and textual traditions, and vocabularies of possession, and yoga. See also bhūtavidyā; contemporary Āyurveda
+- Aziz, Barbara
+- ‘bap pa
+- Bādarāyaṇa. See Brahmasūtras
+- bādhā āveśam
+- bad naẓar
+- baharṇābhūt
+- Bahumāṃsā
+- baithak
+- Bakhtin, Mikhail
+- baki
+- Bālabodha
+- bālagrahas, and bhūtavidyā, and folk-classical relationship, and healing, and Kuṣāṇas, and Skanda, and svasthāveśa, and women’s preponderance in possession
+- Bālājī temple: and association of possession with low social status, demographics, and devotion, diversity of healing techniques at, and healing as moral practice, and legal models, pitṛsthān, and psychiatric/psychoanalytic theories, and puttalī, recent growth of, rural setting of
+- Balfour, Henry
+- bali-ädura
+- Bāṇabhaṭṭa
+- bandhanaya
+- bandhena
+- bandhutā
+- Bargen, Doris R.,
+- Barlow, David
+- barwa
+- bayan
+- bāyu
+- Becker, Carl
+- belief vs. practice. See discourse vs. practice
+- Bell, Catherine
+- Bellamy, Carla
+- Bellezza, John
+- Bengali maṅgalkābyas
+- Bengali vocabularies of possession
+- Benz, Ernst
+- Berglie, Per-Arne
+- Berti, Daniela
+- Bertrand, Didier
+- Beyer, Stephen
+- bhagat
+- Bhagavadajjukāprahasanam (Mahendravarman)
+- bhagavadāveśa
+- Bhagavad-Gītī (BhG)
+- Bhāgavata Purāṇa (BhP): Abhinavagupta on, and Bhagavad-Gītā, bhāva in, and fiction, Kṛṣṇa as puruṣottama in, and Nala’s possession by Kali, nyāsa in, 379; practices in, shape-shifting in, and svasthāveśa, and Tamil/Simhala vocabularies of possession, transfer of essence in, Vallabhācārya on
+- Bhairava: and conversion of spirits, and Hāratī, and legal healing models, and nyāsa, and svasthāveśa
+- Bhaktamāl (Nābhādas)
+- bhakti: and āveśa, and ā√viś, brahmanical orthodoxy on, and discourse vs. practice, and Marathi vocabularies of possession, and personhood/self, and philosophical texts, and śakti, and social control/resistance. See also devotion
+- Bhaktirasāṃṛtasindhu (Rūpa Gosvāmī)
+- bhaktudù/bhaktudràlu
+- Bhāmatī (Vācaspatimiśra)
+- bharā
+- Bharata
+- bhar hāoẏā
+- bhar karā
+- bharṇābhūt
+- bhar nāmā
+- bhasan
+- Bhāskara
+- bhasmas
+- Bhat, M. Ramakrishna
+- Bhattacharyya, Deborah
+- Bhaṭṭotpala (Utpala)
+- bhāva: Bengali usage, in Buddhist Sanskrit literature, and contemporary Āyurveda and devotion, and emotion, and fiction, and nyāsa, and vocabularies of possession
+- Bhavabhaṭṭa
+- bhāv ānā
+- bhāvanā
+- Bhāvanākrama (BhK)
+- bhāvāveśa
+- bhedābheda
+- Bhoja
+- Bhoot (Hindi film)
+- bhopā
+- Bhramara-Gīta
+- bhutācā asvār āṇūn
+- bhūta pattuṇḍu
+- bhūtapaviṭṭho
+- bhūtaśuddhi
+- bhūtavidyā, abhiṣaṅgaja, Aṣṭāṅgahṛdaya Saṃhitā on, and astrology, in Āviṣṭaceṣṭāvidhiparivartaḥ, Āyurvedic text overview, balagrahas, Bower manuscript on, Caraka Saṃhitā on, and contemporary Āyurveda, and deities, Divehi, and elements, and emotion, and folk-classical relationship, and gandharva, graha overview, Ĩśānaśivagurudevapaddhati on, Madanamahārṇava on, McClintock on, overview, and personality, piśacas, and pregnancy, psychiatric/psychoanalytic theories on, in Purāṇas, and Sāṃkhya, secularization narrative, and sexuality, and Siddhasāra, and skandagrahas, and speech, and Sri Lankan vocabularies of possession, Suśruta Saṃhitā on, and transfer of essence, Varanasi ethnography on, and Vedas. See also disease-producing possession; healing
+- bhūt bhādā cumaṅkali
+- bhūt bharā
+- bhūte āṅgī vāḍhu lāglī
+- bhūte pāoẏā
+- bhūt grasth
+- bhūt kī bīmārī
+- bhūt lagnā
+- bhūt-pret
+- bhūts. See also bhūtavidyā
+- bhuva
+- Biardeau, Madeleine
+- Biernacki, Loriliai
+- biography
+- Blackburn, Stuart
+- Blatty, William Peter
+- Bloomfield, Maurice
+- Boddy, Janice
+- Bodhisattvāvadānakalpalatā (Kṣemendra)
+- body, Brahmasūtras on, cakras, composite, and creation/incarnation, and devotion, and discourse vs. practice, divinization of, and fiction, and fluid/multiple self, as inert, and liminality, in Liṅga Purāṇa, lists of body parts, multiple embodiment, nāḍis, and psychiatric/psychoanalytic theories, and social control/resistance, and yoga
+- body piercing
+- bombo
+- bone chewing
+- Bourguignon, Erika
+- Bower manuscript
+- Brahmā
+- bráhman, and creation/incarnation, and dualism/nondualism, and fluid/multiple self, and transfer of essence. See also ātman/brahman
+- Brahmāṇḍa Purāṇa
+- brahmanism: and Buddhism, and contemporary Āyurveda, and control, and devotion, and discourse vs. practice, and gandharva, and gradual vs. sudden possession, and nyāsa, and possession as practiced behavior, scholarly orthodoxy, and shape-shifting, and soma ritual, and svasthāveśa, and text sources, and Vipula Bhārgava’s possession of Ruci, and Western discourses. See also folk-classical relationship
+- Brahmasūtrabhāṣya (Śaṇkara)
+- Brahmasūtras (BS)
+- brāy
+- Bṛhadāranyaka Upaniṣad (BĀU): bhūtavidyā in, creation/incarnation in, and discourse vs. practice, gandharva in, localization of divinity in, nyāsa in, and svasthāveśa, transfer of essence in, and Vajrayāna Buddhism
+- Bṛhaddevatā
+- Bṛhatkālottara
+- Bṛhatkalpabhāṣya
+- Bṛhatsaṃhitā (BṛS) (Varāhamihira)
+- Brown, Michael F.
+- Brückner, Heidrun
+- brujo
+- Buddha, possession by
+- Buddhism, and alaṃkāraśāstra, and brahmanism, and Cambodian possession, and contemporary Āyurveda, control in, and conversion of spirits, and devotion, discourse vs. practice in, and folk-classical relationship, and Himalayan vocabularies of possession, and mediumistic possession, nonexistent self in, and prasenā, and sexuality, and shamanism, and Shinto, and Sri Lankan vocabularies of possession, and svasthāveśa, Tibetan Sanskrit literature, in Vikramāditya story, 325; and Yogasūtras (YS). See also Vajrayāna Buddhism
+- Burrow, Thomas
+- būta nemā/kolā
+- Bynum, Caroline Walker
+- bzung-ba
+- caḍhnā
+- Cahill, Thomas
+- Caitanya. See Śrī Caitanya
+- caitanya
+- Caitanyacaritāmṛta (Kṛṣṇadāsa Kavirāja), 351
+- Caitanyacaritāmṛta (Murārigupta)
+- caitanyam
+- cajitas
+- Cakradatta
+- cakras
+- Cakrasaṃvarapiṇḍārtha
+- Cakrasaṃvara-Tantra
+- Caland, W.
+- Calantā
+- Caldwell, Sarah
+- Cambodia
+- cāmiyāṭi
+- Campany, Robert Ford
+- Candranandana
+- Cankam poetry
+- Caraka Saṃhitā bhūtavidyā in, healing in, and Sāṃkhya
+- Castillo, Richard
+- caukī
+- celibacy
+- central vs. peripheral possession
+- Chalmers, David
+- Chan Buddhism
+- Chāndogya Upaniṣad (ChU): bhūtavidyā in, creation/incarnation in, nyāsa, oppositional consciousness in, Śaṇkara on, 298; transfer of essence in
+- Chandrakumar, S. M.
+- channeling. See New Age trance channeling
+- The Channeling Zone: American Spirituality in an Anxious Age (Brown)
+- Charcot, Jean Martin
+- chāttan
+- childhood possession. See svasthāveśa
+- childsnatchers. See bālagrahas; skandagrahas
+- China: ãveśa, children in ritual, cultural migration to, and disease-producing possession, fluid/multiple self in, healing, and Himalayan vocabularies of possession, mediumistic possession, and nyāsa, shamanism, svasthāveśa origin question, See also Chinese aweishe ritual
+- Chinese aweishe ritual, and Daoism, and mediumistic possession, and prasenā, use of children in
+- Christianity: ambiguity of possession in, and Assamese vocabularies of possession, and contemporary renewal of oracular possession, and ecstasy, and exorcism, initiatory possession in, and New Age trance channeling, on possession as evil, and pratiṣṭhā, and psychiatric/psychoanalytic theories, and Sri Lankan vocabularies of possession, and study of possession, and transfer of essence, unitary self in, and vocabularies of possession. See also Western discourses
+- chūdāl/cuṛail
+- chyèkpa
+- cidãnanda
+- Cilappatikāram
+- Citrāṇgada
+- citta
+- cittāveśaḥ
+- Claus, Peter J.
+- Clifford, Terry
+- Clooney, Francis
+- cognitive science
+- Cohen, Daniel
+- Collins, Elizabeth Fuller
+- Collins, Steven
+- colonialism: and contemporary renewal of oracular possession, and possession as evil, and social control/resistance, and study of possession, and vocabularies of possession
+- composite self. See fluid/multiple self consciousness: Hegel on, and Himalayan vocabularies of possession, and Malayalam vocabularies of possession, oppositional, problematic nature of term, and psychiatric/psychoanalytic theories, and Vedānta, contemporary Āyurveda, and astrology, bhasmas in, and bhãva, and bhūtavidyā, and brūhmanism, and Buddhism, diagnosis in, mantras in, Tibet, and women’s preponderance in possession
+- control: and association of possession with low social status, and brahmanism, in Buddhism, and emotion, and limits of social control/resistance, and nyāsa, and possession as evil, and ritual, and shape-shifting, and spontaneity, and svasthāveśa, and transfer of essence, and vocabularies of possession. See also social control/resistance
+- Conversations with God: Book I (Walsch)
+- conversion of spirits
+- Coomaraswamy, A. K.
+- court model. See legal models
+- creation/incarnation, and dualism/nondualism, and fluid/multiple self, ignorance of, and pervasion/immersion, and primordial embodiment, and transfer of essence, and Vedic theism
+- cross-dressing
+- Csordas, Thomas
+- cumaṇkali
+- Cuneo, Michael
+- Cyavana
+- daivavyapāśraya
+- daivavyapāsraya-cikitsā
+- dakṣinācāra
+- Dalai Lama(s)
+- Dalai Lama
+- Ḍalhaṇa
+- Damayantī. See also Nala’s possession by Kali
+- Danforth, Loring
+- daṇgārīya
+- Daniel, E. Valentine
+- Daoism
+- Dārila
+- darśana
+- darśapūrṇamāsau
+- dāruharidrā
+- Daśakumāracarita (Daṇḍin)
+- Daśarūpa
+- Dattatreya
+- Davidson, Ronald
+- Davis, Edward L.
+- dbab pa
+- De, S. K.
+- debaddhani festival
+- DeCaroli, Robert
+- decentered self. See fluid/multiple self
+- deception. See authenticity
+- Deeg, Max
+- Delmonico, Neal
+- Delphi oracle
+- DeMaris, Richard E.
+- democratization (prajātantra)
+- demographics: conclusions, and healing, New Age trance channeling. See also folk-classical relationship
+- demonologies. See bhūtavidyā
+- deodhā
+- Derrida, Jacques
+- dēva āveśam
+- devācī jhāḍ
+- devotion, Abhinavagupta on, and ā√viś, Bhagavad-Gītī, and bhāva, and body, and Buddhism, and discourse vs. practice, and fiction, and fluid/multiple self, and folk-classical relationship, and Hanumān, and passion, and personhood/self, and philosophical texts, and religious drama, and śakti, and sexuality, and shamanism, and social control/resistance, Śrī Caitanya, and svasthāveśa, and Tantra, and transfer of essence, and union/separation dialectic, Vallabhācārya, and vocabularies of possession, See also bhakti; Vallabhācārya
+- devṛṣi
+- dharmapālas
+- dharmaśāstra
+- dhokhebāz
+- Dhvanyāloka (Ānandavardhana)
+- Dhvanyālokalocana (Abhinavagupta)
+- Dhyānabindu Upaniṣad
+- diagnosis
+- Diagnostic and Statistical Manual of Mental Disorders (DSM)
+- dialogic interaction
+- Diehl, Carl Gustav
+- Diemberger, Hildegard
+- diet
+- Dietrich, Angela
+- Dīpikā (Aḍhamalla)
+- Dirks, Nicholas B.
+- discourse vs. practice: and bhakti, and body, and brahmanism, in Buddhism, conclusions, and philosophical texts, and psychiatric/psychoanalytic theories, and social control/resistance, and study of possession. See also experience
+- disease-producing possession, diagnosis of, and fluid/multiple self, in Mahābhārata, and moral transgressions, vs. New Age trance channeling, and pervasion/immersion in Vedas, and shamanism, text sources for, and vocabularies of possession. See also bhūtavidyā; healing
+- displacement
+- Dissanayake, Wimal
+- dissociation
+- Dissociative Identity Disorder
+- dissociative trance disorder
+- Divehi
+- divinization of body, and devotion, and nyāsa, and śaktipāta
+- dpa’-bo
+- Draupadī cult (Tamilnadu)
+- dre
+- dream
+- ‘dre glud
+- Dreyfus, Georges
+- Driver, Tom
+- dṛṣṭipātam
+- drug addiction
+- dualism/nondualism. See also union/separation dialectic
+- dubiye
+- Dudbridge, Glen
+- dukhi
+- dumbiyānē
+- Dumont, Louis
+- Dunne, John
+- Durgā
+- Durgāsaptaśati
+- During Caspers, E.C.L.
+- Durkheim, Emil
+- Dwyer, Graham
+- dyah-mā
+- dyāh waipī
+- Eck, Diana
+- ecstasy
+- Ecstatic Religion (Lewis)
+- Eder, Matthias
+- Edgerton, Franklin
+- education
+- effigies. See puttalī
+- ekāgratā
+- Eliade, Mircea
+- eligibility for possession
+- embodiment. See body
+- Emeneau, Murray
+- emergent moods
+- emotion: and body, in Buddhism, and control, legitimization of, in Mahābhārata, and Malayalam vocabularies of possession, in philosophical texts, and possession as evil, and possession content, as primitive, social construction of, and social control/resistance, somaticization of, and transfer of essence, and vocabularies of possession, and yoga. See also alaṃkāraśāstra
+- empowerment. See social control/resistance
+- Engler, Steven
+- enlightenment: and body, and discourse vs. practice, and fluid/multiple self, and New Age trance channeling, and rasa, in Tantra, in Tibetan Buddhism
+- Enlightenment (Europe)
+- entrance: in Mahābhārata, and sexuality, in Vedas. See also ā√viś; pervasion/immersion in Vedas
+- epics, brahmanical orthodoxy on, and fiction, and psychiatric/psychoanalytic theories, recitation of. See also Mahābhārata; Rāmāyaṇa
+- epilepsy
+- Erndl, Kathleen
+- Ervin, Frank R.
+- escape
+- ethics
+- ethnographies, and alaṃkāraśāstra, and devotional literature, and dualism/nondualism, and fluid/multiple self, possession overview, and shamanism, Varanasi. See also anthropological approaches
+- Eurocentrism
+- evil eye
+- exorcism: and Christianity, contemporary U.S. rise in. See also healing
+- Exorcism of Emily Rose, The
+- The Exorcist
+- experience. See also discourse vs. practice
+- Fabricius, J. P.
+- faked possession. See authenticity
+- fakīr
+- family therapy
+- fanḍita
+- faqīr
+- fashi
+- Feldhaus, Anne
+- feminist theory
+- Fenner, Todd
+- ferocity. See raudra
+- Ferris, Timothy
+- fiction, Bhagavadajjukāprahasanam, Bloomfield on, contemporary, defined, The Turn of the Screw, Vetālapañcaviṃśati, and yoga. See also alaṃkāraśāstra
+- film, and devotion, The Exorcist, and fiction, music from
+- Finn, Louise
+- fire walking
+- Fitzgerald, James L.
+- Flood, Gavin
+- fluid/multiple self, and agency, and art, and body, and bráhman, contemporary concepts, and creation/incarnation, and devotion, and disease-producing possession, and enlightenment, in film, and gradual vs. sudden possession, and healing, and Himalayan vocabularies of possession, and New Age trance channeling, and nyāsa, and personhood, and shape-shifting, and social control/resistance, and study of possession, and Vedas, vs. Western unitary self, and women’s preponderance in possession
+- folk-classical relationship, and alaṃkāraśāstra, and association of possession with low social status, and bhūtavidyā, and Buddhism, conclusions, and deities, and devotion, and Draupadī cult, Kerala, and Mahābhārata, and Ṛgveda, and soma ritual, and svasthāveśa, and Tantra, and traditionalization, and Vedas, and vocabularies of possession
+- Foucault, Michel
+- Foulston, Lynn
+- fragmentation
+- Frank, Jerome D.
+- Frank, Julia B.
+- Frasca, Richard
+- Freed, Ruth
+- Freed, Stanley
+- Freeman, Rich
+- Freud, Sigmund. See Freudian theory
+- Freudian theory: and bhūtavidyā, and dissociation theory, on hysteria, on obsessive-compulsive disorder, and psychodrama, on Unheimlich. See also psychiatric/psychoanalytic theories
+- Fuchs, Stephen
+- fumigation therapy
+- Fundamentals of Tibetan Medicine
+- Gaborieau, Marc
+- gandharva, and abandonment of self, and bhūtavidyā, and brahmanism, in Buddhist Sanskrit literature, contemporary reports of possession by, and insanity, and keśin, and oracular possession, and ritual, and transfer of essence, and Vikramāditya story
+- Gaṇeśa
+- Garrett, Clarke
+- Garuḍa
+- Gauḍapāda
+- Geertz, Clifford
+- Gellner, David N.
+- Gelong
+- gender, and abandonment of self, and Buddhism, and central vs. peripheral possession, cross-dressing, and fluid/multiple selfu, and gandharva, role-reversal, and social control/resistance, and svasthāveśa, and Tamil/Simhala vocabularies of possession, and Tantra. See also association of possession with low social status; women; women’s preponderance in possession
+- genocide
+- Gesar of Ling
+- ghee
+- ghūrṇi
+- Girard, René
+- gling
+- glossalalia
+- Glucklich, Ariel
+- Gold, Ann
+- Gombrich, Richard
+- Gonda, Jan
+- Goodman, Felicitas
+- Goodman, Felicitas D.
+- Gopīcandana Upaniṣad
+- gori yùba
+- graha: Āyurvedic texts on, overview, psychiatric/psychoanalytic theories on, and raudra. See also bālagrahas; bhūtavidyā; skandagrahas
+- grahacāraya
+- grahaṇa. See also graha; √gṛh
+- grhī, as skandāpasmāras in Mahābhārata, in Madanamahārṇava, in Iśānaśivagurudevapaddhati
+- Gray, David
+- √gṛh. See also grahaṇa; grahas
+- gronds-jug
+- Guangyi ji
+- Gujarat vocabularies of possession
+- guṇī
+- guṇina
+- Gupta, Dipankar
+- Gyu-zhi (Candranandana)
+- Haberman, David
+- Halbfass, William
+- Halliburton, Murphy
+- Halperin, Daniel
+- Hancock, Mary E.
+- Handelman, Don
+- Hanegraaf, Wouter J.
+- Hanumān, and devotion, and nyāsa, and shape-shifting, and svasthāveśa
+- Hara, Minoru
+- Hāratī
+- Hardy, Friedhelm
+- Haridāsa
+- Harper, Edward B.
+- Harṣacarita (Bāṇabhaṭṭa)
+- Harṣavardhana
+- harṣāveś
+- Hart, George L.
+- Hartzell, James Francis
+- havā lagnā
+- hāzri
+- healing, animal products used in, and army of spirits, and association of possession with low social status, and bālagrahas, brāy, Cakradatta on, China, and conversion of spirits, and demographics, diversity of techniques, 114, early Āyurvedic texts on, and effigies, and ethnographic overview, and fluid/multiple self, and former trauma, fumigation therapy, healer terms, and Himalayan vocabularies of possession, and interrogation of spirits, legal models, and liminality, and loose hair, as moral practice, and New Age trance channeling, and psychiatric/psychoanalytic theories, shock therapy, and sorcery, and Sri Lankan vocabularies of possession, and surrogate possession, and urban/rural distinction, (Viṣa-) Nārāyaṇīya on, and Western medical paradigm. See also Āyurveda; bhūtavidyā; Chinese aweishe ritual; contemporary Āyurveda; Tantra
+- Heesterman, J. C.
+- Hegel, Georg W. F.
+- Heinroth, Johann Christian August
+- Hemacandra
+- Henry, E. O.
+- Hermes Trismegistus
+- high-low culture distinction. See folk-classical relationship
+- Hillman, James
+- Hiltebeitel, Alf
+- Himalayan Dialogue (Mumford)
+- Himalayan vocabularies of possession
+- Hindi vocabularies of possession
+- Hinduism, reification of
+- Hindu nationalism
+- Hoernle, A. F. R.
+- Höfer, Andràs
+- Holy Land Experience
+- Holy Spirit
+- homa
+- Honko, Lauri
+- humor
+- Humphrey, Caroline
+- Hutton, J. H.
+- Huxley, Aldous
+- hysteria
+- identity. See fluid/multiple self; self
+- illness. See disease-producing possession
+- impersonation
+- incarnation. See also body
+- Inden, Ronald
+- Indra: and bhūtavidyā, and shape-shifting, and transfer of essence, and Vipula Bhārgava’s possession of Ruci
+- Indradatta
+- Ingalls, Daniel H. H.
+- Inglis, Stephen
+- initiation: and ā√viś, in Christianity, and control, and divinization of body, and eligibility for possession, and enlightenment, and fluid/multiple self, and mudrās, and personhood, and possession as knowledge, and possession as practice, and rasa, and social control/resistance, and text sources, in Vajrayāna Buddhism, and Vipula Bhārgava’s possession of Ruci, and vocabularies of possession, and women’s preponderance in possession
+- inner organ
+- insanity: and eligibility for possession, and skandagrahas, unmāda. See also bhūtavidyā; healing
+- intermedial state. See liminality
+- interpenetration
+- interrogation of spirits
+- Irish
+- érṣyāveś
+- Irula vocabularies of possession
+- Ĩśānaśivagurudevapaddhati (ĨŚP), bālagrahas in, bhūtavidyā in, and contemporary Āyurveda, svasthāveśa in
+- Ĩśā Upaniṣad
+- Islam: and adālat, and contemporary Āyurveda, and vocabularies of possession
+- Ĩśvara
+- Ĩśvarapratyabhijñākārikā (Utpaladeva)
+- Iyanaga, Nobumi
+- jādugar
+- jāḍuṭonā
+- jāgar
+- Jaiminīya Brāhmaṇa (JB)
+- Jaiminīya Upaniṣad Brāhmaṇa (JUB), 198, 199
+- Jainism, xxiv; and alaṃkāraśāstra, brahmanical orthodoxy on, on emotion, and fiction, on Nala’s possession by Kali, on personhood/self, and prasenā, and svasthāveśa, and Vikramāditya story, and yoga, Yogaśāstra (Hemacandra)
+- jāki
+- Jakobsen, Merete Demant
+- Jambhaladatta
+- James, Henry
+- James, Henry, Sr.
+- James, William
+- Jamison, Stephanie
+- Janet, Pierre
+- janka
+- Japan
+- Jātakamālā (Āryaśūra)
+- Jātakas
+- jaṭãmāṃsī
+- jāya
+- Jayadrathayāmala (JY)
+- jāyakāra
+- Jayākhya Saṃhitā
+- Jayamaṅgalā
+- Jayaratha
+- Jejuri mass possession
+- Jesus
+- jhāḍ
+- jhāḍṇewālā
+- jhākri
+- jhārphuk
+- Jilek, W. G.
+- Jinadāsagaṇi Mahattara
+- jinnis
+- jinn/jind
+- Jīva Gosvāmī
+- jīvanmukti
+- jñānasattva/samayasattva
+- joga ugādu
+- Johnson, W. J.
+- Jonas, Adolphe D.
+- Jones, J. J.
+- Jones, Rex L.,
+- Jung, Carl
+- Jungian theory
+- jyotiṣa. See astrology
+- kabirāj
+- Kaivalya Upaniṣad
+- Kakar, Sudhir
+- Kālacakratantra (KT)/Laghuālaeakratantra
+- kālanāyakagraha
+- kaḷarippayattu
+- Kali. See also Nala’s possession by Kali
+- Kālidāsa
+- Kāli/Kāli
+- Kālikā Purāṇa (KāP)
+- Kāli’s Child (Kripal)
+- Kalkin Śrīpuṇḍarīka
+- Kalmāṣapāda, King. See Vasiṣṭha and King Kalmāṣapāda
+- Kalpataruparimala (Appayya Dīkṣita)
+- kāmadhenu
+- Kāmākhyā
+- Kamalaśīla
+- kāmarūpin
+- kāmaśāstra
+- kāmāveś
+- kamma
+- kampakāla (orgasm)
+- Kane, P. V.
+- kanyā
+- kaozhao
+- Kapadia, Karin
+- Kapferer, Bruce
+- kapisainyaprakāra
+- Karim, Anwarul
+- karma. See also kamma
+- karmavipāka
+- Karmavipāka-saṅgraha
+- karṇagraha
+- karṇapiśāca
+- Karpūramañjari
+- Karumāriyamman
+- karuṇā-bharala
+- Kāśyapa Kalpasthānam (KSKa)
+- Kāśyapa-Saṃhitā (KS)
+- Kāṭhaka Saṃhitā (KS)
+- Kathāmṛta
+- Kathāsaritsāgara (KSS), anugraha in, 485; dualism/nondualism in, and fiction, sexuality in, svasthāveśa in
+- Kaṭha Upaniṣad (KU)
+- kathāvācaks
+- kaṭṭāḍiya
+- kaṭṭātikal
+- Kauśikasūtra
+- Kauṣītaki Upaniṣad (KṣU)
+- Kaw, R. K.
+- Keith, A. B.
+- Keller, Mary
+- Kelly, George Armstrong
+- Kerala. See also contemporary Āyurveda; Malayalam vocabularies of possession
+- kēruka
+- Keśavakāśmīrabhaṭṭa
+- keśin
+- Keśin Dārbhya
+- Khaḍgarāvaṇa
+- khakhōrda
+- Khaṇḍobā
+- Khaṇḍobā festival (Jejuri)
+- khelnā
+- khhelye khhaba
+- Khusraw, Amir
+- kīlaka
+- Kjaerholm, Lars
+- Kleinman, Arthur
+- klība
+- Klimkeit, Hans-Joachim
+- Knight, J. Z.
+- Knipe, David
+- kōmaram
+- kōriccu varutal
+- Kosambi, D. D.
+- kōṭaṅki
+- Kramasūtras
+- Kripal, Jeffrey
+- krodhāveś
+- kṛpāveś
+- Kṛṣṇa
+- Kṛṣṇadāsa Kavirāja
+- Kṛṣṇa līlā
+- Kṣemarāja
+- Kṣemendra
+- kudṛṣṭi
+- Kuhn, A.
+- Kulagahvaratantra
+- Kulārṇavatantra (KAT)
+- Kumar, Abhimanyu
+- kumārī
+- kumbhakagraha
+- kuṇḍalinī
+- kuṇḍalinī śakti
+- Kuṣāṇas
+- Kusum
+- kūṭuka
+- Kuvera
+- Laidlaw, James
+- lajye cuṇba
+- Lalitāditya
+- lama, on Lamaist ideology, as spirit
+- Lambek, Michael
+- Lambert, H.
+- Langford, Jean M.
+- language. See vocabularies of possession
+- Lariviere, Richard
+- larje
+- Larson, Bob
+- Larson, Gerald
+- law. See dharmaśāstra
+- Lawrence, Patricia
+- legal models, bhūts, and healing, and New Age trance channeling
+- Levy, Robert I.
+- Lévy-Bruhl, Lucien
+- Lewis, I. M.
+- Lewis, Todd
+- Lewis-Fernández, Roberto
+- lexicography. See vocabularies of possession
+- lha (Tib. deity or spirit)
+- lha-babs (Tib. oracular possession)
+- lhaba/lha pa (Tib. oracle)
+- liberation. See enlightenment
+- līlā performers
+- liminality: and bhakti, and body, and contemporary Āyurveda, and entrance, and gradual vs. sudden possession, and healing, and Nala’s possession by Kali, and nyāsa, and ritual, and sexuality, and shape-shifting, and social control/resistance. See also fluid/multiple self
+- Liṅga Purāṇa
+- linguistics. See vocabularies of possession
+- literacy
+- literary record. See text sources
+- Littlewood, Roland
+- lobhāveś
+- localization of divinity
+- love. See sexuality
+- Luminous Web of Precious Visions
+- lunar asterisms (nakṣatra)
+- Lutgendorf, Philip
+- Lutz, Catherine
+- Lutze, Lothar
+- luyar
+- Lynch, Owen
+- Macdonald, Alexander W.
+- Madanamahārṇava (MM) (Viśveśvara Bhaṭṭa)
+- Mādhava-Vidyāraṇya
+- Mahābhārata (MBh) and alaṃkāraśāstra, āveśa in, bhūtavidyā in, dates of, diachronic aspects of possession in, disease-producing possession in, dualism/nondualism in, entrance in, escape in, and fiction, as fiction, and folk-classical relationship, gandharva in, guilt in, importance of, influence of, interpenetration in, interpersonal possession in, Kṛṣṇa as puruṣottama in, and Liṅga Purāna, millenarianism in, oppositional consciousness in, vs. Rāmāyaṇa, rasa in, and Sāṃkhya, shape-shifting in, Śiva’s possession of Aśvatthāman, skandagrahas in, transfer of essence in, and Vajrayāna Buddhism, Vasiṣṭha and King Kalmāṣapāda, Vidura’s possession of Yudhiṣṭhira, violence in, vocabularies of possession in, and women’s preponderance in possession, and Yogavāsiṣṭha. See also Nala’s possession by Kali; Vipula Bhārgava’s possession of Ruci
+- mahābhāva
+- Mahādeva
+- Mahāsutasoma Jātaka
+- mahā-ullās
+- Mahāvaṃsa
+- Mahāvastu
+- Mahāvidyā
+- Mahendravarman. See also Bhagavadajjukāprahasanam
+- Maheśvara
+- Mahīdhara
+- māi/māiju
+- Maitrāyaṇi Saṃhitā (MS)
+- Maitrāyaṇi Upaniṣad
+- Mālavayā
+- Malayalam vocabularies of possession
+- Mālinīvijayottara
+- Maloney, Clarence
+- manas
+- Manasā
+- maṇḍalas: in contemporary Āyurveda, and divinization of body, and possession as knowledge, in svasthāveśa, in Tantra, 399; in Vajrayāna Buddhism
+- Maṇḍana Miśra
+- Māṇikkavācakar
+- Mañjuśrīmūlakalpa
+- Mantramahodadhi (MM) (Mahīdhara)
+- Mantrapuṣpam
+- mantras: and bālagrabas in contemporary Āyurveda, and divinization of body, in nyāsa, and soma ritual, in svasthāveśa, in Vajrayāna Buddhism, (Viṣa-) Nārāyaṇīya on
+- mantravidyā
+- māntrika
+- Manu’s cups myth
+- Marathi vocabularies of possession
+- marginalized people. See association of possession with low social status
+- Māriamman
+- marriage
+- Marriott, McKim
+- martial arts
+- maruḻ oṭutal
+- maruḷu
+- masks
+- Masson, J. Moussaieff
+- māthā-garam
+- māthā-khārãp
+- māthāra golamāla
+- māthār golmāl
+- mativah
+- Matsya Purāṇa
+- Mattavilāsa (Mahendravarman)
+- maulvī
+- Mauss, Marcel
+- Mayaram, Shail
+- Mayer, Robert
+- Mayes, Elizabeth
+- Mayrhofer, Manfred
+- mayṭu battuṇḍu
+- Mayūracandrikā Bhasma
+- mayūrapiccha
+- McClintock, Wayne
+- McDaniel, June
+- mediumistic possession: and Buddhism, and New Age trance channeling, and shamanism, and Vajrayāna Buddhism. See also New Age trance channeling; oracular possession
+- men. See gender
+- menstruation
+- mental illness. See bhūtavidyā; disease-producing possession
+- Merleau-Ponty, Maurice
+- Merutuṇga
+- Meulenbeld, Jan
+- Meyer, Eveline
+- mikha
+- Miles, Jack
+- milk
+- millenarianism
+- miracles
+- mirrors: and Himalayan vocabularies of possession, and prasenā, and svasthāveśa, and Vipula Bhārgava’s possession of Ruci
+- mkha’ ‘gro Ye shes mtsho rgyal
+- Mkhas Grub Rje
+- modernity
+- mohāveś
+- mokṣa
+- Molesworth, J. T.
+- Monier-Williams, M.
+- monotheism
+- Moreno, J. L.
+- Moreno, Manuel
+- Morris, Rosalind C.
+- MPD (Multiple Personality Disorder)
+- mṛtyuñjaya homa
+- much-lāge
+- mudiyettu
+- mudrās: and divinization of body, and nyāsa, in Vajrayāna Buddhism
+- Muller-Ortega, Paul Eduardo
+- Multiple Personality Disorder (MPD)
+- multiple self. See fluid/multiple self
+- Mumford, Stan Royal
+- Muṇḍaka Upaniṣad
+- muni
+- Murārigupta
+- Murphy, Jane
+- Murphy, Jane M.
+- Murugaṉ
+- music
+- Muslims. See Islam
+- Naagin
+- Nābhādās
+- Nabokov, Isabelle
+- nāḍis
+- Nāgārjuna
+- nā/fas: Āyurvedic texts on, in Bower manuscript, in Gyu-zhi, in Ĩśanaśivagurudevapaddhati, and Nala’s possession by Kali, and piśācas, and Sāṃkhya, in Upaniṣads, in Vajrayāna Buddhism
+- nakṣatra (lunar asterisms)
+- Nala’s possession by Kali, and abandonment of self, and alaṃkāraśāstra, and authenticity, and escape, and guilt, Jain version of, and raudra, and self, and violence
+- namājī
+- Nambiyar, M. R.
+- Nambudiri, Nilakanthan
+- Nambudiri, Vaidyamadham Narayanan
+- Nambudiripad, Kumaraswami
+- Nammāḻvār
+- Nandy, Ashis
+- Nārāyaṇapūrvatāpanīya Upaniṣad
+- Nārāyaṇa Tīrtha
+- narrative elements. See also epics; fiction
+- nārttikam
+- Nātyaśāstra (Bharata)
+- Nechung oracle
+- negative possession: and female competence, in Mahābhārata, and Marathi vocabularies of possession, and pervasion/immersion in Vedas, and Tamil/Simhala vocabularies of possession. See also bhūtavidyā; healing; sorcery
+- nērttikam
+- Netra Tantra
+- neurophysiology
+- New Age trance channeling, and charismatic/Pentecostal Christianity, content of, demographics of, and folk-classical relationship, and healing, legal issues, legitimization of, and nostalgia, and social control/resistance
+- night/darkness
+- Nīlamata Purāṇa (NP)
+- Nimbārka
+- Nirodhalakṣaṇa (Vallabhācārya)
+- nirvikalpasamādhi
+- Niśisaṃcāratantra
+- Niśītha Cūrṇi
+- Niṣpannayogāvalī
+- Niṣvāsaguhya
+- niveśanam
+- nonexistent self
+- nostalgia
+- Nuckolls, Charles
+- nyāsa, Bhāgavata Purāṇa example, and Daoism, and deity, etymology of, examples of, and fluid/multiple self, Kulārṇavatantra example, and mudrās, popularity of, and possession as knowledge, and pratiṣṭhā, Rudrādhyāya example, and sexuality, and shamanism, and shape-shifting, and Tibetan Buddhism, and vocabularies of possession, and yoga
+- Nyingma school of Tibetan Buddhism
+- Oberlies, Thomas
+- Obeyesekere, Gananath
+- obsessive-compulsive disorder (OCD)
+- Odysseus
+- ojhā
+- Olivelle, Patrick
+- onbo
+- Ong, Walter
+- oppression. See social control/resistance
+- oracular possession: and Buddhism, contemporary renewal of, and gandharva, New Age trance channeling as, and pain, and performative contexts, psychiatric/psychoanalytic theories, and shamanism, and social control/resistance, in Tantra/Āyurveda, and Tulu/Irula vocabularies of possession, in Vajrayāna Buddhism, and vāta, See also mediumistic possession; svasthāveśa
+- orientalism, See also Western discourses
+- Orofino, Giacomella
+- Orsi, Robert
+- Ortner, Sherry
+- Östör, Akos
+- Padakusalamāṇava Jātaka
+- padmapurāṇ
+- Padmasambhava
+- Padoux, André
+- paḍthal
+- pāgalāmi
+- Paheli (The Riddle) (Hindi film)
+- pain
+- Pāiasaddamahaṇṇavo (PSM)
+- paju
+- Pakaslahti, Antti
+- Pāli vaṃsas
+- Palsule, G. B.
+- Pañcapadyāni (Vallabhācārya)
+- Pañcaviṃśa Brāhmaṇa
+- Pāṇḍav Līlā
+- paṇḍita
+- pāpadṛṣṭi
+- Paper, Jordan
+- parakāyapraveśa
+- parakāyapraveśavidyā
+- Paramādibuddha
+- Paramārthagāthā
+- Paramārthasāra
+- parasparānupraveśa
+- Parātriṃsikālaghuvṛtti (PTLV)
+- Parātriśikālaghuvṛtti (Abhinavagupta)
+- parhez
+- Parkinson, Edward
+- Parpola, Asko
+- Parry, Jonathan P.
+- Pārśvanātha Caritra
+- partial incarnation
+- participation mystique
+- pasiṇa
+- passion
+- paśvā
+- Patañjali
+- pātri
+- payaṇkara
+- performative contexts, and alaṃkāraśāstra, and authenticity, and oracular possession, and Rāmāyaṇa, and rasa, and svasthāveśa
+- permeable self. See fluid/multiple self
+- personality: and ātman, and attabhāva/puggala, in Āyurvedic texts, and bhūtavidyā, and fluid/multiple self, fragmentation of, and psychiatric/psychoanalytic theories, and shape-shifting, and Śiva’s possession of Aśvatthāman, and social control/resistance, and svasthāveśa, 422. See also self
+- personhood: in Buddhism, and psychiatric/psychoanalytic theories, vs. self, and shamanism, and vocabularies of possession
+- pervasion/immersion in Vedas, Agni, and creation/incarnation, disease images, and entrance, and interpenetration, and keśin, and negative possession, 194; and night/darkness, and poetic meters, pra√viś, and ritual, and soma ritual, and speech, and surā
+- Petthavatthu
+- pēy
+- pey piriehu
+- pēy piṭikkatu
+- Pfleiderer, Beatrix
+- phauj
+- philosophical texts
+- Brahmasūtras, Buddhism, Buddhist Sanskrit literature, and discourse vs. practice, and ethics, Yogavāsiṣṭha, See also Śaṅkara’s possession of Amaruka; Yogasūtras
+- Philostratus
+- pīr
+- Piśācamocan temple
+- piśācas
+- piśācāveś
+- pitṛ: Aṣṭāṅgahṛdaya Saṃhitā on, Āyurvedic texts on, and bālagrahas, Caraka Saṃhitā on, in contemporary Āyurveda, and diagnosis, and insanity, in Ĩśanaśivagurudevapaddhati, and legal healing models, Madanamahārṇava on, and piśācas, Sāṃkhya on, Suśruta Saṃhitā on, text sources for
+- pitṛsthān
+- play
+- Pocock, David
+- poetic meters
+- poetic theory. See alaṃkāraśāstra
+- politics
+- Pollock, Sheldon
+- polyvalent self. See fluid/multiple self
+- popular culture
+- positivism
+- possessed as vessel
+- possession: anthropological definitions as coming into being, ethnographic overview, gradual vs. sudden, multidimensionality of, problematic nature of term, release from, vs. transfer of essence, type review
+- possession as evil, Christianity on, as misconception
+- possession as ontological reality
+- possession as practiced behavior: and brahmanism, and escape, and Malayalam vocabularies of possession, and psychiatric/psychoanalytic theories
+- possession as primitive, See also association of possession with low social status
+- poy āṭṭam
+- Prabandha-cintāmaṇi
+- pracāra
+- practice vs. discourse. See discourse vs. practice
+- Prahlāda
+- Prajāpati
+- prajātantra (democratization)
+- Prakāśa (Vallabhācārya)
+- pramāṇa
+- prāṇa
+- prāṇa-pratiṣṭhā, See also pratiṣṭhā
+- prānāyāma
+- pra√pad
+- prasenā, and astrology, and Buddhism, and Chinese aweishe ritual, etymology of, and folk-classical relationship, and karṇagraha, and mirrors, in svasthāveāa ritual, text sources for, Utpala on
+- praśna
+- Praśnamārga (PrMā)
+- Praśna Upaniṣad (PU)
+- Pratisenāvatāratantra
+- pratiṣṭhā
+- Pratyabhijñahṛdayam (Kṣemarāja)
+- Pravacanasārodhāra
+- praveśa, See also pra√viś
+- pra√viś: and creation/incarnation, and fiction, in Mahābhārata, andpra√pad, and transfer of essence, in Vedas, See also praveśa
+- pravṛttam
+- pregnancy
+- preta: in Aṣṭāṅgahṛdaya Saṃhitā, Aṣṭāṇgahṛdaya Saṃhitā on, 496; Āyurvedic texts on, in Bower manuscript, and ethnographic overview, and nyāsa, and transfer of essence, Varanasi ethnography on, and vocabularies of possession
+- preta doṣa
+- pretpañcāyat
+- Pretrāj
+- primitivism. See possession as primitive primordial embodiment
+- projection
+- Proudfoot, Wayne
+- psychiatric/psychoanalytic theories, and anthropological approaches, and asceticism, on bhūtavidyā, and body, and Christianity, cultural sensitivity in, Diagnostic and Statistical Manual of Mental Disorders on, and discourse vs. practice, dissociation theory, and epics, and externalizing primitive, hysteria, on obsessive-compulsive disorder, and oracular possession, and physiological evidence, and possession as practiced behavior, and social construction of emotion, vs. social control/resistance
+- psychodrama
+- puḍiccikiraḍu
+- puggala
+- pukutal
+- pūnakam
+- Purāṇas, bālagrahas in, bhūtavidyā in, and fiction, fluid/multiple self in, interpersonal possession in, See also Bhāgavata Purāna; Brahmāṇda Purāṇa; Kālikā Purāṇa
+- puruṣa
+- Puruṣottama
+- Pūrvamīmāṃsā
+- Pūrvamāmāṃsāsūtras
+- Pūtanā
+- puttalī
+- Raheja, Gloria
+- Rajam, V. S.
+- Rājaśekhara
+- rakṣas/rākṣasa: in Aṣṭāṅgahṛdaya Saṃhitā, Aṣṭāṅgahṛdaya Saṃhitā on, Āyurvedic texts on, Bower manuscript on, in Buddhist Sanskrit literature, contemporary reports of possession by, and fluid/multiple self, and insanity, Ĩśanaśivagurudevapaddhati on, Liṅga Purāṇa on, Madanamahārṇava on, Mahābhārata on, and moral certainty, and piśācas, Rāmāyaṇa on
+- Ramakrishna Paramahamsa
+- Raman, Bangalore Venkata
+- Rāmānuja
+- Ramanujan, A. K.
+- Ramaswamy, Vijaya
+- Rāmāyaṇa, ā√viś in, gandharva in, moral certainty in, and performative contexts, sexuality in, shape-shifting in, and svasthāveśa
+- Ramtha
+- Rao, M. Srinivasa
+- rasa: and bhakti, and brahmanism, categories, and devotion, and ethnographies, and fiction, and gandharva, and transfer of essence, See also emotion
+- Rasaratnasamuccaya
+- rasāyaṇa
+- rationalization, in fiction
+- Ratnakūṭa
+- rātrī
+- raudra: and āveśa, Āyurvedic texts on, as rasa category, and sacrifice, in Vajrayāna Buddhism, and violence
+- Ravigupta
+- realization. See enlightenment
+- Reat, N. Ross
+- “religion” term
+- religious drama, and devotion, and Rāmāyaṇa
+- Renou, Louis
+- Ṛgveda (ṚV), Agni in, anugraha in, and art, ā√viś in, and bhāva, bhūtavidyā in, on body, and devotion, disease images in, entrance in, and folk-classical relationship, gandharva in, interpenetration in, keśin in, oppositional consciousness in, poetic meters in, shape-shifting in, soma ritual in, speech in, See also pervasion/immersion in Vedas
+- Rgyud sde spyiḥi rnam par ‘zag pa rgyas par brjod
+- Richardson, Hugh
+- riding/mounting vocabularies of possession
+- Rigopoulos, Antonio
+- Ripinsky-Naxon, Michael
+- ritual: anthropological approaches on, in contemporary Āyurveda, and control, and divinization of body, and ethnographic overview, and folk-classical relationship, and gandharva, and gradual vs. sudden possession, and initiation, and Marathi vocabularies of possession, and New Age trance channeling, and pervasion/immersion in Vedas, and possession as practiced behavior, and shape-shifting, and social control/resistance, and Tantra, and text sources, and Tibetan Buddhism, and traditionalization, and transfer of essence, and vocabularies of possession, See also nyāsa; svasthāveśa
+- The Ritual Process (Turner)
+- rnam sloes
+- Robinet, Isabelle
+- rojā
+- ro-langs
+- Rorty, Richard
+- Rouget, Gilbert
+- ṛṣis
+- Ruben, Walter
+- Ruci. See Vipula Bhārgava’s possession of Ruci
+- Rudra
+- Rudrādhyāya, Rūpa Gosvāmī
+- Rūpa Kavirāja
+- rūpāntarakṛti
+- sacrifice: and ethnographic overview, and raudra, and Tamil vocabularies of possession, and transfer of essence, See also violence
+- SacrificedWife/Sacrificer’sWife (Jamison)
+- sādhana
+- Sādhanamālā
+- sahṛdaya
+- Sai Baba
+- Said, Edward
+- Śaivaparibhāṣā (Śivāgrayogin)
+- śakti
+- śaktipāta
+- sālāvaidyam
+- samādhi: and devotion vs. samāveśa, in Tantra, and yoga
+- samāpatti
+- samāropaṇa
+- samāveśa, as enlightenment, as knowledge, as practice, review, vs. samādhi, sectarian differences in
+- sam-ā√viś
+- samayasattva/jñānasattva
+- sami ati
+- Sāṃkhya, and Āyurveda, and bhūtavidyā, and body, and transfer of essence
+- Sāṃkhyakārikā (SK)
+- Sāṃkhykārikābhāṣya (Gauḍapāda)
+- Saṃkṣepa-Bhāgavatāmṛta (Rūpa Gosvāmī)
+- Saṃnyāsanirṇaya (Vallabhācārya)
+- saṃpratti/saṃpradēna
+- saṃsāraveśa
+- saṃskāra
+- Samuel, Geoffrey
+- saṃyama
+- Sanderson, Alexis
+- Sankalia, H. D.
+- Śaṅkara, See also Śaṅkara’s possession of Amaruka
+- Śaṅkarābhyudaya
+- Śaṅkarācāryas
+- Śaṅkaradigvijaya (ŚDV) (Mādhava-Vidyāraṇya)
+- Śaṅkara’s possession of Amaruka, and abandonment of self, and alaṃkāraśāstra, content of, and discourse vs. practice, and dualism/nondualism, and escape, and gandharva, and sexual abuse, and Śivājī, text sources for, and Vikramāditya story, and yoga
+- Sanskritization. See brahmanism; folk-classical relationship
+- śanta
+- Saramā
+- Sarvabuddhasamāyogaḍākinījālasaṃvara
+- Sarvadharmasaṃgrahavaipulya Sūtra
+- Sarvatathāgatatattvasaṃgraha
+- śāstra: and Āyurveda, and Brahma-sūtras, and eligibility, and emotion, and fiction, and folk-classical relationship, and Mahābhārata, and philosophical texts, and Tantra, and transfer of essence, See also brahmanism; specific śāstras
+- śāstrakāraya
+- Śatapatha Brāhmaṇa (ŚB): creation/incarnation in, fluid/multiple self in, healing in, and nyāsa, oppositional consciousness in, pervasion/immersion in, sexuality in, transfer of essence in
+- śatarudrīya
+- Sātī Āsarā
+- sattvas
+- sattvāvajaya
+- satyasaṃkalpatvāt
+- Sauptikaparvan
+- śauryāveś
+- śavasādhana
+- Sax, William
+- sayana
+- Sāyaṇa
+- scapegoating
+- Schelling, F. W.
+- Schleiermacher, Arthur
+- Schmidt, Hanns-Peter
+- Schmithausen, Lambert
+- Schoembucher, Elizabeth
+- scholarly orthodoxies: brahmanical neglect of possession in, problematization of religion term in, reification of culture in, See also study of possession
+- science, See also psychiatric/psychoanalytic theories; Western discourses
+- Scott, A. O.
+- Scott, David
+- Seeman, Don
+- Seidel, Anna
+- Sekoddeśa
+- self: abandonment of, and bhāva, fragility of, and Nala’s possession by Kali, as nonexistent, vs. personhood, See also fluid/multiple self; personality; unitary self
+- Seligmann, Brenda
+- Seligmann, C. G.
+- semantics. See vocabularies of possession
+- Śerāṇvālī
+- sexual abuse
+- sexuality: and aṇaṅku, and bhūtavidyā, and devotion, and divinization of body, and entrance, and ethnographic overview, in fiction, and gandharva, and nyāsa, and riding/mounting vocabulary, and Śaṅkara’s possession of Amaruka, and svasthāveśa, and transfer of essence, and Vipula Bhārgava’s possession of Ruci, and Western discourses, and women’s preponderance in possession
+- shamanism and Assamese vocabularies of possession, and Buddhism, and central vs. peripheral possession, China, confusion about, in early Indus civilization, and ecstasy, ethnographic interest in, and folk-classical relationship, and gandharva, and grabaṇa, and Hanumān, and keśin, and mediumistic possession, New Age, and nyāsa, and oracular possession, and personhood, and shape-shifting, and soul-journeying, and svasthāveśa, and text sources, Tibet, and Tulu/Irula vocabularies of possession, and vocabularies of possession,
+- shape-shifting, and animals, and brahmanism, and Brahmasūtras, and fluid/multiple self, and Indra, in Mahābhārata, and masks, purpose of, and ritual, and shamanism
+- Sharf, Robert
+- Sharma, Priya Vrat
+- Shastri, Ajaya Mitra
+- Shinto
+- Shirokogoroff, Sergei
+- shock therapy
+- Shukla, K. P.
+- Shulman, David
+- “sick medicine-man” thesis
+- Siddhasāra (Ravigupta)
+- sidh
+- sight
+- Sikhism
+- śilpiśālā
+- Simhala vocabularies of possession
+- Simons, Ronald C.
+- Sinh Jee, Bhagwat
+- síṅsiṅ-khòlkhol
+- Siri epic
+- sir/kum caṛhnu
+- śiśugraha
+- Śītalā
+- Śītapūtanā
+- Śiva: and bāladrahas, and bhūtavidyā, Buddhist transformation of, conversion of, and emotion, and fluid/multiple self, and folk-classical relationship, and possession as knowledge, possession of brahman’s corpse, and svasthāveśa
+- Śivadāsa
+- Śivadṛṣṭi (Somānanda)
+- Śivāgrayogin
+- Śivājī
+- Śivārkamaṇidīpikā (Appayya Dīkṣita)
+- Śiva’s possession of Aśvatthāman
+- Skanda, See also skandagrahas
+- skandagrahas
+- Skanda Purāṇa
+- smara
+- śmaśāna sādhana
+- Smith, John
+- smṛti
+- Sṅags rim chen mo
+- Snell, Bruno
+- Snellgrove, David
+- sngags-pa
+- social control/resistance, and anthropological approaches, and bhūtavidyā, and body, and colonialism, and emotion, and ethnographic overview, and fluid/multiple self, limits of, and New Age trance channeling, and oracular possession, and ritual, and shamanism, and Tamil/Simhala vocabularies of possession, and text sources, Tibet, and Vikramāditya story, and women’s preponderance in possession
+- social status. See association of possession with low social status; demographics
+- śokāveś
+- sokhā
+- Solomon, Robert C
+- Soma: and creation/incarnation, and entrance, and gandharva, and interpenetration, and marriage, and soma ritual
+- Somadeva
+- Somānanda
+- soma ritual, and ā√viś, and brahmanism, and gandharva, and pervasion/immersion in Vedas
+- Sontheimer, G.-D.
+- sorcery: and bhūtavidyā, and healing, and Himalayan vocabularies of possession
+- speaking in tongues
+- speech: and gandharva, and pervasion/immersion
+- spontaneity
+- śraddhā
+- śraddhāviveśa
+- śrauta
+- Sri Aurobindo
+- Śrī Caitanya
+- Śrīkaṇṭha
+- Śrīkṛṣnasandarbha (Jīva Gosvāmī)
+- Sri Lankan vocabularies of possession
+- Srinivas, Smriti
+- Śrīśaṅkaravijaya (ŚV) (Anantānandagiri)
+- śṛṅgāra
+- Śrīnīvāsācārya
+- Staal, Frits
+- Stablein, William
+- Stanley, John
+- Stein, Rolf A.
+- Stigmata
+- Stoller, Paul
+- Strickmann, Michel
+- study of possession, and discourse vs. practice, and emotion, Eurocentrism in, and fluid/multiple self, fundamental questions in, and literacy, modern attractiveness of, theories, and vocabularies of possession, See also anthropological approaches; scholarly orthodoxies; text sources
+- Subala Upaniṣads
+- Subhagānandanātha
+- Subhāṣitaratnakoṣa
+- Subodhinī (Vallabhācārya)
+- substance-code
+- śuddādvaita
+- suhāg
+- suicide
+- Śuklayajurveda
+- surā
+- surrogate possession
+- Suśruta Saṃhitā, bhūtavidyā in, healing in, and Sāṃkhya, and svasthāveśa
+- Sutherland, Gail Hinich
+- Sūtrakṛtāṅga Sūtra
+- Sutta Piṭaka
+- Suvarṇasaptati
+- svasthāveśa, and Alexander the Great, and Chinese aweishe ritual, Chinese origin question, current practice of, and Dalai Lamas, and devotion, and dream, epigraphical evidence for, and folk-classical relationship, and Hanumān, in Ĩśānaśivagurudevapaddhati, in Mantramahodadhi, ritual of, South India, in Tantrarāja, text sources for, use of children in, See also prasenā
+- svayamāveśa
+- Śvetāśvatara Upaniṣad (ŚvetU)
+- Svoboda, Robert
+- Svopajñavivaraṇa (Hemacandra)
+- symbolism
+- Tachikawa, Musashi
+- tailabindu-parīkṣa
+- Taittirīya Āraṇyaka
+- Taittirīya Brāhmaṇa (TB)
+- Taittirīya Saṃhitā (TS): animals in, anugraha in, gandharva in, nyāsa in, pervasion/immersion in, poetic meters in, shape-shifting in, transfer of essence in
+- Taittirīya Upaniṣad (TU)
+- Taiwan
+- The Tale of Genji
+- Tambiah, Stanley
+- Tamil vocabularies of possession, and devotion
+- Tantra, and art, and ā√viś, and Āyurveda, on body, brahmanical orthodoxy on, divinization of body in, on emotion, and fluid/multiple self, possession as enlightenment in, possession as knowledge in, possession as practice in, and rasa, and ritual, śāstra, sectarian differences within, and Vikramāditya story, See also nyāsa; svasthāveśa; Vajrayāna Buddhism
+- Tantrāloka (Abhinavagupta)
+- Tantrarāja (TR)
+- Tantrārthāvatāra-vyākhyāna
+- Tantrasadhbhāva
+- Tantric Buddhism. See Vajrayāna Buddhism
+- Tantric Healing in the Kathmandu Valley (Dietrich)
+- Tarabout, Gilles
+- Tara Devi
+- Tattvārthadīpanibandha (Vallabhācārya)
+- Tawney, C. H.
+- Taylor, Mark C.
+- Teiser, Stephen F.
+- Telugu vocabularies of possession
+- temo
+- terms. See vocabularies of possession
+- text sources, and brahmanism, conclusions, for disease-producing possession, for prasenā, for Śaṅkara’s possession of Amaruka, and shamanism, and social control/resistance, for svasthāveśa, for vocabularies of possession, See also specific sources
+- teyvam āṭukākkal
+- teyyam
+- teyyam tuḷḷal
+- teyyāṭṭam
+- Tezuka, Osama
+- Thailand
+- Thaipusam festival (Malaysia/Singapore)
+- Ṭhānaṃgasutta
+- theory vs. practice. See discourse vs. practice
+- Thirumulpad, Raghavan
+- Thomas, Keith
+- Thompson, George
+- Tibet: bhūtavidyā, Buddhist Sanskrit literature, Chinese occupation of, contemporary Āyurveda, Dalai Lamas, Gesar of Ling, incarnation as possession in, shamanism, social control/ resistance, state oracle, svasthāveśa, vocabularies of possession, women’s preponderance in possession, See also Himalayan vocabularies of possession; Vajrayāna Buddhism
+- Tieken, Herman J. H.
+- tirayāṭṭam
+- Ṭoḍarānanda
+- Totula
+- tovil
+- traditionalization
+- trance, vs. ecstasy
+- trance channeling. See New Age trance channeling
+- tranquility. See śānta
+- transfer of essence, in Atharvaveda, and bhūtavidyā, and body part lists, in Brāhmaṇa texts, in Brahmāṇḍa Purāṇa, in Chāndogya Upaniṣad, and Christianity, and control, and creation/incarnation, and emotion, and fluid/multiple self, and gandharva, and Manu’s cups myth, vs. possession, and possession as ontological reality, and pregnancy, and rasa, and ritual, and sacrifice, and scape-goating, and suicide, and Vedas, and Vipula Bhārgava’s possession of Ruci
+- transgression
+- Trautmann, Thomas R.
+- Trawick, Margaret
+- treatment. See healing
+- Trenckner, V.
+- Tsongkh’apa
+- tuk/tuktāka
+- tuḷḷal
+- Tulpule, S. G.
+- Tulu vocabularies of possession
+- turīya
+- Turner, Edith
+- Turner, Victor
+- The Turn of the Screw (James)
+- Ubhayabhāratī
+- Ucchuṣma
+- Uganda
+- uncanny. See Unheimlich
+- Unheimlich
+- union/separation dialectic, See also dualism/nondualism
+- unitary self, in Christianity, and fundamental questions, and psychiatric/psychoanalytic theories, See also fluid/multiple self; Western discourses
+- unmāda, Atharvaveda on, and bhūtavidyā overview, Bower manuscript on, Cakradatta on, Caraka Saṃhitā on, contemporary Āyurveda on, diagnosis of, and māthār golmāl, Praśnamārga (PrMā) on, psychiatric/psychoanalytic theories on, Vīrasiṃhāvaloka on, See also bhūtavidyā; disease-producing possession
+- upahata
+- Upaniṣads, anugraha in, on ātman/brahman, bhūtavidyā in, on body, and brahmanism, and Brahmasūtras, creation/incarnation in, and discourse vs. practice, dualism/nondualism in, gandharva in, localization of divinity in, and nyāsa, pervasion/immersion in, and philosophical texts, shape-shifting in, and Tibetan Buddhism, transfer of essence in
+- ūpar āna
+- ūpar honā
+- upari havā
+- Upasani Maharaj
+- Upasena Gurunnanse
+- uṟayuka
+- urban/rural distinction
+- Urdu vocabularies of possession
+- Utpala (Bhaṭṭotpala)
+- Utpaladeva
+- Vāc
+- vacā
+- Vācaspatimiśra
+- Vāḍirāja
+- Vāgbhaṭa
+- vaidyas, See also healing
+- Vaikhānasa Āgama
+- Vaiṣṇava schools
+- Vajpeyi, Ananya
+- Vajrapāṇi
+- Vajrāveśa
+- Vajrayāna Buddhism, and brahmanism, contemporary practice, emotion in, and folk-classical relationship, initiation in, Kālacakratantra, máṇḍalas in, samayasattva/jñānasattva, and shamanism, and vocabularies of possession
+- vakku
+- vākku solluratu
+- valgan
+- Vallabhācārya, on aesthetics of possession, on āveśa, and bhāva, and dualism/nondualism, on saṃsārāveśa, and yoga
+- Vāmakeśvara Tantra
+- vaniṣṭusava
+- Varāha
+- Varāhamihira
+- Varanasi ethnography
+- Varier, P. S.
+- varuka
+- Varuṇa
+- Vasiṣṭha and King Kalmāṣapāda
+- vasos prefiridos
+- Vāsuki
+- vāta
+- Vātsīputrīyas
+- Vedānta, Yogavāsiṣṭha, See also Śaṇkara’s possession of Amaruka
+- Vedāntakaustubha (Śrīnīvāsācārya)
+- Vedāntakaustubhaprabhā (Keśavakāśmīrabhaṭṭa)
+- Vedāntasāra
+- vedarala
+- Vedas: anugraha in, and bhūtavidyā, brahmanical orthodoxy on, eligibility for possession in, and fluid/multiple self, and folk-classical relationship, gandharva in, √gṛh in, importance of, localization of divinity in, manifestation of, oppositional consciousness in, shape-shifting in, vipra, See also creation/incarnation; pervasion/immersion in Vedas; Ṛgveda; transfer of essence
+- Vedic theism
+- Velankar, H. D.
+- veḷiccappeṭuka
+- veḷicchapāṭu
+- vétala
+- Vetālapañcaviṃśati, See also Vikramāditya story
+- Vidagdhamādhava (Rūpa Gosvāmī)
+- Vidhānamālā
+- Vidura’s possession of Yudhiṣṭhira
+- vidyā
+- vigraha
+- Vijñānabhairava
+- Vijñānabhikṣu
+- Vikramāditya story
+- Vimalakīrtinirdeśa Sūtra
+- Vimalaprabhā (Kalkin Śrīpuṇḍarīka)
+- violence: and bhūtavidyā, conclusions, and emotion, and ethnographic overview, and healing, Indo-European examples, in Mahābhārata, as memorable
+- vipra
+- Vipula Bhārgava’s possession of Ruci, and alaṃkāraśāstra, and sexuality, and shape-shifting, and transfer of essence, and Vajrayāna Buddhism, and Vikramāditya story, violence in, and yoga
+- vīra
+- Vīrasiṃhāvaloka
+- √viś
+- (Viṣa-) Nārāyaṇiya
+- viśiṣṭādvaita
+- Viṣṇu: and folk-classical relationship, possession of kings, and transfer of essence
+- Visuvalingam, Elizabeth-Chalier
+- Visuvalingam, Sunthar
+- viśva
+- Viśvarūpa
+- Viśveśvara Bhaṭṭa
+- Vivaraṇa (Śaṇkara)
+- Viveka (Jayaratha)
+- Vivekananda, Swami
+- Vivṛtivimarśinī (Abhinavagupta)
+- vocabularies of possession, and alaṃkāraśāstra, and anthropological approaches, Assam, Bengali, Chinese, and control, and emotion, English term, experience, extent of, and folk-classical relationship, Gujarat, Himalayan, Hindi, and literacy, in Mahābhārata, Malayalam, Marathi, and nyāsa, overview, and personhood vs. self, review, riding/mounting, Sri Lanka, Tamil/Simhala, Telugu, text sources for, Tulu/Irula, Urdu, and Vedas
+- Vodoun
+- Vogt, Beatrice
+- vṛtragraha
+- vyākaraṇa
+- vyāptitva
+- Vyāsa
+- Wade, T. E.
+- Wadley, Susan S.
+- Wagle, N. K.
+- Walsch, Neale Donald
+- Walters, Jonathan
+- Wayman, Alex
+- Weber, Max
+- Weiss, Mitchell
+- Western discourses, and bhūtavidyā, and brahmanism, and contemporary Āyurveda, on emotion, on experience, and healing, influence of, on personhood, and psychiatric/psychoanalytic theories, and sexuality, and shamanism, and study of possession, and Tantra, and vocabularies of possession, See also Christianity; orientalism
+- White, David Gordon
+- Wijesekera, O. H. de A.
+- Will, S. S.
+- Winquist, Charles E.
+- Wirz, Paul
+- women: and gandharvas, and transfer of essence, See also gender; women’s preponderance in possession
+- women’s preponderance in possession, and abandonment of self, and aṇaṅku, and association of possession with low social status, and bhūtavidyā, and biography, and Buddhism, and contemporary Āyurveda, and control, and education, and ethnographic overview, and female competence, and fluid/multiple self, jhākri, and localization of divinity, and New Age trance channeling, and śakti, and sexuality, and social control/resistance, and Tamil/Simhala vocabularies of possession
+- Woodroffe, John
+- Wujastyk, Dominik
+- Xu Chaolong
+- Yajñavarāha
+- Yajurveda (YV)
+- yakädurā
+- yakku
+- yakṣa
+- yaktovil
+- yantras
+- Yaśodharacarita (Vāḍirāja)
+- Yocum, Glenn E.
+- yoga, and Āyurveda, and body, enlightenment in, and fiction, and nyāsa, practice, and Śaṅkara’s possession of Amaruka, and Tibetan Buddhism, and Vipula Bhārgava’s possession of Ruci, and vocabularies of possession, Yogavāsiṣṭha
+- Yogacūḍāmaṇi Upaniṣad
+- Yogaratnākara (YR)
+- Yogaśāstra (Hemacandra)
+- Yogasiddhāntacandrikā (Nārāyaṇa Tīrtha)
+- Yogaśikha Upaniṣad
+- Yogasūtras (YS) (Patañjali) āveśa in, and Āyurveda, and Buddhism, on citta, on nāḍis, samādhi in, on samāpatti, and Vipula Bhārgava’s possession of Ruci
+- Yogavāsiṣṭha
+- yogenānupraviśya
+- Yoginītantras
+- Yuktidīpikā
+- yuktivyapāśraya
+- Zarrilli, Phillip
+- Ziegenbalg, Bartholomaeus
+- Zvelebil, Kamil
+- Zydenbos, Robert
+- Zysk, Kenneth G.

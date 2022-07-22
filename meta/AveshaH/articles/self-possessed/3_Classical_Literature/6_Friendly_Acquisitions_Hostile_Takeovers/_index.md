@@ -1,0 +1,9 @@
++++
+title = "+6 Friendly Acquisitions, Hostile Takeovers"
+
++++
+The Panorama of Possession in the Sanskrit Epics
+
+THE TWO GREAT SANSKRIT EPICS, THE MAHĀBHĀRATA (MBh) and the Rāmāyaṇa (Rām), contain extensive material for the study of possession. The MBh, the initial complete text of which was probably completed between the second and fourth centuries C.E.,1 contains the bulk of this material. It may be argued that the entire plot of the epics, particularly the MBh, is advanced through curses, boons, adventitious synchronicities, and other acts of subtle intervention, as well as by extraordinary acts of various gods and surreptitious identity shifts, including some involving possession.2 The material is practically endless; thus an accounting and analysis of it takes on the dimensions of an ethnography, for here, among all Sanskrit source material, the text approaches thick description. For this reason, the MBh assumes a major role in the remaining analysis throughout this volume and is viewed as instrumental in determining the direction of the linguistic and psychological discourse of possession in India for (at least) the two millennia since its composition. The discussion here, however, must be limited to a few important episodes.
+
+Before introducing the stories themselves, it is necessary to provide a general outline of the vocabulary and ideology of possession in the epics. Possession of most of the varieties discussed in this volume, except perhaps of soma and the initiatory possession characteristic of Tantra, appears in the epics. Instances of āveśa, samāveśa, praveśa, and grahaṇa abound. Possession of human bodies, dead and alive, by yogins, deities incarnating in kings, possession as intense emotion, devotional and oracular possession, and demonic, disease-producing possession are all attested. Indeed, an entire demonology appears in the Vanaparvan, which we look at in due course.

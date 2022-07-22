@@ -1,0 +1,45 @@
++++
+title = "01 NOTES"
+
++++
+1. Brown 1997.
+2. Nor does it resemble the trance states experienced by contemporary charismatic or Pentacostal groups. These states have vague resonances with the possession found at Jejuri and other mass possession sites. However, I cannot consider them here.
+3. For an account of this festival as it occurs in Penang, see Collins 1997, whose theoretical perspective is quite different from that of others, and well worth noting. See my discussion of this in Smith 2001a. For a discussion of the experience of possession during the Thaipusam festival, along with a complementary study of its physiological correlates, see Simons et al., 1988.
+4. Cf. Gellner 1994:211f.
+5. Goodheart 2001:13.
+6. Cf. Morris 2000 for the possession of royalty long dead in Thailand. This is also common in Africa; see the relevant articles in Behrend and Luig 1999.
+7. Cf. Behrend 1999.
+8. This is a major theme in Morris’s study of possession and modernity in northern Thailand; see Morris 2000:332. See also the remarks of Faure, in Chapter 1, n. 28.
+9. Macdonald (1975) reminds us of just how remote most of Nepal remained, at least in the 1960s, and likely remains today. In the mid-twentieth century, 75 percent of Nepalese had never visited a doctor, thus depended for their health care on local healers and shamans.
+10. Erndl 1997:23.
+11. For Africa, see Behrend and Luig 1999 and Sharp 1993. For the islands of the Pacific basin, see Mageo and Howard 1996 (also my review of these books, Smith 2001a). For Cambodia, see Bertrand 2004. For Sri Lanka, see Lawrence 2003 and Chapter 4 herein. Nabokov sees the same phenomenon in South India: “Over this century South India has undergone a revival of devotional fervor (bhakti) first popularized by the Tamil poets and saints between the seventh and the ninth centuries. Increased participation in practices such as firewalking, flesh piercing, and pilgrimage have moved devotee to experience deities directly, intimately, and intensely” (2000:16). The possession described in the New York Times in November 2000 (see above, p. 40) is not considered oracular, at least not by the Catholic Church, which is attempting to eradicate it through exorcism. Nevertheless, the Church does recognize its recent increase.
+12. See Mark Taylor on Huntington’s remarks on the connection between Westernization and modernization and the eventual backlash against the former in non-Western societies (1998:5f. on Huntington 1996:75f.).
+13. Cf. Paper 1995:117ff. For more recent information on the Mediums’ Association in Taiwan and its practices, see Tsai 2003, 2004. See Davis 2001 on the number of spirit-mediums per capita in Song-dynasty China. “These numbers are not small,” he states.
+    In Hongzhou [Nanchang, Jiangxi], for example, nineteen hundred spirit mediums were rounded up in the early eleventh century, which produces a ratio of one spirit-medium for every 135 families; in Chuzhou [Zhejiang], there were thirty-seven hundred spirit-medium households in the prefecture of the late eleventh century, and therefore one medium household for every 24 families; and in Fujian … [there were] four or five spirit-medium households for every village! (p. 62)
+    It is impossible to adduce data that can provide any figures for classical (or contemporary) South Asia.
+14. For example, a possessed medium mounts a throne in order to become a cakkavartin (world-turning monarch); cf. Morris 2000:115.
+15. Morris 2000:89; for an extended description of and commentary on the Praise Ceremony, see pp. 107ff.
+16. One channeled book, Conversations with God: Book 1, by Neale Donald Walsch, was on the New York Times bestsellers’ list for more than three years in the late 1990s. Walsch alleges to have channeled God himself, not a spirit, angel, or minor deity. It is apparently of great comfort to millions that God gives good, commonsensical, and very general advice.
+    The degree to which trance channeling has entered the American consciousness (and the general level of seriousness with which it is taken) can also be seen by the following headline “YANKEES LEAD SERIES, 3–2. WELLS CHANNELS BABE RUTH TO KEEP CURSE ALIVE” in the New York Times, on the first page of the sports section, October 15, 2003. This is not altogether distant from the parody in Chapter 8 in our discussion of the Bhagavadajjukāprahasana, a drama written in the seventh century.
+17. Sontheimer notes that in Maharashtra it is not the most respectable mode of earning a livelihood: “The rather unclassical folk-religious forms of bhakti are hierarchised: e.g., hook-swinging is rākṣasī bhakti, the possession by the god and making a living on it is styled pisacï bhakti, and feeding a Brahmān, who has to be imagined to be a form of Mārtaṇḍa Bhairava, is called sāttvikī bhakti and is the highest form of bhakti” (1995:136).
+18. See Gellner 1994; also Höfer 1974:163–164.
+19. Melton et al. 1990:xiii.
+20. See Desjarlais 1992, ch. 1, for the author’s interesting and reflective account of his shamanic initiation in Nepal in 1988.
+21. See Hanegraaf 1998:23ff. He states further that channeling “is an emic term used in the New Age context to refer to the general etic category of ‘articulated revelations.’ It is no more and no less than that. The attempt to present channeling as an etic term must be dismissed as an apologetic strategy for convincing the public of the validity of New Age trance channeling” (p. 27). For “articulated revelations,” see pp. 24ff.
+22. The commentator on the love poem Amaruśataka informs us that Śaṇkara wrote this while stationed in Amaruka’s body. It is virtually certain, however, that Śaṇkara did not write the Amaruśataka.
+23. A few scholars, notably Elizabeth-Chalier Visuvalingam (1989) and Sunthar Visuvalingam (1989), have overplayed the idea of the transgressive in Indian religious and spiritual practices. A transgressive practice is not necessarily extrainstitutional, especially in Indian popular religion, where “institutional” boundaries are shadowy at best.
+24. See Solomon (1995), who rightly notes: “there is no reason—certainly no a priori reason—to suppose that emotions are the same the world over” (p. 255). For more on this topic see Chapter 8.
+25. Brown 1997:38ff.
+26. In my own classes in “Comparative Religious Ritual” at the University of Iowa, I have shown Alf Hiltebeitel’s documentary film “Lady of Gingee,” produced while conducting research for his Draupadī volumes. During one scene a participant in possession bites off the head of a rooster and drinks its blood. Despite many noteworthy features of this film, this scene is often the only one that students remember. Although the scene is surely striking, it is disorienting and memorable for most American students because to them religiosity is not supposed to be expressed like this. For a photo of a “yakka-dancer” biting through the throat of a sacrificed cock, see Wirz 1954:56, plate VIII; see also Nabokov 2000:160, where the head of a chicken is bitten off, followed by the severing of the head of a goat with a single stroke of a sword and the impalement of a pig with a long spear piercing the throat. Hiltebeitel (1991) often addresses the theme of impalement as a feature of possession. The theme also occurs in Bengal; see Korom 1992:252ff.
+27. See Sontheimer 1965 on the legal personality of Hindu deities.
+28. Wagle (1995) describes the legal procedure for verification, called paḍthal, in which various gods were consulted to pronounce judgment on spirits. Sometimes this was done through a medium, sometimes through other forms of divination. “The bhūt problem,” writes Wagle, “must have reached crisis proportions in the districts of southern Koṇkaṇ in the mid-1770s” (p. 191). A special constabulary was established with a designated officer and six assistants from the central government of the Peshwe’s who traveled through the area investigating and controlling bhūt cases, then levying fines of between 25 and 50 rupees.
+29. For example, the Ugandan Alice Auma of the spirit Lakwena; cf. Behrend 1999.
+30. I am grateful to Michael Wright, a resident of the community headed by J. Z. Knight (Ramtha), in Yelm, Washington, for this clarification.
+31. But see Sontheimer 1965 on the degrees to which deities are said to be alive in Indian legal theory, their ability to accept gifts, the deity as a juristic entity, and the historical role of Mīmāṃsā in mediating such cases.
+32. Brown 1997:156ff., 187ff.
+33. See ibid.: 194–195; a particularly good Web site is www.trancechanneling.com.
+34. Ibid.:130.
+35. See, e.g., Sharp 1993.
+36. Brown 1997:182.
+37. Another related comparative study was conducted by Jakobsen (1999), who discovered that urban neoshamanistic course participants more often than not practice shamanic behavior without actually mastering the spirits, which Shirokogoroff discovered is one of the important aspects of traditional shamanism (see above, pp. 63–64).
+ 

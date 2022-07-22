@@ -1,0 +1,81 @@
++++
+title = "07 NOTES"
+
++++
+1. See Kelly 1998:173, and especially 188n6 on the problematic word Bewußtsein, probably better as “awareness” than “consciousness,” though Kelly himself has “reluctantly chosen the traditional term.” See my remarks in Chapter 1 on the use of the word “consciousness.”
+2. For the problems surrounding this, see Clarke 1997:112ff.
+3. Or, as Bloomfield writes, “penetration of one’s mind-stuff into the body of another” (1917:1). Cf. Caraka Saṃhitā, Śarīrasthānam 1.140, where āveśa is mentioned as one of the eight siddhis, and Bloomfield 1917:6, for other references. See also White 2004 on the sūtras discussed here.
+4. Nāḍis are regarded as the scaffolding of the subtle body. Many nāḍis are believed to bear extraordinary power, if properly developed. For example, Ramakrishna “speaks of a special ‘memory nerve’ that develops after twelve years of celibacy. With such a nerve, the intellect develops and can comprehend God” (Kripal 1995:338n32). Elsewhere Ramakrishna says the “memory nerve” (medhā nāṛī) develops after holding semen for seven years (ibid.:67).
+5. This commentary that is well worth studying has thus far received virtually no scholarly attention. The only edition of the Yogasiddhāntacandrikā appeared in 1911.
+6. ghaṇṭābhighātatulyasya dedīpyamānāṇgārarāśidyuticañcalasya manaso ’pratiṣṭhasya śarīre karmāśayād bandhaḥ pratiṣṭhā.
+7. Hara also suggests that “the object of entering is the seat of emotion, such as the mind [mānasa, citta] or heart [hṛdaya]” (1979a:263).
+8. kāyarūpasaṃyamāt tadgrāhyaśaktistambhe cakṣuprakāśāsaṃprayoge ’ntardhānam | Trans. Rukmani 1987:102.
+9. baleṣu hastibalādīni |
+10. pravṛttyālokanyāsāt sūkṣmavyavahitaviprakṛṣṭajñānam | Trans. Rukmani 1987:108.
+11. bhuvanajñānaṃ sūrye saṃyamāt |
+12. tad evārthamātranirbhāsaṃ svarūpaśūnyam iva samādhiḥ; cf. YS 1.43, which regards this state as nirvitarka samādhi, in which conceptualization ceases and memory is purified (smṛtipariśuddhau).
+13. YS 1.41: kṣīṇavṛtter abhijātasyeva maṇer grahitṛgrahaṇagrāhyeṣu tatsthatadañjanasthā samāpattiḥ (Samāpatti or “absorption” arises when the fluctuations [of the mind] are weakened, when [the mind] appears as a transparent jewel, assuming the features of the state on which it rests, which includes the cognizer, the cognition itself, and the object cognized).
+14. See, e.g., Silburn 1988:133.
+15. Hemacandra is not speaking as a lone voice in Jainism. Cf. Merutuṅga’s Prabandhacintāmaṇi, p. 12:parapurapraveśa; also Pārśvanāthacaritra 1.576, 3.119. Hemacandra is regarded as a great siddha by the Jain tradition: It is said that he defeated another Jain, Devabodhi, in debate by floating in the air and manifesting the entire Jain pantheon and all the ancestors of King Kumārapāla; cf. Bloomfield 1917:2.
+16. See also a verse from the previous chapter of the Yogavāsiṣṭha, 6.1.81.56: “When the prāṇa is led into a state of stability for some time by engaging the practice of holding the breath at the end of an exhalation at the distance of twelve finger-breadths from the mouth, one can enter [praviśati] into the body of another person.”
+17. Cited by Eck 1993:71–72.
+18. See Arya 1986:373 for the view cited in Nāgojī Bhaṭṭa’s commentary Bṛhatī that samāpatti is a vṛtti.
+19. On the Śaṅkara hagiographies, see Vidyasankar 2000. Bloomfield briefly describes the account in the Hindi Bhaktamāl (1917:10–11, through a French summary), which he erroneously refers to as the Bhaktimāl. This is clearly based on the Sanskrit hagiographies, to which Bloomfield, apparently, did not have access.
+20. Cf. Mayeda 1999:3 and notes.
+21. Cf. ŚDV 9.100: anaṅgaśāstra; 10.17: kandarpaśāstra.
+22. Maṇḍana authored several major works of advaita (Brahmasiddhi), pūrvamīmāṃsā (Vidhiviveka, Bhāvanāviveka, etc.), and philosophy of grammar (Sphoṭasiddhi). It is likely that Maṇḍana lived slightly before Śaṅkara; cf. Thrasher 1979; and Raja 1991.
+23. ŚV, p. 179: liṇgaśarīramātreṇa ca sābhimānī (jīvaḥ) citigato nṛpakalevaraniṣṭhabrahmarandhraṃ prāviśat |. ŚDV 9. 104cd: mahipasya varṣma guruyogabalo ’viśad ātivāhikaśarīrayutaḥ || The word guruyoga refers to Yogaśāstra. The next verse reads: aṇguṣṭham ārabhya samīraṇaṃ nayan karandhramārgād bahir etya yogavit | karandhramārgeṇa śanaiḥ praviṣṭavān mṛtasya yāvac caraṇāgram ekadhīḥ ||. karandhra is the same as brahmarandhra (Ka = Prajāpati or Brahmā). He carefully (śanaiḥ) entered (praviṣṭavān) the body of the king up to the toes (yāvac caraṇāgram).
+24. On Śaṅkara’s argument in his commentary on the Bhagavadgītā that only brahmcārins, and brahmans at that, are eligible for liberation, see Nelson 1993.
+25. mukhaṃ mukhena saṃyojya vakṣo vakṣojayos tathā | nābhyā nābhiś ca saṃkocya saṃkocena padāpadam || evam ekāṇgavat krtvā gāḍhāliṇganatatparaḥ | kakṣāsthāneṣu hastābhyāṃ spṛśan prauḍha ivābabhau || (ŚV, ibid.). The ŚDV, a more poetically accomplished text, provides a much grander rendering of his amorous loveplay and the coquettish behavior of the king’s many wives (ŚDV 10.12–16).
+26. The recent publication in four large (and largely exemplary) volumes of Nimbārka’s commentary on BS with three commentaries and thirteen helpful appendices should vastly enhance future work on this little-studied commentator and Vaiṣṇava sectarian founder. Cf. Brahmasūtranimbārkabhāṣyam (2000).
+27. I am unable to find any reference to this in the Vaiśeṣika. The nearest reference is Udayana’s Nyāyakusumāñjali (NKus) 230–8 (III), 239–6 (III): bhāvāveśāc ca cetasaḥ, referring to the absorption of consciousness in being. On the notion of bhāva in Vaiśeṣika, see Halbfass 1992:139ff . Cf. also Chemparathy 1972:93. In discussing proofs for the existence of Īśvara, Udayana comments on āviśya in Bhagavadgītā 15.17: the “āveśa or ‘permeation’ through which the Supreme Self ‘supports’ the triple world, as ‘the conjunction with a being that has cognition, desire, and effort’” (jñānacikīrṣāprayatnavataḥ saṃyogaḥ); cf. NKus 506.15.
+28. Cf. Olivelle 1998:272–273 (text and translation), 567 (notes); cp. Śvetāśvatara Upaniśad (Śvet Up) 1.4 and Olivelle’s notes, pp. 615f.
+29. It is perhaps unnecessary to add that locating ethnographic support for this is difficult at best. Even possible literary support is closer to shape-shifting, in which, as we have seen earlier, a deity like Indra will create a unique form for a specific purpose.
+30. Cf. BS 4.4.17: jagadvyāpāravarjaṃ prakaraṇād asannihitatvāc ca |
+31. Trans. Olivelle 1998:429.
+32. Cf. Śrībhāṣyam, pp. 242–243.
+33. yathā gṛhādivyāptiḥ, tathā muktasya svaśaktitirodhāyakamalāpāye svaśaktyā viśvavyāptiḥ āveśaḥ bhavati |
+34. TĀ 3.14: bhartā san bhriyamāṇo bibharti eko devo bahudhā niviṣṭaḥ.
+35. na hi tadā naisargikajñānakriyābhyāṃ tathā bhoktuṃ śakto bhavati kintu bhagavās tasminn āviśati yadā.
+36. Recall our caveat on the use of the term “consciousness” stated in Chapter 1. The concept is multifaceted to the point of vagueness in contemporary usage, which in turn obscures Sanskrit words such as caitanya, citta, and bodha.
+37. Cf. Vedāntasāra of Sadānanda, p. 23, no. 17. For an occurrence of āveśa in a slightly different sense, see Gauḍapāda’s Māṇḍukyakārikā 4.56: yāvad dhetuphalāveśaḥ saṃsāras tāvad āyataḥ, in which hetuphalāvesa has the sense of “involvement in causes and results”; cited in Halbfass 1991:328, 345n146.
+38. Gombrich 1971:243.
+39. Cf. Kapferer 1983, 1997; cf. Collins 1982 and the discussion in Chapter 1.
+40. I have checked indexes, as far as they exist, for the Tripiṭaka and the Jātaka tales, the latter of which are in desperate need of retranslation.
+41. Jātaka Together with Its Commentaries (1963) 3:511; see also 6:383. Cf. also Mahāummagga Jātaka: gahita-bhāvam (a state of possession) (Fausboll 1963: 6:383); also naradevo nāma yakkho gaṇhati (a yakṣa named Naradevo takes possession of me) (ibid.). The Jātakas are, of course, likely places for such occurrences, dealing as they do with life “histories,” rather than philosophical doctrine. For a few other similar references, see Woodward et al. 1956:345.
+42. Cf. Schmithausen 1987: 1:236–237, 2:552–566.
+43. Yat tan niveśanaṃ kṛtaṃ tad āryā duḥkhato viduḥ |
+44. Le Mahâvastu (1882: 2:315): āviṣṭhaṃ gaditaṃ sa bhāṣati; note on p. 606: “pénétrant, perçant.” Jones translates: “penetrating and gushing is his speech” (1949: 1:263). Recently, DeCaroli (2004:25f., 128f.) has noted additional early Buddhist text passages on possession. In one tale “a yakkhi possesses a former monk, who was her son in a previous life, in order to get him to reenter the monastery” (p. 128). In another case, a Vinaya text explains that possession by a piśāca is sufficient reason to break the rain retreat” (ibid.).
+45. See Trenckner et al. 1960–90: 2:228; cf. the causative gerund āvisāpetvā in Theragāthā-aṭṭhakathā III.181.2: taṃ taṃ janaṃ (sisaṃ) āvisāpetvā attano gatiṃ kathāpeti (made the spirits of various dead persons enter their skulls and relate their rebirths).
+46. One can still refer with undiminished pleasure to Coomaraswamy’s studies from the 1920s and 1930s (1971, 1993). See also Sutherland, who believes that the terms rākṣasa, piśāca, gandharva, and yakṣa are often confounded and used interchangably (1991:49–61, for descriptions of different semidivine demons).
+47. Edgerton 1953: 2:109.
+48. Trans. Rothenberg 1996:147, text p. 56. Note the felicitous translation, “inspirited,” of āviṣṭaḥ. Cf. Jamison (1996:115), who speaks of “the inspiriting drink soma.”
+49. Cf. Richardson (1993:50), who renders this lhabeb (lha-’bebs) (oracular possession).
+50. I am grateful to John Dunne for this information.
+51. For a further discussion of these terms, see Chapter 10.
+52. Samuel 1993:194. Recall the earlier discussion of dpa’-bo and references to the works of Berglie and Srinivas. See also the study of Tibetan oracles by Nebesky-Wojkowitz 1956:398–454, passim. For a good ethnography, see Kakar 1982:108–113.
+53. Gray 2004:3.
+54. Ibid.:5.
+55. Ibid.:6.
+56. More or less in agreement with Stablein and Samuel, cf. Chapter 2, n. 133.
+57. See Nebesky-Wojkowitz 1956:100ff., 444ff. Recently another report of possession oracles participating in political processes in India came to my attention. In February 2006, in the northern state of Himachal Pradesh, nearly two hundred devtās (the local term for men and women who experience goddess possession and serve as official oracular representatives from villages in Kullu district) convened a possession congress in which they all entered states of possession and performed a special form of divination as part of the local political process. The issue at stake was the proposed construction of a ski resort for tourists. In their advisory capacity they overwhelmingly voted it down, strictly, I am told, because of the results of their divination while experiencing possession. According to my informant, a graduate student in English literature from Panjab University in Chandigarh, but a native of that region, the ruling stands. I intend to investigate this further.
+58. See the remarks in Germano and Gyatso 1998. An excerpt from their partial translation of the Nyingmapa Luminous Web of Precious Visions reads: “Upon the descent of blessings during his performance of the nonelaborate empowerment, the glorious and great Mantra Protectress [Ekajaṭi] descended into one of the yoginīs, and she began to perform. When everyone else became full of doubt, the lama said, ‘Because a ḍākinī has actually descended here [in her], get over your worries! I am a yogin who has realized the single flavor of appearances and mind, and thus no obstacles will ensue!’” (pp. 251–252).
+59. On the importance of this text, much greater than Tucci’s relegation of it to the category of minor Buddhist texts (see note 61), see Sarbacker 2001:16; cf. also Williams 1989:196–197.
+60. This chapter is a widely used meditation manual, recommended by the Dalai Lama; cf. Dalai Lama 2001. For the extraordinary lore that has grown up around the Bhāvanākrama (BhK), see Kapstein 2000:34, 220n71; Ruegg 1989; Tucci 1958. For an English summary of the first chapter, see Tucci 1958:155–182. On this chapter, see also Demiéville 1952. For translations of the Tibetan text of the second chapter, see Dalai Lama 2001 and Sopa et al. 1998. Regarding the third chapter, see Demiéville 1952:336–353, and for a lucid translation of it, see Olson and Ichishima 1979. An excellent study of the BhK and its sources is Gomez 1983. The soteriology expressed in this text is not limited to the BhK, a text of the Gelukpa school of Tibetan Buddhism; for another example see Buswell 1997.
+61. For the text, see Tucci 1958:211. In a continuation of the same passage the BhK cites a text called the Avikalpapraveśadhāraṇī (Incantantation for Entrance into a State of Nonrepresentation).
+62. For the text, see Tucci 1971:8. Recall the discussion in Chapter 1 on pudgala as “person.”
+63. Bhava and bhāva have the sense of worldly experience. Thus the BhK cites the Vimalakīrtinirdeśa Sūtra: upāyena bhavagatigamanaṃ muktiḥ (Living in the world with method is liberation) (Sopa et al. 1998:25). Bhava also indicates the quality or characteristic of a dharma or property of a thing.
+64. Sarnath ed., 220; all references in the following notes are to page numbers in this edition.
+65. Ibid.: 204.
+66. Ibid.: 212. See Sopa et al. 1998:19.
+67. BhK, Sarnath ed., 214. Sopa et al. (1998) translate as follows: “When you see that your mind is tired, you should consider the benefits of meditative concentration and meditate enthusiasm” (p. 20). Also: tato viśramya punar api tathaiva sarvadharmanirābhāsaṃ samādhim avataret | (ibid.: 214) (After taking refuge, one should again enter into that samādhi which exposes all dharmas). Here the verb avataret (ava-√tṛ) replaces praviśet or even bhāvayet.
+68. Sarnath ed., 214. The word pravṛttam here (translated as “embarked”) has the sense of entrance, fully entering inside a condition, equivalent to the BhK usage of praveśa (rather praviṣṭam).
+69. ata eva kevalaṃ śūnyatāṃ sevamānasya mā bhūn nirvāṇapraveśa iti | Tucci 1971:28. I thank John Newman for pointing out several of these passages.
+70. Note the relationship between the concepts of response and responsibility as constructed by Derrida: “the activating of responsibility (decision, act, praxis) will always take place before and beyond any theoretical or thematic determination” (1995:26). A close examination of Indian philosophy reveals the same imperative, if somewhat differently configured, strategies of subsuming ethics to totalizing (or totalitarian) agendas.
+71. Lewis 2000:47.
+72. YS 3.37: te samādhāv upasargā vyutthāne siddhayaḥ |
+73. See Halbfass 1988: “Buddhism and other traditions which are built upon the insights and experiences of personal founders encourage their followers to aim at the same experiential goals, at re-living, re-experiencing the original insights. However, this does not imply that they ask them to re-examine or test the claims of the founders in an experimental fashion and to pursue their own consciousness research” (p. 393). Nevertheless, the history of spirituality in India reveals considerable variation and change within traditions and lineages.
+74. BhK, text p. 216; Sopa et al. 1998:24. Nevertheless, there are limits. The BhK continues: “The views of those who follow the path of sanctification [tīrthakamārga, followers of brahmanical sects] are totally without wisdom, in every way, because of their contrary views about the self and so on. Thus they cannot achieve liberation.” For the text, see Sarnath ed., p. 216.
+75. The Bhāgavata Purāṇa 7.5.23 prescribes a number of practices organized around the theme of cultivating devotion. Some are to be practiced alone, others in a group.
+76. See Mumford 1989 on Ortner 1978: “she argues that in promoting a personal, ‘inner’ religious path, Lamaist ideology tends to isolate individual identity from the matrix of social ties, while shamanic identity remains embedded in the world of relations, even accepting spirit penetrations into the self” (p. 7). To see how this plays out in Mumford’s ethnography, see Mumford 1989:196ff.
+ 

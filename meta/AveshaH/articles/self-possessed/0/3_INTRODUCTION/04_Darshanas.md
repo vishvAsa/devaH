@@ -1,0 +1,9 @@
++++
+title = "04 Darśanas"
+
++++
+Among the most visible manifestations of early Indian thought are Vedānta, classical Yoga, Buddhism, and Jainism, all of which are nuanced reactions to the perceived excesses of vedic ritualism. Chapter 7 discusses possession in these important branches of knowledge. Although possession is not a primary concern of the literature of these schools, which, on the whole, avoids discussion of personal experience except in the vaguest, most normative, and most fragmentary ways, it is nevertheless mentioned and occasionally discussed at some length in their foundational philosophical texts.+++(4)+++ 
+
+It occupies a small place in the Yogasūtras of Patañjali and a rather larger one in the Jain Yogaśāstra of Hemacandra. Possession is also discussed in the Brahmasūtras of Bādarāyaṇa and in the commentaries by Śaṇkara, Rāmānuja, and Vallabhācārya. 
+
+The Buddhist Pali canon, where demonologies appear for the first time (in the Petthavatthu), mentions it, as do the Jātaka stories and the more scholastic Buddhist Sanskrit literature. This is an appropriate place to begin to examine possession in Buddhist practice, where it is, in the best-known instance, a highly visible performative phenomenon by the oracle who has assisted the Dalai Lamas in matters ranging from statecraft to personal practice. In all the relevant texts, as in observable practice, possession is not condemned, but considered accessible for individuals who have achieved particular stages of mental and physical discipline.+++(5)+++ In addition, it is considered useful for gaining certain kinds of knowledge. An example of translating yogic theorizing about possession into practice appears in the hagiographies of the philosopher Śaṅkara, who, it is said, took possession of the body of a dead king named Amaruka in order to gain carnal knowledge without sullying his pure brahmanical and ascetically trained body. This incident must be discussed at some length.

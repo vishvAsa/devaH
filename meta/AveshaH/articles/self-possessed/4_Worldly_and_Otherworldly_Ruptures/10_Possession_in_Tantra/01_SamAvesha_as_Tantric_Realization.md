@@ -1,0 +1,18 @@
++++
+title = "01 Samāveśa as Tantric Realization"
+
++++
+## Caveat
+Tantra is a category increasingly subject to debate. It is now regarded by many of the most informed scholars as a category with vague characterization and definition, an amorphous medley of practices, rites, and doctrines that became tantric by attrition; they simply do not fit elsewhere.[^1] This, combined with a Western fascination for things tantric (especially a mistaken identification of Tantra with sex), enables most nonspecialists to dodge the problem of Tantra. 
+
+## samāveśa
+Bearing in mind this caveat, I can now undertake to unpack a knowingly (and frustratingly) incomplete inventory of possession-related practices and phenomena in mostly South Asian tantric literature. This includes, first, initiatory possession, which in many tantric texts is identified as samāveśa. This term may also designate another shadowy concept usually polluted by Western expectations, namely, enlightenment. Thus, samāveśa is not only the process of realization in tantric texts, an initial and startling possession by a deity that is invoked by the ācārya for the benefit of the disciple during a carefully orchestrated initiation, but its goal as well. In these Tantras, samāveśa is a brahmanical, body-centered, transformation (probably tantric by attrition) in which the deity to be realized is an active participant. With or without the name samāveśa, however, tantric possession may also be a kind of ritually induced oracular experience practiced by people who would never consider themselves tāntrikas. It may also indicate certain exorcistic practices that survived at the margins of Tantra (and Āyurveda).
+
+## Map
+This chapter first discusses the notion of samāveśa as it appears in the Tantras of Kashmir and northeastern India. We then turn to the phenomenon of divinization of the body, a peculiarly brahmanical practice involving the use of mantras and hand gestures (mudrā). This quasi-Vedic practice gained wide currency in a variety of Indian ritual traditions, where it was continually modified, especially, as we shall see toward the end of the chapter, in Tantric Buddhism. 
+
+Another topic that must be addressed in the same context is pratiṣṭhā or prāṇapratiṣṭhā, consecration or divinization of images, the transformation of prepared (kṛtrima) stone or wooden objects into deities by investing them with eyes and breath. These discussions strongly affect our deliberations on Indic notions of selfhood and personality, which, as we have seen, bear strongly on South Asian constructions of possession. 
+
+These deliberations finally lead us into an area of cultural discursivity that is often neglected in studies that are largely philological, philosophical, theoretical, and text-critical, as this one is: This is the area of artistic representation. One of the principal notions explicated here is that of multiple personality and the ease with which it is accepted in South Asia. As fully as this is represented in the ethnographic record, in an array of Sanskrit texts from the Ṛgveda to the Mahābhārata to devotional literature to the Tantras we discuss in this chapter to the ayurvedic and allied texts discussed in Chapter 12, it is perhaps nowhere better seen than in Indian art. Because the Tantric literature explicates the themes of internal spaciousness and the divinization of the body better than other genres of literature, this chapter concludes with a few examples of how this manifests in Indian art.
+
+[^1]: See Lopez 1996:83–104; Padoux 2002; Sharf 2002:263ff.; Urban 1999; White 2000:4ff. and his elastic definition of Tantra on p. 9.
