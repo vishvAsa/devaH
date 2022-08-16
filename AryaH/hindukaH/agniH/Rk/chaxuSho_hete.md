@@ -4,6 +4,7 @@ tags: [प्रत्याङ्गीरसम्]
 unicode_script: devanagari
 
 ---
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/4/aMshAH/chaxuSho_hete.md">
 
 ## मेनिवारणम्
 चक्षु॑षो हेते॒ मन॑सो हेते,  
@@ -53,3 +54,4 @@ unicode_script: devanagari
 प्रा॒तश् चाह्नो॑ नि॒पीय॑ति+++(=बाधते)+++ ।  
 अ॒द्या तम् इ॑न्द्र॒वज्रे॑ण,  
 भ्रातृ॑व्यं पादयामसि+++(=पातयामि)+++ ।
+</div>
