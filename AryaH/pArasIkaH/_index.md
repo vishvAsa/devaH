@@ -1,4 +1,5 @@
 +++
 title = "+पारसीकः"
-unicode_script = "devanagari"
 +++
+
+For mithra, see Hindu Adityas page.
