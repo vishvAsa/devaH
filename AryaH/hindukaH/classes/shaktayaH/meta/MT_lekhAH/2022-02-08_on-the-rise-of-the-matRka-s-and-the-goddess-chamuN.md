@@ -9,7 +9,7 @@ Source: [here](https://manasataramgini.wordpress.com/2022/02/08/on-the-rise-of-t
 
 On the rise of the mātṛkā-s and the goddess Cāmuṇḍā
 
-## Kaumāra tradition
+## Ancient roots
 **The roots of the mātṛkā-s in the śruti and the Kaumāra tradition**  
 The standard list of 7/8 goddesses known as the mātṛkā-s is a hallmark feature of the classical religion: Brāhmī, Māheśvarī, Kaumārī, Vaiṣṇavī, Vārāhī, Indrāṇī, Cāmuṇḍā, sometimes with the central Caṇḍikā (Mahālakṣmī), to make a list of 8. Most of them are the female counterparts of the prominent gods of the classical pantheon. These goddesses have a relatively constant iconography throughout the Indosphere, starting from the Gupta age. 
 
@@ -44,102 +44,362 @@ A persistent pattern in these Vedic rituals is the presence of a single male god
 
 Here, a single male generative deity is associated with a multi-functional cluster of goddesses who actualize the dormant generative capacity of the former. While the Patnī-saṃyāja associated with the Śulagava ritual of the Śukla-yajurveda invokes the goddesses with Agni Gṛhapati as usual, it presents a unique set of them (Pāraskara-Gṛhya-Sūtra 3.8):
 
-> śūlagavaḥ ।  
-The impaled bull \[sacrifice\]
->
-> svargyaḥ paśavyaḥ putryo dhanyo yaśasya āyuṣyaḥ ।  
-> It procures heaven, cattle, sons, riches, renown, long life.
-> 
-> aupāsanam araṇyaṃ hṛtvā, vitānaṃ sādhayitvā, raudraṃ paśum ālabheta ।  
-> Having taken the aupāsana fire to the forest, and having performed the spreading \[of grass\], he should obtain the animal for Rudra.
->
-> sāṇḍam ।  
-> With testicles (i.e., not castrated)
->
-> gaur vā śabdāt ।  
-> Or a cow as the name \[of the ritual specifies\]
->
-> vapāṃ śrapayitvā sthālīpākam avadānāni ca rudrāya vapām antarikṣāya vasāṃ sthālīpāka-miśrānyavadānāni juhoty agnaye rudrāya śarvāya paśupataye ugrāyāśanaye bhavāya mahādevāyeśānāyeti ca ।  
-Having cooked the omentum, a plate of rice, and the cuts from \[the victim\], he offers the omentum to Rudra, the fat to the atmosphere, and the cuts of meat with the rice to Agni, Rudra, Śarva, Paśupati, Ugra, Aśani, Bhava, Mahādeva and Īśāna.
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/vishvAsa-prastutiH/3/08/01_shUlagavaH.md">
+<details open><summary><h2>०१ शूलगवः ...{Loading}...</h2></summary>
 
-vanaspatiḥ ।  
-The Vanaspati (offering to the sacrificial post is made).
+शूलगवः १
+</details>
+</div>
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/01_shUlagavaH.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 
-sviṣṭakṛd ante ।  
-At the end \[offerings are made to Agni\] Sviṣṭakṛt.
+1 [^1] . The spit-ox (sacrificed to Rudra).
 
-dig vyāghāraṇam ।  
-Then the sprinkling to the directions \[is performed\].
 
-vyāghāraṇānte patnīḥ saṃyājayantīndrāṇyai rudrāṇyai śarvāṇyai bhavānyā agniṃ gṛhapatim iti ।  
-At the end of the sprinkling the offer the Patnī-saṃyāja oblations to Indrāṇī, Rudrāṇī, Śarvāṇi, Bhavānī, and Agni Gṛhapati.
+[^1]:  8, 1. Āśvalāyana-Gṛhya IV, 8.
 
-lohitaṃ pālāśeṣu kūrceṣu rudrāya senābhyo baliṃ harati yās te rudra purastāt senās tābhya eṣa balis tābhyas te namo yās te rudra dakṣiṇataḥ senās tābhya eṣa balis tābhyas te namo yāste rudra paścāt senās tābhya eṣa balis tābhyas te namo yās te rudrottarataḥ senās tābhya eṣa balis tābhyas te namo yās te rudropariṣṭāt senās tābhya eṣa balis tābhyas te namo yās te rudrādhastāt senās tābhya eṣa balis tābhyas te nama iti ।  
-He \[then\] offers the blood \[of the sacrificed bull\] as bali with a bunch of *Butea frondosa* leaves to Rudra and his troops with \[the incantations\]: “O Rudra, those armies, which you have to the East (to the South; to the West; to the North; upwards; downwards), to them is this bali. Obeisance be to them and to you.”
 
-ūvadhyaṃ lohita-liptam agnau prāsyaty adho vā nikhanati ।  
-He casts the gut and the blood-smeared remains into the fire or buries them beneath.
+</details>
+</div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/vishvAsa-prastutiH/3/08/02_svargyaH_pashavyaH_putryo.md">
+<details open><summary><h2>०२ स्वर्ग्यः पशव्यः पुत्र्यो ...{Loading}...</h2></summary>
 
-anuvātaṃ paśum avasthāpya rudrair upatiṣṭhate prathamottamābhyāṃ vā .anuvākābhyām ।  
-Having \[placed the remains of\] the animal such that the wind blows from himself to it, he goes towards it by \[reciting\] the Rudra incantations, or the first and last anuvāka \[i.e., Śatarudrīya\].
+स्वर्ग्यः पशव्यः पुत्र्यो धन्यो यशस्य आयुष्यः २
+</details>
+</div>
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/02_svargyaH_pashavyaH_putryo.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 
-naitasya paśor grāmaṃ haranti ।  
-They do not take anything of the animal to the village.
+2 [^2] . It procures (to the sacrificer) heavenly rewards, cattle, sons, wealth, renown, long life.
 
-etenaiva goyajño vyākhyātaḥ ।  
-By this the cow-sacrifice is also expounded.
 
-pāyasenānartha-luptaḥ ।  
-It is done with an offering of milk, and the \[rituals\] not meant for it are omitted.
+[^2]:  Āśvalāyana, loc. cit. § 35.
 
-tasya tulyavayā gaur dakṣiṇā ।  
-A cow of the same age (as the sacrificed animal) is the ritual fee.}
 
-Thus, the Patnī-saṃyāja of the Śulagava departs from the classical one in combining Indrāṇī with the three raudra goddesses, Rudrāṇī, Śarvāṇi and Bhavānī. Hence, we are already seeing a hint of the tendencies in the mātṛkā system of the classical religion, wherein the māṭṛkā-s typically have an explicitly raudra connection. Indeed, this triad of raudra goddess might indicate a connection to the old name of Rudra, Tryambaka, which implies his association with three mothers. Other than the above-mentioned male deities coming with a cluster of goddesses, in the late Taittirīya tradition of the Bodhāyana-mantrapraśna, we see Skanda appearing with a cluster of 12 māṭṛkā-s:
+</details>
+</div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/vishvAsa-prastutiH/3/08/03_aupAsanamaraNyaM_hRtvA_vitAnam.md">
+<details open><summary><h2>०३ औपासनमरण्यं हृत्वा वितानम् ...{Loading}...</h2></summary>
 
-aghorāya mahāghorāya nejameṣāya namo namaḥ ॥  
+औपासनमरण्यं हृत्वा वितानं साधयित्वा रौद्रं पशुमालभेत ३
+</details>
+</div>
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/03_aupAsanamaraNyaM_hRtvA_vitAnam.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+
+3 [^3] . Having taken the sacred domestic fire to the forest, and having performed the 'outspreading,' he should sacrifice the animal to Rudra.
+
+
+[^3]:  The 'outspreading' is the establishing of the three sacred Śrauta fires, so that the Gṛhya fire is considered as the Gārhapatya, and the Āhavanīya and Dakṣiṇāgni are taken from it.
+
+
+</details>
+</div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/vishvAsa-prastutiH/3/08/04_sANDam.md">
+<details open><summary><h2>०४ साण्डम् ...{Loading}...</h2></summary>
+
+साण्डम् ४
+</details>
+</div>
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/04_sANDam.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+
+4. One that is not gelded.
+
+</details>
+</div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/vishvAsa-prastutiH/3/08/05_gaurvA_shabdAt.md">
+<details open><summary><h2>०५ गौर्वा शब्दात् ...{Loading}...</h2></summary>
+
+गौर्वा शब्दात् ५
+</details>
+</div>
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/05_gaurvA_shabdAt.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+
+5 [^4] . Or (it may be) a cow, on account of the designation.
+
+
+[^4]:  On account of the designation of the sacrifice as śūla-gava.
+
+
+</details>
+</div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/vishvAsa-prastutiH/3/08/06_vapAM_shrapayitvA_sthAlIpAkamavadAnAni.md">
+<details open><summary><h2>०६ वपां श्रपयित्वा स्थालीपाकमवदानानि ...{Loading}...</h2></summary>
+
+वपां श्रपयित्वा स्थालीपाकमवदानानि च रुद्राय वपामन्तरिक्षाय वसां स्थालीपाकमिश्रान्यवदानानि जुहोत्यग्नये रुद्राय शर्वाय पशुपतये उग्रायाशनये भवाय महादेवायेशानायेति च ६
+</details>
+</div>
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/06_vapAM_shrapayitvA_sthAlIpAkamavadAnAni.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+
+6 [^5] . Having cooked the omentum, a mess of sacrificial food, and the portions cut off (of the victim), he sacrifices the omentum to Rudra, the fat to the Air, and the cut-off portions together with the mess of cooked food to Agni, Rudra, Śarva, Paśupati, Ugra, Aśani, Bhava, Mahādeva, .
+
+
+[^5]:  Āśvalāyana, loc. cit. § 19.
+
+
+</details>
+</div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/vishvAsa-prastutiH/3/08/07_vanaspati.md">
+<details open><summary><h2>०७ वनस्पति ...{Loading}...</h2></summary>
+
+वनस्पति ७
+</details>
+</div>
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/07_vanaspati.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+
+7. (Then follows a sacrifice to) Vanaspati.
+
+</details>
+</div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/vishvAsa-prastutiH/3/08/08_sviShTakRdante.md">
+<details open><summary><h2>०८ स्विष्टकृदन्ते ...{Loading}...</h2></summary>
+
+स्विष्टकृदन्ते ८
+</details>
+</div>
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/08_sviShTakRdante.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+
+8. (To Agni) Sviṣṭakṛt at the end.
+
+</details>
+</div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/vishvAsa-prastutiH/3/08/09_digvyAghAraNam.md">
+<details open><summary><h2>०९ दिग्व्याघारणम् ...{Loading}...</h2></summary>
+
+दिग्व्याघारणम् ९
+</details>
+</div>
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/09_digvyAghAraNam.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+
+9 [^6] . Then (follows) the sprinkling round to the different quarters (of the horizon).
+
+
+[^6]:  Jayarāma: diśāṃ vyāghāraṇaṃ kartavyam iti sūtraśeṣaḥ. tac ca vasayā bhavati yathāgnishomīye.
+
+
+</details>
+</div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/vishvAsa-prastutiH/3/08/10_vyAghAraNAnte_patnIH_saMyAjayantIndrANyai.md">
+<details open><summary><h2>१० व्याघारणान्ते पत्नीः संयाजयन्तीन्द्राण्यै ...{Loading}...</h2></summary>
+
+व्याघारणान्ते पत्नीः संयाजयन्तीन्द्राण्यै रुद्राण्यै शर्वाण्यै भवान्या अग्निं गृहपतिमिति १०
+</details>
+</div>
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/10_vyAghAraNAnte_patnIH_saMyAjayantIndrANyai.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+
+10 [^7] . After the sprinkling has been performed, they sacrifice the Patnī-saṃyāja offerings to Indrāṇī, Rudrāṇī, Śarvāṇi, Bhavānī, and Agni Gṛhapati.
+
+
+[^7]:  On the Patnī-saṃyāja offerings, so called because they are chiefly directed to the wives of the gods, see Hillebrandt, Neu- und Vollmondsopfer, pp. 151 seqq.
+
+
+</details>
+</div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/vishvAsa-prastutiH/3/08/11_lohitaM_pAlAsheShu_kUrcheShu.md">
+<details open><summary><h2>११ लोहितं पालाशेषु कूर्चेषु ...{Loading}...</h2></summary>
+
+लोहितं पालाशेषु कूर्चेषु रुद्रायसेनाभ्यो बलिं हरति यास्ते रुद्र पुरस्तात्सेनास्ताभ्य एष बलिस्ताभ्यस्ते नमो यास्ते रुद्र दक्षिणतः सेनास्ताभ्य एष बलिस्ताभ्यस्ते नमो यास्ते रुद्र पश्चात्सेनास्ताभ्य एष बलिस्ताभ्यस्ते नमो यास्ते रुद्रोत्तरतः सेनास्ताभ्य एष बलिस्ताभ्यस्ते नमो यास्ते रुद्रोपरिष्टात्सेनास्ताभ्य एष बलिस्ताभ्यस्ते नमो यास्ते रुद्राधस्तात्सेनास्ताभ्य एष बलिस्ताभ्यस्ते नम इति ११
+</details>
+</div>
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/11_lohitaM_pAlAsheShu_kUrcheShu.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+
+11 [^8] . The blood he offers in leaves, on (grass-) bunches, as a Bali to Rudra and to his hosts, with (the Mantras),
+
+
+[^8]:  Āśvalāyana, loc. cit. § 22.
+
+
+'The hosts, Rudra, which thou hast to the east, to them this Bali (is given). To them and to thee be adoration!
+
+'The hosts, Rudra, which thou hast to the south . . . to the west . . . to the north . . . upwards . . .
+
+downwards, to them this Bali (is given). To them and to thee be adoration!'
+
+</details>
+</div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/vishvAsa-prastutiH/3/08/12_UvadhyaM_lohitaliptamagnau_prAsyatyadho.md">
+<details open><summary><h2>१२ ऊवध्यं लोहितलिप्तमग्नौ प्रास्यत्यधो ...{Loading}...</h2></summary>
+
+ऊवध्यं लोहितलिप्तमग्नौ प्रास्यत्यधो वा निखनति १२
+</details>
+</div>
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/12_UvadhyaM_lohitaliptamagnau_prAsyatyadho.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+
+12 [^9] . The contents of the stomach and of the entrails, besmeared with blood, he throws into the fire or buries them in the earth.
+
+
+[^9]:  As to ūvadhya, comp. Āśvalāyana, § 28.
+
+
+</details>
+</div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/vishvAsa-prastutiH/3/08/13_anuvAtaM_pashumavasthApya_rudrairupatiShThate.md">
+<details open><summary><h2>१३ अनुवातं पशुमवस्थाप्य रुद्रैरुपतिष्ठते ...{Loading}...</h2></summary>
+
+अनुवातं पशुमवस्थाप्य रुद्रैरुपतिष्ठते प्रथमोत्तमाभ्यां वाऽनुवाकाभ्याम् १३
+</details>
+</div>
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/13_anuvAtaM_pashumavasthApya_rudrairupatiShThate.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+
+13 [^10] . Having placed the animal so that the wind blows from himself to it, he approaches it with the Rudra hymns, or with the first and last Anuvāka.
+
+
+[^10]:  The Rudra hymns form the sixteenth Adhyāya of the Vājasaneyi Saṃhitā. Either that whole Adhyāya or the first and last Anuvāka of it is recited.
+
+
+</details>
+</div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/vishvAsa-prastutiH/3/08/14_naitasya_pashorgrAmaM_haranti.md">
+<details open><summary><h2>१४ नैतस्य पशोर्ग्रामं हरन्ति ...{Loading}...</h2></summary>
+
+नैतस्य पशोर्ग्रामं हरन्ति १४
+</details>
+</div>
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/14_naitasya_pashorgrAmaM_haranti.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+
+14. They do not take anything of that animal to the village.
+
+</details>
+</div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/vishvAsa-prastutiH/3/08/15_15.md">
+<details open><summary><h2>१५ एतेनैव गोयज्ञो व्याख्यातः ...{Loading}...</h2></summary>
+
+एतेनैव गोयज्ञो व्याख्यातः
+
+</details>
+</div>
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/15_15.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+
+15 [^11] . Thereby (also) the cow-sacrifice has been declared.
+
+
+[^11]:  Gobhila III, 6.
+
+
+</details>
+</div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/vishvAsa-prastutiH/3/08/16_etenaiva_goyajno_vyAkhyAtaH.md">
+<details open><summary><h2>१६ पायसेनानर्थलुप्तः ...{Loading}...</h2></summary>
+
+पायसेनानर्थलुप्तः १६
+</details>
+</div>
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/16_etenaiva_goyajno_vyAkhyAtaH.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+
+16. (It is combined) with (the offering of) milk-rice; (the rites) not corresponding (to that special occasion) are omitted.
+
+</details>
+</div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/vishvAsa-prastutiH/3/08/17_tasya_tulyavayA_gaurdaxiNA.md">
+<details open><summary><h2>१७ तस्य तुल्यवया गौर्दक्षिणा ...{Loading}...</h2></summary>
+
+तस्य तुल्यवया गौर्दक्षिणा १७
+</details>
+</div>
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/17_tasya_tulyavayA_gaurdaxiNA.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+
+17. The sacrificial fee at that (sacrifice) is a cow of the same age (as the victim).
+
+</details>
+</div>
+
+Thus, the Patnī-saṃyāja of the Śulagava departs from the classical one in combining Indrāṇī with the three raudra goddesses, Rudrāṇī, Śarvāṇi and Bhavānī. Hence, we are already seeing a hint of the tendencies in the mātṛkā system of the classical religion, wherein the māṭṛkā-s typically have an explicitly raudra connection. Indeed, this triad of raudra goddess might indicate a connection to the old name of Rudra, Tryambaka, which implies his association with three mothers.+++(5)+++ 
+
+## skanda
+Other than the above-mentioned male deities coming with a cluster of goddesses, in the late Taittirīya tradition of the Bodhāyana-mantrapraśna, we see Skanda appearing with a cluster of 12 māṭṛkā-s:
+
+> aghorāya mahāghorāya nejameṣāya namo namaḥ ॥  
 āveśinī hy aśrumukhī kutuhalī hastinī jṛṃbhiṇī stambhinī mohinī ca ।  
-kṛṣṇā viśākhā vimalā brahmarātrī bhrātṛvyasaṃgheṣu-patanty amoghās tābhyo vai mātṛbhyo namo namaḥ ॥
+kṛṣṇā viśākhā vimalā brahmarātrī bhrātṛvya-saṃgheṣu patanty amoghās  
+> tābhyo vai mātṛbhyo namo namaḥ ॥
 
 Similarly, another late Taittirīya tradition, the Vaikhānasa-mantrapraśna, provides an incantation for a set of goddesses who are said to be born of Guha (i.e., Skanda) and said to bear the gaṇa of Rudra:
 
-jvālā mālā gumbhinī guha-jātā raudraṃ gaṇaṃ yā bibhṛyāt surūpī svāhā ॥ VP 6.36.5
+> jvālā mālā gumbhinī guha-jātā raudraṃ gaṇaṃ yā bibhṛyāt surūpī svāhā ॥ VP 6.36.5
 
 A second incantation describes a set of goddesses, including the one who bears Skanda:
 
-mohī vimohī vimukhī guha-dhāriṇī ca nidrā ca devī virajās tu bhūtyai svāhā ॥ VP 6.37.9
+> mohī vimohī vimukhī guha-dhāriṇī ca nidrā ca devī virajās tu bhūtyai svāhā ॥ VP 6.37.9
 
-Starting from its late Vedic roots, the association of Skanda with the mātṛ-s was remembered over a prolonged period in Indian historical tradition. For instance, it figures in the famous maṅgalācaraṇa of the Cālukya monarchs where they describe themselves thus: …mātṛ-gaṇa-paripālitānāṃ svāmi-mahāsena-pādānu-dhyātānām… Protected by the troop of mātṛ-s and meditating on the feet of lord Mahāsena. This association of a cluster of goddesses with Skanda is further developed in the Mahābhārata:
+Starting from its late Vedic roots, the association of Skanda with the mātṛ-s was remembered over a prolonged period in Indian historical tradition. For instance, it figures in the famous maṅgalācaraṇa of the Cālukya monarchs where they describe themselves thus: 
 
-tataḥ saṃkalpya putratve skaṃdaṃ mātṛgaṇo .agamat ।  
-kākī ca halimā caiva rudrātha bṛhalī tathā ।  
-āryā palālā vai mitrā saptaitāḥ śiśumātaraḥ ॥Mbh 3.217.9 (“critical”)  
-Having established the sonship of Skanda, the band of mātṛ-s went away: Kākī, Halimā, Rudrā, Bṛhalī, Āryā, Palālā and Mitrā, these are the seven mothers of Śiśu.
+> …mātṛ-gaṇa-paripālitānāṃ  
+> svāmi-mahāsena-pādānu-dhyātānām…  
+> Protected by the troop of mātṛ-s  
+> and meditating on the feet of lord Mahāsena. 
+
+This association of a cluster of goddesses with Skanda is further developed in the Mahābhārata:
+
+> tataḥ saṃkalpya putratve  
+> skaṃdaṃ mātṛgaṇo .agamat ।  
+kākī ca halimā caiva  
+> rudrātha bṛhalī tathā ।  
+āryā palālā vai mitrā  
+> saptaitāḥ śiśumātaraḥ ॥Mbh 3.217.9 (“critical”)  
+>
+> Having established the sonship of Skanda, the band of mātṛ-s went away: Kākī, Halimā, Rudrā, Bṛhalī, Āryā, Palālā and Mitrā, these are the seven mothers of Śiśu.
 
 A similar list is given in the “mega”-Skandapurāṇa:
 
-kākī ca hilimā caiva rudrā ca vṛṣabhā tathā ।  
-āryā palālā mitrā ca saptaitāḥ śiśumātaraḥ ॥ SP-M 1.2.29.175-76
+> kākī ca hilimā caiva  
+> rudrā ca vṛṣabhā tathā ।  
+āryā palālā mitrā ca  
+> saptaitāḥ śiśumātaraḥ ॥ SP-M 1.2.29.175-76
 
-Notably, in this cluster of goddesses, we see, for the first time, an explicit list of 7 mātṛ-s — a number that became characteristic of the classical group of mātṛkā-s. In subsequent narrations of the Kaumāra cycle in the [medical](https://manasataramgini.wordpress.com/2008/09/08/kaumara-material-in-the-ashtangasamgraha-a-rambling-discussion/) and paurāṇika traditions, the number of mātṛ-s who accompany Skanda is numerous and varied. Nevertheless, one of the archaic versions from the Mbh we encounter for the first time the description of these mātṛ-s as having the form of female versions of the gods:
+Notably, in this cluster of goddesses, we see, for the first time, an explicit list of 7 mātṛ-s — a number that became characteristic of the classical group of mātṛkā-s. In subsequent narrations of the Kaumāra cycle in the [medical](https://manasataramgini.wordpress.com/2008/09/08/kaumara-material-in-the-ashtangasamgraha-a-rambling-discussion/) and paurāṇika traditions, the number of mātṛ-s who accompany Skanda is numerous and varied. 
 
-yāmyo raudryas tathā saumyāḥ kauberyo .atha mahābalāḥ ।  
-vāruṇyo .atha ca māhendryas tathāgneyyaḥ paraṃtapa ॥  
-vāyavyaś cātha kaumāryo brāhmyaś ca bharatarṣabha ।  
-vaiṣṇavyaś ca tathā sauryo vārāhyaś ca mahābalāḥ । \[missing in some recensions\]  
-vaiṣṇavyo .atibhayāś cānyāḥ krūrarūpā bhayaṃkarāḥ । \[Alternative for above\]  
-rūpeṇāpsarasāṃ tulyā jave vāyusamās tathā ॥ Mbh 9.45.35-36  
-O scorcher of foes, possessed of great might \[these goddesses took the forms\] of Yama, Rudra, Soma, Kubera, Varuṇa, the great Indra and Agni. O bull among the Bharata-s, yet others of great might took the form of Vāyu, Kumāra, Brahman, /Viṣṇu, Sūrya, Vārāhī/Viṣṇu and other terrifying and fierce forms evoking great terror./ Endowed with the beauty of Apsaras-es, they were possessed of the speed of wind.
 
-Thus, within this Kaumāra context, we see the first expression of a matṛ list converging on the classical system. Kaumāra-mātṛ-s appear first in [iconography](https://manasataramgini.wordpress.com/2009/09/21/chaturdasha-skanda-matri-kula-chakra/) in the company of Skanda in Kuṣaṇa and pre-Kuṣaṇa sites like the holy city of Mathura. Even the earliest iconographic exemplars of the 7 classical mātṛ-s are connected to Skanda (Gupta age; see also the Patna inscription which speaks of Kumāragupta’s brother-in-law installing a shrine for Skanda at the head of the matṛ-s). However, in the post-Gupta age, the connection of Kumāra and the classical mātṛ-s gradually faded away. However, the old Vedic template of a multiplicity of goddesses in the company of a single god continued to be expressed. Among the gods of taking the place of Skanda in the mātṛkā panels were Kubera, Rudra, both in his classic form and as Tumburu, Vīrabhadra and Gaṇeśa. Of these, as we have noted before, the association with Rudra is archaic, having Vedic roots. It is reiterated in the Mbh:
+Nevertheless, one of the archaic versions from the Mbh we encounter for the first time the description of these mātṛ-s as having the form of female versions of the gods:
 
-vanaspatīnāṃ pataye narāṇāṃ pataye namaḥ ।  
-mātṝṇāṃ pataye caiva gaṇānāṃ pataye namaḥ ।  
-apāṃ ca pataye nityaṃ yajñānāṃ pataye namaḥ ॥ Mbh 7.173.38  
+> yāmyo raudryas tathā saumyāḥ  
+> kauberyo .atha mahābalāḥ ।  
+vāruṇyo .atha ca māhendryas  
+> tathāgneyyaḥ paraṃtapa ॥  
+vāyavyaś cātha kaumāryo  
+> brāhmyaś ca bharatarṣabha ।  
+vaiṣṇavyaś ca tathā sauryo  
+> vārāhyaś ca mahābalāḥ । \[missing in some recensions\]  
+vaiṣṇavyo .atibhayāś cānyāḥ  
+> krūrarūpā bhayaṃkarāḥ । \[Alternative for above\]  
+rūpeṇāpsarasāṃ tulyā  
+> jave vāyusamās tathā ॥ Mbh 9.45.35-36  
+>   
+> O scorcher of foes, possessed of great might \[these goddesses took the forms\] of Yama, Rudra, Soma, Kubera, Varuṇa, the great Indra and Agni. O bull among the Bharata-s, yet others of great might took the form of Vāyu, Kumāra, Brahman, /Viṣṇu, Sūrya, Vārāhī/Viṣṇu and other terrifying and fierce forms evoking great terror./ Endowed with the beauty of Apsaras-es, they were possessed of the speed of wind.
+
+Thus, within this Kaumāra context, we see the first expression of a matṛ list converging on the classical system. Kaumāra-mātṛ-s appear first in [iconography](https://manasataramgini.wordpress.com/2009/09/21/chaturdasha-skanda-matri-kula-chakra/) in the company of Skanda in Kuṣaṇa and pre-Kuṣaṇa sites like the holy city of Mathura. Even the earliest iconographic exemplars of the 7 classical mātṛ-s are connected to Skanda (Gupta age; see also the Patna inscription which speaks of Kumāragupta’s brother-in-law installing a shrine for Skanda at the head of the matṛ-s). 
+
+## rudra-centrism
+However, in the post-Gupta age, the connection of Kumāra and the classical mātṛ-s gradually faded away. However, the old Vedic template of a multiplicity of goddesses in the company of a single god continued to be expressed. Among the gods of taking the place of Skanda in the mātṛkā panels were Kubera, Rudra, both in his classic form and as Tumburu, Vīrabhadra and Gaṇeśa. Of these, as we have noted before, the association with Rudra is archaic, having Vedic roots. It is reiterated in the Mbh:
+
+> vanaspatīnāṃ pataye  
+> narāṇāṃ pataye namaḥ ।  
+mātṝṇāṃ pataye caiva  
+> gaṇānāṃ pataye namaḥ ।  
+apāṃ ca pataye nityaṃ  
+> yajñānāṃ pataye namaḥ ॥ Mbh 7.173.38  
 Salutations to the lord of the trees, men, the mātṛ-s, the gaṇa-s, the waters, and ever the lord the rituals.
 
-Indeed, a large host of 190 ferocious therocephalic and avicephalic mātṛkā-s, comparable to those accompanying Skanda, is described as being generated by Rudra to drink up the blood of Andhaka in the Matsyapurāṇa. In the same narrative, Nṛsiṃha also generates 32 mātṛkā-s to pacify the former. These latter goddesses are the arṇa-devī-s of the famed 32-syllabled mantra of Nṛsiṃha. A band of piśācī-s, who eat up the corpse of the daitya Hālāhala killed by the gaṇa-s of Nīlalohita-rudra, when he comes to take the skull of Brahman, are also known as Kapālamātṛ-s and associated with Rudra as per the proto-Skandapurāṇa (7.15-23). The association between Rudra and the mātṛkā-s is also emphasized in the historical record by the famous Gupta age inscription from Bagh, Madhya Pradesh, which mentions the Pāsupata teacher, Lokodadhi, installing a temple that is the station of the mātṛ-s in the village of Piñcchikānaka: … bhagaval lokodadhi pāsupatācārya-pratiṣṭhāpitaka-piñcchikānaka-grāma-mātṛ-sthāna-devakulasya … In conclusion, the conceptualization of the mātṛkā-s in the classical religion can be traced back to the Vedic layer of the religion, with an organic evolution in the Mahābhārata and the early medical literature, and close associations to the Kaumāra and Śaiva sects.
+Indeed, a large host of 190 ferocious therocephalic and avicephalic mātṛkā-s, comparable to those accompanying Skanda, is described as being generated by Rudra to drink up the blood of Andhaka in the Matsyapurāṇa. In the same narrative, Nṛsiṃha also generates 32 mātṛkā-s to pacify the former. These latter goddesses are the arṇa-devī-s of the famed 32-syllabled mantra of Nṛsiṃha. 
 
+A band of piśācī-s, who eat up the corpse of the daitya Hālāhala killed by the gaṇa-s of Nīlalohita-rudra, when he comes to take the skull of Brahman, are also known as Kapālamātṛ-s and associated with Rudra as per the proto-Skandapurāṇa (7.15-23). The association between Rudra and the mātṛkā-s is also emphasized in the historical record by the famous Gupta age inscription from Bagh, Madhya Pradesh, which mentions the Pāsupata teacher, Lokodadhi, installing a temple that is the station of the mātṛ-s in the village of Piñcchikānaka: … bhagaval lokodadhi pāsupatācārya-pratiṣṭhāpitaka-piñcchikānaka-grāma-mātṛ-sthāna-devakulasya … 
+
+In conclusion, the conceptualization of the mātṛkā-s in the classical religion can be traced back to the Vedic layer of the religion, with an organic evolution in the Mahābhārata and the early medical literature, and close associations to the Kaumāra and Śaiva sects.
+
+## Cāmuṇḍā
 **Cāmuṇḍā, her distinctness, and preeminence**
 
 [![chAmuNDA_mantra_handbook_Nepal](https://manasataramgini.files.wordpress.com/2022/02/chamunda_mantra_handbook_nepal.jpg?w=640)](https://manasataramgini.files.wordpress.com/2022/02/chamunda_mantra_handbook_nepal.jpg)
@@ -148,7 +408,9 @@ Indeed, a large host of 190 ferocious therocephalic and avicephalic mātṛkā-s
 
 However, there is one mysterious mātṛkā in the classical list who does not fit the general deva-patnī prototype inherited from the śruti. She goes by the common name Cāmuṇḍā or is alternatively known as Bahumāṃsā in some early paurāṇika texts. She is often distinguished by a corpse-, an owl- (e.g., Paraśurāmeśvara temple in Kaliṅga) or a vulture (the Mayamata pratiṣṭhātantra of saiddhāntika tradition) ensign. While she is explicitly linked to Rudra, she is often distinguished from his typical female counterpart Rudrāṇī. Cāmuṇḍā does not occur in any Vedic text (except in masculine form in a late addendum to the Vaikhānasa-mantra-praśna); nor does she occur in the epics.
 
-In contrast, she appears profusely in paurāṇika texts. However, even here, in one of her early occurrences, directly pertaining to one of her holiest shrines, Koṭivarṣa, she is presented under a different name, Bahumāmsā, which appears to be a euphemistic double entendre. An apparently archaic version of the Koṭivarṣa-māhātmya, the famous pīṭha in Vaṅga, also known as Devīkoṭa (see below), was incorporated into the “proto”-Skandapuraṇa. Briefly, the frame story goes thus: Brahman once performed saṁdhyā at the Bay of Bengal for a crore years. Then he founded a beautiful city that eventually came to be known as Koṭivarṣa, where people lived a youthful existence. Once the god left the city, it was invaded by daitya-s, who committed many atrocities and slew thousands of brāhmaṇa-s and desecrated rituals. To remedy this, the gods went to Brahman and with him they went to Rudra. There Gaurī was performing tapasya in a grove and turned all the gods into females. Rudra then told them that they could slay the daitya-s only in their female forms. Thus:
+In contrast, she appears profusely in paurāṇika texts. However, even here, in one of her early occurrences, directly pertaining to one of her holiest shrines, Koṭivarṣa, she is presented under a different name, Bahumāmsā, which appears to be a euphemistic double entendre. An apparently archaic version of the Koṭivarṣa-māhātmya, the famous pīṭha in Vaṅga, also known as Devīkoṭa (see below), was incorporated into the “proto”-Skandapuraṇa. 
+
+Briefly, the frame story goes thus: Brahman once performed saṁdhyā at the Bay of Bengal for a crore years. Then he founded a beautiful city that eventually came to be known as Koṭivarṣa, where people lived a youthful existence. Once the god left the city, it was invaded by daitya-s, who committed many atrocities and slew thousands of brāhmaṇa-s and desecrated rituals. To remedy this, the gods went to Brahman and with him they went to Rudra. There Gaurī was performing tapasya in a grove and turned all the gods into females. Rudra then told them that they could slay the daitya-s only in their female forms. Thus:
 
 tato devo .asṛjad devīṃ rudrāṇīṃ mātaraṃ subham ।  
 vikṛtaṃ rūpam āsthāya dvitīyām api mātaram ।  
@@ -166,7 +428,9 @@ vāyavyā vāruṇī yāmyā kauberī ca mahābalā ।
 mahākālī tathāgneyī anyās caiva sahasrasaḥ ॥  
 tā gatvā tat puraṃ ramyaṃ daityān bhīmaparākramān ।  
 jaghnur bahuvidhaṃ devyo ghoranādair vibhīṣaṇaiḥ ।  
-daityahīnaṃ ca tac cakruḥ purāgryaṃ hemabhūṣitam ॥ “proto”-KM17-23  
+daityahīnaṃ ca tac cakruḥ purāgryaṃ hemabhūṣitam ॥  
+“proto”-KM17-23  
+
 Then the god (Rudra) generated the goddess, mother Rudrāṇī. Taking an auspicious yet grotesque form, he also generated a second mother going by the name Bahumāṃsā, she of world-destroying form. At the mandate of the god of the gods, the mighty Viṣṇu also generated two mothers, Vārāhī and Vaiṣṇavī. From the Grandfather came Brāhmī and from Śaṃkara \[came\] Śarvāṇī. Kaumārī from Skanda (note irregular saṃdhi: ṣaḍmukhāt similar to that found in the Kaulajñānanirṇaya of Matsyendra. This supports the archaic nature of this narrative). Vārāhī from Mādhava and goddess Māhendrī from the smasher of forts (Indra). All these foremost of mothers were full of luster and auspicious. Bahumāṃsā, the great wisdom goddess, came into being from the bull-bannered one (Rudra). From the bodies of all these deities emerged auspicious mothers, each bearing their respective form and might, and set forth for the destruction of the demons: Vāyavyā, Vāruṇī, Yāmyā, Kauberī, Mahākālī, then Āgneyī of great strength, and thousands of others. The manifold goddesses slew \[the demons\], uttering terrifyingly ferocious yells. They made that foremost city decorated with gold free of the demons.
 
 On one hand, the mātṛkā-s of narrative are reminiscent of the older Kaumāra cycle, and the Vedic Patnīsaṃyāja in naming a more inclusive set of goddesses including those generated by Vāyu, Varuṇa, Agni, etc. On the other hand, the core set of goddesses, who are named first, has crystallized to the classical 7-mātṛkā list. The only difference is that Bahumāṃsā replaces Cāmuṇḍā. However, their equivalence is clear from the account as Rudra specifically assumes a grotesque to generate her. As the narrative continues, Bahumāṃsā’s preeminent place in Koṭivarṣa is made amply clear:
