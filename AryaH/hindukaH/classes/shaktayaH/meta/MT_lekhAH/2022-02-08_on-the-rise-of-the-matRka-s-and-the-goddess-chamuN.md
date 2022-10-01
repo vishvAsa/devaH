@@ -551,34 +551,34 @@ Similarly, in the iconographic section of the Agnipurāṇa (a similar account i
 > kapāla-kartarī-śūla-pāśa-bhṛd yāmya-saumyayoḥ ॥  
 gaja-carma-bhṛd ūrdhvāsya pādā syāt rudracarcikā ।  
 Rudracarcikā \[is depicted\] holding a skull, battle scissors, trident, lasso to the right and left. She holds an elephant hide, and her leg is raised up.
-
-saiva cāṣṭabhujā devī śiro-ḍamarukānvitā ।  
+>
+>saiva cāṣṭabhujā devī śiro-ḍamarukānvitā ।  
 tena sā rudracāmuṇḍā nāṭeśvary atha nṛtyatī ॥  
 Rudracāmuṇḍā is verily the eight-handed goddess holding a severed head and a ḍamaru. She is shown dancing as the goddess of the dance (c.f. the above verse of Bhavabhūti).
-
-iyam eva mahālakṣmī-rupaviṣṭā caturmukhī ।  
+>
+> iyam eva mahālakṣmī-rupaviṣṭā caturmukhī ।  
 nṛ-vāji-mahiṣebhāṃś ca khādantī ca kare sthitān ॥  
 The goddess Mahālakṣmī is indeed shown in a four-faced form. She \[is depicted\] eating a man, horse, buffalo, and elephant held in her hands.
-
-daśa-bāhus trinetrā ca śastrāsi-ḍamaru-trikaṃ ।  
+>
+> daśa-bāhus trinetrā ca śastrāsi-ḍamaru-trikaṃ ।  
 bibhratī dakṣiṇe haste vāme ghaṇṭāṃ ca kheṭakaṃ ॥  
 khaṭvāṅgaṃ ca triśūlañ ca siddha-cāmuṇḍakāhvayā ।  
-Siddha-cāmuṇḍakā is depicted, with ten arms and three eyes, bearing a weapon, a sword, a ḍamaru, a trident, in her right arms; a bell, a shield, a skull-topped brand and a trident in her left arms.
-
-siddhayogeśvarī devī sarva-siddhapradāyikā ॥  
+> Siddha-cāmuṇḍakā is depicted, with ten arms and three eyes, bearing a weapon, a sword, a ḍamaru, a trident, in her right arms; a bell, a shield, a skull-topped brand and a trident in her left arms.
+>
+> siddhayogeśvarī devī sarva-siddhapradāyikā ॥  
 etad rūpā bhaved anyā pāśāṅkuśayutāruṇā ।  
 The goddess Siddhayogeśvarī (the goddess of the kaula Pūrvāmnāya = Trika), who bestows all accomplishments, is shown with another form, crimson in color, holding a lasso and a hook.
-
-bhairavī rūpa-vidyā tu bhujair dvādaśabhir-yutā ॥  
+>
+> bhairavī rūpa-vidyā tu bhujair dvādaśabhir-yutā ॥  
 Bhairavī, the beautiful wisdom goddess, is shown with 12 arms.
-
-etāḥ śmaśānajā raudrā ambāṣṭakam idaṃ smṛtaṃ ।  
+>
+> etāḥ śmaśānajā raudrā ambāṣṭakam idaṃ smṛtaṃ ।  
 These raudra \[goddesses\] of the cremation ground are known as the cluster of eight-mothers.
-
-kṣamā śivāvṛtā vṛddhā dvibhujā vivṛtānanā ॥  
+>
+> kṣamā śivāvṛtā vṛddhā dvibhujā vivṛtānanā ॥  
 Kṣamā is shown surrounded by jackals as an old female with two arms and a gaping mouth.
-
-danturā kṣemakarī syād bhūmau jānukarā sthitā ।  
+> 
+> danturā kṣemakarī syād bhūmau jānukarā sthitā ।  
 The fanged Kṣemakarī is shown \[seated\] on the ground with her hands on her knees.
 
 These Ambāṣṭaka goddesses, Rudracarcikā, Rudracāmuṇḍā, Mahālakṣmī, Siddha-cāmuṇḍā, Siddhayogeśvarī, Bhairavī, Kṣamā and Kṣemakarī are likely associated with the 8 mahāsmaśāna-s of the tāntrika tradition. This is supported by the presence of Mahālakṣmī in the list, who is associated with the mahāsmaśāna of Kollagiri or Lakṣmīvana (modern Kolhapur). In the list, we find two explicitly named Cāmuṇḍā-s, which hearkens back to the mega-Skandapurāṇa Navadurgā-s, where Cāmuṇḍā is followed by Muṇḍamardhinī, who on etymological grounds could be seen as the second Cāmuṇḍā. A third goddess of the Ambāṣṭaka, Kṣamā, is depicted as an old female with jackals — again, iconographically similar to Cāmuṇḍā. The ogdoad also features Rudracarcikā, another ectype of Cāmuṇḍā (see below). Thus, we have at least four goddesses in the Ambāṣṭaka group, who can be described as conforming to the Cāmuṇḍā type. This multiplicity hints at Cāmuṇḍā being worshiped as the primary goddess at several of the mahāsmaśāna-s.
@@ -587,20 +587,23 @@ These Ambāṣṭaka goddesses, Rudracarcikā, Rudracāmuṇḍā, Mahālakṣm�
 
 *Cāmuṇḍā with her husband Bhiṣaṇa-bhairava: the deities of Ekāmra (a Nepalian depiction)*
 
-At least one of these mahāsmaśāna-s featuring Cāmuṇḍā was perhaps located at Ekāmra (modern Bhubaneswar) in the Kaliṅga country. The association of Cāmuṇḍā with this site, along with her Bhairava consort and Kubera or his female counterpart Kauberī, is abundantly attested in the kaula tradition: tantra-s (e.g., Kubjikāmata) and prayoga manuals of the Paścimāmnāya (e.g., Siddhi-lakṣmī-kramārcanā-vidhi-s), the Uttarāmnāya traditions like Niśi-saṃcara, and Ḍāmara texts like the Tridaśa-ḍāmāra-pratyaṅgirā. For example, we have the below mantra-s from the Paścimāmnāya (or its combination with the Uttarāmnāya in the case of the last mantra) tradition:
+At least one of these mahāsmaśāna-s featuring Cāmuṇḍā was perhaps located at Ekāmra (modern Bhubaneswar) in the Kaliṅga country.+++(4)+++ The association of Cāmuṇḍā with this site, along with her Bhairava consort and Kubera or his female counterpart Kauberī, is abundantly attested in the kaula tradition: tantra-s (e.g., Kubjikāmata) and prayoga manuals of the Paścimāmnāya (e.g., Siddhi-lakṣmī-kramārcanā-vidhi-s), the Uttarāmnāya traditions like Niśi-saṃcara, and Ḍāmara texts like the Tridaśa-ḍāmāra-pratyaṅgirā. For example, we have the below mantra-s from the Paścimāmnāya (or its combination with the Uttarāmnāya in the case of the last mantra) tradition:
 
-aiṁ OṂ ekāmraka-mahākṣetra-bhīṣaṇa-mahā-bhairavāya yaṁ cāmuṇḍā-śakti-sahitāya ekapāda-kṣetrapālāya dhanādhipataye namaḥ ॥  
+> aiṁ OṂ ekāmraka-mahākṣetra-bhīṣaṇa-mahā-bhairavāya  
+> yaṁ cāmuṇḍā-śakti-sahitāya ekapāda-kṣetrapālāya dhanādhipataye namaḥ ॥  
 OṂ aiṁ yaṁ raṁ laṁ vaṁ śaṁ ekāmrake ohāyī kālarātrī chippinī cāmuṇḍā kauberī । au-kṣaḥ (o-kṣaḥ) bhīṣaṇa-bhairava śrīpādukabhyāṃ namaḥ ॥  
 OṂ aiṁ yaṁ bhīṣaṇa-bhairavāya cāmuṇḍā-sahitāya ekāmraka-kṣetrādhipataye namaḥ ॥  
 OṂ ekāmrake kṣetre yaṃ bhīṣaṇabhairava yāṃ cāmuṇḍā ambāpāda khphreṁ ॥
 
+### चर्चिका
 Coming to Carcikā, her equivalence with Cāmuṇḍā is established by multiple sources. For example, Amarasiṃha in his lexicon says: karmamoṭī tu cāmuṇḍā carmamuṇḍā tu carcikā । (AK 1.1.92). The great Bhāskararāya Makhīndra reiterates this in his gloss on the Lalitā-sahasranāma. Consistent with this, we also have the Śārdūlavikrīḍita verse of Tuṅga, which mentions Carcikā in Rudra’s retinue, separately from Rudrāṇī, in a manner similar to Cāmuṇḍā, as noted above.
 
-carcāyāḥ katham eṣa rakṣati sadā sadyo nṛ-muṇḍa-srajaṃ  
+> carcāyāḥ katham eṣa rakṣati sadā sadyo nṛ-muṇḍa-srajaṃ  
 caṇḍī-keśariṇo vṛṣaṃ ca bhujagān sūnor mayūrād api ।  
 ity antaḥ paribhāvayan bhagavato dīrghaṃ dhiyaḥ kauśalaṃ  
 kūṣmāṇḍo dhṛti-saṃbhṛtām anudinaṃ puṣṇāti tunda-śriyam ॥  
-How does he ever protect his garland of fresh human heads from Carcā?  
+> 
+> How does he ever protect his garland of fresh human heads from Carcā?  
 Also his bull from Caṇḍī’s lion and his snakes from his son’s peacock?  
 Thus, wondering to himself about the lord’s deep mental skill  
 Kūṣmāṇḍa daily nourishes the growing satisfaction of his belly’s corpulence.
