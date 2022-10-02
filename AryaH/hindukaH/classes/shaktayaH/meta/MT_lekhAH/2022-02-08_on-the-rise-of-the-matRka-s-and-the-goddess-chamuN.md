@@ -595,7 +595,7 @@ OṂ aiṁ yaṁ raṁ laṁ vaṁ śaṁ ekāmrake ohāyī kālarātrī chippin
 OṂ aiṁ yaṁ bhīṣaṇa-bhairavāya cāmuṇḍā-sahitāya ekāmraka-kṣetrādhipataye namaḥ ॥  
 OṂ ekāmrake kṣetre yaṃ bhīṣaṇabhairava yāṃ cāmuṇḍā ambāpāda khphreṁ ॥
 
-### चर्चिका
+### Carcikā
 Coming to Carcikā, her equivalence with Cāmuṇḍā is established by multiple sources. For example, Amarasiṃha in his lexicon says: karmamoṭī tu cāmuṇḍā carmamuṇḍā tu carcikā । (AK 1.1.92). The great Bhāskararāya Makhīndra reiterates this in his gloss on the Lalitā-sahasranāma. Consistent with this, we also have the Śārdūlavikrīḍita verse of Tuṅga, which mentions Carcikā in Rudra’s retinue, separately from Rudrāṇī, in a manner similar to Cāmuṇḍā, as noted above.
 
 > carcāyāḥ katham eṣa rakṣati sadā sadyo nṛ-muṇḍa-srajaṃ  
@@ -624,16 +624,22 @@ Saṃhāra-bhairava : Mahālakṣmīvatī
 OṂ hrīṃ hūṃ chrīṃ phreṃ muṇḍinyai \[devī\] 2 aṃbāpada chreṃ hūṃ namaḥ ॥  
 devī= Kālī, Mudgalā, Daṃṣṭrinī, Śṛṅgārā, Śūlinī, Vajriṇī Pāśinī, Aṃkuśinī
 
+#### Sites
 Carcikā is associated with two great shrines at the Western and Eastern extremities of India, respectively Hiṅgulā (Vamanapurāṇa vulgate 70.47) and Koṭivarṣa. Of these, Koṭivarṣa in the Vaṅga country is explicitly known as a mahāsmaśāna. Hence, we may identify Rudracarcikā, who heads the Ambāṣṭaka list, as the goddess associated with this site. In support of this proposal, we have the famous Vaṅgīya inscriptions found in the vicinity that specifically mention the shrines of Carcikā (e.g., the Siyān and Bangarh inscriptions). The Parbatiya inscription of the Vanamālavarman, the king of Assam in the 800s of CE, also mentions the renovation of the temple of Hetukeśvara, the Rudra associated with Koṭivarṣa. King Nayapāla (r. 1043–1058 CE) says that he built a temple for the image of Carcikā his ancestor, emperor Mahendrapāla (r. 845–860 CE), had installed:
 
-… mahe\[ndra\]pāla-carcāyā mahendra-sadṛśodayaḥ । yaḥ śailīm vaḍabhīm śaile sopānena sahākarot …  
+> … mahe\[ndra\]pāla-carcāyā mahendra-sadṛśodayaḥ । yaḥ śailīm vaḍabhīm śaile sopānena sahākarot …  
 He who presented like Mahendra built for Mahendrapāla’s Carcā a stone vaḍabhī temple on the hill with steps \[leading to it\] (Siyan inscription, unfortunately, damaged by the Meccan demons).
 
 The saiddhāntika-śaiva-deśika, Mūrtiśiva, a preceptor of the Pāla monarchs, mentions that he installed a similar temple for Carcikā and worships her in two verses, in anuṣṭubh and śārdūlavikrīḍita, thus:  
-OṂ namaś carcikāyai ।  
-surāsuraśiraḥ-śreṇi-paṭa-vāsa-samā jagat ।  
-pāntu viśvakṛtābhyarcāś carcā-caraṇa-reṇavaḥ ॥  
-daṃṣṭrā-saṃdhi-nilīnam eka-kavalam viśvaṃ tad aśnāmi kiṃ?  
+
+> OṂ namaś carcikāyai ।  
+> 
+surāsuraśiraḥ-śreṇi-  
+> paṭa-vāsa-samā jagat ।  
+pāntu viśvakṛtābhyarcāś  
+> carcā-caraṇa-reṇavaḥ ॥  
+> 
+> daṃṣṭrā-saṃdhi-nilīnam eka-kavalam viśvaṃ tad aśnāmi kiṃ?  
 saptāmbhodhi-jalāni hasta-suṣire guptāni kim pīyate ?  
 ity āhāra-daridratākulatayā śuṣyat tanum bibhratī  
 kalpānte nṛ-kapāla-maṇḍana-vidhiḥ pāyāj jagac carcikā ॥ (Bangarh inscription)  
@@ -647,7 +653,8 @@ Thus, anxious from the poverty of her meal, with her body becoming desiccated, o
 at the end of the age, the rite wearing a garland of human heads, may Carcikā protect the world.
 
 In the above verse, one may note the parallel to the drinking of the oceans seen in Bhavabhūti’s verse cited above. In addition, Koṭivarṣa, the same region of Vaṅga (Varendrī) also had another famous Cāmuṇḍā shrine, Puṇḍravardhana, which is mentioned along with Ekāmra by the great Kashmirian mantravādin Abhinavagupta in his Tantrāloka. The Uttarāmnāya has the below incantation remembering this now lost site:  
-OṂ hrīṃ śrīm śrī-puṇḍravardhana-mahopakṣetre cāmuṇḍā ambāpāda khpreṃ namaḥ ।
+
+> OṂ hrīṃ śrīm śrī-puṇḍravardhana-mahopakṣetre cāmuṇḍā ambāpāda khpreṃ namaḥ ।
 
 [![charchikA_pAla](https://manasataramgini.files.wordpress.com/2022/02/charchika_pala.jpg?w=444&h=893)](https://manasataramgini.files.wordpress.com/2022/02/charchika_pala.jpg)
 
@@ -655,7 +662,7 @@ OṂ hrīṃ śrīm śrī-puṇḍravardhana-mahopakṣetre cāmuṇḍā ambāp
 
 The recovery of at least 24 images of the ekavīrā type, i.e., Carcikā or Cāmuṇḍā independently of other mātṛkā-s, from the Pāla age sites ruined by the Mohammedans, in the vicinity of Koṭivarṣa and Puṇḍravardhana, attests to the importance of her cult in the Varendrī region. One of these images is remarkable in depicting Carcikā, flanked by Gaṇeśa and the Bhairava or Mahākāla, surrounded by 20 Carcikā-s (totally with the central figure 21 goddesses; c.f. the 21 Tārā-s of the bauddha tradition). This multiplicity of Carcikā-s brings to mind the array of 20 Carcikā-s mentioned the Siddhāṅga-pañcaka-mantra-s of the Śaktisūtra:
 
-ghasmarā carcikā vicceśvarī śrīviccāvvā- pāduke pūjayāmi aiṃ ॥  
+> ghasmarā carcikā vicceśvarī śrīviccāvvā- pāduke pūjayāmi aiṃ ॥  
 svarūpavāhinī nava-sthānagā śrīnandinī- viccāvvā pāduke pūjayāmi aiṃ ॥  
 padmā śobhā vikāśinī viccāvvā- pāduke pūjayāmi aiṃ ॥  
 mahāśāntā vikasvarā vikāśinī viccāvvā- pāduke pūjayāmi aiṃ ॥  
@@ -663,15 +670,16 @@ nāda-carcikā śabdādyā śrīṣaṭkā viccāvvā- pāduke pūjayāmi aiṃ 
 
 If we count the last goddess, Viccāvvā, who is the same in each of the five, then we get a list of 16 comparable to the 16 Cāmūṇḍā-s mentioned in the southern Brahmayāmala with roots in the Vaṅga country.
 
+## Vṛścikā
 **The scorpion-goddess**
 
 [![vRiShchikodarI_prayaga](https://manasataramgini.files.wordpress.com/2022/02/vrishchikodari_prayaga.jpg?w=354&h=522)](https://manasataramgini.files.wordpress.com/2022/02/vrishchikodari_prayaga.jpg)
 
 Vṛścikā from Prayāga
 
-We next consider a goddess who is iconographically similar to Cāmūṇḍā but distinguished by a scorpion ornament on her belly. Images of this goddess are widely distributed across India, but a scorpion is never mentioned as an ornament in any of the numerous iconographic accounts of Cāmūṇḍā. Moreover, this scorpion goddess is only found in ekavīrā form, never with the other mātṛkā-s. To decipher who she is, we have to turn to the mega-Skandapurāṇa, which mentions scorpions as the medallion of Caṇḍī, a member of the entourage of Rudrasadāśiva:
+We next consider a goddess who is iconographically similar to Cāmūṇḍā but distinguished by a scorpion ornament on her belly. Images of this goddess are widely distributed across India, but a scorpion is never mentioned as an ornament in any of the numerous iconographic accounts of Cāmūṇḍā. Moreover, this scorpion goddess is only found in ekavīrā form, never with the other mātṛkā-s. To decipher who she is, we have to turn to the mega-Skandapurāṇa, which mentions scorpions as the medallion of Caṇḍī, a member of the entourage of Rudra-sadāśiva:
 
-tathodyato yoginī-cakra-yukto gaṇo gaṇānāṃ patir eka-varcasām ।  
+> tathodyato yoginī-cakra-yukto gaṇo gaṇānāṃ patir eka-varcasām ।  
 śivaṃ puraskṛtya tadānubhāvās tathaiva sarve gaṇanāyakāś ca ॥  
 tad yoginī-cakram ati-pracaṇḍaṃ ṭaṃkāra-bherī-rava-svanena ।  
 caṇḍī puraskṛtya bhayānakāṃ tadā mahāvibhūtyā sam-alaṃkṛtāṃ tadā ॥  
