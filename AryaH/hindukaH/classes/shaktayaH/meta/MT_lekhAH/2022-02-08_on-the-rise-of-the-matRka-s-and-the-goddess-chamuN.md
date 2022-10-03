@@ -698,30 +698,35 @@ anyāś caiva tathā sarvāḥ puraskṛtya sadāśivam ।
 gantu-kāmāś cogratarā bhūtaiḥ pretaiḥ samāvṛtāḥ ॥  
 Then the accompanied by the circle of yoginī-s, the gaṇa, the lord of the gaṇa-s (Nandin) of singular splendor and all the leaders of the gaṇa-s followed, keeping Śiva at their head. The circle of yoginī-s was most-terrifying and resounding with their yells, like the beating of kettledrums. They kept at their forefront the terrible Caṇḍī adorned with great magnificence. She had made the Karkoṭaka snake in the form of a necklace on her neck. She had a medallion of scorpions and bore snakes. Her earrings were made of severed hands and legs. She wore the severed heads of warriors slain in battle on her chest. She wore a skirt of elephant-hide and was accompanied by the circle of yoginī-s. She was surrounded by Kṣetrapāla-s and likewise by Bhairava-s. Similarly, she was accompanied by zombies, ghosts and deceiver ghosts. With Vīrabhadrā at their head, were the most-terrifying gaṇa-s, who had been ordered by Śiva to destroy Dakṣa’s sacrifice (the Raumya-s). Likewise, there were Kālī, Bhairavī, the frightful Māyā, Tripurā, Jayā and the auspicious Kṣemakarī. These and all others, of great ferocity, keeping Sadāśiva at their head, surrounded by ghosts and zombies, desired to march forth.
 
-This is an account of the bridal procession of Rudra’s retinue on the occasion of his marriage to Pārvatī. Though he was displaying this sport of marrying his wife again following Sati’s reincarnation as Pārvatī, his Śakti-s never really left him. The chief among them is Caṇḍī, wearing a badge or medallion of scorpions. Thus, it appears that this ever-present Śakti of Rudra is depicted as the ekavīrā vṛścikodarī goddess. It is possible that the scorpion was identified with the eponymous constellation. Thus, its placement on the belly of the destroying goddess might have had an astronomical symbolism related to the constellation’s position at the southern point of the ecliptic (associated with her seasons: autumn/winter: right in the Yajurveda) and its connection to the Vedic goddess of the netherworld and doom, Nirṛti. In another account of the destruction of Dakṣa’s sacrifice from the Kāyāvarohaṇa-māhātmya (5.82), Rudrāṇī herself generates a goddess by rubbing her nose, who is described by the epithet śahasracaraṇodarī. This might be interpreted either as she with a 1000 feet and bellies or with a millipede on her belly, giving a possible parallel for this iconography.
+This is an account of the bridal procession of Rudra’s retinue on the occasion of his marriage to Pārvatī. Though he was displaying this sport of marrying his wife again following Sati’s reincarnation as Pārvatī, his Śakti-s never really left him. The chief among them is Caṇḍī, wearing a badge or medallion of scorpions. Thus, it appears that this ever-present Śakti of Rudra is depicted as the ekavīrā vṛścikodarī goddess. It is possible that the scorpion was identified with the eponymous constellation. Thus, its placement on the belly of the destroying goddess might have had an astronomical symbolism related to the constellation’s position at the southern point of the ecliptic (associated with her seasons: autumn/winter: right in the Yajurveda) and its connection to the Vedic goddess of the netherworld and doom, Nirṛti.+++(5)+++ In another account of the destruction of Dakṣa’s sacrifice from the Kāyāvarohaṇa-māhātmya (5.82), Rudrāṇī herself generates a goddess by rubbing her nose, who is described by the epithet śahasracaraṇodarī. This might be interpreted either as she with a 1000 feet and bellies or with a millipede on her belly, giving a possible parallel for this iconography.
 
 Despite her widespread presence in Śaiva temples, the presence of this goddess in the mantra-śāstra is limited. The goddess Kubjikā is described as having scorpion ornaments like her husband Aghora in the prayoga-texts of the Kaula tradition (e.g., Ṣaḍāmnāyapūjāvidhi):
 
-agni-jvālā-prabhābhair jvalana-śikhi-piccha-vṛścikair hāramālā ।  
+> agni-jvālā-prabhābhair jvalana-śikhi-piccha-vṛścikair hāramālā ।  
 muṇḍasraṅ-muṇḍa-bhāgābhaya-durita-harā kubjikeśī namas te ॥  
 Obeisance to you. Goddess Kubjikā, who takes away misfortune has the glow of blazing flames, is garlanded by a wreath of shining peacock feathers and scorpions, and a garland of severed heads, holds a severed head, and shows the gestures of protection and boon-giving.
 
 The scorpion-goddess Vṛścikā also figures in the Śrikula practice of the meditation on the six cakra-s along the path of the suṣuṃṇa. In the Anāhata-cakra, she is worshiped in the circle of the goddess Rākinī presiding over blood along with her Rudra. Here, she is worshiped along with several other goddesses, including Cāmuṇḍā, on the 12 spokes of the cakra. The Vaṅgīya mantravādin Pūrṇānanda explains it thus in his Tattvacintāmaṇi:
 
-anāhate nyaset paścāt paritaḥ ka-ṭha-varṇakaiḥ ।  
-kālarātriḥ khātitā ca gāyatrī ghaṇṭikā tataḥ ॥  
-ṅā vṛścikā ca cāmuṇḍā chāyā jayā tathaiva ca ।  
-jhaṅkāriṇī tathā jñānā ṭaṅkahastā ca vinyaset ॥  
-ṭhaṅkārī ca kramādetā dhyātvā vīraśca pūrvavat ।  
-The equivalence between the goddesses and the bīja-s formed from the arṇa-s is thus: kaṃ: Kālarātriḥ; khaṃ: Khātitā; gaṃ: Gāyatrī; ghaṃ: Ghaṇṭikā; ṅaṃ: Vṛścikā; caṃ: Cāmuṇḍā; chaṃ: Chāyā; jaṃ: Jayā; jhaṃ: Jhaṅkāriṇī; ñaṃ: Jñānā; ṭaṃ: Ṭaṅkahastā;  
-ṭhaṃ: Ṭhaṅkārī.
+> anāhate nyaset paścāt  
+> paritaḥ ka-ṭha-varṇakaiḥ ।  
+kālarātriḥ khātitā ca  
+> gāyatrī ghaṇṭikā tataḥ ॥  
+ṅā vṛścikā ca cāmuṇḍā  
+> chāyā jayā tathaiva ca ।  
+jhaṅkāriṇī tathā jñānā  
+> ṭaṅkahastā ca vinyaset ॥  
+ṭhaṅkārī ca kramād etā  
+> dhyātvā vīraśca pūrvavat ।  
+> 
+> The equivalence between the goddesses and the bīja-s formed from the arṇa-s is thus: kaṃ: Kālarātriḥ; khaṃ: Khātitā; gaṃ: Gāyatrī; ghaṃ: Ghaṇṭikā; ṅaṃ: Vṛścikā; caṃ: Cāmuṇḍā; chaṃ: Chāyā; jaṃ: Jayā; jhaṃ: Jhaṅkāriṇī; ñaṃ: Jñānā; ṭaṃ: Ṭaṅkahastā; ṭhaṃ: Ṭhaṅkārī.
 
-This meandering discussion establishes that, while Cāmuṇḍā was seen as part of the 7/8 mātṛkā-s, she also had a separate existence either as a preeminent figure among the mātṛkā-s or as an independent goddess. In the latter capacity, she both iconographically and mythologically, overlapped with the domains of two independent goddesses Bhadrakālī and Caṇḍī/Caṇḍikā. An example of this overlap in folk tradition is the [poem of Bhuṣaṇa Tripāṭhī on Śivājī](https://manasataramgini.wordpress.com/2010/04/25/the-scope-of-shivajis-plan-of-svarajya/), where he says that Caṇḍī is growing fat from eating the Mohammedans offered to her by the Marāṭhā advance — thus, he equates Caṇḍī to the emaciated Cāmuṇḍā.
+This meandering discussion establishes that, while Cāmuṇḍā was seen as part of the 7/8 mātṛkā-s, she also had a separate existence either as a preeminent figure among the mātṛkā-s or as an independent goddess. In the latter capacity, she both iconographically and mythologically, overlapped with the domains of two independent goddesses Bhadrakālī and Caṇḍī/Caṇḍikā. An example of this overlap in folk tradition is the [poem of Bhuṣaṇa Tripāṭhī on Śivājī](https://manasataramgini.wordpress.com/2010/04/25/the-scope-of-shivajis-plan-of-svarajya/), where he says that Caṇḍī is growing fat from eating the Mohammedans offered to her by the Marāṭhā advance — thus, he equates Caṇḍī to the emaciated Cāmuṇḍā.+++(4)+++
 
-**Cāmuṇḍā’s place in the mantra-śāstra**  
+## Cāmuṇḍā’s place in the mantra-śāstra
 We now turn to the mantraśāstra to examine some aspects of her worship. The KM already signals that the worship of the goddesses at Koṭivarṣa was according to the tantra-s known as the Yāmala-tantra-s:
 
-ahaṃ brahmā ca viṣṇus ca ṛṣayas ca tapodhanāḥ ।  
+> ahaṃ brahmā ca viṣṇus ca ṛṣayas ca tapodhanāḥ ।  
 mātṛtantrāṇi divyāni mātṛ-yajñavidhiṃ param ।  
 puṇyāni prakariṣyāma yajanaṃ yair avāpsyatha ॥  
 brāhmaṃ svāyambhuvaṃ caiva kaumāraṃ yāmalaṃ tathā ।  
@@ -732,65 +737,133 @@ narāṇāṃ yajamānānāṃ varān yūyaṃ pradāsyatha ।
 divyasiddhipradā devyo divyayogā bhaviṣyatha ॥  
 yās ca nāryaḥ sadā yuṣmān yakṣyante sarahasyataḥ ।  
 yogesvaryo bhaviṣyanti rāmā divyaparākramāḥ ॥KM 34-38  
-I \[Rudra\], Brahman, Viṣṇu and the sages with a wealth of tapas will compose the pure and divine Mātṛ-tantra-s \[expounding\] the foremost procedures for the rituals to the Mātṛ-s, by which you all would be worshiped. Brāhma, Svāyambhuva, Kaumāra-yāmala, Sārasvata with Gāndhāra, Aiśāna, Nandi-yāmala — these tantra-s of yours and thousands of others will come into being, and men will piously worship you all with them. You, O goddesses, endowed with divine yoga, will grant boons to the men who worship you and confer magical powers on them. Those women who will continuously worship you with the secret rituals will become the mistresses of yoga, beautiful and possessed of magical prowess.
 
-Consistent with the above, the root tantra of the Brahmayāmala tradition, the Picumata, has a major section devoted to the yoginī-kula-s associated with each of the mātṛkā-s. Given the preeminence of Cāmuṇḍā at Koṭivarṣa, one would expect a special place for her among the mātṛkā-s in the mantra-śāstra. We believe that imprints of this are seen throughout the Śaiva- and Śākta- mantraśāstra and their arborizations. For example, the pratiṣṭhā-tantra, Mayamata, after giving the iconographic specifications for the 7 mātṛkā-s flanked by Vīrabhadra and Vināyaka, provides a second section only for Cāmuṇḍā. There it describes the installation of her images with 4, 6, 8, 10, 12, or 16 arms made from wood, clay, or stucco. It states they should show her dancing (see above) the twilight dance either by herself or place her beside Rudra, shown performing the same dance. It further mentions that the images with 4 or 6 arms are helpful for pacificatory purposes. It is again specified that the worship/festivals should be officiated as per the Yāmala-tantra-s (e.g., Southern Brahmayāmala).
+Consistent with the above, the root tantra of the Brahmayāmala tradition, the Picumata, has a major section devoted to the yoginī-kula-s associated with each of the mātṛkā-s. Given the preeminence of Cāmuṇḍā at Koṭivarṣa, one would expect a special place for her among the mātṛkā-s in the mantra-śāstra. We believe that imprints of this are seen throughout the Śaiva- and Śākta- mantraśāstra and their arborizations. 
+
+For example, the pratiṣṭhā-tantra, Mayamata, after giving the iconographic specifications for the 7 mātṛkā-s flanked by Vīrabhadra and Vināyaka, provides a second section only for Cāmuṇḍā. There it describes the installation of her images with 4, 6, 8, 10, 12, or 16 arms made from wood, clay, or stucco. It states they should show her dancing (see above) the twilight dance either by herself or place her beside Rudra, shown performing the same dance. It further mentions that the images with 4 or 6 arms are helpful for pacificatory purposes. It is again specified that the worship/festivals should be officiated as per the Yāmala-tantra-s (e.g., Southern Brahmayāmala).
 
 The dominance of Cāmuṇḍā in the Śaiva systems is also apparent in the archaic mantra-śāstra recorded in the Ḍāmara-tantras. There, Cāmuṇḍā is invoked in a “fever-missile” incantation deployed to strike adversaries with a wasting fever thus:  
-OṂ bakāmukhā cāmuṇḍā kṣīra-māṃsa-śoṇita-bhojinī \[amukaṃ\] khaḥ khaḥ jvareṇa gṛhṇa gṛhṇa gṛhṇāpaya gṛhṇāpaya huṃ phaṭ svāhā ॥  
-Remarkably, the goddess is described as being heron-faced. While this is not encountered in any of her later extant iconographies, on one end, it connects her to the archaic avicephalous goddesses associated with Skanda in the early Kaumāra cycles and the avicephalous goddesses of the Kumārī (Kauśikī Vindhyavāsinī) cycle of the proto-Skandapurāṇa. On the other end, it connects her to the terminal Śaiva-śākta Mahāvidyā tradition, which features the attacking goddess Bagalāmukhī, whose name likewise means heron- or stork- headed. Bagalāmukhī too is not commonly shown with an avian head, but we have multiple prominent exemplars of such iconography in her case. First, we have such a painting from Kangra, Himachal. There is also the avicephalous Bagalāmukhī with 16 hands at the Saṇkaṭa Ghāṭa temple in Vārāṇasi. In a painting from the Bagalāmukhī temple at Bankhandi, Himachal, she is shown riding a crane, which also attacks the daitya whom she slays. Notably, at the Bagalāmukhī temple at Nīlācala, Assam, she is depicted with an owl ensign, another feature shared with Cāmuṇḍā. This suggests that grotesqueness of Cāmuṇḍā’s form included within it a long, iconographically unexpressed memory of the ancient avicephalous goddesses, which was subsequently passed on Bagalāmukhī. She is also identified with another of the Mahāvidyā-s, Chinnamastā, in the opening verse of her [famous stotra](https://manasataramgini.wordpress.com/2005/04/17/chinnamasta/), though their iconography is rather distinct:
 
-OṂ chinnamastā mahāvidyā mahābhīmā mahodarī ।  
+> OṂ bakāmukhā cāmuṇḍā kṣīra-māṃsa-śoṇita-bhojinī \[amukaṃ\] khaḥ khaḥ  
+> jvareṇa gṛhṇa gṛhṇa gṛhṇāpaya gṛhṇāpaya huṃ phaṭ svāhā ॥  
+
+Remarkably, the goddess is described as being heron-faced. While this is not encountered in any of her later extant iconographies, on one end, it connects her to the archaic avicephalous goddesses associated with Skanda in the early Kaumāra cycles and the avicephalous goddesses of the Kumārī (Kauśikī Vindhyavāsinī) cycle of the proto-Skandapurāṇa. On the other end, it connects her to the terminal Śaiva-śākta Mahāvidyā tradition, which features the attacking goddess Bagalāmukhī, whose name likewise means heron- or stork- headed. Bagalāmukhī too is not commonly shown with an avian head, but we have multiple prominent exemplars of such iconography in her case. 
+
+- First, we have such a painting from Kangra, Himachal. 
+- There is also the avicephalous Bagalāmukhī with 16 hands at the Saṇkaṭa Ghāṭa temple in Vārāṇasi. 
+- In a painting from the Bagalāmukhī temple at Bankhandi, Himachal, she is shown riding a crane, which also attacks the daitya whom she slays. 
+- Notably, at the Bagalāmukhī temple at Nīlācala, Assam, she is depicted with an owl ensign, another feature shared with Cāmuṇḍā. This suggests that grotesqueness of Cāmuṇḍā’s form included within it a long, iconographically unexpressed memory of the ancient avicephalous goddesses, which was subsequently passed on Bagalāmukhī. 
+
+She is also identified with another of the Mahāvidyā-s, Chinnamastā, in the opening verse of her [famous stotra](https://manasataramgini.wordpress.com/2005/04/17/chinnamasta/), though their iconography is rather distinct:
+
+> OṂ chinnamastā mahāvidyā mahābhīmā mahodarī ।  
 caṇḍeśvarī caṇḍa-mātā caṇḍa-muṇḍa-prabhañjinī ॥
 
 Her presence is also felt across the Śakti-para Śaiva systems. Kubjikā, the supreme goddess of the Paścimāmnāya, is seen as having several deities (Rudra and Dūtī-s) associated with her respective nyāsa aṅga-s:  
-Hṛdaya: Kālī  
+
+> Hṛdaya: Kālī  
 Śiras: Siddhayogeśvarī or Juṣṭācāṇḍālī  
 Śikhā: Svacchanda-bhairava (the deity of the Bahurūpī ṛk)  
 Kavaca: Śivā  
 Netra-traya: Raktacāmuṇḍā (Parā in some traditions)  
 Astra: Pratyaṅgirā or Guhyakālī  
+
 As one can see, the deity of the eyes of Kubjikā is none other Raktacāmuṇḍā. Her mantra is given as:
 
-OṂ rakte mahārakte chāmuṇḍeśvarī svāhā ॥  
+> OṂ rakte mahārakte chāmuṇḍeśvarī svāhā ॥  
 aiṃ rakte mahārakte chāmuṇḍeśvarī khphreṃ svāhā ॥  
+
 The first is the root form and the second version is the kaula deployment.
 
 Raktacāmuṇḍā’s deep presence is indicated by her presence in other Śaiva mantra traditions. For example, the Ḍāmara tradition deploys her mantra for the successful procurement of medicinal herbs:  
-OṂ hrīṃ raktacāmuṇḍe hūṃ phaṭ svāhā ॥
+> OṂ hrīṃ raktacāmuṇḍe hūṃ phaṭ svāhā ॥
 
 The Ḍāmara tradition also worships her in the company of Rudra as Nṛsiṃha, a feature shared with the Guhyakālī tradition:  
-OṂ hrīṃ śrīṃ klīṃ draṃ caṇḍogre trinetre cāmuṇḍe ariṣṭe hūṁ phaṭ svāhā । hrīṃ namāmy ahaṃ mahādevaṃ nṛsiṃhaṃ bhīmarūpiṇaṃ OṂ namas tasmai ॥
 
-At the root of the Śākta tradition are the famed mantra-s of Cāmuṇḍā, the most fundamental of which is the Navārṇa-mantra. Tradition hails it as the best of the best of the Śākti-mantra-s: vicce navārṇa-mantro .ayaṃ śakti-mantrottamottamaḥ ।. It goes thus:  
-(OṂ) aiṃ hrīṃ klīṃ cāmuṇḍāyai vicce ॥  
+> OṂ hrīṃ śrīṃ klīṃ draṃ  
+> caṇḍogre trinetre cāmuṇḍe ariṣṭe  
+> hūṁ phaṭ svāhā ।  
+> hrīṃ namāmy ahaṃ mahādevaṃ nṛsiṃhaṃ bhīmarūpiṇaṃ  
+> OṂ namas tasmai ॥
+
+At the root of the Śākta tradition are the famed mantra-s of Cāmuṇḍā, the most fundamental of which is the Navārṇa-mantra. Tradition hails it as the best of the best of the Śākti-mantra-s: 
+
+> vicce navārṇa-mantro .ayaṃ śakti-mantrottamottamaḥ ।. 
+
+It goes thus:  
+
+> (OṂ) aiṃ hrīṃ klīṃ cāmuṇḍāyai vicce ॥  
+
 It might be expanded to include Cāmuṇḍā at the end of the mātṛkā-list as the Sarva-mātṝ-maya-mantra:  
-(OṂ) hrīṃ brahmāṇī-māheśvarī-kaumārī-vaiṣṇavī-vārāhī-aindrī-cāmuṇḍāyai vicce svāhā ।  
+
+> (OṂ) hrīṃ brahmāṇī-māheśvarī-kaumārī-vaiṣṇavī-vārāhī-aindrī-cāmuṇḍāyai vicce svāhā ।  
+
 We then have the [Padamālā-mantra](https://manasataramgini.wordpress.com/2007/07/01/the-padamala-mantra-of-chamunda/) found in several texts like the Devīpurāṇa and the Yuddhajayārṇava-tantra (which in turn is included in Agnipurāṇa; AP 135). This long mantra, while including all the mātṛkā-s as the above, has as its primary deity the 28-handed Cāmuṇḍā. It ends with the mantra-pada:  
-OṂ cāmuṇḍe kili kili OṂ vicce huṃ phaṭ svāhā ॥  
-These mantra-s indicate the intimate connection between Cāmuṇḍā and the mysterious mantra utterance “vicce”. Indeed, Abhinavagupta even calls her Viccikā in his Tantrāloka, making one wonder if there is some connection to Vṛścikā via a Prākṛta form. In any case, the ending of the Padamālā-mantra is remarkably similar of the root mantra of the Paścimāṃnāya, the Samayāvidyā, which is the female counterpart of the Bahurūpī ṛk (the Aghora-brahma-mantra [^3]). Every syllable of the Samayāvidyā corresponds to one of the 32 syllables of the metrical Bahurūpī. The standard Paścimāṃnāya Samayāvidyā:  
-OṂ bhagavati ghore hskhphreṃ śrīkubjike hrāṃ hrīṃ hrauṃ ṅa-ña-ṇa-na-me aghoramukhi chrāṃ chrīṃ kiṇi kiṇi vicce ॥  
+
+> OṂ cāmuṇḍe kili kili OṂ vicce huṃ phaṭ svāhā ॥  
+
+These mantra-s indicate the intimate connection between Cāmuṇḍā and the mysterious mantra utterance “vicce”. Indeed, Abhinavagupta even calls her Viccikā in his Tantrāloka, making one wonder if there is some connection to Vṛścikā via a Prākṛta form.+++(5)+++ In any case, the ending of the Padamālā-mantra is remarkably similar of the root mantra of the Paścimāṃnāya, the Samayāvidyā, which is the female counterpart of the Bahurūpī ṛk (the Aghora-brahma-mantra [^3]). 
+
+[^3]: The Kashmirian Kaṭḥa tradition preserves a form of the Bahurūpī that combines both the Rudra-s and the Rudrāṇī-s; recorded by the mantravādin Svāmin Lakṣmaṇa Jū
+
+
+Every syllable of the Samayāvidyā corresponds to one of the 32 syllables of the metrical Bahurūpī. The standard Paścimāṃnāya Samayāvidyā:  
+
+> OṂ bhagavati ghore hskhphreṃ śrīkubjike hrāṃ hrīṃ hrauṃ  
+> ṅa-ña-ṇa-na-me  
+> aghoramukhi  
+> chrāṃ chrīṃ kiṇi kiṇi vicce ॥  
+
 The Paścimāṃnāya Samayāvidyā as per the Vaṅgīya tradition:  
-OṂ namo bhagavati hskhphreṃ hauṃ kubjike aiṃ hrīṃ srīṃ aghore ghore aghoramukhi klīṃ klīṃ kili kili vicce ॥  
+
+> OṂ namo bhagavati hskhphreṃ hauṃ kubjike  
+> aiṃ hrīṃ srīṃ aghore ghore aghoramukhi  
+> klīṃ klīṃ kili kili vicce ॥  
+
 This suggests that the Cāmuṇḍā mantra influenced the construction of the Samayāvidyā.
 
 Moreover, the Aṣṭa-mātṛkā-mantra-s of the Paścimāmnāya also parallel the Sarva-mātṝ-maya-mantra:
 
-aiṁ aghore amoghe varade vimale \[bīja\] \[devī\] vicce ॥  
+> aiṁ aghore amoghe varade vimale \[bīja\] \[devī\] vicce ॥  
 śrīṃ: brahmāṇī; caṃ: kaumārī; ṭaṃ: vaiṣṇavī; thaṃ: vārāhī; paṃ: indrāṇī; yaṃ: cāmuṇḍādevī; śaṃ: mahālakṣmī
 
 As noted above, we have the Śakti-sūtra of the Paścimāmnāya, which as has the Siddhāṅga-pañcaka-mantra-s to the array of Carcikā-s. Finally, a similar kind of influence of the Cāmuṇḍā mantra, likely via the Paścimāmnāya, is also seen on the construction of the long mantra of the erotic goddess Bhagamālinī of the Dakṣiṇāmnāya (note pada bhaga-vicche):
 
-OṂ āṃ aiṂ bhagabhage bhagini bhagodari bhagāṅge bhagamāle bhagāvahe bhagaguhye bhagayoni bhaganipātini sarvabhage bhagavaśaṅkari bhagarūpe nityaklinne bhagasvarūpe sarvabhagāni me hyānaya varade rete surete bhagaklinne klinnadrave kledaya drāvaya amoghe bhaga-vicche kṣubha kṣobhaya sarvasattvān bhageśvari aiṃ blūṃ jaṃ blūṃ bheṃ moṃ blūṃ heṃ blūṃ ai/ blūṃ klinne sarvāṇi bhagāni me vaśamānaya strīṃ blūṃ hrīṃ bhagamālinī-nityā-kalāyai namaḥ ॥ (As per the Jñānārṇava–tantra 15)
+> OṂ āṃ aiṂ bhagabhage bhagini bhagodari bhagāṅge bhagamāle bhagāvahe bhagaguhye bhagayoni bhaga-nipātini sarvabhage bhagavaśaṅkari bhagarūpe  
+> nityaklinne bhagasvarūpe sarvabhagāni me hyānaya  
+> varade rete surete bhagaklinne klinnadrave  
+> kledaya drāvaya  
+> amoghe bhaga-vicche  
+> kṣubha kṣobhaya sarvasattvān  
+> bhageśvari  
+> aiṃ blūṃ jaṃ blūṃ bheṃ moṃ blūṃ heṃ blūṃ  
+> ai/ blūṃ klinne  
+> sarvāṇi bhagāni me vaśamānaya  
+> strīṃ blūṃ hrīṃ bhagamālinī-nityā-kalāyai namaḥ ॥  
+> (As per the Jñānārṇava–tantra 15)
 
-**The etymology of Cāmuṇḍā**  
+## The etymology of Cāmuṇḍā  
 Finally, we come to the peculiar issue of the etymology of Cāmuṇḍā. The Purāṇa-s offer multiple alternative “folk etymologies,” e.g., from carma+muṇḍa (Devī- and Varāha- purāṇa-s) or from Caṇḍa and Muṇḍa; however, none of these are by any means grammatical Sanskrit derivations. Moreover, the multiplicity also suggests that its actual roots were forgotten by the time the name was in common use. Yet, it seemed deserving of an explanation to the Sanskrit speaker as it did not seem “natural”, unlike the names of the other mātṛkā-s with deep Indo-Aryan roots. This goes with the fact that she is not a straightforward female counterpart of the gods, unlike most other mātṛkā-s.
 
-Interestingly, some of her earliest mentions in the Koṭivarṣa-māhātmya and the Vindhyavāsinī section of the proto-Skanda-purāṇa, furnish her with a bivalent, but proper Sanskrit name, Bahumāṃsā. However, this name did not persist. Indeed, the other names of Cāmuṇḍā, Carcikā and Karṇamoṭī, or the peculiar mantra-pada vicce are also not attested in the earliest Sanskrit texts and lack a transparent Sanskrit etymology. This suggests that the names of this goddess adopted from a non-Aryan language eventually acquired wide currency within Sanskrit. This was hinted at even by Bhaskararāya. Moreover, as we noted above, Cāmuṇḍā overlaps with the domain of the related goddess known as Caṇḍī/Caṇḍikā, who is traditionally an ectype of Durgā. It does seem like Caṇḍī and Carcikā too might have originated from different attempts at Sanskritization of the same non-Aryan word that also gave rise to Cāmuṇḍā.
+Interestingly, some of her earliest mentions in the Koṭivarṣa-māhātmya and the Vindhyavāsinī section of the proto-Skanda-purāṇa, furnish her with a bivalent, but proper Sanskrit name, Bahumāṃsā. However, this name did not persist. Indeed, the other names of Cāmuṇḍā, Carcikā and Karṇamoṭī, or the peculiar mantra-pada vicce are also not attested in the earliest Sanskrit texts and lack a transparent Sanskrit etymology. This suggests that the names of this goddess adopted from a non-Aryan language eventually acquired wide currency within Sanskrit.+++(4)+++ This was hinted even by Bhaskararāya. Moreover, as we noted above, Cāmuṇḍā overlaps with the domain of the related goddess known as Caṇḍī/Caṇḍikā, who is traditionally an ectype of Durgā. It does seem like Caṇḍī and Carcikā too might have originated from different attempts at Sanskritization of the same non-Aryan word that also gave rise to Cāmuṇḍā.
 
-Its absence in the Vedic and epic layers of the language suggests that the word was unlikely to have been borrowed from a language the ārya-s encountered en route to India (Uralic or Bactria-Margiana) or upon first entering India (the Harappan language). We cannot etymologize it as Dravidian or Austro-Asiatic either. Hence, we have to tentatively admit that it might be from a now-extinct tribal language. Adopting such a name when an early Sanskrit name Bahumāṃsā was already in use suggests that simple syncretism with tribal goddesses was not at play. Instead, foreign words might be adopted to indicate special powers in incantations (e.g., the jharbhari-turphari sūkta to the Aśvins right in the RV itself). Thus, in the tāntrika tradition, the adoption of words from or which sound like from other languages is part of the same process. We posit that this was the mechanism by which the Navārṇa-mantra was constructed and, in turn, this made Cāmuṇḍā a more popular name displacing Bahumāṃsā. This also goes hand in hand with a widespread tendency to show the universality of the deity. In the case of the great Rudrian goddesses, this was also associated with a tendency to emphasize her links to the Rudrian domain of the exterior, which includes the tribal groups (already seen in the Yajurveda). This is also signaled by indicating the worship of the goddess in distant or non-Aryan lands. For instance, in the proto-Skandapurāṇa, the virgin goddess Kauśikī born of the black slough of Pārvatī emanated numerous avicephalous and therocephalous goddesses to aid her in the killing of Śumbha and Niśumbha. Thereafter, these goddesses were installed for worship in various countries, like the owl-headed Upakā in Pārasīka (Iran); the raven-headed Vāyasī in Yavana (Greek lands); the lion-headed Pracaṇḍā in Tukhara (Tocharia); Vānarī among the Śabara tribesmen; several others in the provinces of Lankā. This is reflected in the mantra-śāstra by the names of the goddesses like Gāndhārī or Dramiḍi.
+Its absence in the Vedic and epic layers of the language suggests that the word was unlikely to have been borrowed from a language the ārya-s encountered en route to India (Uralic or Bactria-Margiana) or upon first entering India (the Harappan language). We cannot etymologize it as Dravidian or Austro-Asiatic either. Hence, we have to tentatively admit that it might be from a now-extinct tribal language. Adopting such a name when an early Sanskrit name Bahumāṃsā was already in use suggests that simple syncretism with tribal goddesses was not at play. Instead, foreign words might be adopted to indicate special powers in incantations (e.g., the jharbhari-turphari sūkta to the Aśvins right in the RV itself).+++(5)+++ Thus, in the tāntrika tradition, the adoption of words from or which sound like from other languages is part of the same process. We posit that this was the mechanism by which the Navārṇa-mantra was constructed and, in turn, this made Cāmuṇḍā a more popular name displacing Bahumāṃsā.+++(4)+++ 
+
+This also goes hand in hand with a widespread tendency to show the universality of the deity. In the case of the great Rudrian goddesses, this was also associated with a tendency to emphasize her links to the Rudrian domain of the exterior, which includes the tribal groups (already seen in the Yajurveda). This is also signaled by indicating the worship of the goddess in distant or non-Aryan lands. For instance, in the proto-Skandapurāṇa, the virgin goddess Kauśikī born of the black slough of Pārvatī emanated numerous avicephalous and therocephalous goddesses to aid her in the killing of Śumbha and Niśumbha. Thereafter, these goddesses were installed for worship in various countries, like the owl-headed Upakā in Pārasīka (Iran); the raven-headed Vāyasī in Yavana (Greek lands); the lion-headed Pracaṇḍā in Tukhara (Tocharia); Vānarī among the Śabara tribesmen; several others in the provinces of Lankā. This is reflected in the mantra-śāstra by the names of the goddesses like Gāndhārī or Dramiḍi.
 
 ------------------------------------------------------------------------
 
-Footnote 3: The Kashmirian Kaṭḥa tradition preserves a form of the Bahurūpī that combines both the Rudra-s and the Rudrāṇī-s; recorded by the mantravādin Svāmin Lakṣmaṇa Jū
 
+## Appendix
+
+One word for woodpecker is shatachChadA. 
+
+I have seen it being mentioned as one of the sacrificial victims in the mega-sacrifice where one representative of each species is sacrificed. It was done in Bali to the rudra-s until not long ago. 
+
+The son of pR^ithivinArAyaNa, the great king of Nepal, mentions a similar sacrifice for chaNDikA in his manual, where the woodpecker is seen. 
+
+The hornbill is mentioned starting from the vaikhAnasa-s as the vAhana of lakShmI. 
+
+Among the many avicephalous yoginI shArikA originally implied as mynah headed has an important cult in Kashmir transmitted to south India. 
+
+The hornbill yoginI tripuracAtakI is invoked in certain shrIkula traditions.
