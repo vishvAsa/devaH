@@ -19,3 +19,9 @@ performing mighty acts.
 
 The importance of the heart in this tradition is paralleled  by an incantation in the soma rite, where the essence of the universe is said to be distilled into indra's heart via soma:
 
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/072/07_nAbhA_pRthivyA.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/09/072/07_nAbhA_pRthivyA.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+
+One may also consider the triShTubh incantation of our ancient clansman, the kAvya describing indra as the heart of the gods:
