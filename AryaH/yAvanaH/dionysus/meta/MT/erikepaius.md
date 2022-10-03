@@ -25,3 +25,8 @@ The importance of the heart in this tradition is paralleled  by an incantation i
 
 
 One may also consider the triShTubh incantation of our ancient clansman, the kAvya describing indra as the heart of the gods:
+
+<div class="js_include" url="/vedAH/atharva/paippalAdam/saMhitA/vishvAsa-prastutiH/04/011/03_ahaM_satyena_sayujA.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH/atharva/paippalAdam/saMhitA/sarvASh_TIkAH/04/011/03_ahaM_satyena_sayujA.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
