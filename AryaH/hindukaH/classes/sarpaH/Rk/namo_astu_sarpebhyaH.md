@@ -37,8 +37,3 @@ devatAH: सर्पाः
 
 </details>
 </div>
-</details>
-</div>
-
-
-

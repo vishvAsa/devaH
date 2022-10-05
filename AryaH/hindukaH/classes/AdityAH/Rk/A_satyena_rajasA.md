@@ -3,14 +3,20 @@ title: आ सत्येन रजसा
 unicode_script: devanagari
 practice_weight: 0
 ---
++++(माध्याह्निक उपस्थाने विनियोगः। )+++
 
-आस॒त्येन॒ रज॑सा॒ वर्त॑मानो निवे॒शय॑न्न॒मृतं॒ मर्त्यं॑ च ।  
-हि॒र॒ण्यये॑न सवि॒ता रथे॒नाऽऽदे॒वो या॑ति॒ भुव॑ना वि॒पश्यन्॑ ॥ 
+आस॒त्येन॒ रज॑सा॒ वर्त॑मानो  
+निवे॒शय॑न्न् अ॒मृतं॒ मर्त्यं॑ च ।  
+हि॒र॒ण्यये॑न सवि॒ता रथे॒न॒+  
++आऽऽदे॒वो या॑ति॒ भुव॑ना वि॒पश्यन्॑ ॥ 
 
-उद्वयं तम॑स॒स् परि॒ पश्य॑न्तो॒ ज्योति॒रुत्त॑रम् ।  
-दे॒वं देव॒त्रा सूर्य॒मगन्म॒ ज्योतिरु॑त्त॒मम् ।  
-उदु॒त्यं जा॒तवे॑दसं दे॒वं व॑हन्ति के॒तवः॑ । दृ॒शे विश्वा॑य॒ सूर्य॑म्॑॑  ॥
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/050/10_udvayaM_tamasaspari.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-चि॒त्रं दे॒वाना॒म् उद॑गा॒द् अनीकं॒ चक्षु॑र् मि॒त्रस्य॒ वरु॑णस्या॒ग्नेः ।  
-आ प्रा॒ द्यावा॑ पृथि॒वी अ॒न्तरिक्ष॒ꣳ॒ सूर्य॑ आ॒त्मा जग॑तस् त॒स्थुष॑श् च।  
+
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/050/01_udu_tyaM.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/115/01_chitraM_devAnAmudagAdanIkaM.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+
 तच् चक्षु॑र् दे॒वहि॑तं पुरस्ता॑च् छु॒क्रम् उ॒च्चर॑त् ॥
