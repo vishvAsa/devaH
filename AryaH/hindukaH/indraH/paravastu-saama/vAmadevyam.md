@@ -1,5 +1,5 @@
 +++
-title = "वामदेव्यम्"
+title = "वामदेव्यम् - कया नश्"
 unicode_script = "devanagari"
 
 +++
