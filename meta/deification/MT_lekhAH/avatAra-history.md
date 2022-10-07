@@ -22,3 +22,13 @@ To conclude traditions can be divided into:
 - 3) AveshavAda important for pAshupata-s
 
 Thus, while quite distinct in expression some variant of this genre of ideas is fairly important to central in different H streams & counter-religions.
+
+## Sister traditions
+It is a worthy topic -- there are many dimensions to it in my own analysis: 
+
+1. the avatAra as the divine entity in a "material" body (dominant in H); 
+2. A variation on this the son of the god -- Herakles, pANDu-s, vAnara-s. 
+3. descent of the abstracted divinity Xvarena -- Iranic.
+4. The demi-god -- ardhadeva -- like trasadasyu who presumably became one via acts of great valor -- the material being intersecting with the daiva by act that go way beyond the ordinary individual. A debased version might have been seen in cults of certain Greco-Roman figures.
+
+Outside the IE realm, such a concept might be seen in shinto & many folk expressions in India. One could also include counter-religious figures like the tathAgata and the nagna in this category.
