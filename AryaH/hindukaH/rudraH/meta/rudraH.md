@@ -40,3 +40,7 @@ unicode_script = "devanagari"
 Hyang Manikmaya.
 
 Semar is also called Sang Hyang Ismaya, the elder brother of Sang Hyang Manikmaya (Shiva). He is worshipped by followers of Javanese Hinduism and Kejawen, being considered as the guardian of Brahmins and Kshatriyas, the keeper of wisdom and protector of Java.
+
+## श्री-वैष्णव-सम्प्रदाये
+> During the utsavam at Thirukannangudi (on the 7th or 8th day), the Lord showcases himself as Rudran to Azhwar. So the Goshti will sport Urdhva Pundram, and above it Vibhuti to commemorate this in that Divya Desam.  
+> - Dushyant
