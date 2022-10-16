@@ -4,7 +4,14 @@ unicode_script: devanagari
 practice_weight: 0
 ---
 
-७२ मन्त्राः। एते बोधायनैः स्मृताः ("Baudhāyana Dharmasūtra 4, 7, 7. Taitt. Br. 2, 7, 7 differs." इति Aufrecht) - सिंहानुवाकस्य पर्यायः। विनियोगः - "It is advised to chant these mantras, while looking at yourself in a pot of water, and finally empty the water in nirritti dik.  All types of negative aspects of our personality will get destroyed. The prayoga also says that those who do not perform  vaishvadeva could also recite these mantras before lunch to get the benefits." 
+७२ मन्त्राः। एते बोधायनैः स्मृताः ("Baudhāyana Dharmasūtra 4, 7, 7. Taitt. Br. 2, 7, 7 differs." इति Aufrecht) - सिंहानुवाकस्य पर्यायः।  
+
+<details><summary>विनियोगः</summary>
+
+It is advised to chant these mantras, while looking at yourself in a pot of water, and finally empty the water in nirritti dik.  All types of negative aspects of our personality will get destroyed. The prayoga also says that those who do not perform  vaishvadeva could also recite these mantras before lunch to get the benefits.
+</details>
+
+
 
 - सि॒ँहे मे॑ म॒न्युः।
 - व्या॒घ्रे मे॑ अन्तरा॒मयः॑।
