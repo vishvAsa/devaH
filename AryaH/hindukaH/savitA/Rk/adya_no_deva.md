@@ -4,8 +4,5 @@ unicode_script: devanagari
 practice_weight: 0
 ---
 
-अ꣣द्य꣡ नो꣢ देव सवितः  
-प्र꣣जा꣡व꣢त्सावीः꣣ सौ꣡भ꣢गम्।  
-प꣡रा꣢ दु꣣ष्व꣡प्न्य꣢ᳱ सुव ।।141
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/082/04_adyA_no.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-अद्य नो देव सवितः प्रजावत्सावीः सौभगम्। परा दुष्वप्न्यᳱ सुव ।।141
