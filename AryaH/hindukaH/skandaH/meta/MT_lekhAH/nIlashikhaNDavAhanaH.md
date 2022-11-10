@@ -11,7 +11,7 @@ The AV mantra nIlashikaNDavAhanaH is used in kaumAra parlance as the renowned aS
 It is specifically applied to rudra or his ectypes bhava & sharva which some traditions see as his twin sons ~ ashvin-s of the RV. The AV usage likely parallels the nilagrIva of the YV tradition that became dominant in the later H tradition. AV-vulgate 6.93.1 refers to sharva rather than skanda (yes the 2 are related). The interpretation of AV-vul 20.132 in the vaidika sense goes thus:
 
 > द्वौ वा॒ ये शि॑शवः ||15||  
-> The two are indeed auspiciousness & might; 
+> The two are indeed auspiciousness & might; +++(पदे लुप्ते ऽत्र?)+++ 
 >
 > नील॑शिखण्ड॒वाह॑नः ||16||  
 > O blue-crested one! He is verily the killer.  
