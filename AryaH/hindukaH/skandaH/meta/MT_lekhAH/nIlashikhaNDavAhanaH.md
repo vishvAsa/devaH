@@ -13,9 +13,9 @@ It is specifically applied to rudra or his ectypes bhava & sharva which some tra
 > द्वौ वा॒ ये शि॑शवः ||15||  
 > The two are indeed auspiciousness & might; 
 >
-> नील॑शिखण्ड॒वाह॑नः ||16|| 
+> नील॑शिखण्ड॒वाह॑नः ||16||  
 > O blue-crested one! He is verily the killer.  
-> +++(वा हनः इत्यत्र तु स्वरं द्ऱ्‌ष्ट्वा "ऽहनः" इति स्वीकर्तुम् उचितम् भाति - तस्मिन्नेव पक्षे स्वरनिघातो भवति।)+++
+> +++(वा हनः इत्यत्र तु स्वरं दृ‌ष्ट्वा "ऽहनः" इति स्वीकर्तुम् उचितम् भाति - तस्मिन्नेव पक्षे स्वरनिघातो भवति। वाहन इति वा।)+++
 
 Thus, the two auspiciousness = bhava; might= sharva; of them the blue crested one -- likely sharva is a killer. Thus, the vaidika usage it was likely related bhava-sharvA which makes the kaumAra bahuvrIhI interpretation still compatible with old tradition. 
 
