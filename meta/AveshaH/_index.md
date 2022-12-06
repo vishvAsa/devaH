@@ -1,4 +1,6 @@
 +++
 title = "+आवेशः"
-unicode_script = "devanagari"
 +++
+
+- दैव-समावेश-ग्रहाधारितं किञ्चन लोकप्रियं चलच्चित्रम् प्रसारितम् "कान्तार" इति नाम्ना।
+[SV](https://twitter.com/Souravvm/status/1596164900375891968) इति स्मरणीयेषु दृश्येष्व् अन्यतमम् । स्वीया समीक्षा [ऽत्र](https://letterboxd.com/vishvas/film/kantara/) ।  
