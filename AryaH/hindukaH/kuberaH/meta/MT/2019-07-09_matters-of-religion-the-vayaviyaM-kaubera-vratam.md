@@ -9,6 +9,7 @@ Source: [here](https://manasataramgini.wordpress.com/2019/07/09/matters-of-relig
 
 Matters of religion: the Vāyavīyaṃ Kaubera-vratam
 
+## Setting
 The bus came to halt at the underground stop. Vrishchika of pretty tresses got off the bus and walked up the stairs to reach the over-bridge. She reached the middle of the bridge and stood there looking out expectantly at the road. It was a remarkably clear day and she could see the yonder horizon where the azure heights of father Dyaus met his lover mother Pṛthivī clad in the verdant vesture of the distant woods. Vrishchika passed into a reverie at that sight and remained oblivious to the throng of people who criss-crossed the bridge in either direction. Suddenly, an ugly man sidled up beside her and before she could react to his presence he said: “Ma’am do you visit the Hindu temple at Śukramārga?” Vrishchika: “On rare occasions.” The man responded: “We need wealthy patrons like you to visit the temple more often and make donations. Please do so devī”. So saying he handed a pamphlet to her. Vrishchika wondered: “A soothsayer at the temple of the Vāyu-born vānara had once told my family that I would be the wealthiest of all my sisters. But I’m hardly in that state now. Yet, why does he even think I’m wealthy?” She snapped out of that train of thought and waved the ugly man away saying “śubham astu! It is far way from my place but I’ll try.”
 
 She continued to look out at the road and not seeing what she wanted to see, she turned to the pamphlet. It was crowded with temple events. There was a Rudra-pūjā for the 13th pradoṣa and a Viṣṇu-pūjā for the ekādaśī. There was another event for Vināyaka, for which there was a call for people to join in a mass-recitation of the Gaṇeśopaniṣat. Yet another corner mentioned a Vaṭakini-mahotsava for the fierce ape. 
@@ -37,6 +38,7 @@ Just as her eyes wandered to the next item on the pamphlet the corner of her vis
 > 
 > The V3 was distraught and went to his teacher back in Mālava. She happened have studied some śāstra-siddhānta under Lootika. She then consulted your sister, who not wanting to give out my identity publicly told her that if Vitteśa were to be pleased with the said V3 he would find the right V1 who will solve his samasyā. The vaṇij went around for a while until he circuitously got introduced to me by Somakhya. I told the V3 that I could not be a sthāpakācārya at a temple but I could impart a key vrata to the vaiṣṇava sthāpaka at the temple who would then achieve success with the endeavor upon performing the vrata. This, my pretty girl, is the whole story. The vrata is none other than the one of the ekādaśī that I’ll expound to you once we are home.”
 
+## Utpatti
 Back home, taking in the good night air and the dark canopy of the nakṣatra-s, Indrasena expounded to his wife the rahasya-s of the Vāyavīyaṃ Kaubera-vratam: 
 
 > “Dear Gautamī, first you must know why it is called the Vāyavīyaṃ Kaubera-vratam and why the ekādaśī is considered the day of the yakṣa lord. In this regard the following has been narrated by the brāhmaṇa Mahātapās to king Prajāpāla in the Varāhapurāṇa:
@@ -86,14 +88,17 @@ Now, listen to that other sin-destroying tale of the origin of the lord of wealt
 
 (Continued in vAyu article.)
 
+## tirodhAna
 > V: “Dear Ātreya, may be in the regard I should add that this benign form of Vāyu, which becomes Vaiśravaṇa might relate to the magical concealment power of the yakṣa-s, tirodhā that is alluded to multiple times in the śruti. On one hand it connects Kubera with the primordial goddess Virāj. The Puruṣa hymn, echoing the cyclic generation of the primordial god Dākṣa and goddess Aditi from each other, states that the goddess Virāj arose from the Puruṣa and that conversely the Puruṣa arose from Virāj.
 >
 > The Atharvāṅgirasa-śruti adds that Kubera was a calf of this goddess Virāj in the form of Tirodhā which conferred the concealment (tirodhā) capacity on his folk (i.e. the yakṣa-s). This is again mentioned and worshipped in his ritual in the Taittirīya-śruti. In the AV it is said that he who knows this thing about Kubera causes his pāpaman to vanish, whereas in the TA it makes his enemies disappear, like the prācya Uesugi Kenshin experienced with his devotions. This again reflects the beneficent nature of this deity whose origin is from the primordial being. Perhaps the tirodhā power, which the Taittirīyaka-s describe as coming from the waters represents, the benefic clouds brought by Vāyu as opposed to the destructive sand storm.
 >
 > Finally, before we go to the ritual, O Atri, I would like to to ask you if you can think of any parallels to the connection between Vāyu and Vaiśravaṇa which might exist in the Iranian world?”
 
+## Iranic echoes
 > I.s.: “Firstly, O Āṅgirasī, it is pleasing to see that you have thoroughly acquired the śrauta-siddhānta of Puṇyajaneśa. Regarding your question — I am aware of no direct cognate of Kubera in the early Iranic world. However, we may note the following: interestingly, even in the Avesta the benign Vāyu is described as being associated with gold, a characteristic of the Yakṣarāṭ. Subsequently, among the non-Zoroastrian and para-Zoroastrian Iranics of the Kuṣāṇa empire it appears that the personification of royal power, Avestan Khvarena (Kuṣāṇa: Pharro), came to identified with Vaiśravaṇa. This is not surprising given both their association with royal power. This led to syncretic depictions in the Kuṣaṇa age that appear to have eventually reached the eastern steppes whose new masters were the Turkic and Mongolic people. This greatly influenced the development of the Kubera-like deity Kut-Tengri among the Uighurs and other central Asian Turks.”
 
+## vrata
 > V: “Now, O Atricandra, expound to me details of the ritual — the observances, actions and the mantra-s.”  
 
 > I.s: “Sure. The vrata, as has been specified, should be done on an ekādaśī, either in the afternoon or in the evening. After having had a bath the ritualists should observe purity and abstain from sexual activity for the entire day. They should eat air-dried fruits and nuts. They should abstain from consuming milk products but they may drink fresh fruit juices. In old Bhārata the ideal spot for the ritual was said to be under an aśvattha or a vaṭa tree but these days such spots are difficult to come by.
