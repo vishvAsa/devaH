@@ -101,6 +101,7 @@ Now, listen to that other sin-destroying tale of the origin of the lord of wealt
 ## vrata
 > V: “Now, O Atricandra, expound to me details of the ritual — the observances, actions and the mantra-s.”  
 
+### tarpaNa
 > I.s: “Sure. The vrata, as has been specified, should be done on an ekādaśī, either in the afternoon or in the evening. After having had a bath the ritualists should observe purity and abstain from sexual activity for the entire day. They should eat air-dried fruits and nuts. They should abstain from consuming milk products but they may drink fresh fruit juices. In old Bhārata the ideal spot for the ritual was said to be under an aśvattha or a vaṭa tree but these days such spots are difficult to come by.
 >
 > First the ritualists should offer tarpaṇa to the key teachers of the lineage: the founder was a sage of the Vaikhānasa clan. That knowledge then passed on to the queen Vāsavadattā. Her son the renowned Naravāhanadatta was next. His minister Gomukha was next. These were the teachers of the lore at Kauśāmbī. 
@@ -113,21 +114,21 @@ Now, listen to that other sin-destroying tale of the origin of the lord of wealt
 
 > V: “It is indeed rather remarkable that even today we have nearly forgotten remnants of the old cult at these key cultic centers, like the Vāyu temples in Lāṭa and the Vitteśa near a step-well in their vicinity, or the images of Nalakūbara at Gopagiri and the fragment of the old Yakṣarāṭ-prāsāda at Kauśāmbī.”
 
-> I.s: “If the Yakṣa is good to us, may be some day we shall visit those cultic centers to revive our connection. To continue, the ritualist then salutes his teachers: ‘oṃ gurubhyo namaḥ \|‘. 
+> I.s: “If the Yakṣa is good to us, may be some day we shall visit those cultic centers to revive our connection. To continue, the ritualist then salutes his teachers: ‘oṃ gurubhyo namaḥ ।‘. 
 
-## The rite
+### The rite
 The spot of the rite should be to the north of the trunk of the said tree for indeed the northern line is where Vāyu, Vitteśa and Bhava, all deities of the rite, are stationed. The ritualist begins by uttering the yajuṣ:  
 
-> iṣé tvorjé tvā vāyávaḥ sthopāyávaḥ stha devó vaḥ savitā́ prā́rpayatu śréṣṭhatamāya kármaṇe \|  
+> iṣé tvorjé tvā vāyávaḥ sthopāyávaḥ stha devó vaḥ savitā́ prā́rpayatu śréṣṭhatamāya kármaṇe ।  
 > For vigor you; for nourishment you; the Vāyu-s abide, the approachers abide. Let the god Savitṛ set you in motion for the most excellent ritual.
 
 Vrishchika, here you may note the multiplicity of the Vāyu-s reminiscent of the Aeolian plurality seen among our yavana cousins. Then he stands up and recites the following ṛk-s:  
-> stóma-trayastriṁśe bhúvanasya patni vívasvad vāte abhí no gṛṇāhi \|  
-ghṛtávatī savitar ā́dhipatyaiḥ páyasvatī rántir ā́śā no astu \|\|  
-dhruvā́ diśā́ṃ viṣṇupatny ághorāsyéśānā sáhaso yā́ manótā \|  
-bṛhaspátir mātaríśvotá vāyúḥ saṃdhuvānā́ vā́tā abhí no gṛṇantu \|\|  
-viṣṭambhó divó dharúṇaḥ pṛthivyā́ asyéśānā jágato víṣṇupatnī \|  
-viśvávyacā iṣáyantī súbhūtiḥ śivā́ no astv áditir upásthe \|\|  
+> stóma-trayastriṁśe bhúvanasya patni vívasvad vāte abhí no gṛṇāhi ।  
+ghṛtávatī savitar ā́dhipatyaiḥ páyasvatī rántir ā́śā no astu ॥  
+dhruvā́ diśā́ṃ viṣṇupatny ághorāsyéśānā sáhaso yā́ manótā ।  
+bṛhaspátir mātaríśvotá vāyúḥ saṃdhuvānā́ vā́tā abhí no gṛṇantu ॥  
+viṣṭambhó divó dharúṇaḥ pṛthivyā́ asyéśānā jágato víṣṇupatnī ।  
+viśvávyacā iṣáyantī súbhūtiḥ śivā́ no astv áditir upásthe ॥  
 O you of the 33-fold stoma, lady of the world, with winds set in motion by Vivāsvān, may you be gracious to us.  
 Rich in ghee, O Savitṛ, through your overlordship, may the generous space be rich in milk for us.  
 Firm among the quarters, wife of Viṣṇu, the benign \[lady\], the strong queen of all, the desirable one;  
@@ -135,71 +136,75 @@ Bṛhaspati, Matariśvan, Vāyu, the Vāta-s blowing in unison, may all be graci
 Stabilizer of the sky, supporter of the earth, ruling this world, wife of Viṣṇu.  
 Encompassing all space, invigorating all, prosperous, may the goddess Aditi be auspicious to us in her lap.
 
+### Excavation
 He then marks out a square area on the ground with the side equal to his full arm’s length and sweeps it clean. Within it he marks out another square region with a side equal to his span. He does this with the sphya
 (the wooden sword) while chanting the formula:  
 > ástabhnād dyā́m ṛṣabhó antárikṣam  
 ámimīta varimā́ṇam pṛthivyā́  
 ā́sīdad viśvā bhúvanāni samrā́ḍ  
-víśvet tā́ni váruṇasya vratā́ni \|\|  
+víśvet tā́ni váruṇasya vratā́ni ॥  
 > The bull has stabilized the sky \[and\] the atmosphere; he has measured the circumference of the earth; he has set him in all worlds as the emperor. All these are Varuṇa’s laws.
 
 He then digs out a cuboidal excavation corresponding to the central smaller square. While doing so he recites the yajuṣ:  
 > víṣṇoḥ krámo ‘si  
 > víṣṇoḥ krāntám asi  
-> víṣṇor víkrāntam asi \| 
+> víṣṇor víkrāntam asi । 
 > 
 > námo mātré pṛthivyái  
-> mā́hán mātáram pṛthivī́m̐ him̐siṣam mā́ \|  
-> mā́ṃ mātā́ pṛthivī́ him̐sīt \|\|  
+> mā́hán mātáram pṛthivī́m̐ him̐siṣam mā́ ।  
+> mā́ṃ mātā́ pṛthivī́ him̐sīt ॥  
 > You are the stepping of Viṣṇu; you are the step of Viṣṇu; you are the stride of Viṣṇu. Salutation to mother Earth; may I not harm mother Earth; may mother Earth not harm me.
 
 The he fills the sruc with ghee using the the sruva and pours out the ghee into excavation uttering the yajuṣ:  
 > vāyáve tvā  
 > váruṇāya tvā  
 > nírṛtyai tvā  
-> rudrā́ya tvā svāhā \|  
-> vā́yo vī́hi stokā́nām \|\|  
+> rudrā́ya tvā svāhā ।  
+> vā́yo vī́hi stokā́nām ॥  
 > For you Vāyu; for you Varuṇa; for you Nirṛti; for you Rudra, hail! O Vāyu, taste the drops!
 
 He then fills the sruc again with milk pours it into the excavation uttering the incantation:  
-> vásur vásupatir híkam ási\|  
-> kṣatrā́ṇāṃ kṣatrápatir asi \|
-> áti divás pāhi \| 
-> vaiśravaṇāya svāhā\|\|  
+> vásur vásupatir híkam ási।  
+> kṣatrā́ṇāṃ kṣatrápatir asi ।
+> áti divás pāhi । 
+> vaiśravaṇāya svāhā॥  
 > You are indeed rich, the lord of riches. You are the the king of the kings. From the heavenly realm protect us. To Vaiśravaṇa hail.”
 
+### Burial
 Indrasena then brought out a bronze image of a chameleon and showed it to Vrishchika and explained further: 
 
 “The ritualist should have such a bronze image of a chameleon, which as you know is the special animal of the Yakṣapati. Alternatively, he may have a metal plate with the image of a chameleon etched on it. He deposits it in the excavation for the rite and may reuse it over and over, each time he performs the rite. He takes up the image reciting the following incantation:  
-> iyaṃ varṇagodhā vaiśravaṇa-rūpā bahuvarṇikā \|  
-tirodhā ‘si \|  
+> iyaṃ varṇagodhā vaiśravaṇa-rūpā bahuvarṇikā ।  
+tirodhā ‘si ।  
 hiraṇyavaktro ‘si  
-vaiśravaṇo ‘si \|  
-kṣatraṃ kṣatraṃ vaiśravaṇaḥ \|  
-mahārājāya svāhā \|\|  
+vaiśravaṇo ‘si ।  
+kṣatraṃ kṣatraṃ vaiśravaṇaḥ ।  
+mahārājāya svāhā ॥  
 This chameleon of many colors is the form of Vaiśravaṇa. You are the camouflaged one. You are the golden-cheeked one; you are Vaiśravaṇa. Kingly power, kingly power \[is that of\] Vaiśravaṇa. Hail to the great king!
 
 He then deposits the chameleon in the excavation and with the last mantra of the above he pours out ghee from the sruva on to image. He then covers up the image by filling the excavation. 
 
+### kalasha
 To the north of the square he sets up a platform with a silk cloth on it. On that he should place an ornate bronze jar with a lid. 
 
 He should thereafter invoke Vāyu and his wife Śivā in the jar and offers them water for arghya and pādya and incense with the following incantation of Mārkaṇḍeya:  
 > vāyum āvāhayiṣyāmi  
-sarvagaṃ dīptatejasam \|  
+sarvagaṃ dīptatejasam ।  
 deva vāyo tvam abhy ehi  
-sarva-bhūta-jagat-priya \|  
+sarva-bhūta-jagat-priya ।  
 idam arghyaṃ ca pādyaṃ ca  
-dhūpo’yaṃ pratigṛhyatām \|\|  
+dhūpo’yaṃ pratigṛhyatām ॥  
 > I shall invoke Vāyu of blazing splendor, who can go anywhere. O Vāyu, dear to all beings and the world, you must come here. Please accept this arghya, pādya (water for washing the feet) and incense.
 
 > śivām āvāhayiṣyāmi  
-vāyoḥ patnīṃ prabhāvatīm \|  
+vāyoḥ patnīṃ prabhāvatīm ।  
 śive ‘bhy ehi mahābhāge  
-varade kāmarūpiṇī \|  
+varade kāmarūpiṇī ।  
 idam arghyaṃ ca pādyaṃ ca  
-dhūpo’yaṃ pratigṛhyatām \|\|  
+dhūpo’yaṃ pratigṛhyatām ॥  
 > I shall invoke Śivā of great luster, the lady of Vāyu. O highly distinguished goddess Śivā, who can assume any form, the boon-giver, come here. Please accept…
 
+### Image
 He then places an image of Kubera inside the jar. The image should ideally be fashioned generally following the teaching in this regard of the Bhārgava Mārkaṇḍeya to Vajra, the great-grandson of Kṛṣṇa, the king of Indraprastha: 
 
 > The image of the wealth-giver Kubera should be painted dark green, i.e., the color of a lotus-leaf. He should be shown as being borne by a naras yakṣa. He should have all kinds of golden ornaments with necklaces resting on his belly. He should be shown wearing a beautiful cloak. He should have four hands and one of his eyes should be yellow. 
@@ -211,6 +216,7 @@ He then places an image of Kubera inside the jar. The image should ideally be fa
 >  In one of his left hands he should be shown holding a jeweled vessel and a gold-spitting mongoose in the other. In his two right hands Kubera should be shown with a mace and a śakti missile. Beside him there should be his dhvaja with the lion-emblem. A palanquin should be shown near his feet and his treasure-chests should be shown beside him in the form of a conch and a lotus filled with treasures.
 
 If he cannot obtain such an image, any other image that is properly made might be used. However, he must use the above teaching of Mārkaṇḍeya for the dhyāna of the great Yakṣa because if he does so he obtains wealth. Mārkaṇḍeya gives the following symbolism for the image:  
+
 >  The lord should be seen as the embodiment of all arthaśāstra-s. It is only by the institutes of arthaśāstra-s does any endeavor of a living-being exist, as was taught by Cāṇakya who devised the overthrow of the barbarous Macedonians. 
 > 
 > Kubera’s śakti weapon stands for royal power and his gadā represents daṇḍa-nīti.  
@@ -219,206 +225,344 @@ If he cannot obtain such an image, any other image that is properly made might b
 
 Having placed the image of the Rājarāja in the jar he invokes him and his retinue and offers them worship with the following incantations:  
 > yākṣān āvāhayiṣyāmi  
-dhānādhyakṣa-samanvitān \|  
+dhānādhyakṣa-samanvitān ।  
 āyāntu varadā yakṣās  
-trailokya-viditā mama \|  
+trailokya-viditā mama ।  
 idam arghyaṃ ca pādyaṃ ca  
-dhūpo’yaṃ pratigṛhyatām \|\|  
+dhūpo’yaṃ pratigṛhyatām ॥  
 > I shall invoke the yakṣa-s together with the lord of wealth. Let the yakṣa-s renowned in the 3 worlds come to me giving boons. Please accept this arghya, pādya (water for washing the feet) and incense.
 
 > bhadrām āvāhayiṣyāmi  
-dhanādhipati-sundarīṃ \|  
+dhanādhipati-sundarīṃ ।  
 ehi ṛddhi mahādevi  
-varade kāma-rūpiṇī \|  
+varade kāma-rūpiṇī ।  
 idam arghyaṃ ca pādyaṃ ca  
-dhūpo’yaṃ pratigṛhyatām \|\|  
+dhūpo’yaṃ pratigṛhyatām ॥  
 > I shall invoke the lucky one, the beautiful lady of the lord of wealth. Come, O great boon-giving goddess Ṛddhi of much desired form. Please accept…
 
 > aham āvāhayiṣyāmi  
-tvām eva nalakūbaram \|  
+tvām eva nalakūbaram ।  
 samabhy ehi mahābhāga  
-dhanadasya+ātmasaṃbhava \|  
+dhanadasya+ātmasaṃbhava ।  
 idam arghyaṃ ca pādyaṃ ca  
-dhūpo’yaṃ pratigṛhyatām \|\|  
+dhūpo’yaṃ pratigṛhyatām ॥  
 > I shall verily invoke you O Nalakūbara. May you, O fortunate one born of Dhanada, come here. Please accept…
 
 > aham āvāhayiṣyāmi  
-śibikāṃ paramāyatām \|  
+śibikāṃ paramāyatām ।  
 śibike tvam ihā ‘bhy ehi  
-sarva-sattva-sukhaṅkari \|  
+sarva-sattva-sukhaṅkari ।  
 idam arghyaṃ ca pādyaṃ ca  
-dhūpo’yaṃ pratigṛhyatām \|\|  
+dhūpo’yaṃ pratigṛhyatām ॥  
 > I shall invoke the wide palanquin of Kubera. O palanquin who generates all good and pleasures may you come here. Please accept…
 
 > naram āvāhayiṣyāmi  
-narādhipati-vāhanam \|  
+narādhipati-vāhanam ।  
 nara śīghraṃ tvam ‘bhy ehi  
-tathā nṛpatināyaka \|  
+tathā nṛpatināyaka ।  
 idam arghyaṃ ca pādyaṃ ca  
-dhūpo’yaṃ pratigṛhyatām \|\|  
+dhūpo’yaṃ pratigṛhyatām ॥  
 > I shall invoke the Naras yakṣa who is the vehicle of the king \[Kubera\]. O Naras may you quickly come here, you have the king as your lord \[Kubera\]. Please accept…
 
 > śaṅkham āvāhayiṣyāmi  
-nidhi-pravaram uttamam \|  
+nidhi-pravaram uttamam ।  
 śīghraṃ śaṅkha tvam abhy ehi  
-dhānādhipati-vallabha \|  
+dhānādhipati-vallabha ।  
 idam arghyaṃ ca pādyaṃ ca  
-dhūpo’yaṃ pratigṛhyatām \|\|  
+dhūpo’yaṃ pratigṛhyatām ॥  
 > I shall invoke the conch, the foremost of excellent treasures. May you, O conch, quickly come here, the one dear to the lord of wealth. Please accept…
 
 > padmam āvāhayiṣyāmi  
-nidhi-pravaram uttamam \|  
+nidhi-pravaram uttamam ।  
 padmaṃ śīghraṃ tvam abhy ehi  
-mahāvibhava-kāraka \|  
+mahāvibhava-kāraka ।  
 idam arghyaṃ ca pādyaṃ ca  
-dhūpo’yaṃ pratigṛhyatām \|\|  
+dhūpo’yaṃ pratigṛhyatām ॥  
 > I shall invoke the lotus, the foremost of excellent treasures. May you, O lotus, quickly come here producing great prosperity. Please accept…
 
+### Adoration
 Then he offers flowers, honey and bhakṣaṇa-s to the image of Kubera with the famous incantation from the Taittirīya-āraṇyaka:  
-> rājādhirājāya prasahyasāhine \| namo vayam vaiśravaṇāya kurmahe \| sa me kāmān kāmakāmāya mahyam \| kāmeśvaro vaiśravaṇo dadātu \|  
-kuberāya vaiśravaṇāya \| mahārājāya namaḥ \|\|
+> rājādhirājāya prasahyasāhine । namo vayam vaiśravaṇāya kurmahe । sa me kāmān kāmakāmāya mahyam । kāmeśvaro vaiśravaṇo dadātu ।  
+kuberāya vaiśravaṇāya । mahārājāya namaḥ ॥
 
 He should thereafter make the triple-arghya offerings as ordained by the gāyatrī-s of Vaikhānasa-s:  
 > rāja-rājāya vidmahe  
-dhanādhyakṣāya dhīmahi \|  
-tan no rājā pracodayāt \|\|  
+dhanādhyakṣāya dhīmahi ।  
+tan no rājā pracodayāt ॥  
 rudra-sakhāya vidmahe  
-vaiśravaṇāya dhīmahi \|  
-tan naḥ kuberaḥ pracodayāt \|\|  
+vaiśravaṇāya dhīmahi ।  
+tan naḥ kuberaḥ pracodayāt ॥  
 yakṣeśvarāya vidmahe  
-gadā-hastāya dhīmahi \|  
-tan no yakṣaḥ pracodayāt \|\|
+gadā-hastāya dhīmahi ।  
+tan no yakṣaḥ pracodayāt ॥
 
+### Bali
 Then he offers bali to Dhaneśa and Nalakūbara meditating upon them traversing the heavens in the Puṣpaka space-station made by the god Tvaṣtṛ which is alluded to in the mantra. This is as per the Aruṇa-ketuka-vidhi with the incantations:  
 
-> adbhayas tirodhā’jāyata \|  
-tava vaiśravaṇas sadā \|  
-tirodhehi sapatnān naḥ \|  
-ye apo ‘śnanti kecana \|  
-tvāṣṭrīṃ māyāṃ vaiśravaṇaḥ \| ratham̐ sahasra-vandhuram \| puruś-cakram̐ sahasrāśvam \| āsthāyāyāhi no balim \| yasmai bhūtāni balim āvahanti \| dhanañ-gāvo-hasti-hiraṇyam-aśvān \| asāma sumatau yajniyasya \| śriyam bibhrato ‘nnamukhīṃ virājam \| sudarśane ca krauñce ca \| maināge camahāgirau \| śata-dvāṭṭāragamantā \| sam̐hāryan nagaraṃ tava \| iti mantrāḥ \| kalpo’ta ūrdhvam \| yadi balim̐ haret \| hiraṇyanābhaye vitudayekauberāyāyam baliḥ \| sarvabhūtadhipataye nama iti \| atha balim̐ hṛtvopatiṣṭheta \| kṣatraṃ kṣatraṃ vaiśravaṇaḥ \| brāhmaṇā vayam̐ smaḥ \| namaste astu mā māhim̐sīḥ \|\|
+> अद्भयस् तिरोधाऽजायत ।  
+तव वैश्रवणस् सदा ।  
+तिरोधेहि सपत्नान् नः ।  
+ये अपो ऽश्नन्ति केचन ।  
+त्वाष्ट्रीं मायां वैश्रवणः ।  
+रथँ सहस्र-बन्धुरम् ।  
+> पुरुश्-चक्रँ सहस्राश्वम् ।  
+> आस्थायायाहि नो बलिम् ।  
+> यस्मै भूतानि बलिम् आवहन्ति ।  
+> धनङ् गावो हस्ति-हिरण्यम् अश्वान् ।  
+> असाम सुमतौ यज्ञियस्य ।  
+> श्रियम् बिभ्रतो ऽन्नमुखीं विराजम् ।  
+> सुदर्शने च क्रौञ्चे च ।  
+> मैनाके च महागिरौ ।  
+> शत-द्वाट्टारगमन्ता ।  
+> सँहार्यन् नगरं तव ।  
+>
+> इति मन्त्राः । कल्पोऽत ऊर्ध्वम् ।  
+> यदि बलिँ हरेत् । हिरण्य-नाभये वितुदये कौबेरायायम् बलिः । सर्वभूतधिपतये नम इति ।  
+> अथ बलिँ हृत्वोपतिष्ठेत ।  
+> क्षत्रं क्षत्रं वैश्रवणः । ब्राह्मणा वयँ स्मः ।  
+> नमस्ते अस्तु मा माहिँसीः ॥
 
 After that he makes bali offerings to the rakṣa-s, yakṣa-s and yakṣī-s in the entourage of Kubera with:  
-> miśra-vāsasaḥ kauberakā rakṣo-rājena preṣitāḥ \|  
-grāmam̐ sa-jānayo gacchantīchanto paridākṛtān \|\|  
+
+> मिश्र-वाससः कौबेरका  
+> रक्षो-राजेन प्रेषिताः ।  
+ग्रामँ स-जानयो गच्छन्तीछन्तो परिदाकृतान् ॥  
 > Wearing mixed clothes the agents of Kubera, directed by the king of the rakṣa-s together with the \[yakṣī\] consorts go as they please to the villages granting protection.
 
-There after he sets up a sthaṇḍila in the square he has marked out. He strews darbha grass with the shoots facing north. He installs the fire therein from his aupāsana or āhavanīya altar or kindles it afresh. He recites this ṛk:  
+### होमः
+There after he sets up a sthaṇḍila in the square he has marked out. He strews darbha grass with the shoots facing north. He installs the fire therein from his aupāsana or āhavanīya altar or kindles it afresh. 
 
-> vaiśvānaraṃ kavayo yajñiyāso ‘gniṃ devā ajanayann ajuryam \|  
-nakṣatram pratnam aminac cariṣṇu yakṣasyādhyakṣaṃ taviṣam bṛhantam \|\|  
+#### पूर्वाङ्गम्
+He recites this ṛk:  
+
+> वैश्वानरं कवयो यज्ञियासो  
+> ऽग्निं देवा अजनयन्न् अजुर्यम् । 
+> नक्षत्रम् प्रत्नम् अमिनच् चरिष्णु  
+> यक्षस्याध्यक्षं तविषम् बृहन्तम् ॥  
 > The gods, the poets of the ritual, generated the unaging Agni Vaiśvānara,  
 the primordial star, wandering but not violating \[the natural law\], the mighty and great lord of the yakṣa.
 
 He makes an oblation of ghee with: 
-> agnaye vaiśvānarāya svāhā \|  
-idam agnaye vaiśvānāya na mama \|
+> agnaye vaiśvānarāya svāhā ।  
+idam agnaye vaiśvānāya na mama ।
 
-If he is a purohita performing it on behalf of a yajamāna other than himself, like at the temple it would be done with the V3, then the yajamāna must recite the tyāga-mantra ‘idam…na mama‘ as the oblation is offered. Then he recites:  
+If he is a purohita performing it on behalf of a yajamāna other than himself, like at the temple it would be done with the V3, then the yajamāna must recite the tyāga-mantra ‘idam…na mama‘ as the oblation is offered. 
+
+Then he recites:  
+
 > dhātā́ rātíḥ savitédáṃ juṣantām  
-prajā́patir nidhipátir no agníḥ \|  
+prajā́patir nidhipátir no agníḥ ।  
 tváṣṭā víṣṇuḥ prajáyā saṁrarāṇó  
-yájamānāya dráviṇaṃ dadhātu \|\|  
+yájamānāya dráviṇaṃ dadhātu ॥  
 > May Dhatṛ the giver, may Savitṛ, rejoice in this \[oblation\], Prajāpati, the lord of treasures, and Agni, for us; may Tvaṣtṛ and Viṣṇu generously give wealth with offspring to the ritualist.
 
 He makes an oblation of ghee with:  
-> devebhyaḥ svāhā \| idam devebhyo na mama \|
+> devebhyaḥ svāhā । idam devebhyo na mama ।
 
+#### मुख्यम्
 He then prepares for the core oblations of the yajña by deploying the nigada recitation as in the vaidika rite calling upon the god Agni who is of the brāhmaṇa-s and the Bhārata-s to bring the gods of the rite for receiving the oblations:  
 
-> oṃ agne mahām̐ asi brāhmaṇa bhārata \| deveddho manviddha ghṛtāhavanaḥ praṇīr yajñānāṃ rathīr adhvarāṇām atūrto hotā tūrṇir havyavāṭ \| tvaṃ paribhūr asy ā vaha devān yajamānāya \|\| vāyuṃ niyutvantam ā vaha \| kuberaṃ vaiśravaṇam ā vaha \| rudram paśupatim ā vaha \| devām̐ ājyapām̐ ā vaha \|\|
+> ॐ अग्ने महाँ असि ब्राह्मण भारत ।  
+> देवेद्धो, मन्विद्ध घृताहवनः, प्रणीर् यज्ञानां, रथीर् अध्वराणाम्, अतूर्तो, होता, तूर्णिर् हव्यवाट् ।  
+> त्वं परिभूर् अस्य् आ वह देवान् यजमानाय ॥  
+> वायुं नियुत्वन्तम् आ वह ।  
+> कुबेरं वैश्रवणम् आ वह ।  
+> रुद्रम् पशुपतिम् आ वह ।  
+> देवाँ आज्यपाँ आ वह ॥
 
 He then offers in the northern side of the sthaṇḍila with the sruva:  
 
-> prajāpatye svāhā \| idam prajāpatye na mama \|\|
+> prajāpatye svāhā । idam prajāpatye na mama ॥
 
-He utters the call ‘astu śrau3ṣaṭ \|‘ and starts filling he sruc and as he does so he recites:  
+##### वायवे
+He utters the call ‘astu śrau3ṣaṭ ।‘ and starts filling he sruc and as he does so he recites:  
 
-> tava vāyav ṛtaspate  
-> tvaṣṭur jāmātar adbhuta \|  
-avāṃsy ā vṛṇīmaho3m \|\|  
+> तव वायव् ऋतस्पते  
+त्वष्टुर् जामातर् अद्भुत ।  
+अवांस्य् आ वृणीमहो३म् ॥  
 > Vāyu, lord of the natural law, of wondrous form, Tvaṣṭṛ’s son-in-law, your protection we choose.
 
 Then he recites:  
-> pra vāyum acchā bṛhatī manīṣā  
-bṛhadrayiṃ viśvavāraṃ rathaprām \|  
-dyutadyāmā niyutaḥ patyamānaḥ  
-kaviḥ kavim iyakṣasi prayajyo3m \|\|  
-vau3ṣaṭ \| idaṃ vāyave niyutvate na mama \|\|  
-> \[Our\] great meditation (goes) forth to Vāyu; with great wealth and all that is excellent, he fills his chariot; on the brilliant path, master of horse-teams, you the poet seeks to reach the poet \[i.e. the hymn-composing vipra\], you who are worshiped at the forefront of the ritual.
+> प्र वायुम् अच्छा बृहती मनीषा  
+बृहद् रयिं विश्ववारं रथप्राम् ।  
+द्युतद्यामा नियुतः पत्यमानः  
+कविः कविम् इयक्षसि प्रयज्यो३म् ॥  
+वौ३षट् । इदं वायवे नियुत्वते न मम ॥  
+> \[Our\] great meditation (goes) forth to Vāyu; with great wealth and all that is excellent, he fills his chariot;  
+> on the brilliant path, master of horse-teams, you the poet seeks to reach the poet \[i.e. the hymn-composing vipra\], you who are worshiped at the forefront of the ritual.
 
-At the vauṣaṭ call he makes the oblation and then utters the tyāga-mantra. He makes the oblation facing whichever direction the wind blows at the time he is reciting the this mantra. He utters the call ‘astu śrau3ṣaṭ \|‘ and starts filling he sruc and as he does so he recites:  
+At the vauṣaṭ call he makes the oblation and then utters the tyāga-mantra. He makes the oblation facing whichever direction the wind blows at the time he is reciting the this mantra. 
 
-> rāyas poṣāyāyuṣā tvā nidhīśo bhrātṛvyāṇāṃ mahasāṃ cādhipatyo3m \|  
+#### कुबेराय
+He utters the call ‘astu śrau3ṣaṭ ।‘ and starts filling he sruc and as he does so he recites:  
+
+> रायस् पोषायायुषा त्वा निधीशो भ्रातृव्याणां महसां चाधिपत्यो३म् ।  
 > \[I invoke you\] for riches and prosperity with a long life. The lord of wealth \[is worshiped\] for taking over the glory of our rivals and for overlordship.
 
 This peculiarly-formed mantra is that of the old Jambhala-vit Vaikhānasa, the master of divine rituals. Then he recites:  
-> dūre pūrṇena vasati dūra ūnena hīyate \|  
-mahad yakṣaṃ bhuvanasya madhye  
-tasmai baliṃ rāṣṭrabhṛto bharanto3m \|\|  
-vau3ṣaṭ \| idaṃ kuberāya vaiśravaṇāya na mama \|\|  
+
+> दूरे पूर्णेन वसति, दूर ऊनेन हीयते ।  
+महद् यक्षं भुवनस्य मध्ये  
+तस्मै बलिं राष्ट्रभृतो भरन्तो३म् ॥  
+वौ३षट् । इदं कुबेराय वैश्रवणाय न मम ॥  
 In fullness he dwells in the distance, is left behind in distance on diminishing;  
 A mighty Yakṣa is in the center of the universe:  
 to him the tributary rulers bring tribute.
 
-At the vauṣaṭ call he makes the oblation and then utters the tyāga-mantra. I should mention that this is the mysterious mantra is of the Bhṛgu-s by knowing which one becomes the complete Jambhala-vit. It was taught to me by Somakhya on a dark new moon night as we were wandering in a beautiful mountainous region. This completed my learning of the tradition and conferred on me the ability to perform this ritual. The thing which dwells in distance in full and then diminishes is an allusion to the moon. This disappearance of the moon is in turn indicative of tirodhā, the famed concealing power of the Yakṣa. He then utters the call ‘astu śrau3ṣaṭ \|‘, starts filling he sruc and as he does so he recites:  
-kad rudrāya pracetase mīḷhuṣṭamāya tavyase \|  
-vocema śantamaṃ hṛdo3m \|\|  
-What might we say to Rudra, the wise, the most generous and mighty one; what might we say that is most pleasing to his heart?
+At the vauṣaṭ call he makes the oblation and then utters the tyāga-mantra. 
 
-upa te stomān paśupā ivākaraṃ  
-rāsvā pitar marutāṃ sumnam asme \|  
-bhadrā hi te sumatir mṛḷayattamā  
-‘thā vayam ava it te vṛṇīmaho3m \|\|  
-vau3ṣaṭ \| idaṃ rudrāya paśupataye na mama \|\|  
-Like a cowherd, I have driven these praises close to you.  
+I should mention that this is the mysterious mantra is of the Bhṛgu-s by knowing which one becomes the complete Jambhala-vit. It was taught to me by Somakhya on a dark new moon night as we were wandering in a beautiful mountainous region. This completed my learning of the tradition and conferred on me the ability to perform this ritual. The thing which dwells in distance in full and then diminishes is an allusion to the moon. This disappearance of the moon is in turn indicative of tirodhā, the famed concealing power of the Yakṣa. 
+
+#### रुद्राय
+He then utters the call ‘astu śrau3ṣaṭ ।‘, starts filling he sruc and as he does so he recites:  
+
+> कद् रुद्राय प्रचेतसे  
+> मीऌहुष्टमाय तव्यसे ।  
+> वोचेम शन्तमं हृदो३म् ॥
+> 
+> What might we say to Rudra, the wise,  
+> the most generous and mighty one;  
+> what might we say that is most pleasing to his heart?
+
+> उप ते स्तोमान् पशुपा इवाकरं  
+रास्वा पितर् मरुतां सुम्नम् अस्मे ।  
+भद्रा हि ते सुमतिर् मृळयत्तमा  
+ऽथा वयम् अव इत् ते वृणीमहो३म् ॥  
+वौ३षट् ।  
+> इदं रुद्राय पशुपतये न मम ॥  
+> 
+> Like a cowherd, I have driven these praises close to you.  
 Grant your favor to us, father of the Marut-s,  
 for your benevolence is auspicious, most merciful.  
 It is indeed your aid that we choose. \[translation after Geldner\]
 
 At the vauṣaṭ call he makes the oblation, then utters the tyāga-mantra and then touches water.
 
+#### स्रुवाहुतयः
 Then with the sruva he utters the following mantra-s and makes an offering of ghee at each svāhā followed by the tyāga-mantra ‘idaṃ na mama‘:  
-indraḥ svāhā \| marutaḥ svāhā \| sarva-nidhido ratna-dhātumān svāhā \| tirodhā bhūḥ svāhā \| tirodhā bhuvaḥ svāhā \| tirodhā svaḥ svāhā \| tirodhā bhūr-bhuvaḥ-svaḥ svāhā \| kāmeśvarāya svāhā \| kuberāya svāhā \| dhanyāya svāhā \| vaiśravaṇāya svāhā \| yakṣa-rājāya svāhā \|\|
 
+> इन्द्रः स्वाहा ।  
+> मरुतः स्वाहा ।  
+> सर्व-निधिदो रत्न-धातुमान् स्वाहा ।  
+> तिरोधा भूः स्वाहा ।  
+> तिरोधा भुवः स्वाहा ।  
+> तिरोधा स्वः स्वाहा ।  
+> तिरोधा भूर्-भुवः-स्वः स्वाहा ।  
+> कामेश्वराय स्वाहा ।  
+> कुबेराय स्वाहा ।  
+> धन्याय स्वाहा ।  
+> वैश्रवणाय स्वाहा ।  
+> यक्ष-राजाय स्वाहा ॥
+
+#### स्विष्टकृत्
 He then initiates the expiatory sviṣṭakṛt-yāga by reciting the mantra of my ancestor Vasuśruta Ātreya:  
-oṃ juṣṭo damūnā atithir duroṇa  
-imaṃ no yajñam upa yāhi vidvān \|  
-viśvā agne abhiyujo vihatyā  
-śatrūyatām ā bharā bhojanāno3m \|\|  
-As the satisfied lord of the house and the guest in the home,  
+
+> ॐ जुष्टो दमूना अतिथिर् दुरोण  
+इमं नो यज्ञम् उप याहि विद्वान् ।  
+विश्वा अग्ने अभियुजो विहत्या  
+शत्रूयताम् आ भरा भोजनानो३म् ॥  
+> 
+> As the satisfied lord of the house and the guest in the home,  
 journey to this our yajña, the learned god,  
 Having demolished all assaults, O Agni,  
 bring here the sustenance of our enemies.
 
-He utters the call ‘astu śrau3ṣaṭ \|‘ and fills the sruc. He then recites:  
-agniṃ sviṣṭakṛtam ayāḍ vāyor niyutvataḥ priyā dhāmāny ayāṭ kuberasya vaiśravaṇasya priyā dhāmāny ayāḍ rudrasya paśupateḥ priyā dhāmāny ayāḍ devānām ājyapānāṃ priyā dhāmāni yakṣad agner hotuḥ priyā dhāmāni yakṣat svaṃ mahimānam āyajatāmejyā iṣaḥ kṛṇotu so adhvarā jātavedā juṣtām̐ havir mārjālyo mṛjyate sve damūnāḥ kavi-praśasto atithiḥ śivo naḥ \| sahasra-śṛṅgo vṛṣabhas tad ojā viśvām̐ agne sahasā prāsy anyān vau3ṣaṭ \|\|
+He utters the call ‘astu śrau3ṣaṭ ।‘ and fills the sruc. He then recites:  
 
-At the vauṣaṭ call he makes the offering from the sruc and utters: ‘idam agnaye sviṣṭakṛte na mama\|‘ The terminal mantra of the sviṣṭakṛt-yāga is also composed by my ancestors Budha Ātreya and Gaviṣṭhira Ātreya:  
-Fit to be kindled, he is kindled in his own (house) as master of the  
+> अग्निं स्विष्टकृतम् अयाड्  
+> वायोर् नियुत्वतः प्रिया धामान्य् अयाट्  
+> कुबेरस्य वैश्रवणस्य प्रिया धामान्य् अयाड्  
+> रुद्रस्य पशुपतेः प्रिया धामान्य् अयाड्
+>   
+> देवानाम् आज्यपानां प्रिया धामानि यक्षद्  
+> अग्नेर् होतुः प्रिया धामानि यक्षत्  
+> स्वं महिमानम् आयजतामेज्या इषः कृणोतु,  
+> सो अध्वरा जातवेदा जुष्टाँ हविर् मार्जाल्यो मृज्यते स्वे दमूनाः  
+> कवि-प्रशस्तो अतिथिः शिवो नः ।  
+> सहस्र-शृङ्गो वृषभस् तद् ओजा  
+> विश्वाँ अग्ने सहसा प्रास्य् अन्यान् वौ३षट् ॥
+
+At the vauṣaṭ call he makes the offering from the sruc and utters: ‘idam agnaye sviṣṭakṛte na mama।‘ 
+
+The terminal mantra of the sviṣṭakṛt-yāga is also composed by my ancestors Budha Ātreya and Gaviṣṭhira Ātreya:  
+
+> Fit to be kindled, he is kindled in his own (house) as master of the  
 house, praised by poets, our auspicious guest.  
 A thousand-horned bull having its virility,  
 O Agni, in might you excel all others.
 
+#### रौद्रशमनम्
 Then he offers a homa to the Vināyaka-s, Skanda, and other anuyāyin-s of Rudra which include the Yakṣapati himself so that the yajamāna-s rite might be successful and he and his family not be harmed. He utters the tyāga-mantra ‘idaṃ na mama‘ after each svāhā call:  
-Om̐ śālakaṭaṅkaṭāya vināyakāya svāhā \| kuṣmāṇḍarājaputrāya vināyakāya svāhā \| usmitāya vināyakāya svāhā \| devayajanāya vināyakāya svāhā \| vimukhāya svāhā \| śyenāya svāhā \| bakāya svāhā \| yajñāya svāhā \| kalahāya svāhā \| bhīrave svāhā \| yajñavikṣepiṇe svāhā \| kulaṅgāpamārāya svāhā \| yūpakeśyai svāhā \| sūkarakroḍyai svāhā \| umāyai haimavatyai svāhā \| jambhakāya svāhā \| vīrūpākṣāya svāhā \| lohitākṣāya svāhā \| vaiśravaṇāya svāhā \| mahārājāya svāhā \| mahāsenāya svāhā \| kumārāya svāhā \| viśākhāya svāhā \| śākhāya svāhā \| nejameṣāya svāhā \| ṣaṣṭhyai svāhā \| rudrāya mahādevāya svāhā \|\|
 
-He then touches water. Thereafter he takes up some grain and throws it in the south-west direction for the rakṣa-s uttering: ‘rakṣasām bhago ‘si \|‘ Then he touches water again and takes up the darbha grass and casts it into the fire reciting:  
-Om̐ sáṃ barhír aṅktām̐ havíṣā ghṛténa sám ādityáir vásubhiḥ sáṃ marúdbhiḥ sám índro viśvádevebhir aṅktāṃ divyáṃ nábho gacchatu yát svā́hā \|\| idaṃ divyāya nabhase na mama \| rudrāya paśupatye svāhā \| idaṃ rudrāya paśupataye na mama\|\|  
-Auspicious \[is\] the grass smeared with offerings and ghee. Let Indra together with the Āditya-s, the Vasu-s, Marut-s, and the Viśvedeva-s go
-(having been honored). Let svāhā-offerings rise to the heavenly ether.
-Hail to Rudra Paśupati.
+> ओँ शालकटङ्कटाय विनायकाय स्वाहा ।  
+> कुष्माण्डराजपुत्राय विनायकाय स्वाहा ।  
+> उस्मिताय विनायकाय स्वाहा ।  
+> देवयजनाय विनायकाय स्वाहा ।  
+> विमुखाय स्वाहा ।  
+> श्येनाय स्वाहा ।  
+> बकाय स्वाहा ।  
+> यज्ञाय स्वाहा ।  
+> कलहाय स्वाहा ।  
+> भीरवे स्वाहा ।  
+> यज्ञविक्षेपिणे स्वाहा ।  
+> कुलङ्गापमाराय स्वाहा ।  
+> यूपकेश्यै स्वाहा ।  
+> सूकरक्रोड्यै स्वाहा ।  
+> 
+> उमायै हैमवत्यै स्वाहा ।  
+> जम्भकाय स्वाहा ।  
+> वीरूपाक्षाय स्वाहा ।  
+> लोहिताक्षाय स्वाहा ।  
+> 
+> वैश्रवणाय स्वाहा ।  
+> महाराजाय स्वाहा ।  
+> 
+> महासेनाय स्वाहा ।  
+> कुमाराय स्वाहा ।  
+> विशाखाय स्वाहा ।  
+> शाखाय स्वाहा ।  
+> नेजमेषाय स्वाहा ।  
+> षष्ठ्यै स्वाहा ।  
+> रुद्राय महादेवाय स्वाहा ॥
 
+He then touches water. Thereafter he takes up some grain and throws it in the south-west direction for the rakṣa-s uttering: ‘rakṣasām bhago ‘si ।‘ Then he touches water again and takes up the darbha grass and casts it into the fire reciting:  
+
+> Om̐ sáṃ barhír aṅktām̐ havíṣā ghṛténa  
+> sám ādityáir vásubhiḥ sáṃ marúdbhiḥ  
+> sám índro viśvádevebhir aṅktāṃ  
+> divyáṃ nábho gacchatu yát svā́hā ॥  
+> idaṃ divyāya nabhase na mama ।  
+> 
+> rudrāya paśupatye svāhā ।  
+> idaṃ rudrāya paśupataye na mama॥  
+>
+> Auspicious \[is\] the grass smeared with offerings and ghee. Let Indra together with the Āditya-s, the Vasu-s, Marut-s, and the Viśvedeva-s go (having been honored). Let svāhā-offerings rise to the heavenly ether.
+> 
+> Hail to Rudra Paśupati.
+
+#### समाप्तिः
 Then he recites the following to conclude the yajña with the recitation of Agastya:  
-agne naya supathā rāye asmān  
-viśvāni deva vayunāni vidvān \|  
-yuyodhy asmaj juhurāṇam eno  
-bhūyiṣṭhāṃ te nama-uktiṃ vidhema \|\|  
-O Agni, lead us to wealth by an easy path:  
+
+> अग्ने नय सुपथा राये अस्मान्  
+विश्वानि देव वयुनानि विद्वान् ।  
+युयोध्य् अस्मज् जुहुराणम् एनो  
+भूयिष्ठां ते नम-उक्तिं विधेम ॥  
+> O Agni, lead us to wealth by an easy path:  
 you know all the rituals, O god.  
 Keep us from ritual transgression.  
 May we offer you the greatest reverence.
 
-He finally recites the śānti-mantra-s: ‘tac chamyor…‘ and ‘namo vāce yā coditā…‘ He then goes to the jar with the image of Kubera and utters the formulae: ‘vāyuḥ suprītaḥ suprasanno yathā sthānaṃ tiṣṭhatu \| vaiśravaṇo rājā suprītaḥ suprasanno yathā sthānaṃ tiṣṭhatu \|‘ He and his family drink some of the honey offered to the yakṣa and he distributes the bhakṣaṇa-s to the beholders of the ritual. He gives a toothbrush, sandals and umbrella along with a hefty ritual fee if he is a yajāmāna who has employed a purohita to do the rite for him.”
+He finally recites the śānti-mantra-s: ‘tac chamyor…‘ and ‘namo vāce yā coditā…‘ 
 
+He then goes to the jar with the image of Kubera and utters the formulae: 
+
+> वायुः सुप्रीतः सुप्रसन्नो  
+> यथा स्थानं तिष्ठतु ।  
+> वैश्रवणो राजा सुप्रीतः सुप्रसन्नो  
+> यथा स्थानं तिष्ठतु ।
+
+He and his family drink some of the honey offered to the yakṣa and he distributes the bhakṣaṇa-s to the beholders of the ritual. He gives a toothbrush, sandals and umbrella along with a hefty ritual fee if he is a yajāmāna who has employed a purohita to do the rite for him.”
+
+## Comments
 > V: “I must remark that the final homa has a set of rather remarkable deities. Perhaps we are seeing the worship of Vārāhī for the first time in Sūkarakroḍī. I also wonder if Yūpakeśī is some early version of Cāmuṇḍā. Beyond that I’m most inspired by this account of the rite and feel that I have become a Jambhala-jñā”
 
