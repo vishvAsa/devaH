@@ -4,9 +4,9 @@ title = "ekAnamshA and kAlI"
 
 > Was kAmaakhya in the remote past likely a shrine to the vaiShNavI ekAnaMshA? The kalikapurANa hints at the widespread worship as per pañcarātra  before the curse to ugratArA.
 
-While the name ekAnaMshA isnt explicitly used in the kAlikA-pu it does heavily quote & base its vidhi on a certain lost vaiShNavI-tantra& her incantation for the basic practitioner
+While the name ekAnaMshA isnt explicitly used in the kAlikA-pu it does heavily quote & base its vidhi on a certain lost vaiShNavI-tantra & her incantation for the basic practitioner
 
-> oM namo mahAmAyAyai oM vaiShNavyai namo namaH |
+> oM namo mahAmAyAyai oM vaiShNavyai namo namaH |  
 > rakSha mAM sarvabhUtebhyaH sarvatra parameshvari ||
 
 suggests a connection between them. The text states: 
