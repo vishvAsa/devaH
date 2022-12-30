@@ -10,7 +10,7 @@ practice_weight: 0
 <div class="js_include" url="../sahasranAma-mangalam/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 
-<div class="js_include" url="/purANam/mahAbhAratam/goraxapura-pAThaH/hindy-anuvAdaH/13_anushAsanaparva/01_dAna-dharma-parva/149/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/purANam/mahAbhAratam/goraxapura-pAThaH/hindy-anuvAdaH/13_anushAsanaparva/01_dAna-dharma-parva/149_viShNu-sahasra-nAma-stotram/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 ## सङ्क्षेपः
 अर्जुन उवाच ---  
