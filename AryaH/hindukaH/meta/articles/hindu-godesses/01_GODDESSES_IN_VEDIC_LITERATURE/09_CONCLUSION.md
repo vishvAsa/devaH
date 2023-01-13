@@ -1,0 +1,16 @@
++++
+title = "09 CONCLUSION"
+
++++
+
+Several conclusions concerning goddesses in Vedic literature are clear. First, none of them rivals the great male gods in these texts. Indeed, Uṣas, the most popular goddess \(in terms of the number of times she is mentioned and the number of hymns addressed specifically to her\), is only a deity of the third rank. In short, male deities dominate the Vedic vision of the divine.
+
+Second, there is evidence that some of the Vedic goddesses survive in the later Hindu tradition. Pṛthivī persists in later Hinduism and becomes associated with the god Viṣṇu. She is often called Bhūdevī \(the goddess of the earth\) and appears in myths primarily in the role of supplicant to the gods because of the burden of having to sustain a notoriously evil demon. Sarasvatī also continues to be known in the later tradition and becomes popular primarily as a goddess of learning, wisdom, and culture.22 Although the goddess Vāc disappears, in later Hinduism Sarasvatī might be said to express Vāc’s primary meaning as inspired speech, and the idea of the creation of the world through sound probably finds inspiration in the ideas about Vāc in Vedic literature. Similarly, the idea of *śakti,* though it is not developed in Vedic literature, is suggested in the various consorts of the male deities, especially in śacī \(Indrāṇī\). Many of the Vedic goddesses, however, simply disappear in the later Hindu tradition. Uṣas and Aditi, for example, are rarely found in later texts.
+
+Third, many of the most important goddesses of the later tradition are not found at all in Vedic literature or are simply mentioned by name in passing. Such important goddesses as Pārvatī, Durgā, Kālī, Rādhā, and Sītā are unknown in early Vedic literature. Śrī, though she appears in later Vedic literature, is not fully developed and does not occupy the central role that she does in the later tradition. Furthermore, none of the Vedic goddesses is clearly associated with battle or blood sacrifice, both of which are important associations in the myths and cults of several later Hindu goddesses.
+
+Fourth, there is no one great goddess in the Vedic literature. Although some scholars have affirmed her existence in this literature,23she quite simply is nowhere mentioned. There is no evidence that the authors of the Vedic texts supposed that all the individual goddesses are manifestations of one great goddess. Since the Vedic texts do not assume a great god who manifests himself in individual gods, I fail to understand why such an assumption should be made for the female deities. It is as if the sexual identification of the goddesses is so overwhelmingly significant that one is justified in lumping them all together. But clearly the goddesses vary greatly and are as distinct from one another as the male gods are from one another.24 The Mahādevī \(great goddess\) does not appear until the medieval period in Hinduism, and she is the product of a carefully articulated theology.25 Although some goddesses *are* conflated with one another at certain times and places and in certain texts, even in Vedic literature,26 this does not justify imposing on such examples a much later, systematic *Śākta* theology.
+
+
+
+
