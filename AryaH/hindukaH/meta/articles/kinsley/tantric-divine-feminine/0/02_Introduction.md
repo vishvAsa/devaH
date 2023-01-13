@@ -1,35 +1,7 @@
 +++
-title = "0"
+title = "02 Introduction"
 
 +++
-
-***To **my **friends **and **teachers ***
-
-***Om **Prakash **Sharma **and **Virendra **Singh ***
-
-
-
-
-
-## Acknowledgments
-
-
-
-I first became aware of the group of Hindu goddesses known as the ten Mahavidyas while conducting research on the goddess Kali in Calcutta during the academic year 1968-69. Kali is nearly always listed as the first of this group often unusual goddesses and in many ways is the exemplary Mahavidya. It was not until 1983-84 in Varanasi, however, that I began to undertake detailed research on this group. With the help of a fellowship from the Canadian Social Sciences and Humanities Research Council, I investigated literary sources and did field research on Mahavidya temples, iconography, and worship. I returned to Varanasi in 1992-93 to continue my research, this time with the help of a grant from McMaster University Arts Research Board.
-
-During my research in Varanasi I was fortunate to have the assistance of many people. Om Prakash Sharma was indispensable in helping me locate several Mahavidya temples and paintings, putting me in touch with many knowledgeable people, and finding relevant texts. Virendra Singh, who patiently attempted to teach me Hindi, was always encouraging about my work. Mahant Sri Rama Shankar Tripathi of the Kashi Vishvanath temple held frequent useful discussions with me during 1983-84 and translated several relevant Sanskrit texts about the Mahavidyas for me. Hemendra Nath Chakravarty was especially important in helping me think through the meaning of several of the Mahavidyas and in locating and translating for me several crucial passages relating to the Mahavidyas as a group and to individual Mahavidyas. I also appreciated the many discussions I had with Mark Dyczkowski at his home overlooking Assi Ghat. I remember these chats as a pleasant blend of sober scholarly inquiry and amusing speculation on the mysteries presented by this unusual group of Hindu goddesses.
-
-
-
-
-
-Doug Abrams Arava, my editor, has made several discerning suggestions that have very much improved this book and has been unwavering in his attentive support throughout its preparation. I owe special thanks also to the three readers who reviewed the manuscript: Kathleen Erndl, Miranda Shaw, and an anonymous reviewer. Their comments and criticisms proved very useful in revising the book. Victoria Wilson-Schwartz, the University of California Press copyeditor, was attentive, constructive, and unhesitant in scrutinizing my prose—to her, thanks very much. I am also grateful to my wife, Carolyn, for the many hours she spent lending this book consistency and clarity, from an early draft through subsequent stages of production.
-
-
-
-
-
-## Introduction
 
 
 
@@ -94,7 +66,6 @@ Several of the Mahavidyas also subvert the strong emphasis in the Hindu traditio
 In many ways the goddess Kali, who is almost always named as the first of the Mahavidyas, is the prototype of the group in terms of being what I have termed an antimodel. She haunts cremation grounds. She wears a garland of severed human heads, which are often gushing blood that smears her body. She holds a freshly severed head in one of her hands. She receives blood sacrifice at her temples. She rides a ghost or a corpse as her vehicle. She is almost always naked. She is aggressive and is often standing on her male consort. She is sexually powerful and is shown having sex astride her consort \(who sometimes lies on a funeral pyre\). Her companions are ghosts, jackals, and female furies. Her hair is wild and unbound. Her tongue lolls out grotesquely, rudely, suggesting an insatiable, indiscriminate hunger and thirst. Kali insults, subverts, and mocks the social status quo, particularly as it defines proper behavior for women.
 
 Appreciating the liberating potential of antimodels, it seems to me, is one way of appreciating the Mahavidyas. It is a theme I take up at several points in the book. I argue that it is a feature of certain aspects of tantric spirituality in particular, but I also think that it is a muted theme in much of the nontantric Hindu tradition as well. There is an insistence in Hinduism that the world as it appears to us is a show, that there remains hidden from our normal view an aspect of reality that is different, perhaps shockingly different, from our ego-centered way of apprehending it. The world is not the way we like to think it is, and the sooner we realize that, the quicker we will make progress in acquiring spiritual maturity. The Mahavidyas, as antimodels, are awakeners, visions of the divine that challenge comfortable and comforting fantasies about the way things are in the world.
-
 
 
 

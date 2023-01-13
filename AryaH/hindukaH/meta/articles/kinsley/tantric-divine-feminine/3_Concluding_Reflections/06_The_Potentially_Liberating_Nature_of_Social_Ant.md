@@ -1,0 +1,15 @@
++++
+title = "06 The Potentially Liberating Nature of Social Antimodels"
+
++++
+
+Finally, the question remains: Why would one wish to identify with, to actually become \(in the logic of Tantra\), a goddess such as Kali, Chinnamasta, Dhumavati, Bhairavl, or Matarigi, each of whom dramatically embodies marginal, polluting, or socially subversive qualities? These goddesses are frightening, dangerous, and loathsome. They often threaten social order. In their strong associations with death, violence, pollution, and despised marginal social roles, they call into question such normative social "goods" as worldly comfort, security, respect, and honor. Seeking to identify with or become one with these goddesses suggests that the *sadhaka *in some fashion finds marginality, social taboos—the forbidden generally—spiritually refreshing or liberating. Wherein lies the potentially liberating power of what we might term social antimodels?
+
+The answer, as I have suggested at several points throughout this book, probably lies in certain Hindu tantric emphases. These goddesses "fit" the logic of certain aspects of Tantra, especially left-handed Tantra, in which a central aim is to stretch one's consciousness beyond the conventional, to break away from approved social norms, roles, and expectations. By subverting, mocking, or rejecting conventional social norms, which seems to be the aim of the ritual of the five forbidden things \(the *panca **tattva *ritual\), the adept seeks to liberate his or her consciousness from the inherited, imposed, and probably inhibiting categories of proper and improper, good and bad, polluted and pure.
+
+A principle aim in left-handed Tantra is to overcome what might be termed hardening of the categories. Living one's life according to rules of purity and pollution and caste and class that dictate how, where, and exactly in what manner every bodily function may be exercised, and which people one may, or may not, interact with socially, can create a sense of imprisonment from which one might long to escape. Perhaps the more marginal, bizarre, "outsider" goddesses among the Mahavidyas facilitate this escape, as social antimodels who can effectively dislocate an individual. By identifying with one of them, the adept may experience expanded or liberated consciousness; by identifying with the forbidden or the marginalized, an adept may acquire a new and refreshing perspective on the cage of respectability and predictability.
+
+The perspective from the cremation ground \(Kali, Tārā, and others\), or the perspective of a polluted, culturally peripheral person of low caste \(Matarigi\) or of an inauspicious, marginalized widow who is shunned as an ill omen \(Dhumavati\), offers tantric adepts a subversive vision of revered social values, cultural norms, and accepted frameworks of meaning. To take on such a perspective, to become one of these goddesses, might very well involve or imply a transformation of identity in which hardened categories are jettisoned and the emotions, mind, and spirit are stretched in exhilarating fashion.
+
+
+
