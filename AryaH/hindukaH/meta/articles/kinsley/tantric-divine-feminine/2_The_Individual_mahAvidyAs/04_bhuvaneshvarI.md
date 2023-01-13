@@ -49,7 +49,7 @@ Bhuvanesvari not only nourishes the creation, she protects it. She does this by 
 
 
 
-## The *Bīja *Mantra *Hrīm *
+## The Bīja Mantra Hrīm 
 
 In her role as creator and pervader of the cosmos, Bhuvanesvari is often identified with Sarasvati, particularly as the goddess of speech. She is called Vagesvari, "mistress of speech,"23 and is identified with *sabda **brahman,24 *ultimate reality in the form of sound. That is, Bhuvanesvari is identified with the created order and with its essence as sound.
 

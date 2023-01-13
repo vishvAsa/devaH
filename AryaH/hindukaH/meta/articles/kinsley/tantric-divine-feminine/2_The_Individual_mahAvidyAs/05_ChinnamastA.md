@@ -185,7 +185,7 @@ The Chinnamasta image reverses some of these motifs but ultimately teaches simil
 
 
 
-## The Upward Flow of the *Kuṇḍalinī *
+## The Upward Flow of the Kuṇḍalinī 
 
 The Chinnamasta icon also suggests certain aspects of *kundaliniyoga, *in which spiritual energy is awakened, traverses the subtle body, pierces the different centers of energy called *cakras *in its ascent to the top of the skull, unites with Siva in the thousand-petaled lotus *cakra, *and then creates a flood of nectar that flows downward, drenching the practitioner in bliss. Chinnamasta, in her hymns and *stotras, *is identified or associated with the *kundalin i *and this process of spiritual ascent. She is called, for example, Susumnasvarabhasinf \(she who understands the sound of the *suswmia **nadi *\[the central channel up which the *kundalin i *travels\], name 803\), Sahasradalamadhyastha \(she who is established in the thousand-petaled lotus, name 804\), and Sahasradalavarttinl \(she who abides in the thousand-petaled lotus, name 805\).37
 

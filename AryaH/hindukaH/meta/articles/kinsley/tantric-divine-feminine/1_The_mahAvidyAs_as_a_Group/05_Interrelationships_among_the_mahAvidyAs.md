@@ -57,7 +57,7 @@ On the other hand, some individual Mahāvidyās are associated with all three go
 
 
 
-## 6. THE THREE *GUNAS *
+## 6. THE THREE GUNAS 
 
 A related approach to explaining the interconnections among, or the underlying logic of, the Mahāvidyās is to think of them as symbols of the three *gunas *\(qualities\). In this approach, each Mahavidya corresponds to one of the three constituents of the created universe: *sattva *\(purity\), *rajas *\(energy\), or *tamas *\(ignorance\). Indeed, the three goddesses of the *sakta **trimurti *discussed above are also sometimes associated with the three *gunas: *Mahasarasvati with *sattva, *Mahalaksmi with *rajas, *and Mahakali with *tamas. *The three *gunas *are often related to colors: *sattva *is white, *rajas *is red, and *tamas *is black. In the case of the Mahāvidyās, John Woodroffe says that according to the *Kamadhenu-tantra *Tara is identified with *sattva **guna *and the achieving of *kaivalya, *yogic bliss; Sodasi, Bhuvanesvari, and Chinnamasta are associated with *rajas **guna; *and Dhumavatl, Kamala, Bagala, and Matarigl are related to *tamas**guna,*,65 The *Mahanirvdna-tantra *associates the individual Mahāvidyās with the three *gunas *in the same way.66 It has also been suggested to me that the complexions of the Mahāvidyās, which vary in color, might be the key to identifying them with the three *gunas. *So, for example, Kali, Tara, and Matarigl, who have black or dark complexions, would be associated with the *tamas **guna, *while Bhairavi, who has a red complexion, would be associated with the *rajas **guna. *Mahāvidyās with golden or light complexions, such as Bagala, Dhumavati, and Chinnamasta, would be related to *sattva **guna. *
 

@@ -99,7 +99,7 @@ Bagalamukhi's associations with sexual desire and pleasure probably can be under
 
 
 
-## Śava Sādhanā *
+## Śava Sādhanā 
 
 In many depictions of Bagalamukhl and in some of her *dhyana *mantras, she is sitting on a corpse.37 A hymn to her in the *Riidrayrimala, *for example, describes her as having her seat on a platform set in the middle of the ocean of nectar. The throne is decorated with red lotuses, and she sits on the corpse of an enemy she has killed and tossed onto the throne.38 At the same time, she is pulling the tongue of a man or a beastlike creature. This combination of the goddess seated on a corpse while pulling the tongue of a demon suggests certain features of *sava **sadhana *\(spiritual practice using a corpse\), which is described in some tantric texts.
 

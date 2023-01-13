@@ -117,7 +117,7 @@ It seems clear that commentators on the meaning of Tripura-sundari's names begin
 
 
 
-## The Śrīvidyā Mantra and the Śrī *Cakra *
+## The Śrīvidyā Mantra and the Śrī Cakra 
 
 The goddess Tripura-sundari's identity with the Srividya mantra and the Sri *cakra *yantra have been elaborated by theorists of the Srividya cult. While we might be tempted to refer to the Srividya mantra as her mantra, and the Sri *cakra *as her yantra, as symbols in sound and diagram of the goddess whom we imagine in anthropomorphic form, practitioners of the cult insist, on the contrary, that the mantra is she, that the *cakra *is she, herself.42 Indeed, they say that the anthropomorphic image of the goddess, the deity described in myths and praised in hymns, who has characteristics and a physical appearance and who undertakes actions and plays roles, is a gross form that, to some extent, hides her essential nature. In the view of the Srividya cult, this physical, anthropomorphic aspect of the goddess is her *sthiila *form, which is considered crude compared to her illuminative *\(suksma\) *and supreme *\(para\) *manifestations, which in turn are identified with her forms as mantra and *cakra, *respectively.43
 
