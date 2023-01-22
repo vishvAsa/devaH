@@ -200,7 +200,7 @@ The core mantra (i.e., without kavacha & astra) is exactly 365 syllables. The ve
 
 ## परिचयः
 - उररीकरणाय द्विरुक्तिः, अर्थान्तरबोधनायापि वा।
-- पाशुपततन्त्र-पाठे मानसतरङ्गिणीकृद् [अत्र](/AgamaH/AryaH/hinduism/branches/shaivaH/meta/articles/MT/pAshupata-tantra-vyomavyApI) । 
+- पाशुपततन्त्र-पाठे मानसतरङ्गिणीकृद् [अत्र](/AgamaH_shaivaH/meta/articles/MT/pAshupata-tantra-vyomavyApI) । 
 - भैरवपारिजाते ऽर्चनाकल्पो [ऽत्र](http://www.kamakotimandali.com/blog/index.php?p=1027&more=1&c=1&tb=1&pb=1) ।
 - पाठान्तरकलनम् [अत्र](https://manasataramgini.wordpress.com/2008/02/10/the-vyomavyapin-mantra/) । 
 - रौरवागमे विवरणम् [अत्र](../../../../AgamaH/shaivaH/rauravAgamaH/01_vidyApAdaH/10_mantrArthavarNanam)।
