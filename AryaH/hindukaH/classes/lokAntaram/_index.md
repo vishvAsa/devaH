@@ -6,6 +6,7 @@ title: +लोकान्तरम्
 
 ## grahāḥ
 - Tilak: "The word graha which in the sacrificial literature denotes vessel has been used in later astronomical works to denote the planets, the number of which, including the sun and the moon, is fixed at nine, the same as the number of the vessels used for sacrificial purposes."
+- Twin fires of the bhR^igu-s (Venus) and  the A~ngiras-es (Jupiter)
 - For ritual history, see [here](../../jyotiSham/history/).
 
 
