@@ -53,15 +53,10 @@ unicode_script = "devanagari"
 - **कुयवः** - causing a bad harvest
 
 
-## ऐन्द्रप्रशंसा
-> "As I've said many times here, sometimes drawing the howls of the dull-witted, the aindra system of the core RV is superior to others. That unlike the late Vedic prAjApatya system privileges kShatra spirit inspired by the fort-breaking god himself. The sUkta of apratiratha aindra or the gautama's long string of gAyatrI-s starting with nakirindra… is largely more inspiring than a prAjApatya lesson.
->
-> Another is the teaching of indra . What is more inspiring than indra cutting down the likes of trishiras tvAShTra or hurling shambara off the mountain for his Arya votary, the atithigva. That spirit permeates old IE tradition: you see it in Thor, you see it in Zeus & even the Zoroastrian Iranians cannot pass verethraghana by. Hence, I feel that inculcating the aindra pantheonic configuration from an early age might produce that kShatra spirit in people. What about brahma then?  some might ask. I'd say in this pantheon even brahma is war-like represented the brahma ectype of the indra: bR^ihaspati attacking the mountain strongholds of vala. " - MT
-
 ## इन्द्रपुत्रः
 ### Hercules
 - Hercules and jyeShThA (Antares), Indra's star lie on the same ecliptic longitude (which incidentally goes all the way to rohiNI). 
-  - किञ्च - "There is no consensus on which is which as far as Hercules, and Orion go in Hellenistic astronomy." इति केचित्।
+  - किञ्च - "There is no consensus on which is which - as far as Hercules, and Orion go in Hellenistic astronomy." इति केचित्।
 
 #### Omphale
 - Omphale who enslaved Hercules for one year in a comic subversion of roles, taking his club and lion's skin while forcing him to spin wool and dress as a woman
@@ -74,3 +69,4 @@ unicode_script = "devanagari"
 
 ### रामः
 - रामस्यैन्द्रत्वम्, रामायणस्यैन्द्रमूलञ्चान्यत्र प्रदर्शितम्।
+- दिव्यं नाम कथम् आविर् अभवद् इत्य् आश्चर्यम्। केचित् तन्महिमाविशेषम् अनुभवितुम् असमर्था इत्य् अपरम्। कृत्रिमकथया लब्धा सा शक्तिस् तेन पदेनेति बहवः। नेवम्, तन्मूलं वर्णगता काचिच् छक्तिर् इति वरम्। 
