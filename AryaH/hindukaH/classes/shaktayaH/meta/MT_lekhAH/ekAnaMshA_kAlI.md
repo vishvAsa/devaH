@@ -6,20 +6,23 @@ title = "ekAnamshA and kAlI"
 
 While the name ekAnaMshA isnt explicitly used in the kAlikA-pu it does heavily quote & base its vidhi on a certain lost vaiShNavI-tantra & her incantation for the basic practitioner
 
-> oM namo mahAmAyAyai oM vaiShNavyai namo namaH |  
-> rakSha mAM sarvabhUtebhyaH sarvatra parameshvari ||
+> ॐ नमो महामायायै  
+ॐ वैष्णव्यै नमो नमः ।  
+रक्ष मां सर्वभूतेभ्यः  
+सर्वत्र परमेश्वरि ॥
 
 suggests a connection between them. The text states: 
 
-> mUla-yonis tu kathitA vaiShNavI-tantra-gochare ||
+> मूल-योनिस् तु कथिता  
+वैष्णवी-तन्त्र-गोचरे ॥
 
 This suggest that the deity there was indeed worshiped as per this vaiShNavI tantra in the autumnal rite. It is hence conceivable that the deity of kAmAkhyA was seen as the sister (if in an ekAnaMshA configuration) or consort of the viShNu hayagrIva at the nearby nIlAchala shrine.
 
 The ekAnaMshA connection is strengthened by this statement in the kAlikA-pu regarding the deity:
 
-> mUla-mUrtir mahAmAyA  
-> yoganindrA jaganmayI |  
-> tasyAs tu vaiShNavI-tantram  
-> mantram prAk pratipAditam ||
+> मूल-मूर्तिर् महामाया  
+योगनिन्द्रा जगन्मयी ।  
+तस्यास् तु वैष्णवी-तन्त्रम्  
+मन्त्रम् प्राक् प्रतिपादितम् ॥
 
 Note yoganidrA which is an old name used for ekAnaMshA 
