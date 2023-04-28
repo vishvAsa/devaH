@@ -2,7 +2,7 @@
 title = "Pushan goat dog"
 +++
 
-(Article on Daena's dogs stored [elsewhere](/devaH/yAvanaH/daena/articles/MT/daena-dogs.md), yama's dogs [here](/devaH/AryaH/hindukaH/yamaH/meta/MT/yama-dogs/) .)
+(Article on Daena's dogs stored [elsewhere](/devaH/yAvanaH/daena/articles/MT/daena-dogs.md), yama's dogs [here](/devaH/AryaH/hindukaH/yamaH/meta/MT/yama-dogs/), on [hermes](/devaH/AryaH/yAvanaH/hermes_mercury/meta/MT/hermes_pAn_pUShA) .)
 
 Next we come to the presence of Hermes in the image. As suggested by some, one connection is the link to saramA the mother of these dogs praised in mantra-s of the YV. However, multiple lines of evidence suggest that Hermes is a cognate of puShan. We shall see that there is tangled web of connections between puShan, the dog & the realm of the dead.
 
@@ -63,4 +63,4 @@ The goats draw the chariot bearing the the god. Further, the RV mentions a pecul
 > या ते॒ अष्ट्रा॒ गोओप॒शाघृ॑णे पशु॒साध॑नी । तस्या॑स्ते सु॒म्नमी॑महे ॥
 
 This rod the अष्ट्रा is often rendered as a goad, whose favor is implored by the yajamAna. Note that it is specifically described as गोओप॒शा -- with a top like a cow. Note the Ainos coin showing Hermes with the caduceus on the opposite side. This iconography of the caduceus fits the description of pUshan's aShTrA precisely. Hence, we may conclude that the RV vipra-s visualized the aShTrA of pUShan comparably to that seen in this iconographic tradition from Thrace.
-• • •
+
