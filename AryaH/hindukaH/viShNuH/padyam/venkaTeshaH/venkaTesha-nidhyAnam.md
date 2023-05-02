@@ -1,5 +1,5 @@
 ---
-title: श्रीवेङ्कटेशनिध्यानम्
+title: श्रीवेङ्कटेश-निध्यानम्
 unicode_script: devanagari
 practice_weight: 0
 ---
