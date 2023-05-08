@@ -1,5 +1,5 @@
 ---
-title: वेङ्कटेशस्तोत्रम्
+title: वेङ्कटेश-स्तोत्रम्
 unicode_script: devanagari
 ---
 
