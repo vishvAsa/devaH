@@ -17,6 +17,24 @@ title: Myths
   - how to think and feel about our own (internal and social) conflicts and situations.
 - In [this conversation](http://musingsofhh.wordpress.com/2012/09/23/german-christian-in-dialogue-with-balinese-on-ramayanas-historicity/) between a bAlinese hindu and a German christian about the historicity of rAMa, the pestered hindu asks: “Do you want to know whether the story is true, or merely whether it occurred?” \[Orientalism and Religion: Post-Colonial Theory, India and “The Mystic East” By Richard King, pp. 39-40\].      
 
+राम-तापिन्याम् अपि - 
+
+> चिन्मयस्याद्वितीयस्य  
+निष्कलस्याशरीरिणः ।  
+उपासकानां **कार्यार्थं**  
+ब्रह्मणो **रूप-कल्पना** ॥ ७॥  
+> रूप-स्थानां देवतानां  
+पुं-स्त्र्य्-अङ्गास्त्रादि-कल्पना ।  
+द्वि-चत्वारि-षड्-अष्टानां  
+दश द्वादश षोडश ॥ ८॥  
+>
+> अष्टा-दशामी कथिता  
+**हस्ताः** शङ्खादिभिर्युताः ।  
+सहस्रान्तास्, तथा तासां  
+**वर्ण-वाहन**-कल्पना ॥ ९॥  
+**शक्ति-सेना**-कल्पना च  
+ब्रह्मण्य् एवं हि पञ्च-धा  +++(हस्त-वर्ण-शक्ति-सेना-वाहनानि)+++।
+
 ## Non-literalness in Hindu traditions
 dhArmika traditions comfortably got along without needing to read these as literal facts. (Eg. The concept of arthavAda.)
 
