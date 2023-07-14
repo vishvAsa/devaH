@@ -29,3 +29,6 @@ title = "वासुदेवादयः चातुरात्म्य-व
 
 ## स्रोतांसि
 - अहिर्बुध्न्यसंहितायाम् [५](/AgamaH_vaiShNavaH/pAncharAtrAgamaH/ahirbudhnya-saMhitA/05_shuddha-sRShTi-varNanam/)
+
+## अवतार-सम्बन्धः
+> The identification of the supreme deities of the sAtvata tradition with their earthly incarnates is seen right from the earliest extant texts mentioning them. - MT
