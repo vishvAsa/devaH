@@ -41,7 +41,7 @@ RV.9.101.1a; SV.1.545a; 2.47a; JB.1.116,161a,163a; 2.195,425; 3.79,195; PB.8.5.7
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/1/1/18-3_0699_tan_duroShamabhInaraH.md"></div>  
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/1/1/18-3_0699_duroShamabhInaraH.md"></div>  
 
 पु꣣रो꣡जि꣢ती वो꣣ अ꣡न्ध꣢सः सु꣣ता꣡य꣢ मादयि꣣त्न꣡वे꣢।  
 अ꣢प꣣ श्वा꣡न꣢ᳱ श्नथिष्टन꣣ स꣡खा꣢यो दीर्घजि꣣꣬ह्व्य꣢꣯म् ।।1 ।।  

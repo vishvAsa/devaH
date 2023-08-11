@@ -9,7 +9,29 @@ unicode_script = "devanagari"
 ## ऋक्
 भूः - स्वर्ज्योतिः। भुवः - स्वर्ज्योतिः। सुवः - स्वर्ज्योतिः। सत्यम् - स्वर्ज्योतिः। पुरुषः - स्वर्ज्योतिः।
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/6/3/10-1_1462_tatsaviturvareNyam_bhargo.md"></div>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/6/3/10-1_1462_tatsaviturvareNyaM_bhargo.md">
+<details open><summary><h4>10-1_1462 तत्सवितुर्वरेण्यं भर्गो ...{Loading}...</h4></summary>
+
+त꣡त्स꣢वि꣣तु꣡र्वरे꣢꣯ण्यं꣣ भ꣡र्गो꣢ दे꣣व꣡स्य꣢ धीमहि। धि꣢यो꣣ यो꣡ नः꣢ प्रचो꣣द꣡या꣢त् ॥ 10-1:1462 ॥
+
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
+<details open><summary><h6>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h6></summary>
+
+तत् सवि॒तुर् वरे॑ण्य+++(णिय)+++म्  
+भर्गो॑+++(=भर्जनम्)+++ दे॒वस्य॑ धीमहि+++(←धा धारणे/ ध्यै ध्याने / धी आराधने)+++ ।  
+धियो॒ यो नः॑ प्रचो॒दया॑त् ॥  
+(प॒रो-र॑जसे॒ ऽसाव॒द् ओ३म् ॥)
+
+<details><summary>प्रचोदयात्-स्वरः</summary>
+
+प्र + चुद् + णिच् उदात्तः + शप् अनुदात्तः पित्त्वात् + [लेट् → आट् + तिप् अनुदात्तः पित्त्वात्]।  
+
+प्रानुदात्तत्वं तिङन्तस्योदात्तवत्त्वात्। तच्च यत्कारसद्भावात्।
+</details>
+</details>
+</div>
+</details>
+</div>
 
 
 ## साम

@@ -4,7 +4,7 @@ unicode_script = "devanagari"
 
 +++
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/4/aMshAH/A_tvA_hArSham.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/4/aMshAH/A_tvA_hArSham">
 <details open><summary><h5>आ त्वा हार्षम् ...{Loading}...</h5></summary>
 <div caption="छात्राः, वेदभवनम्, भाग्यनगरे" class="videoEmbed" src="https://youtu.be/cp48mUi6d14"></div>
 <details><summary>सायणोक्त-विनियोगः</summary>

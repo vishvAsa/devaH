@@ -3,7 +3,7 @@ title: मिन्दाहुतिः
 unicode_script: devanagari
 
 ---
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/3/2/yan_ma_Atmano_mindAbhUt.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/3/2/yan_ma_Atmano_mindAbhUt">
 <details open><summary><h2>मिन्दाहुतिः ...{Loading}...</h2></summary>
 
 सायणो [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_5_-_Kasinath_Sastri_Agase_1946#page/n187/mode/2up)।

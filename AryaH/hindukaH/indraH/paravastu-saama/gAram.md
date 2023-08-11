@@ -47,7 +47,24 @@ RV.8.2.1a
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/1/2/08-3_0736_tan_te.md"></div>  
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/1/2/08-3_0736_taM_te.md">
+<details open><summary><h4>08-3_0736 तं ते ...{Loading}...</h4></summary>
+
+तं꣢ ते꣣ य꣢वं꣣ य꣢था꣣ गो꣡भिः꣢ स्वा꣣दु꣡म꣢कर्म श्री꣣ण꣡न्तः꣢। इ꣡न्द्र꣢ त्वा꣣स्मिं꣡त्स꣢ध꣣मा꣡दे꣢ ॥ 08-3:0736 ॥ ॥8(थौ)॥
+
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/002/03_taM_te.md">
+<details open><summary><h6>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h6></summary>
+
+
+
+तं ते॒ यवं॒ यथा॒ गोभिः॑  
+स्वा॒दुम् अ॑कर्म +++(=अकार्ष्म)+++ श्री॒णन्तः॑  +++(=मिश्रयन्तः)+++।  
+इन्द्र॑ त्वा॒ ऽस्मिन्त् स॑ध॒मादे॑ +++(=सहमदने यज्ञे ([आह्वयामि])+++) ३
+
+</details>
+</div>
+</details>
+</div>  
 
 
 {{< figure src="/devaH/AryaH/hindukaH/indraH/images/indra-squeezing-soma-into-mouth.jpg"  class="thumbnail">}}

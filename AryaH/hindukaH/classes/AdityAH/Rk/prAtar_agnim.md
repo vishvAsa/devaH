@@ -3,7 +3,7 @@ title: प्रातरग्निम्
 unicode_script: devanagari
 
 ---
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/8/9_17_prAtar_agnim.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/8/9_17_prAtar_agnim">
 <details open><summary><h5>९ १७ प्रातर् अग्निम् ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_15/01_prAtaragnim_prAtarindram.md">
 <details open><summary><h7>०१ प्रातरग्निम् प्रातरिन्द्रम् ...{Loading}...</h7></summary>

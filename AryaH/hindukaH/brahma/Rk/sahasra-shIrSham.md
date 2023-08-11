@@ -7,8 +7,26 @@ unicode_script: devanagari
 ---
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/11_sahasrashIrSham/">
 <details open><summary><h2>११ सहस्रशीर्षम् ...{Loading}...</h2></summary>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/11_sahasrashIrSham/01_sahasrashIrShaM_devaM.md"></div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/11_sahasrashIrSham/01_sahasrashIrShandevavvi.NshvAxavvi.Nshvashambhuv.md"></div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/11_sahasrashIrSham/01_sahasrashIrShaM_devaM.md">
+<details open><summary><h6>विश्वास-प्रस्तुतिः ...{Loading}...</h6></summary>
+
+स॒ह॒स्र॒-शीर्॑षन् दे॒व॒व्ँ वि॒श्वाक्ष॑व्ँ वि॒श्वशं॑भुवम् ।  
+विश्व॑न् ना॒राय॑णन् दे॒व॒म् अ॒ख्षरं॑ पर॒मं प्र॒भुम् ।  
+वि॒श्वतः॒ पर॑मन् नि॒त्य॒व्ँ वि॒श्वन् ना॑राय॒णꣳ ह॑रिम् ।  
+विश्व॑म् ए॒वेदं पुरु॑ष॒स् तद्विश्व॒म् उप॑जीवति ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/11_sahasrashIrSham/01_sahasrashIrShaM_devaM.md">
+<details open><summary><h6>सर्वाष् टीकाः ...{Loading}...</h6></summary>
+<details><summary>मूलम्</summary>
+
+स॒ह॒स्र॒शीर्॑षन्दे॒व॒व्ँ वि॒श्वाक्ष॑व् विँ॒श्वशं॑भुवम् ।  
+विश्व॑न्ना॒राय॑णन्दे॒व॒म॒ख्षरं॑ पर॒मं प्र॒भुम् ।  
+वि॒श्वतः॒ पर॑मन्नि॒त्य॒व्ँ वि॒श्वन्ना॑राय॒णꣳ ह॑रिम् ।  
+विश्व॑मे॒वेदं पुरु॑ष॒स्तद्विश्व॒मुप॑जीवति ॥
+</details>
+</details>
+</div>
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/11_sahasrashIrSham/03_pativvi.NshvasyAtmeshvaraM_shAshvatam.md">
 <details open><summary><h6>विश्वास-प्रस्तुतिः ...{Loading}...</h6></summary>
 
