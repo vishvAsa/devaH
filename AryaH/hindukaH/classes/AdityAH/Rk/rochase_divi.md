@@ -12,5 +12,5 @@ unicode_script: devanagari
 उ॒भा स॑मु॒द्रौ रुच्या॒ व्या᳡पिथ दे॒वो दे॑वासि महि॒षः स्व॒र्जित् ॥
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/31_arvA~N_parastAt.md"></div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/32_chitrashchikitvAn_mahiShaH.md"></div> 
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/31_arvA~NparastAtprayato_vyadhva.md"></div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/32_chitrashchikitvAnmahiShaH_suparNa.md"></div> 
