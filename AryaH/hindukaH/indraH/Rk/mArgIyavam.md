@@ -1,15 +1,24 @@
 ---
+practice_weight: 0
 title: तद् वो गाय
 unicode_script: devanagari
-practice_weight: 0
+
 ---
-
-
 RV.6.45.22a; SV.1.115a; 2.1016a; AV;S.20.78.1a; A;S.9.11.21; Vait.39.3,18. Ps: tad vo gAya ;S;S.15.8.10; Vait.27.10; tad vaH Svidh.1.4.16.
 
 +++([सायणो [ऽत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart3/rv_sayanabhasya_part3#page/n242/mode/1up&sa=D&ust=1542425956182000)। बृहस्पतिपुत्रः शंयुः। गायत्री। इन्द्रः।])+++
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/045/22_tadvo_gAya.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/045/22_tadvo_gAya.md">
+<details open><summary><h2>२२ तद्वो गाय ...{Loading}...</h2></summary>
+
+
+
+तद् वो +++(स्तोतारः)+++ गाय+++(त)+++ सु॒ते +++(सोमे)+++ सचा +++(=सह)+++,  
+पुरुहू॒ताय॒ +++(=बह्वाहूताय)+++ सत्व॑ने +++(=शत्त्रुसादयित्रे)+++।  
+शं यद् गवे न शा॒किने +++(=शक्तिमते)+++।।
+
+</details>
+</div>  
 
 {{< figure src="../../images/indra-as-maghavAn-followed-by-people-bearing-wealth-moving-towards-a-yajamAna.png"  class="thumbnail">}}
 

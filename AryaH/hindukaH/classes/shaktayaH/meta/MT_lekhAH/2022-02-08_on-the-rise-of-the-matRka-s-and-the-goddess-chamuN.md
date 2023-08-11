@@ -22,7 +22,7 @@ Despite this relatively late arrival on the iconographic landscape, they have de
 
 Below we provide an Atharvavedic version of these incantations (the subset which is found in RV is effectively the equivalently).
 
-<div class="js_include" url="/vishvAsa/vedaH/atharva/paippalAda/prakIrNam/yA_rAkA_yA_sinIvAlI.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vishvAsa/vedaH/atharva/paippalAda/prakIrNam/yA_rAkA_yA_sinIvAlI.md"></div>  
 
 
 [![indrANI_Nepalian](https://manasataramgini.files.wordpress.com/2022/02/indrani_nepalian.jpg?w=459&h=431)](https://manasataramgini.files.wordpress.com/2022/02/indrani_nepalian.jpg)
@@ -50,228 +50,98 @@ Here, a single male generative deity is associated with a multi-functional clust
 शूलगवः १
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/01_shUlagavaH.md">
-<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
-
-1 [^1] . The spit-ox (sacrificed to Rudra).
-
-
-[^1]:  8, 1. Āśvalāyana-Gṛhya IV, 8.
-
-
-</details>
-</div>
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/01_shUlagavaH.md"></div>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/vishvAsa-prastutiH/3/08/02_svargyaH_pashavyaH_putryo.md">
 <details open><summary><h2>०२ स्वर्ग्यः पशव्यः पुत्र्यो ...{Loading}...</h2></summary>
 
 स्वर्ग्यः पशव्यः पुत्र्यो धन्यो यशस्य आयुष्यः २
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/02_svargyaH_pashavyaH_putryo.md">
-<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
-
-2 [^2] . It procures (to the sacrificer) heavenly rewards, cattle, sons, wealth, renown, long life.
-
-
-[^2]:  Āśvalāyana, loc. cit. § 35.
-
-
-</details>
-</div>
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/02_svargyaH_pashavyaH_putryo.md"></div>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/vishvAsa-prastutiH/3/08/03_aupAsanamaraNyaM_hRtvA_vitAnam.md">
 <details open><summary><h2>०३ औपासनमरण्यं हृत्वा वितानम् ...{Loading}...</h2></summary>
 
 औपासनमरण्यं हृत्वा वितानं साधयित्वा रौद्रं पशुमालभेत ३
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/03_aupAsanamaraNyaM_hRtvA_vitAnam.md">
-<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
-
-3 [^3] . Having taken the sacred domestic fire to the forest, and having performed the 'outspreading,' he should sacrifice the animal to Rudra.
-
-
-[^3]:  The 'outspreading' is the establishing of the three sacred Śrauta fires, so that the Gṛhya fire is considered as the Gārhapatya, and the Āhavanīya and Dakṣiṇāgni are taken from it.
-
-
-</details>
-</div>
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/03_aupAsanamaraNyaM_hRtvA_vitAnam.md"></div>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/vishvAsa-prastutiH/3/08/04_sANDam.md">
 <details open><summary><h2>०४ साण्डम् ...{Loading}...</h2></summary>
 
 साण्डम् ४
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/04_sANDam.md">
-<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
-
-4. One that is not gelded.
-
-</details>
-</div>
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/04_sANDam.md"></div>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/vishvAsa-prastutiH/3/08/05_gaurvA_shabdAt.md">
 <details open><summary><h2>०५ गौर्वा शब्दात् ...{Loading}...</h2></summary>
 
 गौर्वा शब्दात् ५
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/05_gaurvA_shabdAt.md">
-<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
-
-5 [^4] . Or (it may be) a cow, on account of the designation.
-
-
-[^4]:  On account of the designation of the sacrifice as śūla-gava.
-
-
-</details>
-</div>
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/05_gaurvA_shabdAt.md"></div>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/vishvAsa-prastutiH/3/08/06_vapAM_shrapayitvA_sthAlIpAkamavadAnAni.md">
 <details open><summary><h2>०६ वपां श्रपयित्वा स्थालीपाकमवदानानि ...{Loading}...</h2></summary>
 
 वपां श्रपयित्वा स्थालीपाकमवदानानि च रुद्राय वपामन्तरिक्षाय वसां स्थालीपाकमिश्रान्यवदानानि जुहोत्यग्नये रुद्राय शर्वाय पशुपतये उग्रायाशनये भवाय महादेवायेशानायेति च ६
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/06_vapAM_shrapayitvA_sthAlIpAkamavadAnAni.md">
-<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
-
-6 [^5] . Having cooked the omentum, a mess of sacrificial food, and the portions cut off (of the victim), he sacrifices the omentum to Rudra, the fat to the Air, and the cut-off portions together with the mess of cooked food to Agni, Rudra, Śarva, Paśupati, Ugra, Aśani, Bhava, Mahādeva, .
-
-
-[^5]:  Āśvalāyana, loc. cit. § 19.
-
-
-</details>
-</div>
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/06_vapAM_shrapayitvA_sthAlIpAkamavadAnAni.md"></div>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/vishvAsa-prastutiH/3/08/07_vanaspati.md">
 <details open><summary><h2>०७ वनस्पति ...{Loading}...</h2></summary>
 
 वनस्पति ७
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/07_vanaspati.md">
-<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
-
-7. (Then follows a sacrifice to) Vanaspati.
-
-</details>
-</div>
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/07_vanaspati.md"></div>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/vishvAsa-prastutiH/3/08/08_sviShTakRdante.md">
 <details open><summary><h2>०८ स्विष्टकृदन्ते ...{Loading}...</h2></summary>
 
 स्विष्टकृदन्ते ८
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/08_sviShTakRdante.md">
-<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
-
-8. (To Agni) Sviṣṭakṛt at the end.
-
-</details>
-</div>
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/08_sviShTakRdante.md"></div>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/vishvAsa-prastutiH/3/08/09_digvyAghAraNam.md">
 <details open><summary><h2>०९ दिग्व्याघारणम् ...{Loading}...</h2></summary>
 
 दिग्व्याघारणम् ९
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/09_digvyAghAraNam.md">
-<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
-
-9 [^6] . Then (follows) the sprinkling round to the different quarters (of the horizon).
-
-
-[^6]:  Jayarāma: diśāṃ vyāghāraṇaṃ kartavyam iti sūtraśeṣaḥ. tac ca vasayā bhavati yathāgnishomīye.
-
-
-</details>
-</div>
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/09_digvyAghAraNam.md"></div>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/vishvAsa-prastutiH/3/08/10_vyAghAraNAnte_patnIH_saMyAjayantIndrANyai.md">
 <details open><summary><h2>१० व्याघारणान्ते पत्नीः संयाजयन्तीन्द्राण्यै ...{Loading}...</h2></summary>
 
 व्याघारणान्ते पत्नीः संयाजयन्तीन्द्राण्यै रुद्राण्यै शर्वाण्यै भवान्या अग्निं गृहपतिमिति १०
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/10_vyAghAraNAnte_patnIH_saMyAjayantIndrANyai.md">
-<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
-
-10 [^7] . After the sprinkling has been performed, they sacrifice the Patnī-saṃyāja offerings to Indrāṇī, Rudrāṇī, Śarvāṇi, Bhavānī, and Agni Gṛhapati.
-
-
-[^7]:  On the Patnī-saṃyāja offerings, so called because they are chiefly directed to the wives of the gods, see Hillebrandt, Neu- und Vollmondsopfer, pp. 151 seqq.
-
-
-</details>
-</div>
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/10_vyAghAraNAnte_patnIH_saMyAjayantIndrANyai.md"></div>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/vishvAsa-prastutiH/3/08/11_lohitaM_pAlAsheShu_kUrcheShu.md">
 <details open><summary><h2>११ लोहितं पालाशेषु कूर्चेषु ...{Loading}...</h2></summary>
 
 लोहितं पालाशेषु कूर्चेषु रुद्रायसेनाभ्यो बलिं हरति यास्ते रुद्र पुरस्तात्सेनास्ताभ्य एष बलिस्ताभ्यस्ते नमो यास्ते रुद्र दक्षिणतः सेनास्ताभ्य एष बलिस्ताभ्यस्ते नमो यास्ते रुद्र पश्चात्सेनास्ताभ्य एष बलिस्ताभ्यस्ते नमो यास्ते रुद्रोत्तरतः सेनास्ताभ्य एष बलिस्ताभ्यस्ते नमो यास्ते रुद्रोपरिष्टात्सेनास्ताभ्य एष बलिस्ताभ्यस्ते नमो यास्ते रुद्राधस्तात्सेनास्ताभ्य एष बलिस्ताभ्यस्ते नम इति ११
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/11_lohitaM_pAlAsheShu_kUrcheShu.md">
-<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
-
-11 [^8] . The blood he offers in leaves, on (grass-) bunches, as a Bali to Rudra and to his hosts, with (the Mantras),
-
-
-[^8]:  Āśvalāyana, loc. cit. § 22.
-
-
-'The hosts, Rudra, which thou hast to the east, to them this Bali (is given). To them and to thee be adoration!
-
-'The hosts, Rudra, which thou hast to the south . . . to the west . . . to the north . . . upwards . . .
-
-downwards, to them this Bali (is given). To them and to thee be adoration!'
-
-</details>
-</div>
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/11_lohitaM_pAlAsheShu_kUrcheShu.md"></div>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/vishvAsa-prastutiH/3/08/12_UvadhyaM_lohitaliptamagnau_prAsyatyadho.md">
 <details open><summary><h2>१२ ऊवध्यं लोहितलिप्तमग्नौ प्रास्यत्यधो ...{Loading}...</h2></summary>
 
 ऊवध्यं लोहितलिप्तमग्नौ प्रास्यत्यधो वा निखनति १२
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/12_UvadhyaM_lohitaliptamagnau_prAsyatyadho.md">
-<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
-
-12 [^9] . The contents of the stomach and of the entrails, besmeared with blood, he throws into the fire or buries them in the earth.
-
-
-[^9]:  As to ūvadhya, comp. Āśvalāyana, § 28.
-
-
-</details>
-</div>
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/12_UvadhyaM_lohitaliptamagnau_prAsyatyadho.md"></div>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/vishvAsa-prastutiH/3/08/13_anuvAtaM_pashumavasthApya_rudrairupatiShThate.md">
 <details open><summary><h2>१३ अनुवातं पशुमवस्थाप्य रुद्रैरुपतिष्ठते ...{Loading}...</h2></summary>
 
 अनुवातं पशुमवस्थाप्य रुद्रैरुपतिष्ठते प्रथमोत्तमाभ्यां वाऽनुवाकाभ्याम् १३
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/13_anuvAtaM_pashumavasthApya_rudrairupatiShThate.md">
-<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
-
-13 [^10] . Having placed the animal so that the wind blows from himself to it, he approaches it with the Rudra hymns, or with the first and last Anuvāka.
-
-
-[^10]:  The Rudra hymns form the sixteenth Adhyāya of the Vājasaneyi Saṃhitā. Either that whole Adhyāya or the first and last Anuvāka of it is recited.
-
-
-</details>
-</div>
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/13_anuvAtaM_pashumavasthApya_rudrairupatiShThate.md"></div>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/vishvAsa-prastutiH/3/08/14_naitasya_pashorgrAmaM_haranti.md">
 <details open><summary><h2>१४ नैतस्य पशोर्ग्रामं हरन्ति ...{Loading}...</h2></summary>
 
 नैतस्य पशोर्ग्रामं हरन्ति १४
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/14_naitasya_pashorgrAmaM_haranti.md">
-<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
-
-14. They do not take anything of that animal to the village.
-
-</details>
-</div>
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/14_naitasya_pashorgrAmaM_haranti.md"></div>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/vishvAsa-prastutiH/3/08/15_15.md">
 <details open><summary><h2>१५ एतेनैव गोयज्ञो व्याख्यातः ...{Loading}...</h2></summary>
 
@@ -279,43 +149,21 @@ downwards, to them this Bali (is given). To them and to thee be adoration!'
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/15_15.md">
-<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
-
-15 [^11] . Thereby (also) the cow-sacrifice has been declared.
-
-
-[^11]:  Gobhila III, 6.
-
-
-</details>
-</div>
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/15_15.md"></div>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/vishvAsa-prastutiH/3/08/16_etenaiva_goyajno_vyAkhyAtaH.md">
 <details open><summary><h2>१६ पायसेनानर्थलुप्तः ...{Loading}...</h2></summary>
 
 पायसेनानर्थलुप्तः १६
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/16_etenaiva_goyajno_vyAkhyAtaH.md">
-<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
-
-16. (It is combined) with (the offering of) milk-rice; (the rites) not corresponding (to that special occasion) are omitted.
-
-</details>
-</div>
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/16_etenaiva_goyajno_vyAkhyAtaH.md"></div>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/vishvAsa-prastutiH/3/08/17_tasya_tulyavayA_gaurdaxiNA.md">
 <details open><summary><h2>१७ तस्य तुल्यवया गौर्दक्षिणा ...{Loading}...</h2></summary>
 
 तस्य तुल्यवया गौर्दक्षिणा १७
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/17_tasya_tulyavayA_gaurdaxiNA.md">
-<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
-
-17. The sacrificial fee at that (sacrifice) is a cow of the same age (as the victim).
-
-</details>
-</div>
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarvASh-TIkAH/3/08/17_tasya_tulyavayA_gaurdaxiNA.md"></div>
 
 Thus, the Patnī-saṃyāja of the Śulagava departs from the classical one in combining Indrāṇī with the three raudra goddesses, Rudrāṇī, Śarvāṇi and Bhavānī. Hence, we are already seeing a hint of the tendencies in the mātṛkā system of the classical religion, wherein the māṭṛkā-s typically have an explicitly raudra connection. Indeed, this triad of raudra goddess might indicate a connection to the old name of Rudra, Tryambaka, which implies his association with three mothers.+++(5)+++ 
 

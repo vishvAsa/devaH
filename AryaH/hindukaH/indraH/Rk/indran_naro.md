@@ -1,15 +1,25 @@
 ---
+practice_weight: 0
 title: इन्द्रन् नरो
 unicode_script: devanagari
-practice_weight: 0
+
 ---
-
-
 RV.7.27.1a; SV.1.318a; TS.1.6.12.1a; MS.4.12.3a: 184.17; 4.14.5: 221.11; KB.26.15; A;S.3.7.11. P: indraM naraH TS.2.1.11.1; 3.14.1; 3.1.11.4; 4.3.13.8; TB.2.8.2.5; ;S;S.6.10.7; 10.11.5; M;S.5.1.10.49; Svidh.2.1.5.
 
 +++([सायणो [ऽत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart3/rv_sayanabhasya_part3#page/n423/mode/1up&sa=D&ust=1542425956264000)। वसिष्ठः। त्रिष्टुभ्। इन्द्रः।])+++
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/027/01_indraM_naro.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/027/01_indraM_naro.md">
+<details open><summary><h2>०१ इन्द्रं नरो ...{Loading}...</h2></summary>
+
+
+इन्द्रं॒ नरो॑ ने॒म+++(=खण्ड)+++-धि॑ता +++(→सङ्ग्रामे)+++ हवन्ते +++(=ह्वयन्ति)+++  
+यत् पार्या॑ +++(←पार, साम्नि भेदः)+++ यु॒नज॑ते +++(=प्रयुज्यन्ते)+++ धिय॑स् ताः ।  
+शूरो॒ नृ-षा॑ता +++(=सम्भक्ता)+++ शव॑सश् चका॒न +++(कामयमानः)+++  
++++(सामवेदे भेदः)+++  
+आ गोम॑ति व्र॒जे भ॑जा॒ त्वं नः॑ ।।
+
+</details>
+</div>
 
 इ꣢न्द्रं꣣ न꣡रो꣢ ने꣣म꣡धि꣢ता हवन्ते꣣  
 य꣡त्पार्या꣢꣯+++(=पारङ्गमनसाधनानि)+++ यु꣣न꣡ज꣢ते꣣ धि꣢य꣣स्ताः꣢।  

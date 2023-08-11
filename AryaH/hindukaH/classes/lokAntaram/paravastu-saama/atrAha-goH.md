@@ -5,4 +5,41 @@ status = "to_memorize"
 practice_weight = 0
 
 +++
-<div class="js_include" url="/vedAH_sAma/paravastu-saama/devaH/lokAntaram/atrAha-goH/"  newLevelForH1="1" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/lokAntaram/atrAha-goH/">
+<details open><summary><h1>अत्राह गोः ...{Loading}...</h1></summary>
+
+## ऋक्
+ऋग्वेदः  १.८४.१५  
+ऋषिः  गोतमो राहूगणः  
+देवता  त्वष्टा, सूर्यः  
+छन्दः  गायत्री  
+सायणो [ऽत्र](http://rigveda.sanatana.in/describe/rikMandala/001.084.015)।
+
+### संहिता
+अत्राह॒+++(=अस्मिन्नेव)+++ गोर्+++(=गन्तुः [चन्द्रमसो])+++ अ॑मन्वत॒ नाम॒ त्वष्टु॑र्+++(=दीप्तस्यादित्यस्य)+++ अपी॒च्य॑म्+++(=अपचितम्, अन्तर्हितम् [रात्रौ])+++ ।
+इ॒त्था+++(=इत्थं)+++ च॒न्द्रम॑सो गृ॒हे ॥  
++++(स्वच्छे चंद्रबिंबे सूर्यकिरणाः प्रतिफलंति ।)+++
+
+### पदपाठः
+अत्र॑ । अह॑ । गोः । अ॒म॒न्व॒त॒ । नाम॑ । त्वष्टुः॑ । अ॒पी॒च्य॑म् ।
+इ॒त्था । च॒न्द्रम॑सः । गृ॒हे ॥
+
+## साम
+<div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/atrAha-goH.mp3"></div>
+<div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/atrAha-goH.mp3"></div>
+
+हा+++([])+++उ ।। त्रि : ।।  
+चं+++([])+++द्रं ।। त्रि:।।  
+{चं+++([])+++द्रं, चं द्रं }+++(त्रिः)+++  
+{चं+++([])+++द्रं, चा० द्रं }+++(त्रिः)+++  
+अ+++([])+++त्रह गो,रा अ+++([])+++मान्वाआता+++([])+++अ ।  
+ना+++([])+++म त्वष्टुरा,+++([])+++आपाइ,च्याआया+++([])+++अ० ।  
+इ+++([])+++त्था+++(~~द्धा~~)+++, चन्द्रमाअ,सो, गृऊहाइ।  
+हा+++([])+++उ ।। त्रि : ।।  
+{चं+++([])+++द्रं }+++(त्रिः)+++  
+चं+++([])+++द्रं, चं द्रं ।। त्रि :।।  
+चं+++([])+++द्रं, चा० द्रं ।। द्वि: ।। चं+++([])+++द्रं ।  
+चा,+++([])+++अ०द्रा+++([])+++अअ औ+++([])+++होवाअ ।  
+ए+++([])+++ए । चं+++([])+++द्रं ।। एवं त्रि : ॥
+</details>
+</div>

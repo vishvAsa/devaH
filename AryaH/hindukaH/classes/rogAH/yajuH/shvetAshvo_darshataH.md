@@ -1,7 +1,39 @@
 +++
 title = "श्वेताश्वो दर्शतः"
 unicode_script = "devanagari"
+
 +++
 
-<div class="js_include" url="/vedAH_sAma/jaiminIyam/brAhmaNam/jaiminiya-upaniShad-brAhmaNam/04/01/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_sAma/jaiminIyam/brAhmaNam/jaiminiya-upaniShad-brAhmaNam/04/01/">
+<details open><summary><h2>०१ यक्ष्म-प्रतीकारः ...{Loading}...</h2></summary>
 
+
+
+अथ चतुर्थोऽध्यायः।
+
+श्वेताश्वो दर्शतो हरि-नीलोऽसि।  
+हरित-स्पृशस्, समान-बुद्धो मा हिंसीः।  
+न मां त्वं वेत्थ! प्रद्रव! १   
+
+यद् अभ्यव-चरणो ऽभ्यवैषि, स्वपन्तम् पुरुषम् अकोविदम् -  
+अश्म-मयेन वर्मणा वरुणो ऽन्तर्दधातु मा। २   
+… अयस्-मयेन … ३   
+… लोह-मयेन … ४   
+… रजत-मयेन … ५   
+… सुवर्ण-मयेन …। ६   
+
+आयुर् माता, मतिः पिता।  
+नमस् त आविशोषण! ग्रहो नामासि विश्वायुः।  
+तस्मै ते विश्वाहा+++(=प्रत्यहम्)+++ नमो नमस् ताम्राय!  
+नमो वरुणाय!  
+नमो जिघांसते! ७   
+
+यक्ष्म राजन् मा मां हिंसीः! राजन् यक्ष्म मा हिंसीः।  
+तयोस् संविदानयोस् सर्वम् आयुर् अयान्य् अहम्! ८   
+१   
+
+
+प्रथमोऽनुवाकस्समाप्तः 
+
+</details>
+</div>
