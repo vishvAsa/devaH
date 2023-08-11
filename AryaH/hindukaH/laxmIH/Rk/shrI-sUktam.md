@@ -19,9 +19,9 @@ Original R^ivedic version is often termed the kAshmIra-pATha because it appears 
 ### द्राविडपाठः
 <details><summary>परिचयः</summary>
 
-&gt; This pAtha is from the book 'yAjusha mantra ratnakaram' in grantha script, re-printed by Sri Krishnamurti Shastrigal.  
-&gt; It's original print is likely by vaidhika vardhini press from Kumbhakonam.  
-&gt; What you see in this pAtha (as opposed to the more popular patha) is that it doesn't have multiple anudAttas in a row in the middle of phrases.
+> This pAtha is from the book 'yAjusha mantra ratnakaram' in grantha script, re-printed by Sri Krishnamurti Shastrigal.  
+> It's original print is likely by vaidhika vardhini press from Kumbhakonam.  
+> What you see in this pAtha (as opposed to the more popular patha) is that it doesn't have multiple anudAttas in a row in the middle of phrases.
 
 इत्यजितः। तथापि क्वचित् स्वरः सन्देहास्पदम्। बहुत्र +अर्वाचीनछन्दोरागानुकरणम् इवैव भाति।   
 </details>

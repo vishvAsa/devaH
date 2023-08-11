@@ -279,7 +279,7 @@ downwards, to them this Bali (is given). To them and to thee be adoration!'
 
 He \[then\] offers the blood \[of the sacrificed bull\] as bali with a bunch of *Butea frondosa* leaves to Rudra and his troops with \[the incantations\]: 
 
-&gt; “O Rudra, those armies, which you have to the East (to the South; to the West; to the North; upwards; downwards), to them is this bali. Obeisance be to them and to you.”
+> “O Rudra, those armies, which you have to the East (to the South; to the West; to the North; upwards; downwards), to them is this bali. Obeisance be to them and to you.”
 </details>
 </details>
 </div>

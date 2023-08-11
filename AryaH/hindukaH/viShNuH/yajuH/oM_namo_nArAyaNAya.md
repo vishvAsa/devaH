@@ -19,7 +19,7 @@ unicode_script = "devanagari"
 
 <details><summary>नारायणे स्वरः</summary>
 
-&gt; ॐ नमो॑ नाराय॒णाय॑ … "प्रत्युत्त॑ब्ध्यै सय॒त्वाय॑ ॥" इति प्रसिद्धं तैत्तिरीयवेदवाक्यं दृष्टान्तयन्त्यभिज्ञाः।
+> ॐ नमो॑ नाराय॒णाय॑ … "प्रत्युत्त॑ब्ध्यै सय॒त्वाय॑ ॥" इति प्रसिद्धं तैत्तिरीयवेदवाक्यं दृष्टान्तयन्त्यभिज्ञाः।
 
 इति स्वरं दर्शयन्त्य् अहोबिलमठाह्निकपुस्तके (मन्त्रे तृतीयाष्टमौ स्वरितौ, षष्ठः अनुदात्त इति साम्यम्)।
 
@@ -33,11 +33,11 @@ unicode_script = "devanagari"
 
 - नारायणाथर्वशीर्षोपनिषत्
 
-&gt; Narayana atharvashira is  also called narayana upanishad and associated with Krishna YV. It has an exalted place in vaikhanasa paddhatis and there r reasons to believe that it is a vaikhanasa text which has become very popular later.
-&gt;
-&gt; Interestingly, it is the Vedic text which still survives in Bali. No other upanishad survives there.. nor any samhita
-&gt;
-&gt; - ravilochanaH
+> Narayana atharvashira is  also called narayana upanishad and associated with Krishna YV. It has an exalted place in vaikhanasa paddhatis and there r reasons to believe that it is a vaikhanasa text which has become very popular later.
+>
+> Interestingly, it is the Vedic text which still survives in Bali. No other upanishad survives there.. nor any samhita
+>
+> - ravilochanaH
 </details>
 </details>
 </div>

@@ -304,7 +304,7 @@ unicode_script: devanagari
 The Romans, like the H, seemed to remember of Orion as being the "leader of the constellations" i.e. the AgrayaNa position. Did some see the belt as the sword?:
 
 
-&gt; Orion may be seen stretching his arms over a vast expanse of sky and rising to the stars with no less huge a stride. A single light marks each of his shining shoulders, and three aslant trace the downward line of his sword ; but three mark Orion’s head, which is embedded in high heaven with his countenance remote. It is Orion who leads the constellations as they speed over the full circuit of heaven. Astronomica by Marcus Manilius (translated by Goold)
+> Orion may be seen stretching his arms over a vast expanse of sky and rising to the stars with no less huge a stride. A single light marks each of his shining shoulders, and three aslant trace the downward line of his sword ; but three mark Orion’s head, which is embedded in high heaven with his countenance remote. It is Orion who leads the constellations as they speed over the full circuit of heaven. Astronomica by Marcus Manilius (translated by Goold)
 
 - "In Vaidika reckoning the core of Mṛga was Orion with the arrow of Rudra shot through it (See below). The arrow is identified with the three stars of the belt of Orion (ζ , ε , δ Orionis). " ता इण्वकाः। "Taittirīya Brāhmaṇa 1.5.1.1 states: somasyenvakā vitatāni ।" - ([MT](https://manasataramgini.wordpress.com/2017/07/01/a-note-on-the-asterisms-forming-the-nak%e1%b9%a3atra-s/))
 - "It is also likely that the 3 stars in a line inspired the myth of the tripura-s with the 3 asura forts need to be a in a line to be pierced by the arrow of rudra."
