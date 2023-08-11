@@ -5,4 +5,41 @@ status = "to_memorize"
 practice_weight = 0
 
 +++
-<div class="js_include" url="/vedAH_sAma/paravastu-saama/devaH/vAyuH/niyutvAn-vAyo/"  newLevelForH1="1" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/vAyuH/niyutvAn-vAyo/">
+<details open><summary><h1>नियुत्वान् वायो ...{Loading}...</h1></summary>
+
+## ऋक्
+ऋग्वेदः  २.४१.२  
+ऋषिः  गृत्समद (आंगिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः  
+देवता  वायुः  
+छन्दः  त्रिष्टुप्  
+सायणो [ऽत्र](http://rigveda.sanatana.in/describe/rikMandala/002.041.002)।
+
+### संहिता
+नि॒युत्+++(=वायुवाहन)+++-वा॑न् वाय॒व् आ ग॑ह्य्  
+अ॒यं शु॒क्रो+++(=दीप्यमानः [सोमः])+++ अ॑यामि+++(=यमेः कर्मणि लुङ्)+++ ते ।  
+गन्ता॑सि सुन्व॒तो+++(=सोमाभिषवं कुर्वतो)+++ गृ॒हम् ॥
+
+### पदपाठः
+नि॒युत्वा॑न् । वा॒यो॒ इति॑ । आ । ग॒हि॒ । अ॒यम् । शु॒क्रः । अ॒या॒मि॒ । ते॒ ।  
+गन्ता॑ । अ॒सि॒ । सु॒न्व॒तः । गृ॒हम् ॥
+
+## साम
+<div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/niyutvAn-vAyo.mp3"></div>
+<div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/niyutvAn-vAyo.mp3"></div>
+
+हा+++([])+++उ ।। त्रि : ।।  
+{शु+++([])+++क्रं }+++(त्रिः)+++  
+{शु+++([])+++क्रं, शु क्रं }+++(त्रिः)+++  
+शु+++([])+++क्रं शू क्रं ।। त्रिः ।।  
+नी+++([])+++(यु)त्वान् वा,याअ, वा+++(~~मा~~)+++, गाआ,ही+++([])+++इ ।  
+अ+++([])+++यं शुक्रो, आअ,+++([])+++याअ,माआइता+++([])+++इ ।  
+गन्+++([])+++तासि सुन्वा,आतो, गृऊहाअम्।  
+हा+++([])+++उ ।। त्रि : ।। 
+{शु+++([])+++क्रं }+++(त्रिः)+++ 
+{शु+++([])+++क्रं,  शु क्रं }+++(त्रिः)+++ 
+शु+++([])+++क्रं, शू क्रं ।। द्वि : ।। शु+++([])+++क्रं । 
+शू,+++([])+++उक्रा+++([])+++अअ औ+++([])+++होवाअ ।  
+ए+++([])+++ए । शु+++([])+++क्रं ।। एवं  त्रि: ।। ॥
+</details>
+</div>

@@ -3,5 +3,23 @@ title: अग्निर् मे
 unicode_script: devanagari
 
 ---
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/AndhrapATha-yogaH/08_agnir_me_vAchi"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/AndhrapATha-yogaH/08_agnir_me_vAchi">
+<details open><summary><h2>०४ ...{Loading}...</h2></summary>
 
+
+
+अ॒ग्निर् मे॑ वा॒चि श्रि॒तः । वाग्घृद॑ये । हृद॑यं॒ मयि॑ । अ॒हम् अ॒मृते॑ । अ॒मृतं॒ ब्रह्म॑णि ॥  
+वा॒युर् मे॑ प्रा॒णे श्रि॒तः …।  
+सूर्यो॑ मे॒ चक्षु॑षि श्रि॒तः …। च॒न्द्रमा॑ मे॒ मन॑सि श्रि॒तः …।  
+दिशो॑ मे॒ श्रोत्रे॑ श्रि॒ताः …।  
+आपो॑ मे॒ रेत॑सि श्रि॒ताः…।  
+पृ॒थि॒वी मे॒ शरी॑रे श्रि॒ता …।   
+ओ॒ष॒धि॒व॒न॒स्प॒तयो॑ मे॒ लोम॑सु श्रि॒ताः …॥  
+इन्द्रो॑ मे॒ बले॑ श्रि॒तः  …।  प॒र्जन्यो॑ मे मू॒र्ध्नि श्रि॒तः … ।  
+ईशा॑नो मे म॒न्यौ श्रि॒तः …।  
+आ॒त्मा म॑ आ॒त्मनि॑ श्रि॒तः…।  
+
+पुन॑र् म आ॒त्मा पुन॒रायु॒र् आगा॑त् । पुनः॑ प्रा॒णः पुन॒राकू॑त॒म् आगा॑त् ।  
+वै॒श्वा॒न॒रो र॒श्मिभि॑र् वावृधा॒नः । अ॒न्तस् ति॑ष्ठत्व् अ॒मृत॑स्य गो॒पाः ॥
+</details>
+</div> 

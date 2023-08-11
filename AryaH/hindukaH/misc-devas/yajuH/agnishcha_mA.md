@@ -1,8 +1,39 @@
 ---
 title: अग्निश्च मा
 unicode_script: devanagari
----
 
+---
 +++(अत्रारण्यकोक्त-वाक्यस्वरः।)+++
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/24_agnish_cha/"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/24_agnish_cha/">
+<details open><summary><h2>२४ अग्निश् च ...{Loading}...</h2></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अग्निश्च मा मन्युश्च मन्युपतयश्च मन्यु॑कृते॒भ्यः।  
+पापेभ्यो॑ रक्ष॒न्ताम् ।  
+
+यद् अह्ना पाप॑म् अका॒र्षम् ।  
+मनसा वाचा॑ हस्ता॒भ्याम् ।  
+पद्भ्याम् उदरे॑ण शि॒श्ना ।  
+अह॒स् तद् अ॑वलु॒म्पतु ।
+
+यत्किञ् च॑ दुरि॒तं मयि॑ ।  
+इदम् अहं माम् अमृ॑त-यो॒नौ ।  
+सत्ये ज्योतिषि जुहो॑मि स्वा॒हा । 
+</details>
+<details><summary>मूलम्</summary>
+
+अग्निश्च मा मन्युश्च मन्युपतयश्च मन्यु॑कृते॒भ्यः।  
+पापेभ्यो॑ रक्ष॒न्ताम् ।  
+
+यद् अह्ना पाप॑म् अका॒र्षम् ।  
+मनसा वाचा॑ हस्ता॒भ्याम् ।  
+पद्भ्याम् उदरे॑ण शि॒श्ना ।  
+अह॒स् तद् अ॑वलु॒म्पतु ।
+
+यत्किञ् च॑ दुरि॒तं मयि॑ ।  
+इदम् अहं माम् अमृ॑त-यो॒नौ ।  
+सत्ये ज्योतिषि जुहो॑मि स्वा॒हा । 
+</details>
+</details>
+</div> 

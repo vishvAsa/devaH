@@ -5,4 +5,45 @@ status = "to_memorize"
 practice_weight = 0
 
 +++
-<div class="js_include" url="/vedAH_sAma/paravastu-saama/devaH/viShNuH/idaM-viShNur-vAravantIyam/"  newLevelForH1="1" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/viShNuH/idaM-viShNur-vAravantIyam/">
+<details open><summary><h1>इदं विष्णुर् (वारवन्तीयम्) ...{Loading}...</h1></summary>
+
+## ऋक्
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="../../Rk/idaM_viShNur/"></div>
+
+## साम - वारवन्तीयम्
+<div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/idaM-viShNur-vichakrame-vAravantIyam.mp3"></div>
+<div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/idaM-viShNur-vichakrame-vAravantIyam.mp3"></div>
+
+वारवन्तीयम् ।  
+इ+++([])+++द०विष्णा, औहोहाइ ।  
+वा+++([])+++इच क्रामाइ ।  
+त्रे+++([])+++धा, नाइहाइ । द+++([])+++धे पा, अअ औ+++([])+++होवाअ ।  
+इ+++([])+++हाहाइ । उ+++([])+++हुवा, आदाअ० ।  
+सा+++([])+++मू, ढ० । आ+++([])+++स्या , आपा००सू,उउ । औ+++([])+++होवाअ ।  
+इ+++([])+++हाहाइ । औ+++([])+++हो, ओला+++([])+++इ ।  
+ए+++([])+++ए, हिया०, ०हाअ ।
+
+त्री+++([])+++णिपदा, औहूहाइ । वा+++([])+++इचक्रामाइ ।  
+वि+++([])+++ष्णू, र्गोपा+++(~~हा~~)+++अ । आ+++([]~~पा~~)+++दाभाआअअ औ+++([])+++हो, वाअ ।
+इ+++([])+++हाहाइ । उ+++([])+++हुवा, आया: ।  
+आ+++([])+++तो, धा[र्] । मा+++([])+++णीई, धाराआअ । औ+++([])+++होवाअ ।  
+इ+++([])+++हाहाइ । औ+++([])+++हो, ओयान्+++([])+++।  
+ए+++([])+++ए, हिया००हाअ ।
+
+वि+++([])+++ष्णो: कर्मा, औहू, हाइ । णा+++([])+++इपश्याताअ ।  
+या+++([])+++तो, वॄहाअ । ता+++([])+++नि, पस्पाअअ औ+++([])+++होवाअ ।
+इ+++([])+++हाहाइ । उ+++([])+++हुवा, आशाइ । 
+इन्+++([])+++द्रा, स्या । यू,+++([])+++जीई, यास्साअअ औ+++([])+++होवाअ ।  
+इ+++([])+++हा, हाइ । औ+++([])+++हो, ओखा+++([])+++।  
+ए,+++([])+++ए, हिया००हा । हो+++([])+++इ । डा+++([])+++अ ॥
+
+## साम २
+ 
+पुरुष सूक्तं ।  
+इ+++([])+++दाङ्मॆऎ । वि+++([])+++ष्णू, उः ।  
+वि+++([])+++चक्रा, अमाइ ।  
+त्रा+++([])+++इधा, नि । दा+++([])+++दा, ईइ, पा,आदा,+++([])+++अं ।  
+स+++([])+++मू,+++([])+++उहो । ढा,+++([])+++अमाअ । स्या,+++([])+++अपा, अअ, औहोवाअ । ए+++([])+++ए ।  सु+++([])+++वॆए  ॥
+</details>
+</div>
