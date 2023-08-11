@@ -5,4 +5,40 @@ status = "to_memorize"
 practice_weight = 0
 
 +++
-<div class="js_include" url="/vedAH_sAma/paravastu-saama/devaH/agniH/pRxasya_vRShNo/"  newLevelForH1="1" includeTitle="false"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/agniH/pRxasya_vRShNo/">
+<details open><summary><h1>पृक्षस्य वृष्णो ...{Loading}...</h1></summary>
+
+## ऋक्
+ऋग्वेदः  ६.८.१  
+ऋषिः  भरद्वाजो बार्हस्पत्यः  
+देवता  वैश्वानरोग्निः  
+छन्दः  जगती  
+सायणो [ऽत्र](http://rigveda.sanatana.in/describe/rikMandala/006.008.001)।
+
+### संहिता
+पृ॒क्षस्य॒+++(=पृक्षं हविर्लक्षणम् अन्नं तद्वतः)+++ वृष्णो॑+++(=वर्षितुः)+++ अरु॒षस्य॒+++(=आरोचमानस्य)+++ नू सहः॒+++(=बलम्)+++  
+प्र नु वो॑चं वि॒दथा॑ +++(=यज्ञे)+++ जा॒तवे॑दसः ।  
+वै॒श्वा॒न॒राय॑ म॒तिर् नव्य॑सी॒+++(=नवतरा)+++ शुचिः॒   
+सोम॑ इव पवते॒ चारु॑र् अ॒ग्नये॑ ॥
+
+### पदपाठः
+पृ॒क्षस्य॑ । वृष्णः॑ । अ॒रु॒षस्य॑ । नु । सहः॑ । प्र । नु । वो॒च॒म् । वि॒दथा॑ । जा॒तऽवे॑दसः ।  
+वै॒श्वा॒न॒राय॑ । म॒तिः । नव्य॑सी । शुचिः॑ । सोमः॑ऽइव । प॒व॒ते॒ । चारुः॑ । अ॒ग्नये॑ ॥
+
+## साम
+<div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/pRxasya-vRShNo.mp3"></div>
+<div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/pRxasya-vRShNo.mp3"></div>
+
+हा+++([])+++उ ।।त्रिः ।।  
+ऊ+++([])+++ऊ ।। द्विः ।। ऊ+++([])+++उवा+++([])+++अ ।  
+ह+++([])+++उवाअ ।  
+ह+++([])+++स्, हहस् । अ+++([])+++र्चि श्शोचि स्तपो हराः ।  
+पृ+++([]~~प्र~~)+++क्षस्य, वृ+++(~~वि~~)+++ष्णो अर्ष, स्या नू स+++(~~मा~~)+++, 
+अहा : ।  
+प्र+++([])+++नो, वचो, विदधा, जा । तावेदा, असाइ । वै+++([])+++श्वानराय, मतिर्न, 
+व्या से शू, उची :  । सो+++([])+++म इव पवतेचा, रूरग्ना, या, इ । हा+++([])+++उ ।। त्रिः ।। 
+ऊ+++([])+++उ ।। द्विः ।।  ऊ,+++([])+++उ । वा,+++([])+++अ । हा+++([])+++उवाअ । ई+++([])+++ई ॥
+</details>
+</div>
