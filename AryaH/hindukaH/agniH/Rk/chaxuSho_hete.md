@@ -1,10 +1,11 @@
 ---
+tags:
+- प्रत्याङ्गीरसम्
 title: चक्षुषो हेते
-tags: [प्रत्याङ्गीरसम्]
 unicode_script: devanagari
 
 ---
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/4/aMshAH/chaxuSho_hete.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/4/aMshAH/chaxuSho_hete">
 
 ## मेनिवारणम्
 चक्षु॑षो हेते॒ मन॑सो हेते,  
