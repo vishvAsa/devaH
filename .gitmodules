@@ -7,3 +7,7 @@
 	url = https://github.com/vishvAsa/devaH.git
 	update = merge
 	branch = content
+[submodule "static"]
+	path = static
+	url = https://github.com/vishvAsa/devaH.git
+	branch = static_files
