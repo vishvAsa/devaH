@@ -33,6 +33,10 @@ unicode_script = "devanagari"
 सर्वे भद्राणि पश्यन्तु  
 मा कश्चिद् दुःखभाग्भवेत् ॥ 
 
+
+<div class="js_include" url="/devaH/AryaH/hindukaH/misc-devas/padyam/devatAbhyaH_pitRbhyaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+
 शरलोक+++(=Sherlock H)+++लोचनशरै
 रहस्यपशवः कथं नु मुच्येरन्।
 प्रत्यक्षं च परोक्षं
