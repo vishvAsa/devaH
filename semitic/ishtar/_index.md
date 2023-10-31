@@ -1,0 +1,5 @@
++++
+title = "+Ishtar"
++++
+
+Aka Ashtart
