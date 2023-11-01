@@ -77,7 +77,7 @@ jobs:
       if: steps.update_submods.conclusion == 'success'
       id: setup_hugo
       with:
-        hugo-version: "0.105.0"
+        hugo-version: "0.119.0"
         # extended: true
       # Step 3 - Clean and don't fail
     - name: Clean build_github directory
