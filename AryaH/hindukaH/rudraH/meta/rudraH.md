@@ -47,3 +47,7 @@ Semar is also called Sang Hyang Ismaya, the elder brother of Sang Hyang Manikmay
 ## श्री-वैष्णव-सम्प्रदाये
 > During the utsavam at Thirukannangudi (on the 7th or 8th day), the Lord showcases himself as Rudran to Azhwar. So the Goshti will sport Urdhva Pundram, and above it Vibhuti to commemorate this in that Divya Desam.  
 > - Dushyant
+
+
+## वर्णः
+> In the shruti, rudra is described as being of many colors: babhru: brown; shvitya~nch/shukra: white; nIla: blue, nIlalohita: bluish-red; vilohita: red; tAmra: coppery; kR^iShNapi~Ngala: blackish-yellow; hiraNya: golden;
