@@ -1,6 +1,6 @@
 ---
 title: गुणगणमण्डितयदुवरलसिता
-practice_weight = 0
+practice_weight: 0
 
 ---
   
