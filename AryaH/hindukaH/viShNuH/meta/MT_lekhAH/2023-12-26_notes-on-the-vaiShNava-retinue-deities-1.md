@@ -90,7 +90,7 @@ trailokyonmūlana-kṣamāḥ ॥
 
 Viṣṇu answered:
 
-klavaiśvānarākhyā yā mūrtis turyātmano vibhoḥ ।  
+> klavaiśvānarākhyā yā mūrtis turyātmano vibhoḥ ।  
 sa eṣa dvija devaḥ syād viṣvaksenaḥ prakīrtitaḥ ॥  
 sthita āhavanīyādi-bhedena makha-yājinām ।  
 ṛk-pūtam hutam ādāya tarpayaty akhilaṃ jagat ॥  
@@ -99,37 +99,52 @@ saṃprāpya gurumūrter vai prāpaṇaṃ mantra-sat-kṛtam ॥
 anāhūtāṃ surāṇāṃ ca sarva-loka-nivāsinām ।  
 svayaṃ saṃvibhajaty āśu tad anugraha-kāmyayā ॥
 
-He is known as Kālavaiśvānara (the fire of the end of time), who is an emanation of the four-fold lord (i.e., the Vāsudeva with the 3 other vyūha-s). O twice-born one, he is that god who is known as Viṣvaksena. He is situated in the types of fire altars viz. Āhavanīya and the like of the Vedic ritualists. Having taken the oblations sanctified by ṛk-s, he satisfies the entire universe. Thus, obtaining \[the essence\] from the rituals filled with incantations, from purity, proper ritual intention and the form of the teacher, he verily gains the good deeds of the mantra \[deployment\]. And he himself quickly apportions these to the uninvoked gods dwelling in all the worlds with the intention of gaining their favor.
+> He is known as Kālavaiśvānara (the fire of the end of time), who is an emanation of the four-fold lord (i.e., the Vāsudeva with the 3 other vyūha-s). O twice-born one, he is that god who is known as Viṣvaksena. He is situated in the types of fire altars viz. Āhavanīya and the like of the Vedic ritualists. Having taken the oblations sanctified by ṛk-s, he satisfies the entire universe. Thus, obtaining \[the essence\] from the rituals filled with incantations, from purity, proper ritual intention and the form of the teacher, he verily gains the good deeds of the mantra \[deployment\]. And he himself quickly apportions these to the uninvoked gods dwelling in all the worlds with the intention of gaining their favor.
 
-In terms of the temple ritual, in addition to the contruction of a Viṣvaksena shrine within the third circuit of the Viṣṇu complex, he may be housed in a separate temple to the south of a village (Sanatkumāra-saṃhitā). His worship in these shrines is accompanied by a special dance and music. The emergence of Viṣvaksena as the Nirmālya-devatā seems to have led to a special group of priestly assistants, the kārin-s, who partake of the final offerings handed over to Viṣvaksena.
+## Representation
+In terms of the temple ritual, in addition to the contruction of a Viṣvaksena shrine within the third circuit of the Viṣṇu complex, he may be housed in a separate temple to the south of a village (Sanatkumāra-saṃhitā).  
+His worship in these shrines is accompanied by a special dance and music.+++(5)+++  
+The emergence of Viṣvaksena as the Nirmālya-devatā seems to have led to a special group of priestly assistants, the kārin-s, who partake of the final offerings handed over to Viṣvaksena.+++(5)+++
 
+## yantra and position
 The yantra of Viṣvaksena (Pauṣkara, chapter 20):
 
 [![viShvaksena](https://manasataramgini.files.wordpress.com/2023/12/vishvaksena.png?w=640)](https://manasataramgini.files.wordpress.com/2023/12/vishvaksena.png)
 
-dharmādy ananta-paryantaṃ pañcakaṃ navakaṃ tu vā ।  
+> dharmādy ananta-paryantaṃ pañcakaṃ navakaṃ tu vā ।  
 sattvenācchāditam paścāt kevalam ambujaṃ smaret ॥  
 aiśāna-soma-diṅ-madhye catur-aśra-pure .atha vā ।  
 dvāra-śobhāgra-nirmukte rekhā-tritaya-bhūṣite ॥  
 tad antare .ardha-candrasthe kamale .aṣṭa-dalānvite ।  
 sāmrājye viniyuktaṃ yad vighnānām acyutena tat ॥
 
-One may meditate on the pentad or nonad of deities, Dharma etc., until Ananta. Thereafter, one may meditate on the One lotus enveloped by sattva. \[Then one worships Viṣvaksena\] between the northeastern and the northern directions or in a square yantra. It lacks doors and flanges (typical of other square yantra-s), and \[its periphery is\] marked with triple lines. Inside it, stationed atop a lunar crescent, is a lotus with eight petals. \[In it is stationed\] he who is appointed as the overlord of obstacles by Acyuta himself.
+> One may meditate on the pentad or nonad of deities, Dharma etc., until Ananta. Thereafter, one may meditate on the One lotus enveloped by sattva. \[Then one worships Viṣvaksena\] between the northeastern and the northern directions or in a square yantra. It lacks doors and flanges (typical of other square yantra-s), and \[its periphery is\] marked with triple lines. Inside it, stationed atop a lunar crescent, is a lotus with eight petals. \[In it is stationed\] he who is appointed as the overlord of obstacles by Acyuta himself.
 
-The above rendering is faithful to that mentioned in the Pauṣkara, including some further details that are implicit in it and followed by mantravādin-s. The central mantra of Viṣvaksena is that specified in saṃdhya-bhāṣā in the Lakṣmītantra and made explicit in its gloss (rhūṃ vauṃ). In actual practice, it is inscribed by sādhaka-s in the central position occupied by Viṣvaksena (see below). There is also a strong conservation of the location for the worship of Viṣvaksena in different early Pāñcarātrika texts. For example, this is specified thus in the Lakṣṃī-tantra, chapter 38:
+The above rendering is faithful to that mentioned in the Pauṣkara, including some further details that are implicit in it and followed by mantravādin-s.  
+The central mantra of Viṣvaksena is that specified in saṃdhya-bhāṣā in the Lakṣmītantra and made explicit in its gloss (rhūṃ vauṃ).+++(5)+++  
+In actual practice, it is inscribed by sādhaka-s in the central position occupied by Viṣvaksena (see below).  
 
-soma-śaṃkara-diṅ-madhye kha-sthitaṃ saṃsmaret prabhum ।  
+There is also a strong conservation of the location for the worship of Viṣvaksena in different early Pāñcarātrika texts. For example, this is specified thus in the Lakṣṃī-tantra, chapter 38:
+
+> soma-śaṃkara-diṅ-madhye kha-sthitaṃ saṃsmaret prabhum ।  
 viṣvaksenam udārāṅgam āyāntaṃ gaganāntarāt ॥  
-One should meditate on the lord, stationed in the sky, between the northern and northeastern directions. Viṣvaksena of benefic body \[is visualized\] as coming from the sky.
+
+> One should meditate on the lord, stationed in the sky, between the northern and northeastern directions. Viṣvaksena of benefic body \[is visualized\] as coming from the sky.
 
 A similar account is given by the Jayākhya Saṃhitā in its 13th chapter describing the maṇḍala worship of Viṣṇu:  
-tryambakottara-digbhyāṃ tu madhyataḥ kha-sthitaṃ smaret ।  
-viṣvaksenaṃ dvijaśreṣṭha āyāntaṃ gaganāntarāt ॥
 
+> tryambakottara-digbhyāṃ tu  
+madhyataḥ kha-sthitaṃ smaret ।  
+viṣvaksenaṃ dvijaśreṣṭha  
+āyāntaṃ gaganāntarāt ॥
+
+## Visualization
 The visualization of Viṣvaksena (Pauṣkara, chapter 20):
 
-iṣṭvā hṛt-puṇḍarīke tu svāpekṣā-niṣkalātmakam ।  
-tam eva sakalatvena yātaṃ dhyātvā yajed bahiḥ ॥  
+> iṣṭvā hṛt-puṇḍarīke tu  
+svāpekṣā-niṣkalātmakam ।  
+tam eva sakalatvena  
+yātaṃ dhyātvā yajed bahiḥ ॥  
 nava-dūrvāṅkurābhaṃ ca tvīṣat pītala-kānti-dhṛt  
 catur-daṃṣṭraṃ catur-bāhuṃ catur-muṣkaṃ catur-gatim॥  
 pūrṇāṅgaṃ kesari-skandhaṃ pṛthūras-sthala-rājitam ।  
