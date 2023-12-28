@@ -241,10 +241,23 @@ tataḥ kuṇḍāt samutthāpya viṣvaksenaṃ yathā purā ।
 
 [![viShvaksena2](https://manasataramgini.files.wordpress.com/2023/12/vishvaksena2.jpg?w=640)](https://manasataramgini.files.wordpress.com/2023/12/vishvaksena2.jpg)
 
-A key point regarding Viṣvaksena’s iconography in the tāntrika texts is his apparently therianthropomorphic form. While some Vaiṣṇava-s closer to our times have conflated his iconography on occasions with that of Vināyaka (see below), it is clear from the old Pāñcarātrika texts that this was not the case for Viṣvaksena — he is never called Gajavaktra in these texts. Nevertheless, the above-cited saṃhitā-s are united in mentioning him as having four fangs suggestive of therocephaly. This is made more concrete in his most detailed iconography presented in the Pauṣkara. There, several explicit descriptors are provided, such as lion-shouldered, having a broad muzzle, ruddy hair, tawny locks, and long nails/claws. Taken together with him being four-fanged, it appears that the early Pāñcarātrika tantra-s conceived this god as having leonine aspects or being lion-faced. This therianthropomorphic form also suggests a thematic overlap with Nandin in the śaiva world, who was originally seen as being ape-headed. Like Nandin, Viṣvaksena is seen as the chief of the Gaṇarājeśvara-s of Viṣṇu’s hosts (see below). While these texts do not specify the iconography of Viṣvaksena’s wife, Puṣpadharā (the medieval Śrīvaiṣṇava scholar Vedānta-deśika call her Sūtravatī), her iconography is briefly specified by the Pādma-saṃhitā as being similar to that of Śrī (Kriyāpāda, chapter 22):
+## Therianthropomorphy
+A key point regarding Viṣvaksena’s iconography in the tāntrika texts is his apparently therianthropomorphic form.  
+While some Vaiṣṇava-s closer to our times have conflated his iconography on occasions with that of Vināyaka (see below), it is clear from the old Pāñcarātrika texts that this was not the case for Viṣvaksena — he is never called Gajavaktra in these texts.  
+Nevertheless, the above-cited saṃhitā-s are united in mentioning him as having four fangs suggestive of therocephaly.  
+This is made more concrete in his most detailed iconography presented in the Pauṣkara. There, several explicit descriptors are provided, such as lion-shouldered, having a broad muzzle, ruddy hair, tawny locks, and long nails/claws.  
+Taken together with him being four-fanged, it appears that the early Pāñcarātrika tantra-s conceived this god as having leonine aspects or being lion-faced.  
 
-devīṃ ca viṣvaksenasya vāmapārśve pratiṣṭhitām ।  
-nāmnā puṣpadharāṃ kuryāt kamalām iva lakṣitām ॥
+## Quasi-nandin
+This therianthropomorphic form also suggests a thematic overlap with Nandin in the śaiva world, who was originally seen as being ape-headed.  
+Like Nandin, Viṣvaksena is seen as the chief of the Gaṇarājeśvara-s of Viṣṇu’s hosts (see below). 
+
+While these texts do not specify the iconography of Viṣvaksena’s wife, Puṣpadharā (the medieval Śrīvaiṣṇava scholar Vedānta-deśika call her Sūtravatī), her iconography is briefly specified by the Pādma-saṃhitā as being similar to that of Śrī (Kriyāpāda, chapter 22):
+
+devīṃ ca viṣvaksenasya  
+vāmapārśve pratiṣṭhitām ।  
+nāmnā puṣpadharāṃ kuryāt  
+kamalām iva lakṣitām ॥
 
 The other Gaṇarājeśvara-s (Pauṣkara, chapter 20):
 
