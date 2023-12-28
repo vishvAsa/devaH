@@ -215,8 +215,10 @@ Having brought him close from the sky, the intelligent ritualist should invoke a
 wearing a yellow garment, with four fangs, displaying his own mudra; holding a mace and a sword.  
 Having then displayed the mudra-s of the aṅga-s and having gone close to the fire altar, he should thereafter, with devotion, make quenching offerings of sesame seeds and parched rice.  
 Then, with the \[Viṣvaksena\]-mantra ending with a vauṣaṭ, he should offer the final oblation. Having worshiped him in the maṇḍala, he should then perform his sendoff,  
-o lord of the gods (Indra, to whom Lakṣṃī is revealing the tantra), with his own mantra (Viṣvaksena) ending in the phrase “pardon me”. He should then display the mudra-s and visualize him as flying away into the sky. He should then discard the items used in the worship of Viṣvaksena in deep water. He then immerses the maṇḍala in water by muttering the astra incantation.
+o lord of the gods (Indra, to whom Lakṣṃī is revealing the tantra), with his own mantra (Viṣvaksena) ending in the phrase “pardon me”. He should then display the mudra-s and visualize him as flying away into the sky.  
+He should then discard the items used in the worship of Viṣvaksena in deep water. He then immerses the maṇḍala in water by muttering the astra incantation.
 
+### Jayākhya
 A similar ritual is provided in the Jayākhya Saṃhitā, chapter 14:
 
 tena bhāṇḍa-sthitenāpi samāhūyāmbarāntarāt ।  
