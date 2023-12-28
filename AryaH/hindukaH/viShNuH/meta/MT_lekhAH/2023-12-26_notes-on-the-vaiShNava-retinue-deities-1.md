@@ -139,6 +139,7 @@ viṣvaksenaṃ dvijaśreṣṭha
 āyāntaṃ gaganāntarāt ॥
 
 ## Visualization
+### Pauṣkara
 The visualization of Viṣvaksena (Pauṣkara, chapter 20):
 
 > iṣṭvā hṛt-puṇḍarīke tu  
@@ -176,9 +177,23 @@ rathāṅga-śaṅkha-hastaṃ ca lambamāna-gadādharam ।
 itthaṃ rūpadharaṃ devam anekādbhūta-vikramam ।  
 karṇikā-madhyagaṃ tasya hṛd-ādyāmukhya-mantravat ॥
 
-Having worshiped him in the heart-lotus, verily in his independent, undifferentiated form, visualizing him as having gone forth in his differentiated form, one may then worship him externally \[visualizing him thus:\] Having the complexion of newly-sprouted Durva grass tinted with a slight yellowish luster; having four fangs, four arms, four testes and four gaits; with a full body, lion-shoulders and flaunting a broad torso, endowed with a navel cavity bearing a clockwise spiral whorl; having arms reaching to his knees, opulent and bearing dread-locks with a tawny blaze; having eyes and chin like molten gold and with a broad muzzle; with an array of white, long nails, and with curved brows; with a pearl-decked necklace decorated with a great gem in the middle. He should be made to bear the auspicious Śrīvatsa on his right side. \[—corrupt+lacuna—\] in the midst of a lotus pond; with a two-fold ritual thread wound clockwise around the navel; with broad cheeks and face; with a form covered completely covered with ruddy hair of the color fresh kiṃśuka flowers; endowed with a beautiful, broad, well-stretched, and tall \[form\]; with two ears joined to ornaments of ruby; ornamented with a tall crown, garlands and the like; with eyes slightly upturned and cast obliquely; with teeth white as jasmine and the moon, and a face bearing a slight smile; though pacific and mild by nature, he displays the tint of mock anger. He stands with one foot stepping forth in a playful manner. He is seen as meditating upon the supreme state (Viṣṇu) as his inner consciousness. Having bent three of his creeper-like fingers from the thumb to the little finger, holding one erect, he unites it with his nose (This mudra might indicate prāṇāyāma). His other \[hand\] assumes the mudra of causing fear to the obstacles \[faced\] by the good. His hands hold a wheel, a conch and a mace hanging downwards; One of his arms rests on the side of the hip in a warning pose. One should worship the god with such a form with many a miraculous power in the midst of the pericarp \[of the lotus maṇḍala\].
+Having worshiped him in the heart-lotus, verily in his independent, undifferentiated form, visualizing him as having gone forth in his differentiated form, one may then worship him externally \[visualizing him thus:\] Having the complexion of newly-sprouted Durva grass tinted with a slight yellowish luster; having four fangs, four arms, four testes and four gaits;  
+with a full body, lion-shoulders and flaunting a broad torso, endowed with a navel cavity bearing a clockwise spiral whorl;  
+having arms reaching to his knees, opulent and bearing dread-locks with a tawny blaze; having eyes and chin like molten gold and with a broad muzzle;  
+with an array of white, long nails, and with curved brows; with a pearl-decked necklace decorated with a great gem in the middle.  
+He should be made to bear the auspicious Śrīvatsa on his right side. \[—corrupt+lacuna—\] in the midst of a lotus pond;  
+with a two-fold ritual thread wound clockwise around the navel; with broad cheeks and face; with a form covered completely covered with ruddy hair of the color fresh kiṃśuka flowers; endowed with a beautiful, broad, well-stretched, and tall \[form\];  
+with two ears joined to ornaments of ruby; ornamented with a tall crown, garlands and the like;  
+with eyes slightly upturned and cast obliquely; with teeth white as jasmine and the moon, and a face bearing a slight smile;  
+though pacific and mild by nature, he displays the tint of mock anger. He stands with one foot stepping forth in a playful manner.  
+He is seen as meditating upon the supreme state (Viṣṇu) as his inner consciousness.  
+Having bent three of his creeper-like fingers from the thumb to the little finger, holding one erect, he unites it with his nose (This mudra might indicate prāṇāyāma).  
+His other \[hand\] assumes the mudra of causing fear to the obstacles \[faced\] by the good. His hands hold a wheel, a conch and a mace hanging downwards; One of his arms rests on the side of the hip in a warning pose. One should worship the god with such a form with many a miraculous power in the midst of the pericarp \[of the lotus maṇḍala\].
 
-There are several parallels found in the much shorter description provided by the Lakṣṃī-tantra’s account of the daily Pāñcarātrika-homa-vidhi. Here, the ritualist sets aside some of the cooked rice for the offering and makes fire sacrifices to Viṣvaksena (Lakṣṃī-tantra, chapter 40):
+### Lakṣṃī-tantra
+There are several parallels found in the much shorter description provided by the Lakṣṃī-tantra’s account of the daily Pāñcarātrika-homa-vidhi.  
+Here, the ritualist sets aside some of the cooked rice for the offering  
+and makes fire sacrifices to Viṣvaksena (Lakṣṃī-tantra, chapter 40):
 
 prāg eva vibhajed annaṃ prāpaṇāt saṃpradānataḥ ।  
 tenānnena yajet samyag viṣvaksenaṃ caturbhujam ॥  
