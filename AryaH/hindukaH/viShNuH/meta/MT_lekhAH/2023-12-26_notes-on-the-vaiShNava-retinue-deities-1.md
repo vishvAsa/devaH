@@ -252,6 +252,7 @@ Taken together with him being four-fanged, it appears that the early Pāñcarāt
 This therianthropomorphic form also suggests a thematic overlap with Nandin in the śaiva world, who was originally seen as being ape-headed.  
 Like Nandin, Viṣvaksena is seen as the chief of the Gaṇarājeśvara-s of Viṣṇu’s hosts (see below). 
 
+## Puṣpadharā
 While these texts do not specify the iconography of Viṣvaksena’s wife, Puṣpadharā (the medieval Śrīvaiṣṇava scholar Vedānta-deśika call her Sūtravatī), her iconography is briefly specified by the Pādma-saṃhitā as being similar to that of Śrī (Kriyāpāda, chapter 22):
 
 devīṃ ca viṣvaksenasya  
@@ -259,6 +260,7 @@ vāmapārśve pratiṣṭhitām ।
 nāmnā puṣpadharāṃ kuryāt  
 kamalām iva lakṣitām ॥
 
+## Gaṇarājeśvara-s
 The other Gaṇarājeśvara-s (Pauṣkara, chapter 20):
 
 padmac-chadāntarasthāṃ ca tadā-karadyutiṃ vinā ।  
@@ -292,23 +294,78 @@ yat kiñcin maṇḍanaṃ vastu tadādyoktaṃ smaret triṣu ॥
 eteṣām arcanaṃ kuryāt svanāmnā praṇavādinā ।  
 namontenābja-saṃbhūta nānā-siddhi-phalāptaye ॥
 
-Within the bounds of the lotus \[maṇḍala\] and without the \[central\] radiance of rays (this part is unclear to us, but it apparently refers to the petals of the yantra outside the central region where the radiance of Viṣvaksena is situated) but with all limbs \[aṅga mantra-s\] the meditation of the retinue gods is specified, colored white etc (mantravādin-s state that these are white, red, yellow and black). Gajānana, Jayatsena, Harivaktra and Kālaprakṛti of great might, these together are known as the tetrad, o lotus-born one. These four king-lords of the gaṇa-s \[of Viṣṇu\] of fierce forms attend to \[Viṣvaksena’s\] orders, with good white yak-tail fly-whisks held aloft. Then there are Vināyaka, etc., those who have Vighneśa as their chief, ever obedient to the orders of those lords of the gaṇa-s (The aforesaid tetrad of Gaṇarājeśvara-s). These should be placed in the Northwest etc corners (i.e., at the interstitial directions) outside the lotus. They should look towards their \[respective gaṇa\] lord, adopting a stance equivalent to them. Their hands are equipped with the same implements, but they do not display any mudra. Please pay attention \[now\] to the visualization of the embodied forms assumed by each \[Gaṇarājeśvara\]. With the face of a terrible elephant-lord, with four tusks and three eyes, having a neck \[smooth as a\] shell, with four arms and the radiance of a 10,000 full moons; ornamented with garlands, anklets, armlets, a girdle and a necklace; decorated with various garlands, perfumes and vestures, and having unequaled valor; thus, one should meditate on Gajānana. Jayatsena should be visualized with a great horse-face, the radiance of a ruby mountain, with eyes like molten gold, endowed with many miraculous powers. Then one meditates on Harivaktra with a head strewn with manes, resembling heated gold and roaring like a terrible musical instrument (gharghara is an old Indo-Aryan musical instrument accompanying Vedic recitations and singing). O vipra, he has the face of the kings of the animals and the velocity of the wind at the end of the kalpa. He, Kālaprakṛti by name, should be visualized as \[resembling\] a mountain of collyrium; with a terrifying face displaying fangs; with tawny mustache and eyes; wearing shark-earrings, fierce and having a fish-like deep snout. O vipra, all these king-lords of the gaṇa-s possess all the marks of the great persons from the feet to their necks. Whatever item of ornamentation was described for the first (Gajavaktra) should also be visualized for the \[other\] three. O lotus-born one, the worship of all these should be performed with their respective names starting with the praṇava and ending in ‘namaḥ’ for the attainment of various siddhi-s.
+Within the bounds of the lotus \[maṇḍala\] and without the \[central\] radiance of rays (this part is unclear to us, but it apparently refers to the petals of the yantra outside the central region where the radiance of Viṣvaksena is situated) but with all limbs \[aṅga mantra-s\] the meditation of the retinue gods is specified, colored white etc (mantravādin-s state that these are white, red, yellow and black).  
+Gajānana, Jayatsena, Harivaktra and Kālaprakṛti of great might, these together are known as the tetrad, o lotus-born one. 
+These four king-lords of the gaṇa-s \[of Viṣṇu\] of fierce forms attend to \[Viṣvaksena’s\] orders, with good white yak-tail fly-whisks held aloft.  
+Then there are Vināyaka, etc., those who have Vighneśa as their chief, ever obedient to the orders of those lords of the gaṇa-s (The aforesaid tetrad of Gaṇarājeśvara-s).  
+These should be placed in the Northwest etc corners (i.e., at the interstitial directions) outside the lotus.  
+They should look towards their \[respective gaṇa\] lord, adopting a stance equivalent to them. Their hands are equipped with the same implements, but they do not display any mudra. Please pay attention \[now\] to the visualization of the embodied forms assumed by each \[Gaṇarājeśvara\].  
+With the face of a terrible elephant-lord, with four tusks and three eyes, having a neck \[smooth as a\] shell, with four arms and the radiance of a 10,000 full moons;  
+ornamented with garlands, anklets, armlets, a girdle and a necklace; decorated with various garlands, perfumes and vestures, and having unequaled valor;  
+thus, one should meditate on Gajānana.  
+Jayatsena should be visualized with a great horse-face, the radiance of a ruby mountain,  
+with eyes like molten gold, endowed with many miraculous powers. Then one meditates on Harivaktra with a head strewn with manes,  
+resembling heated gold and roaring like a terrible musical instrument (gharghara is an old Indo-Aryan musical instrument accompanying Vedic recitations and singing). O vipra, he has the face of the kings of the animals and the velocity of the wind at the end of the kalpa.  
+He, Kālaprakṛti by name, should be visualized as \[resembling\] a mountain of collyrium; with a terrifying face displaying fangs; with tawny mustache and eyes;  
+wearing shark-earrings, fierce and having a fish-like deep snout. O vipra, all these king-lords of the gaṇa-s possess all the marks of the great persons from the feet to their necks.  
+Whatever item of ornamentation was described for the first (Gajavaktra) should also be visualized for the \[other\] three.  
+O lotus-born one, the worship of all these should be performed with their respective names starting with the praṇava and ending in ‘namaḥ’ for the attainment of various siddhi-s.
 
+## shaiva-mapping
 There are multiple remarkable features regarding these Gaṇarājeśvara-s:  
-1. Their names indicate a clear mapping onto their śaiva counterparts. Gajavaktra (Elephant-faced)= Gaṇeśa; Jayatsena (Conquering Army)= Skanda; Harivaktra (Lion-faced)= Haribhadra/Vīrabhadra; Kālaprakṛti= Mahākāla. In terms of iconography, that of Gajavaktra is transparently equivalent to that of Gaṇeśa. While the name of Jayatsena is an obvious match for Skanda, his hippocephalous morphology is a stark deviation from that of the latter and appears to be an attempt to capture some of the preexisting, ancient Vaiṣṇava iconography of Hayagrīva. While the later iconography of Vīrabhadra lost the leonine visage, that idiosyncrasy mentioned in the early texts (Haribhadra; e.g., the Proto-Skandapurāṇa) persisted in the classic Rudra-parivāra icons from Nepal. As for Kālaprakṛti, he retains, in the least, the complexion of Mahākāla. Given that these deities have deep roots in the śaiva tradition, unlike the sudden appearance of their counterparts in the Vaiṣṇava tradition, one may posit that they were pantheonic duplications to mirror their counterparts in the former tradition.
 
-2\. As noted above, in most old saṃhitā-s Viṣvaksena is presented as iconographically distinct from Gaṇeśa. Viṣvaksena shares the function of the remover of obstacles with Gaṇeśa. Nevertheless, multiple Vaiṣṇava tantra-s emphasize his distinctness from the latter and provide separate accounts of the worship of each of them (e.g., Jayākhya, Pauṣkara, Lakśmī). In the Pādma-saṃhitā, his iconography is provided thus (Kriyāpāda, chapter 22):
+1\. Their names indicate a clear mapping onto their śaiva counterparts.  
+Gajavaktra (Elephant-faced)= Gaṇeśa;  
+Jayatsena (Conquering Army)= Skanda; 
+Harivaktra (Lion-faced)= Haribhadra/Vīrabhadra;  
+Kālaprakṛti= Mahākāla.  
+In terms of iconography, that of Gajavaktra is transparently equivalent to that of Gaṇeśa. 
+While the name of Jayatsena is an obvious match for Skanda,  
+his hippocephalous morphology is a stark deviation from that of the latter  
+and appears to be an attempt to capture some of the preexisting, ancient Vaiṣṇava iconography of Hayagrīva.  
+While the later iconography of Vīrabhadra lost the leonine visage,  
+that idiosyncrasy mentioned in the early texts (Haribhadra; e.g., the Proto-Skandapurāṇa) persisted in the classic Rudra-parivāra icons from Nepal.  
+As for Kālaprakṛti, he retains, in the least, the complexion of Mahākāla.  
+   
+Given that these deities have deep roots in the śaiva tradition,  
+unlike the sudden appearance of their counterparts in the Vaiṣṇava tradition,  
+one may posit that they were pantheonic duplications to mirror their counterparts in the former tradition.
 
-viṣvaksenaṃ caturbāhuṃ śyāmavarṇaṃ kirīṭinam ।  
-lambodaraṃ ca mukhyena kareṇābhayadhāriṇam ॥
+2\. As noted above,  
+in most old saṃhitā-s Viṣvaksena is presented as iconographically distinct from Gaṇeśa.  
+Viṣvaksena shares the function of the remover of obstacles with Gaṇeśa.  
+Nevertheless, multiple Vaiṣṇava tantra-s emphasize his distinctness from the latter  
+and provide separate accounts of the worship of each of them (e.g., Jayākhya, Pauṣkara, Lakśmī). 
+In the Pādma-saṃhitā, his iconography is provided thus (Kriyāpāda, chapter 22):
 
-Thus, he shares the lambodara feature with Vināyaka; however, even here, he is not described as Gajavaktra and the iconography of Vināyaka is expounded separately from him:
+> viṣvaksenaṃ caturbāhuṃ  
+śyāma-varṇaṃ kirīṭinam ।  
+lambodaraṃ ca mukhyena  
+kareṇābhaya-dhāriṇam ॥
 
-gajānanaṃ caturbāhuṃ lambakuṣiṃ sitaprabham ।  
-karaṇḍikā-mukuṭinaṃ lamba-yajñopavītinam ॥
+Thus, he shares the lambodara feature with Vināyaka;  
+however, even here, he is not described as Gajavaktra and the iconography of Vināyaka is expounded separately from him:
 
-These again point to pantheonic duplication rather than a simple replacement of Vināyaka by Viṣvaksena. The presentation of Viṣvaksena in the midst of 4 Vināyaka-s in the Pauṣkara mirrors the depiction of Skanda in the midst of the same in the old Kaumāra tantra, the Ṣaṇmukha-kalpa. Further, as the commander of Viṣṇu’s hosts, and in the very form of his name (whose army is everywhere), Viṣvaksena takes on certain features of Kumāra.
+> gajānanaṃ catur-bāhuṃ  
+lambakuṣiṃ sitaprabham ।  
+karaṇḍikā-mukuṭinaṃ  
+lamba-yajñopavītinam ॥
 
-3\. The account of the 4 Vināyaka-s in the Pauṣkara has some unclear points. First, all their names are not specified in this text. Practicing mantravādin-s give them as Vināyaka, Vighneśa, Pravara and Gaṇanātha. These four names are derived from the above text, but they are not used in that sense in the text. Second, they are said to be stationed outside the lotus of the yantra. Given that the lotus has 8 petals, with Viṣvaksena in the pericarp, and the Gaṇarājeśvara-s in the 4 petals of the cardinal directions, we are still left with 4 more petals. Some mantravādin-s logically place the 4 Vināyaka-s in those petals contrary to the account in the text.
+These again point to pantheonic duplication rather than a simple replacement of Vināyaka by Viṣvaksena. The presentation of Viṣvaksena in the midst of 4 Vināyaka-s in the Pauṣkara  
+mirrors the depiction of Skanda in the midst of the same in the old Kaumāra tantra, the Ṣaṇmukha-kalpa.  
+Further, as the commander of Viṣṇu’s hosts, and in the very form of his name (whose army is everywhere),  
+Viṣvaksena takes on certain features of Kumāra.
 
-Thus, the convergence between the retinues of the Rudra and Viṣṇu in the Tantric texts presents some of the same features seen more broadly in the course of the evolution of natural religions, especially the Indo-European religion. While we see strong ritual-category convergence (Nirmālya-devatā-s), their nature in terms of divine functionality shows a more diffuse overlap with the deities from the pantheons of other sects.
+3\. The account of the 4 Vināyaka-s in the Pauṣkara has some unclear points.  
+First, all their names are not specified in this text.  
+Practicing mantravādin-s give them as  
+Vināyaka, Vighneśa, Pravara and Gaṇanātha.  
+These four names are derived from the above text, but they are not used in that sense in the text.  
+Second, they are said to be stationed outside the lotus of the yantra.  
+Given that the lotus has 8 petals, with Viṣvaksena in the pericarp, and the Gaṇarājeśvara-s in the 4 petals of the cardinal directions, we are still left with 4 more petals. Some mantravādin-s logically place the 4 Vināyaka-s in those petals contrary to the account in the text.+++(4)+++
+
+Thus, the convergence between the retinues of the Rudra and Viṣṇu in the Tantric texts  
+presents some of the same features seen more broadly in the course of the evolution of natural religions,  
+especially the Indo-European religion.  
+While we see strong ritual-category convergence (Nirmālya-devatā-s),  
+their nature in terms of divine functionality shows a more diffuse overlap with the deities from the pantheons of other sects.
