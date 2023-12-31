@@ -17,5 +17,7 @@ unicode_script: devanagari
 
 
 
-## विनियोगः
+<details><summary>विनियोगः (द्रष्टुं नोद्यम्)</summary>
+
 अनुगतस्यौपासनाग्नेस् समाधानमन्त्रः।
+</details>
