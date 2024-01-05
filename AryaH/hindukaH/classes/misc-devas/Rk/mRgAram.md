@@ -8,7 +8,7 @@ title: अग्नेर्मन्वे
 unicode_script: devanagari
 
 ---
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/4/7/15_agner_manve_mRgAram/">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/">
 <details open><summary><h2>अग्नेर्मन्वे ...{Loading}...</h2></summary>
 
 ### अग्निः
