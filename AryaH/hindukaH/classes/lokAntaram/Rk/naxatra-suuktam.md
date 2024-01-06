@@ -3,7 +3,7 @@ title: नक्षत्रसूक्तम्
 unicode_script: devanagari
 
 ---
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/3/1/01/">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/3/1_naxatra-sUktam/01/">
 <details open><summary><h5>०१ नक्षत्रसूक्तम् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-टिप्पनी</summary>
 
@@ -1324,7 +1324,7 @@ Corvus- α , β , γ , δ , ε Corvi.
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/3/1/02/">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/3/1_naxatra-sUktam/02/">
 <details open><summary><h5>०२ ...{Loading}...</h5></summary>
 
 
