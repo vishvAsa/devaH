@@ -22,6 +22,7 @@ unicode_script: devanagari
 ता न॒ आप॒श् शꣳ स्यो॒ना भ॑वन्तु ।
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/12_yAsAn_devA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
