@@ -5,7 +5,7 @@ title: चक्षुषो हेते
 unicode_script: devanagari
 
 ---
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/4/aMshAH/2_chaxuSho_hete">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/4/2_01-09_chaxuSho_hete">
 <details open><summary><h2>चक्षुषो हेते ...{Loading}...</h2></summary>
 
 ### मेनिवारणम्
