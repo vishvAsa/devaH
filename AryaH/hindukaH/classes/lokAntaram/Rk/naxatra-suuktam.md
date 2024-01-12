@@ -1582,8 +1582,6 @@ Corvus- α , β , γ , δ , ε Corvi.
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/2/07_yA_divyA.md">
 <details open><summary><h7>07 या दिव्या ...{Loading}...</h7></summary>
 
-
-
 या दि॒व्या आपᳶ॒ पय॑सा सम्बभू॒वुः+++(=आकाशगङ्गा पार्श्वे वर्तमाना)+++। +++(मेघादिरूपा)+++ या अ॒न्तरि॑क्ष उ॒त +++(नद्यादिषु)+++ पार्थि॑वी॒र् याः।  
 यासा॑म् अषा॒ढा अ॑नु॒यन्ति॒ काम॑म्। ता न॒ आपः॒ शꣳ स्यो॒ना +++(=सुखहेतवः)+++ भ॑वन्तु।  
 
