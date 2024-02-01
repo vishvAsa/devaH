@@ -674,7 +674,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 
 उप॑हूताᳶ पि॒तरो॒ ये म॒घासु॑ । मनो॑जवसस् सु॒कृत॑स् सुकृ॒त्याः।  
-ते नो॒ नक्ष॑त्रे॒ हव॒म् आग॑मिष्ठाः। स्व॒धाभिर् यज्ञम् प्रय॑तञ् जुषन्ताम्।  
+ते नो॒ नक्ष॑त्रे॒ हव॒म् आग॑मिष्ठाः। स्व॒धाभि॑र् य॒ज्ञम् प्रय॑तञ् जुषन्ताम्।  
 
 </details>
 </div>
@@ -729,7 +729,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 
 
-{पि॒तृभ्यः॒ स्वाहा॑ म॒घाभ्यः॑ स्वाह ा॑ऽन॒घाभ्यः॒ स्वाहा॑  
+{पि॒तृभ्यः॒ स्वाहा॑ म॒घाभ्यः॑ स्वाहा॑ऽन॒घाभ्यः॒ स्वाहा॑  
 अग॒दाभ्यः॑ स्वाहा॑ ऽरुन्ध॒तीभ्यः॒ स्वाहा॑।}
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/08_maghAH/">
@@ -896,8 +896,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 
 
-{भगा॑य॒ स्वाहा॒ फल्गु॑नीभ्या॒ꣳ॒ स्वाहा॑।  
-श्रेष्टाया॑य॒ स्वाहा॑।}
+{भगा॑य॒ स्वाहा॒ फल्गु॑नीभ्या॒ꣳ॒ स्वाहा᳚ । श्रैष्ठ्या॑य॒ स्वाहा᳚}
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/10_phAlgunyaH/">
 <details open><summary><h10>१० फाल्गुन्यः ...{Loading}...</h10></summary>
@@ -920,7 +919,7 @@ Denebola - β, 93 Leonis
 <details open><summary><h7>21 आयातु देवस्सवितोपयातु ...{Loading}...</h7></summary>
 
 
-आया॒तु दे॒वस् **स॑वि॒तोप॑यातु**। हि॒र॒ण्यये॑न सु॒वृता॒ रथे॒न।  
+आया॒तु दे॒वस् **स॑वि॒तोप॑यातु**। हि॒र॒ण्यये॑न सु॒वृता॒ रथे॑न।  
 **वह॒न्॒** हस्तꣳ॑ सु॒भग॑व्ँ विद्म॒नाप॑सम् +++(=विदितकर्मणा युक्तम्)+++। **प्र॒यच्छ॑न्त॒म्** पपु॑रि॒म् +++(=पूरयितारम्)+++ पुण्य॒म् अच्छ॑ +++(=अभिमुखं वर्तमानम्)+++।
 
 </details>
@@ -980,8 +979,8 @@ Denebola - β, 93 Leonis
 
 
 
-{स॒वि॒त्रेस्वाहा॒ हस्ता॑य स्वाहा॑  
-ऽऽदद॒ते स्वाहा॑ पृण॒ते स्वाहा॑  
+{स॒वि॒त्रे स्वाहा॒ हस्ता॑य स्वाहा॑  
+दद॒ते स्वाहा॑ पृण॒ते स्वाहा॑  
 प्र॒यच्छ॑ते॒ स्वाहा॑ प्रतिगृभ्ण॒ते स्वाहा॑।}
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/11_hastaH/">
