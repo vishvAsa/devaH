@@ -1,6 +1,10 @@
 +++
-title = "+रुद्राः"
+title = "+रुद्राः भैरवाश्च"
 unicode_script = "devanagari"
 +++
 
-- ११ एते । 
+- ११ रुद्राः । 
+
+
+## भैरवाः
+- vaTuka a bhairavized ectype of skanda
