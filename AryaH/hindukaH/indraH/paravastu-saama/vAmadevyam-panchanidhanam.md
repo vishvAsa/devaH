@@ -42,7 +42,7 @@ unicode_script = "devanagari"
   - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n51/mode/2up)
   - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
 
-- <div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/vAmadevyam-panchanidhanam.mp3"></div>
+<div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/vAmadevyam-panchanidhanam.mp3"></div>
   - इहियाअ इत्यस्मिन्न् इकारः क्वचिल्लुप्तः, क्वचिद् आकारेण मिश्रित ऐकारं जनयति।
   - शचाइष्ठाआ इत्यस्मिन् ष्ठाकारपूर्व आकारो न श्रूयते।
 
