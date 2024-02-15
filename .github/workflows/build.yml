@@ -53,7 +53,6 @@ jobs:
       uses: tj-actions/changed-files@v41
     - name: Update submodules
       id: update_submods
-      if: ${{ steps.changed-files.conclusion == 'skipped' || (!contains(steps.changed-files.outputs.all_changed_files, 'content') ) }}
       run: |
         set -o xtrace
         git submodule update  --init --recursive
