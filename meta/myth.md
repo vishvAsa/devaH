@@ -9,7 +9,6 @@ title: Myths
 
 ### Implications
 - The nature of myths easily implies non-absoluteness/ non-literalness of texts (../More in the [bases/books page](../../bases/books/non-absoluteness/)).
-- Divergence from abrahamisms, which are more "history" centric.
 
 ## Benefits
 - These stories intend to teach us other things, such as
@@ -57,6 +56,15 @@ Some practitioners who might regard the Gods as non-living or merely metaphorica
 > I don’t believe anyone believes in a one-eyed man who is riding about on a horse with eight feet,” Hilmar Örn Hilmarsson, told Reuters. “We see the stories as poetic metaphors and a manifestation of the forces of nature and human psychology.” ... The priest said the gods are viewed as mystical and symbolic. Most modern worshipers don’t consider them to be living beings that are capable of flying down from the clouds. ... The Asatru religion might describe itself as poetic--but if some Christians, especially those in the Western hemisphere, were to take a literal look at the new altar to pagan gods they might consider it satanic.
 >
 > (The high priest of Ásatrúarfélagið, the norse temple in [DailyBeast](http://www.thedailybeast.com/articles/2015/02/05/why-iceland-is-building-a-temple-to-its-pagan-gods.html))
+
+## Contrasts
+
+> we are no different than people in the West who make religion out of Harry Potter or the Jedi from Star Wars.
+
+- आर्यपरिगृहीतत्वे हि भेदः ।
+- पुनः, देव-प्रेरितत्वे, आर्षप्रणीतत्वे च भेदः।
+
+Note divergence from abrahamisms, which are more "history" centric.
 
 ## Proving myths fallacy
 Despite this, some modern Hindu scholars have tried too hard "prove" myths as facts. 
