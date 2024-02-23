@@ -8,7 +8,7 @@ title: Myths
 - At the same time, the hindu need not let questions like "How can monkeys talk?" hinder his enjoyment of the rAmAyaNa epics or his observance of [rAmanavamI](http://en.wikipedia.org/wiki/Rama_Navami) rituals. The wise should know what the Gods and sages intend to communicate in the language of myth.
 
 ### Implications
-- The nature of myths easily implies non-absoluteness/ non-literalness of texts (../More in the [bases/books page](../../bases/books/non-absoluteness/)).
+- The nature of myths easily implies non-absoluteness/ non-literalness of texts (More in the [bases/books page](/AgamaH/AryaH/hinduism/sAmya-vaiShamye/bases)).
 
 ## Benefits
 - These stories intend to teach us other things, such as
