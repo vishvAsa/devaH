@@ -3,9 +3,9 @@ title: Myths
 ---
 
 ## Summary
-- The particular stories of deva-s (such as battles with asura-s) are not to be taken literally, according to the veda-s themselves (eg: [shatapatha-brAhmaNa asura-parAbhava part in 11.1.6.8-10](/vedAH_yajuH/vAjasaneyam/mAdhyandinam/shatapatha-brAhmaNam/sarva-prastutiH/11/01/6/)).
+- The particular stories of deva-s (such as battles with asura-s) are not to be taken literally, according to the veda-s and upaniShats themselves.
 - To derive benefits from the deva-s, one does not need epistemological belief in peripheral things like reincarnation, flying yogi-s, texts composing themselves, deities proffering boons and the like.
-- At the same time, the hindu need not let questions like "How can monkeys talk?" hinder his enjoyment of the rAmAyaNa epics or his observance of [rAmanavamI](http://en.wikipedia.org/wiki/Rama_Navami) rituals. The wise should know what the Gods intend to communicate in the language of myth.
+- At the same time, the hindu need not let questions like "How can monkeys talk?" hinder his enjoyment of the rAmAyaNa epics or his observance of [rAmanavamI](http://en.wikipedia.org/wiki/Rama_Navami) rituals. The wise should know what the Gods and sages intend to communicate in the language of myth.
 
 ### Implications
 - The nature of myths easily implies non-absoluteness/ non-literalness of texts (../More in the [bases/books page](../../bases/books/non-absoluteness/)).
@@ -39,6 +39,7 @@ title: Myths
 dhArmika traditions comfortably got along without needing to read these as literal facts. (Eg. The concept of arthavAda.)
 
 - [shatapatha-brAhmaNa asura-parAbhava part in 11.1.6.8-10](/vedAH_yajuH/vAjasaneyam/mAdhyandinam/shatapatha-brAhmaNam/sarva-prastutiH/11/01/6/)
+- Also see rAma-tApiny-upaniShad above.
 - There are many mythic elements in the purANa-s and the itihAsa-s, which guard against them being taken too literally (as more than allegories). The very nature of the hindu deities (multiple arms, animal heads etc..) ensure that they are not taken as literal statements of fact.
 - The concept of arthavAda was used in pUrva-mImAmsa to understand tales in the Veda-s, itihAsa-s and purANa-s as stories used to encourage dhArmika practice, rather than as history. However, they held that the veda-s are eternal expression of the divine order and that Vedic injunction is the sole means of knowing dharma. \[[AL01](http://www.advaita-vedanta.org/archives/advaita-l/2004-September/013449.html), [shabara-kumArIla-gangAdhara](https://archive.org/stream/slokavartika015341mbp#page/n429/mode/2up) \]
   - This concept has been used by several later traditions as well.
