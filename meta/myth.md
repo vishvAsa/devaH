@@ -46,7 +46,7 @@ dhArmika traditions comfortably got along without needing to read these as liter
 
 ## Comparable attitudes
 
-- Sallustius's extremely beneficial view is [excerpted here](../../darshanam/platonism/sallustius/).
+- Sallustius's extremely beneficial view is [excerpted here](/AgamaH/AryaH/mediterranian/platonism/sallustius).
 
 Some practitioners who might regard the Gods as non-living or merely metaphorical share this attitude. (It would be a fallacy though to think that everyone who does not take myths literally does not consider the Gods true or real in a more substantial sense).
 
