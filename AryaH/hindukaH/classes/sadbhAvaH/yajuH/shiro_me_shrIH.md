@@ -164,7 +164,7 @@ unicode_script: devanagari
 </details>
 <details><summary>मूलम्</summary>
 
-सुश्लो॒काँ (4) सुम॑ङ्ग॒लाँ (4) सत्य॑रा॒जा ३न् ।  
+सुश्लो॒काँ (4) सुम॑ङ्ग॒लाँ (4) सत्य॑रा॒जा३न् ।  
 </details>
 <details><summary>सायण-टीका</summary>
 
