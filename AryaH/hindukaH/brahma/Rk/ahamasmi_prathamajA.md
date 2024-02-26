@@ -9,7 +9,7 @@ tags:
 title: अहमस्मि प्रत्यमजाः
 
 ---
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/8/8_01-08_ahamasmi_prathamajA">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA">
 <details open><summary><h5>८ ०१ अहमस्मि प्रथमजा ...{Loading}...</h5></summary>
 <details><summary>सायणोक्त-विनियोगः</summary>
 

@@ -5,7 +5,7 @@ title: नासदासीत्
 unicode_script: devanagari
 
 ---
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/8/9_08-16_nAsadIyam">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/9_08-16_nAsadIyam">
 <details open><summary><h5>९ ०८-१६ नासदीयम् ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129_nAsadIyam/">
 <details open><summary><h7>१२५ नासदीयम् ...{Loading}...</h7></summary>
