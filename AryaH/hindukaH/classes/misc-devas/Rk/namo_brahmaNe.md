@@ -3,7 +3,7 @@ title: नमो ब्रह्मणे
 unicode_script: devanagari
 
 ---
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/02/namo_brahmaNe.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/02_svAdhyAya-brAhmaNAdi/namo_brahmaNe.md">
 <details open><summary><h2>नमो ब्रह्मणे ...{Loading}...</h2></summary>
 
 (ॐ)  
