@@ -5,7 +5,7 @@ unicode_script = "devanagari"
 +++
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/01_11_jAtavedase_sunavAma_taittirIyakam/">
-<details open><summary><h2>जातवेदसे सुनवाम (तैत्तिरीयकम्) ...{Loading}...</h2></summary>
+<details open><summary><h2>०१ ११ जातवेदसे सुनवाम (तैत्तिरीयकम्) ...{Loading}...</h2></summary>
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 सायण-टीका [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_036_Taittiriya_Aranyakam_With_Sayana_Bhashya_Part_2_-_Babasastri_Phadke_1927#page/n361/mode/2up)। भास्करपाठो [ऽत्र](https://archive.org/details/taittiriya/taittiriya_aranyaka_bhaskara_02/page/n101/mode/2up?view=theater) ।
@@ -89,15 +89,15 @@ unicode_script = "devanagari"
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######### Strata
+############## Strata
 Cretic
 
-######### Pāda-label
+############## Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######### Morph
+############## Morph
 durgáhā ← durgáha- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -249,7 +249,7 @@ tanū́nām ← tanū́- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-######## English translation:
+############# English translation:
 
 “You convey us, **Jātavedas**, across all intolerable evils, as (people are carried) over a river by a boat; **Agni**, who are glorified by us with reverence, such as (that shown) by **Atri**, know yourself the protector of our person ns.”
 </details>
@@ -368,7 +368,7 @@ O Wesenkenner fahr uns über alle Gefahr und Noth wie übers Meer mit Schiffen; 
 गोभि॒र् जुष्ट॑म् +++(उद्दिश्य)+++, +++(पापेन)+++ अ॒युजो॒, निषि॑क्तं॒ +++(चोद्दिश्य)+++  
 तवे॑॑न्द्र॒+++(←स्वरः परिष्कृतः)+++ विष्णो॒र्+++(=व्यापकस्य)+++ अनु॒ सञ्च॑रेम।  
 नाक॑स्य पृ॒ष्ठम् अ॒भि सं॒वसा॑नो॒  
-वैष्ण॑वीं +++(मां)+++ लो॒क+++(य्)+++ इ॒ह +++(भवन्तो)+++ मा॑दयन्ताम्॥
+वैष्ण॑वीं +++(यथा तथा)+++ लो॒क+++(य्)+++ इ॒ह +++(भवन्तो)+++ मा॑दयन्ताम्॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_11_jAtavedase_sunavAma_taittirIyakam/14_gobhir_juShTam.md">

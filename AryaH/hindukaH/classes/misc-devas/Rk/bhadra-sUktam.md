@@ -8,10 +8,10 @@ unicode_script = "devanagari"
 <details open><summary><h2>भद्रसूक्तम् ...{Loading}...</h2></summary>
 
 
-### परिचयः
+#### परिचयः
 - कठमन्त्रपाठात् प्रायेण। मानसतरङ्गिणीकारो [ऽत्र](https://manasataramgini.wordpress.com/2019/02/10/notes-on-the-bhadra-sukta-a-hymn-for-felicity-to-the-vedic-pantheon/) ।
 
-### पाठः
+#### पाठः
 भद्रो नो अग्निः सुहवो विभावसुर्  
 भद्र इन्द्रः पुरुहूतः पुरुष्टुतः ।   
 भद्रः सूर्य उरुचक्षा उरुव्यचा  

@@ -16,7 +16,7 @@ Original R^ivedic version is often termed the kAshmIra-pATha because it appears 
 </details>
 
 
-### द्राविडपाठः
+#### द्राविडपाठः
 <details><summary>परिचयः</summary>
 
 > This pAtha is from the book 'yAjusha mantra ratnakaram' in grantha script, re-printed by Sri Krishnamurti Shastrigal.  
@@ -40,7 +40,7 @@ Original R^ivedic version is often termed the kAshmIra-pATha because it appears 
 प॒द्मे॒स्थि॒तां प॒द्मव॑र्णां ताम् इ॒होप॑ह्वये॒ श्रिय॑॑म्।  
 
 च॒न्द्रां प्र॑भा॒सां य॒शसा॒+++(स्वरः?)+++ ज्वल॑न्तीं॒ श्रियं॑ लो॒के दे॒वजु॑ष्टाम् उदा॒राम्।  
-तां प॒द्मिनी॑म् ईं॒ शर॑णम् अ॒हं प्रप॑द्ये ऽल॒क्ष्मीर् मे॑ नश्यतां॒ त्वां वृ॑णे।  
+तां प॒द्मिनी॑मीं॒ शर॑णम् अ॒हं प्रप॑द्ये ऽल॒क्ष्मीर् मे॑ नश्यतां॒ त्वां वृ॑णे।  
 
 आ॒दि॒त्यव॑र्णे॒ तप॒सो ऽधि॑जा॒तो वन॒स्पति॒स् तव॑ वृ॒क्षो ऽथ बि॒ल्वः।  
 तस्य॒ फला॑नि॒ तप॒साऽऽनु॑दन्तु मा॒यान्त॑रा॒याश् च॑ बा॒ह्या अ॑ल॒क्ष्मीः।  
@@ -91,7 +91,7 @@ Original R^ivedic version is often termed the kAshmIra-pATha because it appears 
 तन्नो॑ लक्ष्मीः प्रचो॒दया॑त् ।।
 )
 
-### काशीकर-पाठः
+#### काशीकर-पाठः
 <details><summary>विश्वास-टिप्पनी</summary>
 
 क्वचित् स्वरः सन्देहास्पदम्। उदात्त एव दर्शितः।

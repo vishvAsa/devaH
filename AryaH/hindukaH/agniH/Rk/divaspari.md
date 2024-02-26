@@ -11,7 +11,7 @@ unicode_script: devanagari
 
 इह +ऋतयोनेः खल्वग्नेर् जन्मानि ध्यायन्ते।
 
-### त्रेधा जन्म  
+#### त्रेधा जन्म  
 
 {{< figure src="/devaH/AryaH/hindukaH/agniH/images/lightning.jpg" class="thumbnail">}}  
 दि॒वस् परि॑ प्रथ॒मं ज॑ज्ञे अ॒ग्निर्  
@@ -21,7 +21,7 @@ unicode_script: devanagari
 तृ॒तीय॑म् अ॒प्सु नृ॒मणा॒ अज॑स्र॒म्  
 इन्धा॑न एनं जरते +++(=स्तौति)+++ स्वा॒धीः ।  
 
-### त्रेधा रूपाणि  
+#### त्रेधा रूपाणि  
 {{< figure src="/devaH/AryaH/hindukaH/agniH/images/lightning.jpg" class="thumbnail">}}  
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/02_vidmA_te.md">
@@ -49,8 +49,8 @@ unicode_script: devanagari
 </details>
 </div>
 
-### लोके क्व दृश्यते?
-#### दवानलः  
+#### लोके क्व दृश्यते?
+##### दवानलः  
 {{< figure src="/devaH/AryaH/hindukaH/agniH/images/forest-fire.jpg" class="thumbnail">}}  
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/04_akrandadagniH_stanayanniva.md">
 <details open><summary><h4>०४ अक्रन्ददग्निः स्तनयन्निव ...{Loading}...</h4></summary>
@@ -64,7 +64,7 @@ unicode_script: devanagari
 </details>
 </div>
 
-#### कुण्डस्थः
+##### कुण्डस्थः
 {{< figure src="/devaH/AryaH/hindukaH/agniH/images/agni-with-pillar-of-smoke-above.jpg" class="thumbnail">}}  
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/07_ushikpAvako_aratiH.md">
 <details open><summary><h4>०७ उशिक्पावको अरतिः ...{Loading}...</h4></summary>
@@ -77,7 +77,7 @@ unicode_script: devanagari
 </details>
 </div>
 
-#### ज्वालामुखी  
+##### ज्वालामुखी  
 {{< figure src="/devaH/AryaH/hindukaH/agniH/images/mud-volcano.jpg" title="Mud volcanoes" class="thumbnail">}}[!](https://en.wikipedia.org/wiki/Mud_volcanoes_in_Azerbaijan)  
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/06_vishvasya_keturbhuvanasya.md">
 <details open><summary><h4>०६ विश्वस्य केतुर्भुवनस्य ...{Loading}...</h4></summary>
@@ -91,7 +91,7 @@ unicode_script: devanagari
 </details>
 </div>
 
-### पूज्यता, फलानि
+#### पूज्यता, फलानि
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/05_shrINAmudAro_dharuNo.md">
 <details open><summary><h4>०५ श्रीणामुदारो धरुणो ...{Loading}...</h4></summary>
 
@@ -138,7 +138,7 @@ unicode_script: devanagari
 </div>
 
 
-### तेजोविभूतिर् जन्म च  
+#### तेजोविभूतिर् जन्म च  
 
 {{< figure src="/devaH/AryaH/hindukaH/agniH/images/lightning.jpg" class="thumbnail">}}  
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/08_dRshAno_rukma.md">

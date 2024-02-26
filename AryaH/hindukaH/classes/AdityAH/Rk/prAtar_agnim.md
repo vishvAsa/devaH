@@ -44,15 +44,15 @@ unicode_script: devanagari
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############### Strata
+########################## Strata
 Cretic
 
-############### Pāda-label
+########################## Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-############### Morph
+########################## Morph
 agním ← agní- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -223,7 +223,7 @@ _____________
 </details>
 <details><summary>Wilson</summary>
 
-############## English translation:
+######################### English translation:
 
 “We invoke at dawn **Agni**; at dawn **Indra**; at dawn **Mitra** and **Varuṇa**; at dawn the **Aśvins**; at dawnBhaga, **Pūṣan**, **Brahmaṇaspati**; at dawn **Soma** and **Rudra**.”
 </details>
@@ -344,15 +344,15 @@ Frühmorgens laden Agni wir und Indra ein, frühmorgens Mitra-Varuna, die Ritter
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############### Strata
+########################## Strata
 Cretic
 
-############### Pāda-label
+########################## Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-############### Morph
+########################## Morph
 bhágam ← bhága- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -548,11 +548,11 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-############## English translation:
+######################### English translation:
 
 “We invoke at dawn fierce **Bhaga**, the son of **Aditi**, who is the sustainer (of the world), to whom the poorman praising him applies, saying, give (me wealth), to whom the opulent prince (addresses the same prayer).”
 
-############## Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+######################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Towhom the poor man: ādhraścid yam **manya** **mānas** turascid **rājā** cid yam bhagam bhakṣity aha: the ādhra= unsatisfied, hungry, or poor;
 
@@ -677,15 +677,15 @@ Wir wollen den, der früh gewinnt und austheilt, den mächt'gen Bhaga, den Aditj
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############### Strata
+########################## Strata
 Cretic
 
-############### Pāda-label
+########################## Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-############### Morph
+########################## Morph
 bhága ← bhága- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -883,7 +883,7 @@ _____________
 </details>
 <details><summary>Wilson</summary>
 
-############## English translation:
+######################### English translation:
 
 “**Bhaga**, chief leader of rites, Bhaga, faithful granting (our wishes), fructify ceremony, enrich us withcattle and horses; may we Bhaga, be eminent with **male** descendants and followers.”
 </details>
@@ -1008,15 +1008,15 @@ O Bhaga, Führer, Bhaga, wahrhaft reicher, begünst'ge, Bhaga, dieses Lied, uns 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############### Strata
+########################## Strata
 Cretic
 
-############### Pāda-label
+########################## Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-############### Morph
+########################## Morph
 bhágavantaḥ ← bhágavant- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -1168,11 +1168,11 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-############## English translation:
+######################### English translation:
 
 “May we now have **Bhaga** (for our lord), whether in the forenoon or mid- day, or at sun-rise; may we,**Maghavan**, enjoy the favour of the gods.”
 
-############## Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+######################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Bhaga: utedanim bhagavantaḥ **syāma**, may we be now possessors ofBhaga; or, may we be possessors of wealth;
 
@@ -1301,15 +1301,15 @@ Auch jetzt versorge uns mit reichem Antheil beim Tages Anbruch und in Tages Mitt
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############### Strata
+########################## Strata
 Cretic
 
-############### Pāda-label
+########################## Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-############### Morph
+########################## Morph
 astu ← √as- 1 (root)  
 {number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
 
@@ -1503,11 +1503,11 @@ _________________
 </details>
 <details><summary>Wilson</summary>
 
-############## English translation:
+######################### English translation:
 
 “May **Bhaga**, gods, be the possessor of opulence, and, through him, may we be possessed of wealth,every one verily repeatedly invokes you, Bhaga; do you, Bhaga, be our preceder at this solemnity.”
 
-############## Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+######################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Bhaga:Bhaga eva **bhagavān** **astu** dhanavān, having wealth; **pura** eta = **puro** ganta, one who goes before; may mean,**purohita**, or family priest
 </details>
@@ -1636,15 +1636,15 @@ Ja reich an Gaben sei, o Götter, Bhaga, durch ihn auch mögen wir an Gaben reic
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############### Strata
+########################## Strata
 Cretic
 
-############### Pāda-label
+########################## Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-############### Morph
+########################## Morph
 adhvarā́ya ← adhvará- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -1807,11 +1807,11 @@ ____________
 </details>
 <details><summary>Wilson</summary>
 
-############## English translation:
+######################### English translation:
 
 “May the dawn come to our sacrifice as a horse to a suitable station; as rapid steeds convey a chariot,so may the dawns bring to us **Bhaga**, down- descending, charged with riches.”
 
-############## Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+######################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Station: śucaye padāya =gamanayogyāya sthānāya; or, agnyādhanārtham śucai padam, a pure plural ce for the receptacle of the fire;
 
@@ -1933,15 +1933,15 @@ Zum Opfer mögen sich die Morgenröthen, wie Dadhikra zum hellen Orte wenden; Si
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############### Strata
+########################## Strata
 Cretic
 
-############### Pāda-label
+########################## Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-############### Morph
+########################## Morph
 áśvāvatīḥ ← áśvāvant- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -2088,7 +2088,7 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-############## English translation:
+######################### English translation:
 
 “{Text is missing}”
 </details>

@@ -3,7 +3,8 @@ title: यत्ते अग्ने तेजः
 unicode_script: devanagari
 
 ---
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/taittirIyam/saMhitA/3/5/03_viShNvatikramAH/yat_te_agne.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/3/5/03_viShNvatikramAH/yat_te_agne.md">
+<details open><summary><h5>यत् ते अग्ने ...{Loading}...</h5></summary>
 <details open><summary><h5>यत्ते॑ अग्ने॒  ...{Loading}...</h5></summary>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -47,6 +48,7 @@ unicode_script: devanagari
 
 
 इति तृतीये पञ्चमे तृतीयोनुवाकः ॥
+</details>
 </details>
 </details>
 </div> 

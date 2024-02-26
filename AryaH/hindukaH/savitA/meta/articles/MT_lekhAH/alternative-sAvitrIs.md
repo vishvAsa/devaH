@@ -34,15 +34,15 @@ Today the Sāvitrī is universally used by all dvija-s for their saṃdhyopāsan
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+############ Strata
 Cretic
 
-######## Pāda-label
+############ Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+############ Morph
 híraṇyapāṇiḥ ← híraṇyapāṇi- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -209,7 +209,7 @@ among the gods you O Savitaḥ have set your call, now impel to us the totality 
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+########### English translation:
 
 “The golden-handed, soft-tongued **Savitā** is descending from heaven (to be present) thrice (daily) at the sacrifice; accept, Savitā, the praise (recited) by the worshippers, and thereupon grant to us all our desires.”
 </details>
@@ -334,15 +334,15 @@ Hence, we suspect that the three-fold daily Savitrupāsanā was already a preval
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+############ Strata
 Archaic
 
-######## Pāda-label
+############ Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+############ Morph
 savitúḥ ← savitár- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -449,11 +449,11 @@ We chose that enjoyment of Deva Savitṛ; may we focus on Bhaga’s best all-giv
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+########### English translation:
 
 “We solicit of the divine **Savitā** enjoyable (wealth) may we receive from **Bhaga** that which is excellent, all sustaining, destructive of foes.”
 
-####### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Enjoyable wealth: the text has bhojanam, food; but here explained as bhogyam, to be enjoyed, i.e., dhanam, wealth
 </details>

@@ -12,7 +12,9 @@ practice_weight = 0
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/2_AraNyArchikaH/37_0622_manye_vAm.md">
 <details open><summary><h4>37_0622 मन्ये वाम् ...{Loading}...</h4></summary>
 
-म꣡न्ये꣢ वां द्यावापृथिवी सु꣣भो꣡ज꣢सौ꣣ ये꣡ अप्र꣢꣯थेथा꣣म꣡मि꣢तम꣣भि꣡ योज꣢꣯नम्। स्यो꣣ने꣡ ते नो꣢꣯ मुञ्चत꣣म꣡ꣳह꣢सः ॥ 37:0622 ॥
+म꣡न्ये꣢ वां द्यावापृथिवी सु꣣भो꣡ज꣢सौ꣣+++(=सुपालयित्र्यौ)+++  
+ये꣡ अप्र꣢꣯थेथा꣣म् अ꣡मि꣢तम् अ꣣भि꣡ योज꣢꣯नम्+++(=मेलनम्)+++।  
+स्यो꣣ने꣡+++(=शुभे)+++ ते नो꣢꣯ मुञ्चत꣣म꣡ꣳह꣢सः ॥ 37:0622 ॥
 
 
 </details>

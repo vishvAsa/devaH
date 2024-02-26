@@ -48,15 +48,15 @@ The importance of the heart in this tradition is paralleled  by an incantation i
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+############ Strata
 Normal
 
-######## Pāda-label
+############ Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+############ Morph
 dharúṇaḥ ← dharúṇa- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -214,7 +214,7 @@ the auspiciously exhilarating soma distills into [indra's] heart.
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+########### English translation:
 
 “The supporter of the vast heaven, (plural ced) upon the navel of the earth, moistened among the rivers in the wave of the waters, the thunderbolt of **Indra**, the showerer (of benefits), the possessor of wealth, **Soma** auspiciously exhilarating distils into (Indra's) heart.”
 </details>

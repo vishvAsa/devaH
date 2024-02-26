@@ -51,15 +51,15 @@ Like the associated deity Vāyu in the later Vedic tradition, Savitṛ too has a
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+############ Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-######## Pāda-label
+############ Pāda-label
 popular  
 popular  
 popular  
 popular
-######## Morph
+############ Morph
 aramṇāt ← √ram- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -204,11 +204,11 @@ Savitṛ has milked the roaring atmosphere like a horse
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+########### English translation:
 
 “**Savitā** has fixed the earth with fetters; Savitā has made the heaven firm in a plural ce where there wasno support; Savitā has milked the cloud of the firmament bound to the indestructible (ether) like a tremblinghorse.”
 
-####### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Savitā yantraiḥ pṛthivīm aramayadanārambhaṇentarikṣe savitā dyāmandṛhadaśvamivādhuddhunimantarikṣe megham baddhamatūrṇa iti va- tvaramāṇa iti vā savitā samuditāram:**Nirukta** 10.33
 </details>
@@ -301,15 +301,15 @@ While the solar manifestations of Savitṛ during daytime are clear, the śruti 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+############ Strata
 Cretic
 
-######## Pāda-label
+############ Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+############ Morph
 bāhū́ ← bāhú- (nominal stem)  
 {case:ACC, gender:M, number:DU}
 
@@ -470,7 +470,7 @@ The first hemistich compares the rising Agni with the arms of Savitṛ and speci
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+########### English translation:
 
 “Like the sun, he stretches forth his arms, and the formidable **Agni**, decorating both heaven and earth (with brightness), labours (in his duties); he draws up from everything the essential (moisture), and clothes (the earth) with new vestments (derived) from his maternal (rains).”
 </details>

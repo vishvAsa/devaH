@@ -28,7 +28,7 @@ practice_weight = 0
 ## साम
 <div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/praitu-brahmaNas-patiH.mp3"></div>
 <div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/praitu-brahmaNas-patiH.mp3"></div>
-प्रैइ+++([])+++:  तूउ ।।  ब्र०ह्माणस्पती : ।  
+प्रैइ+++([])+++:  तूउ ।।  ब्र०ह्माणस्पतीः ।  
 प्रा+++([])+++दाइ, वियॆ । तू+++([])+++सूनृताअ ।  
 अ+++([])+++छा, अवाइराअ०  ।  
 न+++([])+++र्य०पा । इङ्ती+++([])+++रा, अ, धाआसा, अ० ।  

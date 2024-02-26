@@ -1,6 +1,7 @@
 +++
 title = "मुक्तकानि"
 unicode_script = "devanagari"
+
 +++
 
 रामं स्कन्दं हनूमन्तं  
@@ -34,7 +35,15 @@ unicode_script = "devanagari"
 मा कश्चिद् दुःखभाग्भवेत् ॥ 
 
 
-<div class="js_include" url="/devaH/AryaH/hindukaH/misc-devas/padyam/devatAbhyaH_pitRbhyaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/devaH/AryaH/hindukaH/misc-devas/padyam/devatAbhyaH_pitRbhyaH.md">
+<details open><summary><h5>देवताभ्यः पितृभ्यश्च ...{Loading}...</h5></summary>
+
+देवताभ्यः पितृभ्यश्च  
+महायोगिभ्य एव च ।  
+नमः स्वधायै स्वाहायै  
+नित्यम् एव नमो नमः ॥ 
+</details>
+</div>  
 
 
 शरलोक+++(=Sherlock H)+++लोचनशरै

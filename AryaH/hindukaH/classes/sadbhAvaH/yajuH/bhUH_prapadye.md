@@ -4,7 +4,7 @@ title: भूः प्रपद्ये
 unicode_script: devanagari
 
 ---
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02/22_1_bhUH_prapadye/">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02_svAdhyAya-brAhmaNAdi/22_1_bhUH_prapadye/">
 <details open><summary><h2>२२.१ भूः प्रपद्ये ...{Loading}...</h2></summary>
 
 +++(आरण्यकस्वरा अत्र।)+++

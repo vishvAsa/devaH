@@ -13,10 +13,7 @@ unicode_script: devanagari
 ऽया नो॑ धेहि भेष॒जम् ।।+++(५)+++
 
 </details>
-</div>  
-
-
-
+</div>
 <details><summary>विनियोगः (द्रष्टुं नोद्यम्)</summary>
 
 अनुगतस्यौपासनाग्नेस् समाधानमन्त्रः।

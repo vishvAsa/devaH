@@ -11,7 +11,7 @@ unicode_script = "devanagari"
 - कर्ता - राजारामजशङ्करः। स्रोतो [ऽत्र](https://www.facebook.com/shankar.rajaraman.5/posts/10221715421224585) ।
 - २०१९ इति वर्षादारभ्य कॊरोनावैराणुरोगः प्रासरद् भयानकः। 
 
-### पाठः
+#### पाठः
 {{< figure src="/devaH/AryaH/hindukaH/rogAH/images/corona-virus.jpg"  class="thumbnail">}}
 
 किरीट-विष-कीटाणुश्  
