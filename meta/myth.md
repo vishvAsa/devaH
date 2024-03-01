@@ -58,11 +58,23 @@ Some practitioners who might regard the Gods as non-living or merely metaphorica
 > (The high priest of Ásatrúarfélagið, the norse temple in [DailyBeast](http://www.thedailybeast.com/articles/2015/02/05/why-iceland-is-building-a-temple-to-its-pagan-gods.html))
 
 ## Contrasts
-
+### Not mere fiction
 > we are no different than people in the West who make religion out of Harry Potter or the Jedi from Star Wars.
 
 - आर्यपरिगृहीतत्वे हि भेदः ।
 - पुनः, देव-प्रेरितत्वे, आर्षप्रणीतत्वे च भेदः।
+
+In contrast to mere fiction, myths are divinely inspired, come from sages and are highly beneficial.
+
+Distinction from kavi-samaya
+
+> Kavi-samaya is unlike myth. Both the kavi and the rasika know that what is accepted as kavi-samaya doesn't hold good in their everyday life. For example, the rasika will not get perturbed if he doesn't see cakoras feasting on chandrika or cAtakas waiting for monsoon clouds to quench their thirst. On the other hand, common people get perturbed if someone tells them, for example, that there is no proof for the existence of Vishnu or Shiva.  
+> - shankara
+
+### Not fake history
+"Fake history" (eg. "shankara was from 5th century BCE with this chain of AchArya-s leading up to our current pontiff") should be separated from "myth" (eg. rAmA was from treta-yuga, which was so many eons ago). 
+
+True myth operates at a different epistemological level. Further, it is oft marked by supernatural episodes.
 
 Note divergence from abrahamisms, which are more "history" centric.
 
