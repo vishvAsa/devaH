@@ -52,7 +52,7 @@ The identity of the Sādhyas (in vss. 7 and 16) is not clear. Their name means  
 
 
 ######################## 01 सहस्रशीर्षा पुरुषः - अनुष्टुप्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/01_sahasrashIrShA_puruShaH.md">
+<div class="js_include" newlevelforh1="3" includetitle="false" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/01_sahasrashIrShA_puruShaH.md">
 <details open><summary><h15>विश्वास-प्रस्तुतिः ...{Loading}...</h15></summary>
 
 
@@ -276,7 +276,7 @@ Tausendköpfig war der Urmensch, tausendäugig, tausendfüssig; nachdem er die E
 </div>
 
 ######################## 02 पुरुष एवेदम् - अनुष्टुप्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/02_puruSha_evedaM.md">
+<div class="js_include" newlevelforh1="3" includetitle="false" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/02_puruSha_evedaM.md">
 <details open><summary><h15>विश्वास-प्रस्तुतिः ...{Loading}...</h15></summary>
 
 
@@ -518,7 +518,7 @@ Der Urmensch ist alles dies, was gewesen ist, und was sein wird; er gebietet üb
 </div>
 
 ######################## 03 एतावानस्य महिमातो - अनुष्टुप्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/03_etAvAnasya_mahimAto.md">
+<div class="js_include" newlevelforh1="3" includetitle="false" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/03_etAvAnasya_mahimAto.md">
 <details open><summary><h15>विश्वास-प्रस्तुतिः ...{Loading}...</h15></summary>
 
 
@@ -746,7 +746,7 @@ So bedeutend ist seine Grösse, und noch grösser ist der Urmensch; ein Viertel 
 </div>
 
 ######################## 04 त्रिपादूर्ध्व उदैत्पुरुषः - अनुष्टुप्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/04_tripAdUrdhva_udaitpuruShaH.md">
+<div class="js_include" newlevelforh1="3" includetitle="false" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/04_tripAdUrdhva_udaitpuruShaH.md">
 <details open><summary><h15>विश्वास-प्रस्तुतिः ...{Loading}...</h15></summary>
 
 
@@ -996,7 +996,7 @@ Mit drei Vierteln ging der Urmensch oben hinauf, ein Viertel von ihm erschien wi
 </div>
 
 ######################## 05 तस्माद्विराळजायत विराजो - अनुष्टुप्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/05_tasmAdvirALajAyata_virAjo.md">
+<div class="js_include" newlevelforh1="3" includetitle="false" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/05_tasmAdvirALajAyata_virAjo.md">
 <details open><summary><h15>विश्वास-प्रस्तुतिः ...{Loading}...</h15></summary>
 
 
@@ -1244,7 +1244,7 @@ Von ihm ward der Allherrscher [virâj] geboren und vom Allherrscher der Urmensch
 </div>
 
 ######################## 06 यत्पुरुषेण हविषा - अनुष्टुप्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/06_yatpuruSheNa_haviShA.md">
+<div class="js_include" newlevelforh1="3" includetitle="false" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/06_yatpuruSheNa_haviShA.md">
 <details open><summary><h15>विश्वास-प्रस्तुतिः ...{Loading}...</h15></summary>
 
 
@@ -1458,7 +1458,7 @@ Als die Götter ihr Opfer mit dem Urmenschen als dem Opfertrank kunstvoll bereit
 </div>
 
 ######################## 07 तं यज्ञम् - अनुष्टुप्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/07_saptAsyAsanparidhayastriH_sapta.md">
+<div class="js_include" newlevelforh1="3" includetitle="false" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/07_saptAsyAsanparidhayastriH_sapta.md">
 <details open><summary><h15>विश्वास-प्रस्तुतिः ...{Loading}...</h15></summary>
 
 
@@ -1684,7 +1684,7 @@ Diesen zuerst geborenen Urmenschen benetzten sie als ihr Opfer auf der heiligen 
 </div>
 
 ######################## 08 तस्माद्यज्ञात्सर्वहुतः सम्भृतम् - अनुष्टुप्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/08_taM_yajnaM.md">
+<div class="js_include" newlevelforh1="3" includetitle="false" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/08_taM_yajnaM.md">
 <details open><summary><h15>विश्वास-प्रस्तुतिः ...{Loading}...</h15></summary>
 
 
@@ -1906,7 +1906,7 @@ Aus diesem vollständig dargebrachten Opfer sammelte sich das triefende Opfersch
 </div>
 
 ######################## 09 तस्माद्यज्ञात्सर्वहुत ऋचः - अनुष्टुप्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/09_tasmAdyajnAtsarvahutaH_sambhRtaM.md">
+<div class="js_include" newlevelforh1="3" includetitle="false" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/09_tasmAdyajnAtsarvahutaH_sambhRtaM.md">
 <details open><summary><h15>विश्वास-प्रस्तुतिः ...{Loading}...</h15></summary>
 
 
@@ -2217,7 +2217,7 @@ Aus diesem vollständig dargebrachten Opfer entsprangen die Hymnen [des Rig-Veda
 </div>
 
 ######################## 10 तस्मादश्वा अजायन्त - अनुष्टुप्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/10_tasmAdyajnAtsarvahuta_RchaH.md">
+<div class="js_include" newlevelforh1="3" includetitle="false" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/10_tasmAdyajnAtsarvahuta_RchaH.md">
 <details open><summary><h15>विश्वास-प्रस्तुतिः ...{Loading}...</h15></summary>
 
 
@@ -2465,7 +2465,7 @@ Aus ihm entsprangen die Rosse und alle mit zwei Zahnreihen versehenen Thiere; au
 </div>
 
 ######################## 11 यत्पुरुषं व्यदधुः - अनुष्टुप्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/11_tasmAdashvA_ajAyanta.md">
+<div class="js_include" newlevelforh1="3" includetitle="false" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/11_tasmAdashvA_ajAyanta.md">
 <details open><summary><h15>विश्वास-प्रस्तुतिः ...{Loading}...</h15></summary>
 
 
@@ -2678,7 +2678,7 @@ Als sie den Urmenschen umgestalteten, wie vielfach wandelten sie ihn um? Was war
 </div>
 
 ######################## 12 ब्राह्मणोऽस्य मुखमासीद्बाहू - अनुष्टुप्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/12_yatpuruShaM_vyadadhuH.md">
+<div class="js_include" newlevelforh1="3" includetitle="false" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/12_yatpuruShaM_vyadadhuH.md">
 <details open><summary><h15>विश्वास-प्रस्तुतिः ...{Loading}...</h15></summary>
 
 
@@ -2895,7 +2895,7 @@ Sein Mund ward zum Brahmanen, seine Arme zum Rādschanja, seine Schenkel zum Vai
 </div>
 
 ######################## 13 चन्द्रमा मनसो - अनुष्टुप्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/13_brAhmaNo_asya_mukhamAsIdbAhU.md">
+<div class="js_include" newlevelforh1="3" includetitle="false" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/13_brAhmaNo_asya_mukhamAsIdbAhU.md">
 <details open><summary><h15>विश्वास-प्रस्तुतिः ...{Loading}...</h15></summary>
 
 
@@ -3123,7 +3123,7 @@ Aus seinem Geiste entsprang der Mond, aus seinem Auge die Sonne, aus seinem Mund
 </div>
 
 ######################## 14 नाभ्या आसीदन्तरिक्षम् - अनुष्टुप्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/14_chandramA_manaso.md">
+<div class="js_include" newlevelforh1="3" includetitle="false" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/14_chandramA_manaso.md">
 <details open><summary><h15>विश्वास-प्रस्तुतिः ...{Loading}...</h15></summary>
 
 
@@ -3343,7 +3343,7 @@ Aus seinem Nabel ward die Luft, aus seinem Kopf entstand der Himmel, aus seinen 
 </div>
 
 ######################## 15 सप्तास्यासन्परिधयस्त्रिः सप्त - अनुष्टुप्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/15_nAbhyA_AsIdantarixaM.md">
+<div class="js_include" newlevelforh1="3" includetitle="false" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/15_nAbhyA_AsIdantarixaM.md">
 <details open><summary><h15>विश्वास-प्रस्तुतिः ...{Loading}...</h15></summary>
 
 
@@ -3572,7 +3572,7 @@ Sieben Umschlusshölzer waren ihm, dreimal sieben Schichten des Brennholzes wurd
 </div>
 
 ######################## 16 यज्ञेन यज्ञमयजन्त - त्रिष्टुप्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/16_yajnena_yajnamayajanta.md">
+<div class="js_include" newlevelforh1="3" includetitle="false" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/16_yajnena_yajnamayajanta.md">
 <details open><summary><h15>विश्वास-प्रस्तुतिः ...{Loading}...</h15></summary>
 
 

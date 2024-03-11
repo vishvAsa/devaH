@@ -8,7 +8,7 @@ unicode_script: devanagari
 - भट्टभास्करो [ऽत्र](https://archive.org/stream/taittiriya/taittiriya_brahmana_bhaskara_03_1-7#page/n393/mode/2up)।
 - "सर्वत्रोपाँशुप्रभृति वाचस्थानानाँ स्वराक्षरपर्भिदवृत्तभ्रेषेष्व् "आभिर्गीर्भिर्यदतो न ऊनमि"त्येतया स्रुवाहुतिं जुहुयात्।" इत्यापस्तम्बः।
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/32_Abhir_gIrbhir.md">
+<div class="js_include" newlevelforh1="4" includetitle="false" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/32_Abhir_gIrbhir.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 आ॒भिर् गी॒र्भिर् यद् अतो॑ न **ऊ॒नम्**   

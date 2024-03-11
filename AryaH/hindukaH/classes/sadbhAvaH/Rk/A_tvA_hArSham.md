@@ -11,7 +11,7 @@ unicode_script = "devanagari"
 
 20अतः परं राजाभिषेके विनियोज्याः पश्चाप्यनुष्टुभः - आ त्वाऽहार्षमिति ॥
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/02_AtvA.ahArSham.md">
+<div class="js_include" newlevelforh1="4" includetitle="false" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/02_AtvA.ahArSham.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 आत्वा॑ ऽहार्षम्, +++(राष्ट्रे)+++ अ॒न्तर् **अ॑भूः**+++(→भूयाः)+++ ।
@@ -20,7 +20,7 @@ unicode_script = "devanagari"
 मा त्वद्-रा॒ष्ट्रम् **अधि॑-भ्रशत्** ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/02_AtvA.ahArSham.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/02_AtvA.ahArSham.md">
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>मूलम्</summary>
 
@@ -35,7 +35,7 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/05_dhruvA_dyaur.md">
+<div class="js_include" newlevelforh1="4" includetitle="false" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/05_dhruvA_dyaur.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 ध्रु॒वा द्यौर्, ध्रु॒वा पृ॑थि॒वी ।
@@ -44,7 +44,7 @@ unicode_script = "devanagari"
 ध्रु॒वो राजा॑ वि॒शाम् अ॒यम् ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/05_dhruvA_dyaur.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/05_dhruvA_dyaur.md">
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>मूलम्</summary>
 
@@ -59,7 +59,7 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/08_ihaivaidhi_mA.md">
+<div class="js_include" newlevelforh1="4" includetitle="false" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/08_ihaivaidhi_mA.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 **इ॒हैवैधि॒** मा **व्य॑थिष्ठाः** ॥19॥  
@@ -68,7 +68,7 @@ unicode_script = "devanagari"
 इ॒ह रा॒ष्ट्रम् उ॑ **धारय** ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/08_ihaivaidhi_mA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/08_ihaivaidhi_mA.md">
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 </details>
 </div>
@@ -90,7 +90,7 @@ Bear the nation here.
 
 22इहैवैधीति ॥ **इहैव** राष्ट्रे **एधि** राजा भव । **मा व्यथिष्ठाः पर्वत इव अविचाचलिः** अविचलो भव । 'उपसर्गाच्छन्दसि' इति इप्रत्ययः । **इन्द्र इव ध्रुवो** भव । **इह** राजभावे **तिष्ठ** । **राष्ट्रं** च **धारय** । अवधारणे उकारः । राष्ट्रं धारयैव माऽमुचः ॥
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/12_abhitiShTha_pRtanyataH.md">
+<div class="js_include" newlevelforh1="4" includetitle="false" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/12_abhitiShTha_pRtanyataH.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 **अ॒भि-ति॑ष्ठ** पृतन्य॒तः ।  
@@ -99,7 +99,7 @@ Bear the nation here.
 अ॒पः ख्षेत्रा॑णि **स॒ञ्जयन्न्॑** ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/12_abhitiShTha_pRtanyataH.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/12_abhitiShTha_pRtanyataH.md">
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>मूलम्</summary>
 
@@ -121,7 +121,7 @@ Thoroughly winning (their) deeds and lands.
 
 23अभितिष्ठेति । । पृतन्यतः संग्रामं कर्तुमिच्छतः 'कव्यध्वरपृतनस्यर्चि लोपः' 'शतुरनुमः' इति विभक्तेरुदात्तत्वम् । शत्रवोऽधरे त्वत्तो निकृष्टैश्वर्यबलास्सन्तु । **वृत्रहा** वृत्रस्य हन्ता **इन्द्र इव पृतन्यतोऽभितिष्ठ** । यथा **शत्रूणां अपः** कर्माणि **क्षेत्राणि संजयन्** **वृत्रहेव** शत्रूनाक्राम ॥
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/16_indra_eNam.md">
+<div class="js_include" newlevelforh1="4" includetitle="false" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/16_indra_eNam.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 इन्द्र॑ एणम् **अदीधरत्** ।
@@ -130,7 +130,7 @@ Thoroughly winning (their) deeds and lands.
 अ॒यञ् च॒ ब्रह्म॑ण॒स्-पतिः॑ ॥20॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/16_indra_eNam.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/16_indra_eNam.md">
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 </details>
 </div>
