@@ -3,7 +3,7 @@ title = "गरुडदण्डकम्"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/kAvyam/laxyam/gadyam/shrI-vaiShNava-kRtam/venkaTanAthaH/garuDa-daNDakam/">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/kAvyam/laxyam/padyam/shrIvaiShNava-kRtam/venkaTanAthaH/garuDa-daNDakam/">
 <details open><summary><h2>गरुडदण्डकम् ...{Loading}...</h2></summary>
 <details><summary>शठकोपः (En)</summary>
 
