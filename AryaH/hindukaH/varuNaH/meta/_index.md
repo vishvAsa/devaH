@@ -9,3 +9,7 @@ title = "+अधिवरुणम्"
 > varuNa's seat appear to be associated with the Polestar: dhruva, which the 7 he directs are the stars of the Bear. shunaHshepa also says varuNa placed the  R^ikSha (bear) in the sky.  
 \- MT
 
+## aramati
+> aramati as the daughter of varuNa,  
+> even as aramaiti is the daughter of ahura mazda in the iranic world.  
+> Also the dog as the symbol of dharma (mahAbharata) = Iranic daena with dog.
