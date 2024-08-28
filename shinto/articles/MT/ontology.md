@@ -26,3 +26,8 @@ beneath which peer dimly lit tropes --
 familiar yet too divergent to grasp. 
 
 Thus, a man trying to understand to evolutionary history of Japanese religion might feel rather inadequate.
+
+## Zokushin
+Source: [TW](https://x.com/blog_supplement/status/1827947591382007893)
+
+The Japanese tradition holds that the human body has 84 thousand pores, in each of which dwells a deity known as a zokushin. These gods are also said to control each "moment" of the 360 days of an year. This "moment" would be approximately 6 minutes. This reminds one of the raumya-s -- gaNa-s emanated by rudra from the roma-kUpa-s. The raumya-s are invoked in a secret ritual relating to the mantra known as the vIrabhadrAstra.
