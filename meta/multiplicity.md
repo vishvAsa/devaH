@@ -21,7 +21,11 @@ now, if jupiter and hinduDeityX are the same IE deity; then why the big differen
 ### Identification
 > There are many possibilities. For example, someone/some community may have discovered that the local God was the God they knew under another name, and so they started calling Them that name, but the substantive character of the local God prevailed over time. 
 > 
-> This would be consistent with IE language having some prestige value in early Greece, but the indigenous population being more numerous and their theophanies having persistent strength. Note the persistence of substrate words for important phenomena and a number of divine names. - EP Butler
+> This would be consistent with IE language having some prestige value in early Greece, but the indigenous population being more numerous and their theophanies having persistent strength. Note the persistence of substrate words for important phenomena and a number of divine names. 
+> 
+> In fact, Zeus is one of the few Hellenic Gods with an unambiguously Indo-European name; it seems more likely that He acquired it than that others lost theirs or have disparate origins. This is all mere speculation, of course: the devotional perspective is the real.
+> 
+> - EP Butler
 
 ### Replacement
 Can it be argued that they are entirely different deities? If so, at what point would the IE deity have made way for Jupiter & hinduDeityX?
