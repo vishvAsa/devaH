@@ -27,3 +27,4 @@ That's the parsimonious explanation.
 To sum up- Even is a deity's form is temporally later,  
 or even if it's inspired by a foreign religion,  
 an H "doesn't [necessarily] adopt" the foreign god but sees the form as a new manifestation of deities he always worshipped. /fin
+
