@@ -38,7 +38,8 @@ _________
 **Strata**  
 Cretic
 
-############ Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -251,7 +252,8 @@ among the gods you O Savitaḥ have set your call, now impel to us the totality 
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+_________
+**English translation:**  
 
 “The golden-handed, soft-tongued **Savitā** is descending from heaven (to be present) thrice (daily) at the sacrifice; accept, Savitā, the praise (recited) by the worshippers, and thereupon grant to us all our desires.”
 </details>
@@ -380,7 +382,8 @@ _________
 **Strata**  
 Archaic
 
-############ Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -517,7 +520,8 @@ We chose that enjoyment of Deva Savitṛ; may we focus on Bhaga’s best all-giv
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+_________
+**English translation:**  
 
 “We solicit of the divine **Savitā** enjoyable (wealth) may we receive from **Bhaga** that which is excellent, all sustaining, destructive of foes.”
 

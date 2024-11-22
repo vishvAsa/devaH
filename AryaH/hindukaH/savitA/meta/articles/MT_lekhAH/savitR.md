@@ -55,7 +55,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-############ Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -240,7 +241,8 @@ Savitṛ has milked the roaring atmosphere like a horse
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+_________
+**English translation:**  
 
 “**Savitā** has fixed the earth with fetters; Savitā has made the heaven firm in a plural ce where there wasno support; Savitā has milked the cloud of the firmament bound to the indestructible (ether) like a tremblinghorse.”
 
@@ -342,7 +344,8 @@ _________
 **Strata**  
 Cretic
 
-############ Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -547,7 +550,8 @@ The first hemistich compares the rising Agni with the arms of Savitṛ and speci
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+_________
+**English translation:**  
 
 “Like the sun, he stretches forth his arms, and the formidable **Agni**, decorating both heaven and earth (with brightness), labours (in his duties); he draws up from everything the essential (moisture), and clothes (the earth) with new vestments (derived) from his maternal (rains).”
 </details>
