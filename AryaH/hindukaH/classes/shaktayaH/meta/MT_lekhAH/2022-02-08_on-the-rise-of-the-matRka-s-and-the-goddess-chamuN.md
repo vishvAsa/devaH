@@ -936,7 +936,9 @@ Its absence in the Vedic and epic layers of the language suggests that the word 
 
 This also goes hand in hand with a widespread tendency to show the universality of the deity. In the case of the great Rudrian goddesses, this was also associated with a tendency to emphasize her links to the Rudrian domain of the exterior, which includes the tribal groups (already seen in the Yajurveda). This is also signaled by indicating the worship of the goddess in distant or non-Aryan lands. For instance, in the proto-Skandapurāṇa, the virgin goddess Kauśikī born of the black slough of Pārvatī emanated numerous avicephalous and therocephalous goddesses to aid her in the killing of Śumbha and Niśumbha. Thereafter, these goddesses were installed for worship in various countries, like the owl-headed Upakā in Pārasīka (Iran); the raven-headed Vāyasī in Yavana (Greek lands); the lion-headed Pracaṇḍā in Tukhara (Tocharia); Vānarī among the Śabara tribesmen; several others in the provinces of Lankā. This is reflected in the mantra-śāstra by the names of the goddesses like Gāndhārī or Dramiḍi.
 
-------------------------------------------------------------------------
+
+_________
+
 
 
 ## Appendix

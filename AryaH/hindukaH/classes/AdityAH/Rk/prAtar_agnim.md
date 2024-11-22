@@ -44,7 +44,8 @@ unicode_script: devanagari
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-########################## Strata
+_________
+**Strata**  
 Cretic
 
 ########################## Pāda-label
@@ -52,7 +53,8 @@ genre M
 genre M  
 genre M  
 genre M
-########################## Morph
+_________
+**Morph**  
 agním ← agní- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -344,7 +346,8 @@ Frühmorgens laden Agni wir und Indra ein, frühmorgens Mitra-Varuna, die Ritter
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-########################## Strata
+_________
+**Strata**  
 Cretic
 
 ########################## Pāda-label
@@ -352,7 +355,8 @@ genre M
 genre M  
 genre M  
 genre M
-########################## Morph
+_________
+**Morph**  
 bhágam ← bhága- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -552,7 +556,8 @@ _______________
 
 “We invoke at dawn fierce **Bhaga**, the son of **Aditi**, who is the sustainer (of the world), to whom the poorman praising him applies, saying, give (me wealth), to whom the opulent prince (addresses the same prayer).”
 
-######################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Towhom the poor man: ādhraścid yam **manya** **mānas** turascid **rājā** cid yam bhagam bhakṣity aha: the ādhra= unsatisfied, hungry, or poor;
 
@@ -677,7 +682,8 @@ Wir wollen den, der früh gewinnt und austheilt, den mächt'gen Bhaga, den Aditj
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-########################## Strata
+_________
+**Strata**  
 Cretic
 
 ########################## Pāda-label
@@ -685,7 +691,8 @@ genre M
 genre M  
 genre M  
 genre M
-########################## Morph
+_________
+**Morph**  
 bhága ← bhága- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -1008,7 +1015,8 @@ O Bhaga, Führer, Bhaga, wahrhaft reicher, begünst'ge, Bhaga, dieses Lied, uns 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-########################## Strata
+_________
+**Strata**  
 Cretic
 
 ########################## Pāda-label
@@ -1016,7 +1024,8 @@ genre M
 genre M  
 genre M  
 genre M
-########################## Morph
+_________
+**Morph**  
 bhágavantaḥ ← bhágavant- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -1172,7 +1181,8 @@ _______________
 
 “May we now have **Bhaga** (for our lord), whether in the forenoon or mid- day, or at sun-rise; may we,**Maghavan**, enjoy the favour of the gods.”
 
-######################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Bhaga: utedanim bhagavantaḥ **syāma**, may we be now possessors ofBhaga; or, may we be possessors of wealth;
 
@@ -1301,7 +1311,8 @@ Auch jetzt versorge uns mit reichem Antheil beim Tages Anbruch und in Tages Mitt
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-########################## Strata
+_________
+**Strata**  
 Cretic
 
 ########################## Pāda-label
@@ -1309,7 +1320,8 @@ genre M
 genre M  
 genre M  
 genre M
-########################## Morph
+_________
+**Morph**  
 astu ← √as- 1 (root)  
 {number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
 
@@ -1507,7 +1519,8 @@ _________________
 
 “May **Bhaga**, gods, be the possessor of opulence, and, through him, may we be possessed of wealth,every one verily repeatedly invokes you, Bhaga; do you, Bhaga, be our preceder at this solemnity.”
 
-######################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Bhaga:Bhaga eva **bhagavān** **astu** dhanavān, having wealth; **pura** eta = **puro** ganta, one who goes before; may mean,**purohita**, or family priest
 </details>
@@ -1636,7 +1649,8 @@ Ja reich an Gaben sei, o Götter, Bhaga, durch ihn auch mögen wir an Gaben reic
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-########################## Strata
+_________
+**Strata**  
 Cretic
 
 ########################## Pāda-label
@@ -1644,7 +1658,8 @@ genre M
 genre M  
 genre M  
 genre M
-########################## Morph
+_________
+**Morph**  
 adhvarā́ya ← adhvará- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -1811,7 +1826,8 @@ ____________
 
 “May the dawn come to our sacrifice as a horse to a suitable station; as rapid steeds convey a chariot,so may the dawns bring to us **Bhaga**, down- descending, charged with riches.”
 
-######################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Station: śucaye padāya =gamanayogyāya sthānāya; or, agnyādhanārtham śucai padam, a pure plural ce for the receptacle of the fire;
 
@@ -1933,7 +1949,8 @@ Zum Opfer mögen sich die Morgenröthen, wie Dadhikra zum hellen Orte wenden; Si
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-########################## Strata
+_________
+**Strata**  
 Cretic
 
 ########################## Pāda-label
@@ -1941,7 +1958,8 @@ genre M
 genre M  
 genre M  
 genre M;; repeated line
-########################## Morph
+_________
+**Morph**  
 áśvāvatīḥ ← áśvāvant- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 

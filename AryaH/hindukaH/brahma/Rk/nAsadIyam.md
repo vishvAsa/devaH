@@ -68,7 +68,8 @@ But even if thought is the ultimate and primal creative act, the origin of the  
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###################### Pāda-label
@@ -76,7 +77,8 @@ popular
 popular  
 popular  
 popular
-###################### Morph
+_________
+**Morph**  
 ásat ← ásant- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -293,7 +295,8 @@ ___________
 
 “The non-existent was not, the existent was not; then the world was not, not the firmament, nor thatwhich is above (the firmament). How could there by any investing envelope, and where? Of what (could there be)felicity? How (could there be) the deep unfathomable water?”
 
-##################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The non-existent: sat, asat: visible and invisibleexistence (asat śaśaviṣāṇavatrirupākhyam nāsīt: **Taittirīya** **Saṃhitā** 7.1.5.1); matter and spirit, prakṛtiand **puruṣa**; the First Cause or **Brahmā** was in the beginning undeveloped in its effects, and existed beforeboth; investing envelope: each element as created or developed is invested by its rudiment; of what could therebe felicity: i.e., of whom or of what living being could enjoyment, or fruition, whether of pain or plural asure, bepredicated, there being no life?
 </details>
@@ -390,7 +393,8 @@ Zu jener Zeit war weder Sein, noch Nichtsein, nicht war der Luftraum, noch der H
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###################### Pāda-label
@@ -398,7 +402,8 @@ popular
 popular  
 popular  
 popular
-###################### Morph
+_________
+**Morph**  
 amŕ̥tam ← amŕ̥ta- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -606,7 +611,8 @@ ___________
 
 “Death was not nor at that period immortality, there was no indication of day, of night; That Oneunbreathed upon breathed of his own strength, other than That there was nothing else whatever.”
 
-##################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Breathed:**svadhā** = **māyā**, or **prakṛti** (illusion or nature), the source of the world of phenomena;
 
@@ -697,7 +703,8 @@ Nicht Tod und nicht Unsterblichkeit war damals, nicht gab's des Tages noch der N
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###################### Pāda-label
@@ -705,7 +712,8 @@ popular
 popular  
 popular  
 popular
-###################### Morph
+_________
+**Morph**  
 ágre ← ágra- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -895,7 +903,8 @@ _______________
 
 “There was darkness covered by darkness in the beginning, all this (world) was undistinguishablewater; that empty united (world) which was covered by a mere nothing, was produced through the power ofausterity.”
 
-##################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Austerity: **tapas** = not penance, but the contemplation of things which were to be created: yahsarvajñaḥ sarvavit yasya jñānamayam **tapaḥ**: **Muṇḍa**.ka **Upaniṣad** 1.1.9
 </details>
@@ -984,7 +993,8 @@ Nur Dunkel war, verhüllt von Dunkel, anfangs und unerkennbar wogte dieses alles
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###################### Pāda-label
@@ -992,7 +1002,8 @@ popular
 popular  
 popular  
 popular
-###################### Morph
+_________
+**Morph**  
 ádhi ← ádhi (invariable)  
 {}
 
@@ -1172,7 +1183,8 @@ _______________
 
 “In the beginning there was desire, which was the first seed of mind; sages having meditated in theirhearts have discovered by their wisdom the connexion of the existent with te non-existent.”
 
-##################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Desire: i.e., in themind of the Supreme Being
 </details>
@@ -1263,7 +1275,8 @@ Da regte sich zuerst in ihm Begierde, als sich des Geistes erster Same zeigte; E
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###################### Pāda-label
@@ -1271,7 +1284,8 @@ popular
 popular  
 popular  
 popular
-###################### Morph
+_________
+**Morph**  
 eṣām ← ayám (pronoun)  
 {case:GEN, gender:M, number:PL}
 
@@ -1431,7 +1445,8 @@ ________________
 
 “Their ray was stretched out, whether across, or below, or above; (some) were shedders of seed,(others) were mighty; food was inferior; the eater was superior.”
 
-##################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Their ray was stretched out: a reference to thesuddenness of creation, which was developed in the twinkling of an eye, like the flash of the sun's ray. It was soquick that it was doubtful whether the things in the central space (across) were created first, or those above orthose below; i.e., creation took plural ce simultaneously in all three portions of the universe. This was the order inwhich things were created, but the development of the world was like a flash of lightning, so that the series couldnot be distinguished (tatsṛṣṭvā tadevānuprāviṣat: **Taittirīya** **Āraṇyaka** 8.6). Thus the notion of a series,viz., from **ātmā** came the **ākāśa**, from the ākāśa the wind, from the wind fire etc., is reconciled: ātmanaākāśaḥ **sambhūta** ākāśādvāyurvāyoragniḥ: Taittirīya Āraṇyaka 8.1; whether across, or below, orabove: tiraścinaḥ = across, **tiryaksrotas**, that in which the stream of life is horizontal, i.e., the animal world;among the created objects some were living creatures, others were great, as the sky etc., the former being theenjoyers (bhoktāraḥ), the latter the things to be enjoyed (**bhojyaḥ**), so the creation was distinguished as thefood and the feeder
 </details>
@@ -1520,7 +1535,8 @@ Und quer hindurch, war ihre Schnur gezogen, was war darunter? und was war darüb
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###################### Pāda-label
@@ -1528,7 +1544,8 @@ popular;; repeated line
 popular;; 12 = 5+7, ending LHX  
 popular  
 popular
-###################### Morph
+_________
+**Morph**  
 addhā́ ← addhā́ (invariable)  
 {}
 
@@ -1705,7 +1722,8 @@ ____________________
 
 “Who really knows? Who in this world may declare it! whence was this creation, whence was itengendered? The gods (were) subsequent to the (world's) creation; so who knows whence it arose?”
 
-##################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Whencewas it engendered: i.e., from what material cause, and from what creative cause, did it arise?
 </details>
@@ -1794,7 +1812,8 @@ Wer weiss es recht? wer mag es hier verkünden? woher entstand, woher sie kam di
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###################### Pāda-label
@@ -1802,7 +1821,8 @@ popular
 popular  
 popular  
 popular
-###################### Morph
+_________
+**Morph**  
 ābabhū́va ← √bhū- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -1989,7 +2009,8 @@ _________________
 
 “He from whom this creation arose, he may uphold it, or he may not (no one else can); he who is itssuperintendent in the highest heaven, he assuredly knows, or if he knows not (no one else does).”
 
-##################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Sa bhagavahkasmin **pratiṣṭhita**: **Chāndogya Upaniṣad** 7.24.1
 </details>
@@ -2072,7 +2093,8 @@ Von wannen diese Schöpfung sei gekommen, ob sie geschaffen oder unerschaffen, D
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-################ Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ################ Pāda-label
@@ -2080,7 +2102,8 @@ popular;; repeated line
 popular;; repeated line  
 popular  
 popular
-################ Morph
+_________
+**Morph**  
 āsa ← √as- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -2257,7 +2280,8 @@ ____________
 
 “Which was the forest, which the tree, from which they fabricated heaven and earth? Inquire, sages, inyour minds what (plural ce) he was stationed in when holding the worlds.”
 
-############### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 They: i.e., the makers of the world,directed by **Parameśvara**
 </details>

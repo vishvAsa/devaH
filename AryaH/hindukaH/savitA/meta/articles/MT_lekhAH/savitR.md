@@ -51,7 +51,8 @@ Like the associated deity Vāyu in the later Vedic tradition, Savitṛ too has a
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ############ Pāda-label
@@ -59,7 +60,8 @@ popular
 popular  
 popular  
 popular
-############ Morph
+_________
+**Morph**  
 aramṇāt ← √ram- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -122,58 +124,86 @@ savitā́ ← savitár- (nominal stem)
 -   *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *yantraiḥ* ← *yantra*
 - \[noun\], instrumental, plural, neuter
 - “alchemical apparatus; surgical instrument; machine; implement;
     instrument; tool; tie; mechanism.”
-------------------------------------------------------------------------
+
+_________
+
 - *pṛthivīm* ← *pṛthivī*
 - \[noun\], accusative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
+
+_________
+
 - *aramṇād* ← *aramṇāt* ← *ram*
 - \[verb\], singular, Imperfect
 - “delight; rejoice; love; frolic; desire; give; calm; break.”
-------------------------------------------------------------------------
+
+_________
+
 - *askambhane* ← *askambhana*
 - \[noun\], locative, singular, neuter
-------------------------------------------------------------------------
+
+_________
+
 - *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *dyām* ← *div*
 - \[noun\], accusative, singular
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
+
+_________
+
 - *adṛṃhat* ← *dṛh*
 - \[verb\], singular, Imperfect
 - “fixate; strengthen.”
-------------------------------------------------------------------------
+
+_________
+
 - *aśvam* ← *aśva*
 - \[noun\], accusative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
+
+_________
+
 - *ivādhukṣad* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *ivādhukṣad* ← *adhukṣat* ← *duh*
 - \[verb\], singular, sa aorist (Ind.)
 - “milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *dhunim* ← *dhuni*
 - \[noun\], accusative, singular, masculine
 - “deafening; boisterous; noisy.”
-------------------------------------------------------------------------
+
+_________
+
 - *antarikṣam* ← *antarikṣa*
 - \[noun\], accusative, singular, neuter
 - “sky; atmosphere; air; abhra.”
-------------------------------------------------------------------------
+
+_________
+
 - *atūrte* ← *atūrta*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *baddhaṃ* ← *baddham* ← *bandh*
 - \[verb noun\], accusative, singular
 - “bandh; tie; envelop; close; dress; wrap; bind; constipate; fixate;
@@ -181,15 +211,21 @@ savitā́ ← savitár- (nominal stem)
     restrain; bind; gesticulate; wear; bar; bandh; connect; stud; mix;
     obstruct; write; restrain; bind; persecute; enclose; ligature; fill
     into; fasten.”
-------------------------------------------------------------------------
+
+_________
+
 - *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *samudram* ← *samudra*
 - \[noun\], accusative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 <details><summary>सायण-भाष्यम्</summary>
 
@@ -208,7 +244,8 @@ Savitṛ has milked the roaring atmosphere like a horse
 
 “**Savitā** has fixed the earth with fetters; Savitā has made the heaven firm in a plural ce where there wasno support; Savitā has milked the cloud of the firmament bound to the indestructible (ether) like a tremblinghorse.”
 
-########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Savitā yantraiḥ pṛthivīm aramayadanārambhaṇentarikṣe savitā dyāmandṛhadaśvamivādhuddhunimantarikṣe megham baddhamatūrṇa iti va- tvaramāṇa iti vā savitā samuditāram:**Nirukta** 10.33
 </details>
@@ -301,7 +338,8 @@ While the solar manifestations of Savitṛ during daytime are clear, the śruti 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+_________
+**Strata**  
 Cretic
 
 ############ Pāda-label
@@ -309,7 +347,8 @@ genre M
 genre M  
 genre M  
 genre M
-############ Morph
+_________
+**Morph**  
 bāhū́ ← bāhú- (nominal stem)  
 {case:ACC, gender:M, number:DU}
 
@@ -378,80 +417,118 @@ vásanā ← vásana- (nominal stem)
 -   *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *yaṃyamīti* ← *yaṃyam* ← *√yam*
 - \[verb\], singular, Present indikative
-------------------------------------------------------------------------
+
+_________
+
 - *saviteva* ← *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *saviteva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *bāhū* ← *bāhu*
 - \[noun\], accusative, dual, masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
-------------------------------------------------------------------------
+
+_________
+
 - *ubhe* ← *ubh*
 - \[noun\], accusative, dual, feminine
 - “both(a).”
-------------------------------------------------------------------------
+
+_________
+
 - *sicau* ← *sic*
 - \[noun\], accusative, dual, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *yatate* ← *yat*
 - \[verb\], singular, Present indikative
 - “strive; endeavor; join; equal; rival.”
-------------------------------------------------------------------------
+
+_________
+
 - *bhīma* ← *bhīmaḥ* ← *bhīma*
 - \[noun\], nominative, singular, masculine
 - “awful; amazing; terrific; enormous; bhīma \[word\]; fearful.”
-------------------------------------------------------------------------
+
+_________
+
 - *ṛñjan* ← *ṛj*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
+
+_________
+
 - *ucchukram* ← *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
+
+_________
+
 - *ucchukram* ← *śukram* ← *śukra*
 - \[noun\], accusative, singular, masculine
 - “bright; clear; white; light; pure.”
-------------------------------------------------------------------------
+
+_________
+
 - *atkam* ← *atka*
 - \[noun\], accusative, singular, masculine
 - “garment.”
-------------------------------------------------------------------------
+
+_________
+
 - *ajate* ← *aj*
 - \[verb\], singular, Present indikative
 - “drive; expel.”
-------------------------------------------------------------------------
+
+_________
+
 - *simasmān* ← *simasmāt* ← *sima*
 - \[noun\], ablative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *navā* ← *nava*
 - \[noun\], accusative, plural, neuter
 - “new; fresh; young; matutinal; recent; nava \[word\]; modern;
     fresh.”
-------------------------------------------------------------------------
+
+_________
+
 - *mātṛbhyo* ← *mātṛbhyaḥ* ← *mātṛ*
 - \[noun\], dative, plural, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
-------------------------------------------------------------------------
+
+_________
+
 - *vasanā* ← *vasana*
 - \[noun\], accusative, plural, neuter
 - “clothing; fabric; garment; vasana \[word\].”
-------------------------------------------------------------------------
+
+_________
+
 - *jahāti* ← *hā*
 - \[verb\], singular, Present indikative
 - “abandon; decrease; want; kill; deteriorate; get rid of; exclude;
     lose; avoid; remove; leave; abandon; neglect; leave; discard;
     apostatize; discontinue; weaken; abandon; assail; subtract;
     foreswear; pour away; withdraw; depart; reduce.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 <details><summary>सायण-भाष्यम्</summary>
 
