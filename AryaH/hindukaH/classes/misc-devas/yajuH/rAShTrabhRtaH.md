@@ -3,7 +3,7 @@ title: राष्ट्रभृतः
 unicode_script: devanagari
 
 ---
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/3/4/07_rAShTrabhRnmantrAH">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/3/4/07_rAShTrabhRnmantrAH">
 <details open><summary><h2>०७ राष्ट्रभृन्मन्त्राः ...{Loading}...</h2></summary>
 
 

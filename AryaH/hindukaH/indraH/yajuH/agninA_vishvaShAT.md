@@ -3,7 +3,7 @@ title: अग्निना विश्वषाट्
 unicode_script: devanagari
 
 ---
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/4/4/08_indratanvAkhyeShTakopadhAnam/">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/4/4/08_indratanvAkhyeShTakopadhAnam/">
 <details open><summary><h5>०८ इन्द्रतन्वाख्येष्टकोपधानम् ...{Loading}...</h5></summary>
 
 

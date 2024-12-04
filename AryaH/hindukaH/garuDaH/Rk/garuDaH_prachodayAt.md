@@ -3,7 +3,7 @@ title = "गरुडः प्रचोदयात्"
 unicode_script = "devanagari"
 +++
 
-<div class="js_include" newlevelforh1="4" includetitle="false" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_05/11_tat_puruShAya.md">
+<div class="js_include" newlevelforh1="4" includetitle="false" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_05/11_tat_puruShAya.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 तत् पुरु॑षाय वि॒द्महे॑  

@@ -7,7 +7,7 @@ practice_weight = 5
 
 +++(तैत्तिरीयारण्यकस्वरोऽत्र।)+++
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/44_vAmadevAya_namaH/">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/44_vAmadevAya_namaH/">
 <details open><summary><h2>४४ वामदेवाय नमः ...{Loading}...</h2></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

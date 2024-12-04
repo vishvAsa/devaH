@@ -3,7 +3,7 @@ title: सह नाववतु
 unicode_script: devanagari
 
 ---
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/05_taittirIyopaniShat/23-42_vAruNy-upaniShat/23_sahanAvavatu/">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/05_taittirIyopaniShat/23-42_vAruNy-upaniShat/23_sahanAvavatu/">
 <details open><summary><h2>सह नाववतु ...{Loading}...</h2></summary>
 
 स॒ह ना॑व् अवतु ।  

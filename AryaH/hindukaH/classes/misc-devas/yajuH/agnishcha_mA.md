@@ -5,7 +5,7 @@ unicode_script: devanagari
 ---
 +++(अत्रारण्यकोक्त-वाक्यस्वरः।)+++
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/24_agnish_cha/">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/24_agnish_cha/">
 <details open><summary><h2>२४ अग्निश् च ...{Loading}...</h2></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

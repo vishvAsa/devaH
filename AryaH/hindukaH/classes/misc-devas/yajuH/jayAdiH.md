@@ -4,7 +4,7 @@ title: जयादयः
 unicode_script: devanagari
 
 ---
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/3/4/04_jayahomamantrAH_tatprashaMsA_cha">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/3/4/04_jayahomamantrAH_tatprashaMsA_cha">
 <details open><summary><h2>०४ जयहोममन्त्राः, तत्प्रशंसा च ...{Loading}...</h2></summary>
 
 

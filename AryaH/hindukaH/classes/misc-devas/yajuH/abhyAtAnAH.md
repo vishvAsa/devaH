@@ -4,7 +4,7 @@ title: अभ्यातानाः
 unicode_script: devanagari
 
 ---
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/3/4/05_abhyAtAnamantrAH">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/3/4/05_abhyAtAnamantrAH">
 <details open><summary><h2>०५ अभ्यातानमन्त्राः ...{Loading}...</h2></summary>
 
 

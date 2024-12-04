@@ -4,7 +4,7 @@ unicode_script = "devanagari"
 
 +++
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/45_aghorebhyo_atha.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/45_aghorebhyo_atha.md">
 <details open><summary><h2>४५ अघोरेभ्यो ऽथ ...{Loading}...</h2></summary>
 
 अ॒घोरे᳚भ्योऽथ॒ घोरे᳚भ्यो॒  

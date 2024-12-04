@@ -6,7 +6,7 @@ unicode_script = "devanagari"
 
 +++(तैत्तिरीयारण्यकस्वरोऽत्र।)+++
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/47_IshAnas_sarvabhUtAnAm">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/47_IshAnas_sarvabhUtAnAm">
 <details open><summary><h2>४७ ईशानस् सर्वभूतानाम् ...{Loading}...</h2></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

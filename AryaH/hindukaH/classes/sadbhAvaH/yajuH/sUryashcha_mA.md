@@ -4,7 +4,7 @@ unicode_script: devanagari
 
 ---
 +++(अत्रारण्यकोक्त-वाक्यस्वरः। विस्तारो [ऽत्र](../../../../sanskrit/shixaa/svaraH/) ।)+++
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/25_sUryash_cha/">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/25_sUryash_cha/">
 <details open><summary><h2>२५ सूर्यश् च ...{Loading}...</h2></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
