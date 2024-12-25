@@ -4,7 +4,7 @@ unicode_script = "devanagari"
 
 +++
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/kAvyam/laxyam/padyam/vishvAsaH/saMyamaH/bhArgava-mantraH">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/kAvyam/laxyam/padyam/vishvAsaH/saMyamaH/vishvAsa-nitya-smRtiH">
 <details open><summary><h2>भार्गवाग्निः ...{Loading}...</h2></summary>
 
 {{< figure src="../images/davAnalaH.jpg" title="" class="thumbnail">}}
