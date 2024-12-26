@@ -10,7 +10,7 @@ unicode_script: devanagari
 function getSelectionWeight(url) {
   var cleanedUrl = url.replace("//", "/");
   let pageParams = module_uiLib.default.content.getPageParams(cleanedUrl);
-  if ( ! cleanedUrl.includes("/hindukaH/")  || cleanedUrl.includes("/meta/")  || cleanedUrl.includes("/images/")|| pageParams.logicalName == "_index.md") {
+  if ( ! cleanedUrl.includes("/hindukaH/")  || cleanedUrl.includes("/meta/")  || cleanedUrl.includes("/images/")|| pageParams.logicalName == "_index.md" || cleanedUrl.includes("/random/")) {
     return 0;
   }
   if (!pageParams || !pageParams.hasOwnProperty("practice_weight")) {
