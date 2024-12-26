@@ -3,7 +3,7 @@ title = "वास्तोष्पते"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/vAstoShpatiH/vAstoShpate/">
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/vAstoShpatiH/vAstoShpate/">
 <details open><summary><h1>वास्तोष्पते ...{Loading}...</h1></summary>
 
 ## ऋक्

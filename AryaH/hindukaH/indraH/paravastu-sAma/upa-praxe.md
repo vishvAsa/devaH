@@ -4,7 +4,7 @@ title: उप प्रक्षे
 unicode_script: devanagari
 
 ---
-<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/indraH/upa-praxe/">
+<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/indraH/upa-praxe/">
 <details open><summary><h1>उप प्रक्षे ...{Loading}...</h1></summary>
 
 ## ऋक्

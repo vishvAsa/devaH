@@ -3,7 +3,7 @@ title = "क ईं व्यक्ताः"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/marutaH/ka-IM-vyaktAH/">
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/marutaH/ka-IM-vyaktAH/">
 <details open><summary><h1>क ईं व्यक्ताः ...{Loading}...</h1></summary>
 
 ## ऋक्

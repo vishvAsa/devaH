@@ -5,7 +5,7 @@ status = "to_memorize"
 practice_weight = 0
 
 +++
-<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/agniH/tvam_agne_vasUn/">
+<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/agniH/tvam_agne_vasUn/">
 <details open><summary><h1>त्वमग्ने वसून् ...{Loading}...</h1></summary>
 
 ## ऋक्

@@ -3,7 +3,7 @@ title = "महावैश्वानरव्रतम्"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/agniH/mahAvaishvAnara-vratam/">
+<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/agniH/mahAvaishvAnara-vratam/">
 <details open><summary><h1>महावैश्वानरव्रतम् ...{Loading}...</h1></summary>
 
 ## ऋक्

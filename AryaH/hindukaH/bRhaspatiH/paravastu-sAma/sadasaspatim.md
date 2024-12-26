@@ -3,7 +3,7 @@ title = "सदसस्पतिम्"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/lokAntaram/sadasaspatim/">
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/lokAntaram/sadasaspatim/">
 <details open><summary><h1>सदसस्पतिम् ...{Loading}...</h1></summary>
 
 ## ऋक्

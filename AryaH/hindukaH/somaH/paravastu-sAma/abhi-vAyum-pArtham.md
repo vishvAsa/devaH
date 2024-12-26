@@ -4,7 +4,7 @@ unicode_script = "devanagari"
 practice_weight = 0
 
 +++
-<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/somaH/abhi-vAyum-pArtham/">
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/somaH/abhi-vAyum-pArtham/">
 <details open><summary><h1>अभि वायुम् - पार्थम् ...{Loading}...</h1></summary>
 
 ## ऋक्

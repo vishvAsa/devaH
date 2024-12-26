@@ -4,7 +4,7 @@ unicode_script = "devanagari"
 practice_weight = 0
 
 +++
-<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/indraH/yad-varcho-hiraNyasya-pradhe/">
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/indraH/yad-varcho-hiraNyasya-pradhe/">
 <details open><summary><h1>यद्वर्चो हिरण्यस्य प्रधे ...{Loading}...</h1></summary>
 
 ## ऋक्

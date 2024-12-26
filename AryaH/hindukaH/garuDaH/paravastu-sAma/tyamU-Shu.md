@@ -4,7 +4,7 @@ devatAH = "तार्क्ष्यः"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/misc-devas/tyamU-Shu/">
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/misc-devas/tyamU-Shu/">
 <details open><summary><h1>त्यमू षु ...{Loading}...</h1></summary>
 
 ## ऋक्

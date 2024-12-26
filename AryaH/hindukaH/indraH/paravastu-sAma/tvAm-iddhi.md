@@ -4,7 +4,7 @@ unicode_script = "devanagari"
 practice_weight = 0
 
 +++
-<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/indraH/tvAm-iddhi/">
+<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/indraH/tvAm-iddhi/">
 <details open><summary><h1>त्वामिद्धि हवामहे ...{Loading}...</h1></summary>
 <details><summary>विश्वास-टिप्पनी</summary>
 

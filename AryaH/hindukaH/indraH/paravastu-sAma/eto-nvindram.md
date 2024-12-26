@@ -4,7 +4,7 @@ unicode_script = "devanagari"
 practice_weight = 0
 
 +++
-<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/indraH/eto-nvindram/">
+<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/indraH/eto-nvindram/">
 <details open><summary><h1>एतो न्विन्द्रम् ...{Loading}...</h1></summary>
 
 ४ ६ २ ०९०१  

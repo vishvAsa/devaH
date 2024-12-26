@@ -3,7 +3,7 @@ title = "ब्रह्म जज्ञानम्"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/lokAntaram/brahma-jajJNAnam/">
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/lokAntaram/brahma-jajJNAnam/">
 <details open><summary><h1>ब्रह्म जज्ञानम् ...{Loading}...</h1></summary>
 
 ## ऋक्

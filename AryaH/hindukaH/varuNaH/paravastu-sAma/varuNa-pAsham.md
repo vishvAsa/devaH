@@ -4,7 +4,7 @@ devatAH = "वरुणः"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/AdityaH/varuNa-pAsham/">
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/AdityaH/varuNa-pAsham/">
 <details open><summary><h1>वरुणपाशम् ...{Loading}...</h1></summary>
 
 ## ऋक्

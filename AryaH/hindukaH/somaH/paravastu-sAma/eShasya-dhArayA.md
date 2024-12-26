@@ -3,7 +3,7 @@ title = "एष स्य धारया सुतः"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/somaH/eShasya-dhArayA/">
+<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/somaH/eShasya-dhArayA/">
 <details open><summary><h1>एष स्य धारया सुतः ...{Loading}...</h1></summary>
 
 ## ऋक्

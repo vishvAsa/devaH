@@ -3,7 +3,7 @@ title = "वामदेव्यम् पञ्चनिधनम्"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/indraH/vAmadevyam-panchanidhanam/">
+<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/indraH/vAmadevyam-panchanidhanam/">
 <details open><summary><h1>वामदेव्यम् पञ्चनिधनम् ...{Loading}...</h1></summary>
 
 ## ऋक्

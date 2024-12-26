@@ -4,7 +4,7 @@ unicode_script = "devanagari"
 practice_weight = 0
 
 +++
-<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/somaH/akrAnt-samudraH/">
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/somaH/akrAnt-samudraH/">
 <details open><summary><h1>अक्रान्त् समुद्रः ...{Loading}...</h1></summary>
 
 ## ऋक्

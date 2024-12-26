@@ -4,7 +4,7 @@ devatAH = "मित्रः, वरुणः, अर्यमा, इन्द
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/AdityaH/mahi-trINAm/">
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/AdityaH/mahi-trINAm/">
 <details open><summary><h1>महि त्रीणाम् ...{Loading}...</h1></summary>
 
 ## ऋक्

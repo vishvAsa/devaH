@@ -3,7 +3,7 @@ title = "अग्न आयूंषि"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/agniH/agna_AyUMShi/">
+<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/agniH/agna_AyUMShi/">
 <details open><summary><h1>अग्न आयूंषि ...{Loading}...</h1></summary>
 
 ## ऋक्

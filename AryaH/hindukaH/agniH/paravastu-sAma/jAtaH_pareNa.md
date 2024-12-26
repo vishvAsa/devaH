@@ -4,7 +4,7 @@ unicode_script = "devanagari"
 practice_weight = 0
 
 +++
-<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/agniH/jAtaH_pareNa/">
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/agniH/jAtaH_pareNa/">
 <details open><summary><h1>जातः परेण ...{Loading}...</h1></summary>
 
 ## ऋक्

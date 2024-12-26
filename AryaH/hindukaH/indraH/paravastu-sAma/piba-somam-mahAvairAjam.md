@@ -3,7 +3,7 @@ title = "पिब मत्स्व - महावैराजम्"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/indraH/piba-somam-mahAvairAjam/">
+<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/indraH/piba-somam-mahAvairAjam/">
 <details open><summary><h1>पिब मत्स्व - महावैराजम् ...{Loading}...</h1></summary>
 
 ## ऋक्

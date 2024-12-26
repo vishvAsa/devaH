@@ -3,7 +3,7 @@ title = "इन्द्रन्नरो- ग्रामगेयम्"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/indraH/indran-naro-grAma-geyam/">
+<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/indraH/indran-naro-grAma-geyam/">
 <details open><summary><h1>इन्द्रन्नरो- ग्रामगेयम् ...{Loading}...</h1></summary>
 
 ## ऋक्

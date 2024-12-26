@@ -4,7 +4,7 @@ unicode_script = "devanagari"
 practice_weight = 0
 
 +++
-<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/agniH/namas_te_agne/">
+<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/agniH/namas_te_agne/">
 <details open><summary><h1>नमस्ते ऽग्ने ...{Loading}...</h1></summary>
 
 ## ऋक्

@@ -3,7 +3,7 @@ title = "मार्गीयवम्"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/indraH/mArgIyavam/">
+<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/indraH/mArgIyavam/">
 <details open><summary><h1>मार्गीयवम् ...{Loading}...</h1></summary>
 
 ## ऋक्

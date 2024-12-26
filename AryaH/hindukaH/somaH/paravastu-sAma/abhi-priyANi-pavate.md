@@ -3,7 +3,7 @@ title = "अभि प्रियाणि पवते"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/somaH/abhi-priyANi-pavate/">
+<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/somaH/abhi-priyANi-pavate/">
 <details open><summary><h1>अभि प्रियाणि पवते ...{Loading}...</h1></summary>
 
 ## ऋक्

@@ -5,7 +5,7 @@ status = "to_memorize"
 practice_weight = 0
 
 +++
-<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/agniH/pRxasya_vRShNo/">
+<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/agniH/pRxasya_vRShNo/">
 <details open><summary><h1>पृक्षस्य वृष्णो ...{Loading}...</h1></summary>
 
 ## ऋक्

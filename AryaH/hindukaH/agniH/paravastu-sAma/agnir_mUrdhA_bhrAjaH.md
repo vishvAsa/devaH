@@ -4,7 +4,7 @@ unicode_script = "devanagari"
 practice_weight = 0
 
 +++
-<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/agniH/agnir_mUrdhA_bhrAjaH/">
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/agniH/agnir_mUrdhA_bhrAjaH/">
 <details open><summary><h1>अग्निर् मूर्धा-आभ्राजः ...{Loading}...</h1></summary>
 
 ## ऋक्

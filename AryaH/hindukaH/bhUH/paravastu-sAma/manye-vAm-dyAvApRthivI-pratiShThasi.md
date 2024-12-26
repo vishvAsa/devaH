@@ -4,7 +4,7 @@ unicode_script = "devanagari"
 practice_weight = 0
 
 +++
-<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/lokAntaram/manye-vAm-dyAvApRthivI-pratiShThasi/">
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/lokAntaram/manye-vAm-dyAvApRthivI-pratiShThasi/">
 <details open><summary><h1>मन्ये वां द्यावापृथिवी ...{Loading}...</h1></summary>
 
 ## ऋक्

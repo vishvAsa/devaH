@@ -3,7 +3,7 @@ title = "आश्वसूक्तम्"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/indraH/Ashva-sUktam/">
+<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/indraH/Ashva-sUktam/">
 <details open><summary><h1>आश्वसूक्तम् ...{Loading}...</h1></summary>
 
 ## ऋक्

@@ -4,7 +4,7 @@ unicode_script = "devanagari"
 practice_weight = 0
 
 +++
-<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/indraH/idaM-hi-no-ojasA-ghRtashchunidhanam/">
+<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/indraH/idaM-hi-no-ojasA-ghRtashchunidhanam/">
 <details open><summary><h1>इदं हि नो - घृतश्चुनिधनम् ...{Loading}...</h1></summary>
 
 ## ऋक्

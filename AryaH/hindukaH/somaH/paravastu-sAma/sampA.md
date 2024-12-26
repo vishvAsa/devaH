@@ -3,7 +3,7 @@ title = "सम्पा"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/somaH/sampA/">
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/somaH/sampA/">
 <details open><summary><h1>सम्पा ...{Loading}...</h1></summary>
 
 ## ऋक्

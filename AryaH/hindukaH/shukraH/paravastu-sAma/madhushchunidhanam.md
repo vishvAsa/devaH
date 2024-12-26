@@ -3,7 +3,7 @@ title = "मधुश्चुनिधनम्"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/lokAntaram/madhushchunidhanam/">
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/lokAntaram/madhushchunidhanam/">
 <details open><summary><h1>मधुश्चुनिधनम् ...{Loading}...</h1></summary>
 
 ## ऋक्

@@ -3,7 +3,7 @@ title = "सोमः पवते - महावात्सप्रम्"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/somaH/somaH-pavate-mahAvAtsapram/">
+<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/somaH/somaH-pavate-mahAvAtsapram/">
 <details open><summary><h1>सोमः पवते - महावात्सप्रम् ...{Loading}...</h1></summary>
 
 ## ऋक्

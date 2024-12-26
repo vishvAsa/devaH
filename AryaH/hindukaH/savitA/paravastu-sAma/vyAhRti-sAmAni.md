@@ -3,7 +3,7 @@ title = "व्याहृतिसामानि"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/AdityaH/vyAhRti-sAmAni/">
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/AdityaH/vyAhRti-sAmAni/">
 <details open><summary><h1>व्याहृतिसामानि ...{Loading}...</h1></summary>
 
 ## ऋक्

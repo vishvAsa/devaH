@@ -4,7 +4,7 @@ unicode_script = "devanagari"
 practice_weight = 0
 
 +++
-<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/indraH/piba-somam-vairAja-RShabha/">
+<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/indraH/piba-somam-vairAja-RShabha/">
 <details open><summary><h1>पिब मत्स्व - वैराज-ऋषभम् ...{Loading}...</h1></summary>
 
 ## ऋक्

@@ -4,7 +4,7 @@ unicode_script = "devanagari"
 practice_weight = 0
 
 +++
-<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/indraH/purAm-bhindur-yuvA/">
+<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/indraH/purAm-bhindur-yuvA/">
 <details open><summary><h1>पुरां भिन्दुर्युवा ...{Loading}...</h1></summary>
 
 ## ऋक्

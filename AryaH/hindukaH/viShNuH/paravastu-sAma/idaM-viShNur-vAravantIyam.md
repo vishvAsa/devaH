@@ -5,7 +5,7 @@ status = "to_memorize"
 practice_weight = 0
 
 +++
-<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/viShNuH/idaM-viShNur-vAravantIyam/">
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/viShNuH/idaM-viShNur-vAravantIyam/">
 <details open><summary><h1>इदं विष्णुर् (वारवन्तीयम्) ...{Loading}...</h1></summary>
 
 ## ऋक्

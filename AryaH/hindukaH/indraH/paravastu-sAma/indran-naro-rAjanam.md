@@ -4,7 +4,7 @@ unicode_script = "devanagari"
 practice_weight = 0
 
 +++
-<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/indraH/indran-naro-rAjanam/">
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/indraH/indran-naro-rAjanam/">
 <details open><summary><h1>इन्द्रन्नरो- राजनम् ...{Loading}...</h1></summary>
 
 ## ऋक्

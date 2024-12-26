@@ -3,7 +3,7 @@ title = "गारम्"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/indraH/gAram/">
+<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/indraH/gAram/">
 <details open><summary><h1>गारम् ...{Loading}...</h1></summary>
 
 ## ऋक्

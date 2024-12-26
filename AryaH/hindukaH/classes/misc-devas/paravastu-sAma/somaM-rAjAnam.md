@@ -4,7 +4,7 @@ status = "to_memorize"
 practice_weight = 0
 
 +++
-<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/misc-devas/somaM-rAjAnam/">
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/misc-devas/somaM-rAjAnam/">
 <details open><summary><h1>सोमं राजानं ...{Loading}...</h1></summary>
 
 ## ऋक्

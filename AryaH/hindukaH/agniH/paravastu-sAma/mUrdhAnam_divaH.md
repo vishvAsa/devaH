@@ -3,7 +3,7 @@ title = "मूर्धानं दिवः"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/agniH/mUrdhAnam_divaH/">
+<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/agniH/mUrdhAnam_divaH/">
 <details open><summary><h1>मूर्धानं दिवः ...{Loading}...</h1></summary>
 
 ## ऋक्

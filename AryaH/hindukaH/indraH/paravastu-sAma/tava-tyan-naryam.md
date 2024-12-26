@@ -3,7 +3,7 @@ title = "तव त्यन्नर्यत्"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/indraH/tava-tyan-naryam/">
+<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/indraH/tava-tyan-naryam/">
 <details open><summary><h1>तव त्यन्नर्यत् ...{Loading}...</h1></summary>
 
 ## ऋक्

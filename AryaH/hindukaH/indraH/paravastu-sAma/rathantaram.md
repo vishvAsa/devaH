@@ -3,7 +3,7 @@ title = "रथन्तरम्"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/indraH/rathantaram/">
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/indraH/rathantaram/">
 <details open><summary><h1>रथन्तरम् ...{Loading}...</h1></summary>
 
 ## ऋक्

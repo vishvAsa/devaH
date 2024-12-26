@@ -4,7 +4,7 @@ unicode_script = "devanagari"
 practice_weight = 0
 
 +++
-<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/somaH/uchchA-te-apatyam/">
+<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/somaH/uchchA-te-apatyam/">
 <details open><summary><h1>उच्चा ते - अपत्यम् ...{Loading}...</h1></summary>
 
 ## ऋक्

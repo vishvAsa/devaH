@@ -3,7 +3,7 @@ title = "सेतुषाम"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/misc-devas/setUMs-tara/">
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/misc-devas/setUMs-tara/">
 <details open><summary><h1>सेतुषाम ...{Loading}...</h1></summary>
 
 ## ऋक्

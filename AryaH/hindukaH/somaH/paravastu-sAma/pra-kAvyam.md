@@ -5,7 +5,7 @@ status = "to_memorize"
 practice_weight = 0
 
 +++
-<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/somaH/pra-kAvyam/">
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/somaH/pra-kAvyam/">
 <details open><summary><h1>प्र काव्यं ...{Loading}...</h1></summary>
 
 ## ऋक्

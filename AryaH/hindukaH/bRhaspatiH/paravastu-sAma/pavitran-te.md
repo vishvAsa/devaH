@@ -5,7 +5,7 @@ status = "to_memorize"
 practice_weight = 0
 
 +++
-<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/lokAntaram/pavitran-te/">
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/lokAntaram/pavitran-te/">
 <details open><summary><h1>पवित्रन्ते विततम् ...{Loading}...</h1></summary>
 
 ## ऋक्

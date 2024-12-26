@@ -3,7 +3,7 @@ title = "दीर्घम्"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/somaH/dIrgham/">
+<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/somaH/dIrgham/">
 <details open><summary><h1>दीर्घम् ...{Loading}...</h1></summary>
 
 ## ऋक्

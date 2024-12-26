@@ -3,7 +3,7 @@ title = "पवमानः"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/somaH/pavamAna/">
+<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/somaH/pavamAna/">
 <details open><summary><h1>पवमानः ...{Loading}...</h1></summary>
 
 ## ऋक्

@@ -3,7 +3,7 @@ title = "त्रातारम् इन्द्रम्"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/indraH/trAtAram-indram/">
+<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/indraH/trAtAram-indram/">
 <details open><summary><h1>त्रातारम् इन्द्रम् ...{Loading}...</h1></summary>
 
 ## ऋक्

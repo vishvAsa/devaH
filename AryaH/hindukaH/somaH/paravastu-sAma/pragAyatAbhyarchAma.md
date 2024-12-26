@@ -4,7 +4,7 @@ unicode_script = "devanagari"
 practice_weight = 0
 
 +++
-<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/somaH/pragAyatAbhyarchAma/">
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/somaH/pragAyatAbhyarchAma/">
 <details open><summary><h1>प्रगायताभ्यर्चाम ...{Loading}...</h1></summary>
 
 ## ऋक्

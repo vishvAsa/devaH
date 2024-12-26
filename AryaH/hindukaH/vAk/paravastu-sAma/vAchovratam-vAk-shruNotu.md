@@ -4,7 +4,7 @@ unicode_script = "devanagari"
 practice_weight = 0
 
 +++
-<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/vAk/vAchovratam-vAk-shruNotu/">
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/vAk/vAchovratam-vAk-shruNotu/">
 <details open><summary><h1>वाचोव्रतम् - श्रुणोतु! ...{Loading}...</h1></summary>
 
 ## ऋक्

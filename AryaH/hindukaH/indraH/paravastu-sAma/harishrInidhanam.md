@@ -3,7 +3,7 @@ title = "हरिश्रीनिधनम्"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/indraH/harishrInidhanam/">
+<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/indraH/harishrInidhanam/">
 <details open><summary><h1>हरिश्रीनिधनम् ...{Loading}...</h1></summary>
 
 ## ऋक्

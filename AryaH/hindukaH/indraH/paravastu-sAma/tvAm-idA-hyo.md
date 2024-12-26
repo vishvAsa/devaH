@@ -4,7 +4,7 @@ title: त्वामिदा ह्यो
 unicode_script: devanagari
 
 ---
-<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/indraH/tvAm-idA-hyo/">
+<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/indraH/tvAm-idA-hyo/">
 <details open><summary><h1>त्वामिदा ह्यो ...{Loading}...</h1></summary>
 
 ## ऋक्

@@ -3,7 +3,7 @@ title = "वाचोव्रतम्"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/vAk/vAchovratam/">
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/vAk/vAchovratam/">
 <details open><summary><h1>वाचोव्रतम् ...{Loading}...</h1></summary>
 
 ## ऋक्

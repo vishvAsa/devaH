@@ -3,7 +3,7 @@ title = "यद्द्याव- अञ्जो वैरूपम्"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/indraH/yad-dyAva-anjo-vairUpam/">
+<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/indraH/yad-dyAva-anjo-vairUpam/">
 <details open><summary><h1>यद्द्याव- अञ्जो वैरूपम् ...{Loading}...</h1></summary>
 
 ## ऋक्

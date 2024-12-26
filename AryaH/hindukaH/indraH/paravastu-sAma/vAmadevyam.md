@@ -3,7 +3,7 @@ title = "वामदेव्यम् - कया नश्"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/indraH/vAmadevyam/">
+<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/indraH/vAmadevyam/">
 <details open><summary><h1>वामदेव्यम् ...{Loading}...</h1></summary>
 
 ## ऋक्
