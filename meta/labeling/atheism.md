@@ -9,4 +9,3 @@ This results in hindu-s confusingly (and to a certain extant, confusedly) identi
 
 The latter is mostly uncontrovertial, so we deal with the fomer.  
 
-Personal note: For all purposes practical to most atheists, I am an atheist (in that I don't believe in a god who orchestrates supernatural phenomena to answer prayers - since the laws of nature are sacred to the Gods); yet in nearly all ways which matter to most theists, I am a theist.
