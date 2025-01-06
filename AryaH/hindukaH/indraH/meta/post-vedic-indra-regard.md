@@ -2,14 +2,26 @@
 title = "Post-vedic indra-regard"
 +++
 
+shrauta (eg. soma sacrifices) and gRhya rites (eg. vaishvadeva, sthAlIpAka) routinely include offerings for indra.
+
 A thrill is felt by anyone of the thousands (and more in past times) who routinely chant the Rks or sing the sAmans dedicated to Indra (with even a little understanding).
 
+kAvyakaNTha-gaNapati-muni even composed an indra-sahasra-nAma-stotra - [YT](https://www.youtube.com/watch?v=4MF0EMbF2XI).
 
-> It almost feels liek a conspiracy was made to weaken the Aryans by villainizing Indra Dev in texts.
+> It almost feels like a conspiracy was made to weaken the Aryans by villainizing Indra Dev in texts.
 
-The last statement, though much fancied in some circles (eg. Nikhil's vedism), is vastly overblown. Indra is not villainized - just a bit humanized (ie. adduced human-like flaws); like other Gods in some myths (including viShNu and shiva). People familiar with vedic lore would not think that Indra is not worthy of adoration (though they may think that no one is as worthy of adoration as their favorite deity).
+This statement, though much fancied in some circles (eg. Nikhil's vedism), is vastly overblown. Indra is not villainized - just a bit humanized (ie. adduced human-like flaws); like other Gods in some myths (including viShNu and shiva). 
+
+People familiar with vedic lore would not think that Indra is not worthy of adoration (though they may think that no one is as worthy of adoration as their favorite deity).
 
 As an example was just listening to this lecture on the vaishvamitras on an orthodox vadakalai shrIvaiShNava channel, which in the initial few minutes deals with an aindra mantra. ST_20221205_17.6.Veda_Vaibhavam_series-_Veda_Rishigal - mp3, [YT](https://www.youtube.com/watch?v=oZfCHczPoiU)  
+
+Several local festivals celebrate Indra, like:
+
+- indra jAtrA of nepAl
+- Royal festival, July, Himachal Pradesh
+- indra puja (eg. madhubani), Jhijhian Dance of Bihar
+- Indra Vila of TN (currently rare)
 
 > Human-like flaws such as being castrated and covered in a thousand female genitalia 🥰
 
