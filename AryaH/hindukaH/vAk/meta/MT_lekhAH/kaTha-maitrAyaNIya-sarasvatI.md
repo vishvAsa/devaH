@@ -34,7 +34,7 @@ The kaTha tradition has a peculiar sarasvatI devatA known as veshabhaginI, siste
 > May the gain give me vigor;  
 > may the gain give me virility.  
 > May you be the virile one for the mares and and dames of gain.
-> 
+
 
 ## Triadic forms
 The three forms of aditi and the 3 of sarasvatI as per the yajuSh tradition
@@ -50,5 +50,6 @@ Other triadic forms
 
 
 ## Mynah and parrot
-सरस्वत्यै शारिः पुरुषवाक् । सरस्वते शुकः पुरुषवाक् ॥  
+> सरस्वत्यै शारिः पुरुषवाक् । सरस्वते शुकः पुरुषवाक् ॥  
+
 The binding of a mynah and a parrot  talking human speech for sarasvatI in the maitrAyaNIya shruti. Brings to mind the gruesome ritual (for modern H sensibilities) in the atharvaNIya upanayana.
