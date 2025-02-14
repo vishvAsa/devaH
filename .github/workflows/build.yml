@@ -70,7 +70,7 @@ jobs:
       if: ${{ steps.changed-files.conclusion == 'skipped' || steps.changed-files.outputs.any_modified == 'true'}}
       id: setup_hugo
       with:
-        hugo-version: "0.119.0"
+        hugo-version: "0.143.0"
         # extended: true
       # Step 3 - Clean and don't fail
     - name: Clean build_github directory
