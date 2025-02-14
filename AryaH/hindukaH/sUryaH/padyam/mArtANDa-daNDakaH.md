@@ -4,7 +4,7 @@ unicode_script = "devanagari"
 
 +++
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/kAvyam/laxyam/padyam/rAjArAmasuta-shankaraH/stotram/mArtANDa-daNDakaH/">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/purANam/prakIrNam_kAvyam/padyam/rAjArAmaja-shankaraH/mArtANDa-daNDakaH/">
 <details open><summary><h2>मार्ताण्डदण्डकः ...{Loading}...</h2></summary>
 
 {{< figure src="../../images/sun_solar_flare.jpg"  class="thumbnail">}}

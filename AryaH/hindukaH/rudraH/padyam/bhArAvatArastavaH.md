@@ -4,7 +4,7 @@ title: भारावतारस्तवः
 unicode_script: devanagari
 
 ---
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/kAvyam/laxyam/padyam/rAjArAmasuta-shankaraH/stotram/bhArAvatArastavaH/">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/purANam/shaivam/kAvyam/padyam/rAjArAmaja-shankaraH/bhArAvatArastavaH/">
 <details open><summary><h2>भारावतारस्तवः ...{Loading}...</h2></summary>
 
 [google-play copy](https://play.google.com/books/reader?id=lMpUCwAAQBAJ&pg=GBS.PP2).

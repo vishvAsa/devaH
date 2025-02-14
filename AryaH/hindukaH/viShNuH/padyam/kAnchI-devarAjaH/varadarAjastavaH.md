@@ -3,7 +3,7 @@ title = "वरदराजस्तवः"
 
 +++
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/kAvyam/laxyam/padyam/shrIvaiShNava-kRtam/kUresha-shrIvatsAnka-mishraH/varada-rAja-stavaH/">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/purANam_vaiShNavam/kAvyam/padyam/shrIvaiShNava-kRtam/kUresha-shrIvatsAnka-mishraH/varada-rAja-stavaH/">
 <details open><summary><h2>वरदराजस्तवः ...{Loading}...</h2></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
