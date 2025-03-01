@@ -4,7 +4,7 @@ unicode_script = "devanagari"
 
 +++
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/prakIrNa-mantrAdi/gadyam/oM_namo_nArAyaNAya/">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/rAmAnujIyam/prakIrNa-mantrAdi/gadyam/oM_namo_nArAyaNAya/">
 <details open><summary><h5>ॐ नमो नारायणाय ...{Loading}...</h5></summary>
 
 
