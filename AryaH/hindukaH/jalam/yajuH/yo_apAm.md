@@ -2,6 +2,9 @@
 title = "यो ऽपाम्"
 unicode_script = "devanagari"
 +++
+
+<div class="js_include" url="/home/vvasuki/gitland/vishvAsa/vedAH_yajuH/content/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam" unfilled newLevelForH1="5" includeTitle="false">  
+
 मन्त्रपुष्पम्।   
 
 ॐ  
@@ -44,4 +47,5 @@ unicode_script = "devanagari"
 यस् सं॑वत्स॒रस्या॒यत॑नं॒ वेद॑, आ॒यत॑नवान् भवति ।  
 आपो॒ वै सं॑वत्स॒रस्या॒यत॑नम् । आ॒यत॑नवान् भवति ।  
 य ए॒वं वेद॑, यो᳚ऽप्सु नावं॒ प्रति॑ष्ठितां॒ वेद॑, प्रत्ये॒व ति॑ष्ठति ॥ ८॥  
-  
+
+ </div>
