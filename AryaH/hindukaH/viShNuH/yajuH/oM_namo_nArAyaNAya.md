@@ -111,5 +111,5 @@ unicode_script = "devanagari"
 - तत्-पुरुष-घटनेन +अन्ये ऽर्थाः। वेदे स्वरोऽपि तत्पुरुषपरः।  
 </details>
 
-
+</details>
 </div>
