@@ -3,7 +3,7 @@ title = "यो ऽपाम्"
 unicode_script = "devanagari"
 +++
 
-<div class="js_include" url="/home/vvasuki/gitland/vishvAsa/vedAH_yajuH/content/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam" unfilled newLevelForH1="5" includeTitle="false">  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/01_yo-pAm_mantrapuShpam" unfilled newLevelForH1="5" includeTitle="false">  
 
 मन्त्रपुष्पम्।   
 
