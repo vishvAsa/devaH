@@ -3,7 +3,7 @@ title: अग्निरायुष्मान्
 unicode_script: devanagari
 
 ---
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/05-09_agnirAyuShmAntsa_vanaspatibhirAyuShmAntena.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/2/3/10_AyuShkAmeShTimantrAH/agnir_AyuShmAn.md">
 <details open><summary><h2>०५-०९ अग्निरायुष्मान्त्स वनस्पतिभिरायुष्मान्तेन ...{Loading}...</h2></summary>
 
 
