@@ -5,12 +5,4 @@ unicode_script: devanagari
 status: to_memorize
 ---
 
-आपः॑ पुनन्तु पृथि॒वीं  
-पृ॑थि॒वी पू॒ता पु॑नातु॒ माम् ।  
-पु॒नन्तु॒ ब्रह्म॑ण॒स्-पति॒र्  
-ब्रह्म॑ पू॒ता पु॑नातु॒ माम् ।  
-
-यद् उच्छि॑ष्ट॒म् अभो॑ज्य॒य्ँ  
-यद् वा॑ दु॒श्चरि॑तं॒ मम॑ ।  
-सर्वं॑ पुनन्तु॒ माम् आपो॑   
-ऽस॒ताञ् च॑ प्रति॒ग्रह॒२ꣳ॒ स्वाहा॑ ।
+<div class="js_include" url="/vedAH_yajuH/content/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/23_ApaH_punantu" unfilled newLevelForH1="5" includeTitle="false"> </div>  
