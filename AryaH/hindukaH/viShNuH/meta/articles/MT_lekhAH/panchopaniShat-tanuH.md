@@ -8,7 +8,7 @@ The shaiva-s originally conceptualized rudra-sadAshiva as pa~nchamantra-tanu, i.
 
 > pa~ncha-shaktimayo devah paramAtmA jagat-prabhuh |  
 pa~nchendriya-samAyogah panchadhA j~nAnam ashnute ||  
-(parAshara-saMhitA)
+(parama-saMhitA)
 
-One of them is the vaiShNava pa~nchabrahma seen in some early pA~ncharAtrika tantra-s like the aShTAdasha-vidhAna. The second is the tradition of the parAshara-saMhitA and pAdma-saMhitA, which says the five-fold form of viShNu is specified by the pa~nchopaniShan-mantra-s. These mantra-s are known as parameShThin, puruSha, vishva, nivR^itti and sarva with their respective bIja-s. The pAdma-saMhitA specifies the mahAbhiSheka of viShNu with the pa~nchagavya-s using these mantra-s.
+One of them is the vaiShNava pa~nchabrahma seen in some early pA~ncharAtrika tantra-s like the aShTAdasha-vidhAna. The second is the tradition of the parama-saMhitA and pAdma-saMhitA, which says the five-fold form of viShNu is specified by the pa~nchopaniShan-mantra-s. These mantra-s are known as parameShThin, puruSha, vishva, nivR^itti and sarva with their respective bIja-s. The pAdma-saMhitA specifies the mahAbhiSheka of viShNu with the pa~nchagavya-s using these mantra-s.
 
