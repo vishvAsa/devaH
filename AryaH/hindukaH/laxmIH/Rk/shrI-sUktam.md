@@ -3,7 +3,7 @@ title: श्री-सूक्तम्
 unicode_script: devanagari
 
 ---
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/khilam/2/06_shrI-sUktam/">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/khilam/2/06_shrI-sUktam_hiraNya-varNAm/01_drAviDapAThaH/">
 <details open><summary><h2>०६ श्री-सूक्तम् ...{Loading}...</h2></summary>
 <details><summary>मानसतरङ्गिणीकृत्-परिचयः</summary>
 

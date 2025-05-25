@@ -10,8 +10,6 @@ unicode_script = "devanagari"
 
 SV.1.92b; AV;S.12.2.12b; 18.1.61b.
 
-+++([रामनाथ-वेदालङ्कारो [ऽत्र](http://www.vedakosh.com/saam-veda/poorvarchika/prapaathaka-1/ardhaprapaathaka-2/dashati-10/saam-poorva-mantra-1-2-10-02?tmpl%3D%2Fsystem%2Fapp%2Ftemplates%2Fprint%2F%26showPrintDialog%3D1&sa=D&ust=1542425956401000)।])+++
-
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/38_0092_ita_eta.md">
 <details open><summary><h4>38_0092 इत एत ...{Loading}...</h4></summary>
