@@ -1,7 +1,7 @@
 +++
 title = "भद्रसूक्तम्"
 unicode_script = "devanagari"
-
+practice_weight = 0
 +++
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/kAThakam/mantra-pAThaH/bhadra-sUktam/">
