@@ -16,6 +16,6 @@ Hence, down the line when in the ritual where agni is carried in the ass cart he
 
 > स ई᳚श्व॒रः प्र॒जाः शु॒चा प्र॒दहः॑  
 > शि॒वो भ॑व प्र॒जाभ्य॒ इत्या॑ह  
-> प्र॒जाभ्य॑ ए॒वैनꣳ॑ शमयति ।
+> प्र॒जाभ्य॑ ए॒वैनँ॑ शमयति ।
 
 he is pacified by the incantation calling him shiva. This may be understood as agni having become his dual rudra and is pacified by the incantation "become shiva" for preventing him from burning the ritualist's progeny.

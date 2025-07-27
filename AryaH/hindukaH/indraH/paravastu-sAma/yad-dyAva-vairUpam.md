@@ -11,7 +11,7 @@ practice_weight = 0
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/3/2/36_0278_yadyAva_indra.md">
 <details open><summary><h4>36_0278 यद्याव इन्द्र ...{Loading}...</h4></summary>
 
-य꣡द्याव꣢꣯ इन्द्र ते श꣣त꣢ꣳ श꣣तं꣡ भूमी꣢꣯रु꣣त꣢स्युः । न꣡ त्वा꣢ वज्रिन्त्स꣣ह꣢स्र꣣ꣳस्यु सू꣢र्या꣣ अ꣢नु꣣ न꣢ जा꣣त꣡म꣢ष्ट꣣ रो꣡द꣢सी ॥ 36:0278 ॥
+य꣡द्याव꣢꣯ इन्द्र ते श꣣त꣢ँ श꣣तं꣡ भूमी꣢꣯रु꣣त꣢स्युः । न꣡ त्वा꣢ वज्रिन्त्स꣣ह꣢स्र꣣ँस्यु सू꣢र्या꣣ अ꣢नु꣣ न꣢ जा꣣त꣡म꣢ष्ट꣣ रो꣡द꣢सी ॥ 36:0278 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/070/05_yaddyAva_indra.md">
 <details open><summary><h6>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h6></summary>

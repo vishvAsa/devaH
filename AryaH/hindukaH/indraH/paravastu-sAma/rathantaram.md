@@ -34,7 +34,7 @@ unicode_script = "devanagari"
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/1/1/11-2_0681_na_tvAvAManyo.md">
 <details open><summary><h4>11-2_0681 न त्वावांअन्यो ...{Loading}...</h4></summary>
 
-न꣡ त्वावा꣢꣯ꣳअ꣣न्यो꣢ दि꣣व्यो꣡ न पार्थि꣢꣯वो꣣ न꣢ जा꣣तो꣡ न ज꣢꣯निष्यते। अ꣣श्वाय꣡न्तो꣢ मघवन्निन्द्र वा꣣जि꣡नो꣢ ग꣣व्य꣡न्त꣢स्त्वा हवामहे ॥ 11-2:0681 ॥॥11(यी)॥
+न꣡ त्वावा꣢꣯ँअ꣣न्यो꣢ दि꣣व्यो꣡ न पार्थि꣢꣯वो꣣ न꣢ जा꣣तो꣡ न ज꣢꣯निष्यते। अ꣣श्वाय꣡न्तो꣢ मघवन्निन्द्र वा꣣जि꣡नो꣢ ग꣣व्य꣡न्त꣢स्त्वा हवामहे ॥ 11-2:0681 ॥॥11(यी)॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/032/23_na_tvAvA_N.md">
 <details open><summary><h6>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h6></summary>

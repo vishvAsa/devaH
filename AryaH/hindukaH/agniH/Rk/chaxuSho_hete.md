@@ -128,7 +128,7 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" includetitle="false" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_01-09_chaxuSho_hete/14_hanmi_te-ham.md">
 <details open><summary><h6>विश्वास-प्रस्तुतिः ...{Loading}...</h6></summary>
 
-**हन्मि॑** ते॒ऽहं  कृ॒तꣳ ह॒विः,  
+**हन्मि॑** ते॒ऽहं  कृ॒तँ ह॒विः,  
 यो मे॑ घो॒रम् **अची॑कृतः**+++(=अकार्षीः)+++ ।  
 **अपां॑चौ** त उ॒भौ बा॒हू,  
 **अप॑नह्याम्य्** (=बध्नामि) आ॒स्य॑म् ।
@@ -138,7 +138,7 @@ unicode_script: devanagari
 <details open><summary><h6>सर्वाष् टीकाः ...{Loading}...</h6></summary>
 <details><summary>मूलम्</summary>
 
-हन्मि॑ ते॒ऽहङ्कृ॒तꣳ ह॒विः ।
+हन्मि॑ ते॒ऽहङ्कृ॒तँ ह॒विः ।
 यो मे॑ घो॒रमची॑कृतः ।
 अपा᳚ञ्चौ त उ॒भौ बा॒हू ।
 अप॑नह्याम्या॒स्य᳚म् ॥13॥
@@ -210,7 +210,7 @@ unicode_script: devanagari
 अन्ति॑ दू॒रे **स॒तो** अ॒ग्ने,  
 **भ्रातृ॑व्यस्याऽऽभि॒दास॑तः** ।  
 व॒ष॒ट्का॒रेण॒ वज्रे॑ण,  
-कृ॒त्याꣳ **ह॑न्मि कृ॒ताम्** अ॒हम् ।
+कृ॒त्याँ **ह॑न्मि कृ॒ताम्** अ॒हम् ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_01-09_chaxuSho_hete/23_anti_dUre.md">
@@ -220,7 +220,7 @@ unicode_script: devanagari
 अन्ति॑ दू॒रे स॒तो अ॑ग्ने ।
 भ्रातृ॑व्यस्याभि॒दास॑तः ॥14॥  
 व॒ष॒ट्का॒रेण॒ वज्रे॑ण ।
-कृ॒त्याꣳ ह॑न्मि कृ॒ताम॒हम् ।
+कृ॒त्याँ ह॑न्मि कृ॒ताम॒हम् ।
 </details>
 <details><summary>सायण-टीका</summary>
 

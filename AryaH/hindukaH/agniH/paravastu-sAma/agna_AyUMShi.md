@@ -15,7 +15,7 @@ unicode_script = "devanagari"
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/2_AraNyArchikaH/42_0627_agna_AyUMShi.md">
 <details open><summary><h4>42_0627 अग्न आयूंषि ...{Loading}...</h4></summary>
 
-अ꣢ग्न꣣ आ꣡यू꣢ꣳषि पवस꣣ आ꣢सु꣣वो꣢र्ज꣣मि꣡षं꣢ च नः। आ꣣रे꣡ बा꣢धस्व दु꣣च्छु꣡ना꣢म् ॥ 42:0627 ॥
+अ꣢ग्न꣣ आ꣡यू꣢ँषि पवस꣣ आ꣢सु꣣वो꣢र्ज꣣मि꣡षं꣢ च नः। आ꣣रे꣡ बा꣢धस्व दु꣣च्छु꣡ना꣢म् ॥ 42:0627 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/066/19_agna_AyUMShi.md">
 <details open><summary><h6>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h6></summary>

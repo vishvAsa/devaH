@@ -12,7 +12,7 @@ practice_weight = 0
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/6/2/05_0549_abhI_no.md">
 <details open><summary><h4>05_0549 अभी नो ...{Loading}...</h4></summary>
 
-अ꣣भी꣡ नो꣢ वाज꣣सा꣡त꣢मꣳ र꣣यि꣡म꣢र्ष शत꣣स्पृ꣡ह꣢म्। इ꣡न्दो꣢ स꣣ह꣡स्र꣢भर्णसं तुविद्यु꣣म्नं꣡ वि꣢भा꣣स꣡ह꣢म् ॥ 05:0549 ॥
+अ꣣भी꣡ नो꣢ वाज꣣सा꣡त꣢मँ र꣣यि꣡म꣢र्ष शत꣣स्पृ꣡ह꣢म्। इ꣡न्दो꣢ स꣣ह꣡स्र꣢भर्णसं तुविद्यु꣣म्नं꣡ वि꣢भा꣣स꣡ह꣢म् ॥ 05:0549 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/098/01_abhi_no.md">
 <details open><summary><h6>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h6></summary>

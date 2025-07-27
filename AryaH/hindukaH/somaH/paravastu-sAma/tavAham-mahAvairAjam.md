@@ -15,7 +15,7 @@ RV.9.107.19a; SV.1.516a; 2.272a; JB.3.67a; PB.12.9.3a; Svidh.1.5.8.
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/6/1/30_0516_tavAhaM_soma.md">
 <details open><summary><h4>30_0516 तवाहं सोम ...{Loading}...</h4></summary>
 
-त꣢वा꣣ह꣡ꣳ सो꣢म रारण स꣣ख्य꣡ इ꣢न्दो दि꣣वे꣡दि꣢वे। पु꣣रू꣡णि꣢ बभ्रो꣣ नि꣡ च꣢रन्ति꣣ मा꣡मव꣢꣯ परि꣣धी꣢꣫ꣳरति꣣ ता꣡ꣳ इ꣢हि ॥ 30:0516 ॥
+त꣢वा꣣ह꣡ँ सो꣢म रारण स꣣ख्य꣡ इ꣢न्दो दि꣣वे꣡दि꣢वे। पु꣣रू꣡णि꣢ बभ्रो꣣ नि꣡ च꣢रन्ति꣣ मा꣡मव꣢꣯ परि꣣धी꣢꣫ँरति꣣ ता꣡ँ इ꣢हि ॥ 30:0516 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/107/19_tavAhaM_soma.md">
 <details open><summary><h6>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h6></summary>

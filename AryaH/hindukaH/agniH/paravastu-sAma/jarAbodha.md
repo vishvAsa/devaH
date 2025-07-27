@@ -13,7 +13,7 @@ unicode_script = "devanagari"
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/8/2/03-1_1663_jarAbodha_tadviviDDhi.md">
 <details open><summary><h4>03-1_1663 जराबोध तद्विविड्ढि ...{Loading}...</h4></summary>
 
-ज꣡रा꣢बोध꣣ त꣡द्वि꣢विड्ढि वि꣣शे꣡वि꣢शे य꣣ज्ञि꣡या꣢य। स्तो꣡म꣢ꣳ रु꣣द्रा꣡य꣢ दृशी꣣क꣢म् ॥ 03-1:1663 ॥
+ज꣡रा꣢बोध꣣ त꣡द्वि꣢विड्ढि वि꣣शे꣡वि꣢शे य꣣ज्ञि꣡या꣢य। स्तो꣡म꣢ँ रु꣣द्रा꣡य꣢ दृशी꣣क꣢म् ॥ 03-1:1663 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/027/10_jarAbodha_tadviviDDhi.md">
 <details open><summary><h6>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h6></summary>

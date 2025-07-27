@@ -15,7 +15,7 @@ unicode_script = "devanagari"
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/15_0069_A_vo.md">
 <details open><summary><h4>15_0069 आ वो ...{Loading}...</h4></summary>
 
-आ꣢ वो꣣ रा꣡जा꣢नमध्व꣣र꣡स्य꣢ रु꣣द्र꣡ꣳ होता꣢꣯रꣳ सत्य꣣य꣢ज꣣ꣳ रो꣡द꣢स्योः। अ꣣ग्निं꣢ पु꣣रा꣡ त꣢नयि꣣त्नो꣢र꣣चि꣢त्ता꣣द्धि꣡र꣢ण्यरूप꣣म꣡व꣢से कृणुध्वम् ॥ 15:0069 ॥
+आ꣢ वो꣣ रा꣡जा꣢नमध्व꣣र꣡स्य꣢ रु꣣द्र꣡ँ होता꣢꣯रँ सत्य꣣य꣢ज꣣ँ रो꣡द꣢स्योः। अ꣣ग्निं꣢ पु꣣रा꣡ त꣢नयि꣣त्नो꣢र꣣चि꣢त्ता꣣द्धि꣡र꣢ण्यरूप꣣म꣡व꣢से कृणुध्वम् ॥ 15:0069 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/003/01_A_vo.md">
 <details open><summary><h6>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h6></summary>

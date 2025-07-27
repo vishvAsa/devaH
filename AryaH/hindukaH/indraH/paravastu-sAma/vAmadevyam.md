@@ -28,7 +28,7 @@ unicode_script = "devanagari"
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/1/1/12-2_0683_kastvA_satyo.md">
 <details open><summary><h3>12-2_0683 कस्त्वा सत्यो ...{Loading}...</h3></summary>
 
-क꣡स्त्वा꣢ स꣣त्यो꣡ मदा꣢꣯नां꣣ म꣡ꣳहि꣢ष्ठो मत्स꣣द꣡न्ध꣢सः। दृ꣣ढा꣡ चि꣢दा꣣रु꣢जे꣣ व꣡सु꣢ ॥ 12-2:0683 ॥
+क꣡स्त्वा꣢ स꣣त्यो꣡ मदा꣢꣯नां꣣ म꣡ँहि꣢ष्ठो मत्स꣣द꣡न्ध꣢सः। दृ꣣ढा꣡ चि꣢दा꣣रु꣢जे꣣ व꣡सु꣢ ॥ 12-2:0683 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/02_kastvA_satyo.md">
 <details open><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>

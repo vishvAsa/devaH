@@ -28,7 +28,7 @@ unicode_script: devanagari
 तावतेष्टकाचयनमन्त्राः समाप्ताः।  
 अथ पञ्चदशेऽश्वमेधसंवन्धिन्यो याज्यानुवाक्या उच्यन्ते ।  
 अयं चानुवाकोऽस्मात्काण्डादुत्क्रष्टब्यः।  
-कल्पः— “अग्नयेऽꣳहोमुचेऽष्टाकपाल इति दशहविषं मृगारेष्टिमनुनिर्वपति समानं तु स्विष्टकृदिडमग्नेर्मग्ने प्रथमस्य प्रचेतस इति यथालिङ्गं याज्यानुवाक्याः” इति।  
+कल्पः— “अग्नयेऽँहोमुचेऽष्टाकपाल इति दशहविषं मृगारेष्टिमनुनिर्वपति समानं तु स्विष्टकृदिडमग्नेर्मग्ने प्रथमस्य प्रचेतस इति यथालिङ्गं याज्यानुवाक्याः” इति।  
 तत्रोदाहृतस्य प्रथमहविषः पुरोनुवाक्यामाह– अग्नेर्मन्व इति।  
 
 </details>
@@ -42,8 +42,8 @@ unicode_script: devanagari
 
 अ॒ग्नेर् **म॑न्वे** प्रथ॒मस्य॒ प्रचे॑तसो॒  
 यं पाञ्च॑जन्यं +++(=पञ्चभ्यो जनेभ्यो हितं)+++ ब॒हव॑स् **समि॒न्धते॑**।  
-विश्व॑स्यां वि॒शि **प्र॑विविशि॒वाꣳस॑म् ईमहे॒**  
-स नो **मुञ्च॒त्व्** अꣳह॑सः ॥
+विश्व॑स्यां वि॒शि **प्र॑विविशि॒वाँस॑म् ईमहे॒**  
+स नो **मुञ्च॒त्व्** अँह॑सः ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/02_agner_manve.md">
@@ -51,7 +51,7 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 अ॒ग्नेर्म॑न्वे प्रथ॒मस्य॒ प्रचे॑तसो॒ यम्पाञ्च॑जन्यम्ब॒हव॑स्समि॒न्धते᳚ ।   
-विश्व॑स्याव्ँवि॒शि प्र॑विविशि॒वाꣳस॑मीमहे॒ स नो॑ मुञ्च॒त्वꣳह॑सः ।
+विश्व॑स्याव्ँवि॒शि प्र॑विविशि॒वाँस॑मीमहे॒ स नो॑ मुञ्च॒त्वँह॑सः ।
 </details>
 <details><summary>सायण-टीका</summary>
 
@@ -67,7 +67,7 @@ unicode_script: devanagari
 यस्ये॒दं **प्रा॒णन् नि॑मि॒षद्** यद् **एज॑ति॒** +++(=कम्पते)+++  
 यस्य॑ **जा॒तं जन॑मानं** च॒ केव॑लम् +++(जगत्)+++।  
 **स्तौम्य्** अ॒ग्निं **ना॑थि॒तो +++(=फलयाच्ञावान्)+++ जो॑हवीमि॒**  
-स नो॑ **मुञ्च॒त्व्** अꣳह॑सः ॥
+स नो॑ **मुञ्च॒त्व्** अँह॑सः ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/05_yasyedaM_prANan.md">
@@ -75,7 +75,7 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 यस्ये॒दम्प्रा॒णन्नि॑मि॒षद्यदेज॑ति॒ यस्य॑ जा॒तञ्जन॑मानञ्च॒ केव॑लम् ।   
-स्तौम्य॒ग्निन्ना॑थि॒तो जो॑हवीमि॒ स नो॑ मुञ्च॒त्वꣳह॑सः ।
+स्तौम्य॒ग्निन्ना॑थि॒तो जो॑हवीमि॒ स नो॑ मुञ्च॒त्वँह॑सः ।
 </details>
 <details><summary>सायण-टीका</summary>
 
@@ -97,7 +97,7 @@ unicode_script: devanagari
 इन्द्र॑स्य **मन्ये** प्रथ॒मस्य॒ प्रचे॑तसो  
 वृत्र॒-घ्नः स्तोमा॒ +++(=स्तोत्राणि)+++ उप॒ माम् **उ॒पागुः॑**।  
 यो **दा॒शुषः॑** सु॒कृतो॒ हव॒म् **उप॒ गन्ता॒**  
-स नो॑ **मुञ्च॒त्व्** अꣳह॑सः ॥
+स नो॑ **मुञ्च॒त्व्** अँह॑सः ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/08_indrasya_manye.md">
@@ -105,11 +105,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 इन्द्र॑स्य मन्ये प्रथ॒मस्य॒ प्रचे॑तसो वृत्र॒घ्नस्स्तोमा॒ उप॒ मामु॒पागुः॑ ।   
-यो दा॒शुष॑स्सु॒कृतो॒ हव॒मुप॒ गन्ता᳚ [33]  स नो॑ मुञ्च॒त्वꣳह॑सः
+यो दा॒शुष॑स्सु॒कृतो॒ हव॒मुप॒ गन्ता᳚ [33]  स नो॑ मुञ्च॒त्वँह॑सः
 </details>
 <details><summary>सायण-टीका</summary>
 
-अथेन्द्रायाꣳ होमुच एकादशकपाल इत्यस्य पुरोनुवाक्यामाह– इन्द्रस्य मन्य इति।   प्रथमस्य सृष्ट्यादावत्पन्नस्य प्रचेतसः प्रकृष्टज्ञानवत इन्द्रस्य मूर्तिं मन्येऽहं मनसा चिन्तयामि।   **वृत्रघ्नः** शत्रुघातिन इन्द्रस्योप समीपं प्राप्ताः **स्तोमाः** स्तोत्राणि मां यजमानगुपागुः प्राप्ताः।   इन्द्रगुणकथनपराणि स्तोत्राणि मज्जिह्वायामवस्थितानीत्यर्थः।   य इन्द्रो दाशुयो हविर्दत्तवतः सुकुतः सुष्टु कर्मानुतिष्ठतो यजमानस्य हवमाह्वानं यज्ञं वोपगन्ता प्राप्स्यति।
+अथेन्द्रायाँ होमुच एकादशकपाल इत्यस्य पुरोनुवाक्यामाह– इन्द्रस्य मन्य इति।   प्रथमस्य सृष्ट्यादावत्पन्नस्य प्रचेतसः प्रकृष्टज्ञानवत इन्द्रस्य मूर्तिं मन्येऽहं मनसा चिन्तयामि।   **वृत्रघ्नः** शत्रुघातिन इन्द्रस्योप समीपं प्राप्ताः **स्तोमाः** स्तोत्राणि मां यजमानगुपागुः प्राप्ताः।   इन्द्रगुणकथनपराणि स्तोत्राणि मज्जिह्वायामवस्थितानीत्यर्थः।   य इन्द्रो दाशुयो हविर्दत्तवतः सुकुतः सुष्टु कर्मानुतिष्ठतो यजमानस्य हवमाह्वानं यज्ञं वोपगन्ता प्राप्स्यति।
 </details>
 </details>
 </div>
@@ -117,17 +117,17 @@ unicode_script: devanagari
 <details open><summary><h6>विश्वास-प्रस्तुतिः ...{Loading}...</h6></summary>
 
 यः सं॑ग्रा॒मं **नय॑ति॒ संव॒शी** यु॒धे  
-यः पु॒ष्टानि॑ **सꣳसृ॒जति॑** त्र॒याणि॑ +++(गावश्वपुरुषाः)+++।  
+यः पु॒ष्टानि॑ **सँसृ॒जति॑** त्र॒याणि॑ +++(गावश्वपुरुषाः)+++।  
 **स्तौमीन्द्रं॑** नाथि॒तो **जो॑हवीमि॒**  
-स नो॑ **मुञ्च॒त्व्** अꣳह॑सः ॥
+स नो॑ **मुञ्च॒त्व्** अँह॑सः ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/11_yaH_sangrAmam.md">
 <details open><summary><h6>सर्वाष् टीकाः ...{Loading}...</h6></summary>
 <details><summary>मूलम्</summary>
 
-यस्स॑ङ्ग्रा॒मन्नय॑ति॒ सव्ँव॒शी यु॒धे यᳶ पु॒ष्टानि॑ सꣳसृ॒जति॑ त्र॒याणि॑ ।   
-स्तौमीन्द्र॑न्नाथि॒तो जो॑हवीमि॒ स नो॑ मुञ्च॒त्वꣳह॑सः ।
+यस्स॑ङ्ग्रा॒मन्नय॑ति॒ सव्ँव॒शी यु॒धे यᳶ पु॒ष्टानि॑ सँसृ॒जति॑ त्र॒याणि॑ ।   
+स्तौमीन्द्र॑न्नाथि॒तो जो॑हवीमि॒ स नो॑ मुञ्च॒त्वँह॑सः ।
 </details>
 <details><summary>सायण-टीका</summary>
 
@@ -143,9 +143,9 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" includetitle="false" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/14_manve_vAm.md">
 <details open><summary><h6>विश्वास-प्रस्तुतिः ...{Loading}...</h6></summary>
 
-**म॒न्वे** वां॑ मित्रा-वरुणा॒, तस्य॑ +++(वैरिणो)+++ वित्त॒ꣳ॒  
-सत्यौ॑जसा **दृꣳहणा॒**+++(=स्तम्भयन्तौ)+++ यन् **नु॒देथे॑**।  
-या राजा॑नꣳ +++(आदित्यं)+++ स॒रथं॑ **या॒थ** +++(वृष्ट्यै)+++ उ॑ग्रा॒  
+**म॒न्वे** वां॑ मित्रा-वरुणा॒, तस्य॑ +++(वैरिणो)+++ वित्त॒ँ॒  
+सत्यौ॑जसा **दृँहणा॒**+++(=स्तम्भयन्तौ)+++ यन् **नु॒देथे॑**।  
+या राजा॑नँ +++(आदित्यं)+++ स॒रथं॑ **या॒थ** +++(वृष्ट्यै)+++ उ॑ग्रा॒  
 ता नो॑ **मुञ्चत॒म्** आग॑सः ॥
 </details>
 </div>
@@ -153,8 +153,8 @@ unicode_script: devanagari
 <details open><summary><h6>सर्वाष् टीकाः ...{Loading}...</h6></summary>
 <details><summary>मूलम्</summary>
 
-म॒न्वे वा᳚म्मित्रावरुणा॒ तस्य॑ वित्त॒ꣳ॒ सत्यौ॑जसा दृꣳहणा॒ यन्नु॒देथे᳚ ।   
-या राजा॑नꣳ स॒रथ॑य्ँया॒थ उ॑ग्रा॒ ता नो॑ मुञ्चत॒माग॑सः ।
+म॒न्वे वा᳚म्मित्रावरुणा॒ तस्य॑ वित्त॒ँ॒ सत्यौ॑जसा दृँहणा॒ यन्नु॒देथे᳚ ।   
+या राजा॑नँ स॒रथ॑य्ँया॒थ उ॑ग्रा॒ ता नो॑ मुञ्चत॒माग॑सः ।
 </details>
 <details><summary>सायण-टीका</summary>
 
@@ -165,7 +165,7 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" includetitle="false" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/17_yo_vAm.md">
 <details open><summary><h6>विश्वास-प्रस्तुतिः ...{Loading}...</h6></summary>
 
-यो वा॒ꣳ॒ रथ॑ ऋजु-र॑श्मिः स॒त्य-ध॑र्मा॒  
+यो वा॒ँ॒ रथ॑ ऋजु-र॑श्मिः स॒त्य-ध॑र्मा॒  
 मिथु॒श्+++(=मिथ्या)+++ **चर॑न्तम् उप॒याति॑ दू॒षयन्॑** ।  
 **स्तौमि॑** मि॒त्रावरुणा॒ **नाथि॒तो जो॑हवीमि॒**
 तौ नो॑ **मुंचत॒म्** आग॑सः ।
@@ -175,12 +175,12 @@ unicode_script: devanagari
 <details open><summary><h6>सर्वाष् टीकाः ...{Loading}...</h6></summary>
 <details><summary>मूलम्</summary>
 
-यो वा॒ꣳ॒ रथ॑ ऋ॒जुर॑श्मिस्स॒त्यध॑र्मा॒ मिथु॒श्चर॑न्तमुप॒याति॑ दू॒षयन्न्॑ ।   
+यो वा॒ँ॒ रथ॑ ऋ॒जुर॑श्मिस्स॒त्यध॑र्मा॒ मिथु॒श्चर॑न्तमुप॒याति॑ दू॒षयन्न्॑ ।   
 स्तौमि॑ [34]  मि॒त्रावरु॑णा नाथि॒तो जो॑हवीमि॒ तौ नो॑ मुञ्चत॒माग॑सः ।
 </details>
 <details><summary>सायण-टीका</summary>
 
-तत्रैव याज्यामाह– यो वाꣳ रथ इति।   हे मित्रावरुणौ वां युवयोर्यो रथ ऋजुरश्मिरकुटिलप्रग्रहः सत्यधर्माऽवितथधारणश्च भवति सरयो मिथुश्चरन्तं मिथ्याचारिणमन्याय कारिणं शत्रुं दूषयन्नुपयाति बाधमान प्राप्नोति।   स्तौमीत्यादि पूर्ववत् ।
+तत्रैव याज्यामाह– यो वाँ रथ इति।   हे मित्रावरुणौ वां युवयोर्यो रथ ऋजुरश्मिरकुटिलप्रग्रहः सत्यधर्माऽवितथधारणश्च भवति सरयो मिथुश्चरन्तं मिथ्याचारिणमन्याय कारिणं शत्रुं दूषयन्नुपयाति बाधमान प्राप्नोति।   स्तौमीत्यादि पूर्ववत् ।
 </details>
 </details>
 </div>
@@ -216,7 +216,7 @@ unicode_script: devanagari
 
 उप॒ श्रेष्ठा॑ न आ॒शिषो॑  
 दे॒वयो॒र् धर्मे॑+++(=कर्मणि)+++ **अस्थिरन्**+++(√स्था)+++।  
-**स्तौमि॑** वा॒युꣳ स॑वि॒तारं॑ **नाथि॒तो जो॑हवीमि॒**  
+**स्तौमि॑** वा॒युँ स॑वि॒तारं॑ **नाथि॒तो जो॑हवीमि॒**  
 तौ नो॑ **मुंचत॒म्** आग॑सः ॥
 </details>
 </div>
@@ -225,7 +225,7 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 उप॒ श्रेष्ठा॑ न आ॒शिषो॑ दे॒वयो॒र्धर्मे॑ अस्थिरन्न् ।   
-स्तौमि॑ वा॒युꣳ स॑वि॒तार॑न्नाथि॒तो जो॑हवीमि॒ तौ नो॑ मुञ्चत॒माग॑सः ।
+स्तौमि॑ वा॒युँ स॑वि॒तार॑न्नाथि॒तो जो॑हवीमि॒ तौ नो॑ मुञ्चत॒माग॑सः ।
 </details>
 <details><summary>सायण-टीका</summary>
 
@@ -263,8 +263,8 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" includetitle="false" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/29_yad_ayAtam.md">
 <details open><summary><h6>विश्वास-प्रस्तुतिः ...{Loading}...</h6></summary>
 
-यद् **अया॑तं** वह॒तुꣳ सू॒र्याया॑स्+++(=तन्मातुः)+++  
-त्रि-च॒क्रेण॑ स॒ꣳ॒ सद॑म् **इ॒च्छमा॑नौ** ।  
+यद् **अया॑तं** वह॒तुँ सू॒र्याया॑स्+++(=तन्मातुः)+++  
+त्रि-च॒क्रेण॑ स॒ँ॒ सद॑म् **इ॒च्छमा॑नौ** ।  
 **स्तौमि॑** दे॒वाव् अ॒श्विनौ॑ **नाथि॒तो जो॑हवीमि॒**  
 तौ नो॑ **मुञ्चत॒म्** आग॑सः ॥
 </details>
@@ -273,7 +273,7 @@ unicode_script: devanagari
 <details open><summary><h6>सर्वाष् टीकाः ...{Loading}...</h6></summary>
 <details><summary>मूलम्</summary>
 
-यदया॑तव्ँवह॒तुꣳ सू॒र्याया᳚स्त्रिच॒क्रेण॑ स॒ꣳ॒सद॑मि॒च्छमा॑नौ ।   
+यदया॑तव्ँवह॒तुँ सू॒र्याया᳚स्त्रिच॒क्रेण॑ स॒ँ॒सद॑मि॒च्छमा॑नौ ।   
 स्तौमि॑ दे॒वाव॒श्विनौ॑ नाथि॒तो जो॑हवीमि॒ तौ नो॑ मुञ्चत॒माग॑सः ।
 </details>
 <details><summary>सायण-टीका</summary>
@@ -312,8 +312,8 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" includetitle="false" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/35_tigmam_Ayudham.md">
 <details open><summary><h6>विश्वास-प्रस्तुतिः ...{Loading}...</h6></summary>
 
-ति॒ग्मम् आयु॑धं वीडि॒तꣳ+++(=दृढम्)+++ सह॑स्वद्  
-दि॒व्यꣳ शर्द्धः॒+++(=बलं)+++ पृत॑नासु **जि॒ष्णु** ।  
+ति॒ग्मम् आयु॑धं वीडि॒तँ+++(=दृढम्)+++ सह॑स्वद्  
+दि॒व्यँ शर्द्धः॒+++(=बलं)+++ पृत॑नासु **जि॒ष्णु** ।  
 **स्तौमि॑** दे॒वान् म॒रुतो॑ **नाथि॒तो जोह॑वीमि॒**  
 ते नो॑ **मुञ्च॒न्त्व्** एन॑सः ॥
 </details>
@@ -322,7 +322,7 @@ unicode_script: devanagari
 <details open><summary><h6>सर्वाष् टीकाः ...{Loading}...</h6></summary>
 <details><summary>मूलम्</summary>
 
-ति॒ग्ममायु॑धव्ँवीडि॒तꣳ सह॑स्वद्दि॒व्यꣳ शर्धः॑ [36]  पृत॑नासु जि॒ष्णु ।   
+ति॒ग्ममायु॑धव्ँवीडि॒तँ सह॑स्वद्दि॒व्यँ शर्धः॑ [36]  पृत॑नासु जि॒ष्णु ।   
 स्तौमि॑ दे॒वान्म॒रुतो॑ नाथि॒तो जो॑हवीमि॒ ते नो॑ मुञ्च॒न्त्वेन॑सः ।
 </details>
 <details><summary>सायण-टीका</summary>
@@ -421,7 +421,7 @@ Lengthen our days for us.
 <details><summary>मूलम्</summary>
 
 अन्विद॑नुमते॒ त्वम् [34]  मन्या॑सै॒ शञ्च॑ नᳵ कृधि ।  
-क्रत्वे॒ दख्षा॑य नो हिनु॒ प्र ण॒ आयूꣳ॑षि तारिषः ।
+क्रत्वे॒ दख्षा॑य नो हिनु॒ प्र ण॒ आयूँ॑षि तारिषः ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -504,7 +504,7 @@ A joy to the giver.
 **अन्व्** इद् अ॑नुमते॒ त्वम् [34]  
 **मन्या॑सै॒** शञ्च॑ नᳵ **कृधि** ।  
 क्रत्वे॒ दख्षा॑य नो **हिनु॒**+++(=प्रेरय)+++  
-प्र ण॒ आयूꣳ॑षि **तारिषः** ।
+प्र ण॒ आयूँ॑षि **तारिषः** ।
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष्टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/3/11_yAjyApuronuvAkyAH/24_anv_id.md">
@@ -519,7 +519,7 @@ Lengthen our days for us.
 <details><summary>मूलम्</summary>
 
 अन्विद॑नुमते॒ त्वम् [34]  मन्या॑सै॒ शञ्च॑ नᳵ कृधि ।  
-क्रत्वे॒ दख्षा॑य नो हिनु॒ प्र ण॒ आयूꣳ॑षि तारिषः ।
+क्रत्वे॒ दख्षा॑य नो हिनु॒ प्र ण॒ आयूँ॑षि तारिषः ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -856,7 +856,7 @@ Begehrt im Himmel Agni und auf Erden, begehrt auch ging er ein in alle Pflanzen,
 #### द्यावा-पृथि॒वी
 <details><summary>सायणोक्त-विनियोगः</summary>
 
-अथ द्यावापृथिवीभ्यामꣳहोमुग्भ्यां द्विकपाल इत्यस्य पुरोनुवाक्यामाह– ये अप्रथेतामिति।   
+अथ द्यावापृथिवीभ्यामँहोमुग्भ्यां द्विकपाल इत्यस्य पुरोनुवाक्यामाह– ये अप्रथेतामिति।   
 </details>
 <div class="js_include" newlevelforh1="4" includetitle="false" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/91_ye_aprathetAm.md">
 <details open><summary><h6>विश्वास-प्रस्तुतिः ...{Loading}...</h6></summary>
@@ -864,7 +864,7 @@ Begehrt im Himmel Agni und auf Erden, begehrt auch ging er ein in alle Pflanzen,
 ये **अप्र॑थेता॒म्** अमि॑तेभि॒र् ओजो॑भि॒र्  
 ये प्र॑ति॒ष्ठे **अभ॑वता॒व्ँ** वसू॑नाम् ।
 **स्तौमि॒** द्यावा॑-पृथि॒वी **ना॑थि॒तो जो॑हवीमि॒**  
-ते नो॑ **मुञ्चत॒म्** अꣳह॑सः ।
+ते नो॑ **मुञ्चत॒म्** अँह॑सः ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/91_ye_aprathetAm.md">
@@ -872,7 +872,7 @@ Begehrt im Himmel Agni und auf Erden, begehrt auch ging er ein in alle Pflanzen,
 <details><summary>मूलम्</summary>
 
 ये अप्र॑थेता॒ममि॑तेभि॒रोजो॑भि॒र्ये प्र॑ति॒ष्ठे अभ॑वता॒व्ँवसू॑नाम् ।
-स्तौमि॒ द्यावा॑पृथि॒वी ना॑थि॒तो जो॑हवीमि॒ ते नो॑ मुञ्चत॒मꣳह॑सः ।
+स्तौमि॒ द्यावा॑पृथि॒वी ना॑थि॒तो जो॑हवीमि॒ ते नो॑ मुञ्चत॒मँह॑सः ।
 </details>
 <details><summary>सायण-टीका</summary>
 
@@ -890,7 +890,7 @@ Begehrt im Himmel Agni und auf Erden, begehrt auch ging er ein in alle Pflanzen,
 उर्वी॑ रोदसी॒ **वरि॑वᳵ कृणोत॒ङ्**  
 ख्षेत्र॑स्य पत्नी॒ अधि॑ नो **ब्रूयातम्** ।   
 **स्तौमि॒** द्यावा॑पृथि॒वी **ना॑थि॒तो जो॑हवीमि॒**  
-ते नो॑ **मुञ्चत॒म्** अꣳह॑सः ।
+ते नो॑ **मुञ्चत॒म्** अँह॑सः ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/95_urvI_rodasI.md">
@@ -898,7 +898,7 @@ Begehrt im Himmel Agni und auf Erden, begehrt auch ging er ein in alle Pflanzen,
 <details><summary>मूलम्</summary>
 
 उर्वी॑ रोदसी॒ वरि॑वᳵ कृणोत॒ङ्ख्षेत्र॑स्य पत्नी॒ अधि॑ नो ब्रूयातम् ।   
-स्तौमि॒ द्यावा॑पृथि॒वी ना॑थि॒तो जो॑हवीमि॒ ते नो॑ मुञ्चत॒मꣳह॑सः ।
+स्तौमि॒ द्यावा॑पृथि॒वी ना॑थि॒तो जो॑हवीमि॒ ते नो॑ मुञ्चत॒मँह॑सः ।
 </details>
 <details><summary>सायण-टीका</summary>
 
@@ -918,17 +918,17 @@ Begehrt im Himmel Agni und auf Erden, begehrt auch ging er ein in alle Pflanzen,
 <details open><summary><h6>विश्वास-प्रस्तुतिः ...{Loading}...</h6></summary>
 
 यत् ते॑ व॒यम् पु॑रुष॒-त्रा य॑वि॒ष्ठ+  
-अवि॑द्वाꣳसश् **चकृ॒मा** कच्च॒न [38]  आगः॑ ।   
-**कृ॒धी** स्व् अ॑स्माꣳ अदि॑ते॒र् अना॑गा॒  
-व्येनाꣳ॑सि शिश्रथो॒+++(=दुर्बलं)+++ विष्व॑ग् अग्ने॥
+अवि॑द्वाँसश् **चकृ॒मा** कच्च॒न [38]  आगः॑ ।   
+**कृ॒धी** स्व् अ॑स्माँ अदि॑ते॒र् अना॑गा॒  
+व्येनाँ॑सि शिश्रथो॒+++(=दुर्बलं)+++ विष्व॑ग् अग्ने॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/99_yat_te.md">
 <details open><summary><h6>सर्वाष् टीकाः ...{Loading}...</h6></summary>
 <details><summary>मूलम्</summary>
 
-यत्ते॑ व॒यम्पु॑रुष॒त्रा य॑वि॒ष्ठावि॑द्वाꣳसश्चकृ॒मा कच्च॒न [38]  आगः॑ ।   
-कृ॒धी स्व॑स्माꣳ अदि॑ते॒रना॑गा॒ व्येनाꣳ॑सि शिश्रथो॒ विष्व॑गग्ने
+यत्ते॑ व॒यम्पु॑रुष॒त्रा य॑वि॒ष्ठावि॑द्वाँसश्चकृ॒मा कच्च॒न [38]  आगः॑ ।   
+कृ॒धी स्व॑स्माँ अदि॑ते॒रना॑गा॒ व्येनाँ॑सि शिश्रथो॒ विष्व॑गग्ने
 </details>
 <details><summary>सायण-टीका</summary>
 
@@ -947,7 +947,7 @@ Begehrt im Himmel Agni und auf Erden, begehrt auch ging er ein in alle Pflanzen,
 
 यथा॑ ह॒ तद् व॑सवो गौ॒र्य॑ञ् चित् +++(गाम्)+++  
 प॒दि षि॒ताम्+++(=बद्धां)+++ **अमु॑ञ्चता** यजत्राः ।   
-ए॒वा त्वम् अ॒स्मत् **प्र मु॑ञ्चा॒** व्यꣳह॒ᳶ  
+ए॒वा त्वम् अ॒स्मत् **प्र मु॑ञ्चा॒** व्यँह॒ᳶ  
 **प्राता᳚र्य्** अग्ने, **प्रत॒रान्** न॒ आयुः॑ ॥ [39]
 </details>
 </div>
@@ -956,7 +956,7 @@ Begehrt im Himmel Agni und auf Erden, begehrt auch ging er ein in alle Pflanzen,
 <details><summary>मूलम्</summary>
 
 यथा॑ ह॒ तद्व॑सवो गौ॒र्य॑ञ्चित्प॒दि षि॒ताममु॑ञ्चता यजत्राः ।   
-ए॒वा त्वम॒स्मत्प्र मु॑ञ्चा॒ व्यꣳह॒ᳶ प्राता᳚र्यग्ने प्रत॒रान्न॒ आयुः॑ ॥ [39]
+ए॒वा त्वम॒स्मत्प्र मु॑ञ्चा॒ व्यँह॒ᳶ प्राता᳚र्यग्ने प्रत॒रान्न॒ आयुः॑ ॥ [39]
 </details>
 <details><summary>सायण-टीका</summary>
 
@@ -970,7 +970,7 @@ Begehrt im Himmel Agni und auf Erden, begehrt auch ging er ein in alle Pflanzen,
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 २२७७ अत्र विनियोगसंग्रहः
-अग्नयेऽꣳहोमुचेऽष्टाकपाल इत्यादिनेरिताः।  
+अग्नयेऽँहोमुचेऽष्टाकपाल इत्यादिनेरिताः।  
 इष्टयोऽग्नेर्मन्वयुक्ता याज्यास्तासु क्रमादिमाः॥  
 अग्नेराग्नेयके द्वी [ही]न्द्रस्यैन्द्रे मन्वे ह्यनन्तरे।  
 मैत्रावरुणके वायोर्वायोसावित्रके रथी॥  

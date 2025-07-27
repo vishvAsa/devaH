@@ -15,7 +15,7 @@ unicode_script = "devanagari"
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/24_0024_agne_raxA.md">
 <details open><summary><h4>24_0024 अग्ने रक्षा ...{Loading}...</h4></summary>
 
-अ꣢ग्ने꣣ र꣡क्षा꣢ णो꣣ अ꣡ꣳह꣢सः꣣ प्र꣡ति꣢ स्म देव रीष꣣तः꣢। त꣡पि꣢ष्ठैर꣣ज꣡रो꣢ दह ॥ 24:0024 ॥
+अ꣢ग्ने꣣ र꣡क्षा꣢ णो꣣ अ꣡ँह꣢सः꣣ प्र꣡ति꣢ स्म देव रीष꣣तः꣢। त꣡पि꣢ष्ठैर꣣ज꣡रो꣢ दह ॥ 24:0024 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/015/13_agne_raxA.md">
 <details open><summary><h6>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h6></summary>

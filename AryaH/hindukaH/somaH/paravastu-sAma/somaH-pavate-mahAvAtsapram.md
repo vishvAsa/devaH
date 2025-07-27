@@ -30,7 +30,7 @@ unicode_script = "devanagari"
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/3/1/19-2_0944_brahmA_devAnAm.md">
 <details open><summary><h4>19-2_0944 ब्रह्मा देवानाम् ...{Loading}...</h4></summary>
 
-ब्र꣣ह्मा꣢ दे꣣वा꣡नां꣢ पद꣣वीः꣡ क꣢वी꣣ना꣢꣫मृषि꣣र्वि꣡प्रा꣢णां महि꣣षो꣢ मृ꣣गा꣡णा꣢म्। श्ये꣣नो꣡ गृध्रा꣢꣯णा꣣ꣳ स्व꣡धि꣢ति꣣र्व꣡ना꣢ना꣣ꣳ सो꣡मः꣢ प꣣वि꣢त्र꣣म꣡त्ये꣢ति꣣ रे꣡भ꣢न् ॥ 19-2:0944 ॥
+ब्र꣣ह्मा꣢ दे꣣वा꣡नां꣢ पद꣣वीः꣡ क꣢वी꣣ना꣢꣫मृषि꣣र्वि꣡प्रा꣢णां महि꣣षो꣢ मृ꣣गा꣡णा꣢म्। श्ये꣣नो꣡ गृध्रा꣢꣯णा꣣ँ स्व꣡धि꣢ति꣣र्व꣡ना꣢ना꣣ँ सो꣡मः꣢ प꣣वि꣢त्र꣣म꣡त्ये꣢ति꣣ रे꣡भ꣢न् ॥ 19-2:0944 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/096/06_brahmA_devAnAM.md">
 <details open><summary><h6>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h6></summary>
