@@ -24,7 +24,6 @@ practice_weight = 0
 ब्र॒ह्माणः॑ । इन्द्र॑म् । म॒हय॑न्तः । अ॒र्कैः । अव॑र्धयन् । अह॑ये । हन्त॒वै । ऊं॒ इति॑ ॥  
 अन॑वः । ते॒ । रथ॑म् । अश्वा॑य । त॒क्ष॒न् । त्वष्टा॑ । वज्र॑म् । पु॒रु॒ऽहू॒त॒ । द्यु॒ऽमन्त॑म् ।
 
-
 ## साम १
 - पारम्परिक-गान-मूलम् 
   - [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n55/mode/1up)

@@ -22,7 +22,6 @@ practice_weight = 0
   - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
 - कौथुमगानम् [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n285)।
 
-
 <div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/jAtaH-pareNa.mp3"></div>
 <div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive

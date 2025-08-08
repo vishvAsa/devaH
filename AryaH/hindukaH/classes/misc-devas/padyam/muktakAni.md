@@ -34,7 +34,6 @@ unicode_script = "devanagari"
 सर्वे भद्राणि पश्यन्तु  
 मा कश्चिद् दुःखभाग्भवेत् ॥ 
 
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/devaH/AryaH/hindukaH/misc-devas/padyam/devatAbhyaH_pitRbhyaH.md">
 <details open><summary><h5>देवताभ्यः पितृभ्यश्च ...{Loading}...</h5></summary>
 
@@ -44,7 +43,6 @@ unicode_script = "devanagari"
 नित्यम् एव नमो नमः ॥ 
 </details>
 </div>  
-
 
 शरलोक+++(=Sherlock H)+++लोचनशरै
 रहस्यपशवः कथं नु मुच्येरन्।

@@ -15,7 +15,7 @@ title: अहमस्मि प्रत्यमजाः
 
 1सप्तमे सौर्यादिपशूनां सूक्तान्यभिहितानि । अष्टमे वेहदादिपशूनां सूक्तान्युच्यन्ते । ते च पशवः शाखान्तरे समाम्नाताः । तन्न सूत्रकारणोदाहृतम् - 'सान्नाय्ये वेहतभालभेत' इत्यस्य पशोः सूक्ते वपायाः पुरोनुवाक्यामाह - बह्वृचा आरण्यकाण्डे त्रिविधमन्नमामनन्ति - 'त्रेधा विहितं वा इदमन्नमशनं पानं खादः' इति । तस्याशनादेस्त्रिविधस्यान्नस्याभिमानिनी या देवता तदीयानि वचनान्यस्मिन्सूक्ते प्रतिपाद्यन्ते ।
 </details>
-<div class="js_include" newlevelforh1="4" includetitle="false" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/02_aham_asmi.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/02_aham_asmi.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 अ॒हम् **अ॑स्मि** प्रथम॒जा +++(=प्रथमजनयिता)+++ ऋ॒तस्य॑ +++(=यज्ञस्य)+++ ।  
@@ -30,9 +30,10 @@ title: अहमस्मि प्रत्यमजाः
 
 अ॒हम॑स्मि प्रथम॒जा ऋ॒तस्य॑ ।  
 पूर्व॑न्दे॒वेभ्यो॑ अ॒मृत॑स्य॒ नाभिः॑ ।  
-यो मा॒ ददा॑ति॒ स इदे॒वमावाः᳚ ।  
+यो मा॒ ददा॑ति॒ स इदे॒वमावाः॑ ।  
 अ॒हमन्न॒मन्न॑न॒दन्त॑मद्मि ।
 </details>
+
 <details><summary>सायण-टीका</summary>
 
 अहं अन्नस्वामी देवः ऋतस्य यज्ञस्य प्रथमजाः प्रथमं जनयिताऽस्मि । यज्ञस्य हविर्जन्यत्वाद्धविषोऽन्न रूपत्वात् ।
@@ -53,11 +54,11 @@ title: अहमस्मि प्रत्यमजाः
 
 2अथ वपाया याज्यामाह -
 </details>
-<div class="js_include" newlevelforh1="4" includetitle="false" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/06_pUrvam_agner.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/06_pUrvam_agner.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 पूर्व॑म्  +++(मरण/नरक-)+++अ॒ग्नेर् अपि॑ **दह॒त्य्** अन्न॑म् +++(अदातारम्)+++।  
-य॒त् तौ +++(→ऽदाता, दाता च)+++ हा॑ **ऽऽसते**, अहम्+++(←स्वरः??)+++ उत्त॒रेषु॑ ।  
+य॒त्तौ +++(→ऽदाता, दाता च)+++ हा॑ **ऽऽसते**, अहम्-उत्त॒रेषु॑ ।  
 व्यात्त॑म् अस्य +++(=अन्न-देवस्य)+++  प॒शव॑स् +++(=ये ऽदातारस् तान्प्रति)+++ सु॒जम्भ॑म् ।  
 **पश्य॑न्ति॒** धीरा॒ +++(→दातारः)+++, **प्रच॑रन्ति॒** पाकाः॑  +++(=मूढा [अदातारः])+++ ।
 </details>
@@ -66,11 +67,12 @@ title: अहमस्मि प्रत्यमजाः
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>मूलम्</summary>
 
-पूर्व॑म॒ग्नेरपि॑ दह॒त्यन्न᳚म् ।  
+पूर्व॑म॒ग्नेरपि॑ दह॒त्यन्न॑म् ।  
 य॒त्तौ हा॑साते अहमुत्त॒रेषु॑ ।  
-व्यात्त॑मस्य प॒शव॑स्सु॒जम्भ᳚म् ।  
-पश्य॑न्ति॒ धीरा॒ᳶ प्रच॑रन्ति॒ पाकाः᳚ ।
+व्यात्त॑मस्य प॒शव॑स्सु॒जम्भ॑म् ।  
+पश्य॑न्ति॒ धीरा॒ᳶ प्रच॑रन्ति॒ पाकाः॑ ।
 </details>
+
 <details><summary>सायण-टीका</summary>
 
 यद् इदम् अन्नम् **अग्नेर् अपि पूर्वम्**  
@@ -84,7 +86,7 @@ title: अहमस्मि प्रत्यमजाः
 नरकहेतोः प्रत्यवायस्य तदैवोत्पन्नत्वात् ।  
 अत एवाहुः - 'अदाता विषमश्नुते' इति ।  
 
-**यत्तौ हा** प्रयत्नवन्तावेव **आसाते** दाता चादाता चेत्युभौ तिष्ठतः । दाता हि दानार्थं प्रयत्नं करोति, इतरस्तु भोजनार्थम् । तयोर्मध्ये ये पुरुषा दातुः पक्षे वर्तन्ते त एवोत्तराः श्रेष्ठाः ।  
+**यत्तौ हा** प्रयत्नवन्ताव् एव **आसाते** दाता चादाता चेत्युभौ तिष्ठतः । दाता हि दानार्थं प्रयत्नं करोति, इतरस्तु भोजनार्थम् । तयोर्मध्ये ये पुरुषा दातुः पक्षे वर्तन्ते त एवोत्तराः श्रेष्ठाः ।  
 **तेषूत्तरेषु** दातृषु कालान्तरेष्व् **अहम्** अक्षीणो वसामि ।  
 
 ये **पशवो** मूढा अदातारः तान्प्रति अस्य अन्नदेवस्य मुखं व्यात्तं विवृत्तं **सुजम्भं** तीक्ष्णदन्तोपेतं वर्तते खादयाम्य् अदातॄनिति सर्वदोद्युङ्क्त इत्यर्थः । एतमन्नदेवस्याभिप्रायं दातारो **धीराः** बुद्धिमन्तः पश्यन्ति जानन्ति । अत एवाददतः **पाकाः** बाला मूढाः **प्रचरन्ति** प्रकर्षेण भक्षयन्त्येव न तु किंचिदपि ददति ॥
@@ -95,7 +97,7 @@ title: अहमस्मि प्रत्यमजाः
 
 3अथ पुरोडाशस्य पुरोनुवाक्यामाह - अन्नदेवोऽहमन्नमदातारं जहामि परित्यजामि ।
 </details>
-<div class="js_include" newlevelforh1="4" includetitle="false" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/10_jahAmy_anyan.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/10_jahAmy_anyan.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 **जहा॑म्य्** अ॒न्यन्, **न ज॑हाम्य्** अ॒न्यम् ।  
@@ -108,11 +110,12 @@ title: अहमस्मि प्रत्यमजाः
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>मूलम्</summary>
 
-जहा᳚म्य् अ॒न्यन् न ज॑हाम्य॒न्यम् ।  
+जहा॑म्य् अ॒न्यन् न ज॑हाम्य॒न्यम् ।  
 अ॒हमन्न॒व्ँ वश॒म् इच् च॑रामि ॥ 59 ॥  
 स॒मा॒नम् अर्थ॒म् पर्ये॑मि भु॒ञ्जत् ।  
 को माम् अन्न॑म् मनु॒ष्यो॑ दयेत ।
 </details>
+
 <details><summary>सायण-टीका</summary>
 
 अन्यं तु दातारं न जहामि । **अहमन्नं** अन्नदेवरूपोऽहं **वशम् इत्** स्ववशमेव यथा भवति तथा **चरामि** ।  
@@ -128,7 +131,7 @@ title: अहमस्मि प्रत्यमजाः
 
 4अस्य पुरोडाशस्य याज्यामाह -
 </details>
-<div class="js_include" newlevelforh1="4" includetitle="false" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/14_parAke_annam.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/14_parAke_annam.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 परा॑के॒ +++(→लोके)+++ अन्नं॒ **निहि॑तं** लो॒क ए॒तत् ।  
@@ -142,10 +145,11 @@ title: अहमस्मि प्रत्यमजाः
 <details><summary>मूलम्</summary>
 
 परा॑के॒ अन्न॒न्निहि॑तल्ँ लो॒क ए॒तत् ।  
-विश्वै᳚र्दे॒वैᳶ पि॒तृभि॑र्गु॒प्तमन्न᳚म् ।  
-यद॒द्यते॑ लु॒प्यते॒ यत्प॑रो॒प्यते᳚ ।  
+विश्वै॑र्दे॒वैᳶ पि॒तृभि॑र्गु॒प्तमन्न॑म् ।  
+यद॒द्यते॑ लु॒प्यते॒ यत्प॑रो॒प्यते॑ ।  
 श॒त॒त॒मी सा त॒नूर्मे॑ बभूव ।
 </details>
+
 <details><summary>सायण-टीका</summary>
 
 प्रूर्वस्मिन् मन्त्रे वशम् इच्चरामि मां को दयेतेति यत् स्वातन्त्र्यम् उक्तं  
@@ -159,7 +163,7 @@ title: अहमस्मि प्रत्यमजाः
 
 5अथ हविषः पुरोनुवाक्यामाह -
 </details>
-<div class="js_include" newlevelforh1="4" includetitle="false" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/18_mahAntau_charU.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/18_mahAntau_charU.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 म॒हान्तौ॑ च॒रू +++(=कुम्भौ)+++ स॑कृद् दु॒ग्धेन॑ **पप्रौ**+++(←पूरणे)+++ ।  
@@ -174,9 +178,10 @@ title: अहमस्मि प्रत्यमजाः
 
 म॒हान्तौ॑ च॒रू स॑कृद्दु॒ग्धेन॑ पप्रौ ।   
 दिव॑ञ्च॒ पृश्ञि॑ पृथि॒वीञ्च॑ सा॒कम् ।  
-तथ्स॒म्पिब॑न्तो॒ न मि॑नन्ति वे॒धसः॑ ।   
+तत्स॒म्पिब॑न्तो॒ न मि॑नन्ति वे॒धसः॑ ।   
 नैतद्भूयो॒ भव॑ति॒ नो कनी॑यः ॥ 60 ॥
 </details>
+
 <details><summary>सायण-टीका</summary>
 
 पुनरपि माहात्म्यमेव प्रपञ्च्यते ।  
@@ -190,13 +195,13 @@ title: अहमस्मि प्रत्यमजाः
 
 6अथ हविषो याज्यामाह -
 </details>
-<div class="js_include" newlevelforh1="4" includetitle="false" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/22_annaM_prANam.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/22_annaM_prANam.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 अन्नं॑ प्रा॒णम्, अन्न॑म् अपा॒नम् **आ॑हुः** ।  
 अन्नं॑ मृ॒त्युं तम् उ॑ जी॒वातु॑म् +++(=जीवनौषधिम्)+++ **आहुः** ।  
 अन्न॑म् ब्र॒ह्माणो॑ ज॒रस॑व्ँ **वदन्ति** ।  
-अन्न॑म् **आहुᳶ** प्र॒जन॑नम् प्र॒जाना᳚म् ।
+अन्न॑म् **आहुᳶ** प्र॒जन॑नम् प्र॒जाना॑म् ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/22_annaM_prANam.md">
@@ -206,8 +211,9 @@ title: अहमस्मि प्रत्यमजाः
 अन्न॑म्प्रा॒णमन्न॑मपा॒नमा॑हुः ।  
 अन्न॑म्मृ॒त्युन्तमु॑ जी॒वातु॑माहुः ।  
 अन्न॑म्ब्र॒ह्माणो॑ ज॒रस॑व्ँवदन्ति ।  
-अन्न॑माहुᳶ प्र॒जन॑नम्प्र॒जाना᳚म् ।
+अन्न॑माहुᳶ प्र॒जन॑नम्प्र॒जाना॑म् ।
 </details>
+
 <details><summary>सायण-टीका</summary>
 
 सर्वव्यवहारकारणत्वादस्यान्नस्य माहात्म्यमविवादम् । तत्कथमिति तदुच्यते - योयं प्राणवायुरूर्ध्वं संचरति यश्चापानवायुरधः संचरति तावुभावन्नजन्यबलादेव संचरतः । अतस्तयोरन्नात्मकत्वमाहुः । रसवैषम्येण व्याधिद्वारा मारकत्वादन्नं मृत्युमाहुः । तमेवान्नदेवं जीवातुं जीवनौषधमाहुः । तच्च लोके प्रसिद्धम् । ब्रह्माणः आयुर्वेदशास्त्राभिज्ञा ब्राह्मणाः अन्नमेव जरसं वदन्ति जराहेतुमाहुः । केनचिदाहारविशेषण सहसा अतिपलितत्वप्राप्तिरित्यायुर्वेदप्रसिद्धिः । अन्नमेवेन्द्रियवृद्धिद्वारा प्रजानां प्रजननं उत्पादकमाहुः ॥
@@ -218,11 +224,11 @@ title: अहमस्मि प्रत्यमजाः
 
 7अथ हविष एव विकल्पितामन्यां पुरोनुवाक्यामाह -
 </details>
-<div class="js_include" newlevelforh1="4" includetitle="false" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/26_mogham_annav.N.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/26_mogham_annav.N.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 मोघ॒म् अन्न॑व्ँ **विन्दते॒** अ-प्र॑-चेताः +++(अदातृत्वेन लक्षितः)+++ ।  
-स॒त्यम् **ब्र॑वीमि** व॒ध इथ्स तस्य॑ ।   
+स॒त्यम् **ब्र॑वीमि** व॒ध इत्स तस्य॑ ।   
 नार्य॒मण॒म् **पुष्य॑ति॒** नो सखा॑यम् ।   
 केव॑लाघो **भवति** केवला॒दी ।
 </details>
@@ -232,10 +238,11 @@ title: अहमस्मि प्रत्यमजाः
 <details><summary>मूलम्</summary>
 
 मोघ॒मन्न॑व्ँविन्दते॒ अप्र॑चेताः ।  
-स॒त्यम्ब्र॑वीमि व॒ध इथ्स तस्य॑ ।   
+स॒त्यम्ब्र॑वीमि व॒ध इत्स तस्य॑ ।   
 नार्य॒मण॒म्पुष्य॑ति॒ नो सखा॑यम् ।   
 केव॑लाघो भवति केवला॒दी ।
 </details>
+
 <details><summary>सायण-टीका</summary>
 
 योऽयमदाता सोऽयं **अप्रचेताः** प्रकृष्टज्ञानरहितः मोघं व्यर्थमेव अन्नं **विन्दते** लभते । तदेतत्सत्यं ब्रवीमि न केवलं वैयर्थ्यं किंतु सः अयमदत्तोऽन्नपदार्थः तस्य दानरहितस्य पुरुषस्य वध इत् वध एव वधवद्बाधकमेवेत्यर्थः । तत्र वैयर्थ्यं तावत्स्पष्टीक्रियते - योऽयमदाता सोऽयमन्नेनार्यमादिकं देवं न पुष्यति अग्नावाहुत्यभावात् । सखायं अतिथ्यादिरूपं मनुष्यं न पुष्यति दानाभावात् । अतः परलोके अनुपयोगेन वैयर्थ्यम् । वधहेतुत्वं स्पष्टीक्रियते - केवलादी केवलं भुङ्क्ते न तु ददाति सोऽयं केवलाधो भवति पापमेव संपादयति न तु किञ्चिदपि पुण्यम् सोऽयं वध एव, नरकहेतुत्वात् ॥
@@ -246,7 +253,7 @@ title: अहमस्मि प्रत्यमजाः
 
 8अथ हविषो विकल्पिता याज्यामाह -
 </details>
-<div class="js_include" newlevelforh1="4" includetitle="false" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/30_aham_meghas.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/30_aham_meghas.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 अ॒हम् मे॒घस् स्त॒नय॒न् **वर्ष॑न्न् अस्मि** ।  
@@ -264,6 +271,7 @@ title: अहमस्मि प्रत्यमजाः
 अ॒हँ सद॒मृतो॑ भवामि ।  
 मदा॑दि॒त्या अधि॒ सर्वे॑ तपन्ति ।
 </details>
+
 <details><summary>सायण-टीका</summary>
 
 योऽयं मेघः स्तनयन् गर्जन् वर्षश्च वर्तते सोऽयं मेधोऽपि अहमन्नदेवः अस्मि । अग्नौ हुतस्यान्नस्य मेघरूपेण परिणतत्वात् । अत एव स्मर्यते - 'अग्नौ प्रास्ताऽऽहुतिस्सम्यगादित्यमुपतिष्ठते । आदित्याज्जायते वृष्टिः' इति । दातारो ये सन्ति ते मामदन्ति सुखेन भक्षयन्ति । अन्यांस्तु दानरहितानहमेवाद्मि विनाशयामि । अहमेव दातॄणां पथ्यं सत् अमृतो भवामि अमरणहेतुर्भवामि देवत्वं प्रापयामीत्यर्थः । सर्वेऽप्यादित्या मत् अन्ननिमित्तत्वादधिकत्वेन तपन्ति । अन्नाभावे ते स्वयमेव न जीवेयुः कुतस्तपेयुरित्यर्थः ॥

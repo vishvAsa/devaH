@@ -9,10 +9,9 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/044/16_agnirmUrdhA_divaH.md">
 <details open><summary><h2>१६ अग्निर्मूर्धा दिवः ...{Loading}...</h2></summary>
 
-
-अ॒ग्निर् मू॒र्धा दि॒वः क॒कुत्  
-पतिः॑ पृथि॒व्या अ॒यम् ।  
-अ॒पां **रेतां॑सि जिन्वति**+++(=प्रीणयति)+++ ॥
+अग्नि᳓र् मूर्धा᳓ दिवः᳓ ककु᳓त्  
+प᳓तिः पृथिव्या᳓ अय᳓म् ।  
+अपां᳓ **रे᳓तांसि जिन्वति**+++(=प्रीणयति)+++ ॥
 
 </details>
 </div>

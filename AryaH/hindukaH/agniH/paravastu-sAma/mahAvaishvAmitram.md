@@ -17,7 +17,6 @@ RV.1.11.1a; SV.1.343a; 2.177a; VS.12.56a; 13.58a; 14.10a,22a,31a; 15.61a; 17.61a
 
 {{< figure src="../../../indraH/images/indra-rising-to-protect-charriots-of-army.jpg"  class="thumbnail">}}
 
-
 RV.6.48.2d; SV.2.54d; VS.27.44d; MS.2.13.9d: 159.13; KS.39.12d; JB.1.177; 2.137; Ap;S.17.9.1d.
 
 +++([सायणो [ऽत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart3/rv_sayanabhasya_part3#page/n413/mode/2up&sa=D&ust=1542425956356000)। बृहस्पतिपुत्रः शंयुः। बृहती, सतोबृहती। अग्निः।])+++

@@ -18,10 +18,9 @@ unicode_script = "devanagari"
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/027/01_ashvaM_na.md">
 <details open><summary><h6>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h6></summary>
 
-
-अश्वं॒ न त्वा॒ वार॑+++(=ल)+++वन्तं  
-व॒न्दध्या॑+++(=वन्दितुम्)+++ अ॒ग्निं नमो॑भिः ।  
-स॒म्राज॑न्तमध्व॒राणा॑म्  +++(प्रवृत्ताः)+++ ॥
+अ᳓श्वं न᳓ त्वा वा᳓र+++(=ल)+++वन्तं  
+वन्द᳓ध्या+++(=वन्दितुम्)+++ अग्निं᳓ न᳓मोभिः ।  
+सम्रा᳓जन्तमध्वरा᳓णाम्  +++(प्रवृत्ताः)+++ ॥
 
 </details>
 </div>
@@ -29,7 +28,6 @@ unicode_script = "devanagari"
 </div>  
 
 {{< figure src="/devaH/AryaH/hindukaH/agniH/images/agni-on-a-ram-drawn-charriot-speeding-towards-the-vedI.jpg"  class="thumbnail">}}
-
 
 ## साम १
 <div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive

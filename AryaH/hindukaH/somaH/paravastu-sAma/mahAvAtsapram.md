@@ -5,7 +5,197 @@ unicode_script = "devanagari"
 +++
 <div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/somaH/mahAvAtsapram/">
 <details open><summary><h1>महावात्सप्रम् ...{Loading}...</h1></summary>
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled="" url="../somaH-pavate-mahAvAtsapram/"></div>
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled="" url="../purojitI-vo-mahAvAtsapram/"></div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled="" url="../somaH-pavate-mahAvAtsapram/">
+<details open><summary><h4>सोमः पवते - महावात्सप्रम् ...{Loading}...</h4></summary>
+
+##### ऋक्
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/6/1/41_0527_somaH_pavate.md">
+<details open><summary><h7>41_0527 सोमः पवते ...{Loading}...</h7></summary>
+
+सो꣡मः꣢ पवते जनि꣣ता꣡ म꣢ती꣣नां꣡ ज꣢नि꣣ता꣢ दि꣣वो꣡ ज꣢नि꣣ता꣡ पृ꣢थि꣣व्याः꣢। ज꣣निता꣡ग्नेर्ज꣢꣯नि꣣ता꣡ सूर्य꣢꣯स्य जनि꣣ते꣡न्द्र꣢स्य जनि꣣तो꣡त विष्णोः꣢꣯ ॥ 41:0527 ॥
+
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/096/05_somaH_pavate.md">
+<details open><summary><h9>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+सो᳓मः पवते +++(=पात्रेषु क्षरति)+++ जनिता᳓ मतीनां᳓  
+जनिता᳓ दिवो᳓ जनिता᳓ पृथिव्याः᳓ ।  
+जनिता᳓ग्ने᳓र् जनिता᳓ सू᳓र्यस्य  
++++(द्युः, पृथिवी, पृथिव्या ज्योतिः, दिवो ज्योतिर् इति चारु क्रमः!)+++  
+जनिते᳓न्द्रस्य जनितो᳓त᳓ वि᳓ष्णोः ५  
++++(इत्थं पवमानस्य सोमस्य महज्जनकता प्रोक्ता!)+++
+
+</details>
+</div>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/3/1/19-2_0944_brahmA_devAnAm.md">
+<details open><summary><h7>19-2_0944 ब्रह्मा देवानाम् ...{Loading}...</h7></summary>
+
+ब्र꣣ह्मा꣢ दे꣣वा꣡नां꣢ पद꣣वीः꣡ क꣢वी꣣ना꣢꣫मृषि꣣र्वि꣡प्रा꣢णां महि꣣षो꣢ मृ꣣गा꣡णा꣢म्। श्ये꣣नो꣡ गृध्रा꣢꣯णा꣣ꣳ स्व꣡धि꣢ति꣣र्व꣡ना꣢ना꣣ꣳ सो꣡मः꣢ प꣣वि꣢त्र꣣म꣡त्ये꣢ति꣣ रे꣡भ꣢न् ॥ 19-2:0944 ॥
+
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/096/06_brahmA_devAnAM.md">
+<details open><summary><h9>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+ब्रह्मा᳓ देवा᳓नां, पदवीः᳓+++(=पद्धति-कृत्)+++ कवीना᳓म्  
+ऋ᳓षिर्वि᳓प्राणां महिषो᳓ मृगा᳓णाम् ।  
+श्येनो᳓ गृ᳓ध्राणां स्व᳓धितिर् +++(=परशुः/ वज्रः)+++ व᳓नानां +++(=हिंसकानां)+++  
++++(ब्रह्मा, कवयः, ऋषयः इति चारु क्रमः। महिषः, श्योनः, वना इत्यपि। वज्रो वै स्वधितिः इति श्रुतौ दृश्यते।)+++  
+सो᳓मः पवि᳓त्रम᳓त्येति रे᳓भन् +++(=शब्दायमानः)+++ ६  
+
+</details>
+</div>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/3/1/19-3_0945_prAvIvipadvAcha_Urmim.md">
+<details open><summary><h7>19-3_0945 प्रावीविपद्वाच ऊर्मिम् ...{Loading}...</h7></summary>
+
+प्रा꣡वी꣢विपद्वा꣣च꣢ ऊ꣣र्मिं꣢꣫ न सिन्धु꣣र्गि꣢र꣣ स्तो꣢मा꣣न्प꣡व꣢मानो मनी꣣षाः꣢। अ꣣न्तः꣡ पश्य꣢꣯न्वृ꣣ज꣢ने꣣मा꣡व꣢रा꣣ण्या꣡ ति꣢ष्ठति वृष꣣भो꣡ गोषु꣢꣯ जा꣡न꣢न् ॥ 19-3:0945 ॥ ॥19 (फू)॥ [धा. 30 । उ 2 । स्व. 6 ।]
+
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/096/07_prAvIvipadvAcha_UrmiM.md">
+<details open><summary><h9>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+प्रा᳓वीविपद् +++(=प्रावेपयत् / प्रेरयत्)+++ वाच᳓ ऊर्मिं᳓ न᳓ सि᳓न्धुर्  
+गि᳓रः सो᳓मः+++(सामवेदे भेदोऽत्र)+++ प᳓वमानो मनीषाः᳓ +++(=हृदयङ्गमाः)+++ ।  
+अन्तः᳓ प᳓श्यन् वृज᳓ना+++(=बलानि)++++इमा᳓ऽवराण्य्  
+आ᳓तिष्ठति वृषभो᳓ गो᳓षु जान᳓न् ७  
+</details>
+</div>
+</details>
+</div>  
+
+##### साम
+
+- पारम्परिक-गान-मूलम् [अत्र](https://sanskritdocuments.org/sites/pssramanujaswamy/AASHEERVACHANA%20SAAMAANI.pdf&sa=D&ust=1542425956296000)।
+- कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume3SatyavrataSamasrami1876bis_201804/page/n590)।
+<div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/mahAvAtsapram.mp3"></div>
+<div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/mahAvAtsapram.mp3"></div>
+<div caption="गोपालपवनयोर् अनुवचनम् 2015 1x" class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/mahAvAtsapram.mp3"></div>
+<div caption="गोपालपवनयोर् अनुवचनम् 2015 1.5x" class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015-150p-speed/mahAvAtsapram.mp3"></div>
+
+महावात्सप्रम् ।
+
+{हा+++([प]३)+++उ}+++([द्विः])+++ हा+++([प]३")+++उ उ।  
+{ओ+++(")+++, हॊ+++([त])+++हो+++([ता]--%३)+++वा+++(v)+++।}+++([एवम् त्रिः।])+++  
+
+सो+++(["र]३)+++मः पवा+++(--%३)+++ते+++([र]")+++ए जनि,,ता+++([पी]३)+++ {+मती+++(["])+++ना+++(%--३)+++अम्}+++([त्रिः])+++।  
+ज+++([र])+++निता+++(["]%)+++ दा+++(%)+++यिवो+++([र]३)+++ओ+++(")+++ जनि,,ता+++([प]३)+++ {+पृथिव्या+++(%--३)+++अह}+++([त्रिः])+++।  
+ज+++([र])+++निता+++(["])+++ग्ना+++(%)+++इहि। जा+++([र])+++नी+++(%)+++ता+++(३--%)+++। सू+++([प])+++र्यस्या+++(["]%--३)+++अ {+रि+++([प])+++यस्या+++(["]%--३)+++अ}+++([द्विः])+++।  
+ज+++([र])+++निते+++([ऽ"]%)+++न्द्रा+++(["]--%३)+++स्या+++([र]३)+++आ +जनि+++(%--३)+++,तो+++([ऽ प]३)+++{त +विष्णो+++(%--३)+++हॊ}+++(द्विः)+++ त +विष्णो+++(%--३)+++ऒहॊ।  
+
+ब्र+++([र])+++ह्मा+++(["]%)+++, दे+++(["])+++वा+++(३--%)+++ना+++([र])+++,आम् +पदा+++(३%--)+++वीः+++([प])+++ {+कवी+++([ऽ])+++ना+++(%--३)+++अं}+++([त्रिः])+++म्।  
+ऋ+++([र])+++षिर्विप्रा+++(३%--)+++णा+++([र])+++आम् मही+++(३)+++,,षो+++([प])+++, {मृगा+++(["]%)+++णा+++(%--३)+++अम्}+++([त्रिः])+++।  
+श्ये+++([र]%)+++नो+++(["]%)+++, गृध्,रा+++(३")+++णा+++([र])+++अं स्वधी+++(३%--)+++,,तिर् {+वना+++(["])+++ना+++(%--३)+++अं}+++([त्रिः])+++म् ।  
+सो+++(["र])+++मः पवा+++(३-%-)+++इ,,त्रा+++([र])+++,आम्म् अती+++(३%--)+++ ए+++([प])+++ +{ति रे+++(["]%--३)+++ऎभन्न्}+++([त्रिः])+++।
+
+प्रा+++(["])+++अ+++([र])+++ वी+++(%)+++विपा+++(३%)+++त्। वा+++([र])+++चा+++(%)+++ ऊ+++(३--%)+++(र्),मि+++([प])+++न्+++(र्)+++ +{न+++([प])+++ सिन्धुहु}+++([त्रिः])+++।  
+गी+++([र])+++रस्तो+++(["]%)+++मा+++(३--%)+++न्। पा+++([र]%)+++वा+++(%)+++मा+++(३--%)+++नो+++([प])++++{मनी+++(["]%--३)+++इषह}+++([त्रिः])+++।  
+अन्+++([र])+++तः पश्या+++(३--%)+++न्। व्रा+++([र])+++जा+++(%)+++ने+++(["]--%३)+++मा+++([प])+++{+ऽवरा+++(["]%--३)+++अणी+++(३)+++}+++([द्विः])+++, ऽवरा+++(["]%--३)+++अणि ।  
+आ+++(["ऽर]३)+++तिष्ठता+++(%)+++इ। वृ+++([र])+++षाभह। गो+++(["ऽप]३)+++{षु जा+++(["]%--३)+++अनन्+++(२)+++}+++([त्रिः])+++।  
+
+{हा+++([प]३)+++उ}+++([द्विः])+++ हा+++([प]३")+++उ,, उ।  
+{ओ+++(")+++, हॊ+++([त])+++हो+++([ता]--%३)+++वा+++(v)+++।}+++([एवम् द्विः।])+++  
+ओ+++(")+++, हॊ+++([त])+++हो+++([ता]--%३)+++  
+ऒवा+++([टू]v)+++अअ औ+++(["प])+++ हो+++(["]%)+++वाअ ।
+</details>
+</div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled="" url="../purojitI-vo-mahAvAtsapram/">
+<details open><summary><h4>पुरोजिती- महावात्सप्रम् ...{Loading}...</h4></summary>
+
+##### ऋक्
+RV.9.101.1a; SV.1.545a; 2.47a; JB.1.116,161a,163a; 2.195,425; 3.79,195; PB.8.5.7; 12.11.5; 14.5.5; 15.11.7 +++(सायणो [ऽत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart4/rv_sayanabhasya_part4#page/n339/mode/2up&sa=D&ust=1542425956295000)।)+++
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/6/2/01_0545_purojitI_vo.md">
+<details open><summary><h7>01_0545 पुरोजिती वो ...{Loading}...</h7></summary>
+
+पु꣣रो꣡जि꣢ती वो꣣ अ꣡न्ध꣢सः सु꣣ता꣡य꣢ मादयि꣣त्न꣡वे꣢। अ꣢प꣣ श्वा꣡न꣢ꣳ श्नथिष्टन꣣ स꣡खा꣢यो दीर्घजि꣣꣬ह्व्य꣢꣯म् ॥ 01:0545 ॥
+
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/101/01_purojitI_vo.md">
+<details open><summary><h9>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+पुरो᳓ऽजिती +++(=जयस्य)+++ वो अ᳓न्धसः +++(=अदनीयस्य सोमस्य)+++ सुता᳓य मादयित्न᳓वे ।  
+अ᳓प श्वा᳓नं श्नथिष्टन +++(=बाधयध्वम्)+++ स᳓खायो दीर्घजिह्व्य᳙म् १   
+
+</details>
+</div>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/1/1/18-2_0698_yo_dhArayA.md">
+<details open><summary><h7>18-2_0698 यो धारया ...{Loading}...</h7></summary>
+
+यो꣡ धार꣢꣯या पाव꣣क꣡या꣢ परिप्र꣣स्य꣡न्द꣢ते सु꣣तः꣢। इ꣢न्दु꣣र꣢श्वो꣣ न꣡ कृत्व्यः꣢꣯ ॥ 18-2:0698 ॥
+
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/101/02_yo_dhArayA.md">
+<details open><summary><h9>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+यो᳓ धा᳓रया पवाक᳓या+  
+परिप्रस्य᳓न्दते सुतः᳓  
+इ᳓न्दुर् अ᳓श्वो न᳓ कृ᳓त्वियः
+</details>
+</div>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/1/1/18-3_0699_taM_duroShamabhInaraH.md">
+<details open><summary><h7>18-3_0699 तं दुरोषमभीनरः ...{Loading}...</h7></summary>
+
+तं꣢ दु꣣रो꣡ष꣢म꣣भी꣡नरः꣣ सो꣡मं꣢ वि꣣श्वा꣡च्या꣢ धि꣣या꣢। य꣣ज्ञा꣡य꣢ स꣣न्त्व꣡द्र꣢यः ॥ 18-3:0699 ॥ ॥18(यि)॥
+
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/101/03_taM_duroShamabhI.md">
+<details open><summary><h9>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+तं᳓ दुरो᳓षम् +++(=दुर्दहं)+++ अभी᳓ न᳓रः सो᳓मं विश्वा᳓च्या धिया᳓ ।  
+यज्ञं᳓ हिन्वन्त्य् +++(=प्रेरयन्ति)+++ अ᳓द्रिभिः +++(=अश्मभिः)+++ ३ +++(यज्ञाय सन्त्वद्रय इति साम्नि।)+++
+
+</details>
+</div>
+</details>
+</div>  
+
+पु꣣रो꣡जि꣢ती वो꣣ अ꣡न्ध꣢सः सु꣣ता꣡य꣢ मादयि꣣त्न꣡वे꣢।  
+अ꣢प꣣ श्वा꣡न꣢ᳱ श्नथिष्टन꣣ स꣡खा꣢यो दीर्घजि꣣꣬ह्व्य꣢꣯म् ।।1 ।।  
+यो꣡ धार꣢꣯या पाव꣣क꣡या꣢ परिप्र꣣स्य꣡न्द꣢ते सु꣣तः꣢।  
+इ꣢न्दु꣣र꣢श्वो꣣ न꣡ कृत्व्यः꣢꣯ ।।2 ।।  
+तं꣢ दु꣣रो꣡ष꣢म꣣भी꣡नरः꣣ सो꣡मं꣢ वि꣣श्वा꣡च्या꣢ धि꣣या꣢।  
+य꣣ज्ञा꣡य꣢ स꣣न्त्व꣡द्र꣢यः ।।3 ।। ।।18(यि)।।
+
+{{< figure src="/devaH/AryaH/hindukaH/somaH/images/soma_moon_chandra.jpg"  class="thumbnail">}}
+{{< figure src="/devaH/AryaH/hindukaH/somaH/images/soma-enthroned.png"  class="thumbnail">}}
+
+##### साम
+
+- पारम्परिक-गान-मूलम् [अत्र](https://sanskritdocuments.org/sites/pssramanujaswamy/AASHEERVACHANA%20SAAMAANI.pdf&sa=D&ust=1542425956296000)।
+<div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/mahAvAtsapram.mp3"></div>
+<div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/mahAvAtsapram.mp3"></div>
+<div caption="गोपालपवनयोर् अनुवचनम् 2015 1x" class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/mahAvAtsapram.mp3"></div>
+<div caption="गोपालपवनयोर् अनुवचनम् 2015 1.5x" class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015-150p-speed/mahAvAtsapram.mp3"></div>
+
+{हा+++([प])+++उ}+++([त्रिः])+++,  उ।  
+{ओ+++(")+++, हॊ+++([त])+++हो+++([ता]"३)+++वा+++(v)+++।}+++([एवम् त्रिः।])+++
+
+पुरो+++(%)+++जिता+++(३--%)+++यि। वो+++(३)+++, अन्धसो+++("%)+++ऽन्धसो+++("%%)+++ऽन्धसा+++("%३)+++ह ।  
+सुताय मा+++(--%३)+++दा+++(v३)+++,, {इत् न वे।}+++([द्विः])+++,, इत्नवे+++(--%३)+++।  
+अपश्वाना+++(३)+++म् श्ना+++(v३)+++,,{थिष् ट ना}+++([द्विः])+++,थि,ष्ट,ना+++(--%३)+++ ।।  
+सखा+++(%)+++यो+++(%)+++, दी+++(३--%)+++र्,घा+++(v३)+++ । {जिह्विय+++(")+++म्}+++([त्रिः])+++। म्+++(--%३)+++।  
+यो+++(%)+++, धारया+++(३--%)+++ पा+++(v३)+++,{वकया}+++(द्विः)+++ ।। वकया+++(--%३)+++ ।  
+परिप्रस्या+++(--%३ ~~श्न्या~~)+++न्,, दा+++(v३)+++,, {ते+++(-%%"३)+++, सुतह}+++([त्रिः])+++।  
+इन्दुर् अश्वह ना+++(v३)+++। {क्रत्,वि,य,ह}+++([त्रिः])+++।  
+तन्  दुरो+++(%)+++षा+++(३--%)+++म् +आ+++(v३)+++। {भी+++(-%%"३)+++नरह}+++([त्रिः])+++  
+सोमम्, विश्वा+++(३--%)+++च्या+++(v३)+++,,{या, धिया}+++([द्विः])+++,,या, धिया+++(३--%)+++।  
+यज्ञाय। सा+++(३--%)+++न्तु+++(v३)+++। अद्रयो+++(%%)+++। ऽद्रयो+++(%%)+++। ऽद्रया+++(%")+++ह।    
+
+{हा+++([प]३)+++उ}+++([द्विः])+++ हा+++([प]३")+++उ,, उ।  
+{ओ+++(")+++, हॊ+++([त])+++हो+++([ता]--%३)+++वा+++(v)+++।}+++([एवम् द्विः।])+++  
+ओ+++(")+++, हॊ+++([त])+++हो+++([ता]--%३)+++  
+ऒवा+++([टू]v)+++अअ औ+++(["प])+++हो+++(["]%३)+++वा+++(३-")+++आ।  
+ई+++([टू])+++इइइ ई+++(३)+++ ॥
+</details>
+</div>
 </details>
 </div>

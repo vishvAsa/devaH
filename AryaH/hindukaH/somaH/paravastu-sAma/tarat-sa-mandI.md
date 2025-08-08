@@ -11,7 +11,6 @@ practice_weight = 0
 
 +++([सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume4SatyavrataSamasrami1877bis_201803/page/n37) कौथुमभाष्ये। कविः। जगती। सोमः।])+++
 
-
 ४ ४ १ ०५ ०१  
 +++(पापभ्यो)+++ तर॑त्+++(=तारयन्)+++ स म॒न्दी+++(=हर्षकरः [सोमः])+++ धा॑वति  
 धारा सुतस्यान्धसः  ।  

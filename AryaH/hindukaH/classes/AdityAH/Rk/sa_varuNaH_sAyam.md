@@ -6,7 +6,6 @@ unicode_script: devanagari
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/003_adhyAtmam/13_sa_varuNaH.md">
 <details open><summary><h2>१३ स वरुणः ...{Loading}...</h2></summary>
 
-
 +++([Generality](/devaH/meta/generality/) of Gods इति स्मारयति।)+++
 
 स वरु॑णः सा॒यम् अ॒ग्निर् भ॑वति॒, स मि॒त्रो भ॑वति प्रा॒तर् उ॒द्यन्।  

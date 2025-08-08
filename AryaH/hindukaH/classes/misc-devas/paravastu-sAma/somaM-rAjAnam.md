@@ -11,15 +11,15 @@ practice_weight = 0
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/37_0091_somaM_rAjAnam.md">
 <details open><summary><h6>37_0091 सोमं राजानम् ...{Loading}...</h6></summary>
 
-सो꣢म꣣ँ रा꣡जा꣢नं꣣ व꣡रु꣢णम꣣ग्नि꣢म꣣न्वा꣡र꣢भामहे । आ꣣दित्यं꣢꣫ विष्णु꣣ँ सू꣡र्यं꣢ ब्र꣣ह्मा꣡णं꣢ च꣣ बृ꣢ह꣣स्प꣡ति꣢म् ॥ 37:0091 ॥
+सो꣢म꣣ꣳ रा꣡जा꣢नं꣣ व꣡रु꣢णम꣣ग्नि꣢म꣣न्वा꣡र꣢भामहे । आ꣣दित्यं꣢꣫ विष्णु꣣ꣳ सू꣡र्यं꣢ ब्र꣣ह्मा꣡णं꣢ च꣣ बृ꣢ह꣣स्प꣡ति꣢म् ॥ 37:0091 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/141/03_somaM_rAjAnamavase_agniM.md">
 <details open><summary><h8>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h8></summary>
 
-
-सोमं॒ राजा॑न॒मव॑से॒ऽग्निं गी॒र्भिर्ह॑वामहे ।  
-आ॒दि॒त्यान्विष्णुं॒ सूर्यं॑ ब्र॒ह्माणं॑ च॒ बृह॒स्पति॑म् ॥
-
+सो᳓मं रा᳓जानम् अ᳓वसे  
+अग्निं᳓ गीर्भि᳓र् हवामहे  
+आदित्या᳓न् वि᳓ष्णुं सू᳓रियम्  
+ब्रह्मा᳓णं च बृ᳓हस्प᳓तिम्
 </details>
 </div>
 </details>
@@ -27,7 +27,6 @@ practice_weight = 0
   
 
 ## साम
-
 
 <div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/somaM-rAjAnam.mp3"></div>

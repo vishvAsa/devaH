@@ -11,21 +11,19 @@ practice_weight = 0
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/27_0027_agnirmUrdhA_divaH.md">
 <details open><summary><h4>27_0027 अग्निर्मूर्धा दिवः ...{Loading}...</h4></summary>
 
-अ꣣ग्नि꣢र्मू꣣र्धा꣢ दि꣣वः꣢ क꣣कु꣡त्पतिः꣢꣯ पृथि꣣व्या꣢ अ꣣य꣢म्। अ꣣पा꣡ँ रेता꣢꣯ँसि जिन्वति ॥ 27:0027 ॥
+अ꣣ग्नि꣢र्मू꣣र्धा꣢ दि꣣वः꣢ क꣣कु꣡त्पतिः꣢꣯ पृथि꣣व्या꣢ अ꣣य꣢म्। अ꣣पा꣡ꣳ रेता꣢꣯ꣳसि जिन्वति ॥ 27:0027 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/044/16_agnirmUrdhA_divaH.md">
 <details open><summary><h6>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h6></summary>
 
-
-अ॒ग्निर् मू॒र्धा दि॒वः क॒कुत्  
-पतिः॑ पृथि॒व्या अ॒यम् ।  
-अ॒पां **रेतां॑सि जिन्वति**+++(=प्रीणयति)+++ ॥
+अग्नि᳓र् मूर्धा᳓ दिवः᳓ ककु᳓त्  
+प᳓तिः पृथिव्या᳓ अय᳓म् ।  
+अपां᳓ **रे᳓तांसि जिन्वति**+++(=प्रीणयति)+++ ॥
 
 </details>
 </div>
 </details>
 </div>
-
 
 ## साम
 - पारम्परिक-गान-मूलम्

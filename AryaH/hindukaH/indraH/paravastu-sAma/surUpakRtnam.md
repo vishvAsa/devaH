@@ -22,17 +22,14 @@ practice_weight = 0
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/004/01_surUpakRtnumUtaye_sudughAmiva.md">
 <details open><summary><h6>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h6></summary>
 
-
-
-सु॒रू॒प॒कृ॒त्नुम् +++(इन्द्रं)+++ ऊ॒तये॑+++(=रक्षायै)+++  
-सु॒दुघा॑मिव गो॒दुहे॑ ।  
-जु॒हू॒मसि॒ द्यवि॑द्यवि ॥  
+सुरूपकृत्नु᳓म् +++(इन्द्रं)+++ ऊत᳓ये+++(=रक्षायै)+++  
+सुदु᳓घामिव गोदु᳓हे ।  
+जुहूम᳓सि द्य᳓विद्यवि ॥  
 
 </details>
 </div>
 </details>
 </div>  
-
 
 ## साम
 

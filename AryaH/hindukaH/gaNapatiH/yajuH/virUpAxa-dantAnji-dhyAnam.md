@@ -7,7 +7,6 @@ unicode_script = "devanagari"
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_sAma/jaiminIyam/sUtram/mantraH/virUpAxa-dantAnji-dhyAnam.md">
 <details open><summary><h2>विरूपाक्ष-दन्ताञ्जि-ध्यानम् ...{Loading}...</h2></summary>
 
-
 ॐ तपश् च तेजश् च सत्यं चात्मा च धृतिश् च धर्मश् च सत्त्वं च त्यागश् च ब्रह्मा च ब्रह्म च -  
 तानि प्रपद्ये। तानि माम् अवन्तु।  
 भूर् भुवः स्वर् ॐ।  

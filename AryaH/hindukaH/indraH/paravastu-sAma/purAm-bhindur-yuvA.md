@@ -11,7 +11,6 @@ practice_weight = 0
 
 ऋग्वेदे 1.11.4। कौथुमायाम् 1.1.4.1.8।
 
-
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/4/2/18_0359_purAM_bhinduryuvA.md">
 <details open><summary><h4>18_0359 पुरां भिन्दुर्युवा ...{Loading}...</h4></summary>
 
@@ -20,21 +19,18 @@ practice_weight = 0
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/011/04_purAM_bhinduryuvA.md">
 <details open><summary><h6>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h6></summary>
 
-
-पु॒रां भि॒न्दुर्+++(=भेत्ता)+++ युवा॑ क॒विरमि॑तौजा अजायत ।  
-इन्द्रो॒ विश्व॑स्य॒ कर्म॑णो ध॒र्ता व॒ज्री पु॑रुष्टु॒तः ॥  
+पुरां᳓ भिन्दु᳓र्+++(=भेत्ता)+++ यु᳓वा कवि᳓र᳓मितौजा अजायत ।  
+इ᳓न्द्रो वि᳓श्वस्य क᳓र्मणो धर्ता᳓ वज्री᳓ पुरुष्टुतः᳓ ॥  
 
 </details>
 </div>
 </details>
 </div>  
 
-
 ## साम
 
 <div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/purAm-bhindur-yuvA.mp3"></div>
-
 
 मारुतम् ॥  
 पु+++([])+++रां, भिंदुर्यूवा, कविः ।  

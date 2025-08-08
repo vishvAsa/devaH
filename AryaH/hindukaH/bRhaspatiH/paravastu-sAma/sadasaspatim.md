@@ -11,15 +11,12 @@ unicode_script = "devanagari"
 <div class="js_include" includetitle="true" newlevelforh1="3" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/018/06_sadasaspatimadbhutaM_priyamindrasya.md">
 <details open><summary><h4>०६ सदसस्पतिमद्भुतं प्रियमिन्द्रस्य ...{Loading}...</h4></summary>
 
-
-सद॑स॒स्पति॒म् अद्भु॑तं  
-प्रि॒यम् इन्द्र॑स्य॒ काम्य॑म् ।  
-स॒निं +++(=दानरूपम्)+++ मे॒धाम् अ॑यासिषम् ६
+स᳓दसस्प᳓तिम् अ᳓द्भुतं  
+प्रिय᳓म् इ᳓न्द्रस्य का᳓म्यम् ।  
+सनिं᳓ +++(=दानरूपम्)+++ मेधा᳓म् अयासिषम् ६
 
 </details>
 </div>  
-
-
 
 ## साम
 

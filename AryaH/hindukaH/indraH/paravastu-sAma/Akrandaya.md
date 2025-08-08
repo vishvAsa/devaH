@@ -14,7 +14,6 @@ unicode_script = "devanagari"
 <div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/Akrandaya-yoniH.mp3"></div>
 
-
 आ꣡क्र꣢न्दय कु꣣रु꣡ घोष꣢꣯म् म꣣हा꣢न्तम् ।  
 ह꣢री꣣ इ꣡न्द्र꣢स्या꣣ऽभि꣡यो꣢जया꣣ऽऽशू꣢।  
 म꣣र्मावि꣡ध꣢न् दधताम्+++(ददताम् इति कौथुमगाने)+++ अ꣣न्यो꣢ अ꣣न्य꣢म् ।  
@@ -24,7 +23,6 @@ unicode_script = "devanagari"
 स꣡नता꣢+++(य् =दात्रे)+++ अ꣣भ्य꣡व꣢र्तयत् ।  
 ज्यो꣢꣫ग् इत् ति꣣स्रो꣡ +++(वाक्-प्राण-मनो-वृत्तयः)+++ ओ꣢हातै꣣+++(=वहति)+++ ।  
 श꣡या꣢तै꣣ +++(कर्तित)+++के꣡श꣢व꣣च् छि꣡रः꣢ ॥
-
 
 आक्रन्दय कुरु घोषम् महान्तम् ।  
 हरी इन्द्रस्याभियोजयाशू।  
@@ -61,7 +59,6 @@ unicode_script = "devanagari"
 .mp3"></div>
 <div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/Akrandaya-mahAsAman.mp3"></div>
-
 
 महासाम ।  
 आ+++(["र]%)+++, क्रन्दायो+++(%)+++वा+++(३--%)+++ ।  

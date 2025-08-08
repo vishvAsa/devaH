@@ -65,9 +65,20 @@ This phenomenon was observed and recorded historically - attestation of real und
 ## Apam Napat implications
 8. What other salubrious outcome of this "mud volcanism as geological phenomenon" behind apam napat theory?
 
-Apam Napat is an indo-Iranian deity. Though he's not fire, he's the seizer of xvarena, a fiery substance below vouru-kasha, traditionally identified with Caspian. Naphtha, a hydrocarbon seep from under Arash river or even Caspian neatly explains the Avestan conception. So the same geological phenomenon explains both vedic and Avestan conceptions. The Pahlavi tradition also places Apam Napat near Arash.
+Apam Napat is an indo-Iranian deity. Though he's not fire, he's the seizer of xvarena, a fiery substance below vouru-kasha, traditionally identified with Caspian. 
+
+Xvarena is knowledge/intelligence granter and makes the possessor an "athravan".
+It was under the ocean and seized by apam napat and 2 others. Apam napat is "aurvataspa" too (horse connection).
+
+Naphtha, a hydrocarbon seep from under Arash river or even Caspian neatly explains the Avestan conception. So the same geological phenomenon explains both vedic and Avestan conceptions. The Pahlavi tradition also places Apam Napat near Arash.
    
 Apam Napat myth is intimately linked with a river in both Iranian and Vedic traditions. Those involve horses and the "seed of atharvan" which should be a separate thread. IMO the original river behind the apam napat myth is river Arash - historically Araxes. /Fin
+
+From a private conversation about apam napat, I just stumbled onto another connection. Xvarena, the fiery substance under Caspian, that was seized by Apam Napat, Thraetaona Athwya and Keresaspa +++(in diff myths)+++, is also a "knowledge granter" and makes the possessor an athravan.
+
+In rest of the stories, it is the horse or horse-headed submarine agni that maps to the xvarena. Here, knowledge/veda takes that spot and the horse motif transfer to the retriever vishnu.
+
+Indic parallels, especially Hayagriva and vadavanala are well known. But specifically, Haygriva retrieving the vedas from under the ocean is also the reflex of the same myth. And hayagriva as vadavanala story is also there in Mbh. However, hayagriva retrieving vedas from the ocean - the fire disappears, the knowledge aspect remains under the water to be seized and the horse motif transfers to the siezer. The vedas are the stand-in for "knowledge/intelligence granting" xvarena in this reflex of the story.
 
 ## Appendix
 A. Aryas didn't know ocean bro: Here's a picture Caspian sea. You decide if a super lake is sufficient to arrive at a notion of ocean. Keep in mind that Mongols from land-locked regions had a notion of ocean. 

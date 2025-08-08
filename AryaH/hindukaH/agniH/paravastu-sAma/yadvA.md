@@ -18,7 +18,6 @@ RV.8.23.13b; SV.1.114b.
 
 {{< figure src="/devaH/AryaH/hindukaH/agniH/images/enemies-dead-in-soot-agni-giving-wealth-to-yajamAna.jpg"  class="thumbnail">}}
 
-
 ## साम
 
 - पारम्परिक-गान-मूलम् [अत्र](https://sanskritdocuments.org/sites/pssramanujaswamy/VIVAAHA%20UPANAYANA%20SAAMAANI.pdf&sa=D&ust=1542425956346000)।

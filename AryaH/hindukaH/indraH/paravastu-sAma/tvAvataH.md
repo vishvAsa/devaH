@@ -20,9 +20,8 @@ unicode_script = "devanagari"
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/046/01_tvAvataH_purUvaso.md">
 <details open><summary><h6>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h6></summary>
 
-
-त्वाव॑तः+++(=त्वादृशस्य)+++ पुरूवसो व॒यमि॑न्द्र प्रणेतः ।  
-स्मसि॑+++(=स्मः)+++ स्थातर्हरीणाम् +++(=अश्वानां हिरण्यकेशानाम् वा!)+++ ॥  
+त्वा᳓वतः+++(=त्वादृशस्य)+++ पुरूवसो वय᳓मिन्द्र प्रणेतः ।  
+स्म᳓सि+++(=स्मः)+++ स्थातर्हरीणाम् +++(=अश्वानां हिरण्यकेशानाम् वा!)+++ ॥  
 
 </details>
 </div>
@@ -30,7 +29,6 @@ unicode_script = "devanagari"
 </div>  
 
 {{< figure src="/devaH/AryaH/hindukaH/indraH/images/indra-rising-to-protect-charriots-of-army.jpg"  class="thumbnail">}}
-
 
 ## साम
 - पारम्परिकगानमूलम् - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n2/mode/1up&sa=D&ust=1542425956390000)।

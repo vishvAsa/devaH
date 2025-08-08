@@ -16,12 +16,11 @@ practice_weight = 0
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/096/05_somaH_pavate.md">
 <details open><summary><h6>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h6></summary>
 
-
-सोमः॑ पवते +++(=पात्रेषु क्षरति)+++ जनि॒ता म॑ती॒नां  
-ज॑नि॒ता दि॒वो ज॑नि॒ता पृ॑थि॒व्याः ।  
-ज॒नि॒ताग्नेर् ज॑नि॒ता सूर्य॑स्य  
+सो᳓मः पवते +++(=पात्रेषु क्षरति)+++ जनिता᳓ मतीनां᳓  
+जनिता᳓ दिवो᳓ जनिता᳓ पृथिव्याः᳓ ।  
+जनिता᳓ग्ने᳓र् जनिता᳓ सू᳓र्यस्य  
 +++(द्युः, पृथिवी, पृथिव्या ज्योतिः, दिवो ज्योतिर् इति चारु क्रमः!)+++  
-जनि॒तेन्द्र॑स्य जनि॒तोत विष्णोः॑ ५  
+जनिते᳓न्द्रस्य जनितो᳓त᳓ वि᳓ष्णोः ५  
 +++(इत्थं पवमानस्य सोमस्य महज्जनकता प्रोक्ता!)+++
 
 </details>
@@ -34,7 +33,6 @@ practice_weight = 0
   - [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n55/mode/1up)
   - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n51/mode/2up)
   - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
-
 
 <div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/somaH-pavate-1.mp3"></div>

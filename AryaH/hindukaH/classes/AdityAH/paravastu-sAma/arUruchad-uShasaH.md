@@ -24,14 +24,11 @@ practice_weight = 0
 अरू॑रुचत् । उ॒षसः॑ । पृश्निः॑ । अ॒ग्रि॒यः । उ॒क्षा । बि॒भ॒र्ति॒ । भुव॑नानि । वा॒ज॒ऽयुः ।
 मा॒या॒ऽविनः॑ । म॒मि॒रे॒ । अ॒स्य॒ । मा॒यया॑ । नृ॒ऽचक्ष॑सः । पि॒तरः॑ । गर्भ॑म् । आ । द॒धुः॒ ॥
 
-
-
 ## साम १
 - पारम्परिक-गान-मूलम् 
   - [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n55/mode/1up)
   - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n51/mode/2up)
   - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
-
 
 <div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/arUruchad-uShasaH-1.mp3"></div>

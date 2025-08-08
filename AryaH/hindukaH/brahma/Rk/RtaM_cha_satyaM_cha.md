@@ -9,35 +9,32 @@ unicode_script = "devanagari"
 
 जले निमज्जने विनियोग आपस्तम्बगृह्यसूत्र उक्तः।
 </details>
-<div class="js_include" newlevelforh1="3" includetitle="false" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/190/01_RtaM_cha.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/190/01_RtaM_cha.md">
+<details open><summary><h5>०१ ऋतं च ...{Loading}...</h5></summary>
 
-
-ऋ॒तं च॑ स॒त्यं चा॒भी॑द्धा॒त्  
-तप॒सो ऽध्य॑जायत ।  
-ततो॒ रात्र्य् अ॑जायत॒  
-ततः॑ समु॒द्रो अ॑र्ण॒वः+++(←अर्णः = जलम्)+++ ॥
-
-</details>
-</div>
-<div class="js_include" newlevelforh1="3" includetitle="false" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/190/02_samudrAdarNavAdadhi_saMvatsaro.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
-
-
-स॒मु॒द्राद् अ॑र्ण॒वाद्+++(←अर्णः = जलम्)+++ अधि॑  
-संवत्स॒रो अ॑जायत ।  
-अ॒हो॒-रा॒त्राणि॑ वि॒दध॒द्  
-विश्व॑स्य +++(नेत्राभ्यां)+++ मिष॒तो +++(प्राणिजातस्य)+++ व॒शी +++(प्रजापतिर् demiurge)+++॥
+ऋतं᳓ च सत्यं᳓ चाभी᳙द्धात्  
+त᳓पसो᳓ ऽध्यजायत ।  
+त᳓तो रा᳓त्रिर् +++(रात्र्य् इति शाकले)+++ अजायत  
+त᳓तः समुद्रो᳓ अर्णवः᳓+++(←अर्णः = जलम्)+++ ॥
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" includetitle="false" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/190/03_sUryAchandramasau_dhAtA.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/190/02_samudrAdarNavAdadhi_saMvatsaro.md">
+<details open><summary><h5>०२ समुद्रादर्णवादधि संवत्सरो ...{Loading}...</h5></summary>
 
+समुद्रा᳓द् अर्णवा᳓द्+++(←अर्णः = जलम्)+++ अ᳓धि  
+संवत्सरो᳓ अजायत ।  
+अहो-रात्रा᳓णि विद᳓धद्  
+वि᳓श्वस्य +++(नेत्राभ्यां)+++ मिषतो᳓ +++(प्राणिजातस्य)+++ वशी᳓ +++(प्रजापतिर् demiurge)+++॥
 
-सू॒र्या॒-च॒न्द्र॒मसौ॑ धा॒ता  
-य॑था-पू॒र्वम् अ॑कल्पयत् ।  
-दिवं॑ च पृथि॒वीं चा॒न्तरि॑क्ष॒म् अथो॒ स्वः॑+++(=लोक-विशेषम्)+++ ॥
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/190/03_sUryAchandramasau_dhAtA.md">
+<details open><summary><h5>०३ सूर्याचन्द्रमसौ धाता ...{Loading}...</h5></summary>
+
+सूर्या-चन्द्रम᳓सौ धाता᳓  
+यथा-पूर्व᳓म् अकल्पयत् ।  
+दि᳓वं च पृथिवीं᳓ चान्त᳓रिक्षम् अ᳓थो स्वः᳙+++(=लोक-विशेषम्)+++ ॥
 
 </details>
 </div>

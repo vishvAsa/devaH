@@ -19,15 +19,13 @@ unicode_script = "devanagari"
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/065/10_vRShA_pavasva.md">
 <details open><summary><h6>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h6></summary>
 
-
-वृषा॑+++(=वर्षकः)+++  पवस्व॒ धार॑या म॒रुत्व॑ते +++(इन्द्राय)+++  च मत्स॒रः +++(=मदकरः)+++ ।  
-विश्वा॒ दधा॑न॒ ओज॑सा ॥  
+वृ᳓षा+++(=वर्षकः)+++  पवस्व धा᳓रया मरु᳓त्वते +++(इन्द्राय)+++  च मत्सरः᳓ +++(=मदकरः)+++ ।  
+वि᳓श्वा द᳓धान ओ᳓जसा ॥  
 
 </details>
 </div>
 </details>
 </div>  
-
 
 {{< figure src="/devaH/AryaH/hindukaH/somaH/images/soma-purification.png"  class="thumbnail">}}
 

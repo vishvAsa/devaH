@@ -18,7 +18,6 @@ practice_weight = 0
 
 {{< figure src="/devaH/AryaH/hindukaH/agniH/images/tall-agni-in-vedI-surrounded-by-lots-of-Rtvik-s-with-folded-hands-in-many-many-yAga-s-namaskAra-.png"  class="thumbnail">}}
 
-
 ## साम
 
 - पारम्परिक-गान-मूलम् [१९३७-लेखा](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n9/mode/1up&sa=D&ust=1542425956385000)। [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n9/mode/1up&sa=D&ust=1542425956386000)। [२०१५-लेखा](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/VIVAAHA%20UPANAYANA%20SAAMAANI#page/n4/mode/1up&sa=D&ust=1542425956386000)।

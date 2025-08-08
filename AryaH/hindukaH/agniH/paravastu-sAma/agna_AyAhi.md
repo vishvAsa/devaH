@@ -15,18 +15,16 @@ unicode_script = "devanagari"
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/060/01_agna_A.md">
 <details open><summary><h6>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h6></summary>
 
-
-अग्न॒ आ या॑ह्य॒ग्निभि॒र्होता॑रं त्वा वृणीमहे ।  
-आ त्वाम॑नक्तु॒ प्रय॑ता ह॒विष्म॑ती॒ यजि॑ष्ठं ब॒र्हिरा॒सदे॑ ॥
-
+अ᳓ग्न आ᳓ याहि अग्नि᳓भिर्  
+हो᳓तारं त्वा वृणीमहे  
+आ᳓ त्वा᳓म् अनक्तु प्र᳓यता हवि᳓ष्मती  
+य᳓जिष्ठम् बर्हि᳓र् आस᳓दे
 </details>
 </div>
 </details>
 </div>
-
 
 {{< figure src="/devaH/AryaH/hindukaH/agniH/images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png"  class="thumbnail">}}
-
 
 ## साम १
 +++(गौतमस्य पर्कः)+++

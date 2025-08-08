@@ -6,7 +6,6 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/01_dhAtA_dadAtu.md">
 <details open><summary><h2>०१ धाता ददातु ...{Loading}...</h2></summary>
 
-
 धा॒ता द॑दातु नो र॒यिम्  
 ईशा॑नो॒ जग॑त॒स्+++(!)+++पतिः॑ ।  
 स नः॑ पू॒र्णेन॑ वावनत् ।
@@ -15,7 +14,6 @@ unicode_script: devanagari
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/02_dhAtA_prajAyA.md">
 <details open><summary><h2>०२ धाता प्रजाया ...{Loading}...</h2></summary>
-
 
 धा॒ता प्र॒जाया॑ उ॒त रा॒य ई॑शे +++(=ईष्टे)+++   
 धा॒तेदं विश्व॒म् भुव॑नं जजान ।   
@@ -27,7 +25,6 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/03_dhAtA_dadAtu.md">
 <details open><summary><h2>०३ धाता ददातु ...{Loading}...</h2></summary>
 
-
 धा॒ता द॑दातु नो र॒यिम्  
 प्राचीं॑ जी॒वातु॒म् अक्षि॑ताम् ।  
 व॒यं दे॒वस्य॑ धीमहि  
@@ -37,7 +34,6 @@ unicode_script: devanagari
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/04_dhAtA_dadAtu.md">
 <details open><summary><h2>०४ धाता ददातु ...{Loading}...</h2></summary>
-
 
 धा॒ता द॑दातु दा॒शुषे॒ वसू॑नि  
 प्र॒जाका॑माय मी॒ढुषे॑ +++(=सेक्त्रे)+++ दुरो॒णे +++(=दारेषु)+++ ।  

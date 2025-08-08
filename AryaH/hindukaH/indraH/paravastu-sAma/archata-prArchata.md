@@ -20,11 +20,10 @@ RV.8.69.8a; AV;S.20.92.5a; SV.1.362a; AB.4.4.4; A;S.6.2.9.
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/069/08_archata_prArchata.md">
 <details open><summary><h6>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h6></summary>
 
-
-अर्च॑त॒ प्रार्च॑त +++(नराः)+++  
-प्रिय॑मेधासो॒ +++(=प्रियमेध-सम्बद्धाः)+++ अर्च॑त ।  
-अर्च॑न्तु पुत्र॒का उ॒त  
-पुरं न धृ॒ष्णु +++(=धर्षणशीलः)+++ +अ॑र्चत ।।  
+अ᳓र्चत प्रा᳓र्चत᳓ +++(नराः)+++  
+प्रि᳓यमेधासो +++(=प्रियमेध-सम्बद्धाः)+++ अ᳓र्चत ।  
+अ᳓र्चन्तु पुत्रका᳓ उत᳓  
+पु᳓रं᳓ न᳓ धृष्णु᳓ +++(=धर्षणशीलः)+++ +अर्चत ।।  
 
 </details>
 </div>
@@ -32,7 +31,6 @@ RV.8.69.8a; AV;S.20.92.5a; SV.1.362a; AB.4.4.4; A;S.6.2.9.
 </div>  
 
 {{< figure src="/devaH/AryaH/hindukaH/indraH/images/indra-emerging-in-a-yAga-and-shows-abhaya-hasta-to-people.jpg"  class="thumbnail">}}
-
 
 ## साम
 

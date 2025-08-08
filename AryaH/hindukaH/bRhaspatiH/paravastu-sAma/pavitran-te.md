@@ -13,12 +13,10 @@ practice_weight = 0
 
 ## साम १
 
-
 <div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/pavitran-te-1.mp3"></div>
 <div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/pavitran-te-1.mp3"></div>
-
 
 अर्कपुष्पाद्यं ।  
 प+++([])+++: वित्रंते, ऎवितातं, ब्रह्मणस्पते, ऎ ।  

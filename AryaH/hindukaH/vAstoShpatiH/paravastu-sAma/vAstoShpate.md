@@ -13,18 +13,16 @@ unicode_script = "devanagari"
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/3/2/33_0275_vAstoShpate_dhruvA.md">
 <details open><summary><h4>33_0275 वास्तोष्पते ध्रुवा ...{Loading}...</h4></summary>
 
-
 वा꣡स्तो꣢ष्पते  ध्रु꣣वा꣡ स्थूणाᳱस꣢꣯त्रᳱ सो꣣म्या꣡ना꣢म्।  
 द्र꣣प्सः꣢ पु꣣रां꣢ भे꣣त्ता꣡ शश्व꣢꣯तीना꣣मि꣢न्द्रो꣣ मु꣡नी꣢ना꣣ᳱ स꣡खा꣢ ॥ 33:0275 ॥  
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/017/14_vAstoShpate_dhruvA.md">
 <details open><summary><h6>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h6></summary>
 
-
-वास्तो॑ष्पते+++(=गृहपते)+++  ध्रु॒वा स्थूणा+++(=गृहाधारभूतस्तम्भाः)+++  
-ऽंस॑त्रं सो॒म्याना॑म्+++(=सोमार्हाणाम्)+++।  
-द्र॒प्सो+++(=द्रवणशीलः)+++ भे॒त्ता पु॒रां शश्व॑तीना॒म्  
-इन्द्रो॒ मुनी॑नां॒ सखा॑ ॥
+वा᳓स्तोष्पते+++(=गृहपते)+++  ध्रुवा᳓ स्थू᳓णा᳓+++(=गृहाधारभूतस्तम्भाः)+++  
+ऽंसत्रं सोम्या᳓नाम्+++(=सोमार्हाणाम्)+++।  
+द्रप्सो᳓+++(=द्रवणशीलः)+++ भेत्ता᳓ पुरां᳓ श᳓श्वतीनाम्  
+इ᳓न्द्रो मु᳓नीनां स᳓खा ॥
 
 </details>
 </div>
@@ -32,7 +30,6 @@ unicode_script = "devanagari"
 </div>  
 
 {{< figure src="/devaH/AryaH/hindukaH/indraH/images/Indra-kills-vRtra-snake-with-vajra.jpg"  class="thumbnail">}}
-
 
 ## साम १
 
@@ -53,8 +50,6 @@ unicode_script = "devanagari"
 द्र+++([जा])+++प्सः पुरा+++(%२)+++ म् भेत्ता+++(")+++,
 शश्वता+++(--%३)+++अइनाम्। आ+++([टू]--%३)+++आइन्द्रा+++(३)+++ह+++(v)+++।  
 मू+++([ता])+++न्नी+++(["पॣ])+++इ,ना+++([ऽ?फौ])+++आउ+++(v)+++वा+++(३)+++आ। सा+++([टू]%)+++खा+++(")+++अ॥
-
-
 
 ## साम २
 <div caption="गोपालपवनयोर् अनुवचनम् 2015 1x" class="audioEmbed" src="https://archive

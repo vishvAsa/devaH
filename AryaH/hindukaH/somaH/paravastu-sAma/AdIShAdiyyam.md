@@ -17,7 +17,6 @@ RV.9.106.10a; SV.1.572a; 2.290a; JB.3.78a;
 
 {{< figure src="/devaH/AryaH/hindukaH/somaH/images/soma-purification.png"  class="thumbnail">}}
 
-
 ## साम
 
 - पारम्परिक-गान-मूलम् [अत्र](https://sanskritdocuments.org/sites/pssramanujaswamy/AASHEERVACHANA%20SAAMAANI.pdf&sa=D&ust=1542425956292000)।

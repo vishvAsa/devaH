@@ -10,7 +10,6 @@ unicode_script = "devanagari"
 
 +++([सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume2SatyavrataSamasrami1876bis_201803/page/n191) कौथुमभाष्ये। कविः। जगती। सोमः।])+++
 
-
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/6/2/10_0554_abhi_priyANi.md">
 <details open><summary><h4>10_0554 अभि प्रियाणि ...{Loading}...</h4></summary>
 
@@ -19,15 +18,13 @@ unicode_script = "devanagari"
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/075/01_abhi_priyANi.md">
 <details open><summary><h6>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h6></summary>
 
-
-अ॒भि प्रि॒याणि॑ +++(उदकानि)+++ पवते॒ चनो॑+++(=अन्न)+++हितो॒ नामा॑नि+++(=नमनशीलानि)+++ य॒ह्वो+++(=महान्)+++ अधि॒ येषु॒ वर्ध॑ते +++(अन्तरिक्षस्थः)+++ ।  
-आ सूर्य॑स्य बृह॒तो बृ॒हन्नधि॒ रथं॒ विष्व॑ञ्चम्+++(=विष्वग्गमनं)+++अरुहद्विचक्ष॒णः ॥
+अभि᳓ प्रिया᳓णि +++(उदकानि)+++ पवते च᳓नो+++(=अन्न)+++हितो ना᳓मानि+++(=नमनशीलानि)+++ यह्वो᳓+++(=महान्)+++ अ᳓धि ये᳓षु व᳓र्धते +++(अन्तरिक्षस्थः)+++ ।  
+आ᳓ सू᳓र्यस्य बृहतो᳓ बृह᳓न्न᳓धि र᳓थं वि᳓ष्वञ्चम्+++(=विष्वग्गमनं)+++अरुहद्विचक्षणः᳓ ॥
 
 </details>
 </div>
 </details>
 </div>  
-
 
 {{< figure src="/devaH/AryaH/hindukaH/somaH/images/soma_moon_chandra.jpg"  class="thumbnail">}}
 
@@ -41,7 +38,6 @@ unicode_script = "devanagari"
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018/kAvam.mp3"></div>
 <div caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1.5x" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018-150p-speed/kAvam.mp3"></div>
-
 
 कावम्।  
 अ+++([पि])+++भ्यो+++(%३)+++ वा+++(")+++अ।  

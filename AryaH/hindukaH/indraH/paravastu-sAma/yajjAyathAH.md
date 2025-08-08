@@ -12,7 +12,6 @@ RV.8.89.5a; SV.2.779a; ArS.2.7a; KB.24.5; A;S.8.5.12; 10.2.22; ;S;S.11.11.14; 18
 
 +++([सायणो [ऽत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart3/rv_sayanabhasya_part3#page/n991/mode/2up&sa=D&ust=1542425956269000)। आङ्गीरसौ नृमेधपुरमेधौ। अनुष्टुप्। इन्द्रः।])+++
 
-
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/2_AraNyArchikaH/16_0601_yajjAyathA_apUrvya.md">
 <details open><summary><h4>16_0601 यज्जायथा अपूर्व्य ...{Loading}...</h4></summary>
 
@@ -21,22 +20,19 @@ RV.8.89.5a; SV.2.779a; ArS.2.7a; KB.24.5; A;S.8.5.12; 10.2.22; ;S;S.11.11.14; 18
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/089/05_yajjAyathA_apUrvya.md">
 <details open><summary><h6>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h6></summary>
 
-
-यज्जाय॑था +++(=अजायथाः)+++ अपूर्व्य॒  
-मघ॑वन्वृत्र॒हत्या॑य ।  
-तत् पृथि॒वीम् अप्रथयस् +++(=प्रसिद्धाम् अकरोः)+++  
-तद॑स्तभ्ना +++(=अरुणत्)+++ उ॒त द्याम् ।  
+य᳓ज्जा᳓यथा +++(=अजायथाः)+++ अपूर्व्य  
+म᳓घवन्वृत्रह᳓त्याय ।  
+त᳓त् पृ᳓थिवी᳓म् अ᳓प्र᳓थ᳓य᳓स् +++(=प्रसिद्धाम् अकरोः)+++  
+त᳓दस्तभ्ना +++(=अरुणत्)+++ उत᳓ द्या᳓म् ।  
 
 </details>
 </div>
 </details>
 </div>  
 
-
 तेजो घर्मः सङ्क्रीडन्ते। शिशुमतीर् वायुगोपास् तेजस्वतीर् मरुद्भिर् भुवनानि चक्रतुः।
 
 {{< figure src="/devaH/AryaH/hindukaH/indraH/images/Indra-kills-vRtra-snake-with-vajra.jpg"  class="thumbnail">}}
-
 
 ## साम
 

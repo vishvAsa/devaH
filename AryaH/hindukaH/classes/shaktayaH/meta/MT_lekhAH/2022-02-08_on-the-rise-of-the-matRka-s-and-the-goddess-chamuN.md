@@ -32,7 +32,6 @@ Below we provide an Atharvavedic version of these incantations (the subset which
 </details>
 </div>  
 
-
 [![indrANI_Nepalian](https://manasataramgini.files.wordpress.com/2022/02/indrani_nepalian.jpg?w=459&h=431)](https://manasataramgini.files.wordpress.com/2022/02/indrani_nepalian.jpg)
 
 *A five-headed Indrāṇī from a Nepalian mātṛkā-pūjā manuscript*
@@ -44,7 +43,6 @@ Of these goddesses, Indrāṇī and Viṣṇupatnī (Vaiṣṇavī) are featured
 This association continues in the late Yajurvedic incantation known as the Āyuṣya-sūkta (Bodhāyana-mantra-praśna), where the same goddess is explicitly termed Indrasenā. In later tradition, she is seen as the wife of Skanda (Devasenā), who is also mentioned in the Āyuṣya-sūkta by her other name Ṣaṣṭhī.
 
 A persistent pattern in these Vedic rituals is the presence of a single male god accompanying a cluster of goddesses.+++(5)+++ As noted above, Agni Gṛhapati is the single male deity who accompanies the goddesses receiving offerings in the Patnī-saṃyāja. The RV also repeatedly states that the wives of the gods arrive at the ritual accompanied by the god Tvaṣṭṛ (RV 1.22.9; 1.161.4; 2.31.4; 2.36.3; 6.50.13; 7.34.20; 7.34.22; 7.35.6; 10.18.6; 10.64.10; 10.66.3) Additionally, in the Taittirīya school we have two versions of the Devikā oblations. In the first of them, the god Tvaṣṭṛ accompanies the goddesses Sarasvatī and Sinīvālī. In the second, the god Dhātṛ (a later ectype of Tvaṣṭṛ [^1]) is invoked together with the goddesses Aditi, Anumatī, Rākā, Sinīvālī and Guṅgū. This pattern may be seen as analogous to the usual situation, wherein several male gods associated with different functions are spanned by a single transfunctional goddess — Sarasvatī [^2]. 
-
 
 [^1]: First appears as theonym of Tvaṣṭṛ in his aspect as Viśvakarman in RV 10.82.02. There Viśvakarman is explicitly described as Dhātṛ. The equivalence of Dhātṛ, Viśvakarman and Tvaṣṭṛ is established in the late Yajurvedic version of the Puruṣa-sūkta with the appendix termed the Uttaranārāyaṇa.
 
@@ -64,9 +62,9 @@ Here, a single male generative deity is associated with a multi-functional clust
 
 1 [^1] . The spit-ox (sacrificed to Rudra).
 
-
 [^1]:  8, 1. Āśvalāyana-Gṛhya IV, 8.
 </details>
+
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 The impaled bull \[sacrifice\]
@@ -85,9 +83,9 @@ The impaled bull \[sacrifice\]
 
 2 [^2] . It procures (to the sacrificer) heavenly rewards, cattle, sons, wealth, renown, long life.
 
-
 [^2]:  Āśvalāyana, loc. cit. § 35.
 </details>
+
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 It procures heaven, cattle, sons, riches, renown, long life.
@@ -106,9 +104,9 @@ It procures heaven, cattle, sons, riches, renown, long life.
 
 3 [^3] . Having taken the sacred domestic fire to the forest, and having performed the 'outspreading,' he should sacrifice the animal to Rudra.
 
-
 [^3]:  The 'outspreading' is the establishing of the three sacred Śrauta fires, so that the Gṛhya fire is considered as the Gārhapatya, and the Āhavanīya and Dakṣiṇāgni are taken from it.
 </details>
+
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 Having taken the aupāsana fire to the forest, and having performed the spreading \[of grass\], he should obtain the animal for Rudra.
@@ -127,6 +125,7 @@ Having taken the aupāsana fire to the forest, and having performed the spreadin
 
 4. One that is not gelded.
 </details>
+
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 With testicles (i.e., not castrated)
@@ -145,9 +144,9 @@ With testicles (i.e., not castrated)
 
 5 [^4] . Or (it may be) a cow, on account of the designation.
 
-
 [^4]:  On account of the designation of the sacrifice as śūla-gava.
 </details>
+
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 Or a cow as the name \[of the ritual specifies\]
@@ -166,9 +165,9 @@ Or a cow as the name \[of the ritual specifies\]
 
 6 [^5] . Having cooked the omentum, a mess of sacrificial food, and the portions cut off (of the victim), he sacrifices the omentum to Rudra, the fat to the Air, and the cut-off portions together with the mess of cooked food to Agni, Rudra, Śarva, Paśupati, Ugra, Aśani, Bhava, Mahādeva, .
 
-
 [^5]:  Āśvalāyana, loc. cit. § 19.
 </details>
+
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 Having cooked the omentum, a plate of rice, and the cuts from \[the victim\], he offers the omentum to Rudra, the fat to the atmosphere, and the cuts of meat with the rice to Agni, Rudra, Śarva, Paśupati, Ugra, Aśani, Bhava, Mahādeva and Īśāna.
@@ -187,6 +186,7 @@ Having cooked the omentum, a plate of rice, and the cuts from \[the victim\], he
 
 7. (Then follows a sacrifice to) Vanaspati.
 </details>
+
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 The Vanaspati (offering to the sacrificial post is made).
@@ -205,6 +205,7 @@ The Vanaspati (offering to the sacrificial post is made).
 
 8. (To Agni) Sviṣṭakṛt at the end.
 </details>
+
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 At the end \[offerings are made to Agni\] Sviṣṭakṛt.
@@ -223,9 +224,9 @@ At the end \[offerings are made to Agni\] Sviṣṭakṛt.
 
 9 [^6] . Then (follows) the sprinkling round to the different quarters (of the horizon).
 
-
 [^6]:  Jayarāma: diśāṃ vyāghāraṇaṃ kartavyam iti sūtraśeṣaḥ. tac ca vasayā bhavati yathāgnishomīye.
 </details>
+
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 Then the sprinkling to the directions \[is performed\].
@@ -244,9 +245,9 @@ Then the sprinkling to the directions \[is performed\].
 
 10 [^7] . After the sprinkling has been performed, they sacrifice the Patnī-saṃyāja offerings to Indrāṇī, Rudrāṇī, Śarvāṇi, Bhavānī, and Agni Gṛhapati.
 
-
 [^7]:  On the Patnī-saṃyāja offerings, so called because they are chiefly directed to the wives of the gods, see Hillebrandt, Neu- und Vollmondsopfer, pp. 151 seqq.
 </details>
+
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 At the end of the sprinkling the offer the Patnī-saṃyāja oblations to Indrāṇī, Rudrāṇī, Śarvāṇi, Bhavānī, and Agni Gṛhapati.
@@ -265,9 +266,7 @@ At the end of the sprinkling the offer the Patnī-saṃyāja oblations to Indrā
 
 11 [^8] . The blood he offers in leaves, on (grass-) bunches, as a Bali to Rudra and to his hosts, with (the Mantras),
 
-
 [^8]:  Āśvalāyana, loc. cit. § 22.
-
 
 'The hosts, Rudra, which thou hast to the east, to them this Bali (is given). To them and to thee be adoration!
 
@@ -275,6 +274,7 @@ At the end of the sprinkling the offer the Patnī-saṃyāja oblations to Indrā
 
 downwards, to them this Bali (is given). To them and to thee be adoration!'
 </details>
+
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 He \[then\] offers the blood \[of the sacrificed bull\] as bali with a bunch of *Butea frondosa* leaves to Rudra and his troops with \[the incantations\]: 
@@ -295,9 +295,9 @@ He \[then\] offers the blood \[of the sacrificed bull\] as bali with a bunch of 
 
 12 [^9] . The contents of the stomach and of the entrails, besmeared with blood, he throws into the fire or buries them in the earth.
 
-
 [^9]:  As to ūvadhya, comp. Āśvalāyana, § 28.
 </details>
+
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 He casts the gut and the blood-smeared remains into the fire or buries them beneath.
@@ -316,9 +316,9 @@ He casts the gut and the blood-smeared remains into the fire or buries them bene
 
 13 [^10] . Having placed the animal so that the wind blows from himself to it, he approaches it with the Rudra hymns, or with the first and last Anuvāka.
 
-
 [^10]:  The Rudra hymns form the sixteenth Adhyāya of the Vājasaneyi Saṃhitā. Either that whole Adhyāya or the first and last Anuvāka of it is recited.
 </details>
+
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 Having \[placed the remains of\] the animal such that the wind blows from himself to it, he goes towards it by \[reciting\] the Rudra incantations, or the first and last anuvāka \[i.e., Śatarudrīya\].
@@ -337,6 +337,7 @@ Having \[placed the remains of\] the animal such that the wind blows from himsel
 
 14. They do not take anything of that animal to the village.
 </details>
+
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 They do not take anything of the animal to the village.
@@ -356,9 +357,9 @@ They do not take anything of the animal to the village.
 
 15 [^11] . Thereby (also) the cow-sacrifice has been declared.
 
-
 [^11]:  Gobhila III, 6.
 </details>
+
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 By this the cow-sacrifice is also expounded.
@@ -377,6 +378,7 @@ By this the cow-sacrifice is also expounded.
 
 16. (It is combined) with (the offering of) milk-rice; (the rites) not corresponding (to that special occasion) are omitted.
 </details>
+
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 It is done with an offering of milk, and the \[rituals\] not meant for it are omitted.
@@ -395,6 +397,7 @@ It is done with an offering of milk, and the \[rituals\] not meant for it are om
 
 17. The sacrificial fee at that (sacrifice) is a cow of the same age (as the victim).
 </details>
+
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 A cow of the same age (as the sacrificed animal) is the ritual fee.
@@ -446,7 +449,6 @@ A similar list is given in the “mega”-Skandapurāṇa:
 > saptaitāḥ śiśumātaraḥ ॥ SP-M 1.2.29.175-76
 
 Notably, in this cluster of goddesses, we see, for the first time, an explicit list of 7 mātṛ-s — a number that became characteristic of the classical group of mātṛkā-s. In subsequent narrations of the Kaumāra cycle in the [medical](https://manasataramgini.wordpress.com/2008/09/08/kaumara-material-in-the-ashtangasamgraha-a-rambling-discussion/) and paurāṇika traditions, the number of mātṛ-s who accompany Skanda is numerous and varied. 
-
 
 Nevertheless, one of the archaic versions from the Mbh we encounter for the first time the description of these mātṛ-s as having the form of female versions of the gods:
 
@@ -891,7 +893,6 @@ These mantra-s indicate the intimate connection between Cāmuṇḍā and the my
 
 [^3]: The Kashmirian Kaṭḥa tradition preserves a form of the Bahurūpī that combines both the Rudra-s and the Rudrāṇī-s; recorded by the mantravādin Svāmin Lakṣmaṇa Jū
 
-
 Every syllable of the Samayāvidyā corresponds to one of the 32 syllables of the metrical Bahurūpī. The standard Paścimāṃnāya Samayāvidyā:  
 
 > OṂ bhagavati ghore hskhphreṃ śrīkubjike hrāṃ hrīṃ hrauṃ  
@@ -936,10 +937,7 @@ Its absence in the Vedic and epic layers of the language suggests that the word 
 
 This also goes hand in hand with a widespread tendency to show the universality of the deity. In the case of the great Rudrian goddesses, this was also associated with a tendency to emphasize her links to the Rudrian domain of the exterior, which includes the tribal groups (already seen in the Yajurveda). This is also signaled by indicating the worship of the goddess in distant or non-Aryan lands. For instance, in the proto-Skandapurāṇa, the virgin goddess Kauśikī born of the black slough of Pārvatī emanated numerous avicephalous and therocephalous goddesses to aid her in the killing of Śumbha and Niśumbha. Thereafter, these goddesses were installed for worship in various countries, like the owl-headed Upakā in Pārasīka (Iran); the raven-headed Vāyasī in Yavana (Greek lands); the lion-headed Pracaṇḍā in Tukhara (Tocharia); Vānarī among the Śabara tribesmen; several others in the provinces of Lankā. This is reflected in the mantra-śāstra by the names of the goddesses like Gāndhārī or Dramiḍi.
 
-
 _________
-
-
 
 ## Appendix
 

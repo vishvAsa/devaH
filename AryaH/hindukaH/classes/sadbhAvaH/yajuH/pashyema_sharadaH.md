@@ -6,11 +6,7 @@ unicode_script = "devanagari"
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/12_tachchaxurdevahitam_purastAchChukramuchcharat.md">
 <details open><summary><h2>१२ तच्चक्षुर्देवहितम् पुरस्ताच्छुक्रमुच्चरत् ...{Loading}...</h2></summary>
 
-
-+++(सूर्यस्)+++ तच् चक्षु॑र् दे॒व+++(नि)+++हि॑तं पु॒रस्ता॑च् छु॒क्र+++(द्ध)+++म् उ॒च्चर॑त् ।  
-
-
-
++++(सूर्यस्)+++ तच् चक्षु॑र् दे॒व+++(नि)+++हि॑तं पु॒रस्ता॑च् छु॒क्र+++(द्ध)+++म् उ॒च्चर॑त् -  
 पश्ये॑म श॒रद॑श् श॒तं  
 जीवे॑म श॒रद॑श् श॒तं  
 नन्दा॑म श॒रद॑श् श॒तं  

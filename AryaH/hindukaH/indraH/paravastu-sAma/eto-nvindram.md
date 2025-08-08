@@ -25,7 +25,6 @@ practice_weight = 0
 <div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/eto-nvindram-1.mp3"></div>
 
-
 ए,+++([])+++ऎतोओ, न्विंद्रं+++(२)+++ स्तावाअ,माअअ ।  
 शु+++([])+++द्धं शुद्धे,,ना सा,आम्ना।  
 शु+++([])+++द्धैर् रुक्थै+++(~~ध्धै~~)+++र् वा,वृध्वा,अङ्साम्।  

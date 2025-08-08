@@ -12,14 +12,13 @@ RV.9.101.1a; SV.1.545a; 2.47a; JB.1.116,161a,163a; 2.195,425; 3.79,195; PB.8.5.7
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/6/2/01_0545_purojitI_vo.md">
 <details open><summary><h4>01_0545 पुरोजिती वो ...{Loading}...</h4></summary>
 
-पु꣣रो꣡जि꣢ती वो꣣ अ꣡न्ध꣢सः सु꣣ता꣡य꣢ मादयि꣣त्न꣡वे꣢। अ꣢प꣣ श्वा꣡न꣢ँ श्नथिष्टन꣣ स꣡खा꣢यो दीर्घजि꣣꣬ह्व्य꣢꣯म् ॥ 01:0545 ॥
+पु꣣रो꣡जि꣢ती वो꣣ अ꣡न्ध꣢सः सु꣣ता꣡य꣢ मादयि꣣त्न꣡वे꣢। अ꣢प꣣ श्वा꣡न꣢ꣳ श्नथिष्टन꣣ स꣡खा꣢यो दीर्घजि꣣꣬ह्व्य꣢꣯म् ॥ 01:0545 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/101/01_purojitI_vo.md">
 <details open><summary><h6>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h6></summary>
 
-
-पु॒रोऽजि॑ती +++(=जयस्य)+++ वो॒ अन्ध॑सः +++(=अदनीयस्य सोमस्य)+++ सु॒ताय॑ मादयि॒त्नवे॑ ।  
-अप॒ श्वानं॑ श्नथिष्टन॒ +++(=बाधयध्वम्)+++ सखा॑यो दीर्घजि॒ह्व्य॑म् १   
+पुरो᳓ऽजिती +++(=जयस्य)+++ वो अ᳓न्धसः +++(=अदनीयस्य सोमस्य)+++ सुता᳓य मादयित्न᳓वे ।  
+अ᳓प श्वा᳓नं श्नथिष्टन +++(=बाधयध्वम्)+++ स᳓खायो दीर्घजिह्व्य᳙म् १   
 
 </details>
 </div>
@@ -33,10 +32,9 @@ RV.9.101.1a; SV.1.545a; 2.47a; JB.1.116,161a,163a; 2.195,425; 3.79,195; PB.8.5.7
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/101/02_yo_dhArayA.md">
 <details open><summary><h6>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h6></summary>
 
-
-यो धार॑या पाव॒कया॑ परिप्र॒स्यन्द॑ते सु॒तः ।  
-इन्दु॒रश्वो॒ न कृत्व्यः॑ ॥
-
+यो᳓ धा᳓रया पवाक᳓या+  
+परिप्रस्य᳓न्दते सुतः᳓  
+इ᳓न्दुर् अ᳓श्वो न᳓ कृ᳓त्वियः
 </details>
 </div>
 </details>
@@ -49,10 +47,8 @@ RV.9.101.1a; SV.1.545a; 2.47a; JB.1.116,161a,163a; 2.195,425; 3.79,195; PB.8.5.7
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/101/03_taM_duroShamabhI.md">
 <details open><summary><h6>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h6></summary>
 
-
-
-तं दु॒रोष॑म् +++(=दुर्दहं)+++ अ॒भी नरः॒ सोमं॑ वि॒श्वाच्या॑ धि॒या ।  
-य॒ज्ञं हि॑न्व॒न्त्य् +++(=प्रेरयन्ति)+++ अद्रि॑भिः +++(=अश्मभिः)+++ ३ +++(यज्ञाय सन्त्वद्रय इति साम्नि।)+++
+तं᳓ दुरो᳓षम् +++(=दुर्दहं)+++ अभी᳓ न᳓रः सो᳓मं विश्वा᳓च्या धिया᳓ ।  
+यज्ञं᳓ हिन्वन्त्य् +++(=प्रेरयन्ति)+++ अ᳓द्रिभिः +++(=अश्मभिः)+++ ३ +++(यज्ञाय सन्त्वद्रय इति साम्नि।)+++
 
 </details>
 </div>
@@ -68,7 +64,6 @@ RV.9.101.1a; SV.1.545a; 2.47a; JB.1.116,161a,163a; 2.195,425; 3.79,195; PB.8.5.7
 
 {{< figure src="/devaH/AryaH/hindukaH/somaH/images/soma_moon_chandra.jpg"  class="thumbnail">}}
 {{< figure src="/devaH/AryaH/hindukaH/somaH/images/soma-enthroned.png"  class="thumbnail">}}
-
 
 ## साम
 

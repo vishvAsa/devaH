@@ -5,6 +5,11 @@ unicode_script = "devanagari"
 +++
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/purANam_vaiShNavam/kAvyam/padyam/shrIvaiShNava-kRtam/venkaTanAthaH/garuDa-daNDakam/">
 <details open><summary><h2>गरुडदण्डकम् ...{Loading}...</h2></summary>
+<details><summary>गानानि</summary>
+<div caption="भार्गवी, श्रीमती" class="videoEmbed" src="https://youtu.be/fxseucTKDaU?si=NHvTDwaEWlOFZNto"></div>
+<div caption="दुष्यन्तः" class="videoEmbed" src="https://www.youtube.com/watch?v=djsWS1UTD-w"></div>
+</details>
+
 <details><summary>शठकोपः (En)</summary>
 
 Source: [TW](https://www.sadagopan.org/ebook/pdf/Garuda%20Dhandakam.pdf)
@@ -15,6 +20,7 @@ The grammar of the flight movement of this Dhandakam is defined by NagaNaas and 
 
 The first sloka (nama: pannaganaddhaya) is set in the vedic meter known as anushtub with 32 syllables. The last sloka (vichitra siddha:) is also set in the same meter. The sloka prior to the last one is set in aarya vrittham. The remaining sloka forms the body of the dhandakam with its four paadas and each of the paadas containing 36 ganaas.
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **नमः** पन्नग-नद्धाय  
@@ -22,10 +28,12 @@ The first sloka (nama: pannaganaddhaya) is set in the vedic meter known as anush
 श्रुति-सिन्धु-**सुधोत्पाद**-  
 -+++(मन्थन-प्रसिद्ध-)+++मन्दराय गरुत्मते ॥ १॥
 </details>
+
 <details><summary>शठकोपः (En)</summary>
 
 My salutations to Garuda with the beautiful wings. His limbs are adorned by the mighty serpents that he has conquered in battle. They are his jewellery. He does all the intimate kainkaryas to his Lord and is His Antharanga dhaasan. Garuda is devoted always to the Lord and His services. He is adept like the Mandara Mountain in churning the milky ocean of Vedas and to bring out the Brahma Vidyas. We can get the benefits of these Brahma Vidyas by offering our worship to him. My salutations are to him.
 </details>
+
 <details><summary>मूलम्</summary>
 
 **नमः** पन्नग-नद्धाय  
@@ -33,6 +41,7 @@ My salutations to Garuda with the beautiful wings. His limbs are adorned by the 
 श्रुति-सिन्धु-**सुधोत्पाद**-  
 -+++(मन्थन-प्रसिद्ध-)+++मन्दराय गरुत्मते ॥ १॥
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गरुडम् अखिल-**वेद-नीडाधिरूढम्**  
@@ -45,11 +54,13 @@ My salutations to Garuda with the beautiful wings. His limbs are adorned by the 
 **रोचिश्**-छटा+++(=गुम्फ)+++-राजि-**नीराजितं**  
 कान्ति-कल्लोलिनी+++(=तरङ्गिणी)+++-**राजितम्** ॥ २॥
 </details>
+
 <details><summary>शठकोपः (En)</summary>
 
 Garuda Bhagavan has designed the Vedas as his cage and uses that cage as his seat. (This suggests that the Vedas sing his praise). His Lord Sriman Narayana is bent upon destroying the enemies of His devotees. No one can stop Sriman Narayana in these endeavors. When He sets about to destroy the enemies of His devotees, he uses the shoulders of Garuda as his transport. When Garuda transports his Lord on His missions, his wives-Rudrai and Sukeerthi-- miss his absence from home. When the 
 sadagopan.org 10 Lord’s mission is successfully concluded, Garuda returns to his wives and they embrace him intimately with affection. In that ecstatic state, the hairs on the body of Garuda become stiff like thorns. This in turn hurts the serpents, which are covering his body. The serpents are overcome with fear and they raise their hoods. On those occasions, the ratnas positioned on their hoods radiate their brilliant red rays. That splendorous group of red rays appear at that time as the mangala Aarathi to Garuda and he sparkles in that flood of red light. 
 </details>
+
 <details><summary>मूलम्</summary>
 
 गरुडम् अखिल-**वेद-नीडाधिरूढम्**  
@@ -62,13 +73,14 @@ sadagopan.org 10 Lord’s mission is successfully concluded, Garuda returns to h
 **रोचिश्**-छटा+++(=गुम्फ)+++-राजि-**नीराजितं**  
 कान्ति-कल्लोलिनी+++(=तरङ्गिणी)+++-**राजितम्** ॥ २॥
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **जय** गरुड सु-पर्ण  
 **दर्वी-कराहार**+++(5)+++  
 देवाधिपाहार+++(→अमृत)+++-हारिन्  
 दिवौकस्-पति--क्षिप्त-दम्भोलि-धारा--  
-किणा-ऽऽकल्प+++(=अलङ्कार)+++  
+**किणा-ऽऽकल्प**+++(=अलङ्कार)+++  
 (कल्पान्त-वातूल+++(=चण्ड-मारुत)+++-कल्पोदय)+**अनल्प-वीरायित**  
 +**उद्यच्-चमत्कार**  
 दैत्यारि-जैत्र-ध्वजारोह-**निर्धारितोत्कर्ष**
@@ -80,10 +92,12 @@ sadagopan.org 10 Lord’s mission is successfully concluded, Garuda returns to h
 नमस् ते  
 पुनस् ते नमः ॥ ३॥
 </details>
+
 <details><summary>शठकोपः (En)</summary>
 
 O Garuda Bhagavan! You have been named Suparna, because of the beauty of your wings. Serpents of immense size serve as your food. You brought Nectar, the food of the Devas- from Indra Loka to release your mother from the bonds of servitude. Indra got angry at you during that time and threw his Vajra weapon at you. The sharp edge of that powerful weapon caused wounds on your wings and rest of the body. The welts from those wounds look today as pieces of jewellery on your body and attest to your heroic deed in defeating Indra. Your other heroic deeds stand out like the mighty winds that sweep the universe during the time of the great deluge. You are sitting on the flag of your Lord, which denotes His victory over His enemies; from your position on the flag of your Lord, we are able to infer your glories. You have incarnated as Sankarshana among the four Vyuha Murthys of Sriman Narayana, which are Vasudeva, Sankarshana, Pradhumna and Aniruddha. You have divided yourself into five forms-- Satyar, Suparnar, Garudar, Taarkshyar and VihagEswarar-- and matched those five forms with the five Vayus (Praanan, Apaanan, Samaanan, Udhaanan and Vyaanan) and shine thereafter as a supreme Devan. O Lord with the most exquisitely beautiful golden Wings! There is none, who is equal to you. I offer my salutations to you first and then again repeat my salutations. 
 </details>
+
 <details><summary>मूलम्</summary>
 
 **जय** गरुड सु-पर्ण  
@@ -103,6 +117,7 @@ O Garuda Bhagavan! You have been named Suparna, because of the beauty of your wi
 पुनस् ते नमः ॥ ३॥
 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **नम** इदम् **अजहत्-सपर्याय**  
@@ -117,10 +132,12 @@ O Garuda Bhagavan! You have been named Suparna, because of the beauty of your wi
 भवद्-**दास्यम् आपादयेथा**,,  
 **दयेथाश्** च मे ॥ ४॥
 </details>
+
 <details><summary>शठकोपः (En)</summary>
 
 O Garuda Bhagavan! Learned scholars offer their uninterrupted worships to you. Your wings in flight generate mighty winds that stir up all the oceans and make them flow over their boundaries. The waves that rise and fall from those powerful winds reach down to the netherworld (Paatalam) and the effect is like a violent blow given by the palm of one’s hand. A frightening sound heard as "Bhaam" reverberates around the world at that time. The mighty elephants guarding the quarters are shaken up by this mighty sound of "Bhaam" and run to attack you, the generator of that sound. Your rows of sharp nails acting as the elephant goad attack those angry elephants of the quarters and repulse them. Your mighty beak raises terror in the minds of your enemies. When you knot your brows, it looks like the movement of the hood of a Cobra. Your canine teeth look like the Vajra weapon of Indra and strikes terror in the hearts of your enemies. My salutations to you of such limitless glory! May thou bless me so that Brahma Vidyas become easy to be possessed by me! Please bless me out of your infinite compassion so that I can have the good fortune to offer kainkaryams to you.
 </details>
+
 <details><summary>मूलम्</summary>
 
 **नम** इदम् **अजहत्-सपर्याय**  
@@ -135,6 +152,7 @@ O Garuda Bhagavan! Learned scholars offer their uninterrupted worships to you. Y
 भवद्-**दास्यम् आपादयेथा**,,  
 **दयेथाश्** च मे ॥ ४॥
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(क्षिप ओं स्वाहेति)+++ **मनुर्**  
@@ -151,12 +169,14 @@ O Garuda Bhagavan! Learned scholars offer their uninterrupted worships to you. Y
 जगन्-मूल-कन्दे मुकुन्दे  
 महानन्द-दोग्ध्रीं **दधीथा**,  
 मुधा-**काम-हीनाम्**,  
-अहीनाम्+++(श्लेषः!)+++ अहीनान्तक ॥ ५॥
+अहीनाम्+++(श्लेषः!)+++ अहीनान्तक ॥ ५॥+++(5)+++
 </details>
+
 <details><summary>शठकोपः (En)</summary>
 
 O Garuda Bhagavan residing permanently in Sri Vaikuntam! Your mantram confers to the reciters the four fold (Dharma-Artha-Kama -Moksha) goals of Life. That mantram of yours made up of 5 syllables, has the Pranavam as its first syllable. At the end, it carries the syllable associated with the wife of Agni. May the mantram of that structure protect us! Once, Devendran became arrogant over his powers and insulted the Sages with the name of VaalakilyAs. (The sages got angry and cursed Indra. They cursed that Indra’s arrogance be destroyed by an incarnation of Sankarshana (Garuda) on a future date). You were born from the vow made by the VaalakilyAs that you destroy the mighty arrogance of Indra and you made their words come true. You serve as the lord of Death for mighty serpents that challenged you. Please bless me with the discriminating knowledge to distinguish between true (superior) and false (inferior) knowledge. Your Lord is the fundamental and principal cause of all the universes. Please bless me to have the cow representing the limitless devotion to your Lord, so that it can yield for me its delectable milk. May that devotion of mine be free from the distractions of the insignificant and evanescent pleasures of life! May thou confer on me the boon of possessing such a superior devotion to your Lord and True Knowledge about Him! 
 </details>
+
 <details><summary>मूलम्</summary>
 
 +++(क्षिप ओं स्वाहेति)+++ **मनुर्**  
@@ -175,6 +195,7 @@ O Garuda Bhagavan residing permanently in Sri Vaikuntam! Your mantram confers to
 मुधा-**काम-हीनाम्**,  
 अहीनाम्+++(श्लेषः!)+++ अहीनान्तक ॥ ५॥
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 षट्-त्रिंशद्-गण-चरणो  
@@ -182,10 +203,12 @@ O Garuda Bhagavan residing permanently in Sri Vaikuntam! Your mantram confers to
 विष्णु-रथ-दण्डकोऽयं  
 **विघटयतु** विपक्ष-वाहिनी-व्यूहम् ॥ ६॥
 </details>
+
 <details><summary>शठकोपः (En)</summary>
 
 This entire Garuda Dhandakam is of the form of one slokam. This has four Paadas. Each of the Paadas has 36 GaNaas. Each Gana has three syllables. This Dhandakam follows strictly the rules of composing Dhandakams and has the NagaNaas and RagaNaas in each of the Paadas and yields novel word constructions. When one recites this Garuda Dhandakam, it will destroy the formations of the enemies, who have assembled to do battle with us and scatter them to the winds. 
 </details>
+
 <details><summary>मूलम्</summary>
 
 षट्-त्रिंशद्-गण-चरणो  
@@ -193,6 +216,7 @@ This entire Garuda Dhandakam is of the form of one slokam. This has four Paadas.
 विष्णु-रथ-दण्डकोऽयं  
 **विघटयतु** विपक्ष-वाहिनी-व्यूहम् ॥ ६॥
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विचित्र-**सिद्धि-दः** सोऽयं  
@@ -200,10 +224,12 @@ This entire Garuda Dhandakam is of the form of one slokam. This has four Paadas.
 गरुड-ध्वज-तोषाय  
 **गीतो** गरुड-दण्डकः ॥ ७॥
 </details>
+
 <details><summary>शठकोपः (En)</summary>
 
 This Garuda Dhandakam was composed and sung by adiyEn, the Vidwan known as Venkatesa to please the Lord, who has Garuda on his flagstaff. The recitation of this Garuda Dhandakam will confer on the reciter multifold blessings and fulfill their heartfelt wishes of every kind. 
 </details>
+
 <details><summary>मूलम्</summary>
 
 विचित्र-**सिद्धि-दः** सोऽयं  

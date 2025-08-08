@@ -24,7 +24,6 @@ unicode_script = "devanagari"
 
 {{< figure src="/devaH/AryaH/hindukaH/indraH/images/indra-or-someone-on-an-arial-charriot-attacking-an-army-with-arrows.jpg"  class="thumbnail">}}
 
-
 ## साम १ हाउहाउ हउवा
 
 - [पारम्परिकगानमूलम् - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n2/mode/1up&sa=D&ust=1542425956390000)।]

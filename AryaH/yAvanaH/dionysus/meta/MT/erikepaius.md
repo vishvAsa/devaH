@@ -23,11 +23,10 @@ The importance of the heart in this tradition is paralleled  by an incantation i
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/072/07_nAbhA_pRthivyA.md">
 <details open><summary><h5>०७ नाभा पृथिव्या ...{Loading}...</h5></summary>
 
-
-नाभा॑ पृथि॒व्या, ध॒रुणो॑ म॒हो दि॒वो॒३॒॑,  
-ऽपाम् ऊ॒र्मौ +++(खगङ्गा-)+++सिन्धु॑ष्व् अ॒न्तर् उ॑क्षि॒तः ।  
-इन्द्र॑स्य॒ वज्रो॑, वृष॒भो वि॒भू-व॑सुः॒  
-+++(मृगशीर्षस्थश् चन्द्रो वा)+++ **सोमो॑** हृ॒दे **प॑वते॒** चारु॑ मत्स॒रः+++(=मादयिता)+++ ॥
+ना᳓भा पृथिव्या᳓, धरु᳓णो महो᳓ दिवो३᳓,  
+ऽपा᳓म् ऊर्मौ᳓ +++(खगङ्गा-)+++सि᳓न्धुष्व् अन्त᳓र् उक्षितः᳓ ।  
+इ᳓न्द्रस्य व᳓ज्रो, वृषभो᳓ विभू᳓-वसुः  
++++(मृगशीर्षस्थश् चन्द्रो वा)+++ **सो᳓मो** हृदे᳓ **पवते** चा᳓रु मत्सरः᳓+++(=मादयिता)+++ ॥
 
 </details>
 </div>
@@ -39,13 +38,15 @@ The importance of the heart in this tradition is paralleled  by an incantation i
 - ऋषिः - हरिमन्तः
 - छन्दः - जगती
 </details>
+
 <details><summary>Thomson & Solcum</summary>
 
-ना꣡भा पृथिव्या꣡ धरु꣡णो महो꣡ दिवो꣡  
-अपा꣡म् ऊर्मउ꣡ सि꣡न्धुषु अन्त꣡र् उक्षितः꣡  
-इ꣡न्द्रस्य व꣡ज्रो वृषभो꣡ विभू꣡वसुः  
-सो꣡मो हृदे꣡ पवते चा꣡रु मत्सरः꣡
+ना᳓भा पृथिव्या᳓ धरु᳓णो महो᳓ दिवो᳓  
+अपा᳓म् ऊर्मउ᳓ सि᳓न्धुषु अन्त᳓र् उक्षितः᳓  
+इ᳓न्द्रस्य व᳓ज्रो वृषभो᳓ विभू᳓वसुः  
+सो᳓मो हृदे᳓ पवते चा᳓रु मत्सरः᳓
 </details>
+
 <details><summary>Vedaweb annotation</summary>
 
 _________
@@ -118,11 +119,13 @@ sómaḥ ← sóma- (nominal stem)
 {case:NOM, gender:M, number:SG}
 
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 नाभा॑ । पृ॒थि॒व्याः । ध॒रुणः॑ । म॒हः । दि॒वः । अ॒पाम् । ऊ॒र्मौ । सिन्धु॑षु । अ॒न्तः । उ॒क्षि॒तः ।  
 इन्द्र॑स्य । वज्रः॑ । वृ॒ष॒भः । वि॒भुऽव॑सुः । सोमः॑ । हृ॒दे । प॒व॒ते॒ । चारु॑ । म॒त्स॒रः ॥
 </details>
+
 <details><summary>Hellwig Grammar</summary>
 
 -   *nābhā* ← *nābhi*
@@ -242,10 +245,12 @@ _________
 _________
 
 </details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **महः** महतः **दिवः** द्युलोकस्य **धरुणः** धारकोऽयं सोमः **पृथिव्याः** विस्तीर्णाया भूमेः **नाभा** नाभौ नाभिस्थानीये उच्छ्रिते पदे ' यदुत्तरवेदीनाभिः ' ( ऐ. ब्रा. १. २८) इत्याम्नानात् उत्तरवेदिस्थान ऋत्विग्भिर्निहितः **सिन्धुषु** स्यन्दमानासु नदीषु **अपाम्** उदकानाम् **ऊर्मौ** संघे **अन्तः** मध्ये **उक्षितः** सिक्तः । अन्तरिक्षस्थानमध्ये वर्तमान इत्यर्थः । तादृशः **इन्द्रस्य** **वज्रः** वज्रस्थानीयः **वृषभः** कामानां वर्षिता अत एव **विभूवसुः** व्याप्तधनः **सोमः** **चारु** कल्याणं यथा भवति तथा इन्द्रस्य **मत्सरः** मादयिता सन् **हृदे** मनसे सुखाय **पवते** आगच्छति ॥
 </details>
+
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 The nave of the earth, the support of the vast heaven,  
@@ -253,6 +258,7 @@ the wave of water, the one moistened in the rivers,
 the vajra of indra, the showerer with much wealth  
 the auspiciously exhilarating soma distills into [indra's] heart.
 </details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -260,31 +266,37 @@ _________
 
 “The supporter of the vast heaven, (plural ced) upon the navel of the earth, moistened among the rivers in the wave of the waters, the thunderbolt of **Indra**, the showerer (of benefits), the possessor of wealth, **Soma** auspiciously exhilarating distils into (Indra's) heart.”
 </details>
+
 <details><summary>Jamison Brereton</summary>
 
 On the navel of earth is the buttress of great heaven. In the wave of the  waters and within the rivers he is sprinkled.  
 The mace of Indra, the bull possessing conspicuous goods, the  
 invigorating soma purifies himself in a way dear to the heart.
 </details>
+
 <details><summary>Jamison Brereton Notes</summary>
 
 The first pāda gives a classic description of Soma as a pillar reaching from earth (specifically the ritual ground) to heaven, as the support of the latter.
 
 In d cā́ru must be adverbial.
 </details>
+
 <details><summary>Griffith</summary>
 
 Earth's central point, sustainer of the mighty heavens, distilled into the streams, into the waters' wave,  
      As Indra's thunderbolt, Steer with farspreading wealth, Soma is flowing on to make the heart rejoice.
 </details>
+
 <details><summary>Geldner</summary>
 
 Im Nabel der Erde ward der Träger des großen Himmels im Gewoge der Gewässer, in den Flüssen benetzt, des Indra Keule, der schatzreiche Bulle, der Soma läutert sich angenehm für das Herz, der Berauschende.
 </details>
+
 <details><summary>Grassmann</summary>
 
 Des grossen Himmels Stütze in der Erde Schooss, in Wasserwogen, in den Strömen hochgestellt, Des Indra Blitz, der Stier, der reiche Güter hat, berauschend strömt der Soma hell, dem Herzen lieb.
 </details>
+
 <details><summary>Elizarenkova</summary>
 
 На пупе земли опора великого неба,  
@@ -292,6 +304,7 @@ Des grossen Himmels Stütze in der Erde Schooss, in Wasserwogen, in den Strömen
 Ваджра Индры, бык, владеющий обильными благами,  
 Сома, опьяняющий, очищается приятно для сердца.
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - पवमानः सोमः
@@ -299,21 +312,23 @@ Des grossen Himmels Stütze in der Erde Schooss, in Wasserwogen, in den Strömen
 - निचृज्जगती
 - निषादः
 </details>
+
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (इन्द्रस्य वज्रः) रुद्ररूप परमात्मा (वृषभः) सब कामनाओं की वृष्टि करनेवाला तथा (विभूवसुः) परिपूर्ण एश्वर्यवाला और (चारु मत्सरः) जिसका सर्वोपरि आनन्द है, वह उक्त (सोमः) परमात्मा (हृदे) हमारे हृदय को (पवते) पवित्र करे। (पृथिव्या नाभा) जो परमात्मा पृथिवी की नाभि में स्थिर है और (महो दिवः) बड़े द्युलोक का (धरुणः) धारण करनेवाला है तथा (अपाम् ऊर्मौ) जल की लहरों में और (सिन्धुषु) समुद्रों में (अन्तः उक्षितः) अभिषिक्त किया गया है।उक्त गुणविशिष्ट परमात्मा हमको पवित्र करे॥७॥
 </details>
+
 <details><summary>आर्यमुनि - भावार्थः</summary>
 
 भावार्थभाषाः -  जो लोग उक्त गुण से विशिष्ट परमात्मा का उपासन करते हैं और उसमें अटल विश्वास रखते हैं, परमात्मा उनको अवश्यमेव पवित्र करता है और जो हतविश्वास होकर ईश्वर के नियम का उल्लङ्घन करते हैं, परमात्मा उनके मद को चूर्ण करने के लिये वज्र के समान उद्यत रहता है ॥७॥
 </details>
+
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (इन्द्रस्य वज्रः) रुद्ररूपः (वृषभः) कामानां वर्षकः (विभूवसुः) पूर्णैश्वर्ययुक्तः (चारु मत्सरः) सर्वोपरि प्रमोदरूपः पूर्वोक्तः (सोमः) जगदीशः (हृदे) मद्हृदयं (पवते) पवित्रयतु। (पृथिव्या नाभा) यः परमेश्वरः पृथिव्या नाभौ स्थिरः अथ च (महो दिवः) महतो द्युलोकस्य (धरुणः) धारकोऽस्ति। तथा (अपाम् ऊर्मौ) जलतरङ्गेषु (सिन्धुषु) समुद्रेषु च (अन्तः उक्षितः) अभिषिक्तोऽस्ति स परमात्मा मां पवित्रयतु ॥७॥
 </details>
 </details>
 </div>  
-
 
 One may also consider the triShTubh incantation of our ancient clansman, the kAvya describing indra as the heart of the gods:
 

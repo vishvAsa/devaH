@@ -13,7 +13,7 @@ Source: [here](https://manasataramgini.wordpress.com/2019/07/09/matters-of-relig
 
 Matters of religion: the Vāyavīyaṃ Kaubera-vratam
 
-########## Setting
+###### Setting
 The bus came to halt at the underground stop. Vrishchika of pretty tresses got off the bus and walked up the stairs to reach the over-bridge. She reached the middle of the bridge and stood there looking out expectantly at the road. It was a remarkably clear day and she could see the yonder horizon where the azure heights of father Dyaus met his lover mother Pṛthivī clad in the verdant vesture of the distant woods. Vrishchika passed into a reverie at that sight and remained oblivious to the throng of people who criss-crossed the bridge in either direction. Suddenly, an ugly man sidled up beside her and before she could react to his presence he said: “Ma’am do you visit the Hindu temple at Śukramārga?” Vrishchika: “On rare occasions.” The man responded: “We need wealthy patrons like you to visit the temple more often and make donations. Please do so devī”. So saying he handed a pamphlet to her. Vrishchika wondered: “A soothsayer at the temple of the Vāyu-born vānara had once told my family that I would be the wealthiest of all my sisters. But I’m hardly in that state now. Yet, why does he even think I’m wealthy?” She snapped out of that train of thought and waved the ugly man away saying “śubham astu! It is far way from my place but I’ll try.”
 
 She continued to look out at the road and not seeing what she wanted to see, she turned to the pamphlet. It was crowded with temple events. There was a Rudra-pūjā for the 13th pradoṣa and a Viṣṇu-pūjā for the ekādaśī. There was another event for Vināyaka, for which there was a call for people to join in a mass-recitation of the Gaṇeśopaniṣat. Yet another corner mentioned a Vaṭakini-mahotsava for the fierce ape. 
@@ -42,7 +42,7 @@ Just as her eyes wandered to the next item on the pamphlet the corner of her vis
 > 
 > The V3 was distraught and went to his teacher back in Mālava. She happened have studied some śāstra-siddhānta under Lootika. She then consulted your sister, who not wanting to give out my identity publicly told her that if Vitteśa were to be pleased with the said V3 he would find the right V1 who will solve his samasyā. The vaṇij went around for a while until he circuitously got introduced to me by Somakhya. I told the V3 that I could not be a sthāpakācārya at a temple but I could impart a key vrata to the vaiṣṇava sthāpaka at the temple who would then achieve success with the endeavor upon performing the vrata. This, my pretty girl, is the whole story. The vrata is none other than the one of the ekādaśī that I’ll expound to you once we are home.”
 
-########## Utpatti
+###### Utpatti
 Back home, taking in the good night air and the dark canopy of the nakṣatra-s, Indrasena expounded to his wife the rahasya-s of the Vāyavīyaṃ Kaubera-vratam: 
 
 > “Dear Gautamī, first you must know why it is called the Vāyavīyaṃ Kaubera-vratam and why the ekādaśī is considered the day of the yakṣa lord. In this regard the following has been narrated by the brāhmaṇa Mahātapās to king Prajāpāla in the Varāhapurāṇa:
@@ -92,20 +92,20 @@ Now, listen to that other sin-destroying tale of the origin of the lord of wealt
 
 (Continued in vAyu article.)
 
-########## tirodhAna
+###### tirodhAna
 > V: “Dear Ātreya, may be in the regard I should add that this benign form of Vāyu, which becomes Vaiśravaṇa might relate to the magical concealment power of the yakṣa-s, tirodhā that is alluded to multiple times in the śruti. On one hand it connects Kubera with the primordial goddess Virāj. The Puruṣa hymn, echoing the cyclic generation of the primordial god Dākṣa and goddess Aditi from each other, states that the goddess Virāj arose from the Puruṣa and that conversely the Puruṣa arose from Virāj.
 >
 > The Atharvāṅgirasa-śruti adds that Kubera was a calf of this goddess Virāj in the form of Tirodhā which conferred the concealment (tirodhā) capacity on his folk (i.e. the yakṣa-s). This is again mentioned and worshipped in his ritual in the Taittirīya-śruti. In the AV it is said that he who knows this thing about Kubera causes his pāpaman to vanish, whereas in the TA it makes his enemies disappear, like the prācya Uesugi Kenshin experienced with his devotions. This again reflects the beneficent nature of this deity whose origin is from the primordial being. Perhaps the tirodhā power, which the Taittirīyaka-s describe as coming from the waters represents, the benefic clouds brought by Vāyu as opposed to the destructive sand storm.
 >
 > Finally, before we go to the ritual, O Atri, I would like to to ask you if you can think of any parallels to the connection between Vāyu and Vaiśravaṇa which might exist in the Iranian world?”
 
-########## Iranic echoes
+###### Iranic echoes
 > I.s.: “Firstly, O Āṅgirasī, it is pleasing to see that you have thoroughly acquired the śrauta-siddhānta of Puṇyajaneśa. Regarding your question — I am aware of no direct cognate of Kubera in the early Iranic world. However, we may note the following: interestingly, even in the Avesta the benign Vāyu is described as being associated with gold, a characteristic of the Yakṣarāṭ. Subsequently, among the non-Zoroastrian and para-Zoroastrian Iranics of the Kuṣāṇa empire it appears that the personification of royal power, Avestan Khvarena (Kuṣāṇa: Pharro), came to identified with Vaiśravaṇa. This is not surprising given both their association with royal power. This led to syncretic depictions in the Kuṣaṇa age that appear to have eventually reached the eastern steppes whose new masters were the Turkic and Mongolic people. This greatly influenced the development of the Kubera-like deity Kut-Tengri among the Uighurs and other central Asian Turks.”
 
-########## vrata
+###### vrata
 > V: “Now, O Atricandra, expound to me details of the ritual — the observances, actions and the mantra-s.”  
 
-########### tarpaNa
+###### tarpaNa
 > I.s: “Sure. The vrata, as has been specified, should be done on an ekādaśī, either in the afternoon or in the evening. After having had a bath the ritualists should observe purity and abstain from sexual activity for the entire day. They should eat air-dried fruits and nuts. They should abstain from consuming milk products but they may drink fresh fruit juices. In old Bhārata the ideal spot for the ritual was said to be under an aśvattha or a vaṭa tree but these days such spots are difficult to come by.
 >
 > First the ritualists should offer tarpaṇa to the key teachers of the lineage: the founder was a sage of the Vaikhānasa clan. That knowledge then passed on to the queen Vāsavadattā. Her son the renowned Naravāhanadatta was next. His minister Gomukha was next. These were the teachers of the lore at Kauśāmbī. 
@@ -120,7 +120,7 @@ Now, listen to that other sin-destroying tale of the origin of the lord of wealt
 
 > I.s: “If the Yakṣa is good to us, may be some day we shall visit those cultic centers to revive our connection. To continue, the ritualist then salutes his teachers: ‘oṃ gurubhyo namaḥ ।‘. 
 
-########### The rite
+###### The rite
 The spot of the rite should be to the north of the trunk of the said tree for indeed the northern line is where Vāyu, Vitteśa and Bhava, all deities of the rite, are stationed. The ritualist begins by uttering the yajuṣ:  
 
 > iṣé tvorjé tvā vāyávaḥ sthopāyávaḥ stha devó vaḥ savitā́ prā́rpayatu śréṣṭhatamāya kármaṇe ।  
@@ -140,7 +140,7 @@ Bṛhaspati, Matariśvan, Vāyu, the Vāta-s blowing in unison, may all be graci
 Stabilizer of the sky, supporter of the earth, ruling this world, wife of Viṣṇu.  
 Encompassing all space, invigorating all, prosperous, may the goddess Aditi be auspicious to us in her lap.
 
-########### Excavation
+###### Excavation
 He then marks out a square area on the ground with the side equal to his full arm’s length and sweeps it clean. Within it he marks out another square region with a side equal to his span. He does this with the sphya
 (the wooden sword) while chanting the formula:  
 > ástabhnād dyā́m ṛṣabhó antárikṣam  
@@ -174,7 +174,7 @@ He then fills the sruc again with milk pours it into the excavation uttering the
 > vaiśravaṇāya svāhā॥  
 > You are indeed rich, the lord of riches. You are the the king of the kings. From the heavenly realm protect us. To Vaiśravaṇa hail.”
 
-########### Burial
+###### Burial
 Indrasena then brought out a bronze image of a chameleon and showed it to Vrishchika and explained further: 
 
 “The ritualist should have such a bronze image of a chameleon, which as you know is the special animal of the Yakṣapati. Alternatively, he may have a metal plate with the image of a chameleon etched on it. He deposits it in the excavation for the rite and may reuse it over and over, each time he performs the rite. He takes up the image reciting the following incantation:  
@@ -188,7 +188,7 @@ This chameleon of many colors is the form of Vaiśravaṇa. You are the camoufla
 
 He then deposits the chameleon in the excavation and with the last mantra of the above he pours out ghee from the sruva on to image. He then covers up the image by filling the excavation. 
 
-########### kalasha
+###### kalasha
 To the north of the square he sets up a platform with a silk cloth on it. On that he should place an ornate bronze jar with a lid. 
 
 He should thereafter invoke Vāyu and his wife Śivā in the jar and offers them water for arghya and pādya and incense with the following incantation of Mārkaṇḍeya:  
@@ -208,7 +208,7 @@ idam arghyaṃ ca pādyaṃ ca
 dhūpo’yaṃ pratigṛhyatām ॥  
 > I shall invoke Śivā of great luster, the lady of Vāyu. O highly distinguished goddess Śivā, who can assume any form, the boon-giver, come here. Please accept…
 
-########### Image
+###### Image
 He then places an image of Kubera inside the jar. The image should ideally be fashioned generally following the teaching in this regard of the Bhārgava Mārkaṇḍeya to Vajra, the great-grandson of Kṛṣṇa, the king of Indraprastha: 
 
 > The image of the wealth-giver Kubera should be painted dark green, i.e., the color of a lotus-leaf. He should be shown as being borne by a naras yakṣa. He should have all kinds of golden ornaments with necklaces resting on his belly. He should be shown wearing a beautiful cloak. He should have four hands and one of his eyes should be yellow. 
@@ -284,7 +284,7 @@ idam arghyaṃ ca pādyaṃ ca
 dhūpo’yaṃ pratigṛhyatām ॥  
 > I shall invoke the lotus, the foremost of excellent treasures. May you, O lotus, quickly come here producing great prosperity. Please accept…
 
-########### Adoration
+###### Adoration
 Then he offers flowers, honey and bhakṣaṇa-s to the image of Kubera with the famous incantation from the Taittirīya-āraṇyaka:  
 > rājādhirājāya prasahyasāhine । namo vayam vaiśravaṇāya kurmahe । sa me kāmān kāmakāmāya mahyam । kāmeśvaro vaiśravaṇo dadātu ।  
 kuberāya vaiśravaṇāya । mahārājāya namaḥ ॥
@@ -300,7 +300,7 @@ yakṣeśvarāya vidmahe
 gadā-hastāya dhīmahi ।  
 tan no yakṣaḥ pracodayāt ॥
 
-########### Bali
+###### Bali
 Then he offers bali to Dhaneśa and Nalakūbara meditating upon them traversing the heavens in the Puṣpaka space-station made by the god Tvaṣtṛ which is alluded to in the mantra. This is as per the Aruṇa-ketuka-vidhi with the incantations:  
 
 > अद्भयस् तिरोधाऽजायत ।  
@@ -333,10 +333,10 @@ After that he makes bali offerings to the rakṣa-s, yakṣa-s and yakṣī-s in
 ग्रामँ स-जानयो गच्छन्तीछन्तो परिदाकृतान् ॥  
 > Wearing mixed clothes the agents of Kubera, directed by the king of the rakṣa-s together with the \[yakṣī\] consorts go as they please to the villages granting protection.
 
-########### होमः
+###### होमः
 There after he sets up a sthaṇḍila in the square he has marked out. He strews darbha grass with the shoots facing north. He installs the fire therein from his aupāsana or āhavanīya altar or kindles it afresh. 
 
-############ पूर्वाङ्गम्
+###### पूर्वाङ्गम्
 He recites this ṛk:  
 
 > वैश्वानरं कवयो यज्ञियासो  
@@ -363,7 +363,7 @@ yájamānāya dráviṇaṃ dadhātu ॥
 He makes an oblation of ghee with:  
 > devebhyaḥ svāhā । idam devebhyo na mama ।
 
-############ मुख्यम्
+###### मुख्यम्
 He then prepares for the core oblations of the yajña by deploying the nigada recitation as in the vaidika rite calling upon the god Agni who is of the brāhmaṇa-s and the Bhārata-s to bring the gods of the rite for receiving the oblations:  
 
 > ॐ अग्ने महाँ असि ब्राह्मण भारत ।  
@@ -378,7 +378,7 @@ He then offers in the northern side of the sthaṇḍila with the sruva:
 
 > prajāpatye svāhā । idam prajāpatye na mama ॥
 
-############# वायवे
+###### वायवे
 He utters the call ‘astu śrau3ṣaṭ ।‘ and starts filling he sruc and as he does so he recites:  
 
 > तव वायव् ऋतस्पते  
@@ -397,7 +397,7 @@ Then he recites:
 
 At the vauṣaṭ call he makes the oblation and then utters the tyāga-mantra. He makes the oblation facing whichever direction the wind blows at the time he is reciting the this mantra. 
 
-############ कुबेराय
+###### कुबेराय
 He utters the call ‘astu śrau3ṣaṭ ।‘ and starts filling he sruc and as he does so he recites:  
 
 > रायस् पोषायायुषा त्वा निधीशो भ्रातृव्याणां महसां चाधिपत्यो३म् ।  
@@ -417,7 +417,7 @@ At the vauṣaṭ call he makes the oblation and then utters the tyāga-mantra.
 
 I should mention that this is the mysterious mantra is of the Bhṛgu-s by knowing which one becomes the complete Jambhala-vit. It was taught to me by Somakhya on a dark new moon night as we were wandering in a beautiful mountainous region. This completed my learning of the tradition and conferred on me the ability to perform this ritual. The thing which dwells in distance in full and then diminishes is an allusion to the moon. This disappearance of the moon is in turn indicative of tirodhā, the famed concealing power of the Yakṣa. 
 
-############ रुद्राय
+###### रुद्राय
 He then utters the call ‘astu śrau3ṣaṭ ।‘, starts filling he sruc and as he does so he recites:  
 
 > कद् रुद्राय प्रचेतसे  
@@ -442,7 +442,7 @@ It is indeed your aid that we choose. \[translation after Geldner\]
 
 At the vauṣaṭ call he makes the oblation, then utters the tyāga-mantra and then touches water.
 
-############ स्रुवाहुतयः
+###### स्रुवाहुतयः
 Then with the sruva he utters the following mantra-s and makes an offering of ghee at each svāhā followed by the tyāga-mantra ‘idaṃ na mama‘:  
 
 > इन्द्रः स्वाहा ।  
@@ -458,7 +458,7 @@ Then with the sruva he utters the following mantra-s and makes an offering of gh
 > वैश्रवणाय स्वाहा ।  
 > यक्ष-राजाय स्वाहा ॥
 
-############ स्विष्टकृत्
+###### स्विष्टकृत्
 He then initiates the expiatory sviṣṭakṛt-yāga by reciting the mantra of my ancestor Vasuśruta Ātreya:  
 
 > ॐ जुष्टो दमूना अतिथिर् दुरोण  
@@ -495,7 +495,7 @@ house, praised by poets, our auspicious guest.
 A thousand-horned bull having its virility,  
 O Agni, in might you excel all others.
 
-############ रौद्रशमनम्
+###### रौद्रशमनम्
 Then he offers a homa to the Vināyaka-s, Skanda, and other anuyāyin-s of Rudra which include the Yakṣapati himself so that the yajamāna-s rite might be successful and he and his family not be harmed. He utters the tyāga-mantra ‘idaṃ na mama‘ after each svāhā call:  
 
 > ओँ शालकटङ्कटाय विनायकाय स्वाहा ।  
@@ -544,7 +544,7 @@ He then touches water. Thereafter he takes up some grain and throws it in the so
 > 
 > Hail to Rudra Paśupati.
 
-############ समाप्तिः
+###### समाप्तिः
 Then he recites the following to conclude the yajña with the recitation of Agastya:  
 
 > अग्ने नय सुपथा राये अस्मान्  
@@ -567,9 +567,8 @@ He then goes to the jar with the image of Kubera and utters the formulae:
 
 He and his family drink some of the honey offered to the yakṣa and he distributes the bhakṣaṇa-s to the beholders of the ritual. He gives a toothbrush, sandals and umbrella along with a hefty ritual fee if he is a yajāmāna who has employed a purohita to do the rite for him.”
 
-########## Comments
+###### Comments
 > V: “I must remark that the final homa has a set of rather remarkable deities. Perhaps we are seeing the worship of Vārāhī for the first time in Sūkarakroḍī. I also wonder if Yūpakeśī is some early version of Cāmuṇḍā. Beyond that I’m most inspired by this account of the rite and feel that I have become a Jambhala-jñā”
-
 
 </details>
 </div>  

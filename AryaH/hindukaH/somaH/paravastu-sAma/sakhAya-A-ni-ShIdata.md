@@ -18,17 +18,15 @@ unicode_script = "devanagari"
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/104/01_sakhAya_A.md">
 <details open><summary><h6>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h6></summary>
 
-
-सखा॑य॒ आ नि षी॑दत पुना॒नाय॒ प्र गा॑यत ।  
-शिशुं॒ न य॒ज्ञैः परि॑ भूषत श्रि॒ये ॥
-
+स᳓खाय आ᳓ नि᳓ षीदत  
+पुनाना᳓य प्र᳓ गायत  
+शि᳓शुं न᳓ यज्ञइः᳓ प᳓रि भूषत श्रिये᳓
 </details>
 </div>
 </details>
 </div>  
 
 {{< figure src="/devaH/AryaH/hindukaH/somaH/images/soma-purification.png"  class="thumbnail">}}
-
 
 ## साम १ प्रेङ्खपूर्णम्
 - पारम्परिकगानमूलम् - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n2/mode/1up&sa=D&ust=1542425956390000)।]
@@ -51,7 +49,6 @@ unicode_script = "devanagari"
 +ज्ञैः+++([])+++ पारा+++(%)+++इ भू+++([प्रे])+++उ,,  
 षा+++([])+++ता +श्रा+++(३%--)+++अया+++(४-%-%)+++,अइ।  
 ओ+++([])+++इ,डा+++([])+++अ ॥
-
 
 ## साम २ अअअ-औहोवाअ
 <div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive
@@ -89,7 +86,6 @@ unicode_script = "devanagari"
 श्रा+++([]३")+++,अया+++(४-"-")+++अइ ।  
 ओ+++([])+++इ,डा+++([]")+++अ ॥
 
-
 ## साम ४ पुनानौहोइ-प्नानौहोयेए
 <div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/sakhAya-A-ni-ShIdata-4.mp3"></div>
@@ -109,7 +105,6 @@ unicode_script = "devanagari"
 न+++([])+++ यज्ञौ+++(%)+++हो+++(--%३)+++इ। न+++([])+++यज्ञौ+++(%)+++हो+++(--%३)+++, ये+++("३)+++ए ।  
 पा+++([]%)+++रिइ,, पा+++([])+++रा[अअ] औहो+++("%)+++वाअ।  
 ए+++([])+++ए, भू+++([])+++षत श्रियेए+++(३"%)+++॥
-
 
 ## साम ५
 <div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive

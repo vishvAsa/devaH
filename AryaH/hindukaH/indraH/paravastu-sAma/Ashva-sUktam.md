@@ -16,9 +16,8 @@ unicode_script = "devanagari"
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/014/01_yadindrAhaM_yathA.md">
 <details open><summary><h6>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h6></summary>
 
-
-यदि॑न्द्रा॒हं यथा॒ त्वमीशी॑य॒ +++(=ईश्वरस्स्याम्)+++ वस्व॒ +++(=धनस्य)+++ एक॒ इत् ।   
-स्तो॒ता मे॒ गोष॑खा स्यात् १  
+य᳓दिन्द्राहं᳓ य᳓था त्व᳓मी᳓शीय +++(=ईश्वरस्स्याम्)+++ व᳓स्व +++(=धनस्य)+++ ए᳓क इ᳓त् ।   
+स्तोता᳓ मे गो᳓षखा स्यात् १  
 
 </details>
 </div>

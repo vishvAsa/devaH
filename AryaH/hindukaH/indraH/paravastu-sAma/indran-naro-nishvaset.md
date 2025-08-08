@@ -15,25 +15,22 @@ unicode_script = "devanagari"
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/027/01_indraM_naro.md">
 <details open><summary><h6>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h6></summary>
 
-
-इन्द्रं॒ नरो॑ ने॒म+++(=खण्ड)+++-धि॑ता +++(→सङ्ग्रामे)+++ हवन्ते +++(=ह्वयन्ति)+++  
-यत् पार्या॑ +++(←पार, साम्नि भेदः)+++ यु॒नज॑ते +++(=प्रयुज्यन्ते)+++ धिय॑स् ताः ।  
-शूरो॒ नृ-षा॑ता +++(=सम्भक्ता)+++ शव॑सश् चका॒न +++(कामयमानः)+++  
+इ᳓न्द्रं न᳓रो नेम᳓+++(=खण्ड)+++-धिता᳓ +++(→सङ्ग्रामे)+++ ह᳓व᳓न्ते᳓ +++(=ह्वयन्ति)+++  
+य᳓त् पा᳓र्या +++(←पार, साम्नि भेदः)+++ युन᳓जते᳓ +++(=प्रयुज्यन्ते)+++ धि᳓यस् ताः ।  
+शू᳓रो नृ᳓-षाता᳓ +++(=सम्भक्ता)+++ श᳓वसश् चकान᳓ +++(कामयमानः)+++  
 +++(सामवेदे भेदः)+++  
-आ गोम॑ति व्र॒जे भ॑जा॒ त्वं नः॑ ।।
+आ᳓ गो᳓मति व्रजे᳓ भजा त्वं᳓ नः ।।
 
 </details>
 </div>
 </details>
 </div>  
 
-
 ## साम
 
 - पारम्परिक-गान-मूलम् [२०१५](https://sanskritdocuments.org/sites/pssramanujaswamy/VIVAAHA%20UPANAYANA%20SAAMAANI.pdf&sa=D&ust=1542425956265000)। [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n8/mode/1up&sa=D&ust=1542425956265000)।
 
 - कौथुम-गानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume2SatyavrataSamasrami1876bis_201804/page/n453&sa=D&ust=1542425956265000)।
-
 
 <div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/nishvaset.mp3"></div>

@@ -30,7 +30,6 @@ practice_weight = 0
   - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n51/mode/2up)
   - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
 
-
 <div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/nahi-vash-charamam-1.mp3"></div>
 <div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
@@ -48,7 +47,6 @@ practice_weight = 0
 जा+++([])+++नित्राअं॥७॥
 
 ## साम २
-
 
 <div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/nahi-vash-charamam-2.mp3"></div>

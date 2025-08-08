@@ -10,7 +10,6 @@ unicode_script = "devanagari"
 
 +++([कौथुमभाष्ये सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n782&sa=D&ust=1542425956285000)। भरद्वाजः। इन्द्रः।])+++
 
-
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/4/2/11_0352_pratyasmai_pipIShate.md">
 <details open><summary><h4>11_0352 प्रत्यस्मै पिपीषते ...{Loading}...</h4></summary>
 
@@ -19,18 +18,15 @@ unicode_script = "devanagari"
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/042/01_pratyasmai_pipIShate.md">
 <details open><summary><h6>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h6></summary>
 
-
-+++(अध्वर्यो!)+++ प्रत्य॑स्मै॒ पिपी॑षते॒ विश्वा॑नि वि॒दुषे॑ भर ।  
-अ॒रं॒+++(लं॒)+++ग॒माय॒ जग्म॒ये+++(=गमनशीलाय)+++  ऽप॑श्चाद्दघ्वने॒+++(=पुरोगाय)+++ नरे॑ ॥  
++++(अध्वर्यो!)+++ प्र᳓त्यस्मै पि᳓पीषते वि᳓श्वानि विदु᳓षे भर ।  
+अरं+++(लं)+++गमा᳓य ज᳓ग्मये᳓+++(=गमनशीलाय)+++  ऽपश्चाद्दघ्वने+++(=पुरोगाय)+++ न᳓रे ॥  
 
 </details>
 </div>
 </details>
 </div>  
 
-
 {{< figure src="/devaH/AryaH/hindukaH/indraH/images/indra-squeezing-soma-into-mouth.jpg"  class="thumbnail">}}
-
 
 ## साम
 

@@ -1,6 +1,7 @@
 +++
 title = "तत्पुरुषाय विद्महे"
 unicode_script = "devanagari"
+
 +++
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_05/07_tatpuruShAya_vidmahe.md">
@@ -9,7 +10,7 @@ unicode_script = "devanagari"
 
 तत्पुरु॑षाय  वि॒द्महे॑  
 महादे॒वाय॑ धीमहि ।  
-तन्नो॑ रुद्रः प्रचो॒दया᳚त् ॥
+तन्नो॑ रुद्रः प्रचो॒दया॑त् ॥
 </details>
 </details>
 </div>

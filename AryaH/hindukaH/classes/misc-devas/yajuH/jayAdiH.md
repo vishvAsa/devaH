@@ -7,7 +7,6 @@ unicode_script: devanagari
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/3/4/04_jayahomamantrAH_tatprashaMsA_cha">
 <details open><summary><h2>०४ जयहोममन्त्राः, तत्प्रशंसा च ...{Loading}...</h2></summary>
 
-
 १३ त्रिष्टुप्
 
 विश्वेदेवा ऋषयः
@@ -16,6 +15,8 @@ unicode_script: devanagari
 
 1अथ जयाः स्पर्धमानस्य 'स्पर्धमानेनैते होतव्याः' इति, सामान्येन विहिताश्च 'येन कर्मणेर्त्सेत्' इति । 
 </details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/4/04_jayahomamantrAH_tatprashaMsA_cha/chittaM_cha_chittish_cha.md">
+<details open><summary><h7>चि॒त्तं च॒ ...{Loading}...</h7></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चि॒त्तं च॒ [स्वाहा॑]। चित्ति॒श् च॒ [स्वाहा॑]।  
@@ -23,12 +24,14 @@ unicode_script: devanagari
 विज्ञा॑तं च॒ [स्वाहा॑]।  वि॒ज्ञानं॑ च॒ [स्वाहा॑]।  
 मन॑श् च॒ [स्वाहा॑]। शक्व॑रीश् च॒ [स्वाहा॑]।  
 दर्श॑श् च॒ [स्वाहा॑]। पू॒र्णमा॑सश् च॒ [स्वाहा॑]।  
-बृ॒हच् च॑ [स्वाहा॑]।  र॒थ॒न्त॒रं च॑ [स्वाहा॑]।
+बृ॒हच् च॒ [स्वाहा॑]।  र॒थ॒न्त॒रं च॒ [स्वाहा॑]।
 </details>
+
 <details><summary>मूलम्</summary>
 
 चि॒त्तञ्च॒ चित्ति॒श्चाकू॑त॒ञ्चाकू॑तिश्च॒ विज्ञा॑तञ्च वि॒ज्ञान॑ञ्च॒ मन॑श्च॒ शक्व॑रीश्च॒ दर्श॑श्च पू॒र्णमा॑सश्च बृ॒हच्च॑ रथन्त॒रञ्च॑
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 चित्तं चेत्यादयस्स्रुवाहुतयः । चशब्दस्समुच्चयार्थः; वाक्यस्यापरिसमाप्तत्वात् । माऽस्त्विति शेषः । येन चेतयते तच्चित्तम् ।
@@ -51,11 +54,14 @@ unicode_script: devanagari
 
 एवं बृहद्रथन्तरयोस्साम्नोर्वेदितव्यम् ॥
 </details>
+</details>
+</div>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प्र॒जाप॑ति॒र्जया॒निन्द्रा॑य॒ वृष्णे॒ प्राय॑च्छदु॒ग्रᳶ पृ॑त॒नाज्ये॑षु॒ तस्मै॒ विश॒स्सम॑नमन्त॒ सर्वा॒स्स उ॒ग्रस्स हि हव्यो॑ ब॒भूव॑  
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/4/04_jayahomamantrAH_tatprashaMsA_cha/02_prajApatir_jayAn.md">
+<details open><summary><h6>विश्वास-प्रस्तुतिः ...{Loading}...</h6></summary>
 
 प्र॒जाप॑ति॒र् जया॒न् इन्द्रा॑य॒ वृष्णे॒  
 प्राय॑च्छद् उ॒ग्रᳶ पृ॑त॒नाज्ये॑षु॒।  
@@ -63,10 +69,14 @@ unicode_script: devanagari
 स उ॒ग्रस् स हि हव्यो॑ ब॒भूव॑॥  
 [स्वाहा॑॥]
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/4/04_jayahomamantrAH_tatprashaMsA_cha/02_prajApatir_jayAn.md">
+<details open><summary><h6>सर्वाष् टीकाः ...{Loading}...</h6></summary>
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑ति॒र्जया॒निन्द्रा॑य॒ वृष्णे॒ प्राय॑च्छदु॒ग्रᳶ पृ॑त॒नाज्ये॑षु॒ तस्मै॒ विश॒स्सम॑नमन्त॒ सर्वा॒स्स उ॒ग्रस्स हि हव्यो॑ ब॒भूव॑
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 2अथ प्रजापतिर्जयानिति अत्र त्रयोदशी त्रिष्टुप् ॥ 'वृष्णे' इति प्रथमपादान्तः 'सर्वाः' इति तृतीयापादान्तः । प्रजापतिर्जयानेतानिन्द्राय वृष्णे वर्षित्रे प्रायच्छत् दत्तवान् ।
@@ -77,12 +87,15 @@ unicode_script: devanagari
 
 यद्वा - यो जयान् जुहोति स खलूग्रो भवति स एब हव्यो यागार्हश्च इज्यश्च बभूव भवति । छान्दसो लिट् ॥
 </details>
+</details>
+</div>
 
-#### ब्राह्मणम्
+### ब्राह्मणम्
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-देवासु॒रास्सय्ँय॑त्ता आस॒न्थ्स इन्द्रᳶ॑ प्र॒जाप॑ति॒मुपा॑धाव॒त्तस्मा॑ ए॒ताञ्जया॒न्प्राय॑च्छ॒त्तान॑जुहो॒त्ततो॒ वै दे॒वा असु॑रानजय॒न्यदज॑य॒न्तज्जया॑नाञ्जय॒त्वँ स्पर्ध॑मानेनै॒ते हो॑त॒व्या॑ जय॑त्ये॒व ताम्पृत॑नाम् ॥ [15]   
+देवासु॒रास्सय्ँय॑त्ता आस॒न्त्स इन्द्रᳶ॑ प्र॒जाप॑ति॒मुपा॑धाव॒त्तस्मा॑ ए॒ताञ्जया॒न्प्राय॑च्छ॒त्तान॑जुहो॒त्ततो॒ वै दे॒वा असु॑रानजय॒न्यदज॑य॒न्तज्जया॑नाञ्जय॒त्वँ स्पर्ध॑मानेनै॒ते हो॑त॒व्या॑ जय॑त्ये॒व ताम्पृत॑नाम् ॥ [15]
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दे॒वा॒सु॒रास्सय्ँय॑त्ता आसन् ।
@@ -95,6 +108,7 @@ unicode_script: devanagari
 
 ततो॒ वै दे॒वा असु॑रानजयन्  ।  
 </details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वा॒सु॒रास्सय्ँय॑त्ता आसन् ।
@@ -107,10 +121,12 @@ unicode_script: devanagari
 
 ततो॒ वै दे॒वा असु॑रानजयन्  ।  
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 3अथ जयानां ब्राह्मणं - देवासुरा इत्यादि ॥
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद् अज॑य॒न्  
@@ -118,11 +134,13 @@ unicode_script: devanagari
 स्पर्ध॑मानेनै॒ते हो॑त॒व्या॑ -  
 जय॑त्य् ए॒व ताम् पृत॑नाम् ॥ [15]  
 </details>
+
 <details><summary>मूलम्</summary>
 
 यदज॑य॒न् तज्जया॑नाञ्जय॒त्वम् ।   
 स्पर्ध॑मानेनै॒ते हो॑त॒व्या॑ जय॑त्ये॒व ताम्पृत॑नाम् ॥ [15]  
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तज्जयानां जयत्वमिति । जयति परसेनामेतैरिति जयाः ॥

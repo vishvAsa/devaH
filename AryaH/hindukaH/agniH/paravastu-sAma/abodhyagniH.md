@@ -20,10 +20,10 @@ unicode_script = "devanagari"
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/001/01_abodhyagniH_samidhA.md">
 <details open><summary><h6>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h6></summary>
 
-
-अबो॑ध्य॒ग्निः स॒मिधा॒ जना॑नां॒ प्रति॑ धे॒नुमि॑वाय॒तीमु॒षास॑म् ।  
-य॒ह्वा इ॑व॒ प्र व॒यामु॒ज्जिहा॑नाः॒ प्र भा॒नवः॑ सिस्रते॒ नाक॒मच्छ॑ ॥
-
+अ᳓बोधि अग्निः᳓ समि᳓धा ज᳓नानाम्  
+प्र᳓ति धेनु᳓म् इवायती᳓म् उषा᳓सम्  
+यह्वा᳓ इव प्र᳓ वया᳓म् उज्जि᳓हानाः  
+प्र᳓ भान᳓वः सिस्रते ना᳓कम् अ᳓छ
 </details>
 </div>
 </details>
@@ -36,12 +36,11 @@ unicode_script = "devanagari"
 
 {{< figure src="/devaH/AryaH/hindukaH/agniH/images/Strengthening-brightening-agni.png"  class="thumbnail">}}
 
-
 ## साम
 - पारम्परिकगानमूलम् - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n7/mode/2up)।]
 
-<div caption="रामानुजार्यः 1974 (अत्र " class="audioEmbed" src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/abodhyagniH.mp3" इति="" इव"="" च्युतौ।)"="" यह्वा="" शब्दौ=""></div>
+<div caption="रामानुजार्यः 1974 (अत्र यह्वेवेति शब्दौ च्युतौ)" class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/abodhyagniH.mp3"></div>
 <div caption="गोपालार्यः 2015  (फॢ इति स्वरे ऽत्र वैशिष्ट्यम्। यह्वा… इति पङ्क्तिर् नास्ति।)" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/abodhyagniH.mp3"></div>
 <div caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1x" class="audioEmbed" src="https://archive

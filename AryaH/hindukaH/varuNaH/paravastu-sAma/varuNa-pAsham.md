@@ -23,7 +23,6 @@ unicode_script = "devanagari"
 
 {{< figure src="/devaH/AryaH/hindukaH/AdityaH/images/varuna.png"  class="thumbnail">}}
 
-
 ## साम
 
 - पारम्परिकगानमूलम् - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n10/mode/1up)।

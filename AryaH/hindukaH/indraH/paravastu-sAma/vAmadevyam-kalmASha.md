@@ -18,16 +18,14 @@ practice_weight = 0
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/01_kayA_nashchitra.md">
 <details open><summary><h6>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h6></summary>
 
-
-कया॑ नश् चि॒त्र +++(=चयनीयः)+++ **आ भु॑वद्**  
-**ऊ॒ती** +++(=रक्षणम्/ तर्पणम् [तेन])+++, स॒दा-वृ॑धः॒ +++(=वर्धमानः)+++ सखा॑ ।  
-कया॒ शचि॑ष्ठया +++(=प्रज्ञावता)+++ वृ॒ता +++(=वर्तनेन)+++ १
+क᳓या नश् चित्र᳓ +++(→इन्द्रः)+++ **आ᳓ भुवद्**  
+**ऊती᳓** +++(=रक्षणम्/ तर्पणम् [तेन])+++, सदा᳓-वृधः +++(=वर्धमानः)+++ स᳓खा ।  
+क᳓या श᳓चिष्ठया +++(=प्रज्ञावता)+++ वृता᳓ +++(=वर्तनेन)+++ १
 
 </details>
 </div>
 </details>
 </div>  
-
 
 संयमन् नव्यायम्। अन्वियमन् न समायमन्।  
 ये के चोदरसर्पीणस् तेभ्यो नमः॥
@@ -37,7 +35,6 @@ practice_weight = 0
 
 <div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/vAmadevyam-kalmASha.mp3"></div>
 <div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/vAmadevyam-kalmASha.mp3"></div>
-
 
 कल्माष वामदेव्यम् ।  
 +++(शुक्लगुणः शुक्लः । कृष्णगुणः कृष्णः । य इदानीमुभयगुणः स तृतीयामाख्यां लभते कल्माष इति)+++  

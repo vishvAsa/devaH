@@ -14,7 +14,6 @@ practice_weight = 0
 छन्दः  द्विपदा त्रिष्टुप्  
 सायणो [अत्र](http://rigveda.sanatana.in/describe/rikMandala/010.157.001)।
 
-
 ### संहिता
 इ॒मा नु कं॒ भुव॑ना सीषधा॒मेन्द्र॑श्च॒ विश्वे॑ च दे॒वाः +++(प्रीयन्ताम्)+++॥
 
@@ -23,9 +22,7 @@ practice_weight = 0
 
 {{< figure src="/devaH/AryaH/hindukaH/indraH/images/Great-indra-on-airAvata-with-vajra-surrounded-by-other-smaller-deva-s-agni-on-ram-yama-on-buffalo-brahma-on-swan-sUrya-and-chandra.jpg"  class="thumbnail">}}
 
-
 ## साम १
-
 
 - पारम्परिक-गान-मूलम् 
   - [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n55/mode/1up)
