@@ -33,7 +33,7 @@ Agni is invited in a variant of subrahmanya vachana in agniShTut. He's called us
 Also refer jaiminiya brahmana 2.78,79,80. JB notes  in passing that subrahmanya call in agniShTut is all AgneyI, in indrastoma is all aindri and vaishvadevI for all Gods but disagrees.
 
 ## Indra fertility
-Source: [TW](https://discord.com/channels/1073779927482109952/1074054685285167274/1095537399230115911)
+Source: dhvasra nikhil
 
 Even being the lover of a married woman is not problematic because we are talking about literal Gods here, forces of nature.  Thus we have Vedic references to Índra giving children to the wife of an impotent man (R̥V 1.116.13, 1.117.24, 10.39.7)—though one could choose to interpret this as literally "giving" (√dā) a son without an implication of being a lover, if one wishes.
 
