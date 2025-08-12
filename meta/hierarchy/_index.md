@@ -5,6 +5,7 @@ title: +Hierarchy and Competition
 ## Intro
 - Various hindu views exist about hierarchies of power among deities. Some place viShNu at the top, others shiva, others indra, others vAyu and so on.
 - My personal views are strongly platonic / polycentric.
+- Cult competition - see [elsewhere](/kalpAntaram/dharmaH/vishvAsaH/meta-dharma/social-cultivation/hindu-id/cult-competition).
 
 ## "First among equals" vs "puppet-master".
 In the distant Indo Aryan vedic past, there were several polytheistic systems (oft centered around a "the first among equals" among the deva-s), with prominent examples:
