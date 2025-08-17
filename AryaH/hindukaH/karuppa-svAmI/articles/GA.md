@@ -11,3 +11,9 @@ Comparable would be Karuppusvāmī (with a paurāņika attestation in the form o
 
 Karuppu has found a following in Gujarat under the name, “Ekalvīr Dādā”. Some GJ Hindus even leave comments of gratitude & love for tamizh YouTube videos of Karuppu devotional songs!
 
+## sadAchAra
+One of the reasons why Karuppusvāmīs at several places are manifesting a more “transcendental inner layer” and adopting what is generally termed as sadācāra is likely that many of his devotees are approaching Karuppu through Ayyappa’s (not Śāstā or Ayyanār in general but the Naișțhika Ayyappa of Sabarimalai) prism. 
+
+Something that many do not realize is that Ayyappa is bringing many groups of people (known for their rough way of life & communal background) closer than ever to sat-sampradāyas & sadācāra. Just like he tames the lesser Bhūtas and brings them within his firm control, He is doing that with humans here as well. 
+
+And to those who have received his grace, deities like Karuppu are manifesting their inner layers as well.
