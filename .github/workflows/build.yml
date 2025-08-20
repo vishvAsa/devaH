@@ -14,6 +14,9 @@ jobs:
   transform:
     # Workaround for https://github.com/actions/runner-images/issues/6680
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  
+      actions: write
     steps:
     - name: Inject slug/short variables
       uses: rlespinasse/github-slug-action@v4.4.1
@@ -56,6 +59,7 @@ jobs:
       run: |
         hugo
     - name: Deploy
+      id: deploy
       if: ${{ github.event_name != 'pull_request' && steps.hugo_build.conclusion == 'success'}}
       uses: peaceiris/actions-gh-pages@v3
       with:
