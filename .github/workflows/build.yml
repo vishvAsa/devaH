@@ -13,6 +13,9 @@ on:
 jobs:
   transform:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  
+      actions: write
     steps:
     - name: Inject slug/short variables
       uses: rlespinasse/github-slug-action@v4.4.1
@@ -69,6 +72,7 @@ jobs:
       run: |
         hugo
     - name: Deploy
+      id: deploy
       if: ${{ github.event_name != 'pull_request'}}
       uses: peaceiris/actions-gh-pages@v3
       with:
