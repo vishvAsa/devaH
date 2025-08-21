@@ -3,7 +3,7 @@ title: अग्निर् मे
 unicode_script: devanagari
 
 ---
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/AndhrapATha-yogaH/08_agnir_me_vAchi">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/sAyaNa-pATha-yogaH/08_agnir_me_vAchi">
 <details open><summary><h2>०८ अग्निर् मे वाचि ...{Loading}...</h2></summary>
 
 अ॒ग्निर् मे॑ वा॒चि श्रि॒तः । वाग्घृद॑ये । हृद॑यं॒ मयि॑ । अ॒हम् अ॒मृते॑ । अ॒मृतं॒ ब्रह्म॑णि ॥  
