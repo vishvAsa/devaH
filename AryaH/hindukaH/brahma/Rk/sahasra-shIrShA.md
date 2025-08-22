@@ -4836,6 +4836,8 @@ Durch Opfer opferten die Götter das Opfer; das waren die ersten Bräuche; sie, 
 
 [[71]]
 
+
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/">
 <details open><summary><h10>१३ अद्भ्यस् सम्भूतः ...{Loading}...</h10></summary>
 
