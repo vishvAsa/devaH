@@ -22,7 +22,8 @@ unicode_script = "devanagari"
 विश्वतो दावन् विश्वतो न आ भर यं त्वा शविष्ठमीमहे।
 {भर! महः! ईडा+++(=स्तुतिः)+++। सुवः। ज्योतिः।}
 
-{{< figure src="/devaH/AryaH/hindukaH/indraH/images/indra-or-someone-on-an-arial-charriot-attacking-an-army-with-arrows.jpg"  class="thumbnail">}}
+![](/devaH/AryaH/hindukaH/indraH/images/indra-or-someone-on-an-arial-charriot-attacking-an-army-with-arrows.jpg)
+{class="thumbnail"}
 
 ## साम १ हाउहाउ हउवा
 

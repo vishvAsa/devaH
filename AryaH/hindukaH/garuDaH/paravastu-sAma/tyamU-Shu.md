@@ -34,7 +34,8 @@ unicode_script = "devanagari"
 </details>
 </div>
 
-{{< figure src="/devaH/AryaH/hindukaH/classes/misc-devas/images/tArkShya.jpg"  class="thumbnail">}}
+![](/devaH/AryaH/hindukaH/classes/misc-devas/images/tArkShya.jpg)
+{class="thumbnail"}
 
 ### टिप्पनी
 हेषारव इव श्येनशब्दः! तार्क्ष्यो गरुण इत्य् अर्वाचीनाः।

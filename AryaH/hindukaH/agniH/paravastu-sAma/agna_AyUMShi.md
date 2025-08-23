@@ -29,7 +29,8 @@ unicode_script = "devanagari"
 </details>
 </div>  
 
-{{< figure src="/devaH/AryaH/hindukaH/agniH/images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png"  class="thumbnail">}}
+![](/devaH/AryaH/hindukaH/agniH/images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png)
+{class="thumbnail"}
 
 ## साम
 

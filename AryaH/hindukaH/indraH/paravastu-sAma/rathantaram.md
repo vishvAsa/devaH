@@ -45,7 +45,8 @@ unicode_script = "devanagari"
 </details>
 </div>  
 
-{{< figure src="/devaH/AryaH/hindukaH/indraH/images/Indra-kills-vRtra-snake-with-vajra.jpg"  class="thumbnail">}}
+![](/devaH/AryaH/hindukaH/indraH/images/Indra-kills-vRtra-snake-with-vajra.jpg)
+{class="thumbnail"}
 
 ## साम - द्व्यर्चम्
 

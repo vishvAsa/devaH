@@ -4,24 +4,28 @@ title = "Lakshmi Ardoksho Fortuna Matronae"
 
 For comparison see earlier image of parallel iconography:
 
-{{< figure src="../../../images/kAshmIra-laxmIH_chipped-elephant-at-top_lions_cornucopia.jpg" title="" class="thumbnail">}}
+![](../../../images/kAshmIra-laxmIH_chipped-elephant-at-top_lions_cornucopia.jpg)
+{caption="" class="thumbnail"}
 
 
 Now note the following: 
 
 She has a cornucopia, a distinctive feature in northern representations of shrI where she is equated in iconography with her cognates, the Roman Fortuna & Iranian Ardoksho who are both shown with the same. Note this syncretic Gandharan lakShmI-Ardoksho
 
-{{< figure src="../../../images/gAndhAra-laxmI-ardoksho.jpg" title="" class="thumbnail">}}
+![](../../../images/gAndhAra-laxmI-ardoksho.jpg)
+{caption="" class="thumbnail"}
 
 
 Note the same and iconographic parallels in this Roman Pompeiian Fortuna
 
-{{< figure src="../../../images/pompeii-fortuna.jpg" title="" class="thumbnail">}}
+![](../../../images/pompeii-fortuna.jpg)
+{caption="" class="thumbnail"}
 
 
 Note the same iconography of the central Celtic homolog goddess from the Lyons triad of Matronae.
 
-{{< figure src="../../../images/lyons-celtic-matronae.png" title="" class="thumbnail">}}
+![](../../../images/lyons-celtic-matronae.png)
+{caption="" class="thumbnail"}
 
 
 This by itself will clinch her identity as lakShmI. However, there is more: 
@@ -38,4 +42,5 @@ One more final point, the flower in the other hand from the cornucopia is also d
 
 Also note the parallelism to between the water-deities shown with the Pompeiian Fortuna and a comparable deity found associated with shrI in shu~Nga age image:
 
-{{< figure src="../../../images/shunga-shrIH.jpg" title="" class="thumbnail">}}
+![](../../../images/shunga-shrIH.jpg)
+{caption="" class="thumbnail"}

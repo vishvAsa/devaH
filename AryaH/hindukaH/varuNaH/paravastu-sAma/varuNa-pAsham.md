@@ -21,7 +21,8 @@ unicode_script = "devanagari"
 अव +अधमं वि मध्यमं श्रथाय।  
 अथादित्य व्रते वयं तवानागसो अदितये स्याम। 
 
-{{< figure src="/devaH/AryaH/hindukaH/AdityaH/images/varuna.png"  class="thumbnail">}}
+![](/devaH/AryaH/hindukaH/AdityaH/images/varuna.png)
+{class="thumbnail"}
 
 ## साम
 

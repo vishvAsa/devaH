@@ -122,7 +122,8 @@ Wild, but not savage.
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/kAvyam/laxyam/padyam/vishvAsaH/saMyamaH/bhArgava-mantraH">
 <details open><summary><h7>भार्गवाग्निः ...{Loading}...</h7></summary>
 
-{{< figure src="/kAvyam/laxyam/padyam/vishvAsaH/saMyamaH/images/davAnalaH.jpg" title="" class="thumbnail">}}
+![](/kAvyam/laxyam/padyam/vishvAsaH/saMyamaH/images/davAnalaH.jpg)
+{caption="" class="thumbnail"}
 
 भार्गवाग्नेस् स्फुलिङ्गोऽयं  
 पर्वतादौ दरे स्मये।  

@@ -30,7 +30,8 @@ RV.8.69.8a; AV;S.20.92.5a; SV.1.362a; AB.4.4.4; A;S.6.2.9.
 </details>
 </div>  
 
-{{< figure src="/devaH/AryaH/hindukaH/indraH/images/indra-emerging-in-a-yAga-and-shows-abhaya-hasta-to-people.jpg"  class="thumbnail">}}
+![](/devaH/AryaH/hindukaH/indraH/images/indra-emerging-in-a-yAga-and-shows-abhaya-hasta-to-people.jpg)
+{class="thumbnail"}
 
 ## साम
 

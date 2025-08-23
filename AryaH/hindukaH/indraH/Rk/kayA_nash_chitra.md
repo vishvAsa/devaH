@@ -47,4 +47,5 @@ unicode_script: devanagari
 क꣡स्त्वा꣢ स꣣त्यो꣡ मदा꣢꣯नां꣣ म꣡ँहि꣢ष्ठो मत्स꣣द꣡न्ध꣢सः। दृ꣣ढा꣡ चि꣢दा꣣रु꣢जे꣣ व꣡सु꣢ ।।2 ।।  
 अ꣣भी꣢꣫ षु णः꣣ स꣡खी꣢नामवि꣣ता꣡ ज꣢रितृ꣣णा꣢म्। श꣣तं꣡ भ꣢वास्यू꣣त꣡ये꣢ ।।3 ।।।।12(टा)।।  
 
-{{< figure src="../../images/indra-as-maghavAn-followed-by-people-bearing-wealth-moving-towards-a-yajamAna.png"  class="thumbnail">}}
+![](../../images/indra-as-maghavAn-followed-by-people-bearing-wealth-moving-towards-a-yajamAna.png)
+{class="thumbnail"}

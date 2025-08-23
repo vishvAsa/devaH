@@ -15,7 +15,8 @@ RV.9.106.10a; SV.1.572a; 2.290a; JB.3.78a;
 सोमः॑ पुना॒न ऊ॒र्मिणा ऽव्यो॒ +++(=मेषस्य)+++ वारं॒ +++(=वालम्)+++ वि धा॑वति +++(पवनार्थम्)+++।  
 अग्रे॑ वा॒चः पव॑मानः॒ +++(=पूतः)+++ कनि॑क्रदत् +++(=शब्दयन्न् अश्ववत्)+++ १०
 
-{{< figure src="/devaH/AryaH/hindukaH/somaH/images/soma-purification.png"  class="thumbnail">}}
+![](/devaH/AryaH/hindukaH/somaH/images/soma-purification.png)
+{class="thumbnail"}
 
 ## साम
 

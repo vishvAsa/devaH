@@ -2,7 +2,8 @@
 title: वन्दे मातरम्
 ---
 
-{{< figure src="../../images/vande_mAtaram.jpg"  >}}
+![](../../images/vande_mAtaram.jpg)
+{ }
 
 
 वन्दे मातरम्।  

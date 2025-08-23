@@ -3,7 +3,8 @@ title = "Tikla-cave triad"
 unicode_script = "devanagari"
 +++
 
-{{< figure src="../../../images/Tikla-cave_sankarShaNa-vAsudeva-ekAnaMshA.jpg" title="" class="thumbnail">}}
+![](../../../images/Tikla-cave_sankarShaNa-vAsudeva-ekAnaMshA.jpg)
+{caption="" class="thumbnail"}
 
 
 

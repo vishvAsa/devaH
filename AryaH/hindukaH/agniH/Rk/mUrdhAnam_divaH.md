@@ -24,4 +24,5 @@ unicode_script: devanagari
 मूर्धानं दिवो अरतिं पृथिव्या वैश्वानरमृत आ जातमग्निम्  ।   
 कविं सम्राजमतिथिं जनानामासन् नः पात्रं जनयन्त देवाः॥
 
-{{< figure src="../../images/agni-bellied-sun-lighting-up-the-bottom-of-the-clouds.jpg"  class="thumbnail">}}
+![](../../images/agni-bellied-sun-lighting-up-the-bottom-of-the-clouds.jpg)
+{class="thumbnail"}

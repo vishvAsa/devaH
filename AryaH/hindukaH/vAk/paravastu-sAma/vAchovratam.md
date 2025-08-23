@@ -10,7 +10,8 @@ unicode_script = "devanagari"
 
 स्वयम् (अ?)स्कुन्वे +++(=अकूर्दम्)+++॥
 
-{{< figure src="..//devaH/AryaH/hindukaH/vAk/images/mood/skipping-happy.jpg"  class="thumbnail">}}
+![](..//devaH/AryaH/hindukaH/vAk/images/mood/skipping-happy.jpg)
+{class="thumbnail"}
 
 ## साम
 

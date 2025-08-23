@@ -34,7 +34,8 @@ unicode_script = "devanagari"
 यह्वा इव प्र वयाम् उज् जिहानाः  
 प्र भानवः सस्रते नाकमच्छ ॥ ७३
 
-{{< figure src="/devaH/AryaH/hindukaH/agniH/images/Strengthening-brightening-agni.png"  class="thumbnail">}}
+![](/devaH/AryaH/hindukaH/agniH/images/Strengthening-brightening-agni.png)
+{class="thumbnail"}
 
 ## साम
 - पारम्परिकगानमूलम् - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n7/mode/2up)।]

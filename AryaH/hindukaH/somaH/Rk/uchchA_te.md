@@ -18,4 +18,5 @@ RV.9.61.10b; SV.1.467b; 2.22b; VS.26.16b; JB.1.81,116; 3.40.
 </details>
 </div>
 
-{{< figure src="../../images/soma-enthroned.png"  class="thumbnail">}}
+![](../../images/soma-enthroned.png)
+{class="thumbnail"}

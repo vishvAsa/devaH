@@ -4,7 +4,8 @@ unicode_script: devanagari
 
 ---
 
-{{< figure src="../../images/savitR_SunEarthGravityGrid.jpg"  class="thumbnail">}}
+![](../../images/savitR_SunEarthGravityGrid.jpg)
+{class="thumbnail"}
 
 - सविता प्रचोदकः। 
 - सहस्रगायत्रीजपे देवः सविता गायत्री-श्येनारूढो मनस्य् अस्फुरत् - विष्णुर् गरुडे यथा।

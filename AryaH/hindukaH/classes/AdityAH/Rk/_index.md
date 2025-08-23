@@ -2,4 +2,5 @@
 title: +ऋचः
 ---
 
-{{< figure src="images/savitR_SunEarthGravityGrid.jpg"  >}}
+![](images/savitR_SunEarthGravityGrid.jpg)
+{ }

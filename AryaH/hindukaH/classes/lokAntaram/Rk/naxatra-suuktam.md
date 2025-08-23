@@ -2052,7 +2052,8 @@ _________________
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/stellarium/pUrva-proShThapadau.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/stellarium/pUrva-proShThapadau.png)
 +++(α and β Pegasi)+++
 
-{{< figure src="/jyotiSham/history/images/zodiac_history/bce-3000_naxatra-chakra.jpg" title="" class="thumbnail">}}
+![](/jyotiSham/history/images/zodiac_history/bce-3000_naxatra-chakra.jpg)
+{caption="" class="thumbnail"}
 
 - धिष्णियाभिस् तार्क्ष्य-सम्बन्धो ऽन्यत्र प्रपञ्चितः। सर्वम् एतद् [अन्यत्र](/jyotiSham/naxatram/tArAmaNDala) प्रपञ्चितम्।
 - ३००० BCE इति काले ऽत्र परिसरे ऽवर्तत +अयनवर्तन-स्थानम्।
@@ -2133,7 +2134,8 @@ _________________
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/stellarium/uttara-proShThapadau.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/stellarium/uttara-proShThapadau.png)
 +++(γ Pegasi and α Andromedae)+++
 
-{{< figure src="/jyotiSham/history/images/zodiac_history/bce-3000_naxatra-chakra.jpg" title="" class="thumbnail">}}
+![](/jyotiSham/history/images/zodiac_history/bce-3000_naxatra-chakra.jpg)
+{caption="" class="thumbnail"}
 
 - यदा मृगशीर्षे बभूव विषुवस्थानम्, अत्रासीत् सौरं दक्षिणतमम् अयनम्। विश्व-स्कम्भमूलस्थो ऽहिर्बुध्नियः। स च प्रोष्ठपदास्व् अपि कल्पितः प्रायेण तेनैव कारणेन।
 - धिष्णियाभिस् तार्क्ष्य-सम्बन्धो ऽन्यत्र प्रपञ्चितः। सर्वम् एतद् [अन्यत्र](/jyotiSham/naxatram/tArAmaNDala) प्रपञ्चितम्।

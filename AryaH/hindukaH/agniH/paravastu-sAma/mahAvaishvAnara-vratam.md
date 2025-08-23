@@ -48,8 +48,10 @@ RV.3.9.2a; SV.1.53a; N.4.14a; M;S.3.8.1a.
 </details>
 </div>  
 
-{{< figure src="/devaH/AryaH/hindukaH/agniH/images/forest-fire.jpg"  class="thumbnail">}}
-{{< figure src="/devaH/AryaH/hindukaH/agniH/images/lightning.jpg"  class="thumbnail">}}
+![](/devaH/AryaH/hindukaH/agniH/images/forest-fire.jpg)
+{class="thumbnail"}
+![](/devaH/AryaH/hindukaH/agniH/images/lightning.jpg)
+{class="thumbnail"}
 
 ## साम
 

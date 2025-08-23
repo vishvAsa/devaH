@@ -20,9 +20,11 @@ unicode_script = "devanagari"
 - खचक्रे तद्-विपरीतया रोहिण्या ऽपि सम्बद्धः। एतद् वृषाकपिसूक्ते "[स जनास इन्द्रः](../../../vedAH_Rk/shAkalam/saMhitA/02/012_sa_janAsa_indraH/)" इति सूक्ते च च्यक्तम्।
 - indra preparing to slay vR^itra tells viShNu in the RV: athAbravId vR^itram indro haniShyan sakhe viShNo vitaraM vi kramasva | (vAmadeva gautama) sakhe viShNo vitaraM vi kramasva dyaur dehi lokaM vajrAya viShkabhe | (nema bhArgava) विश्ष्णोर् नक्षत्रं श्रवणः ज्येष्ठासर्पादिसमीपवर्ती। 
 
-{{< figure src="jyeShThA_serpens_hercules_ophiuchus.jpg" title="" class="thumbnail">}}
+![](jyeShThA_serpens_hercules_ophiuchus.jpg)
+{caption="" class="thumbnail"}
 
-{{< figure src="jyeShThA_serpens_hercules_ophiuchus_shravaNa.jpg" title="" class="thumbnail">}}
+![](jyeShThA_serpens_hercules_ophiuchus_shravaNa.jpg)
+{caption="" class="thumbnail"}
 
 
 
@@ -44,7 +46,8 @@ unicode_script = "devanagari"
 
 
 ### अहिः
-{{< figure src="images/jyeShThA_serpens_hercules_ophiuchus.jpg" title="" class="thumbnail">}}
+![](images/jyeShThA_serpens_hercules_ophiuchus.jpg)
+{caption="" class="thumbnail"}
 
 - उपरि "खे" इति विभागे दत्ताष् टिप्पन्यो दृश्याः।
 - वृत्रो हि+ अपामावरको मेघ इति सायणः क्वचित्! तस्य हन्ता वृत्रहा इन्द्रः!

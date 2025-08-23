@@ -30,7 +30,8 @@ RV.9.90.2a; SV.1.528a; 2.758a. P: abhi tripRTEMPiShTham Svidh.1.4.20; 5.16.
 </details>
 </div>  
 
-{{< figure src="/devaH/AryaH/hindukaH/somaH/images/soma-extraction-watched-by-many-Rtvik-s.png"  class="thumbnail">}}
+![](/devaH/AryaH/hindukaH/somaH/images/soma-extraction-watched-by-many-Rtvik-s.png)
+{class="thumbnail"}
 
 ## साम
 

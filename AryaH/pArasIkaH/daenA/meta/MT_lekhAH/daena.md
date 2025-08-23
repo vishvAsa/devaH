@@ -8,7 +8,8 @@ There if has performed puNya-s he is met by the goddess daena with her dogs in t
 
 If he has performed pApa-s instead she arrives as dreadful harridan+++(=hag)+++ and he is borne away by the dogs to be judged by raShNu and sraosha. The dogs may be identified with constellations of Canis Major and Minor and the Chinvata bridge with the Milky Way. Was there a constellation with which daenA was identified? 
 
-{{< figure src="../../images/daena-dun-huang-pic.png" title="" class="thumbnail">}}
+![](../../images/daena-dun-huang-pic.png)
+{caption="" class="thumbnail"}
 
 
 In this document from Dun Huang +++(silk road, gansu)+++, Daena is shown carrying a dog. She is faced by another goddess whose identity has been mysterious. Some suspect she is the more harridanic manifestation of daena. Others note parallels to the the syncretic "Iranic durgA" who similarly holds up the sun & moon. 

@@ -2,7 +2,8 @@
 title: +रुद्रः
 ---
 
-{{< figure src="images/rudra-with-his-drawn-bow.png"  >}}
+![](images/rudra-with-his-drawn-bow.png)
+{ }
 
 
 ## गणपतिः

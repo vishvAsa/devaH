@@ -27,7 +27,8 @@ unicode_script = "devanagari"
 </details>
 </div>  
 
-{{< figure src="/devaH/AryaH/hindukaH/somaH/images/soma-purification.png"  class="thumbnail">}}
+![](/devaH/AryaH/hindukaH/somaH/images/soma-purification.png)
+{class="thumbnail"}
 
 ## साम - यौक्ताश्वाद्यम्
 - पारम्परिक-लेखाः - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n4/mode/1up)।

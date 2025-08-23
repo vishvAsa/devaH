@@ -27,7 +27,8 @@ unicode_script = "devanagari"
 </details>
 </div>
 
-{{< figure src="/devaH/AryaH/hindukaH/agniH/images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png"  class="thumbnail">}}
+![](/devaH/AryaH/hindukaH/agniH/images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png)
+{class="thumbnail"}
 
 ## साम
 - पारम्परिकगानमूलम् - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n7/mode/1up)।

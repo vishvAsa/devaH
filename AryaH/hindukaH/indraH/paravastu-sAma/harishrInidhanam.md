@@ -16,7 +16,8 @@ unicode_script = "devanagari"
 
 इन्द्र॒ त्वादा॑त॒मिद्यशः॑ ॥
 
-{{< figure src="/devaH/AryaH/hindukaH/indraH/images/indra-squeezing-soma-into-mouth.jpg"  class="thumbnail">}}
+![](/devaH/AryaH/hindukaH/indraH/images/indra-squeezing-soma-into-mouth.jpg)
+{class="thumbnail"}
 
 ## साम
 

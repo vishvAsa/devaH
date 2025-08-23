@@ -29,7 +29,8 @@ SV.1.381a; 2.96a; JB.1.227,228; PB.9.2.21. RV.8.13.1a; A;S.6.4.10; ;S;S.9.18.1; 
 </details>
 </div>  
 
-{{< figure src="/devaH/AryaH/hindukaH/indraH/images/indra-as-maghavAn-followed-by-people-bearing-wealth-moving-towards-a-yajamAna.png"  class="thumbnail">}}
+![](/devaH/AryaH/hindukaH/indraH/images/indra-as-maghavAn-followed-by-people-bearing-wealth-moving-towards-a-yajamAna.png)
+{class="thumbnail"}
 
 ## साम
 

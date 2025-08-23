@@ -33,7 +33,8 @@ unicode_script = "devanagari"
 आ वो राजानमध्वरस्य रुद्रं होतारं सत्ययजं रोदस्योः  ।  
 अग्निं पुरा तनयित्नोर् अचित्ताद् +हिरण्यरूपम् अवसे कृणुध्वम्  ।  
 
-{{< figure src="/devaH/AryaH/hindukaH/agniH/images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png"  class="thumbnail">}}
+![](/devaH/AryaH/hindukaH/agniH/images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png)
+{class="thumbnail"}
 
 ## साम
 

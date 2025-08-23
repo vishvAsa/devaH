@@ -59,7 +59,8 @@ RV.7.32.16
 +++(यशो वर्चो अस्मिन्!)+++  
 +++(आयुर्, विश्वायुर्, विश्वम् आयुर् असि! महि प्रजां त्वष्टः! राधनिधे! ह्य् अस्मै। शतं जीवेम शरदो वयन् ते।)+++
 
-{{< figure src="/devaH/AryaH/hindukaH/somaH/images/somotpAdane-devAhvAnam.png"  class="thumbnail">}}
+![](/devaH/AryaH/hindukaH/somaH/images/somotpAdane-devAhvAnam.png)
+{class="thumbnail"}
 
 ## साम
 

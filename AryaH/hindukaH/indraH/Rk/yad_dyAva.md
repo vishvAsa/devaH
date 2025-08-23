@@ -19,4 +19,5 @@ RV.8.70.5b; AV;S.20.81.1b; 92.20b; SV.1.278b; 2.212b; TS.2.4.14.3b; KS.12.15b; J
 </details>
 </div>
 
-{{< figure src="../../images/Great-indra-on-airAvata-with-vajra-surrounded-by-other-smaller-deva-s-agni-on-ram-yama-on-buffalo-brahma-on-swan-sUrya-and-chandra.jpg"  class="thumbnail">}}
+![](../../images/Great-indra-on-airAvata-with-vajra-surrounded-by-other-smaller-deva-s-agni-on-ram-yama-on-buffalo-brahma-on-swan-sUrya-and-chandra.jpg)
+{class="thumbnail"}

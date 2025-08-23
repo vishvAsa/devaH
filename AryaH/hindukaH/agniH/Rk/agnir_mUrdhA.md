@@ -23,4 +23,5 @@ unicode_script: devanagari
 
 अग्निर्मूर्धा दिवः ककुत् पतिः पृथिव्या अयम्। अपाᳱ रेताᳱसि जिन्वति ।।27
 
-{{< figure src="../../images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png"  class="thumbnail">}}
+![](../../images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png)
+{class="thumbnail"}
