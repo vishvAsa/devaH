@@ -1,6 +1,6 @@
 .wercker
 /resources
-build_*
+build_*/*
 *.iml
 *.ipr
 *.iws
