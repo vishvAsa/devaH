@@ -74,14 +74,3 @@ With all the monotheist brainwashing, one sees so many deviations of the monothe
 One more addition: Desire for divine imagery of some sort: The Buraq
 
 
-## Forms of single deity
-I think some core points are being missed:
-
-- polytheism is not mutually exclusive with the idea of a single supreme being.
-- Nowhere, different deities being described as forms of the “One” is intended to be mutually exclusive with those deities having separate existences. 
-
-Often, the allusion to trimUrtis or all devas being forms of the “single supreme deity” occurs in the sense of the Self (often explicitly identified with the single supreme deity) manifesting as all. This account doesn’t negate our individualities at all. There is, simultaneously a continuity & abruptness between the single supreme god & other devas. 
-
-The continuity is reflected through such usages as “devottama” or “devadeva”, when referring to the former & “anyadeva” when referring to the latter. These usages reflect that the single supreme being was essentially seen as being part of the same class as the anyadevas, or else the term wouldn’t make sense at all. This is the continuity of being between the devottama & anyadevas.
-
-The abruptness comes from the devottama being Ishvara. But this doesn’t contradict the account that Hindu dharma is polytheistic. There is similarity of genus but utter dissimilarity in terms of supremacy since only one being can be supreme. 
