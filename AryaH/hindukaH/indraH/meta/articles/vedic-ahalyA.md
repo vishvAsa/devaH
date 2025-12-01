@@ -42,3 +42,6 @@ Adding to this, remember that the most "sexually puritan" religion in the world,
 In any case the word used with Áhalyā in the Brā́hmaṇa-s is jārá "lover" (not necessarily extramarital by the definition of the word—it could theoretically refer to a husband—but in this case necessarily extramarital since Áhalyā Māítrēyī is a human woman and nowhere mentioned to be His wife).
 
 I don't see anything problematic about either case; in the first, a God is doing a favor to a family by providing them with offspring, and in the second, a virile God is the lover of a human maiden with no mention of deceit by Índra or adultery by Áhalyā.  There is no falsehood or transgression of moral law involved. 
+
+## वाल्मीकीये
+> It sort of "euhemeristic" attempt on vAlmIki's part to interpret the 3 vaidika subrahmaNya mantra-s: ahalyAyai jAra | kaushika brAhmaNa | gautama bruvANa | vAlmIki did not merge the gautama bruvANa part into the story and stuck with ahalyAyai jAra. But he brings in kaushika brAhmaNa as the vishvAmitra character in the tale. - MT
