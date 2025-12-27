@@ -2,6 +2,9 @@
 title = "मङ्गलाशासनम्"
 +++
 
+<div class="js_include" url="/purANam_vaiShNavam/kAvyam/padyam/venkaTeshvaraH/mangalAshAsanam" unfilled newLevelForH1="5" includeTitle="false">   
+
+
   ॥ अथ वेङ्कटेशमङ्गलाशासनम् ॥  
   
 श्रियः कान्ताय कल्याण-  
@@ -75,3 +78,4 @@ title = "मङ्गलाशासनम्"
 सत्-कृतायास्तु मङ्गलम् ॥ १४॥  
   
 ॥ इति वेङ्कटेशमङ्गलाशासनम् ॥  
+</div>

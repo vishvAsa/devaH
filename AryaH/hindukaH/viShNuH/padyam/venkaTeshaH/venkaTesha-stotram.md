@@ -2,6 +2,7 @@
 title: वेङ्कटेश-स्तोत्रम्
 unicode_script: devanagari
 ---
+<div class="js_include" url="/purANam_vaiShNavam/kAvyam/padyam/venkaTeshvaraH/venkaTesha-stotram" unfilled newLevelForH1="5" includeTitle="false">  
 
 ## लोकपतिस्तुतिः
 कमला-कुच-चूचुक-कुङ्कमतो  
@@ -64,3 +65,4 @@ unicode_script: devanagari
 अशेषान् विहितान् हरे ।  
 क्षमस्व त्वं क्षमस्व त्वं  
 शेष-शैल-शिखामणे ॥
+</div>

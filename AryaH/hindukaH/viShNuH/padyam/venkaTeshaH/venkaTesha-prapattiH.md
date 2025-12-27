@@ -2,6 +2,8 @@
 title = "वेङ्कटेश-प्रपत्तिः"
 +++
 
+<div class="js_include" url="/purANam_vaiShNavam/kAvyam/padyam/venkaTeshvaraH/venkaTesha-prapattiH" unfilled newLevelForH1="5" includeTitle="false">  
+
   ॥ अथ वेङ्कटेशप्रपत्ति ॥  
 
 ईशानां जगतोऽस्य वेङ्कट-पतेर् विष्णोः परां प्रेयसीं  
@@ -99,3 +101,4 @@ title = "वेङ्कटेश-प्रपत्तिः"
 **स्यां किङ्-करो** वृष-गिरीश, न जातु मह्यम् +++(किङ्करः)+++॥ १६॥  
   
   ॥ इति वेङ्कटेशप्रपत्ति ॥  
+</div>

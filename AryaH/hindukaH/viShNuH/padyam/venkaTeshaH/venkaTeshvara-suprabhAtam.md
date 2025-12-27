@@ -3,6 +3,8 @@ title: वेङ्कटेश्वरसुप्रभातम्
 unicode_script: devanagari
 ---
 
+<div class="js_include" url="/purANam_vaiShNavam/kAvyam/padyam/shrIvaiShNava-kRtam/prati-vAdi-bhayankarANNangarAryaH/venkaTeshvara-suprabhAtam.md" unfilled newLevelForH1="5" includeTitle="false">   
+
 ## गोविन्दजागरणम्
 कौसल्या-सुप्रजा राम  
 पूर्वा संध्या प्रवर्तते ।  
@@ -151,3 +153,4 @@ unicode_script: devanagari
 ये मानवाः प्रतिदिनं पठितुं प्रवृत्ताः ।  
 तेषां प्रभात-समये स्मृतिर् अङ्गभाजां  
 प्रज्ञां परार्थ-सुलभां परमां प्रसूते ॥
+</div>
