@@ -9,8 +9,7 @@ unicode_script = "devanagari"
 भगवति हे शिति-कण्ठ-कुटुम्बिनि भूरि-कुटुम्बिनि +++(दुष्टसंहारादि)+++भूरि-कृते  
 जय जय हे महिषासुर-मर्दिनि रम्य-कपर्दिनि शैल-सुते ॥ १॥
 
-<details>
-<summary>टीकाः</summary>
+<details><summary>टीकाः</summary>
 
 #### मूलम्
 अयि गिरिनन्दिनि नन्दितमेदिनि विश्वविनोदिनि नन्दनुते  
@@ -44,8 +43,7 @@ Hail, Oh daughter of Mountain, who has caused joy to the Universe, praised by Na
 दनु-ज-निरोषिणि दिति-सुत-रोषिणि दुर्मद-शोषिणि सिन्धु-सुते +++(लक्ष्मी-रूपे)+++  
 जय जय हे महिषासुर-मर्दिनि रम्य-कपर्दिनि शैल-सुते ॥ २॥
 
-<details>
-<summary>टीकाः</summary>
+<details><summary>टीकाः</summary>
 
 #### मूलम्
 सुरवरवर्षिणि दुर्धरधर्षिणि दुर्मुखमर्षिणि हर्षरते  
@@ -74,8 +72,7 @@ Oh Goddess, who showers boons on gods, molests demon Durdhara, destroys demon Du
 जय जय हे महिषासुर-मर्दिनि रम्य-कपर्दिनि शैल-सुते ॥ ३॥
 
 
-<details>
-<summary>टीकाः</summary>
+<details><summary>टीकाः</summary>
 
 #### मूलम्
 अयि जगदम्ब मदम्ब कदम्बवन-प्रियवासिनि हासरते  
@@ -106,8 +103,7 @@ Hail, Oh Mother of the World (and) of me (in particular) dweller in the forest o
 निज-भुज-दण्ड--निपातित-खण्ड--विपातित-मुण्ड--भटाधिपते  
 जय जय हे महिषासुर-मर्दिनि रम्य-कपर्दिनि शैल-सुते ॥ ४॥
 
-<details>
-<summary>टीकाः</summary>
+<details><summary>टीकाः</summary>
 
 #### मूलम्
 अयि शतखण्ड-विखण्डित-रुण्ड-वितुण्डित-शुण्ड-गजाधिपते  
@@ -137,8 +133,7 @@ Hail, Oh Gosddess who has shattered the best horses into hundreds of pieces (and
 दुरित-दुरीह-दुराशय-दुर्मति--दानव-दूत--कृतान्त-मते  
 जय जय हे महिषासुर-मर्दिनि रम्य-कपर्दिनि शैल-सुते ॥ ५॥
 
-<details>
-<summary>टीकाः</summary>
+<details><summary>टीकाः</summary>
 
 #### मूलम्
 अयि रण-दुर्मद-शत्रु-वधोदित--दुर्धर--निर्जर-शक्ति-भृते  
@@ -174,8 +169,7 @@ who has crushed the I demon, Mahisha, wearing a charming knot of hair, Oh Daught
 शिव-शिव शुम्भ-निशुम्भ-महाऽहव--तर्पित-भूत-पिशाच--रते  
 जय जय हे महिषासुर-मर्दिनि रम्य-कपर्दिनि शैल-सुते ॥ ७॥
 
-<details>
-<summary>टीकाः</summary>
+<details><summary>टीकाः</summary>
 
 #### मूलम्
 अयि निजहुंकृतिमात्र-निराकृत-धूम्रविलोचन-धूम्रशते  
@@ -203,8 +197,7 @@ Hail, Oh Goddess who has destroyed demon Dhoomralochana together with his hundre
 कृत-चतुर्-अङ्ग-बल-क्षिति-रङ्ग--घटद्-बहु--{रङ्ग--रटद्-बटुके}  
 जय जय हे महिषासुर-मर्दिनि रम्य-कपर्दिनि शैल-सुते ॥ ८॥
 
-<details>
-<summary>टीकाः</summary>
+<details><summary>टीकाः</summary>
 
 #### मूलम्
 धनुरनुसङ्गरण-क्षण-सङ्ग-परिस्फुरदङ्ग-नटत्-कटके  
@@ -232,8 +225,7 @@ Oh Goddess, whose bangles are set in motion, because of the limb (hand) which th
 दुमि-दुमिता-ऽमर-दुन्दुभि-नाद--महो--मुखरी-कृत--+++(सूर्यवत्)+++तिग्म-करे  
 जय जय हे महिषासुर-मर्दिनि रम्य-कपर्दिनि शैल-सुते ॥ ६॥
 
-<details>
-<summary>टीकाः</summary>
+<details><summary>टीकाः</summary>
 
 #### मूलम्
 अयि शरणागत-वैरिवधू-वरवीर-वराभय-दायिकरे  
@@ -262,8 +254,7 @@ Hail, Oh Goddess whose palm offers blessings and fearlessness to the heroic husb
 धुधुकुट-धुक्कुट-धिन्धिमित-ध्वनि-धीर-मृदङ्ग-निनाद-रते  
 जय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥९॥
 
-<details>
-<summary>टीकाः</summary>
+<details><summary>टीकाः</summary>
 
 #### मूलम्
 सुरललनाततथेयि-तथेयि-कृताभिनयोदर-नृत्य-रते  
@@ -296,8 +287,7 @@ Oh, Goddess, who takes delight in the dance-sequence in the midst of acting done
 झण-झण-झिञ्-झिमि-झिङ्--कृत-नूपुर-सिञ्जित-मोहित-भूत-पते ।  
 नटित--{नटार्ध-नटी--नट-नायक}--नाटित--नाट्य--सु-गान-रते  
 जय जय हे महिषासुर-मर्दिनि रम्य-कपर्दिनि शैल-सुते ॥ १०॥
-<details>
-<summary>टीकाः</summary>
+<details><summary>टीकाः</summary>
 
 #### मूलम्
 जय जय जप्यजये जय-शब्द-पर-स्तुति-तत्पर-विश्व-नुते  
@@ -329,8 +319,7 @@ Oh Goddess, who is praised by the World which is engrossed in a praise-song in w
 जय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥११॥ 
 
 
-<details>
-<summary>टीकाः</summary>
+<details><summary>टीकाः</summary>
 
 #### मूलम्
 अयि सुमनः! सुमनःसुमनःसुमनःसुमनोहरकान्तियुते  
@@ -360,8 +349,7 @@ Oh Goddess, having a cheerful disposition, who is possessed of very attractive l
 विरचित-वल्लिक-पल्लिक+++(=कुटीर)+++-मल्लिक+++(=राजहंस)+++-झिल्लिक+++(=प्रकाश)+++-भिल्लिक+++(=लोध्र-वृक्ष)+++-वर्ग-वृते ।  
 सित--कृत+++(→ईषत्)+++-फुल्ल--समुल्लसिताऽरुण-तल्लज-पल्+++(द्)+++-लव--सल्-ललिते  
 जय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥१२॥ 
-<details>
-<summary>टीकाः</summary>
+<details><summary>टीकाः</summary>
 
 #### मूलम्
 महित-महाहव-मल्लमतल्लिक-मल्लित-रल्लक-मल्ल-रते  
@@ -390,8 +378,7 @@ Oh Goddess, who is pleased with wrestlers in the form of eye-lashes which are ma
 त्रिभुवन-भूषण-भूत--कला-निधि+++(=चन्द्र)+++-रूप+++(-सौन्दर्य)+++--पयो-निधि-राज-सुते +++(लक्ष्मि!)+++।  
 अयि सुदती+++(=सुन्दरी)+++-जन-लालस+++(=लस्+यङ्)+++-मानस-मोहन-मन्मथ-राज-सुते +++(कामेश्वरि!)+++  
 जय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥१३॥ 
-<details>
-<summary>टीकाः</summary>
+<details><summary>टीकाः</summary>
 
 #### मूलम्
 अविरल-गण्डगलन्-मद-मेदुर-मत्त-मतङ्गजराज-पते  
@@ -421,8 +408,7 @@ Oh Goddess, ruling (as Matangi) over the best of intoxicated elephants rendered 
 सकल-विलास-कला-निलय-क्रम-केलि-चलत्-कलहंसकुले ।  
 अलिकुल-सङ्कुल-कुवलय-मण्डल-मौलि-मिलद्-बकुलाऽऽलिकुले  
 जय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते जा ॥१४॥ 
-<details>
-<summary>टीकाः</summary>
+<details><summary>टीकाः</summary>
 
 #### मूलम्
 कमल-दलामल-कोमल-कान्ति-कलाकलिताऽमल-भालतले  
@@ -448,8 +434,7 @@ Oh Goddess, having the spotless and delicate lustre of a lotus-petal (and) havin
 मिलित-मिलिन्द-मनोहर-गुञ्जित-रक्षित-शैलनिकुञ्ज-गते ।  
 निजगुणभूत-महाशबरी-गण-सद्गुण-सम्भृत-केलितते  
 जय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥१५॥ 
-<details>
-<summary>टीकाः</summary>
+<details><summary>टीकाः</summary>
 
 #### मूलम्
 कर-मुरली-रव-वीजित-कूजित-लज्जित-कोकिल-मञ्जुरुते  
@@ -475,8 +460,7 @@ Oh Goddess, possessed of sweet sound of cuckoos who are ashamed as their notes a
 प्रणत-सुरासुर-मौलि-मणिस्फुरदंशु-लसन्-नखचन्द्र-रुचे ।  
 जित-कनकाचलमौलि-मदोर्जित-निर्जरकुञ्जर-कुम्भ-कुचे  
 जय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥१६॥ 
-<details>
-<summary>टीकाः</summary>
+<details><summary>टीकाः</summary>
 
 #### मूलम्
 कटितट-पीत-दुकूल-विचित्र-मयूख-तिरस्कृत-चन्द्ररुचे  
@@ -500,8 +484,7 @@ Oh Goddess, having lustre which supersedes that of the moon because of the chari
 कृत-सुरतारक-सङ्गर-तारक सङ्गर-तारकसून-सुते  
 सुरथ-समाधि-समान-समाधि-समाधि-समाधि-सुजात-रते  
 जय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥१७॥ 
-<details>
-<summary>टीकाः</summary>
+<details><summary>टीकाः</summary>
 
 #### मूलम्
 
@@ -522,8 +505,7 @@ Oh Goddess, the only time praised by the thousand hands of Sahasrarjuna who had 
 अयि कमले कमलानिलये कमलानिलयः स कथं न भवेत् ।  
 तव पदमेव परम्पदमित्यनुशीलयतो मम किं न शिवे  
 जय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥१८॥ 
-<details>
-<summary>टीकाः</summary>
+<details><summary>टीकाः</summary>
 
 #### मूलम्
 पदकमलं करुणानिलये वरिवस्यति योऽनुदिनं नु शिवे  
@@ -550,8 +532,7 @@ Hail, Oh Kamala, the store-house of compassion, Oh Siva, how will he not become 
 भजति स किं न शचीकुचकुम्भ-तटीपरिरम्भ-सुखानुभवम् ।  
 तवचरणं शरणं करवाणि नतामरवाणि निवासि शिवं  
 जय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥१९॥ 
-<details>
-<summary>टीकाः</summary>
+<details><summary>टीकाः</summary>
 
 #### मूलम्
 कनक-लसत्-कल-सिन्धु-जलैरनुषिञ्चति ते गुणरङ्गभुवं  
@@ -576,8 +557,7 @@ One who sprinkles the stage meant for (the dance of) your divine qualities with 
 किमु पुरु-हूत-पुरीन्दु-मुखी-सुमुखीभिरसौ विमुखीक्रियते  
 मम तु मतं शिवनामधने भवतीकृपया किमुत क्रियते  
 जय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥२०॥ 
-<details>
-<summary>टीकाः</summary>
+<details><summary>टीकाः</summary>
 
 #### मूलम्
 तव-विमलेन्दुकलं वदनेन्दुमलं सकलं ननु कूलयते  
@@ -604,8 +584,7 @@ Oh Pure One, the person who looks upon your moonlike face together with its digi
 अयि जगतो जननी कृपयासि यथासि तथाऽनुमितासि रमे ।  
 यदुचितमत्र भवत्युररीकुरुतादुरुतापमपाकुरु मे   
 जय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥२१॥ 
-<details>
-<summary>टीकाः</summary>
+<details><summary>टीकाः</summary>
 
 #### मूलम्
 अयि मयि दीनदयालुतया करुणापरया भवितव्यमुमे  
@@ -630,8 +609,7 @@ Hail, Oh Uma, you should be compassionate to the afflicted and kind. Hail Oh Ram
 
 
 ## प्रस्तावः
-<details>
-<summary>प्रस्तावः</summary>
+<details><summary>प्रस्तावः</summary>
 
 ### परिचयः
 - बहवः पाठभेदास् सन्ति - यथा [ऽत्र](https://archive.org/details/mahishasuramardi021148mbp/page/n69/mode/2up) तॆलुगुव्याख्याने।
