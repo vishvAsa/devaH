@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;&#43;अन्धचितिः on देवेषु विश्वासटिप्पन्यः</title>
+    <link>https://vishvAsa.github.io/devaH/AryaH/hindukaH/random/</link>
+    <description>Recent content in &#43;&#43;अन्धचितिः on देवेषु विश्वासटिप्पन्यः</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/devaH/AryaH/hindukaH/random/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>मन्त्रेषु</title>
+      <link>https://vishvAsa.github.io/devaH/AryaH/hindukaH/random/mantraH/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/devaH/AryaH/hindukaH/random/mantraH/</guid>
+      <description>&lt;div name=&#34;manualRedirectionDiv&#34;/&gt;&#xA;&lt;script&gt;&#xA;function getSelectionWeight(url) {&#xA;  var cleanedUrl = url.replace(&#34;//&#34;, &#34;/&#34;);&#xA;  let pageParams = module_uiLib.default.content.getPageParams(cleanedUrl);&#xA;  if ( !cleanedUrl.includes(&#34;/hindukaH/&#34;)  || !(cleanedUrl.includes(&#34;/Rk/&#34;) || cleanedUrl.includes(&#34;/yajuH/&#34;) || cleanedUrl.includes(&#34;/sAma/&#34;) || cleanedUrl.includes(&#34;/paravastu-sAma/&#34;)) || cleanedUrl.includes(&#34;/images/&#34;)|| pageParams.logicalName == &#34;_index.md&#34; || cleanedUrl.includes(&#34;/random/&#34;) ) {&#xA;    return 0;&#xA;  }&#xA;  if (!pageParams || !pageParams.hasOwnProperty(&#34;practice_weight&#34;)) {&#xA;    return 1;&#xA;  }&#xA;  return pageParams.practice_weight;&#xA;}&#xA;&#xA;module_uiLib.default.navigation.redirectToRandomPage(getSelectionWeight, document.getElementsByName(&#34;manualRedirectionDiv&#34;), false);&#xA;&lt;/script&gt;</description>
+    </item>
+    <item>
+      <title>सामसु</title>
+      <link>https://vishvAsa.github.io/devaH/AryaH/hindukaH/random/sAma/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/devaH/AryaH/hindukaH/random/sAma/</guid>
+      <description>&lt;div name=&#34;manualRedirectionDiv&#34;/&gt;&#xA;&lt;script&gt;&#xA;function getSelectionWeight(url) {&#xA;  var cleanedUrl = url.replace(&#34;//&#34;, &#34;/&#34;);&#xA;  let pageParams = module_uiLib.default.content.getPageParams(cleanedUrl);&#xA;  if ( !cleanedUrl.includes(&#34;/paravastu-sAma/&#34;) ||  cleanedUrl.includes(&#34;/meta/&#34;) || pageParams.logicalName == &#34;_index.md&#34; || cleanedUrl.includes(&#34;/random/&#34;) ) {&#xA;    return 0;&#xA;  }&#xA;  if (!pageParams || !pageParams.hasOwnProperty(&#34;practice_weight&#34;)) {&#xA;    return 1;&#xA;  }&#xA;  return pageParams.practice_weight;&#xA;}&#xA;&#xA;module_uiLib.default.navigation.redirectToRandomPage(getSelectionWeight, document.getElementsByName(&#34;manualRedirectionDiv&#34;));&#xA;&lt;/script&gt;</description>
+    </item>
+    <item>
+      <title>स्तुतिषु</title>
+      <link>https://vishvAsa.github.io/devaH/AryaH/hindukaH/random/stutiH/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/devaH/AryaH/hindukaH/random/stutiH/</guid>
+      <description>&lt;div name=&#34;manualRedirectionDiv&#34;/&gt;&#xA;&lt;script&gt;&#xA;function getSelectionWeight(url) {&#xA;  var cleanedUrl = url.replace(&#34;//&#34;, &#34;/&#34;);&#xA;  let pageParams = module_uiLib.default.content.getPageParams(cleanedUrl);&#xA;  if ( ! cleanedUrl.includes(&#34;/hindukaH/&#34;)  || cleanedUrl.includes(&#34;/meta/&#34;)  || cleanedUrl.includes(&#34;/images/&#34;)|| pageParams.logicalName == &#34;_index.md&#34; || cleanedUrl.includes(&#34;/random/&#34;)) {&#xA;    return 0;&#xA;  }&#xA;  if (!pageParams || !pageParams.hasOwnProperty(&#34;practice_weight&#34;)) {&#xA;    return 1;&#xA;  }&#xA;  return pageParams.practice_weight;&#xA;}&#xA;&#xA;module_uiLib.default.navigation.redirectToRandomPage(getSelectionWeight, document.getElementsByName(&#34;manualRedirectionDiv&#34;), false);&#xA;&lt;/script&gt;</description>
+    </item>
+  </channel>
+</rss>
