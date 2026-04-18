@@ -43,6 +43,12 @@ unicode_script = "devanagari"
 </details>
 
 ## पाठः
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+We have a suspicion that the famous vyomavyApin mantra of the saiddhAntika shaiva might have been inspired by the high 171-name viShNu-mantra taught by nArada in the company of the chitrashikhaNDin-s in early pA~ncharAtra (mahAbhArata 12.325, "Pune edition").
+</details>
+
+
 ### सैद्धान्तिकः
 ॐ व्योम-व्यापिने व्योम-रूपाय सर्व-व्यापिने शिवाय  
 अनन्ताय +अनाथाय +अनाश्रिताय ध्रुवाय \[१\] शाश्वताय    
