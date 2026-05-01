@@ -1,8 +1,11 @@
 +++
-title = "+शास्ता"
-unicode_script = "devanagari"
+title = "+रेवन्तः शास्ता"
 +++
 
+## रेवन्त-शास्तृ-सम्बन्धः
+> Two pallava steles of the god shAstR^i (Tam: chAttAn < Pkt: chAttA); one showing him with his dog, clinching his connection as an evolute of revanta. Second showing him with varNani and satyaka. - MT
+
+## प्रतिष्ठा-विधिः
 Tantra samuccaya of Kerala has separate vidhana for shasta. Shasta pratishtha vidhana is found in shaiva as well as vaikhanasa prayogas.
 
 ## ayyappa and orthodox acceptance
