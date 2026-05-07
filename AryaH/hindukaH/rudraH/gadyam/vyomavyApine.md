@@ -211,3 +211,9 @@ The core mantra (i.e., without kavacha & astra) is exactly 365 syllables. The ve
 - पाठान्तरकलनम् [अत्र](https://manasataramgini.wordpress.com/2008/02/10/the-vyomavyapin-mantra/) । 
 - रौरवागमे विवरणम् [अत्र](../../../../AgamaH/shaivaH/rauravAgamaH/01_vidyApAdaH/10_mantrArthavarNanam)।
 
+## स्रोतः
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+We have a suspicion that the famous vyomavyApin mantra of the saiddhAntika shaiva might have been inspired by the high 171-name viShNu-mantra taught by nArada in the company of the chitrashikhaNDin-s in early pA~ncharAtra (mahAbhArata 12.325, "Pune edition"). - MT
+</details>
