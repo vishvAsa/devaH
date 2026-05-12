@@ -11,7 +11,9 @@ Source: [here](https://manasataramgini.wordpress.com/2006/02/04/ekanamsha-a-deit
 [![](https://i1.wp.com/photos1.blogger.com/blogger/2010/410/320/ekAnamshA.0.jpg)](http://photos1.blogger.com/blogger/2010/410/1600/ekAnamshA.0.jpg)
 
 ## Intro
-The core pantheon of the pA\~ncharAtra texts is the chaturvyuha or the serial emanations of nArAyaNa. The primary manifestation of nArAyaNa is vAsudeva, from whom emerge saMkarShaNa and pradyumna. From pradyumna emerges aniruddha. This pantheon appears to be a unique feature of the yadu tribes that subsequently seems to have spawned the classical pA\~ncharAtra. However, the early texts suggest that there was another parallel system that appears to have largely passed out of subsequent vaiShNavism. That was the cult of the goddess ekAnamshA. Who is she ?
+The core pantheon of the pA\~ncharAtra texts is the chaturvyuha or the serial emanations of nArAyaNa. The primary manifestation of nArAyaNa is vAsudeva, from whom emerge saMkarShaNa and pradyumna. From pradyumna emerges aniruddha. This pantheon appears to be a unique feature of the yadu tribes that subsequently seems to have spawned the classical pA\~ncharAtra. 
+
+However, the early texts suggest that there was another parallel system that appears to have largely passed out of subsequent vaiShNavism. That was the cult of the goddess ekAnamshA. Who is she ?
 
 > नमस्ते ऽस्तु एकानम्शायै  
 योगकन्यायै नमो ऽस्तुते \।   
