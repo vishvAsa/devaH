@@ -17,27 +17,22 @@ In dhyAna-ratnAvalI, -
 > śrīmat tulasi-rūpāṃ viṣṇu-patnīm hari-priyām |  
 sarvābharaṇa saṃyuktāṃ nīlādevīm aham bhaje ||
 
-> I have heard Jambavati is Neeladevi as Dwaraka mahishi. And she is also regarded as Durga/Uma tattva. So connection of Neela with Durga is very interesting.
-
 In the Padmapurana, Tulasi plant is called vibhuti of Gauri, the Malati plant of Mā(i.e., Lakshmi) and Dharitri plant of Dharā(Bhū). So there might be some basis in identification of Nīlā as both Tulasī/Vrindā and Durgā.
+
+> I have heard Jambavati is Neeladevi as Dwaraka mahishi. And she is also regarded as Durga/Uma tattva. So connection of Neela with Durga is very interesting.
 
 
 
 ### दुर्गा?
-प्रकाशसंहितायाम् -
+If you see Napinnai being specifically invoked by Andal and her friends in Thiruppavai for Marghazai vrata which corresponds to the Katyayani vrata of the Gopīs, and therein she is asked to awake Vishnu from sleep(iirc) fits the motiff of Nidra/Mahakali being asked by Brahmā to wake up Bhagavan who exists as Sleep in Him.
 
-> शुभ्रेषु मुक्तियोग्येषु  
-शुभ्रा (मुक्ता) श्रीरभिमानिनी ।।  
-रक्तेषु सर्वबद्धेषु  
-रक्ताभूरभिमानिनी ।  
-नीलेष्व् अयोग्यजीवेषु  
-नीला दुर्गाभिमानिनी ।।
+<details><summary>विश्वास-टिप्पनी</summary>
 
-अत्र दुर्गा-वर्णमात्रम् उच्यते।
+अयम् भ्रमः।  
+सुप्तोद्बोधनमात्रेण व्यक्ति-साम्यं न गम्यते।  
+न खलु दुर्गा एकानांशा वा भगवत्-पत्न्य् उच्यते।
+</details>
+
 
 Another identity is given in one astrological work (Brhat Parāshara Hora shastra) where Sri, Bhu and Nīlā are spoken of as the sthithi, Srishti and Laya shaktis of Bhagavan.
-
-The Madhvas on the other hand call this third shakti here called Nīlā as Durgā and identify her with the same Mahishasuramardini and Ekānamshā. 
-
-If you see Napinnai being specifically invoked by Andal and her friends in Thiruppavai for Marghazai vrata which corresponds to the Katyayani vrata of the Gopīs, and therein she is asked to awake Vishnu from sleep(iirc) fits the motiff of Nidra/Mahakali being asked by Brahmā to wake up Bhagavan who exists as Sleep in Him.
 
