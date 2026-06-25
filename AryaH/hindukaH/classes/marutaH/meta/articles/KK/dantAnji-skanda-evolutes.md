@@ -16,7 +16,7 @@ GaNapati is just "lord of the troop".
 "deva-senAnAm abhibhanjatInAM".. mantra to maruts reinforces the sena/army connection.  
 Skanda literally is devasenApati.
 
-The vaishNava ectype of the "lord of troops who's obstacle remover" is vishvaksena  
+The vaiShNava ectype of the "lord of troops who's obstacle remover" is vishvaksena  
 and accompanied by jayatsena (imo skanda equivalent).  
 His retinue include horse-headed and elephant-headed deities.
 
