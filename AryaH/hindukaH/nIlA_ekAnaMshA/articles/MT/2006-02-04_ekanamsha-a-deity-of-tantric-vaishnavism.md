@@ -15,7 +15,7 @@ The core pantheon of the pA\~ncharAtra texts is the chaturvyuha or the serial em
 
 However, the early texts suggest that there was another parallel system that appears to have largely passed out of subsequent vaiShNavism. That was the cult of the goddess ekAnamshA. Who is she ?
 
-> नमस्ते ऽस्तु एकानम्शायै  
+> नमस्ते ऽस्तु एकानंशायै  
 योगकन्यायै नमो ऽस्तुते \।   
 विष्णोः शरी-रजाम् निद्रां  
 विष्णोर् निर्देश-कारिणीं \।  

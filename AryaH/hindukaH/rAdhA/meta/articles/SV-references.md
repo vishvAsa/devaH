@@ -3,7 +3,9 @@ title = "SV references"
 +++
 <details><summary>विश्वास-टिप्पनी</summary>
 
-Consensus based on this is that rAdhA was an aMshAvatAra of shrI, not shrI herself. A jIva, different from nIlA/ nappiNNai. As per viShvaxena-saMhitA quoted by VD (but not extant), AveshAvatAra adoration is barred for mumuxu-s.
+Consensus based on this is that rAdhA was an aMshAvatAra of shrI, not shrI herself. A jIva, different from nIlA/ nappiNNai. 
+
+Rather a desparate attempt to make people say what you want, rather than honestly seeking out the truth.
 </details>
 
 

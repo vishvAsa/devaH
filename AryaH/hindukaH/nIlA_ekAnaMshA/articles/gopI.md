@@ -4,7 +4,7 @@ title = "गोपी"
 Source: [TW](https://x.com/shardula23/status/2064388650738049111)
 
 ## गोपी
-> Neea is Leela in Gaudiya theology not Radha.
+> Neela is Leela in Gaudiya theology not Radha.
 
 This Neela thing is as per Srivaishnavas based on their Southern recension of Harivamsha where a Gopi called Neela married Krishna. That is probably the source of Napinnai character in DP4000. 
 

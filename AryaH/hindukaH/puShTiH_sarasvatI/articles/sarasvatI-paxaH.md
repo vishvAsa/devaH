@@ -3,7 +3,7 @@ title = "सरस्वती-पक्षः"
 +++
 
 
-These are statements about Purushottamamurti lakshana and Vāsudevamurtilakshana respectively from Hayashirsha Pañcarātra. Here Saraswati and Pushti are equated.
+These are statements about Purushottamamurti lakshana and Vāsudevamurtilakshana respectively from Hayashirsha Pañcarātra. Here Sarasvatī and Pushti are equated.
 
 > श्री-पूष्टी चापि कर्तव्ये
 पद्मवीणा-करान्विते ।  
