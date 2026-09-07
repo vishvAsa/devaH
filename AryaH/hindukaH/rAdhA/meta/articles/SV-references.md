@@ -39,6 +39,18 @@ Consensus based on this is that rAdhA was an aMshAvatAra of shrI, not shrI herse
 
 2. **Gopala Vimshati of Manavala Mamunigal (authenticity disputed)**
 3. **Yatiraja Vijayam of Ghatikashatham Ammal**
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+> पद्मे त्वन्नयने स्मरामि सततं भावो भवत्कुन्तले  
+  नीले मुह्यति किं करोमि महितैः क्रीतोऽस्ति ते विभ्रमैः ।  
+  इत्य् उत्स्वप्न-वचो निशम्य सहसा निर्भर्त्सितो राधया  
+  कृष्णस् तत्-परम् एव तद् व्यपदिशन् क्रीडा-विटः पातु वः ॥ १ ॥  
+
+अत्रापि व्यक्तम् एव राधाया पद्मा-नीला-भेदः - अन्यथा कुतोऽस्याः कोपोऽभविष्यत् तस्मिन् तस्मिन् नाम्नि गृहीते?
+</details>
+
+
 4. **Raghavayadaviyam of Arasanipalai Venkatadhvari Kavi**
 5. **Prapannamrta Stotram of 31st Parakala Mutt Jeeyar**
 
@@ -101,7 +113,7 @@ Consensus based on this is that rAdhA was an aMshAvatAra of shrI, not shrI herse
 *(If you want to know what the exalted “tattva of radha” is, ghatikashatham ammal, and before that, it was shown in the mahakavya yadavabhyudayam of swami desikan.)*
 
 ### Others 
-**5. U. Ve. Sriman T. C. Soundararajan, vidwAn from ParakAla Matham, Program head-Kanchipuram (credits to Anik)**
+**5. U. Ve. Sriman T. C. Soundararajan, ~~vidwAn~~ from ParakAla Matham, Program head-Kanchipuram (credits to Anik)**
 
 * ***“Radha is Sri Devi”***
 
@@ -114,8 +126,40 @@ Consensus based on this is that rAdhA was an aMshAvatAra of shrI, not shrI herse
 * ***“Radha is Nappinnai”***
 * ~From his commentary of Gopāla Vimshati of Vedanta Desika
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+Contradicted by VD (and obv by APN too; and to the rAdhA=shrI agenda.)
+</details>
+
+
 **8. His Holiness Sri Śrī Kṛṣṇa Brahmatantra Swatantra Parakāla Swāmi (31st Pontiff of Parakāla Matham) (credits to Anik)**
 
 * ~14th Shloka of Śrī Prapannamṛta Stotram of Śrī Kṛṣṇa Brahmatantra Swatantra Parakāla Swāmi.
 
-**Ratnadīpikā an ancient and rare commentary on Yatirāja Vijaya Nāṭakam:**
+Based on the page snippet image in the document, here is the transcribed text:
+
+**14th Shloka of Śrī Prapannamṛta Stotram of Sri Kṛṣṇa Brahmatantra Swatantra Parakāla Swāmi:**
+
+> कान्ते भजे विलासान् कलित-व्रज-सुन्दरी-रुचिर-रासान्।
+> राधा-कटाक्ष-दासान् राका-सित-किरण-सस्मित-हासान्॥ १४॥
+> *(I) dote upon the astonishing gaits gaming with the lovely amorous sports with the bevy of damsels of the cow-pen, subservient to the side-glances of rādhA and smiling with the comrade of the white rays of the full moon.*
+
+---
+
+
+**Ratnadīpikā, an ancient commentary on Yatirāja Vijaya Nāṭakam:**
+
+> यतिराजविजयाख्या रत्नदीपिका।  
+> श्रीवेदान्तविलासस्य नाटकस्य यथामति ।  
+> प्रणम्य वरदं व्याख्या क्रियते रत्नदीपिका॥  
+> अनन्तार्यलसद्भाष्यं बहिस्माहिलसत्सरम्।  
+> विद्वंसः खलु वेदान्तविलासम् नोत्सहन्ति॥  
+> 
+>
+> अत्र राधया सह सुप्तम् कृष्णं, श्रीरुक्मिणी-सत्यभामादि-सहितम्।
+> इदमुच्यते— "पद्मे त" ।  
+अत्र "पद्मे" "नीले" "महि" इति च संबुद्धयः।  
+राधापक्षे, पद्मे इति नयने स्मरति, नीले इति।  
+कुन्तलविशेषणम्।  
+महिते - पूजिते।  
+अनेन भाष्यान्तराणि सूत्रविषयवाक्यानां योजनाभेदं युज्यते।
