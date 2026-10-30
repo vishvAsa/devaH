@@ -16,3 +16,7 @@ title = "+अधि-लक्ष्मि"
 
 ## वैखानसम्
 > Their very philosophy is called lakshmI vishiShTAdvaita. She is not independent of Vishnu nor is She a mere jIva. For them, when Ishvara takes form, He becomes lakshminArAyaNa. She is inseparable from Him & is personification of His shakti.
+
+## गैडीयम्
+> Many people may not know that the two Pārśvadevatās worshipped alongside Goddess Lakṣmī on Kojāgarī Pūrṇimā are Devarāja Indra and Yakṣarāja Kubera. I’ve worshipped them too, though only some Bengali Lakshmi idols depict them.  
+(Two flanking females) are generally referred to as sakhīs, but they are actually the yakṣiṇī attendants Vasudhā and Vasudhārā, consorts of the yakṣas Śaṅkhanidhi and Padmanidhi, respectively.  [TW](https://x.com/2Gaudadhipati/status/2114410061238054916)

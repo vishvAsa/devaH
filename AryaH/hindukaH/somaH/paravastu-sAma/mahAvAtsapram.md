@@ -3,7 +3,7 @@ title = "महावात्सप्रम्"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/somaH/mahAvAtsapram/">
+<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/trANDyam/paravastu-sAma/devaH/somaH/mahAvAtsapram/">
 <details open><summary><h1>महावात्सप्रम् ...{Loading}...</h1></summary>
 <div class="js_include" includetitle="true" newlevelforh1="3" unfilled="" url="../somaH-pavate-mahAvAtsapram/">
 <details open><summary><h4>सोमः पवते - महावात्सप्रम् ...{Loading}...</h4></summary>

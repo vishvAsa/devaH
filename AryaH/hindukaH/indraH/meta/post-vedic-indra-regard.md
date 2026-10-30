@@ -2,18 +2,15 @@
 title = "Post-vedic indra-regard"
 +++
 
+## Sacrifices
 shrauta (eg. soma sacrifices) and gRhya rites (eg. vaishvadeva, sthAlIpAka) routinely include offerings for indra.
 
 A thrill is felt by anyone of the thousands (and more in past times) who routinely chant the Rks or sing the sAmans dedicated to Indra (with even a little understanding).
 
+## Recent compositions
 kAvyakaNTha-gaNapati-muni even composed an indra-sahasra-nAma-stotra - [YT](https://www.youtube.com/watch?v=4MF0EMbF2XI).
 
-> It almost feels like a conspiracy was made to weaken the Aryans by villainizing Indra Dev in texts.
-
-This statement, though much fancied in some circles (eg. Nikhil's vedism), is vastly overblown. Indra is not villainized - just a bit humanized (ie. adduced human-like flaws); like other Gods in some myths (including viShNu and shiva). 
-
-People familiar with vedic lore would not think that Indra is not worthy of adoration (though they may think that no one is as worthy of adoration as their favorite deity).
-
+## Continued reverence
 As an example was just listening to this lecture on the vaishvamitras on an orthodox vadakalai shrIvaiShNava channel, which in the initial few minutes deals with an aindra mantra. ST_20221205_17.6.Veda_Vaibhavam_series-_Veda_Rishigal - mp3, [YT](https://www.youtube.com/watch?v=oZfCHczPoiU)  
 
 Several local festivals celebrate Indra, like:
@@ -23,11 +20,26 @@ Several local festivals celebrate Indra, like:
 - indra puja (eg. madhubani), Jhijhian Dance of Bihar
 - Indra Vila of TN (currently rare)
 
+Also - 
+
+> Many people may not know that the two Pārśvadevatās worshipped alongside Goddess Lakṣmī on Kojāgarī Pūrṇimā are Devarāja Indra and Yakṣarāja Kubera. I’ve worshipped them too, though only some Bengali Lakshmi idols depict them.
+
+
+### Provenance
+> Unfortunately that is decidedly not what the majority of Hindus believe
+
+Your sampling seems way off - low representation of classical/ traditional post-vedic hinduism. As an illustration, just look at how the questioner gets chastised here by purI shankarAchArya ([YT](https://www.youtube.com/watch?v=xK4Kvf4gi4I)). Your impressions seem to correspond to what that questioner was prattling, rather than what the AchArya (acknowledged by those present there to be the higher authority).
+
+## Deprecation extant
+### Indra's Vagina Myth
+
 > Human-like flaws such as being castrated and covered in a thousand female genitalia 🥰
 
-Frankly, I'd never even heard of it (esp the latter) before you brought it up. It wouldn't surprise me at all if that were the same for those like the veda-lecturer linked above. Even so, for people like us - it would not change one's devotion to Indra in the slightest (that comes from the veda themselves) - it would just mean that the myths are to be taken less literally (as is the case of the vedic tale of viShNu being beheaded). sahasrAxa (thousand-eyed) is well known. The thousand vagina tale only explains how the thousand eyes came about. The climax/ conclusion is what people recall.
+Frankly, I'd never even heard of it (esp the latter) before you brought it up. It wouldn't surprise me at all if that were the same for those like the veda-lecturer linked above. Even so, for people like us - it would not change one's devotion to Indra in the slightest (that comes from the veda themselves) - it would just mean that the myths are to be taken less literally (as is the case of the vedic tale of viShNu being beheaded). 
 
-So, If you asked random people "which God has thousand eyes?" vs "which God has thousand vaginas?" you would find a huge difference. This is an experiment which you can seriously conduct walking about among hindus wherever. 
+sahasrAxa (thousand-eyed) is well known. The thousand vagina tale only explains how the thousand eyes came about. The climax/ conclusion is what people recall.
+
+So, if you asked random people "which God has thousand eyes?" vs "which God has thousand vaginas?" you would find a huge difference. This is an experiment which you can seriously conduct walking about among hindus wherever. 
 
 As an alternative, one may check to see how many classical deptictions of Indra you find with (figuratively) 1k vagina-s vs 1k-eyes or thunderbolt etc.. That imbalance suffices to prove the point as to how he was viewed, all said and done, by purANicists
 
@@ -90,12 +102,15 @@ Regarding taking myths "literally" and theology - it is simple. Indra is a great
 
 The vRtra-hatyA is held in great awe (eg. referred to in the audio - [YT](https://www.youtube.com/watch?v=oZfCHczPoiU)).
 
-> Unfortunately that is decidedly not what the majority of Hindus believe
-
-Your sampling seems way off - low representation of classical/ traditional post-vedic hinduism. As an illustration, just look at how the questioner gets chastised here by purI shankarAchArya ([YT](https://www.youtube.com/watch?v=xK4Kvf4gi4I)). Your impressions seem to correspond to what that questioner was prattling, rather than what the AchArya (acknowledged by those present there to be the higher authority).
-
-
+### Overriding vedas?
 > When the Purana-s make statements like "Vedic rites are inapplicable in the Kali age" &c. &c. ... there's no way for an honest person to "interpret it in such a way that it does not oppose what the Veda instructs and enjoins."
 
 And yet, we have solid, popular traditions, which claim to follow veda-s, purANa-s (plus even Agama-s) and emphasize the performance of vedic rites in this very age. To say that they are "dishonest" would take some piece of work - which actually examines and finds holes/ hypocracy in their methodology (which would be something).
+
+### Conspiracy?
+> It almost feels like a conspiracy was made to weaken the Aryans by villainizing Indra Dev in texts.
+
+This statement, though much fancied in some circles (eg. Nikhil's vedism), is vastly overblown. Indra is not villainized - just a bit humanized (ie. adduced human-like flaws); like other Gods in some myths (including viShNu and shiva).
+
+People familiar with vedic lore would not think that Indra is not worthy of adoration (though they may think that no one is as worthy of adoration as their favorite deity).
 
