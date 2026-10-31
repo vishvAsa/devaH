@@ -3,7 +3,7 @@ title = "आक्रन्दय"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/trANDyam/paravastu-sAma/devaH/indraH/Akrandaya/">
+<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/tANDyam/paravastu-sAma/devaH/indraH/Akrandaya/">
 <details open><summary><h1>आक्रन्दय ...{Loading}...</h1></summary>
 
 ## ऋक्

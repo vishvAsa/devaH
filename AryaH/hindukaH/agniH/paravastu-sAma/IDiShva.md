@@ -3,7 +3,7 @@ title = "ईळिष्व जातवेदसम्"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/trANDyam/paravastu-sAma/devaH/agniH/IDiShva/">
+<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/tANDyam/paravastu-sAma/devaH/agniH/IDiShva/">
 <details open><summary><h1>ईळिष्व जातवेदसम् ...{Loading}...</h1></summary>
 
 ## ऋक्

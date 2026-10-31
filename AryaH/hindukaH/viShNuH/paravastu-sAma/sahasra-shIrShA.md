@@ -5,7 +5,7 @@ status = "to_memorize"
 practice_weight = 0
 
 +++
-<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/trANDyam/paravastu-sAma/devaH/viShNuH/sahasra-shIrShA/">
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/tANDyam/paravastu-sAma/devaH/viShNuH/sahasra-shIrShA/">
 <details open><summary><h1>सहस्रशीर्षा ...{Loading}...</h1></summary>
 
 ## ऋक्

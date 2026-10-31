@@ -3,7 +3,7 @@ title = "पिब सोमम्"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/trANDyam/paravastu-sAma/devaH/indraH/piba-somam/">
+<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/tANDyam/paravastu-sAma/devaH/indraH/piba-somam/">
 <details open><summary><h1>पिब सोमम् ...{Loading}...</h1></summary>
 
 ## ऋक्

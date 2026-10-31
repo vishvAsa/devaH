@@ -4,7 +4,7 @@ unicode_script = "devanagari"
 practice_weight = 0
 
 +++
-<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/trANDyam/paravastu-sAma/devaH/indraH/brahmANa-indram/">
+<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/tANDyam/paravastu-sAma/devaH/indraH/brahmANa-indram/">
 <details open><summary><h1>ब्रह्माण इन्द्रम् ...{Loading}...</h1></summary>
 
 ## ऋक्

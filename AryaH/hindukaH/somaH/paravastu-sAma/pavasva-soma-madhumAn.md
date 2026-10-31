@@ -4,7 +4,7 @@ unicode_script = "devanagari"
 practice_weight = 0
 
 +++
-<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/trANDyam/paravastu-sAma/devaH/somaH/pavasva-soma-madhumAn/">
+<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/tANDyam/paravastu-sAma/devaH/somaH/pavasva-soma-madhumAn/">
 <details open><summary><h1>पवस्व सोम मधुमान् ...{Loading}...</h1></summary>
 
 ## ऋक्

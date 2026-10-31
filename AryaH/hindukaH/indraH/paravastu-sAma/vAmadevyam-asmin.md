@@ -4,7 +4,7 @@ unicode_script = "devanagari"
 practice_weight = 0
 
 +++
-<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/trANDyam/paravastu-sAma/devaH/indraH/vAmadevyam-asmin/">
+<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/tANDyam/paravastu-sAma/devaH/indraH/vAmadevyam-asmin/">
 <details open><summary><h1>वामदेव्यम् - अस्मिन् ...{Loading}...</h1></summary>
 
 ## ऋक्

@@ -4,7 +4,7 @@ unicode_script = "devanagari"
 practice_weight = 0
 
 +++
-<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/trANDyam/paravastu-sAma/devaH/agniH/mUrdhAnam-divaH-Ajyadoham/">
+<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/tANDyam/paravastu-sAma/devaH/agniH/mUrdhAnam-divaH-Ajyadoham/">
 <details open><summary><h1>मूर्धानं दिवः - आज्यदोहम् ...{Loading}...</h1></summary>
 
 ## ऋक्
