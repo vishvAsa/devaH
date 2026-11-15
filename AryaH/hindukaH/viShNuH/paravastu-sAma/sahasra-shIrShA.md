@@ -3,19 +3,18 @@ title = "सहस्रशीर्षा"
 unicode_script = "devanagari"
 status = "to_memorize"
 practice_weight = 0
-
 +++
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_sAma/tANDyam/paravastu-sAma/devaH/viShNuH/sahasra-shIrShA/">
-<details open><summary><h1>सहस्रशीर्षा ...{Loading}...</h1></summary>
+
+<details open><summary><h1>सहस्रशीर्षा …{Loading}…</h1></summary>
 
 ## ऋक्
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/2_AraNyArchikaH/32_0617_sahasrashIrShAH_puruShaH.md">
-<details open><summary><h4>32_0617 सहस्रशीर्षाः पुरुषः ...{Loading}...</h4></summary>
 
 स꣣ह꣡स्र꣢शीर्षाः꣣ पु꣡रु꣢षः सहस्रा꣣क्षः꣢ स꣣ह꣡स्र꣢पात्। स꣣र्व꣡तो꣢ वृ꣣त्वा꣡त्य꣢तिष्ठद्द꣣शाङ्गुल꣢म् ॥ 32:0617 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/01_sahasrashIrShA_puruShaH.md">
-<details open><summary><h6>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h6></summary>
+<details open><summary><h6>विश्वास-शाकल-प्रस्तुतिः …{Loading}…</h6></summary>
 
 +++(बहु-देवता-सङ्ग्रहात्)+++ सह᳓स्र+++(~अनन्त)+++शीर्षा **पु᳓रुषः**।  
 सहस्राक्षः᳓ सह᳓स्रपात् ।  
@@ -25,15 +24,14 @@ practice_weight = 0
 
 </details>
 </div>
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/2_AraNyArchikaH/33_0618_tripAdUrdhva_udaitpuruShaH.md">
-<details open><summary><h4>33_0618 त्रिपादूर्ध्व उदैत्पुरुषः ...{Loading}...</h4></summary>
 
 त्रि꣣पा꣢दू꣣र्ध्व꣢꣫ उदै꣣त्पु꣡रु꣢षः꣣ पदो꣢ऽस्ये꣣हा꣡भ꣢व꣣त्पु꣡नः꣢। त꣢था꣣ वि꣢ष्व꣣꣬ङ् व्य꣢꣯क्रामदशनानश꣣ने꣢ अ꣣भि꣢ ॥ 33:0618 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/04_tripAdUrdhva_udaitpuruShaH.md">
-<details open><summary><h6>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h6></summary>
+<details open><summary><h6>विश्वास-शाकल-प्रस्तुतिः …{Loading}…</h6></summary>
 
 +++(सो ऽयं)+++ **त्रिपा᳓द्**+++(→त्रिविक्रम-सूचना)+++ ऊर्ध्व᳓ **उ᳓दैत्** पु᳓रुषः +++(शिष्टस्यापेक्षया)+++।  
 +++(पूर्वोक्त-)+++**पा᳓दो ऽस्येहा᳓ऽऽभवात्** पु᳓नः +++(पुनःपुनः)+++ ।  
@@ -42,49 +40,43 @@ practice_weight = 0
 
 </details>
 </div>
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/2_AraNyArchikaH/34_0619_puruSha_evedam.md">
-<details open><summary><h4>34_0619 पुरुष एवेदम् ...{Loading}...</h4></summary>
 
 पु꣡रु꣢ष ए꣣वे꣢꣫दꣳ सर्वं꣣ य꣢द्भू꣣तं꣢꣫ यच्च꣣ भा꣡व्य꣢म्। पा꣡दो꣢ऽस्य꣣ स꣡र्वा꣢ भू꣣ता꣡नि꣢ त्रि꣣पा꣡द꣢स्या꣣मृ꣡तं꣢ दि꣣वि꣢ ॥ 34:0619 ॥
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/02_puruSha_evedaM.md">
-<details open><summary><h6>०२ पुरुष एवेदं ...{Loading}...</h6></summary>
 
 +++(स्व-शरीरैकदेशेन)+++ **पु᳓रुष** एवे᳓दँ᳓ **स᳓र्वम्** ।  
 य᳓द् भूतं᳓ य᳓च् च भ᳓व्यम्।   
-उत᳓+++(→तथा देवात्मभिः)+++ +अ᳓मृतत्व᳓स्ये᳓शानः +++(परमे व्योम्नि)+++ ।  
+उत᳓+++(→तथा देवात्मभिः)+++ +अमृतत्व᳓स्ये᳓शानः +++(परमे व्योम्नि)+++ ।  
 य᳓द्+++(→यस्माद्)+++ +++(ब्रह्माण्डरूपेण)+++ अ᳓न्नेन+++(=अशितेन)+++ +**अतिरो᳓हति** । ३
 
-</details>
 </div>
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/2_AraNyArchikaH/35_0620_tAvAnasya_mahimA.md">
-<details open><summary><h4>35_0620 तावानस्य महिमा ...{Loading}...</h4></summary>
 
 ता꣡वा꣢नस्य महि꣣मा꣢꣫ ततो꣣ ज्या꣡या꣢ꣳश्च꣣ पू꣡रु꣢षः। उ꣣ता꣡मृ꣢त꣣त्व꣡स्येशा꣢꣯नो꣣ य꣡दन्ने꣢꣯नाति꣣रो꣡ह꣢ति ॥ 35:0620 ॥
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/03_etAvAnasya_mahimAto.md">
-<details open><summary><h6>०३ एतावानस्य महिमातो ...{Loading}...</h6></summary>
 
 एता᳓वान् +++(ब्रह्माण्डम् इति)+++ अस्य महिमा᳓ ।  
 अ᳓तो+++(→ततोऽपि)+++ ज्या᳓याँश् च पू᳓रुषः ।   
 +++(कथम् इति चेत्-)+++  
 **पा᳓दोऽस्य वि᳓श्वा भूता᳓नि** ।  
 +++(अवशिष्टस्)+++ **त्रिपा᳓द्** +++(अंशः पर-देवतापूर्णः)+++ **अस्यामृ᳓तं** +++(=अविनाशी)+++ दिवि᳓+++(=परमे व्योम्नि)+++ । 
-</details>
+
 </div>
-</details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/2_AraNyArchikaH/36_0621_tato_virADajAyata.md">
-<details open><summary><h4>36_0621 ततो विराडजायत ...{Loading}...</h4></summary>
 
 त꣡तो꣢ वि꣣रा꣡ड꣢जायत वि꣣रा꣢जो꣣ अ꣢धि꣣ पू꣡रु꣢षः। स꣢ जा꣣तो꣡ अत्य꣢꣯रिच्यत प꣣श्चा꣢꣫द्भूमि꣣म꣡थो꣢ पु꣣रः꣢ ॥ 36:0621 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/05_tasmAdvirALajAyata_virAjo.md">
-<details open><summary><h6>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h6></summary>
+<details open><summary><h6>विश्वास-शाकल-प्रस्तुतिः …{Loading}…</h6></summary>
 
 +++(पादांशात्)+++ त᳓स्माद् **विरा᳓ड्**+++(→पुरुष-मेध-ब्राह्मणे छन्दोऽपि)+++ +++(ब्रह्माण्ड-शरीरम्)+++ **अजायत** ।  
 +++(तस्माद्)+++ विरा᳓जो अ᳓धि पू᳓रुषः +++(ऋतात्मना /पुरुषमेध-कर्मरूपेण अजायत)+++ ।  
@@ -93,11 +85,11 @@ practice_weight = 0
 
 </details>
 </div>
-</details>
 </div>
 
 ## साम
 <div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/sahasra-shIrShA.mp3"></div>
+
 <div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/sahasra-shIrShA.mp3"></div>
 
 पुरुषव्रतं ।  
@@ -165,4 +157,5 @@ practice_weight = 0
 हा+++([])+++उ । हा+++([])+++उ । ह+++([])+++उवाअ ।  
 ई+++([])+++ई ॥
 </details>
+
 </div>
