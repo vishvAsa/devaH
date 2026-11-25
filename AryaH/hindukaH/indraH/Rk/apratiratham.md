@@ -16,8 +16,9 @@ unicode_script: devanagari
 चतुर्थकाण्डे षष्ठप्रपाठके चतुर्थोऽनुवाकः
 ###### 01 आशुः शिशानो - त्रिष्टुप्
 
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/01_AshuH_shishAno.md">
-<details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/01_AshuH_shishAno.md">
+
+<details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 
 आशुः᳓ शि᳓शानो+++(=तीक्ष्णो)+++ वृषभो᳓ न᳓ युध्मो᳓+++(=योधा)+++  
 घनाघनः᳓+++(=घातकः)+++ क्षो᳓भणश् चर्षणीना᳓म्+++(=पदातीनाम्)+++।  
@@ -25,16 +26,23 @@ unicode_script: devanagari
 शतँ᳓ से᳓ना **अजयत्** साक᳓म् इ᳓न्द्रः ॥
 
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/103/01_AshuH_shishAno.md">
-<details><summary><h8>मूलम् ...{Loading}...</h8></summary>
 
-आ॒शुः शिशा॑नो वृष॒भो न भी॒मो घ॑नाघ॒नः क्षोभ॑णश्चर्षणी॒नाम् ।  
-सं॒क्रन्द॑नोऽनिमि॒ष ए॑कवी॒रः श॒तं सेना॑ अजयत्सा॒कमिन्द्रः॑ ॥
-</details>
 </div>
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/01_AshuH_shishAno.md">
-<details><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+Swift, like a bull sharpening his horns, the warrior  
+Fond of slaughter, disturber of the people,  
+Bellowing, unwinking, sole hero,  
+Indra at once conquered a hundred hosts.
+</details>
+</details>
+
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/01_AshuH_shishAno.md">
+
+<details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -315,12 +323,22 @@ Der schnelle, der gleich wildem Stier erregt ist, der starke Kämpfer, der die M
 पदार्थान्वयभाषाः -  (आशुः) शीघ्रकारी (शिशानः) तीक्ष्णः-प्रतापी (वृषभः-न भीमः) वृषभ इव भयङ्करो बले (घनाघनः) अतिशयेन हन्ता शत्रूणाम् “अतिशयेन शत्रून् घातकः-हन्तेर्घत्वञ्चेति वार्तिकेनाचि प्रत्यये घत्वमभ्यासस्याडागमश्च” [यजु० १७।३३ दयानन्दः] (चर्षणीनां क्षोभणः) मनुष्याणां शत्रुजनानाम्, “चर्षणयः-मनुष्यनाम” [निघ० २।३] क्षोभयिता (सङ्क्रन्दनः) हाहाकारेति शब्दं कारयिता-आतङ्कवादी (अनिमिषः) निमेषरहितोऽनलसः श्रमशीलः (एकवीरः) एक एव वीरो न तत्समोऽन्यो वीरः (शतं सेनाः साकम्-अजयत्) शतमपि सेनाः सदैव जयति (इन्द्रः) राष्ट्रे यः स इन्द्रो राजा ॥१॥
 </details>
 </details>
+
 </div>
 
 ###### 02 सङ्क्रन्दनेनानिमिषेण जिष्णुना - त्रिष्टुप्
 
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/02_saMkrandanenAnimiSheNa_jiShNunA.md">
-<details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ द्वितीयामाह— संक्रन्दनेनेति।
+</details>
+</details>
+
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/02_saMkrandanenAnimiSheNa_jiShNunA.md">
+
+<details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 
 सङ्क्र᳓न्दनेनानिमिषे᳓ण जिष्णु᳓ना  
 युत्-कारे᳓ण+++(=युद्धकारिणा)+++ दुश्च्यवने᳓न धृष्णु᳓ना+++(=निर्भयेन)+++।  
@@ -328,16 +346,23 @@ Der schnelle, der gleich wildem Stier erregt ist, der starke Kämpfer, der die M
 यु᳓धो नर इ᳓षु-हस्तेन वृ᳓ष्णा+++(=कामवर्षकेन)+++ ॥
 
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/103/02_saMkrandanenAnimiSheNa_jiShNunA.md">
-<details><summary><h8>मूलम् ...{Loading}...</h8></summary>
 
-सं॒क्रन्द॑नेनानिमि॒षेण॑ जि॒ष्णुना॑ युत्का॒रेण॑ दुश्च्यव॒नेन॑ धृ॒ष्णुना॑ ।  
-तदिन्द्रे॑ण जयत॒ तत्स॑हध्वं॒ युधो॑ नर॒ इषु॑हस्तेन॒ वृष्णा॑ ॥
-</details>
 </div>
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/02_saMkrandanenAnimiSheNa_jiShNunA.md">
-<details><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+With the bellowing, unwinking, conquering,  
+Fighter, hard to overthrow, and daring Indra,  
+With Indra do ye conquer, do ye withstand  
+The foe, O heroes, with the strong one who holdeth the arrow in his hands.
+</details>
+</details>
+
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/02_saMkrandanenAnimiSheNa_jiShNunA.md">
+
+<details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -599,12 +624,14 @@ Mit ihm, dem Donnrer, der nicht schlummernd Sieg gewinnt, der Schlacht erregt vo
 पदार्थान्वयभाषाः -  (सङ्क्रन्दनेन) सङ्क्रन्दयित्रा (अनिमिषेण) अनलसेन (जिष्णुना) जयशीलेन (युत्कारेण) योधनं युत् “युध धातोः क्विप्भावे यो योधनं युधं करोति स युत्कारः कर्मण्यण्” [अष्टा० ३।२।१] (दुश्च्यवनेन) शत्रुर्भियो दुःखेन च्यवितव्यो न हि च्यावितव्य इत्यर्थस्तथाभूतेन (धृष्णुना) शत्रूणां धर्षयित्रा (इषुहस्तेन) इषवो हस्तयोर्यस्य तथाभूतेन शस्त्रपाणिना (वृष्णा) सङ्ग्रामे शस्त्रवर्षकेण बलवता वा (इन्द्रेण) राज्ञा सह (युधः-नरः) योद्धारो नराः ! (तत्-जयत) तद्युद्धं जयतं (तत्-सहध्वम्) तद् युद्धमभिभवत ॥२॥
 </details>
 </details>
+
 </div>
 
 ###### 03 स इषुहस्तैः - त्रिष्टुप्
 
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/03_sa_iShuhastaiH.md">
-<details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/03_sa_iShuhastaiH.md">
+
+<details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 
 स᳓ इ᳓षु-हस्तैः स᳓ निषङ्गि᳓भिर् +++(=खड्गिभिर्)+++ वशी᳓  
 **सँ᳓स्रष्टा**+++(=संमिश्रकः)+++ स᳓ यु᳓ध+++(=योद्धा)+++ इ᳓न्द्रो +++(पर)+++गणे᳓न।  
@@ -612,16 +639,22 @@ Mit ihm, dem Donnrer, der nicht schlummernd Sieg gewinnt, der Schlacht erregt vo
 ऊ᳙र्ध्व-धन्वा प्र᳓तिहिताभिर् **अ᳓स्ता**+++(=क्षेप्ता)+++ ॥
 
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/103/03_sa_iShuhastaiH.md">
-<details><summary><h8>मूलम् ...{Loading}...</h8></summary>
 
-स इषु॑हस्तैः॒ स नि॑ष॒ङ्गिभि॑र्व॒शी संस्र॑ष्टा॒ स युध॒ इन्द्रो॑ ग॒णेन॑ ।  
-सं॒सृ॒ष्ट॒जित्सो॑म॒पा बा॑हुश॒र्ध्यु१॒॑ग्रध॑न्वा॒ प्रति॑हिताभि॒रस्ता॑ ॥
-</details>
 </div>
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/03_sa_iShuhastaiH.md">
-<details><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+He is mighty with those who have arrows in their hands and quivers, Indra who joineth hosts with his band,  
+Conquering in combat, drinker of Soma, with many a band,  
+With bow uplifted, and shooter with well-drawn arrows.
+</details>
+</details>
+
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/03_sa_iShuhastaiH.md">
+
+<details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -911,12 +944,22 @@ Mit seiner Schar, die Pfeile trägt und Köcher, theilt seine Kämpfe der gewalt
 पदार्थान्वयभाषाः -  (सः-इन्द्रः) स इन्द्रो राजा भवति (इषुहस्तैः) इषवो हस्तेषु येषां तथाभूतैः शस्त्रपाणिभिः (सः-निषङ्गिभिः) प्रशस्तशस्त्रवद्भिः सैनिकैः सह “निषङ्गिणे प्रशस्ता निषङ्गा वाणासिभुशुण्डीशतघ्नीतोमरादयः शस्त्रसमूहा विद्यन्ते यस्य तस्मै” [यजु० १६।२० दयानन्दः] (वशी) बलस्य वशकर्त्ता (संस्रष्टा) युद्धे सङ्घर्षकर्त्ता (सः) स राजा (गणेन युधः) शत्रुसैनिकगणेन सह योद्धा (सोमपाः) सोमौषधिरसस्य पानकर्त्ता न तु सुरापाः (बाहुशर्धी) बाहुबलयुक्तः “शर्धो बलनाम” [निघ० २।९] (उग्रधन्वा) प्रहारकधनुष्कः (प्रतिहिताभिः-अस्ता) प्रेरिताभिरिषुभिः शत्रून् क्षेप्ता-विचालयिता (संसृष्टजित्) संसृष्टान्-सम्पर्के प्राप्तान् शत्रून् जयति तथा भूतोऽस्ति ॥३॥
 </details>
 </details>
+
 </div>
 
 ###### 04 बृहस्पते परि - त्रिष्टुप्
 
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/04_bRhaspate_pari.md">
-<details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ चतुर्थीमाह— बृहस्पते परीति।
+</details>
+</details>
+
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/04_bRhaspate_pari.md">
+
+<details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 
 बृ᳓हस्+++(=वाचस्)+++पते प᳓रि **दीया**+++(=द्रव)+++ र᳓थेन  
 रक्षो-हा᳓ ऽमि᳓त्राँ **अपबा᳓धमानः**।  
@@ -924,16 +967,23 @@ Mit seiner Schar, die Pfeile trägt und Köcher, theilt seine Kämpfe der gewalt
 **ज᳓यन्न्** अस्मा᳓कम् **एध्य् अविता᳓** र᳓थानाम् ॥
 
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/103/04_bRhaspate_pari.md">
-<details><summary><h8>मूलम् ...{Loading}...</h8></summary>
 
-बृह॑स्पते॒ परि॑ दीया॒ रथे॑न रक्षो॒हामित्राँ॑ अप॒बाध॑मानः ।  
-प्र॒भ॒ञ्जन्त्सेनाः॑ प्रमृ॒णो यु॒धा जय॑न्न॒स्माक॑मेध्यवि॒ता रथा॑नाम् ॥
-</details>
 </div>
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/04_bRhaspate_pari.md">
-<details><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+O Brhaspati, fly round with thy chariot [1],  
+Slaying the foe, driving away the enemy;  
+Defeating hosts, destroyer, victor in battle,  
+Be thou protector of our chariots.
+</details>
+</details>
+
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/04_bRhaspate_pari.md">
+
+<details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -1201,12 +1251,22 @@ Brihaspati, flieg' her mit deinem Wagen, Gespenster tödtend, jeden Feind verjag
 पदार्थान्वयभाषाः -  (बृहस्पते) हे बृहत्याः सेनायाः पालकः ! “बृहस्पतिः-बृहत्याः सेनायाः पालकः” [यजु० १७।४८ दयानन्दः] (रथेन परि दीय) रथेन परितो गच्छ “दीयति-गतिकर्मा” [निघ० २।१४] (रक्षोहा) राक्षसाणां दुष्टानां हन्ता (अमित्रान्-अपबाधमानः) शत्रून्-अपपीडयन् (प्रमृणः-सेनाः प्रभञ्जन्) प्रकर्षेण नाशकः सन् शत्रुसेनाः प्रकर्षेण मृद्नन् (युधा जयन्) युद्धेन युद्धं कृत्वा जयं कुर्वन् (अस्माकं रथानाम्-अविता-एधि) अस्माकं रथानां रक्षको भव ॥४॥
 </details>
 </details>
+
 </div>
 
 ###### 05 गोत्रभिदं गोविदम् - त्रिष्टुप्
 
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/06_gotrabhidaM_govidaM.md">
-<details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ पञ्चमीमाह— गोत्रभिदभिति।
+</details>
+</details>
+
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/06_gotrabhidaM_govidaM.md">
+
+<details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 
 गोत्र-भि᳓दं गो-वि᳓दं व᳓ज्र-बाहुं  
 ज᳓यन्तम् अ᳓ज्म+++(म्)+++ प्रमृण᳓न्तम् ओ᳓जसा।  
@@ -1214,16 +1274,22 @@ Brihaspati, flieg' her mit deinem Wagen, Gespenster tödtend, jeden Feind verjag
 इ᳓न्द्रँ सखायो᳓ ऽनु **सँ᳓ रभध्वम्** ॥
 
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/103/06_gotrabhidaM_govidaM.md">
-<details><summary><h8>मूलम् ...{Loading}...</h8></summary>
 
-गो॒त्र॒भिदं॑ गो॒विदं॒ वज्र॑बाहुं॒ जय॑न्त॒मज्म॑ प्रमृ॒णन्त॒मोज॑सा ।  
-इ॒मं स॑जाता॒ अनु॑ वीरयध्व॒मिन्द्रं॑ सखायो॒ अनु॒ सं र॑भध्वम् ॥
-</details>
 </div>
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/06_gotrabhidaM_govidaM.md">
-<details><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+The cleaver of the cowstalls, finder of the cows, with the thunderbolt on his arm, Victorious, crushing in might a host,  
+Be heroes, O my fellows, like him;  
+O comrades, follow in Indra's footsteps.
+</details>
+</details>
+
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/06_gotrabhidaM_govidaM.md">
+
+<details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -1511,12 +1577,22 @@ Der blitzbewehrt den Stall erschliesst, die Kühe erringt und Bahn sich bricht m
 पदार्थान्वयभाषाः -  (सजाताः) हे समानराष्ट्रियसमृद्धिकर्मसु प्रसिद्धाः ! (सखायः) परस्परसखिभूताः सैनिकाः ! यूयम् (इमम्) एतं (गोत्रभिदम्) शत्रूणां गोत्राणां वंशान् यो भिनत्ति तम् “गोत्रभिदं यः शत्रूणां गोत्राणि भिनत्ति तम्” [यजु० १७।३८ दयानन्दः] (वज्रबाहुम्) शस्त्रपाणिं (अज्म जयन्तम्) सङ्ग्रामं जयन्तम् “अज्म सङ्ग्रामनाम” [निघ० २।१७] (गोविदम्) राष्ट्रभूमेर्लब्धारं प्राप्तराज्यं (ओजसा) बलेन (प्रमृणन्तम्) प्रहारकर्त्तारं (इन्द्रम्-अनु) राजानमनुसृत्य (वीरयध्वम्) वीरकर्म कुरुत (अनु सं रभध्वम्) तदनुशासनमाचरन्तः शिविरे सज्जीभूतास्तिष्ठत ॥६॥
 </details>
 </details>
+
 </div>
 
 ###### 06 बलविज्ञाय स्थविरः - त्रिष्टुप्
 
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/05_balavijnAyaH_sthaviraH.md">
-<details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ षष्ठीमाह— बलविज्ञाय इति।
+</details>
+</details>
+
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/05_balavijnAyaH_sthaviraH.md">
+
+<details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 
 बलविज्ञायः᳓ स्थ᳓विरः प्र᳓वीरः  
 स᳓हस्वान् वाजी᳓ स᳓हमान उग्रः᳓।  
@@ -1524,16 +1600,23 @@ Der blitzbewehrt den Stall erschliesst, die Kühe erringt und Bahn sich bricht m
 जै᳓त्रम् इन्द्र र᳓थम् **आ᳓ तिष्ठ** गोवि᳓त् ॥
 
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/103/05_balavijnAyaH_sthaviraH.md">
-<details><summary><h8>मूलम् ...{Loading}...</h8></summary>
 
-ब॒ल॒वि॒ज्ञा॒यः स्थवि॑रः॒ प्रवी॑रः॒ सह॑स्वान्वा॒जी सह॑मान उ॒ग्रः ।  
-अ॒भिवी॑रो अ॒भिस॑त्वा सहो॒जा जैत्र॑मिन्द्र॒ रथ॒मा ति॑ष्ठ गो॒वित् ॥
-</details>
 </div>
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/05_balavijnAyaH_sthaviraH.md">
-<details><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+Conspicuous by might, strong, heroic,  
+Enduring, mighty, steadfast, dread,  
+Surpassing heroes and warriors born of strength,  
+Do thou, winning kine, mount, O Indra, thy victorious car.
+</details>
+</details>
+
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/05_balavijnAyaH_sthaviraH.md">
+
+<details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -1830,12 +1913,22 @@ Durch Stärke kenntlich, fest, der Helden kühnster, siegreich, gewaltig, stark 
 पदार्थान्वयभाषाः -  (बलविज्ञायः) सैन्यबलं कर्त्तुं जानाति सः “बलविज्ञायः-यो बलं बलयुक्तं सैन्यं कर्त्तुं जानाति सः” [यजु० १७।३७ दयानन्दः] (स्थविरः) राजधर्मे प्रवृद्धः “स्थविरः-वृद्धो विज्ञानराजधर्म-व्यवहारः” [यजु० १७।३७ दयानन्दः] (सहस्वान्) साहसवान् (वाजी) बलवान् (उग्रः सहमानः) प्रतापी शत्रून्-अभिभवन् सन् (प्रवीरः) प्रकृष्टवीरः (अभिवीरः) अभिगतो वीरैः स वीरवान् (अभिसत्वा) अभितः सत्वानो युद्धकुशलाः यस्य सः “अभिसत्त्वाः-अभितः सत्त्वानो युद्धविद्वांसः…यस्य सः” [यजु० १७।३७ दयानन्दः] (सहोजाः) बलेन प्रख्याताः (गोवित्) राष्ट्रभूमेर्लब्धा सन् (इन्द्र) राजन् ! (जैत्रं रथम्-आ तिष्ठ) जयसाधनं रथमाविराजस्व ॥५॥
 </details>
 </details>
+
 </div>
 
 ###### 07 अभि गोत्राणि - त्रिष्टुप्
 
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/07_abhi_gotrANi.md">
-<details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ सप्तमीमाह— अभिगोत्राणीति।
+</details>
+</details>
+
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/07_abhi_gotrANi.md">
+
+<details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 
 अभि᳓गोत्रा᳓णि स᳓हसा **गा᳓हमानो**  
 ऽदायो᳓ वीर᳓श् शत᳓-मन्युर् इ᳓न्द्रः।  
@@ -1843,16 +1936,23 @@ Durch Stärke kenntlich, fest, der Helden kühnster, siegreich, gewaltig, stark 
 ऽस्माकँ से᳓ना **अवतु** प्र᳓ युत्सु᳓ ॥
 
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/103/07_abhi_gotrANi.md">
-<details><summary><h8>मूलम् ...{Loading}...</h8></summary>
 
-अ॒भि गो॒त्राणि॒ सह॑सा॒ गाह॑मानोऽद॒यो वी॒रः श॒तम॑न्यु॒रिन्द्रः॑ ।  
-दु॒श्च्य॒व॒नः पृ॑तना॒षाळ॑यु॒ध्यो॒३॒॑ऽस्माकं॒ सेना॑ अवतु॒ प्र यु॒त्सु ॥
-</details>
 </div>
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/07_abhi_gotrANi.md">
-<details><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+In might penetrating the cowstalls,  
+Impetuous [2], the hero, Indra, with wrath a hundredfold,  
+Hard to resist, enduring in battle, unovercomable,  
+May he aid our armies in the battles.
+</details>
+</details>
+
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/07_abhi_gotrANi.md">
+
+<details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -2114,12 +2214,14 @@ Der mit Gewalt sich in die Ställe eintaucht, Held Indra ohne Mitleid vielfach z
 पदार्थान्वयभाषाः -  (अदयः) शत्रूणां विषये दयारहितः (वीरः) पराक्रमी (शतमन्युः) बहुतेजस्वी “मन्युर्मन्यतेर्दीप्तिकर्मणः” [निरु० १०।२९] (इन्द्रः) शासकः सेनानीर्वा (सहसा) बलेन (गोत्राणि-अभि गाहमानः) शत्रोः सैन्यवर्गान् खल्वभिभूय विलोडयन् (दुश्च्यवनः) शत्रुणाऽसह्यः (पृतनाषाट्) सङ्ग्रामस्याभिभविता (अयुध्यः) अयोध्यः (पृत्सु) युद्धेषु (अस्माकं सेनाःप्र-अवतु) अस्माकं सेनाः प्ररक्षतु ॥७॥
 </details>
 </details>
+
 </div>
 
 ###### 08 इन्द्र आसाम् - त्रिष्टुप्
 
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/08_indra_AsAM.md">
-<details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/08_indra_AsAM.md">
+
+<details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 
 इ᳓न्द्र आसां नेता᳓, बृ᳓हस्प᳓तिर्  
 द᳓क्षिणा, यज्ञः᳓ पुर᳓ **एतु** सो᳓मः।  
@@ -2127,16 +2229,23 @@ Der mit Gewalt sich in die Ställe eintaucht, Held Indra ohne Mitleid vielfach z
 ज᳓यन्तीनां मरु᳓तो **यन्त्व्** अ᳓ग्रे ॥
 
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/103/08_indra_AsAM.md">
-<details><summary><h8>मूलम् ...{Loading}...</h8></summary>
 
-इन्द्र॑ आसां ने॒ता बृह॒स्पति॒र्दक्षि॑णा य॒ज्ञः पु॒र ए॑तु॒ सोमः॑ ।  
-दे॒व॒से॒नाना॑मभिभञ्जती॒नां जय॑न्तीनां म॒रुतो॑ य॒न्त्वग्र॑म् ॥
-</details>
 </div>
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/08_indra_AsAM.md">
-<details><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+Indra (be) their leader, and let Brhaspati,  
+The sacrificial fee, the sacrifice and Soma go before;  
+Let the Maruts precede the hosts divine,  
+That overthrow and conquer.
+</details>
+</details>
+
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/08_indra_AsAM.md">
+
+<details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -2398,12 +2507,22 @@ Ihr Führer sei uns Indra und Brihaspati, vor dringe Opfer, Opferlohn und Soma, 
 पदार्थान्वयभाषाः -  (आसां देवसेनानाम्) एतासां विजिगीषुसेनानां (अभिभञ्जतीनां जयन्तीनाम्) शत्रुदलं भग्नं कुर्वन्तीनाम्-जयं प्राप्नुवन्तीनाम् (नेता) इन्द्रः-विद्युत्तुल्यो वीरो राजा (बृहस्पतिः) सर्वशास्त्रनिष्णातः सेनापतिः (दक्षिणा यज्ञः) दक्षिणभागे यज्ञो यस्य तथाभूतः परोपकारी (सोमः) शान्तस्वभावः सेनाप्रेरकश्च “सोमः सेनाप्रेरकः” [यजु० १७।४० दयानन्दः] तदधीनानाम्-सेनायां (मरुतः-अग्रं यन्तु) सैनिका अग्रं गच्छन्ति “लडर्थे लोट्” ॥८॥
 </details>
 </details>
+
 </div>
 
 ###### 09 इन्द्रस्य वृष्णो - त्रिष्टुप्
 
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/09_indrasya_vRShNo.md">
-<details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथाष्टमीमाह — इन्द्रस्य वृष्ण इति।
+</details>
+</details>
+
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/09_indrasya_vRShNo.md">
+
+<details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 
 इ᳓न्द्रस्य वृ᳓ष्णो, व᳓रुणस्य रा᳓ज्ञ,  
 आदित्या᳓नां मरु᳓ताँ श᳓र्ध उग्र᳓म्।  
@@ -2411,16 +2530,23 @@ Ihr Führer sei uns Indra und Brihaspati, vor dringe Opfer, Opferlohn und Soma, 
 घो᳓षो देवा᳓नां **ज᳓यताम्** उ᳓द्-अस्थात् ॥
 
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/103/09_indrasya_vRShNo.md">
-<details><summary><h8>मूलम् ...{Loading}...</h8></summary>
 
-इन्द्र॑स्य॒ वृष्णो॒ वरु॑णस्य॒ राज्ञ॑ आदि॒त्यानां॑ म॒रुतां॒ शर्ध॑ उ॒ग्रम् ।  
-म॒हाम॑नसां भुवनच्य॒वानां॒ घोषो॑ दे॒वानां॒ जय॑ता॒मुद॑स्थात् ॥
-</details>
 </div>
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/09_indrasya_vRShNo.md">
-<details><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+Of Indra, the strong, of Varuna, the king,  
+Of the Adityas, of the Maruts the mighty host--  
+The voice hath ascended of the gods  
+Great-hearted that shake the worlds as they conquer.
+</details>
+</details>
+
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/09_indrasya_vRShNo.md">
+
+<details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -2675,12 +2801,14 @@ Des Königs Varuna, des Helden Indra, der Maruts, der Aditja's Schar ist mächti
 पदार्थान्वयभाषाः -  (इन्द्रस्य) ऐश्वर्यवतः (वृष्णः) शस्त्रवर्षकस्य (वरुणस्य) स्वसेनायाः वरयितू रक्षकस्य (राज्ञः) शासकस्य (आदित्यानाम्) अखण्डित-ब्रह्मचर्यवताम् (महामनसाम्) उत्साहवतां (भुवनच्यवानाम्) भूतमात्रस्य-प्राणिमात्रस्य च्यावयितॄणां (देवानाम्) विजिगीषूणां (जयताम्) जयं कुर्वतां (मरुताम्) सैनिकानां (उग्रं शर्धः) तीक्ष्णं बलं (घोषः) जयघोषश्च (उत् अस्थात्) ऊर्ध्वं तिष्ठतु उपरि गच्छतु ॥९॥
 </details>
 </details>
+
 </div>
 
 ###### 10 अस्माकमिन्द्रः समृतेषु - त्रिष्टुप्
 
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/11_asmAkamindraH_samRteShu.md">
-<details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/11_asmAkamindraH_samRteShu.md">
+
+<details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 
 अस्का᳓कम् इ᳓न्द्रः स᳓म्-ऋतेषु ध्वजे᳓ष्व्  
 अस्मा᳓कं या᳓ इ᳓षवस् ता᳓ **जयन्तु**।  
@@ -2688,16 +2816,23 @@ Des Königs Varuna, des Helden Indra, der Maruts, der Aditja's Schar ist mächti
 अस्मा᳓न् उ देवा **अवता** ह᳓वेषु ॥
 
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/103/11_asmAkamindraH_samRteShu.md">
-<details><summary><h8>मूलम् ...{Loading}...</h8></summary>
 
-अ॒स्माक॒मिन्द्रः॒ समृ॑तेषु ध्व॒जेष्व॒स्माकं॒ या इष॑व॒स्ता ज॑यन्तु ।  
-अ॒स्माकं॑ वी॒रा उत्त॑रे भवन्त्व॒स्माँ उ॑ देवा अवता॒ हवे॑षु ॥
-</details>
 </div>
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/11_asmAkamindraH_samRteShu.md">
-<details><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+Ours (be) Indra, when the standards meet;  
+Ours be the arrows that conquer [3];  
+Ours be the heroes who are victors,  
+And us do ye aid, O gods, at our invocations.
+</details>
+</details>
+
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/11_asmAkamindraH_samRteShu.md">
+
+<details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -2982,12 +3117,22 @@ Es schirme unsre Kämpf' und Fahnen Indra; es seien unsre Pfeile, die da siegen,
 पदार्थान्वयभाषाः -  (अस्माकम्-इन्द्रः) अस्माकं राजा (समृतेषु ध्वजेषु) सङ्गतेषु भिन्नभिन्नराष्ट्रध्वजेषु स्वकीयं ध्वजमन्नयतु (अस्माकम्) अस्माकं खलु (याः इषवः) यानि वाणशस्त्राणि (ताः-जयन्तु) तानि जयं प्राप्नुवन्तु (अस्माकं वीराः) अस्माकं वीरसैनिका योद्धारः (उत्तरे भवन्तु) भिन्नभिन्नदेशस्थवीरसैनिकानामुपरि भवन्तु (अस्माकम्-उ-देवाः) अस्माकमेवाग्निविद्युत्प्रभृतयोऽस्त्रप्रयुक्तास्तद्विद्यावेत्तारो विद्वांसश्च (हवेषु) सङ्ग्रामेषु (अवत) रक्षत ॥११॥
 </details>
 </details>
+
 </div>
 
 ###### 11 उद्धर्षय मघवन्नायुधान्युत्सत्वनाम् - त्रिष्टुप्
 
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/10_uddharShaya_maghavannAyudhAnyutsatvanAM.md">
-<details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ तत्रैव विकल्पिताः पञ्चर्च उच्यन्ते— तत्र प्रथमामाह—  २१८२ उद्धर्षयेति।
+</details>
+</details>
+
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/10_uddharShaya_maghavannAyudhAnyutsatvanAM.md">
+
+<details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 
 **उ᳓द्+धर्षय** मघवन्न् आ᳓युधान्य्  
 उ᳓त् स᳓त्वनां+++(=योद्धॄणां)+++ मामका᳓नां म᳓हाँसि।  
@@ -2995,16 +3140,24 @@ Es schirme unsre Kämpf' und Fahnen Indra; es seien unsre Pfeile, die da siegen,
 उ᳓द् र᳓थानां **ज᳓यताम् एतु घो᳓षः** ॥
 
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/103/10_uddharShaya_maghavannAyudhAnyutsatvanAM.md">
-<details><summary><h8>मूलम् ...{Loading}...</h8></summary>
 
-उद्ध॑र्षय मघव॒न्नायु॑धा॒न्युत्सत्व॑नां माम॒कानां॒ मनां॑सि ।  
-उद्वृ॑त्रहन्वा॒जिनां॒ वाजि॑ना॒न्युद्रथा॑नां॒ जय॑तां यन्तु॒ घोषाः॑ ॥
-</details>
 </div>
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/10_uddharShaya_maghavannAyudhAnyutsatvanAM.md">
-<details><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+Exalt our weapons, O bounteous one,  
+Exalt the might of my warriors;  
+Exalt the strength of the steed, O slayer of Vrtra,
+
+Let the sound of the conquering chariots arise.
+</details>
+</details>
+
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/10_uddharShaya_maghavannAyudhAnyutsatvanAM.md">
+
+<details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -3275,60 +3428,96 @@ Empor, o mächt'ger, richte unsre Waffen, empor die Geister meiner tapfern Helde
 पदार्थान्वयभाषाः -  (मघवन्) हे सम्पत्तिसम्पन्न राजन् ! (आयुधानि-उत्-हर्षय) शस्त्राणि खलूद्दीपय (मामकानां-सत्वनां मनांसि-उत्) मदीयानां बलवतां सैनिकानां मनांसि खलूद्वर्धय-उत्साहय (वृत्रहन्) हे पापशत्रुनाशक राजन् ! (वाजिनां-वाजिनानि-उत्) अश्वानामश्ववतां वा वीर्याणि “इन्द्रियं वै वीर्यं वाजिनम्” [ऐत० १।१३] उद्वर्धय (जयतां रथानां घोषाः) जयं कुर्वतां रथानां घोषाः (उत्-यन्तु) उपरि गच्छन्तु ॥१०॥
 </details>
 </details>
+
 </div>
 
 ###### 12 उप प्रेत
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/6/04_agni-praNayanAngam_apratiratha-sUktam/201_upa_preta.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/6/04_agni-praNayanAngam_apratiratha-sUktam/201_upa_preta.md">
 
-**उप॒ प्रेत॒ जय॑ता** नरस्  
-स्थि॒रा व॑स् **सन्तु** बा॒हवः॑ ।  
-इन्द्रो॑ व॒श् **शर्म॑ यच्छत्व्**  
-अनाधृ॒ष्या यथा **ऽस॑थ** ।
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+**उ᳓प प्रे᳓त ज᳓यता** नरस्  
+स्थिरा᳓ वस् **सन्तु** बाह᳓वः ।  
+इ᳓न्द्रो वश् **श᳓र्म यच्छत्व्**  
+अनाधृष्या᳓ य᳓था᳓ **ऽसथ** ।
+
 </details>
+
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/6/04_agni-praNayanAngam_apratiratha-sUktam/201_upa_preta.md">
-<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/6/04_agni-praNayanAngam_apratiratha-sUktam/201_upa_preta.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+Go ye forward, O heroes; conquer;  
+Be your arms strong;  
+May Indra accord you protection  
+That ye may be unassailable.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उप॒ प्रेत॒ जय॑ता नरस्स्थि॒रा व॑स्सन्तु बा॒हवः॑ ।  
 इन्द्रो॑ व॒श्शर्म॑ यच्छत्वनाधृ॒ष्या यथाऽस॑थ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+उप॑ । प्रेति॑ । इ॒त॒ । जय॑त । न॒रः॒ । स्थि॒राः । वः॒ । स॒न्तु॒ । बा॒हवः॑ ॥ इन्द्रः॑ । वः॒ । शर्म॑ । य॒च्छ॒तु॒ । अ॒ना॒धृ॒ष्या इत्य॑ना-धृ॒ष्याः । यथा॑ । अस॑थ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
-अथ द्वितीयामाह– उप प्नेतेति।  
 हे नरोऽस्मदीयाः पुरुषा उपप्रेत परसैन्यस्य समीपे प्रकर्षेण यच्छत।  
 ततो जयत विजयं प्राप्नुत।  
 वो युष्माकं बाहवः स्वकीयायुवैः प्रहरणेषु स्थिराः सन्तु।  
 यथा यूयमनाधृष्या असथ केनाप्यतिरस्कार्या भवय तथाऽयमिन्द्रो वो युष्माकं शर्म यच्छतु सुखं ददातु।
 </details>
 </details>
+
 </div>
 
 ###### 13 अव॑सृष्टा॒ परा॑ पत॒
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/6/04_agni-praNayanAngam_apratiratha-sUktam/204_avasRShTA_parA.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/6/04_agni-praNayanAngam_apratiratha-sUktam/204_avasRShTA_parA.md">
 
-**अव॑सृष्टा॒ परा॑ पत॒**  
-शर॑व्ये॒ ब्रह्म॑-सँशिता ।  
-**गच्छा॒मित्रा॒न् प्र [19]  विश॒**  
-मैषा॒ङ् **कञ्च॒नोच्छि॑षः** ।
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+**अ᳓वसृष्टा प᳓रा पत**  
+श᳓रव्ये ब्र᳓ह्म-सँशिता ।  
+**ग᳓च्छामि᳓त्रान् प्र᳓ [19]  वि᳓श**  
+मै᳓षाङ् **क᳓ञ्चनो᳓च्छिषः** ।
+
 </details>
+
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/6/04_agni-praNayanAngam_apratiratha-sUktam/204_avasRShTA_parA.md">
-<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/6/04_agni-praNayanAngam_apratiratha-sUktam/204_avasRShTA_parA.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+Let loose, fly forward,  
+O arrow, expelled with holy power;  
+Go to our foes, and enter [4] them;  
+Not one of them do thou spare.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अव॑सृष्टा॒ परा॑ पत॒ शर॑व्ये॒ ब्रह्म॑सँशिता ।  
 गच्छा॒मित्रा॒न्प्र [19]  वि॒श॒ मैषा॒ङ्कञ्च॒नोच्छि॑षः ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अव॑सृ॒ष्टेत्यव॑-सृ॒ष्टा॒ । परेति॑ । प॒ते॒ । शर॑व्ये । ब्रह्म॑सँशि॒तेति॒ ब्रह्म॑-सँ॒शि॒ता॒ ॥ गच्छ॑ । अ॒मित्रान्॑ । प्रेति॑ । वि॒श॒ । मा । ए॒षा॒म् । कम् । च॒न ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
-अथ तृतीयामाह— अवसृष्टेति।  
 हिंसिका हेतिः शरव्या।  
 हे शरव्ये ग्रह्मणा संशिता तीक्ष्णीकृता त्वमवसृष्टाऽस्माभिर्मुक्ता सती षरापत सहसा परसैन्यै पतिता भव।  
 पतित्वा अमित्राञ्शत्रून्नच्छ प्राप्नुहि।  
@@ -3337,43 +3526,81 @@ Empor, o mächt'ger, richte unsre Waffen, empor die Geister meiner tapfern Helde
 सर्वानपि जहीत्यर्थः।
 </details>
 </details>
+
 </div>
 
 ###### 14 मर्मा॑णि ते॒
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/6/04_agni-praNayanAngam_apratiratha-sUktam/207_marmANi_te.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/6/04_agni-praNayanAngam_apratiratha-sUktam/207_marmANi_te.md">
 
-मर्मा॑णि ते॒ वर्म॑भिश् **छादयामि॒**  
-सोम॑स् त्वा॒ राजा॒ ऽमृते॑ना॒भि **व॑स्ताम्** ।  
-उ॒रोर् वरी॑यो॒ वरि॑वस्+++(=धनम्)+++ ते **अस्तु॒**  
-**जय॑न्त॒न्** त्वाम् **अनु॑ मदन्तु** दे॒वाः ।
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+म᳓र्माणि ते व᳓र्मभिश् **छादयामि**  
+सो᳓मस् त्वा रा᳓जा ऽमृ᳓तेनाभि᳓ **वस्ताम्** ।  
+उरो᳓र् व᳓रीयो व᳓रिवस्+++(=धनम्)+++ ते **अस्तु**  
+**ज᳓यन्तन्** त्वा᳓म् **अ᳓नु मदन्तु** देवाः᳓ ।
+
 </details>
+
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/6/04_agni-praNayanAngam_apratiratha-sUktam/207_marmANi_te.md">
-<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/6/04_agni-praNayanAngam_apratiratha-sUktam/207_marmANi_te.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Keith</summary>
+
+Thy vital parts I clothe with armour;  
+May Soma, the king, cover thee with immortality,  
+Space broader than broad be thine;  
+May the gods take delight in thy victory.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मर्मा॑णि ते॒ वर्म॑भिश्छादयामि॒ सोम॑स्त्वा॒ राजा॒मृते॑ना॒भि व॑स्ताम् ।  
 उ॒रोर्वरी॑यो॒ वरि॑वस्ते अस्तु॒ जय॑न्त॒न्त्वामनु॑ मदन्तु दे॒वाः ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+मर्मा॑णि । ते॒ । वर्म॑भि॒रिति॒ वर्म॑-भिः॒ । छा॒द॒या॒मि॒ । सोमः॑ । त्वा॒ । राजा॑ । अ॒मृते॑न । अ॒भीति॑ । व॒स्ता॒म् ॥ उ॒रोः । वरी॑यः । वरि॑वः । ते॒ । अ॒स्तु॒ । जय॑न्तम् । त्वाम् । अन्विति॑ । म॒द॒न्तु॒ । दे॒वाः ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
-अथ चतुर्थीमाह— मर्माणि त इति।  
 हे यजमान ते तव मर्माणि वर्मभिः कवचैश्छादयामि।  
 सोमो रांजा त्वाममृतेन मरणनिवारकेण केनापि कवचविशेषेणाभिवस्ताममित आच्छादयतु।  
 ते तव **वरिवो** धनम् उरोर्वरीयोऽस्तु, अन्यदीयादधिकादप्यत्यन्तमधिकमस्तु।  
 जयन्तं विजयं प्राप्नुवन्तं त्वां देवा अनुप्रदात्वनूकूला भूत्वा हृष्यन्तु।
 </details>
 </details>
-</div>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत्र॑ बा॒णास् **स॒म्पत॑न्ति**  
-कुमा॒रा वि॑शि॒खा इ॑व +++(चपलाः)+++।  
-इन्द्रो॑ न॒स् तत्र॑ वृत्र॒हा  
-वि॑श्वा॒हा **शर्म॑ यच्छतु** ॥ [20]
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ पञ्जमीमाह— यत्र बाणाइति।
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+
+य᳓त्र बाणा᳓स् **सम्प᳓तन्ति**  
+कुमारा᳓ विशिखा᳓ इव +++(चपलाः)+++।  
+इ᳓न्द्रो नस् त᳓त्र वृत्रहा᳓  
+विश्वाहा᳓ **श᳓र्म यच्छतु** ॥ [20]
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+When the arrows fly together  
+Like boys unshorn,  
+Then may Indra, slayer of foes,  
+Accord us protection for ever.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3382,13 +3609,20 @@ Empor, o mächt'ger, richte unsre Waffen, empor die Geister meiner tapfern Helde
 इन्द्रो॑ न॒स्तत्र॑ वृत्र॒हा वि॑श्वा॒हा शर्म॑ यच्छतु ॥ [20]
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+यत्र॑ । बा॒णाः । स॒म्पत॒न्तीति॑ सम्-पत॑न्ति । कु॒मा॒राः । वि॒शि॒खा इति॑ वि-शि॒खाः । इ॒व॒ ॥ इन्द्रः॑ । नः॒ । तत्र॑ । वृ॒त्र॒हेति॑ वृत्र-हा । वि॒श्वा॒हेति॑ विश्व-हा । शर्म॑ । य॒च्छ॒तु॒ ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
-अथ पञ्जमीमाह— यत्र बाणाइति।  
 यत्र यस्मिन्युद्धे बाणाः परैमुक्ताः संपतन्तीतश्चेतश्च संभूय पतन्ति।  
 तत्र दृष्टान्तः कूमारा विशिखा इव, [ यथा ] मुण्डित शिरस्का विशीर्णकेशा वाऽत्यन्तं वालाश्चपलाः सन्न इतश्चेतश्च गच्छन्ति तद्वत्।  
 तत्र युद्धेऽयमिन्द्रो विश्वाहा परकीयसर्वप्राणिघाती वृत्रहा विशेषतो वैरिघाती संन्नोऽस्मभ्यं शर्म यच्छतु सुखं ददातु ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -3434,13 +3668,17 @@ Empor, o mächt'ger, richte unsre Waffen, empor die Geister meiner tapfern Helde
 ऊर्ध्वग्रहणवाचिनोद्ग्राभशब्देनोद्गच्छन्निग्राभशब्देनाधो गच्छन्नसावादित्यो लक्ष्यते।  
 अतस्तदुभयप्रतिपादकेन मन्त्रेणाऽऽत्मानमुद्गृह्णाति उत्कर्षं प्रापयति।  
 स्वभ्रातृघ्यं निगृह्णाति निग्रहं प्रापयति।  
+</details>
+</details>
+
+<details><summary>विनियोगसङ्ग्रहः</summary>
+
 अत्र विनियोगसंग्रहः—  
 आशुरित्यप्रतिरथं होताऽन्वाह दशर्चकम्।  
 उद्धर्षति विकल्पार्था मन्त्राः पञ्चदशेरिताः॥  
 इति ।  
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयसंहिताभाष्ये चतुर्थकाण्डे षष्ठप्रपाठके चतुर्थोऽनुवाकः ॥  
 ४ ॥  
-
 </details>
 </details>
 </div> 
