@@ -7,10 +7,10 @@ unicode_script: devanagari
 ---
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/9_08-16_nAsadIyam">
 <details open><summary><h5>९ ०८-१६ नासदीयम् ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarva-prastutiH/10/129_nAsadIyam/">
-<details open><summary><h7>१२९ ...{Loading}...</h7></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarva-prastutiH/10/129_nAsadIyam/">
+
 <div class="js_include" newlevelforh1="2" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/_index.md">
-<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>सायण-भाष्यम्</summary>
 
 एकादशेऽनुवाके त्रयोविंशतिसंख्याकानि सूक्तानि। तत्र ‘नासदासीत्’ इति सप्तर्चं प्रथम सूक्तं त्रैष्टुभम्। परमेष्ठी नाम प्रजापतिर्ऋषिः। वियदादिभावानां सृष्टिस्थितिप्रलयादीनामत्र प्रतिपाद्यत्वात् तेषां कर्ता परमात्मा देवता। तथा चानुक्रान्तं- ‘नासत्सप्त प्रजापतिः, परमेष्ठी भाववृत्तं तु’ इति। गतो विनियोगः॥
@@ -25,33 +25,43 @@ Prajāpati Parameṣṭhin
 This is one of the most famous hymns of the R̥gveda, and one of the most signifi cant for later Indian cosmogonies. Because it is elusive and suggestive rather than  directly narrative, it has given rise to a wide variety of interpretations. The interpre tation we offer here follows the more extensive discussion in Brereton (1999), which  also refers to earlier literature and alternate interpretations.  
 If this is a cosmogonic hymn, it is certainly a strange one, because the last verse  does not come to a conclusion but ends with a question. This incompleteness is  formally marked by both metrical and syntactic irregularities. The meter of verse  7b is two syllables short, leaving the its hearers to anticipate two beats that are not  there, and the syntax of 7d is incomplete since the poem ends with a relative clause  without a main clause. A close look at the rest of the hymn explains the reason for  these poetic strategies.  
 In verse 1 there is a progression from negations—what existed was neither exist ing nor nonexisting and neither space nor heaven existed—to questions (1c) to  possibilities (1d). Verse 2 also begins with negation, here the negation of death,  deathlessness, and the signs of night and day. The only narrative progress is the  greater specificity in verse 2 about what is negated: there are no mortals or immor tals, there is no moon or sun. But whereas 1cd continued with questions and pos sibilities, 2cd provides an answer to the question of what existed: there existed “that  One,” which “breathed without wind.” In 1c the poet asked what “stirred,” or more  literally what “moved back and forth,” and in 2c the implicit answer is that the  “breathing” of the One moves back and forth. If 2c answers the question of 1c and  indeed if verse 2 defines what verse 1 suggests, then “that One” in verse 2 is the pre viously undefined thing that was neither existent nor nonexistent in verse 1.  
-Verse 3 sharpens the sense that nothing is happening, nothing material at least. It  apparently starts over once again: 3a ends “in the beginning” (ágre) just as 1a ends  
+Verse 3 sharpens the sense that nothing is happening, nothing material at least. It  apparently starts over once again: 3a ends “in the beginning” (ágre) just as 1a ends  
 
-“at that time” (tadā́nīm) and 2a “then” (tárhi). But where verses 1 and 2 asked ques tions or only hinted at answers, 3a asserts that there was something, namely “dark ness” covered by darkness, and 3c describes a “thing coming into being” (ābhú) covered by “emptiness.” In verse 3, therefore, “that One” still does not have sub stance, but it is beginning to have shape, since there is something that is “covered”  
-by something. As Thieme (1964: 66–67) has observed, that shape is the shape of  an egg, and it is this egg-like shape that in 3d “was born” or hatched through heat. Thus far there has been little development of substance, although there has been  an evolution of concept. An unidentified subject that neither exists nor does not  exist is introduced in verse 1. It has taken conceptual form as the “One” in verse  2, and finally assumed an egg-like shape in verse 3. In verse 4 there is a shift that  apparently breaks the continuity of the hymn. According to 4ab, thought gives rise  to desire, which is concretized as the “primal semen,” the origin of beings. However,  there is one thing that connects verses 3 and 4 and maintains the hymn’s continu ity: “desire” in 4a corresponds to “heat” in 3d. If so, then “thought” in 4b should  correspond to the “One” in 3d. And so it does, for “thought” is the hidden metaphor  in verses 1–3. In verse 1 it is thought that neither exists nor does not exist, because  thought is something real but at the same time something not real, since it is not  externally perceptible. Or, to put it another way, thought has shape but no sub stance, as verse 3 says. This hymn, therefore, shows an omphalos structure, in which  the middle verse, in this case verse 4, contains the key to the hymn. Here that key is  the revelation that thought is the One, which is the ultimate source of creation. It  is not surprising, therefore, that the “connection” (bándhu) between “existing” and  “not-existing,” the connection that is thought, was discovered by poets “though  inspired thinking” (manīṣā́, 4d). In verse 5 this “connection” also becomes a divid ing “cord” (raśmí) and through it there emerges the distinction between males (the  placers of semen and the offering) and females (“greatnesses,” i.e., pregnancies, and  independent will).  
+“at that time” (tadā́nīm) and 2a “then” (tárhi). But where verses 1 and 2 asked ques tions or only hinted at answers, 3a asserts that there was something, namely “dark ness” covered by darkness, and 3c describes a “thing coming into being” (ābhú) covered by “emptiness.” In verse 3, therefore, “that One” still does not have sub stance, but it is beginning to have shape, since there is something that is “covered”  
+by something. As Thieme (1964: 66–67) has observed, that shape is the shape of  an egg, and it is this egg-like shape that in 3d “was born” or hatched through heat. Thus far there has been little development of substance, although there has been  an evolution of concept. An unidentified subject that neither exists nor does not  exist is introduced in verse 1. It has taken conceptual form as the “One” in verse  2, and finally assumed an egg-like shape in verse 3. In verse 4 there is a shift that  apparently breaks the continuity of the hymn. According to 4ab, thought gives rise  to desire, which is concretized as the “primal semen,” the origin of beings. However,  there is one thing that connects verses 3 and 4 and maintains the hymn’s continu ity: “desire” in 4a corresponds to “heat” in 3d. If so, then “thought” in 4b should  correspond to the “One” in 3d. And so it does, for “thought” is the hidden metaphor  in verses 1–3. In verse 1 it is thought that neither exists nor does not exist, because  thought is something real but at the same time something not real, since it is not  externally perceptible. Or, to put it another way, thought has shape but no sub stance, as verse 3 says. This hymn, therefore, shows an omphalos structure, in which  the middle verse, in this case verse 4, contains the key to the hymn. Here that key is  the revelation that thought is the One, which is the ultimate source of creation. It  is not surprising, therefore, that the “connection” (bándhu) between “existing” and  “not-existing,” the connection that is thought, was discovered by poets “though  inspired thinking” (manīṣā́, 4d). In verse 5 this “connection” also becomes a divid ing “cord” (raśmí) and through it there emerges the distinction between males (the  placers of semen and the offering) and females (“greatnesses,” i.e., pregnancies, and  independent will).  
 But even if thought is the ultimate and primal creative act, the origin of the  world is still unknown, even by the gods (vs. 6c). If there is an overseer of the world,  he might know, or he might not (vs. 7cd). The lack of an answer means that “think ing” will not come to an end. The poem ends with metrical and syntactic irresolu tion and with a question in order that its hearers are left thinking and in that way  left repeating the fundamental act of creation, the act of thinking.
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १२९  प्रजापतिः परमेष्ठी। भाववृत्तम्। त्रिष्टुप् ।
 </details>
 </details>
 </div>
 
 ###### 01 नासदासीन्नो सदासीत्तदानीम् - त्रिष्टुप्
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/01_nAsadAsInno_sadAsIttadAnIM.md">
-<details open><summary><h12>विश्वास-प्रस्तुतिः ...{Loading}...</h12></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/01_nAsadAsInno_sadAsIttadAnIM.md">
+<details open><summary><h7>विश्वास-प्रस्तुतिः …{Loading}…</h7></summary>
 
-ना᳓सद् आसीन्, नो᳓ स᳓दासीत् तदा᳓नीम् । ना᳓सीद् र᳓जो, नो᳓ व्योमा परो᳓ य᳓त् ।  
-कि᳓म् आ᳓वरिवः+++(=आवरणीयं)+++? कु᳓ह+++(=क्व)+++? क᳓स्य श᳓र्म᳓न्+++(णे)+++? अम्भः कि᳓म् आसीद् ग᳓हनं गभीर᳓म् ?  
+ना᳓सद् आसीन्, नो᳓ स᳓द् आसीत् तदा᳓नीम् ।  
+ना᳓सीद् र᳓जो, नो᳓ वि᳓ओमा परो᳓ य᳓त् ।  
+कि᳓म् आ᳓वरिवः+++(=आवरणीयं)+++? कु᳓ह+++(=क्व)+++?  
+क᳓स्य श᳓र्मन्+++(णे)+++?  
+अ᳓म्भः कि᳓म् आसीद् ग᳓हनं गभीर᳓म् ?  
 
 </details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/129/01_nAsadAsInno_sadAsIttadAnIM.md">
-<details><summary><h12>मूलम् ...{Loading}...</h12></summary>
+<details><summary><h7>मूलम् …{Loading}…</h7></summary>
 
 नास॑दासी॒न्नो सदा॑सीत्त॒दानीं॒ नासी॒द्रजो॒ नो व्यो॑मा प॒रो यत् ।  
 किमाव॑रीवः॒ कुह॒ कस्य॒ शर्म॒न्नम्भः॒ किमा॑सी॒द्गह॑नं गभी॒रम् ॥
 </details>
 </div>
+
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/01_nAsadAsInno_sadAsIttadAnIM.md">
-<details><summary><h12>सर्वाष् टीकाः ...{Loading}...</h12></summary>
+<details><summary><h7>सर्वाष् टीकाः …{Loading}…</h7></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - भाववृत्तं
@@ -338,6 +348,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+तदानीम्- सृष्टेः प्राक्। न असदासीत्- न न किञ्चिदभवत्। नो सदासीत्- न च व्यक्तं जगद्बभूव।  रजः- स्थूललोकाः। नासीत्- नासन्। परः- परस्तात्। यत्। व्योम- सूक्ष्ममाकाशं तदपि। नो-  नासीत्। कुह- कुत्र। कस्य। शर्मन्- भोगे। किम्। आवरीवः- आवरणं कृतवत्। गहनम्-  अगाधम्। गभीरम्- गम्भीरम्। अम्भः- कारणोदकमव्यक्तम्। किम्- कीदृशम्। आसीत्-  बभूव॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 ‘तपसस्तन्महिनाजायतैकम्’ इत्यादिनाग्रे सृष्टिः प्रतिपादयिष्यते। अधुना ततः प्रागवस्था निरस्तसमस्तप्रपञ्चा या प्रलयावस्था सा निरूप्यते। **तदानीं”** प्रलयदशायामवस्थितं यदस्य जगतो मूलकारणं तत् **असत्”** शशविषाणवन्निरुपाख्यं **न** आसीत्**।** न हि तादृशात् कारणादस्य सतो जगत उत्पत्तिः सम्भवति। तथा **नो** सत्” नैव सदात्मवत् सत्त्वेन निर्वाच्यम् **आसीत्”**। यद्यपि सदसदात्मकं प्रत्येकं विलक्षणं भवति तथापि भावाभावयोः सहावस्थानमपि सम्भवति। कुतस्तयोः तादात्म्यमिति उभयविलक्षणमनिर्वाच्यमेवासीदित्यर्थः। ननु नो सदिति पारमार्थिकसत्त्वस्य निषेधः। तर्ह्यात्मनोऽप्यनिर्वाच्यत्वप्रसङ्गः। अथोच्येत। न। ‘आनीदवातमिति’ तस्य सत्त्वमग्रे वक्ष्यते परिशेषान्मायाया एवात्र सत्त्वं निषिध्यत इति। एवमपि तदानीमिति विशेषणानर्थक्यं व्यवहारदशायामपि तस्याः पारमार्थिकसत्त्वाभावात्। अथ व्यावहारिकसतां पृथिव्यादीनां भावानां विद्यमानत्वात् कथं नो सदिति निषेधः। तत्राह। **नासीद्रज”** इत्यादि। ‘लोका रजांस्युच्यन्ते’ ( निरु, ४, १९) इति यास्कः। अत्र च सामान्यापेक्षमेकवचनम्। व्योम्नो वक्ष्यमाणत्वात् तस्याधस्तनाः पातालदयः पृथिव्यन्ता नासन्नित्यर्थः। तथा **व्योम”** अन्तरिक्षं तदपि **नो”** नैवासीत्। पर इति सकारान्तं परस्तादित्यर्थे वर्तते। परशब्दाच्छान्दसोऽस्तातेरर्थेऽसिप्रत्ययः। **परः”** व्योम्नः परस्तादुपरिदेशे द्युलोकप्रभृतिसत्यलोकान्तं **यत्”** अस्ति तदपि नासीदित्यर्थः। अनेन चतुर्दशभुवनगर्भं ब्रह्माण्डं स्वरूपेण निषिद्धं भवति। अथ तदावरकत्वेन पुराणेषु प्रसिद्धानि यानि वियदादिभूतानि तेषामवस्थानप्रदेशं तदावरणनिमित्तं चाक्षेपमुखेन क्रमेण निषेधयति किमावरीवरिति। **किम्”** आवरणीयं तत्त्वमावरकभूतजातम् **आवरीवः”** अत्यन्तमावृणुयात्। आवार्याभावात् तदावरकमपि नासीदित्यर्थः॥ वृणोतेर्यङ्लुगन्ताच्छान्दसे लङि तिपि रूपमैतत्॥ यद्वा। किमिति प्रथमैव। किं तत्त्वमावरकमावृणुयात्। आव्रियमाणवत् तदपि स्वरूपेण नासीदित्यर्थः। आवृण्वत् तत् तत्त्वं **कुह”** कुत्र देशेऽवस्थायावृणोति। आधारभूतस्तादृशो देशोऽपि नासीदित्यर्थः॥ किंशब्दात् सप्तम्यर्थे हप्रत्ययः।  ‘कु तिहोः’ (पा, सू, ७.३.१०४ ) इति प्रकृतेः क्वादेशः॥ **कस्य** शर्मन्” कस्य वा भोक्तुर्जीवस्य शर्मणि सुखदुःखसाक्षात्कारलक्षणे भोगे निमित्तभूते सति तदावरकं तत्वमावृणुयात्। जीवानामुपभोगार्था हि सृष्टिः। तस्यां हि सत्यां ब्रह्माण्डस्य भूतैरावरणं प्रलयदशायां च भोक्तारो जीवा उपाधिविलयात् प्रलीना इति कस्य कश्चिदपि भोक्ता न सम्भवतीत्यावरणस्य निमित्ताभावादपि तन्न घटत इत्यर्थः। एतेन भोग्यप्रपञ्चवत् भोक्तृप्रपञ्चोऽपि तदानीं नासीदित्युक्तं भवति॥ किंशब्दादुत्तरस्य ङसः ‘सावेकाचः’ इति प्राप्तस्योदात्तत्वस्य  ‘न गोश्वन्साववर्ण’ इति प्रतिषेधः।  ‘सुपां सुलुक्’ इति शर्मणः सप्तम्या लुक्॥ यद्यपि सावरणस्य ब्रह्माण्डस्य निषेधेन तदन्तर्गतमप्सत्त्वमपि निराकृतं तथापि  ‘आपो वा इदमग्रे सलिलमासीत्’ (तै. सं. ७, १, ५, १ ) इति श्रुत्या कश्चिदपां सद्भावमाशङ्केत। तं प्रत्याचष्टे अम्भः किमासीत् इति। **गहनं”** दुष्प्रवेशं **गभीरं”** दुरवस्थानमत्यगाधम् ईदृशम् **अम्भः** किमासीत्**।** तदपि नैवासीदित्यर्थः। श्रुतिस्त्ववान्तरप्रलयविषया॥
@@ -410,7 +425,7 @@ Zu jener Zeit war weder Sein, noch Nichtsein, nicht war der Luftraum, noch der H
 
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (तदानीम्) सृष्टि से पूर्व उस समय प्रलय अवस्था में (असत्-न-आसीत्) शून्य नितान्त अभाव न था (सत्-नो-आसीत्) सत्-प्रकटरूप भी कुच्छ न था (रजः-न-आसीत्)रञ्जनात्मक कणमय गगन-अन्तरिक्ष भी न था (परः-व्योम न-उ-यत्) विश्व का परवर्ती सीमारूप विशिष्ट रक्षक आवर्त-घेरा खगोल आकाश भी न था (किम्-आ-अवरीवः) आवरणीय के अभाव से भलीभाँति आवरक भी क्या हो सके ? न था (कुह कस्य शर्मन्) कहाँ ? न कहीं भी तथा प्रदेश था, किसके सुखनिमित्त हो (गहनं गभीरम्-अम्भः किम्-आसीत्) गहन गम्भीर सूक्ष्म जल भी क्या हो सके अर्थात् नहीं था, जिससे भोग्य वस्तु उत्पन्न हो, जिसमें सृष्टि का बीज ईश्वर छोड़े ॥१॥
+पदार्थान्वयभाषाः -  (तदानीम्) सृष्टि से पूर्व उस समय प्रलय अवस्था में (असत्-न-आसीत्) शून्य नितान्त अभाव न था (सत्-नो-आसीत्) सत्-प्रकटरूप भी कुच्छ न था (रजः-न-आसीत्)रञ्जनात्मक कणमय गगन-अन्तरिक्ष भी न था (परः-व्योम न-उ-यत्) विश्व का परवर्ती सीमारूप विशिष्ट रक्षक आवर्त-घेरा खगोल आकाश भी न था (किम्-आ-अवरीवः) आवरणीय के अभाव से भलीभाँति आवरक भी क्या हो सके ? न था (कुह कस्य शर्मन्) कहाँ ? न कहीं भी तथा प्रदेश था, किसके सुखनिमित्त हो (गहनं गभीरम्-अम्भः किम्-आसीत्) गहन गम्भीर सूक्ष्म जल भी क्या हो सके अर्थात् नहीं था, जिससे भोग्य वस्तु उत्पन्न हो, जिसमें सृष्टि का बीज ईश्वर छोड़े ॥१॥
 </details>
 
 <details><summary>ब्रह्ममुनि - भावार्थः</summary>
@@ -431,23 +446,27 @@ Zu jener Zeit war weder Sein, noch Nichtsein, nicht war der Luftraum, noch der H
 </div>
 
 ###### 02 न मृत्युरासीदमृतम् - त्रिष्टुप्
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/02_na_mRtyurAsIdamRtaM.md">
-<details open><summary><h12>विश्वास-प्रस्तुतिः ...{Loading}...</h12></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/02_na_mRtyurAsIdamRtaM.md">
+<details open><summary><h7>विश्वास-प्रस्तुतिः …{Loading}…</h7></summary>
 
-न᳓ मृत्यु᳓र्, अमृ᳓तं त᳓र्हि न᳓ । रा᳓त्रिया अ᳓ह्न आसीत् प्रकेतः᳓+++(=सङ्केतः [ज्योतींषि])+++ ।  
-आ᳓नीद् +++(=अचेष्टयत)+++ अवातँ᳓ +++(स्वयमाश्रयेण)+++स्वध᳓या त᳓द् ए᳓कम् +++(ब्रह्म)+++। त᳓स्माद् +हाऽन्यं᳓ न᳓ परः᳓ कि᳓ञ्चना᳓स ।
+न᳓ मृत्यु᳓र्, अमृ᳓तं त᳓र्हि न᳓ ।  
+रा᳓त्रिया अ᳓ह्न आसीत् प्रकेतः᳓+++(=सङ्केतः [ज्योतींषि])+++ ।  
+आ᳓नीद् +++(=अचेष्टयत)+++ अवातँ᳓ +++(स्वयमाश्रयेण)+++स्वध᳓या त᳓द् ए᳓कम् +++(ब्रह्म)+++।  
+त᳓स्माद् +हाऽन्यं᳓ न᳓ परः᳓ कि᳓ञ्चना᳓स ।
 
 </details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/129/02_na_mRtyurAsIdamRtaM.md">
-<details><summary><h12>मूलम् ...{Loading}...</h12></summary>
+<details><summary><h7>मूलम् …{Loading}…</h7></summary>
 
 न मृ॒त्युरा॑सीद॒मृतं॒ न तर्हि॒ न रात्र्या॒ अह्न॑ आसीत्प्रके॒तः ।  
 आनी॑दवा॒तं स्व॒धया॒ तदेकं॒ तस्मा॑द्धा॒न्यन्न प॒रः किं च॒नास॑ ॥
 </details>
 </div>
+
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/02_na_mRtyurAsIdamRtaM.md">
-<details><summary><h12>सर्वाष् टीकाः ...{Loading}...</h12></summary>
+<details><summary><h7>सर्वाष् टीकाः …{Loading}…</h7></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - भाववृत्तं
@@ -724,6 +743,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+न मृत्युरमृतं तर्हि न- मर्त्या अमराश्च नासन्। रात्र्याः- निशायाः। अह्नः- दिवसस्य। प्रकेतः-  ज्ञानम्। न आसीत्- न बभूव। प्रसुप्तमिव सर्वतो बभूव। तत् सदसद्भ्यामन्यत् मृतामृताभ्यामन्यत्  तमःप्रकाशाभ्यामन्यत् रजोव्योमभ्यामन्यत् जडेतरत्। एकम्- अखण्डं परिपूर्णम्। आनीत्-  प्राणितवत्। ननु वातेनैव प्राणितव्यम्। यदि वातोपि नासीत्तर्हि कथं प्राणितवदिति चेत्। अवातम्-  वातं विनापि प्राणितवत्। कथमिति चेत्। स्वधया- आत्मनैव प्राणितवत्। पश्यत्यचक्षुः स  शृणोत्यकर्ण इतिवत् अघ्राणः प्राणिति। सर्वमात्मनैवाकरोत्। तस्मात्। परः- सृष्टेः  परस्ताद्यदिदमस्ति तत्सर्वम्। अन्यत्। न किं चनास- न किञ्चनासीत्। ह- आश्चर्यम्॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 ननूक्तस्य प्रतिसंहारस्य संहर्त्रपेक्षत्वात् स एव संहर्ता मृत्युर्विद्यत इत्यत आह **न** मृत्युरासीत्” इति। ननु यदि स नासीत् तर्हि तदभावकृतम् **अमृतम्”** अमरणं प्राणिनामवस्थानं तदानीमपि स्यात् तत्राह। **अमृतं** न तर्हि” इति। तर्हि तस्मिन् प्रतिहारसमये। अयं भावः। सर्वेषां प्राणिनां परिपक्वं भोगहेतुभूतं सर्वं कर्म यदोपभुक्तमासीत् तदा भोगाभावान्निष्ष्प्रयोजनमिदं जगदिति परमेश्वरस्य मनसि सञ्जिहीर्षा जायते। तथैव स मृत्युः सर्वं जगत् संहरत इति किमनेन मृत्युना संहर्त्रा तदभावकृतं वा कथममरणं स्यादिति। एतदेवाभिप्रेत्य कठैराम्नायते- ‘यस्य ब्रह्म च क्षत्रं चोभे भवत ओदनः। मृत्युर्यस्योपसेचनं क इत्था वेद यत्र सः’ ( क. उ. २.२५) इति। नन्वेतस्य सर्वस्याधिकरणभूतः कालो विद्यत इत्यत आह **न** रात्र्या” इति। **रात्र्या** अह्नः” च **प्रकेतः”** प्रज्ञानं **न** आसीत्**।** तद्धेतुभूतयोः सूर्याचन्द्रमसोरभावात्। एतेनाहोरात्रनिषेधेन तदात्मको मासर्तुसंवत्सरप्रभृतिकः सर्वः कालः प्रत्याख्यातः। कथं तर्हि नो सदासीत्तदानीमिति कालवाची प्रत्ययः। उपचारादिति ब्रूमः। यथेदानीन्तननिषेधस्य कालोऽवच्छेदकस्तथा मायापि तदवच्छेदहेतुरित्यवच्छेदकत्वसाम्येनाकालेऽपि कालवाची प्रत्ययः। यदवादिष्म ब्रह्मणः परमार्थसत्त्वमग्रे वक्ष्यत इति तदिदानीं दर्शयत्यानीदिति। **तत्”** सकलवेदान्तप्रसिद्धं ब्रह्मतत्त्वम् **आनीत्”** प्राणितवत्। नन्वेवं प्राणनकर्तुर्जीवभावापन्नस्यैव ब्रह्मणः सत्त्वं स्यात् न विवक्षितस्य निरुपाधिकस्य ब्रह्मणः। ‘अप्राणो ह्यमनाः शुद्धः’ इति तस्य प्राणसंबन्धाभावात् तत्राह **आनीदवातमिति”**। अयमाशयः। आनीदित्यत्र धात्वर्थक्रिया तत्कर्ता तस्य च भूतकालसम्बन्ध इति त्रयोऽर्थाः प्रतीयन्ते। तत्र समुदायो न विधीयते यथाग्नेयोऽष्टाकपाल इति येन ब्रह्मणः सत्त्वं न स्यात्। किं तर्ह्यनेन कर्तृत्वमनूद्य भूतकालसत्तालक्षणो गुणो विधीयते दध्ना जुहोतीति वाक्यान्तरविहिताग्निहोत्रानुवादेन तत्र गुणविधानम्। तत्राप्यनेन कर्तृत्वविशिष्टस्य न पूर्वकालसत्ता विधीयते तन्निषेधानुपपत्तिप्रसङ्गात्। अतोऽनेन कर्तृत्वेन इदानीन्तनेनोपलक्षितं यन्निरुपाधिकं परं ब्रह्म तस्यैव भूतकालसत्ता विधीयत इति न कश्चिद्दोष इति। नन्वीदृशस्य ब्रह्मणो मायया सह सम्बन्धासम्भवात् साङ्ख्याभिमता स्वतन्त्रा सद्रूपा सत्त्वरजस्तमोगुणात्मिका मूलप्रकृतिरेवाभिमतेति कथं नो सदिति निषेधः। तत्राह **स्वधया”** इति। स्वस्मिन् धीयते ध्रियत आश्रित्य वर्तत इति स्वधा माया। तया तद्ब्रह्मैकमविभागापन्नमासीत्। ‘सहयुक्तेऽप्रधाने’ ( पा. सू. २.३.१ ९) इति तृतीया सहशब्दयोगाभावेऽपि सहार्थयोगे भवति ‘वृद्धो यूना’  ( पा. सू. १. २. ६५) इति निपातनाल्लिङ्गात्। अत्र प्रकृतिप्रत्ययाभ्यां तस्याः स्वातन्त्र्यं निवार्यते। यद्यपि असङ्गस्य ब्रह्मणस्तया सह सम्बन्धो न सम्भवति तथापि तस्मिन्नविद्यया तत्स्वरूपमिव सम्बन्धोऽप्यध्यस्यते यथा शुक्तिकायां रजतस्य। एतेन सद्रूपत्वमपि तस्याः प्रत्याख्यातम्। ननु यदि माया ब्रह्मणा सहाविभागापन्ना तर्हि तस्या अनिर्वाच्यत्वात् ब्रह्मणोऽपि तत्प्रसङ्ग इति कथं तस्य सत्त्वमुक्तम् आनीदवातमिति। ब्रह्मणो वा सत्त्वात्तस्या अपि सत्त्वप्रसङ्ग इति कथं नो सदासीदिति सत्त्वप्रतिषेधः। मैवम्। अयुक्तिदृष्ट्यैक्यावभासेऽपि युक्त्या विविच्य मायांशस्यानिर्वाच्यत्वं ब्रह्मणः सत्त्वं च प्रतिपादितम्। ननु दृग्दृश्याविति द्वावेव पदार्थौ आनीदवातं स्वधयेति तौ चेदङ्गीक्रियेते तत्किमपरमवशिष्यते यत् नासीद्रजः इत्यादिना प्रतिषिध्येत तत्राह तस्मादिति। **तस्माद्ध”** तस्मात् खलु पूर्वोक्तान्मायासहितात् ब्रह्मणः **अन्यत्** किं चन” किमपि वस्तु भूतभौतिकात्मकं जगत् **न** आस” न बभूव॥ ‘छन्दस्युभयथा’ (पा. सू. ३.४.११७) इति लिटः सार्वधातुकत्वादस्तेर्भूभावाभावः॥ ननु तदानीमन्यस्य सत्त्वनिषेधो न शङ्क्यः। असत्त्वे चाप्रसक्तत्वान्न निषेधोपयोग इत्यत आह पर इति। **परः”** परस्तात् सृष्टेरूर्ध्वं वर्तमानमिदं जगत् तदानीं न बभूवेत्यर्थः। अन्यथा उक्तरीत्या क्वचिदपि निषेधो न स्यादिति भावः॥
@@ -808,23 +832,27 @@ Nicht Tod und nicht Unsterblichkeit war damals, nicht gab's des Tages noch der N
 </div>
 
 ###### 03 तम आसीत्तमसा - त्रिष्टुप्
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/03_tama_AsIttamasA.md">
-<details open><summary><h12>विश्वास-प्रस्तुतिः ...{Loading}...</h12></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/03_tama_AsIttamasA.md">
+<details open><summary><h7>विश्वास-प्रस्तुतिः …{Loading}…</h7></summary>
 
-त᳓म +++(ब्रह्म)+++ आसीत्, त᳓मसा गूढ᳓म् अ᳓ग्रे प्रकेत᳓म् +++(=रहस्यम्)+++। +++(यथा)+++ सलिलँ᳓ स᳓र्वम् आ इद᳓म् ।  
-तुच्छे᳓नाभ्व् अ᳓पिहितं य᳓द् आ᳓सीत् । त᳓मसस् त᳙न्-महिना᳓ जायतै᳓कम् +++(जगत्)+++।  
+त᳓म +++(→नाम-रूप-विभागानर्ह- सूक्ष्म-चिद्-अचित्-पिण्डम्)+++ आसीत्, त᳓मसा गूढ᳓म् अ᳓ग्रे प्रकेत᳓म् +++(=रहस्यम्)+++।  
++++(यथा)+++ सलिलँ᳓ स᳓र्वम् आ इद᳓म् ।  
+तुच्छे᳓नाभ्व् अ᳓पिहितं य᳓द् आ᳓सीत् ।  
+त᳓मसस् त᳓न् महिना᳓ जायतै᳓कम् +++(जगत्)+++।  
 
 </details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/129/03_tama_AsIttamasA.md">
-<details><summary><h12>मूलम् ...{Loading}...</h12></summary>
+<details><summary><h7>मूलम् …{Loading}…</h7></summary>
 
 तम॑ आसी॒त्तम॑सा गू॒ळ्हमग्रे॑ऽप्रके॒तं स॑लि॒लं सर्व॑मा इ॒दम् ।  
 तु॒च्छ्येना॒भ्वपि॑हितं॒ यदासी॒त्तप॑स॒स्तन्म॑हि॒नाजा॑य॒तैक॑म् ॥
 </details>
 </div>
+
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/03_tama_AsIttamasA.md">
-<details><summary><h12>सर्वाष् टीकाः ...{Loading}...</h12></summary>
+<details><summary><h7>सर्वाष् टीकाः …{Loading}…</h7></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - भाववृत्तं
@@ -1068,6 +1096,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अग्रे- सृष्टेः प्राक्। तमः- अन्धकारः। तमसा- अन्धकारतरेण। गूळ्हम्- गूढः। अप्रकेतम्-  अज्ञातः। आसीत्। यथा कृष्णमेघः कृष्णतरमेघेन गूढः। कर्ममयव्यक्तजगदाख्यान्धकारः २    अन्धकारतरेणाव्यक्तेनावृतमिति भावः। सर्वं- विश्वम्। इदम्- एतत्। सलिलम्-  कारणोदकमव्यक्तमेव। आः- आसीत्। तुच्छ्येन- तुच्छप्रायेणाज्ञानेन। आभु- अभितः।  अपिहितम्- छादितम्। आसीत्- बभूव। महिना- तदा महिम्ना। तपसः-  प्रथमौष्ण्योपलक्षितस्फूर्त्या। तत्। एकं। अजायत- प्रादुर्बभूव॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 ननूक्तप्रकारेण यदि पूर्वमिदं जगन्नासीत् कथं तर्हि तस्य जन्म । जायमानस्य जनिक्रियायां कर्तृत्वेन कारकत्वात् कारकं च कारणावान्तरविशेष इति कारकस्य सतो नियतपूर्वक्षणवर्तित्वस्य अवश्यंभावात् । अथैतद्दोषपरिजिहीर्षया जनिक्रियायाः प्रागपि तद्विद्यत इत्युच्यते  । कथं तस्य जन्म । अत आह तमसा गूळ्हमग्रे इति । **अग्रे** सृष्टेः प्राक् प्रलयदशायां भूतभौतिकं सर्वं जगत् **तमसा**
@@ -1157,23 +1190,27 @@ Nur Dunkel war, verhüllt von Dunkel, anfangs und unerkennbar wogte dieses alles
 </div>
 
 ###### 04 कामस्तदग्रे समवर्तताधि - त्रिष्टुप्
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/04_kAmastadagre_samavartatAdhi.md">
-<details open><summary><h12>विश्वास-प्रस्तुतिः ...{Loading}...</h12></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/04_kAmastadagre_samavartatAdhi.md">
+<details open><summary><h7>विश्वास-प्रस्तुतिः …{Loading}…</h7></summary>
 
-का᳓मस् त᳓द् अ᳓ग्रे स᳓मवर्तता᳓धि +++(=आधिक्ये)+++। म᳓नसो रे᳓तः प्रथमं᳓ य᳓द् आ᳓सीत् ।  
-सतो᳓ ब᳓न्धुम् अ᳓सति नि᳓रविन्दन् । हृदि᳓ प्रती᳓ष्या कव᳓यो मनीषा᳓ +++(=बुद्ध्या)+++।  
+का᳓मस् त᳓द् अ᳓ग्रे स᳓मवर्तता᳓धि +++(=आधिक्ये)+++।  
+म᳓नसो रे᳓तः प्रथमं᳓ य᳓द् आ᳓सीत् ।  
+सतो᳓ ब᳓न्धुम् अ᳓सति नि᳓रविन्दन् ।  
+हृदि᳓ प्रती᳓ष्या कव᳓यो मनीषा᳓ +++(=बुद्ध्या)+++।  
 
 </details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/129/04_kAmastadagre_samavartatAdhi.md">
-<details><summary><h12>मूलम् ...{Loading}...</h12></summary>
+<details><summary><h7>मूलम् …{Loading}…</h7></summary>
 
 काम॒स्तदग्रे॒ सम॑वर्त॒ताधि॒ मन॑सो॒ रेतः॑ प्रथ॒मं यदासी॑त् ।  
 स॒तो बन्धु॒मस॑ति॒ निर॑विन्दन्हृ॒दि प्र॒तीष्या॑ क॒वयो॑ मनी॒षा ॥
 </details>
 </div>
+
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/04_kAmastadagre_samavartatAdhi.md">
-<details><summary><h12>सर्वाष् टीकाः ...{Loading}...</h12></summary>
+<details><summary><h7>सर्वाष् टीकाः …{Loading}…</h7></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - भाववृत्तं
@@ -1409,6 +1446,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+तदग्रे- स्थूलसृष्टिपूर्वम्। कामः- सिसृक्षा। अधि समवर्तत- अजायत। यत्- यतः। प्रथमम्-  आदौ। मनसः- अन्तःकरणस्य। रेतः- वीर्यम्। आसीत्- बभूव। कवयः- क्रान्तदर्शिनः। प्रतीष्य-  विचार्य। मनीषा- सूक्ष्मया बुद्ध्या। हृदि- स्वहृदये। सतः- व्यक्तस्य जगतः। बन्धुम्- बन्धम्।  असति- अव्यक्ते। निरविन्दन्- अजानन्॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 ननूक्तरीत्या यदीश्वरस्य पर्यालोचनं जगतः पुनरुत्पत्तौ कारणं तदेव किंनिबन्धनमित्यत आह कामस्तदग्र इति । **अग्रे** अस्य विकारजातस्य सृष्टेः प्रागवस्थायां परमेश्वरस्य मनसि **कामः** **समवर्तत** सग्यगजायत । सिसृक्षा जातेत्यर्थः । ईश्वरस्य सिसृक्षा वा किंहेतुकेत्यत आह मनस इति । **मनसः** अन्तःकरणस्य संबन्धि वासनाशेषेण मायायां विलीनेऽन्तःकरणे समवेतम् । सामान्यापेक्षमेकवचनम् । सर्वप्राण्यन्तःकरणेषु समवेतमित्यर्थः । एतेनात्मनो गुणाधारत्वं प्रत्याख्यातम् । तादृशं **रेतः** भाविनः प्रपञ्चस्य बीजभूतं **प्रथमम्** अतीते कल्पे प्राणिभिः कृतं पुण्यात्मकं कर्म **यत्** यतः कारणात् सृष्टिसमये **आसीत्** अभवत् । भूष्णु वर्धिष्ण्वजायत परिपक्वं सत् फलोन्मुखमासीदित्यर्थः ।
@@ -1495,24 +1537,27 @@ Da regte sich zuerst in ihm Begierde, als sich des Geistes erster Same zeigte; E
 </div>
 
 ###### 05 तिरश्चीनो विततो - त्रिष्टुप्
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/05_tirashchIno_vitato.md">
-<details open><summary><h12>विश्वास-प्रस्तुतिः ...{Loading}...</h12></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/05_tirashchIno_vitato.md">
+<details open><summary><h7>विश्वास-प्रस्तुतिः …{Loading}…</h7></summary>
 
-तिरश्ची᳓नो वि᳓ततो रश्मि᳓र् एषाम् । अध᳓स्विद् आसी᳓३द्; उप᳓रिस्विद् आसी३त् ।  
+तिरश्ची᳓नो वि᳓ततो रश्मि᳓र् एषाम् ।  
+अध᳓स्विद् आसी᳓३द्; उप᳓रिस्विद् आसी३त् ।  
 रेतोधा᳓+++(=बीजानि)+++ आसन्, महिमा᳓न +++(पर्वतादयः)+++ आसन् ।  
 स्वधा᳓ +++(शक्तिः [माया])+++ अव᳓स्तात्+++(=अधस्तात्)+++, प्र᳓यतिः+++(प्रयत्नः)+++ पुर᳓स्तात् ।
 
 </details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/129/05_tirashchIno_vitato.md">
-<details><summary><h12>मूलम् ...{Loading}...</h12></summary>
+<details><summary><h7>मूलम् …{Loading}…</h7></summary>
 
 ति॒र॒श्चीनो॒ वित॑तो र॒श्मिरे॑षाम॒धः स्वि॑दा॒सी३दु॒परि॑ स्विदासी३त् ।  
 रे॒तो॒धा आ॑सन्महि॒मान॑ आसन्त्स्व॒धा अ॒वस्ता॒त्प्रय॑तिः प॒रस्ता॑त् ॥
 </details>
 </div>
+
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/05_tirashchIno_vitato.md">
-<details><summary><h12>सर्वाष् टीकाः ...{Loading}...</h12></summary>
+<details><summary><h7>सर्वाष् टीकाः …{Loading}…</h7></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - भाववृत्तं
@@ -1727,6 +1772,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+एषाम्- एतेषां चिदव्यक्तकामानां तत्त्वानाम्। विततः- विस्तृतः। रश्मिः- किरणः। शक्तिरिति  भावः। अधः स्विदासीदुपरि स्विदासीत्- अधश्चोपरि प्रसृतः। तिरश्चीनः- यथोदिते सूर्ये रश्मिः  उपर्यधस्तात् सर्वत्र विस्तृतो भवति तथा व्याप्तो भवति। रेतोधाः- भोक्तारः। आसन्- बभूवुः।  महिमानः- महद्भूतानि वियदादीनि। आसन्- बभूवुः। अन्नमन्नादं भवतीति भावः। स्वधा- अन्नम्।  अवस्तात्- अधः। प्रयतिः- तल्लाभाय प्रयत्नकरोऽन्नादः। परस्तात्- उपरि भवति॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 एवमविद्याकामकर्माणि सृष्टेर्हेतुत्वेनोक्तानि । अधुना तेषां स्वकार्यजनने शैघ्र्यं प्रतिपाद्यते । येयं नासदासीदित्यविद्या प्रतिपादिता यश्च कामस्तदग्रे इति कामो मनसो रेतः प्रथमं यदासीदिति यत्कर्म **एषाम्** अविद्याकामकर्मणां वियदादिभूतजातानि सृजतां **रश्मिः** रश्मिसदृशो यथा सूर्यरश्मिः
@@ -1811,24 +1861,26 @@ Und quer hindurch, war ihre Schnur gezogen, was war darunter? und was war darüb
 </div>
 
 ###### 06 को अद्धा - त्रिष्टुप्
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/06_ko_addhA.md">
-<details open><summary><h12>विश्वास-प्रस्तुतिः ...{Loading}...</h12></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/06_ko_addhA.md">
+<details open><summary><h7>विश्वास-प्रस्तुतिः …{Loading}…</h7></summary>
 
 को᳓ अद्धा᳓ वेद क᳓ इह᳓ प्र᳓ वोचत्  
 कु᳓त आ᳓जाता कु᳓त इयं᳓ वि᳓सृष्टिः  
-अर्वा᳓ग् देवा᳓ अस्य᳓ विस᳓र्जनेन  
+अर्वा᳓ग् देवा᳓ अस्य᳓ विस᳓र्जनेन +++(→विस᳓र्जनायेति तैत्तिरीये)+++  
 अ᳓था को᳓ वेद य᳓त आबभू᳓व
 </details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/129/06_ko_addhA.md">
-<details><summary><h12>मूलम् ...{Loading}...</h12></summary>
+<details><summary><h7>मूलम् …{Loading}…</h7></summary>
 
 को अ॒द्धा वे॑द॒ क इ॒ह प्र वो॑च॒त्कुत॒ आजा॑ता॒ कुत॑ इ॒यं विसृ॑ष्टिः ।  
 अ॒र्वाग्दे॒वा अ॒स्य वि॒सर्ज॑ने॒नाथा॒ को वे॑द॒ यत॑ आब॒भूव॑ ॥
 </details>
 </div>
+
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/06_ko_addhA.md">
-<details><summary><h12>सर्वाष् टीकाः ...{Loading}...</h12></summary>
+<details><summary><h7>सर्वाष् टीकाः …{Loading}…</h7></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - भाववृत्तं
@@ -1842,6 +1894,14 @@ Und quer hindurch, war ihre Schnur gezogen, was war darunter? und was war darüb
 कु᳓त आ᳓जाता कु᳓त इयं᳓ वि᳓सृष्टिः  
 अर्वा᳓ग् देवा᳓ अस्य᳓ विस᳓र्जनेन  
 अ᳓था को᳓ वेद य᳓त आबभू᳓व
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+को अ॒द्धा वे॑द॒ क इ॒ह प्र वो॑चत् ।  
+कुत॒ आजा॑ता॒ कुत॑ इ॒यव्विँसृ॑ष्टिः ।  
+अ॒र्वाग्दे॒वा अ॒स्य वि॒सर्ज॑नाय ॥  
+अथा॒ को वे॑द॒ यत॑ आब॒भूव॑ ।
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -2065,12 +2125,17 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+कः। अद्धा- याथातथ्येन। वेद- जानाति। कः। इह- अत्र। प्र वोचत्- प्रवदेत्। कुतः। आजाता-  उद्भूतम्। इयम्- एतत्। विसृष्टिः- विविधनामरूपविसर्जनम्। कुतः- कस्मात्। अस्य- एतस्य। ३    विसर्जनेन- विसृष्टेरनन्तरमेव। देवाः- इन्द्रावरुणादयः। अर्वाक्- अर्वाचीनाः कृताः। अथ-  तस्मात्। यतः- यस्मात्। आबभूव- आजातं जगदिति। कः। वेद- जानाति॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 एवं भोक्तृभोग्यरूपेण सृष्टिः संग्रहेण प्रतिपादिता । ' इ१तावद्वा इदमन्नं चैवान्नादश्च सोम एवान्नमग्निरन्नादन्(श ब्रा. १ ४.२.१३) इतिवत् । अथेदानीं सा सृष्टिर्दुर्विज्ञानेति न विस्तरेणाभिहितेत्याह को अद्धेति । **कः** पुरुषः **अद्धा** पारमार्थ्येन **वेद** जानाति । **कः** वा **इह** अस्मिल्लोके **प्र** **वोचत्** प्रब्रूयात् । **इयं** दृश्यमाना **विसृष्टिः** विविधा भूतभौतिकभोक्तृभोग्यादिरूपेण बहुप्रकारा सृष्टिः **कुतः** कस्मादुपादानकारणात् । **कुतः** कस्माच्च निमित्तकारणात् **आजाता** समन्ताज्जाता प्रादुर्भूता । एतदुभयं सम्यक् को वेद को वा विस्तरेण वक्तुं शक्नुयादित्यर्थः । ननु देवाः अजानन्तः । सर्वज्ञास्ते ज्ञास्यन्ति वक्तुं च शक्नुवन्तीत्यत आह अर्वागिति । **देवाः** च **अस्य** जगतो विसर्जनेन **वियदादिभूतोत्पत्त्यनन्तरं** विविधं यद्भौतिकं सर्जनं सृष्टिस्तेन **अर्वाक्** अर्वाचीनाः कृताः । भूतसृष्टेः पश्चाज्जाता इत्यर्थः । तथाविधास्ते कथं स्वोत्पत्तेः पूर्वकालीनां सृष्टिं जानीयुः । अजानन्तो वा कथं प्रब्रूयुः । उक्तं दुर्विज्ञानत्वं निगमयति । **अथ** एवं सति देवा अपि च जानन्ति किल । तद्व्यतिरिक्तः **कः** नाम मनुष्यादिः **वेद** तज्जगत्कारणं जानाति **यतः** कारणात् कृत्स्नं जगत् **आबभूव** अजायत ॥
 
 ____________________
-13अथ षष्ठीमाह - अत्र केचिदागममुपेक्ष्य स्वस्वबुद्धिवलादन्यथाऽन्यथोत्प्रेक्षन्ते । तथाहि परमाणवो मूलकारणमिति काणादगौतमादयो मन्यन्ते । स्वतन्त्रमचेतनं प्रधानं जगतो मूलकारणमिति कपिलप्रभृतयः । शून्यादितो जगदुत्पत्तिरिति माध्यमिकाः । जगतः कारणमेव नास्ति स्वभावत एवावतिष्ठत इति लोकायतिकाः । ते सर्वेऽपि भ्रान्ता एव । कोऽद्धा वेद जगत्कारणं को नाम पुरुषः साक्षादवगच्छति । अनवगत्य च क इह प्रवोचत् स्वयमदृष्ट्वा को नाम जगत्कारणमीदृगिति वक्तुं शक्नोति । कोऽयमत्र वक्तव्यांश इति चेदुच्यते - इयं विविधा सृष्टिः कुत आजाता कस्मादुपादानकारणात्सर्वत उत्पन्ना, पुनरपि कुतो निमित्तादुत्पन्नेति तदिदमुपादाननिमित्तं च वक्तव्यम् । तच्च वक्तुमशक्यम् । कुतोऽशक्तिरिति चेदुच्यते - किं देवा एतद्ब्रूयुः, उतान्यः कश्चिन्मनुष्यः । न तावद्देवा वक्तुं शक्ताः ते ह्यस्य जगतो विसर्जनाय विविधसृष्टेरर्वागेव विद्यन्ते । न तु सृष्टेः पूर्वं ते सन्ति । यदा देवानाममीदृशी गतिस्तदानीं यतो जगदाबभूव तत्कारणं वक्तुमन्यः को वा वेद । देवाश्च मनुष्याश्च सृष्टेः प्रागवस्थां न तावत्प्रत्यक्षेण पश्यन्ति तदानीं स्वयमेवाभावात् । नाप्यनुमातुं शक्ताः तद्योग्ययोर्हेतुदृष्टान्तयोरभावान् । तस्मादतिगम्भीरमिदं परमार्थतत्त्वं वेदैकसमधिगम्यमित्यभिप्रायः ॥
+अत्र केचिदागममुपेक्ष्य स्वस्वबुद्धिवलादन्यथाऽन्यथोत्प्रेक्षन्ते । तथाहि परमाणवो मूलकारणमिति काणादगौतमादयो मन्यन्ते । स्वतन्त्रमचेतनं प्रधानं जगतो मूलकारणमिति कपिलप्रभृतयः । शून्यादितो जगदुत्पत्तिरिति माध्यमिकाः । जगतः कारणमेव नास्ति स्वभावत एवावतिष्ठत इति लोकायतिकाः । ते सर्वेऽपि भ्रान्ता एव । कोऽद्धा वेद जगत्कारणं को नाम पुरुषः साक्षादवगच्छति । अनवगत्य च क इह प्रवोचत् स्वयमदृष्ट्वा को नाम जगत्कारणमीदृगिति वक्तुं शक्नोति । कोऽयमत्र वक्तव्यांश इति चेदुच्यते - इयं विविधा सृष्टिः कुत आजाता कस्मादुपादानकारणात्सर्वत उत्पन्ना, पुनरपि कुतो निमित्तादुत्पन्नेति तदिदमुपादाननिमित्तं च वक्तव्यम् । तच्च वक्तुमशक्यम् । कुतोऽशक्तिरिति चेदुच्यते - किं देवा एतद्ब्रूयुः, उतान्यः कश्चिन्मनुष्यः । न तावद्देवा वक्तुं शक्ताः ते ह्यस्य जगतो विसर्जनाय विविधसृष्टेरर्वागेव विद्यन्ते । न तु सृष्टेः पूर्वं ते सन्ति । यदा देवानाममीदृशी गतिस्तदानीं यतो जगदाबभूव तत्कारणं वक्तुमन्यः को वा वेद । देवाश्च मनुष्याश्च सृष्टेः प्रागवस्थां न तावत्प्रत्यक्षेण पश्यन्ति तदानीं स्वयमेवाभावात् । नाप्यनुमातुं शक्ताः तद्योग्ययोर्हेतुदृष्टान्तयोरभावान् । तस्मादतिगम्भीरमिदं परमार्थतत्त्वं वेदैकसमधिगम्यमित्यभिप्रायः ॥
 
 </details>
 
@@ -2148,23 +2213,27 @@ Wer weiss es recht? wer mag es hier verkünden? woher entstand, woher sie kam di
 </div>
 
 ###### 07 इयं विसृष्थिर्यत - त्रिष्टुप्
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/07_iyaM_visRShTiryata.md">
-<details open><summary><h12>विश्वास-प्रस्तुतिः ...{Loading}...</h12></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/07_iyaM_visRShTiryata.md">
+<details open><summary><h7>विश्वास-प्रस्तुतिः …{Loading}…</h7></summary>
 
-इयं᳓ वि᳓सृष्टिर् य᳓त आबभू᳓व । य᳓दि वा +++(स्वरूपं)+++ दधे᳓ य᳓दि वा न᳓ ।  
-यो᳓ अस्या᳓ध्यक्षः परमे᳓ व्यो᳙मन् - सो᳓ अङ्ग᳓ वेद य᳓दि वा न᳓ वे᳓द ।
+इयं᳓ वि᳓सृष्टिर् य᳓त आबभू᳓व ।  
+य᳓दि वा +++(स्वरूपं)+++ दधे᳓ य᳓दि वा न᳓ ।  
+यो᳓ अस्या᳓ध्यक्षः परमे᳓ वि᳓ओमन् -  
+सो᳓ अङ्ग᳓ वेद य᳓दि वा न᳓ वे᳓द ।
 
 </details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/129/07_iyaM_visRShTiryata.md">
-<details><summary><h12>मूलम् ...{Loading}...</h12></summary>
+<details><summary><h7>मूलम् …{Loading}…</h7></summary>
 
 इ॒यं विसृ॑ष्टि॒र्यत॑ आब॒भूव॒ यदि॑ वा द॒धे यदि॑ वा॒ न ।  
 यो अ॒स्याध्य॑क्षः पर॒मे व्यो॑म॒न्त्सो अ॒ङ्ग वे॑द॒ यदि॑ वा॒ न वेद॑ ॥
 </details>
 </div>
+
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/07_iyaM_visRShTiryata.md">
-<details><summary><h12>सर्वाष् टीकाः ...{Loading}...</h12></summary>
+<details><summary><h7>सर्वाष् टीकाः …{Loading}…</h7></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - भाववृत्तं
@@ -2410,6 +2479,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इयम्- एषा। विसृष्टिः- नानानामरूपसृष्टिः। यतः- कस्मादुपादानादप्राकृतात्। आबभूव- अभवत्।  यदि वा दधे यदि वा न- सृष्टेरनन्तरं तदुपादानकारणं कथं सर्वं नामरूपमिदानीमप्यनुवर्तते। इति।  परमे व्योमन्- चिदाकाशे तस्मिन्नेवोपादाने स्वस्वरूपे। यः। अस्य- एतस्य जगतः। अध्यक्षः-  स्थितिकारको विष्णुर्भवति। सो अङ्ग वेद यदि वा न वेद- सोपि जानाति वा न वा। अन्यदेव  तद्विदितादथो अविदितादधीत्युपनिषदनुसन्धातव्योऽत्र॥७॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 उक्तप्रकारेण यथेदं जगत्सर्जनं दुर्विज्ञानं एवं सृष्टं तज्जगत् दुर्धरमपीत्याह इयमिति । **यतः** उपादानभूतात् परमात्मनः **इयं** **विसृष्टिः** विविधा गिरिनदीसमुद्रादिरूपेण विचित्रा सृष्टिः **आबभूव** आजाता सोऽपि किल **यदि** **वा** **दधे** धारयति **यदि** **वा** **न** धारयति । एवं च को नाम अन्यो धर्तुं शक्नुयात् । यदि धारयेदीश्वर एव धारयेन्नान्य इत्यर्थः । एतेन कार्यस्य धारयितृत्वप्रतिपादनेन ब्रह्मण उपादानकारणत्वमुक्तं भवति । तथा च पारमार्षं सूत्रं --' प्रकृतिश्च प्रतिज्ञादृष्टान्तानुपरोधात् ' ( वे. सू. १. ४.२३) इति । यद्वा । अनेनार्धर्चेन पूर्वोक्तं सृष्टेर्दुर्ज्ञानत्वमेव
@@ -2427,7 +2501,7 @@ _________________
 _________
 **English translation:**  
 
-“He from whom this creation arose, he may uphold it, or he may not (no one else can); he who is itssuperintendent in the highest heaven, he assuredly knows, or if he knows not (no one else does).”
+“He from whom this creation arose, he may uphold it, or he may not (no one else can); he who is its superintendent in the highest heaven, he assuredly knows, or if he knows not (no one else does).”
 
 _________
 **Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
@@ -2493,20 +2567,35 @@ Von wannen diese Schöpfung sei gekommen, ob sie geschaffen oder unerschaffen, D
 </details>
 </details>
 </div>
-</details>
-</div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/081/04_kiM_svidvanaM.md">
-<details open><summary><h7>०४ किं स्विद्वनं ...{Loading}...</h7></summary>
 
-किं᳓ स्विद्व᳓नं क᳓ उ स᳓ वृक्ष᳓ **आस**+++(आसीत् इति तैत्तिरीयपाठः)+++᳙ -  
+</div>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/081/04_kiM_svidvanaM.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+किं᳓स्विद् व᳓नं क᳓ उ स᳓ वृक्ष᳓ **आस**+++(आसीत् इति तैत्तिरीयपाठः)+++ -  
 य᳓तो द्या᳓वापृथिवी᳓ **निष्टतक्षुः᳓**+++(←तक्ष्)+++ ।  
 म᳓नीषिणो म᳓नसा **पृच्छ᳓ते᳓द्** उ त᳓द् -  
-य᳓द् **अध्य᳓तिष्ठ᳓द्** भु᳓वनानि **धार᳓य᳓न्** ।  
+य᳓द् **अध्य᳓तिष्ठद्** भु᳓वनानि **धार᳓यन्** ।  
 
 </details>
+
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/081/04_kiM_svidvanaM.md">
-<details open><summary><h7>004 ...{Loading}...</h7></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/081/04_kiM_svidvanaM.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
+
+किं स्वि॒द्वनं॒ क उ॒ स वृ॒क्ष आ॑स॒ यतो॒ द्यावा॑पृथि॒वी नि॑ष्टत॒क्षुः ।  
+मनी॑षिणो॒ मन॑सा पृ॒च्छतेदु॒ तद्यद॒ध्यति॑ष्ठ॒द्भुव॑नानि धा॒रय॑न् ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/081/04_kiM_svidvanaM.md">
+
+<details open><summary><h2>004 …{Loading}…</h2></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वकर्मा
@@ -2745,6 +2834,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यतः। द्यावापृथिवी- द्यावापृथिव्यौ। निष्टतक्षुः- द्योतनशक्तयस्तक्षणेन निष्पादितवन्तः। तत्।  वनम्- आरण्यम्। किं स्वित्। सः- असौ। वृक्षः- तरुः। कः। आस- अभवत्। मूलकारणं  किमिति भावः। यत्। भुवनानि- लोकान्। धारयन्। अध्यतिष्ठत्- अधितिष्ठति। न केवलं सृजति  किन्तु धारयति चेति भावः। तत् प्रति। मनीषिणः- हे मेधाविनः। पृच्छत- विचारयत॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 पूर्वस्यामृच्युक्तं ब्रह्मैव भूम्यादिकारणमिति । तदेवानया प्रश्नकथनव्याजेनोच्यते । लोके हि प्रौढं प्रासादं निर्मिमाणः कस्मिंश्चित्प्रौढे वने कंचित् महान्तं वृक्षं छित्त्वा तक्षणादिना स्तम्भादिकं संपादयति । इह तु परमेश्वरप्रेरिता जगत्स्रष्टारः **यतः** यस्माद्विनाद्यं वृक्षमादाय **द्यावापृथिवी** **निष्टतक्षुः** तक्षणेन द्यावापृथिव्यौ निष्पादितवन्तः तत् **वनं** **किं** **स्वित्** किं नाम स्यात् । तथा **क** **उ** **स** **वृक्ष** आस कस्तादृशो महान् वृक्षोऽभूत् । हे **मनीषिणः** मनस ईश्वराः तदुभयं **मनसा** जिज्ञासायुक्तेन **पृच्छतेदु** पृच्छतैव। किंच ईश्वरः **भुवनानि** **धारयन्** **यत्** स्थानम् **अध्यतिष्ठत्** **तत्** अपि पृच्छत । एतस्य सर्वस्याप्युत्तरं  ‘ ब्रह्म स वृक्ष आसीत् ' इत्यादिकमुत्तरम् ॥
@@ -2803,18 +2897,30 @@ Was war der Wald, und was war jener Baum doch, aus dem sie Erd' und Himmel schö
 - धैवतः
 </details>
 </details>
-</div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/9_08-16_nAsadIyam/24_brahma_vanam.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
-ब्रह्म॒ वन॒म् ब्रह्म॒ स वृ॒क्ष **आ॑सीत्** ॥ 76 ॥  
-यतो॒ द्यावा॑पृथि॒वी **नि॑ष्टत॒क्षुः**+++(←तक्ष्)+++ ।   
-मनी॑षिणो॒ मन॑सा॒ **विब्र॑वीमि** वः ।  
-ब्रह्मा॒ध्यति॑ष्ठ॒द् +++("चादिलोपे विभाषा")+++ भुव॑नानि **धा॒रय॑न्** ।
-</details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/9_08-16_nAsadIyam/24_brahma_vanam.md">
-<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+16अथ नवमीमाह ।
+</details>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/9_08-16_nAsadIyam/24_brahma_vanam.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+ब्र᳓ह्म व᳓नम् ब्र᳓ह्म स᳓ वृक्ष᳓ **आसीत्** ॥ 76 ॥  
+य᳓तो द्या᳓वापृथिवी᳓ **निष्टतक्षुः᳓**+++(←तक्ष्)+++ ।   
+म᳓नीषिणो म᳓नसा **वि᳓ब्रवीमि** वः ।  
+ब्र᳓ह्माध्य᳓तिष्ठद् +++("चादिलोपे विभाषा")+++ भु᳓वनानि **धार᳓यन्** ।
+
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/9_08-16_nAsadIyam/24_brahma_vanam.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 ब्रह्म॒ वन॒म्ब्रह्म॒ स वृ॒क्ष आ॑सीत् ॥ 76 ॥  
@@ -2825,13 +2931,14 @@ Was war der Wald, und was war jener Baum doch, aus dem sie Erd' und Himmel schö
 
 <details><summary>सायण-टीका</summary>
 
-16अथ नवमीमाह । यदुक्तं मनीषिणां प्रश्नत्रयं तस्याचार्य उत्तरं ब्रूते ।  
+यदुक्तं मनीषिणां प्रश्नत्रयं तस्याचार्य उत्तरं ब्रूते ।  
 यस्माद् वनजन्याद् वृक्षात् द्यावापृथिव्यौ निर्मिते तद्वनस्थानीयं तद्वृक्षस्थानीयं ब्रह्मैव, तस्य सर्वशक्तित्वात् ।  
 यस्योत्पाद्यस्य या सामग्र्य्-अपेक्षिता सा सर्वा तस्मिन्विद्यते ।  
 तद् एव ब्रह्म सर्वाणि भुवनानि स्वस्मिन् धारयति नियमयति च ।  
 हे मनीषिणः आचार्योऽहं मनसा निश्चित्य वः युष्मभ्यं विब्रवीमि विविधमुत्तरं ब्रवीमि ॥
 </details>
 </details>
+
 </div>
 </details>
 </div> 

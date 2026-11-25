@@ -12,39 +12,43 @@ RV.9.107.19a; SV.1.516a; 2.272a; JB.3.67a; PB.12.9.3a; Svidh.1.5.8.
 
 +++([सायणो [ऽत्र।](https://archive.org/stream/b30094306_0005#page/n417/mode/1up&sa=D&ust=1542425956316000) ७ ऋषयः। सोमः।])+++
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/6/1/30_0516_tavAhaM_soma.md">
-<details open><summary><h4>30_0516 तवाहं सोम ...{Loading}...</h4></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/6/1/30_0516_tavAhaM_soma.md">
+<details open><summary><h3>30_0516 तवाहं सोम ...{Loading}...</h3></summary>
 
 त꣢वा꣣ह꣡ꣳ सो꣢म रारण स꣣ख्य꣡ इ꣢न्दो दि꣣वे꣡दि꣢वे। पु꣣रू꣡णि꣢ बभ्रो꣣ नि꣡ च꣢रन्ति꣣ मा꣡मव꣢꣯ परि꣣धी꣢꣫ꣳरति꣣ ता꣡ꣳ इ꣢हि ॥ 30:0516 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/107/19_tavAhaM_soma.md">
-<details open><summary><h6>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h6></summary>
+<details open><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
 
-त᳓वाहं᳓ सोम रारण +++(=सन्तुष्टवान्)+++  
-सख्य᳓ इन्दो दिवे᳓दिवे ।  
-पुरू᳓णि +++(=बहूनि)+++ बभ्रो +++(=बभ्रुवर्णः)+++ नि᳓ चरन्ति +++(राक्षसाः)+++  
-मा᳓म् अ᳓व +++(रक्षोभ्यः)+++  
+
+
+तवा॒हं सो॑म रारण +++(=सन्तुष्टवान्)+++  
+स॒ख्य इ॑न्दो दि॒वेदि॑वे ।  
+पु॒रूणि॑ +++(=बहूनि)+++ बभ्रो॒ +++(=बभ्रुवर्णः)+++ नि च॑रन्ति॒ +++(राक्षसाः)+++  
+माम् अव॑ +++(रक्षोभ्यः)+++  
 +++(तव मत्स्व इति साम्नि)+++
 
-परिधीँ᳓र् अ᳓ति ताँ᳓ इहि +++(=अतिगच्छ)+++ १९  
+परि॒धीँर् अति॒ ताँ इ॑हि +++(=अतिगच्छ)+++ १९  
 
 </details>
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/3/1/11-2_0923_tavAhaM_naktamuta.md">
-<details open><summary><h4>11-2_0923 तवाहं नक्तमुत ...{Loading}...</h4></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/3/1/11-2_0923_tavAhaM_naktamuta.md">
+<details open><summary><h3>11-2_0923 तवाहं नक्तमुत ...{Loading}...</h3></summary>
 
 त꣢वा꣣हं꣡ नक्त꣢꣯मु꣣त꣡ सो꣢म ते꣣ दि꣡वा꣢ दुहा꣣नो꣡ ब꣢भ्र꣣ ऊ꣡ध꣢नि। घृ꣣णा꣡ तप꣢꣯न्त꣣म꣢ति꣣ सू꣡र्यं꣢ प꣣रः꣡ श꣢कु꣣ना꣡ इ꣢व पप्तिम ॥ 11-2:0923 ॥ ॥11 (ति)॥ [धा. 14 । उ 1 । स्व. 3 ।]
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/107/20_utAhaM_naktamuta.md">
-<details open><summary><h6>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h6></summary>
+<details open><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+
+
 
 उता᳓हं᳓ +++(तवाहम् इति साम्नि)+++ न᳓क्तम् उत᳓ सोम ते दिवा,  
 +++(परिमत्स्व इति साम्नि)+++
 
 दुहानो बभ्र ऊ᳓धनि।  
-+++(सख्याय बभ्र ऊधनि। इति ऋचि)+++᳓  
++++(सख्याय बभ्र ऊधनि। इति ऋचि)+++  
 घृणा᳓ +++(=दीप्त्या)+++ त᳓पन्तम᳓ति सू᳓र्यम्परः᳓ शकुना᳓ इव पप्तिम +++(=अतिपताम)+++  
 +++(दुह मत्स्व इति साम्नि)+++।
 
@@ -53,8 +57,10 @@ RV.9.107.19a; SV.1.516a; 2.272a; JB.3.67a; PB.12.9.3a; Svidh.1.5.8.
 </details>
 </div>  
 
+
 ![](/devaH/AryaH/hindukaH/somaH/images/soma-enthroned.png)
 {class="thumbnail"}
+
 
 ## साम
 

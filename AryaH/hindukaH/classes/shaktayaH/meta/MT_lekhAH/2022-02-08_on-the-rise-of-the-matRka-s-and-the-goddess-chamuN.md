@@ -25,10 +25,10 @@ Below we provide an Atharvavedic version of these incantations (the subset which
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/atharva/paippalAdam/saMhitA/vishvAsa-prastutiH/20/011/10_yA_rAkA_yA.md">
 <details open><summary><h5>१० या राका या ...{Loading}...</h5></summary>
 
-या रा॒का या सि॑नीवा॒ली  
-या गु॒ङ्गूर् या सर॑स्वती ।  
-इ॒न्द्रा॒णीम् अ॑ह्व ऊ॒तये॑  
-वरुणा॒नीं स्व॒स्तये॑ ॥  
+या᳓ राका᳓ या᳓ सिनीवाली᳓  
+या᳓ गुङ्गू᳓र् या᳓ स᳓रस्वती ।  
+इन्द्राणी᳓म् अह्व ऊत᳓ये  
+वरुणानीं᳓ स्वस्त᳓ये ॥  
 </details>
 </div>  
 

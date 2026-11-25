@@ -9,15 +9,16 @@ practice_weight = 0
 
 ## ऋक्
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/6/2/18-1_1426_abhi_vAyum.md">
-<details open><summary><h4>18-1_1426 अभि वायुम् ...{Loading}...</h4></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/6/2/18-1_1426_abhi_vAyum.md">
+<details open><summary><h3>18-1_1426 अभि वायुम् ...{Loading}...</h3></summary>
 
 अ꣣भि꣢ वा꣣युं꣢ वी꣣꣬त्य꣢꣯र्षा गृणा꣣नो꣢꣣ऽ. ऽभि꣣ मि꣣त्रा꣡वरु꣢꣯णा पू꣣य꣡मा꣢नः। अ꣣भी꣡ नरं꣢꣯ धी꣣ज꣡व꣢नꣳ रथे꣣ष्ठा꣢म꣣भी꣢न्द्रं꣣ वृ꣡ष꣢णं꣣ व꣡ज्र꣢बाहुम् ॥ 18-1:1426 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/097/49_abhi_vAyuM.md">
-<details open><summary><h6>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h6></summary>
+<details open><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
 
-अभि᳓ वायुं᳓ वीत्य्+++((त्यै)=पानाय)+++ अ᳙र्षा+++(=गच्छ)+++  गृणानो३᳓+++(=स्तूयमानः)+++  
+
+अभि᳓ वायुं᳓ वीत्य्+++((त्यै)=पानाय)+++ अ᳙र्षा+++(=गच्छ)+++  गृणानो᳙+++(=स्तूयमानः)+++  
 ऽभि᳓ मित्रा᳓व᳓रुणा पूय᳓मानः ।  
 अभी᳓ न᳓रं+++(=नेतारं)+++ धीज᳓वनं+++(=धीजवं)+++  रथेष्ठा᳓म्+++(अश्वियुग्मम्)+++ अभी᳓न्द्रं वृ᳓षणं व᳓ज्रबाहुम् ॥
 

@@ -10,15 +10,16 @@ unicode_script: devanagari
 15यदुक्तं सूत्रकारेण 'श्रद्धायै वेहतम्' इति, तस्य पशोः सूक्ते वपायाः पुरोनुवाक्यामाह - 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
-श्र॒द्धया॒ऽग्निस्समि॑ध्यते ।  
-श्र॒द्धया॑ विन्दते ह॒विः ।   
-श्र॒द्धाम्भग॑स्य मू॒र्धनि॑ ।  
-वच॒सा ऽऽवे॑दयामसि ।
+श्रद्ध᳓याऽग्नि᳓स्स᳓मिध्यते ।  
+श्रद्ध᳓या विन्दते हविः᳓ ।   
+श्रद्धा᳓म्भ᳓गस्य मूर्ध᳓नि ।  
+व᳓चसा᳓ ऽऽवेदयामसि ।
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/151/01_shraddhayAgniH_samidhyate.md">
-<details open><summary><h7>001 ...{Loading}...</h7></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/151/01_shraddhayAgniH_samidhyate.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - श्रद्धा
@@ -42,10 +43,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)
 _________
 **Morph**  
 agníḥ ← agní- (nominal stem)  
@@ -174,6 +175,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+श्रद्धया। अग्निः- पावकः। समिध्यते- समुद्दीपितो भवति। श्रद्धया। हविः- हव्यम्। हूयते- अग्नौ  दीयते। श्रद्धाम्। भगस्य- सौभाग्यस्य। मूर्धनि- उपरि। वचसा- मन्त्रेण। वेदयामसि-  जानीमः॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 पुरुषगतोऽभिलाषविशेषः श्रद्धा । तथा **श्रद्धया** **अग्निः** गार्हपत्यादिः **समिध्यते** संदीप्यते । यदा हि पुरुषे श्रद्धाग्निगोचर आदरातिशयो जायते तदैष पुरुषोऽग्नीन् प्रज्वालयति नान्यदा । **श्रद्धया** एव हविः पुरोडाशादिहविश्च **हूयते** । आहवनीये प्रक्षिप्यते । यद्वा । अस्य सूक्तस्य द्रष्ट्या श्रद्धाख्ययाग्निः समिध्यते । **श्रद्धाम्** उक्तलक्षणायाः श्रद्धाया अभिमानिदेवता **भगस्य** भजनीयस्य धनस्य **मूर्धनि** प्रधानभूते स्थानेऽवस्थितां **वचसा** वचनेन स्तोत्रेण आ **वेदयामसि** अभितः प्रख्यापयामः । इदन्तो मसिः ॥
@@ -252,23 +258,39 @@ Durch Glauben wird das Feu'r entflammt, durch Glauben Opferguss geweiht; Auch au
 
 पदार्थान्वयभाषाः -  (श्रद्धया-अग्निः समिध्यते) यथावद्धारणया यथावच्छास्त्रविधिनाऽग्निः साधुरूपे दीप्तो भवति (श्रद्धया हविः-हूयते) यथावद्धोमपद्धत्या होम्यं द्रव्यं साधुहोतुं युज्यते (भगस्य मूर्धनि) ऐश्वर्यस्योत्कृष्टाङ्गे स्थिताम् (श्रद्धां वचसा-आवेदयामसि) यथावद्धारणां वयं भाषणेन घोषयामः ॥१॥
 </details>
-</details>
+
 </div>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 6अथ वपाया याज्यामाह - 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/151/02_priyaM_shraddhe.md">
-<details open><summary><h7>०२ प्रियं श्रद्धे ...{Loading}...</h7></summary>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/151/02_priyaM_shraddhe.md">
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 प्रियं᳓ श्रद्धे द᳓दतः  
 प्रियं᳓ श्रद्धे दि᳓दासतः  
 प्रिय᳓म् भोजे᳓षु य᳓ज्वसु  
 इद᳓म् म उदितं᳓ कृधि
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/151/02_priyaM_shraddhe.md">
-<details open><summary><h7>002 ...{Loading}...</h7></summary>
+
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/151/02_priyaM_shraddhe.md">
+
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
+
+प्रि॒यँ श्र॑द्धे॒ दद॑तः । प्रि॒यँ श्र॑द्धे॒ दिदा॑सतः ।  
+प्रि॒यं भो॒जेषु॒ यज्व॑सु। इ॒दं म॑ उदि॒तङ् कृ॑धि ।  
+
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/151/02_priyaM_shraddhe.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - श्रद्धा
@@ -292,10 +314,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)
 _________
 **Morph**  
 dádataḥ ← √dā- 1 (root)  
@@ -439,6 +461,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+श्रद्धे। ददतः- यच्छतः। प्रियं कुरु। दिदासतः- दातुमिच्छतः। प्रियं कुरु। भोजेषु-  सोमसम्पादकेषु। यज्वसु- यजमानेषु। प्रियं कुरु। इदम्- एतत्। उदितम्- उक्तम्। मे- मम।  कृधि- कुरु॥२॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **श्रद्धे** **ददतः** चरुपुरोडाशादीनि प्रयच्छतो यजमानस्य **प्रियम्** अभीष्टफलं कुरु । **दिदासतः** दातुमिच्छतश्च हे **श्रद्धे** **प्रियं** कुरु । **मे** मम संबन्धिषु **भोजेषु** भोक्तृषु भोगार्थिषु **यज्वसु** कृतयज्ञेषु जनेषु च **इदम्** **उदितम्** उक्तं **प्रियं** **कृधि** कुरु ।
@@ -507,23 +534,39 @@ O Glaube, lieb mach dieses Wort des Spenders, der noch spenden will, Mach lieb e
 
 पदार्थान्वयभाषाः -  (श्रद्धे मे-इदम्-उदितम्) हे श्रद्धे सत्-आस्थे ममेदं घोषितवचनम् (ददतः प्रियं कृधि) दानं प्रयच्छतो जनस्य प्रियं कल्याणं कुरु (श्रद्धे दिदासतः प्रियम्) हे सदास्थे ! दातुमिच्छतः प्रियं कल्याणं कुरु (भोजेषु यज्वसु) दानस्य भोक्तृषु दक्षिणां गृहीतवत्सु खल्वृत्विक्षु प्रियं कल्याणं कुरु ॥२॥
 </details>
-</details>
+
 </div>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 17अथ पुरोडाशस्य पुरोनुवाक्यामाह - 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/151/03_yathA_devA.md">
-<details open><summary><h7>०३ यथा देवा ...{Loading}...</h7></summary>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/151/03_yathA_devA.md">
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 य᳓था देवा᳓ अ᳓सुरेषु  
 श्रद्धा᳓म् उग्रे᳓षु चक्रिरे᳓  
 एव᳓म् भोजे᳓षु य᳓ज्वसु  
 अस्मा᳓कम् उदितं᳓ कृधि
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/151/03_yathA_devA.md">
-<details open><summary><h7>003 ...{Loading}...</h7></summary>
+
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/151/03_yathA_devA.md">
+
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
+
+यथा॑ दे॒वा असु॑रेषु । श्र॒द्धाम् उ॒ग्रेषु॑ चक्रि॒रे ।  
+ए॒वं भो॒जेषु॒ यज्व॑सु । अ॒स्माक॑म् उदि॒तङ् कृ॑धि ।  
+
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/151/03_yathA_devA.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - श्रद्धा
@@ -547,10 +590,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)
 _________
 **Morph**  
 ásureṣu ← ásura- (nominal stem)  
@@ -689,6 +732,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यथा। देवाः- देवताः। उग्रेषु- उद्गूर्णासु। असुरेषु- प्राणदशक्तिषु। श्रद्धाम्। चक्रिरे- कृतवन्तः।  एवम्- तथा। भोजेषु- रसनिष्पादकेषु। यज्वसु- यजमानेषु। श्रद्धां कुरु। अस्माकम्- नः।  उदितम्- उक्तं प्रियम्। कृधि- कुरु॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **देवाः** इन्द्रादयः असुरेषु उद्गूर्णबलेषु **यथा** **श्रद्धां** **चक्रिरे** अवश्यमिमे हन्तव्या इत्यादरातिशयं कृतवन्तः **एवं** श्रद्धावत्सु **भोजेषु** भोक्तृषु भोगार्थिषु **यज्वसु** यष्टृषु **अस्माकम्** अस्मत्संबन्धिषु तेषु **उदितं** तैरुक्तं प्रार्थितं फलजातं कृधि कुरु ॥
@@ -756,8 +804,9 @@ Wie Götter der Asurenschar, der starken, schenkten ihr Vertraun, So mache du au
 
 पदार्थान्वयभाषाः -  (यथा-उग्रेषु-असुरेषु) यथा क्रूरेषु-अस्तव्यस्तेषु दुष्टजनेषु तेषामुपरि (देवाः श्रद्धां चक्रिरे) मुमुक्षवो विद्वांसो यथोचितधारणां दैवीं शक्तिं प्रेरयन्ति (एवं भोजेषु यज्वसु अस्माकम्-उदितम् कृधि) एवं भोजनदातृषु तथा यजमानेषु खल्वस्माकमिदमाशीर्वचनं कल्याणप्रदं कुरु ॥३॥
 </details>
-</details>
+
 </div>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 18अथ पुरोडाशस्य याज्यामाह - 
@@ -765,10 +814,10 @@ Wie Götter der Asurenschar, der starken, schenkten ihr Vertraun, So mache du au
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श्र॒द्धां दे॒वा यज॑माना  
-वा॒युगो॑पा॒ **उपा॑सते** ।  
-श्र॒द्धां हृ॑द॒य्य१॒॑या ऽऽकू॑त्या+++(=संकल्पक्रियया [उपासते])+++,  
-श्र॒द्धया॑ हूयते ह॒विः॥
+श्रद्धां᳓ देवा᳓ य᳓जमाना  
+वायु᳓गोपा **उ᳓पासते** ।  
+श्रद्धां᳓ हृदय्य᳙१᳓या᳓ ऽऽकूत्या+++(=संकल्पक्रियया [उपासते])+++,  
+श्रद्ध᳓या हूयते हविः᳓॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -778,8 +827,8 @@ Wie Götter der Asurenschar, der starken, schenkten ihr Vertraun, So mache du au
 श्र॒द्धाँ हृ॑द॒य्य॑याऽऽकू॑त्या ।  
 श्र॒द्धया॑ हूयते ह॒विः ।
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/151/04_shraddhAM_devA.md">
-<details open><summary><h7>004 ...{Loading}...</h7></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/151/04_shraddhAM_devA.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - श्रद्धा
@@ -791,7 +840,7 @@ Wie Götter der Asurenschar, der starken, schenkten ihr Vertraun, So mache du au
 
 श्रद्धां᳓ देवा᳓ य᳓जमाना  
 वायु᳓गोपा उ᳓पासते  
-श्रद्धां᳓ हृदय्य᳡या᳓कूत्या  
+श्रद्धां᳓ हृदय्य᳙या᳓कूत्या  
 श्रद्ध᳓या विन्दते व᳓सु
 </details>
 
@@ -803,10 +852,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)
 _________
 **Morph**  
 devā́ḥ ← devá- (nominal stem)  
@@ -931,6 +980,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+श्रद्धाम्। यजमानाः- उपासकाः। देवाः। वायुगोपाः- प्राणगुप्ताः। उपासते। हृदय्या- हृदयस्थया।  आकूत्या- प्रज्ञया। श्रद्धां कुरु। श्रद्धया। वसु- चित्तवृत्तिस्तम्भम्। वसु स्तम्भे। विन्दते-  लभते॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **देवा** **यजमाना** मनुष्याश्च **वायुगोपाः** वायुर्गोपा रक्षिता येषां ते तादृशाः सन्तः **श्रद्धां** देवीम् **उपासते** प्रार्थयन्ते । हृदय्यया । हृदये भवा हृदय्या। तथाविधया **आकूत्या** संकल्परूपया क्रियया **श्रद्धाम्** एव परिचरन्ति सर्वे जनाः । कुत इत्यत आह । यतः कारणात् **श्रद्धया** हेतुभूतया **वसु** धनं **विन्दते** लभते श्रद्धावाञ्जनः । तत इत्यर्थः ॥
@@ -1004,14 +1058,16 @@ Den Glauben ehren andachtsvoll die Götter, die der Wind beschirmt; Der Glaube w
 
 पदार्थान्वयभाषाः -  (देवाः-हृदय्यया-आकूत्या श्रद्धाम्) मुमुक्षवो विद्वांसो हृदयस्था-हङ्कृत्या श्रद्धां सदिच्छां सेवन्ते पूरयन्ति (यजमानाः-वायुगोपाः श्रद्धाम्-उपासते) यजनशीलाः प्राणायामैर्वायू रक्षको येषां ते तथाभूताः श्रद्धां सदिच्छां सेवन्ते ते (श्रद्धया वसु विन्दते) सदिच्छया वासकं धनं लभन्ते ॥४॥
 </details>
-</details>
 </div>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 19अथ हविषः पुरोनुवाक्यामाह - 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/151/05_shraddhAM_prAtarhavAmahe.md">
-<details open><summary><h7>०५ श्रद्धां प्रातर्हवामहे ...{Loading}...</h7></summary>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/151/05_shraddhAM_prAtarhavAmahe.md">
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 श्रद्धां᳓ प्रात᳓र् **हवामहे**  
 श्रद्धां᳓ मध्य᳓न्दिनं **प᳓रि** ।  
@@ -1019,9 +1075,22 @@ Den Glauben ehren andachtsvoll die Götter, die der Wind beschirmt; Der Glaube w
 श्र᳓द्धे **श्र᳓द्धापयेह᳓** नः ॥
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/151/05_shraddhAM_prAtarhavAmahe.md">
-<details open><summary><h7>005 ...{Loading}...</h7></summary>
+
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/151/05_shraddhAM_prAtarhavAmahe.md">
+
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
+
+श्र॒द्धां प्रा॒तर् ह॑वामहे । श्र॒द्धां म॒ध्यन्दि॑नं॒ परि॑ ।  
+श्र॒द्धाँ सूर्य॑स्य नि॒म्रुचि॑ । श्रद्धे॒ श्रद्धा॑पये॒ह मा॑ ।
+
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/151/05_shraddhAM_prAtarhavAmahe.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - श्रद्धा
@@ -1045,10 +1114,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)  
-popular;; epic anuṣṭubh (292)
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)
 _________
 **Morph**  
 havāmahe ← √hū- (root)  
@@ -1188,6 +1257,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+प्रातः- उषसि। श्रद्धाम्। हवामहे- आह्वयामः। मध्यंदिनं परि- मध्याह्ने। श्रद्धां हवामहे। सूर्यस्य  निम्रुचि- सायम्। श्रद्धां हवामहे। श्रद्धे। नः- अस्मान्। श्रद्धापय- श्रद्धावतः कुरु॥५॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **श्रद्धां** देवीं प्रातः पूर्वाह्ने हवामहे । तथा **मध्यंदिनं** परि । लक्षणे परेः कर्मप्रवचनीयत्वम् । मध्यंदिनं परिलक्ष्य । मध्यंदिन इत्यर्थः । मध्याह्नेऽपि तां **श्रद्धां** आह्वयामहे । **सूर्यस्य** सर्वस्य प्रेरकस्यादित्यस्य **निम्रुचि**   अस्तमयवेलायां सायं समयेऽपि तामेव **श्रद्धाम्** आह्वयामहे । ईदृग्रूपे हे **श्रद्धे** **नः** 
@@ -1258,23 +1332,30 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 
 पदार्थान्वयभाषाः -  (प्रातः श्रद्धां हवामहे) प्रातःकाले यथावद्धारणां खल्वास्तिकतां परमात्मप्रीतिम्-आमन्त्रयामहे (मध्यन्दिनं परि श्रद्धाम्) दिनस्य मध्येऽपि परमात्मप्रीतिमामन्त्रयामहे (सूर्यस्य निम्रुचि श्रद्धाम्) सूर्यस्यास्तगमने “म्रुचु गत्यर्थः” [भ्वादि०] ‘नि पूर्वात् क्विप् निम्रुच् सप्तम्यां निम्रुचि’ परमात्मप्रीतिमामन्त्रयामहे (श्रद्धे नः-इह श्रद्धापय) हे श्रद्धे-आस्तिकभावने परमात्मप्रीते ! अस्मानस्मिन् जीवने श्रद्धामयान् कुरु ॥५॥
 </details>
-</details>
+
 </div>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 20अथ हविषो याज्यामाह - 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_15-20_shraddhayA/07_shraddhA_devAnadhi.md">
-<details open><summary><h6>विश्वास-प्रस्तुतिः ...{Loading}...</h6></summary>
 
-श्र॒द्धा दे॒वानधि॑ **वस्ते** ।  
-श्र॒द्धा विश्व॑म् इ॒दञ् जग॑त् ।   
-श्र॒द्धाङ् काम॑स्य मा॒तर॑म् ।   
-ह॒विषा॑ **वर्धयामसि** ।
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_15-20_shraddhayA/07_shraddhA_devAnadhi.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+श्रद्धा᳓ देवा᳓न᳓धि **वस्ते** ।  
+श्रद्धा᳓ वि᳓श्वम् इद᳓ञ् ज᳓गत् ।   
+श्रद्धा᳓ङ् का᳓मस्य मात᳓रम् ।   
+हवि᳓षा **वर्धयामसि** ।
+
 </details>
+
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_15-20_shraddhayA/07_shraddhA_devAnadhi.md">
-<details open><summary><h6>सर्वाष् टीकाः ...{Loading}...</h6></summary>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_15-20_shraddhayA/07_shraddhA_devAnadhi.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 श्र॒द्धा दे॒वानधि॑ वस्ते ।  
@@ -1288,6 +1369,7 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 इयं श्रद्धा देवी देवानधिवस्ते देवेष्वधिवसति । विश्वं सर्वमिदं जगत् श्रद्धामयं, इच्छाविश्वासव्यतिरेकेण कस्यापि व्यवहारस्याभावात् । कामस्य मातरं काम्यमानफलस्योत्पादिका श्रद्धां देवीं अनेन हविषा वर्धयामसि अभिवृद्धां संतुष्टां कुर्मः ॥
 </details>
 </details>
+
 </div>
 </details>
 </div> 

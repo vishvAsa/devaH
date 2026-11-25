@@ -12,28 +12,28 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/atharva/paippalAdam/saMhitA/vishvAsa-prastutiH/20/011/10_yA_rAkA_yA.md">
 <details open><summary><h5>१० या राका या ...{Loading}...</h5></summary>
 
-या रा॒का या सि॑नीवा॒ली  
-या गु॒ङ्गूर् या सर॑स्वती ।  
-इ॒न्द्रा॒णीम् अ॑ह्व ऊ॒तये॑  
-वरुणा॒नीं स्व॒स्तये॑ ॥  
+या᳓ राका᳓ या᳓ सिनीवाली᳓  
+या᳓ गुङ्गू᳓र् या᳓ स᳓रस्वती ।  
+इन्द्राणी᳓म् अह्व ऊत᳓ये  
+वरुणानीं᳓ स्वस्त᳓ये ॥  
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/atharva/paippalAdam/saMhitA/vishvAsa-prastutiH/11/001/06_sinIvAlIm_anumatiM_rAkAm.md">
 <details open><summary><h5>०६ सिनीवालीम् अनुमतिं राकाम् ...{Loading}...</h5></summary>
 
-सि॒नी॒वा॒लीम् अनु॑मतीं  
-रा॒कां गु॒ङ्गूं सर॑स्वतीम् ।  
-दे॒वानां॒ पत्नी॒र् या दे॒वी  
-इ॑न्द्रा॒णीम् अव॑से हुवे ॥
+सिनीवाली᳓म् अ᳓नुमतीं  
+राकां᳓ गुङ्गूं᳓ स᳓रस्वतीम् ।  
+देवा᳓नां प᳓त्नीर् या᳓ देवी᳓  
+इन्द्राणी᳓म् अ᳓वसे हुवे ॥
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/atharva/paippalAdam/saMhitA/vishvAsa-prastutiH/20/036/02_senAsi_pRthivI_dhananjay.md">
 <details open><summary><h5>०२ सेनासि पृथिवी धनञ्जय् ...{Loading}...</h5></summary>
 
-से॒नासि॑ पृथि॒वी ध॑नञ्ज॒या  
-अदि॑तिर् वि॒श्वरू॑पा॒ सूर्य॑त्वक् ।  
-इ॒न्द्रा॒णी प्रा॒षाट्+++(वषड् इव)+++ स॒ञ्जय॑न्ती॒  
-तस्यै॑ त ए॒ना ह॒विषा॑ विधेम ॥
+सेना᳓सि पृथिवी᳓ धनञ्जया᳓  
+अ᳓दितिर् विश्व᳓रूपा सू᳓र्यत्वक् ।  
+इन्द्राणी᳓ प्राषा᳓ट्+++(वषड् इव)+++ सञ्ज᳓यन्ती  
+त᳓स्यै त एना᳓ हवि᳓षा विधेम ॥
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/046/08_uta_gnA.md">
@@ -49,9 +49,9 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/046_sinIvAlI/03_yA_vishpatnIndramasi.md">
 <details open><summary><h5>०३ या विश्पत्नीन्द्रमसि ...{Loading}...</h5></summary>
 
-या वि॒श्पत्नीन्द्र॒म् असि॑ प्र॒तीची॑+++(नाम - इन्द्रसमा)+++  
-स॒हस्र॑-स्तुका+++(=केशपाश)+++  ऽभि॒यन्ती॑ दे॒वी ।  
-विष्णोः॑ पत्नि॒ तुभ्यं॑ रा॒ता ह॒वींषि॒  
-पतिं॑ देवि॒ राध॑से चोदयस्व ॥
+या᳓ विश्प᳓त्नी᳓न्द्रम् अ᳓सि प्रती᳓ची+++(नाम - इन्द्रसमा)+++  
+सह᳓स्र-स्तुका+++(=केशपाश)+++  ऽभिय᳓न्ती देवी᳓ ।  
+वि᳓ष्णोः पत्नि तु᳓भ्यं राता᳓ हवीं᳓षि  
+प᳓तिं देवि रा᳓धसे चोदयस्व ॥
 </details>
 </div> 

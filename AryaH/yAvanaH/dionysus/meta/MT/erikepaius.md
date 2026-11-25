@@ -23,7 +23,7 @@ The importance of the heart in this tradition is paralleled  by an incantation i
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/072/07_nAbhA_pRthivyA.md">
 <details open><summary><h5>०७ नाभा पृथिव्या ...{Loading}...</h5></summary>
 
-ना᳓भा पृथिव्या᳓, धरु᳓णो महो᳓ दिवो३᳓,  
+ना᳓भा पृथिव्या᳓, धरु᳓णो महो᳓ दिवो᳙,  
 ऽपा᳓म् ऊर्मौ᳓ +++(खगङ्गा-)+++सि᳓न्धुष्व् अन्त᳓र् उक्षितः᳓ ।  
 इ᳓न्द्रस्य व᳓ज्रो, वृषभो᳓ विभू᳓-वसुः  
 +++(मृगशीर्षस्थश् चन्द्रो वा)+++ **सो᳓मो** हृदे᳓ **पवते** चा᳓रु मत्सरः᳓+++(=मादयिता)+++ ॥
