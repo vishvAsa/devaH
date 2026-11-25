@@ -12,23 +12,29 @@ unicode_script: devanagari
 - सर्वस्मिन् भागय् आदिमा ऋक् पुरोनुवाक्या होत्रा - ऽध्वर्युणा चोदितेन - वाच्या। अपरा याज्या ऽध्वर्युणा।
 </details>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1'अग्निर्वा अकामयत' इत्यत्राम्नातानां नक्षत्रेष्टीनां क्रमेण याज्यानुवाक्ये द्वेद्वे अग्निर्नः पात्वित्याद्याः ॥ प्रथमा अनुष्टुभः । अन्त्याः त्रिष्टुभः । वैश्वदेवं काण्डं समस्तोऽयं प्रश्नः । 
 </details>
+</details>
 
 ###### कृत्तिकाः - अग्निः
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/01_agnirnapH_pAtu.md">
-<details open><summary><h7>01 अग्निर्नᳶ पातु ...{Loading}...</h7></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/01_agnirnapH_pAtu.md">
 
-अ॒ग्निर् नᳶ॑ पातु॒ कृत्ति॑काः। नक्ष॑त्रन् दे॒वम् +++(=द्योतमानम्)+++ इ॑न्द्रि॒यम्।  
-इ॒दम् आ॑साव्ँ विचक्ष॒णम्। ह॒विर् आ॒सञ् जु॑होत न।
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+अग्नि᳓र् नᳶ पातु कृ᳓त्तिकाः। न᳓क्षत्रन् देव᳓म् +++(=द्योतमानम्)+++ इन्द्रिय᳓म्।  
+इद᳓म् आसाव्ँ विचक्षण᳓म्। हवि᳓र् आस᳓ञ् जुहोत न।
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/01_agnirnapH_pAtu.md">
-<details open><summary><h7>01 अग्निर्नᳶ पातु ...{Loading}...</h7></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/01_agnirnapH_pAtu.md">
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निर्न॑ᳶ पातु॒ कृत्ति॑काः ।   
@@ -42,29 +48,29 @@ unicode_script: devanagari
 
 तत्र कृत्तिकानाम् - अग्निः देवता नः अस्मान् पातु रक्षतु कृत्तिकाश्च नक्षत्त्रं पातु । देवं देवनशीलं इन्द्रियं इन्द्रियवत् इन्द्रेण वा दृष्टम् ॥ आसां कृत्तिकानां अग्रेश्च आसन् आस्ये । 'पद्दन्' इत्यादिना आसन्भावः । इदं विचक्षणं विविधप्रकाशसाधनं हविः जुहोतन जुहुत । तप्तनादिना तनबादेशः ॥
 </details>
-</details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/02_yasya_bhAnti.md">
-<details open><summary><h7>02 यस्य भान्ति ...{Loading}...</h7></summary>
 
-यस्य॒ **भान्ति॑ र॒श्मयो॒** यस्य॑ के॒तवः॑।  
-यस्ये॒मा विश्वा॒ भुव॑नानि॒ सर्वा॑।  
-स कृत्ति॑काभिर् अ॒भि सव्ँ॒वसा॑नः।  
-अ॒ग्निर् नो॑ +++(=अस्मान्)+++ दे॒वस् **सु॑वि॒ते** +++(=सुप्राप्ते {कर्मफले})+++ **द॑धातु**॥  
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/02_yasya_bhAnti.md">
 
-<details open><summary>विश्वास-टिप्पनी</summary>
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
-सुविते - अन्तोदात्तः - `सूपमानात् क्तः`। 
+य᳓स्य **भा᳓न्ति रश्म᳓यो** य᳓स्य केत᳓वः।  
+य᳓स्येमा᳓ वि᳓श्वा भु᳓वनानि स᳓र्वा।  
+स᳓ कृ᳓त्तिकाभिर् अभि᳓ सव्ँव᳓सानः।  
+अग्नि᳓र् नो +++(=अस्मान्)+++ देव᳓स् **सुविते᳓** +++(=सुप्राप्ते {कर्मफले})+++ **दधातु**॥  
+
 </details>
-</details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/02_yasya_bhAnti.md">
-<details open><summary><h7>02 यस्य भान्ति ...{Loading}...</h7></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/02_yasya_bhAnti.md">
+
 <details><summary>मूलम्</summary>
 
 यस्य॒ भान्ति॑ र॒श्मयो॒ यस्य॑ के॒तवः॑ ।   
 यस्ये॒मा विश्वा॒ भुव॑नानि॒ सर्वा॑ ।   
-स कृत्ति॑काभिर॒भि स॒व्ँवसा॑नः ।  
+स कृत्ति॑काभिर॒भि सव्ँ॒वसा॑नः ।  
 अ॒ग्निर्नो॑ दे॒वस्सु॑वि॒ते द॑धातु ।
 </details>
 
@@ -78,24 +84,41 @@ unicode_script: devanagari
 **नः** अस्मान् **सुविते** सुष्ठु इते प्राप्ते फले **दधातु** स्थापयतु ।  
 'सूपमानात् क्तः' इत्यन्तोदात्तत्वम् । छान्दसो वकारोपजनः+++(??)+++, तन्वादित्वाद् वा, अनुपसर्ग-सूतेर्वा निष्ठायां छान्दसः इडागमः ॥
 </details>
-</details>
-</div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/02_agnaye_svAhA.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h9></summary>
 
-अ॒ग्नये॒ स्वाहा॑  ।
-कृत्ति॑काभ्य॒स्स्वाहा॑ ।  
-अ॒म्बायै॒ स्वाहा॑ ।   
-दु॒लायै॒ स्वाहा॑ ।  
-नि॒त॒त्न्यै स्वाहा॑ ।  
-अ॒भ्रय॑न्त्यै॒ स्वाहा॑ ।  
-मे॒घय॑न्त्यै॒ स्वाहा॑ ।  
-व॒र्षय॑न्त्यै॒ स्वाहा॑ ।
-चु॒पु॒णीका॑यै॒ स्वाहा॑
+<details open><summary>विश्वास-टिप्पनी</summary>
+
+सुविते᳓ - अन्तोदात्तः - `सूपमानात् क्तः`। 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/01_kRttikAH/">
-<details open><summary><h10>०१ कृत्तिकाः ...{Loading}...</h10></summary>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+3रोहिण्याः - प्रजापतेरिति ॥
+</details>
+</details>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/02_agnaye_svAhA.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+अग्न᳓ये स्वा᳓हा  ।
+कृ᳓त्तिकाभ्यस्स्वा᳓हा ।  
+अम्बा᳓यै स्वा᳓हा ।   
+दुला᳓यै स्वा᳓हा ।  
+नितत्न्यै᳓ स्वा᳓हा ।  
+अभ्र᳓यन्त्यै स्वा᳓हा ।  
+मेघ᳓यन्त्यै स्वा᳓हा ।  
+वर्ष᳓यन्त्यै स्वा᳓हा ।
+चुपुणी᳓कायै स्वा᳓हा
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/01_kRttikAH/">
+
 <details open><summary>विश्वास-टिप्पनी</summary>
 
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/kRttikA.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/kRttikA.png)
@@ -108,31 +131,33 @@ unicode_script: devanagari
 
 - in Greek tradition there was an older record of 7 with Aratus claiming that one of them had faded away. This is generally believed to be Ambā (Greek Pleione/ 28 Tauri).  - ([MT](https://manasataramgini.wordpress.com/2017/07/01/a-note-on-the-asterisms-forming-the-nak%e1%b9%a3atra-s/))
 </details>
-</details>
-</div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/03_prajApataye_svAhA.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h9></summary>
 
-प्र॒जाप॑तये॒ स्वाहा॑ रोहि॒ण्यै स्वाहा॑ । रोच॑मानायै॒ स्वाहा॑ प्र॒जाभ्य॒स् स्वाहा॑ ॥28॥
+</div>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/03_prajApataye_svAhA.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+प्रजा᳓पतये स्वा᳓हा रोहिण्यै᳓ स्वा᳓हा । रो᳓चमानायै स्वा᳓हा प्रजा᳓भ्यस् स्वा᳓हा ॥28॥
 </details>
+
 </div>
 
 ###### रोहिणी - प्रजापतिः
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/03_prajApate_rohiNI.md">
-<details open><summary><h7>03 प्रजापते रोहिणी ...{Loading}...</h7></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/03_prajApate_rohiNI.md">
 
-प्र॒जाप॑ते+++(ः)+++ **रोहि॒णी वे॑तु॒** +++(=भुङ्क्ताम्)+++ पत्नी॑। वि॒श्वरू॑पा बृह॒ती चि॒त्रभा॑नुः।  
-सा नो॑ य॒ज्ञस्य॑ **सुवि॒ते+++(=सुप्राप्ते {कर्मफले})+++ द॑धातु**। यथा॒ **जीवे॑म श॒रद॒स्** सवी॑राः।  
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
-<details open><summary>विश्वास-टिप्पनी</summary>
+प्रजा᳓पते+++(ः)+++ **रोहिणी᳓ वेतु** +++(=भुङ्क्ताम्)+++ प᳓त्नी। विश्व᳓रूपा बृहती᳓ चित्र᳓भानुः।  
+सा᳓ नो यज्ञ᳓स्य **सुविते᳓+++(=सुप्राप्ते {कर्मफले})+++ दधातु**। य᳓था **जी᳓वेम शर᳓दस्** स᳓वीराः।  
 
-जीवे॑म - "तास्यनुदात्तेन्ङिददुपदेशाल् लसार्वधातुकम् अनुदात्तम् अन्विङोः" इत्य् अनुदात्तः प्रत्ययः
 </details>
-</details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/03_prajApate_rohiNI.md">
-<details open><summary><h7>03 प्रजापते रोहिणी ...{Loading}...</h7></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/03_prajApate_rohiNI.md">
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑ते रोहि॒णी वे॑तु॒ पत्नी॑ ।   
@@ -144,23 +169,32 @@ unicode_script: devanagari
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-3रोहिण्याः - प्रजापतेरिति ॥ प्रजापतेः स्वभूता रोहिणी नक्षत्रं पत्नी पालयित्री यज्ञस्य विश्वरूपा विश्वरूपैः उत्पाद्यैः तद्वती बृहती परिबृढा चित्रभानुः चायनीयदीप्तिः सा इदं हविः वेतु भुङ्क्ताम् । नः अस्मान् यज्ञस्य सुविते सुगमे फले दधातु, यथा वयं जीवेम शरदः बहून् संवत्सरान् सवीराः पुत्रपौत्रसहिताः ॥
+प्रजापतेः स्वभूता रोहिणी नक्षत्रं पत्नी पालयित्री यज्ञस्य विश्वरूपा विश्वरूपैः उत्पाद्यैः तद्वती बृहती परिबृढा चित्रभानुः चायनीयदीप्तिः सा इदं हविः वेतु भुङ्क्ताम् । नः अस्मान् यज्ञस्य सुविते सुगमे फले दधातु, यथा वयं जीवेम शरदः बहून् संवत्सरान् सवीराः पुत्रपौत्रसहिताः ॥
 
 </details>
+
+<details open><summary>विश्वास-टिप्पनी</summary>
+
+जी᳓वेम - "तास्यनुदात्तेन्ङिददुपदेशाल् लसार्वधातुकम् अनुदात्तम् अन्विङोः" इत्य् अनुदात्तः प्रत्ययः
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/04_rohiNI.md">
-<details open><summary><h7>04 रोहिणी ...{Loading}...</h7></summary>
 
-रो॒हि॒णी दे॒व्य् उद॑गात् पु॒रस्ता॑त्।  
-विश्वा॑ रू॒पाणि॑ प्रति॒मोद॑माना।  
-प्र॒जाप॑तिँ ह॒विषा॑ **व॒र्धय॑न्ती**।  
-प्रि॒या दे॒वाना॒म् **उप॑यातु य॒ज्ञम्**॥  
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/04_rohiNI.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+रोहिणी᳓ देव्य् उ᳓दगात् पुर᳓स्तात्।  
+वि᳓श्वा रूपा᳓णि प्रतिमो᳓दमाना।  
+प्रजा᳓पतिँ हवि᳓षा **वर्ध᳓यन्ती**।  
+प्रिया᳓ देवा᳓नाम् **उ᳓पयातु यज्ञ᳓म्**॥  
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/04_rohiNI.md">
-<details open><summary><h7>04 रोहिणी ...{Loading}...</h7></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/04_rohiNI.md">
+
 <details><summary>मूलम्</summary>
 
 रो॒हि॒णी दे॒व्युद॑गात्पु॒रस्ता॑त् ।  
@@ -174,24 +208,36 @@ unicode_script: devanagari
 
 4रोहिणी देवी द्योतमाना पुरस्तात् प्राच्यां उदगात् उदेति । छान्दसो लुङ् । किं कुर्वती? विश्वानि रूपाणि रूपवतो भावान् प्रतिमोदमाना प्रत्येकं वा मोदयित्री प्रजापतिं आत्मानं च हविषा वर्धयन्ती प्रिया प्रीणयित्री अस्माकं यज्ञं उपयातु ॥
 </details>
-</details>
-</div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/02_agnaye_svAhA.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h9></summary>
 
-अ॒ग्नये॒ स्वाहा॑  ।
-कृत्ति॑काभ्य॒स्स्वाहा॑ ।  
-अ॒म्बायै॒ स्वाहा॑ ।   
-दु॒लायै॒ स्वाहा॑ ।  
-नि॒त॒त्न्यै स्वाहा॑ ।  
-अ॒भ्रय॑न्त्यै॒ स्वाहा॑ ।  
-मे॒घय॑न्त्यै॒ स्वाहा॑ ।  
-व॒र्षय॑न्त्यै॒ स्वाहा॑ ।
-चु॒पु॒णीका॑यै॒ स्वाहा॑
-</details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/02_rohiNI/">
-<details open><summary><h10>०२ रोहिणी ...{Loading}...</h10></summary>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+5मृगशीर्षस्य - सोमो राजेति ॥
+</details>
+</details>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/02_agnaye_svAhA.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+अग्न᳓ये स्वा᳓हा  ।
+कृ᳓त्तिकाभ्यस्स्वा᳓हा ।  
+अम्बा᳓यै स्वा᳓हा ।   
+दुला᳓यै स्वा᳓हा ।  
+नितत्न्यै᳓ स्वा᳓हा ।  
+अभ्र᳓यन्त्यै स्वा᳓हा ।  
+मेघ᳓यन्त्यै स्वा᳓हा ।  
+वर्ष᳓यन्त्यै स्वा᳓हा ।
+चुपुणी᳓कायै स्वा᳓हा
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/02_rohiNI/">
+
 <details open><summary>विश्वास-टिप्पनी</summary>
 
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/kRttikA.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/kRttikA.png)
@@ -210,29 +256,35 @@ unicode_script: devanagari
 - "Interesting both the kR^ittikAH (Pleiades) and Hyades which contains rohiNI are close by open clusters; 1 young, 1 older. "
 - मैत्रायणीयसम्प्रदाये - "In some reckonings it holds rohiNI as the nakShatra of soma & narrates how of all the daughters of prajApati soma preferred rohiNI and was afflicted with TB. Hence, the ritual in rohiNI is recommended for TB. It also mentions a certain brAhmaNa-nakShatra for soma at the end of the list in the ritual of the laying of the nakShatra bricks during the somayAga."
 </details>
-</details>
-</div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/03_prajApataye_svAhA.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h9></summary>
 
-प्र॒जाप॑तये॒ स्वाहा॑ रोहि॒ण्यै स्वाहा॑ । रोच॑मानायै॒ स्वाहा॑ प्र॒जाभ्य॒स् स्वाहा॑ ॥28॥
+</div>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/03_prajApataye_svAhA.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+प्रजा᳓पतये स्वा᳓हा रोहिण्यै᳓ स्वा᳓हा । रो᳓चमानायै स्वा᳓हा प्रजा᳓भ्यस् स्वा᳓हा ॥28॥
 </details>
+
 </div>
 
 ###### मृगशीर्षम् - सोमः
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/05_somo_rAjA.md">
-<details open><summary><h7>05 सोमो राजा ...{Loading}...</h7></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/05_somo_rAjA.md">
 
-**सोमो॒** राजा॑ मृगशी॒र्षेण॒ **आग॑न्न्** +++(=आयातु)+++।  
-शि॒वन् नक्ष॑त्रम् प्रि॒यम् अ॑स्य॒ धाम॑।  
-**आ॒प्याय॑मानो** बहु॒धा जने॑षु।  
-रेतᳶ॑ प्र॒जाय्ँ यज॑माने **दधातु**।  
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+**सो᳓मो** रा᳓जा मृगशीर्षे᳓ण **आ᳓गन्न्** +++(=आयातु)+++।  
+शिव᳓न् न᳓क्षत्रम् प्रिय᳓म् अस्य धा᳓म।  
+**आप्या᳓यमानो** बहुधा᳓ ज᳓नेषु।  
+रे᳓तᳶ प्रजाय्ँ᳓ य᳓जमाने **दधातु**।  
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/05_somo_rAjA.md">
-<details open><summary><h7>05 सोमो राजा ...{Loading}...</h7></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/05_somo_rAjA.md">
+
 <details><summary>मूलम्</summary>
 
 सोमो॒ राजा॑ मृगशी॒र्षेण॒ आग॑न् ।   
@@ -244,27 +296,27 @@ unicode_script: devanagari
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-5मृगशीर्षस्य - सोमो राजेति ॥ आगन् आगच्छतु । छान्दसो लुङ्, 'मन्त्रे घस' इति च्लेर्लुक् । ईषा अक्षादित्वात्पूर्वेण संहिताभावः । अस्य सोमस्य इदं शिवं कल्याणतरं नक्षत्त्रं प्रियं धाम स्थानं, तस्मात् तेन सह आगच्छत्विति ब्रूमः । जनेषु जनननिमित्तं जनेषु वा यजमानेषु हविषा बहुधा आप्यायमानः वर्धयन् रेतः बीजं उदकं वा प्रजां च पुत्रादि यजमाने दधातु ॥
+आगन् आगच्छतु । छान्दसो लुङ्, 'मन्त्रे घस' इति च्लेर्लुक् । ईषा अक्षादित्वात्पूर्वेण संहिताभावः । अस्य सोमस्य इदं शिवं कल्याणतरं नक्षत्त्रं प्रियं धाम स्थानं, तस्मात् तेन सह आगच्छत्विति ब्रूमः । जनेषु जनननिमित्तं जनेषु वा यजमानेषु हविषा बहुधा आप्यायमानः वर्धयन् रेतः बीजं उदकं वा प्रजां च पुत्रादि यजमाने दधातु ॥
 
 </details>
-</details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/06_yatte.md">
-<details open><summary><h7>06 यत्ते ...{Loading}...</h7></summary>
 
-यत् ते॒ नक्ष॑त्रं **मृगशी॒र्षम् अस्ति॑**।  
-प्रि॒यँ रा॑जन् प्रि॒यत॑मम् प्रि॒याणा॑म्।  
-तस्मै॑ ते सोम **ह॒विषा॑ विधेम**।  
-शन् न॑ **एधि** द्वि॒पदे॒ शञ् चतु॑ष्पदे॥  
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/06_yatte.md">
 
-<details open><summary>विश्वास-टिप्पनी</summary>
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
-द्वि॒पदे॒ - "द्वित्रिभ्यां पाद्दन्मूर्धसु बहुव्रीहौ"
+य᳓त् ते न᳙क्षत्रं **मृगशीर्ष᳓म् अ᳓स्ति**।  
+प्रियँ᳓ राजन् प्रिय᳓तमम् प्रिया᳓णाम्।  
+त᳓स्मै ते सोम **हवि᳓षा विधेम**।  
+श᳓न् न **एधि** द्विप᳓दे श᳓ञ् च᳓तुष्पदे॥  
+
 </details>
-</details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/06_yatte.md">
-<details open><summary><h7>06 यत्ते ...{Loading}...</h7></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/06_yatte.md">
+
 <details><summary>मूलम्</summary>
 
 यत्ते॒ न॑क्षत्रम्मृगशी॒र्षमस्ति॑ ।   
@@ -278,10 +330,16 @@ unicode_script: devanagari
 
 6यत्त इति ॥ हे राजन्! सोम! ते नक्षत्त्रं मृगशीर्षं नामास्ति । प्रियं प्रीणयितृ प्रियाणामपि मध्ये प्रियतमं, तस्मै नक्षत्राय ते तुभ्यं च हविषा विधेम परिचरेम । नः अस्माकं द्विपदे चतुष्पदे च शं सुखहेतुः एधि भव । सामर्थ्यात्तेन सहेति गम्यते ॥
 </details>
+
+<details open><summary>विश्वास-टिप्पनी</summary>
+
+द्विप᳓दे - "द्वित्रिभ्यां पाद्दन्मूर्धसु बहुव्रीहौ"
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/03_mRgashiraH/">
-<details open><summary><h10>०३ मृगशिरः ...{Loading}...</h10></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/03_mRgashiraH/">
+
 <details open><summary>विश्वास-टिप्पनी</summary>
 
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/mRgashIrSha.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/mRgashIrSha.png)
@@ -311,21 +369,32 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 - "In Vaidika reckoning the core of Mṛga was Orion with the arrow of Rudra shot through it (See below). The arrow is identified with the three stars of the belt of Orion (ζ , ε , δ Orionis). " ता इण्वकाः। "Taittirīya Brāhmaṇa 1.5.1.1 states: somasyenvakā vitatāni ।" - ([MT](https://manasataramgini.wordpress.com/2017/07/01/a-note-on-the-asterisms-forming-the-nak%e1%b9%a3atra-s/))
 - "It is also likely that the 3 stars in a line inspired the myth of the tripura-s with the 3 asura forts need to be a in a line to be pierced by the arrow of rudra."
 </details>
-</details>
+
 </div>  
 
 ###### आर्द्रा - रुद्रः
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/07_ArdrayA_rudrapH.md">
-<details open><summary><h7>07 आर्द्रया रुद्रᳶ ...{Loading}...</h7></summary>
+<details><summary>सर्वा अवतारिकाः</summary>
 
-आ॒र्द्रया॑ **रु॒द्रᳶ** प्रथ॑मान +++(=प्रसिद्ध)+++ **एति**। श्रेष्ठो॑ दे॒वाना॒म् पति॑र् अघ्नि॒याना॑म् +++(=गवाम्)+++।  
-नक्ष॑त्रम् अस्य **ह॒विषा॑ विधेम** +++(=परिचरेम)+++। मा नᳶ॑ प्र॒जाँ री॑रिष॒न् मोत वी॒रान्।
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+7आर्द्रायाः - आर्द्रयेति ॥
+</details>
+</details>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/07_ArdrayA_rudrapH.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+आर्द्र᳓या **रुद्रᳶ᳓** प्र᳓थमान +++(=प्रसिद्ध)+++ **एति**। श्रे᳓ष्ठो देवा᳓नाम् प᳓तिर् अघ्निया᳓नाम् +++(=गवाम्)+++।  
+न᳓क्षत्रम् अस्य **हवि᳓षा विधेम** +++(=परिचरेम)+++। मा᳓ नᳶ प्रजाँ᳓ रीरिषन् मो᳓त᳓ वीरा᳓न्।
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/07_ArdrayA_rudrapH.md">
-<details open><summary><h7>07 आर्द्रया रुद्रᳶ ...{Loading}...</h7></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/07_ArdrayA_rudrapH.md">
+
 <details><summary>मूलम्</summary>
 
 आ॒र्द्रया॑ रु॒द्रᳶ प्रथ॑मान एति ।  
@@ -337,23 +406,27 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-7आर्द्रायाः - आर्द्रयेति ॥ आर्द्रया नक्षत्रेण प्रथमानः विस्तीर्यमाणतेजा एति नः यज्ञं प्राप्नोति । अघ्नियानां गवां पतिः तस्यास्य नक्षत्रं आद्रां विधेम परिचरेम । नः प्रजां पुत्रपौत्रादिकं मा रीरिषत् मा हिंसीः । उत अपि च वीरान् पुत्रान् आश्रितोपाश्रितान् पुरुषान् ॥
+आर्द्रया नक्षत्रेण प्रथमानः विस्तीर्यमाणतेजा एति नः यज्ञं प्राप्नोति । अघ्नियानां गवां पतिः तस्यास्य नक्षत्रं आद्रां विधेम परिचरेम । नः प्रजां पुत्रपौत्रादिकं मा रीरिषत् मा हिंसीः । उत अपि च वीरान् पुत्रान् आश्रितोपाश्रितान् पुरुषान् ॥
 
 </details>
-</details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/08_hetI_rudrasya.md">
-<details open><summary><h7>08 हेती रुद्रस्य ...{Loading}...</h7></summary>
 
-**हे॒ती** रु॒द्रस्य॒ **परि॑ णो वृणक्तु**।  
-आ॒र्द्रा नक्ष॑त्रञ् **जुषताँ ह॒विर्** नः॑।  
-**प्र॒मु॒ञ्चमा॑नौ**** दुरि॒तानि॒ विश्वा॑।  
-अपा॒घशँ॑सन् नुदता॒म् **अरा॑तिम्**।॥  
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/08_hetI_rudrasya.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+**हेती᳓** रुद्र᳓स्य **प᳓रि णो वृणक्तु**।  
+आर्द्रा᳓ न᳓क्षत्रञ् **जुषताँ हवि᳓र्** नः।  
+**प्रमुञ्च᳓मानौ**** दुरिता᳓नि वि᳓श्वा।  
+अ᳓पाघ᳓शँसन् नुदताम् **अ᳓रातिम्**।॥  
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/08_hetI_rudrasya.md">
-<details open><summary><h7>08 हेती रुद्रस्य ...{Loading}...</h7></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/08_hetI_rudrasya.md">
+
 <details><summary>मूलम्</summary>
 
 हे॒ती रु॒द्रस्य॒ परि॑ णो वृणक्तु ।  
@@ -368,10 +441,11 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 8हेती रुद्रस्येति ॥ रुद्रायुधं नः परितो वृणक्तु वर्जयतु । नः हविर्जुषतां सेवताम् । अथ तौ रुद्र आर्द्रा च उभौ विश्वानि दुरितानि प्रमुञ्चमानौ । अघशंसं पापरुचिम् । यद्वा - मम पापशंसिनमरातिं अपनुदतां विशेषेण नाशयताम् ॥
 
 </details>
-</details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/04_ArdrA/">
-<details open><summary><h10>०४ आर्द्रा ...{Loading}...</h10></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/04_ArdrA/">
+
 <details open><summary>विश्वास-टिप्पनी</summary>
 
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/mRgashIrSha.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/mRgashIrSha.png)
@@ -390,33 +464,47 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 - "A good challenge in this constellation is to see the companion star of Sirius . It was predicted by great mathematician Friedrich Bessel through the wobble of Sirius and seen only later by others. It is a small star about the size of the Earth but with the mass of the sun. IA good challenge in this constellation is to see the companion star of Sirius . It was predicted by great mathematician Friedrich Bessel through the wobble of Sirius and seen only later by others. It is a small star about the size of the Earth but with the mass of the sun."
 - Sirius, the head of shabala praised at the morning shuna shairya offering of the pa\~nchavimsha brAhmaNa.
 </details>
-</details>
-</div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/05_rudrAya_svAhA.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h9></summary>
 
-रु॒द्राय॒ स्वाहा॒ ऽर्द्रायै॒ स्वाहा॑ , पिन्व॑मानायै॒ स्वाहा॑ प॒शुभ्य॒स्स्वाहा॑ ॥30॥
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+9पुनर्वस्वोः - पुनर्न इति ॥
 </details>
+</details>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/05_rudrAya_svAhA.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+रुद्रा᳓य स्वा᳓हा ऽर्द्रा᳓यै स्वा᳓हा , पि᳓न्वमानायै स्वा᳓हा पशु᳓भ्यस्स्वा᳓हा ॥30॥
+</details>
+
 </div>
 
 ###### पुनर्वसू - अदितिः
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/09_punarno.md">
-<details open><summary><h7>09 पुनर्नो ...{Loading}...</h7></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/09_punarno.md">
 
-पुन॑र् नो दे॒व्य् **अदि॑तिस् स्पृणोतु** +++(=प्रीणयतु)+++।  
-पुन॑र्वसू नᳶ॒ **पुन॒र् आ+इ॒ता॒य्ँ य॒ज्ञम्**।  
-पुन॑र् नो **दे॒वा अ॒भिय॑न्तु॒** सर्वे॑।  
-पुनᳶ॑-पुनर् वो **ह॒विषा॑ यजामः**।  
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+पु᳓नर् नो देव्य् **अ᳓दितिस् स्पृणोतु** +++(=प्रीणयतु)+++।  
+पु᳓नर्वसू नᳶ **पु᳓नर् आ᳓+इताय्ँ यज्ञ᳓म्**।  
+पु᳓नर् नो **देवा᳓ अभि᳓यन्तु** स᳓र्वे।  
+पु᳓नᳶ-पुनर् वो **हवि᳓षा यजामः**।  
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/09_punarno.md">
-<details open><summary><h7>09 पुनर्नो ...{Loading}...</h7></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/09_punarno.md">
+
 <details><summary>मूलम्</summary>
 
 पुन॑र्नो दे॒व्यदि॑तिस्स्पृणोतु ।   
-पुन॑र्वसू न॒ᳶ पुन॒रेता॑य्ँ य॒ज्ञम् ।  
+पुन॑र्वसू न॒ᳶ पुन॒रेताय्ँ॑ य॒ज्ञम् ।  
 पुन॑र्नो दे॒वा अ॒भिय॑न्तु॒ सर्वे॑ ।    
 पुन॑ᳶपुनर्वो ह॒विषा॑ यजामः ।    
 
@@ -424,21 +512,25 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-9पुनर्वस्वोः - पुनर्न इति ॥ अदितिः देवी नः **पुनःपुनः स्पृणोतु** प्रीणयतु । **स्पॄ** प्रीतौ, **पुनर्वसू** च नक्षत्रं नः यज्ञं पुनःपुनः **एतां** आगच्छताम् । **देवाः सर्वे** च **अभियन्तु** आभिमुख्येनागच्छन्तु । गतमन्यत् ॥
+अदितिः देवी नः **पुनःपुनः स्पृणोतु** प्रीणयतु । **स्पॄ** प्रीतौ, **पुनर्वसू** च नक्षत्रं नः यज्ञं पुनःपुनः **एतां** आगच्छताम् । **देवाः सर्वे** च **अभियन्तु** आभिमुख्येनागच्छन्तु । गतमन्यत् ॥
 
 </details>
-</details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/10_evA_na.md">
-<details open><summary><h7>10 एवा न ...{Loading}...</h7></summary>
 
-ए॒वा न दे॒व्य् अदि॑तिर् अन॒र्वा +++(=अनर्वाचीना)+++। विश्व॑स्य **भ॒र्त्री** जग॑तᳶ प्रति॒ष्ठा।  
-पुन॑र्वसू ह॒विषा॑ **व॒र्धय॑न्ती**। प्रि॒यम् दे॒वाना॒म् अप्य् **ए॑तु॒** पाथः॑ +++(=हविः)+++॥  
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/10_evA_na.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+एवा᳓ न᳓ देव्य् अ᳓दितिर् अनर्वा᳓ +++(=अनर्वाचीना)+++। वि᳓श्वस्य **भर्त्री᳓** ज᳓गतᳶ प्रतिष्ठा᳓।  
+पु᳓नर्वसू हवि᳓षा **वर्ध᳓यन्ती**। प्रिय᳓म् देवा᳓नाम् अ᳓प्य् **एतु** पा᳓थः +++(=हविः)+++॥  
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/10_evA_na.md">
-<details open><summary><h7>10 एवा न ...{Loading}...</h7></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/10_evA_na.md">
+
 <details><summary>मूलम्</summary>
 
 ए॒वा न दे॒व्यदि॑तिरन॒र्वा ।   
@@ -453,17 +545,29 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 10एवा नेति ॥ नकारः समुच्चये । एव? सांप्रतिकः एवं च, अयनशीला वा अदितिः देवी पृथिवी देवमाता वा शैलकन्या वा । 'अदितिः शैलकन्यायां पृथिव्यां देवमातरि' इत्यभिधानम् । अत्र अदितिशब्दो रुद्राणीवचनः । पूर्वनक्षत्रं रौद्रं, तयोरुभयोस्साहचर्यात् । अनर्वा अपापा अप्रच्युतिर्वा । यद्वा - सप्तम्या आकारः । एवा अयने अनर्वा अवद्यरहिता विश्वस्य भर्त्री धारयित्री पुनर्वसू नक्षत्रं आत्मानं च हविषा वर्धयन्ती पाथः अन्नरूपं हविः अप्येतु प्राप्नोतु । 'पाथसी सलिलोदनौ' इत्यभिधानम् ॥
 
 </details>
-</details>
-</div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/06_adityai_svAhA.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h9></summary>
 
-अदि॑त्यै॒ स्वाहा॒ पुन॑र्वसुभ्यां॒ स्वाहा॑,  
-भूत्यै॒ स्वाहा॒ प्रजा॑त्यै॒ स्वाहा॑ ॥31॥
-</details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/05_punarvasU/">
-<details open><summary><h10>०५ पुनर्वसू ...{Loading}...</h10></summary>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+11तिष्यस्य - बृहस्पतिरिति ॥
+</details>
+</details>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/06_adityai_svAhA.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+अ᳓दित्यै स्वा᳓हा पु᳓नर्वसुभ्यां स्वा᳓हा,  
+भूत्यै स्वा᳓हा प्र᳓जात्यै स्वा᳓हा ॥31॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/05_punarvasU/">
+
 <details open><summary>विश्वास-टिप्पनी</summary>
 
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/punarvasU.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/punarvasU.png)
@@ -479,21 +583,24 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 - रामायणे - "kumbhakarṇa-śiro bhāti kuṇḍalālaṅkṛtaṃ mahat । āditye’bhyudite rātrau madhyastha iva candramāḥ ॥"
 - "These allusions indicate that the two-headed nature of the constellation of Gemini was transposed on to the presiding deity Aditi and the inversion associated with the two heads along with the eastward and westward paths might indicate an old memory of the start of the ecliptic at Aditi in prehistoric times (>7000 years BP)."
 </details>
-</details>
+
 </div>  
 
 ###### तिष्यम् / पुष्यम् - बृहस्पतिः
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/11_bRhaspatipH_prathamanjAyamAnaH.md">
-<details open><summary><h7>11 बृहस्पतिᳶ प्रथमञ्जायमानः ...{Loading}...</h7></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/11_bRhaspatipH_prathamanjAyamAnaH.md">
 
-बृह॒स्पति॑ᳶ प्रथ॒मञ् **जाय॑मानः**। ति॒ष्य॒॑न् नक्ष॑त्रम् **अ॒भि सम्ब॑भूव**।  
-श्रेष्ठो॑ दे॒वाना॒म् पृत॑नासु जि॒ष्णुः। दिशोऽनु॒ सर्वा॒ अभ॑यन् नो **अस्तु**।  
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+बृ᳓हस्प᳓तिᳶ प्रथम᳓ञ् **जा᳓यमानः**। तिष्य᳙न् न᳓क्षत्रम् **अभि᳓ स᳓म्बभूव**।  
+श्रे᳓ष्ठो देवा᳓नाम् पृ᳓तनासु जिष्णुः᳓। दि᳓शो᳓ऽनु स᳓र्वा अ᳓भयन् नो **अस्तु**।  
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/11_bRhaspatipH_prathamanjAyamAnaH.md">
-<details open><summary><h7>11 बृहस्पतिᳶ प्रथमञ्जायमानः ...{Loading}...</h7></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/11_bRhaspatipH_prathamanjAyamAnaH.md">
+
 <details><summary>मूलम्</summary>
 
 बृह॒स्पति॑ᳶ प्रथ॒मञ्जाय॑मानः ।   
@@ -505,21 +612,25 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-11तिष्यस्य - बृहस्पतिरिति ॥ जायमानः तिष्यं नक्षत्त्रं प्रथमं प्रधानमभिलक्ष्य सम्बभूव । लक्षणहेत्वोः कर्मप्रवचनीयत्वात् द्वितीया । पृतनासु सङ्ग्रामेषु । दिशोऽनु सर्वासु दिक्षु अभयहेतुरस्तु । हेतौ कर्मप्रवचनम् ॥
+जायमानः तिष्यं नक्षत्त्रं प्रथमं प्रधानमभिलक्ष्य सम्बभूव । लक्षणहेत्वोः कर्मप्रवचनीयत्वात् द्वितीया । पृतनासु सङ्ग्रामेषु । दिशोऽनु सर्वासु दिक्षु अभयहेतुरस्तु । हेतौ कर्मप्रवचनम् ॥
 
 </details>
-</details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/12_tiShyapH_purastAduta.md">
-<details open><summary><h7>12 तिष्यᳶ पुरस्तादुत ...{Loading}...</h7></summary>
 
-ति॒ष्य॑ᳶ पु॒रस्ता॑द् उ॒त म॑ध्य॒तो नः॑। बृह॒स्पति॑र् न॒ᳶ **परि॑ पातु** प॒श्चात्।  
-**बाधे॑ता॒न्** द्वेषो॒ अभ॑यङ् **कृणुताम्**। सु॒वीर्य॑स्य॒ पत॑यस् **स्याम**।  
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/12_tiShyapH_purastAduta.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+तिष्यᳶ᳙ पुर᳓स्ताद् उत᳓ मध्यतो᳓ नः। बृ᳓हस्प᳓तिर् नᳶ **प᳓रि पातु** पश्चा᳓त्।  
+**बा᳓धेतान्** द्वे᳓षो अ᳓भयङ् **कृणुताम्**। सुवी᳓र्यस्य प᳓तयस् **स्याम**।  
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/12_tiShyapH_purastAduta.md">
-<details open><summary><h7>12 तिष्यᳶ पुरस्तादुत ...{Loading}...</h7></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/12_tiShyapH_purastAduta.md">
+
 <details><summary>मूलम्</summary>
 
 ति॒ष्य॑ᳶ पु॒रस्ता॑दु॒त म॑ध्य॒तो नः॑ ।  
@@ -534,16 +645,28 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 12तिष्यो बृहस्पतिश्च न: पुरस्तात् आदौ शरीरे मध्यतो यौवने च पश्चादन्ते वार्धके च सर्वतः पालयतु । द्वेषः द्वेषम् । कर्मण्यसुन् । यद्वा - द्वेष्टॄन् । विजन्तात् शस् । बाधेतां नाशयताम् । नः अभयं च कृणुतां कुरुताम् । सुवीर्यस्य शोभनवीर्यस्य ॥
 
 </details>
-</details>
-</div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/07_bRhaspataye_svAhA.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h9></summary>
 
-बृह॒स्पत॑ये॒ स्वाहा॑ ति॒ष्या॑य॒ स्वाहा॑ । ब्र॒ह्म॒व॒र्च॒साय॒ स्वाहा॑ ॥32॥
-</details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/06_tiShyaH/">
-<details open><summary><h10>०६ तिष्यः ...{Loading}...</h10></summary>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+13अश्लेषाणाम् - इदं सर्पेभ्य इति ॥
+</details>
+</details>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/07_bRhaspataye_svAhA.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+बृ᳓हस्प᳓तये स्वा᳓हा तिष्या᳙य स्वा᳓हा । ब्रह्मवर्चसा᳓य स्वा᳓हा ॥32॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/06_tiShyaH/">
+
 <details open><summary>विश्वास-टिप्पनी</summary>
 
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/tiShya.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/tiShya.png)
@@ -558,21 +681,24 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
   - " The comparison of great riches, in thousands, is indicative of the great mass of stars in the open cluster supporting the identification of the old Tiṣya with M44."
 - "The name tiShya seems homologous to the Iranian tiShtrya. Today the Iranian asterism is equated with Sirius but there is a suspicion that this might have been secondary."
 </details>
-</details>
+
 </div>  
 
 ###### आश्रेषाः - सर्पाः
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/13_idaM_sarpebhyo.md">
-<details open><summary><h7>13 इदं सर्पेभ्यो ...{Loading}...</h7></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/13_idaM_sarpebhyo.md">
 
-इ॒दँ स॒र्पेभ्यो॑ ह॒विर् **अ॑स्तु॒** जुष्ट॑म्। आ॒श्रे॒षा येषा॑म् **अनु॒यन्ति॒** चेतः॑।  
-ये अ॒न्तरि॑क्षम् पृथि॒वीङ् **क्षि॒यन्ति॑**+++(=अधिवसन्ति)+++। ते न॑स् स॒र्पासो॒ हव॒म् **आग॑मिष्ठाः**।
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+इदँ᳓ सर्पे᳓भ्यो हवि᳓र् **अस्तु** जु᳓ष्टम्। आश्रेषा᳓ ये᳓षाम् **अनुय᳓न्ति** चे᳓तः।  
+ये᳓ अन्त᳓रिक्षम् पृथिवी᳓ङ् **क्षिय᳓न्ति**+++(=अधिवसन्ति)+++। ते᳓ नस् सर्पा᳓सो ह᳓वम् **आ᳓गमिष्ठाः**।
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/13_idaM_sarpebhyo.md">
-<details open><summary><h7>13 इदं सर्पेभ्यो ...{Loading}...</h7></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/13_idaM_sarpebhyo.md">
+
 <details><summary>मूलम्</summary>
 
 इ॒दँ स॒र्पेभ्यो॑ ह॒विर॑स्तु॒ जुष्ट॑म् ।  
@@ -584,21 +710,25 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-13अश्लेषाणाम् - इदं सर्पेभ्य इति ॥ जुष्टं प्रियं अस्तु । आश्रेषा नक्षत्रं येषां चेतः अनुयन्ति, क्षियन्ति अधिवसन्ति । ते सर्पासः हवं यज्ञं आगमिष्ठाः अतिशयेन आगन्तारो भवन्तु । आगन्तृशब्दात्तृन्नन्तात् 'तुश्छन्दसि' इतीष्ठन्प्रत्यये 'तुरिष्ठेमेयस्सु' इति टिलोपः ॥
+जुष्टं प्रियं अस्तु । आश्रेषा नक्षत्रं येषां चेतः अनुयन्ति, क्षियन्ति अधिवसन्ति । ते सर्पासः हवं यज्ञं आगमिष्ठाः अतिशयेन आगन्तारो भवन्तु । आगन्तृशब्दात्तृन्नन्तात् 'तुश्छन्दसि' इतीष्ठन्प्रत्यये 'तुरिष्ठेमेयस्सु' इति टिलोपः ॥
 
 </details>
-</details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/14_ye_rochane.md">
-<details open><summary><h7>14 ये रोचने ...{Loading}...</h7></summary>
 
-ये रो॑च॒ने +++(मण्डले)+++ सूर्य॒स्यापि॑ स॒र्पाः। ये दिव॑न् दे॒वीम् अनु॑ **स॒ञ्चर॑न्ति**।  
-येषा॑म् आश्रे॒षा **अ॑नु॒यन्ति॒** काम॑म्। तेभ्य॑स् स॒र्पेभ्यो॒ मधु॑मज् **जुहोमि**।  
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/14_ye_rochane.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+ये᳓ रोचने᳓ +++(मण्डले)+++ सू᳓र्यस्या᳓पि सर्पाः᳓। ये᳓ दि᳓वन् देवी᳓म् अ᳓नु **सञ्च᳓रन्ति**।  
+ये᳓षाम् आश्रेषा᳓ **अनुय᳓न्ति** का᳓मम्। ते᳓भ्यस् सर्पे᳓भ्यो म᳓धुमज् **जुहोमि**।  
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/14_ye_rochane.md">
-<details open><summary><h7>14 ये रोचने ...{Loading}...</h7></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/14_ye_rochane.md">
+
 <details><summary>मूलम्</summary>
 
 ये रो॑च॒ने सूर्य॒स्यापि॑ स॒र्पाः ।   
@@ -613,17 +743,29 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 14ये रोचन इति ॥ ये सर्पाः सूर्यस्यापि रोचने मण्डले नियुक्ताः वसन्ति । ये च दिवं देवीं द्योतनवतीं अनुसंचरन्ति अनुव्याप्य संचरन्ति । येषां च कामं इच्छां आश्रेषा अनुयन्ति अनुसरन्ति । तेभ्यस्सर्पेभ्यः साश्रेषेभ्यः इदं मधुमत् मधुररसवत् हविः जुहोमि ॥
 
 </details>
-</details>
-</div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/08_sarpebhyas_svAhA.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h9></summary>
 
-स॒र्पेभ्य॒स् स्वाहा॑ ऽऽश्रे॒षाभ्य॒स् स्वाहा॑ ।   
-द॒न्द॒शूके॑भ्य॒स् स्वाहा॑ ॥33॥
-</details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/07_AshreShA/">
-<details open><summary><h10>०७ आश्रेषा ...{Loading}...</h10></summary>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+15मघानां - उपहूता इति ॥
+</details>
+</details>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/08_sarpebhyas_svAhA.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+सर्पे᳓भ्यस् स्वा᳓हा ऽऽश्रेषा᳓भ्यस् स्वा᳓हा ।   
+दन्दशू᳓केभ्यस् स्वा᳓हा ॥33॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/07_AshreShA/">
+
 <details open><summary>विश्वास-टिप्पनी</summary>
 
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/AshreShA.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/AshreShA.png)
@@ -637,21 +779,24 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 - "It corresponds to the head of the Greek constellation of Hydra, suggesting that the link to a snake goes back to early Indo-European times. Āśleṣā is specifically associated with the head of the snake. Hence, the 6 stars should correspond to θ , ζ , ε , δ , σ , η Hydrae."
 </details>
-</details>
+
 </div>  
 
 ###### मघाः - पितरः
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/15_upahUtApH_pitaro.md">
-<details open><summary><h7>15 उपहूताᳶ पितरो ...{Loading}...</h7></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/15_upahUtApH_pitaro.md">
 
-उप॑हूताᳶ पि॒तरो॒ ये म॒घासु॑ । मनो॑जवसस् सु॒कृत॑स् सुकृ॒त्याः।  
-ते नो॒ नक्ष॑त्रे॒ हव॒म् **आग॑मिष्ठाः**। स्व॒धाभि॑र् य॒ज्ञम् प्रय॑तञ् **जुषन्ताम्**।  
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+उ᳓पहूताᳶ पित᳓रो ये᳓ मघा᳓सु । म᳓नोजवसस् सुकृ᳓तस् सुकृत्याः᳓।  
+ते᳓ नो न᳓क्षत्रे ह᳓वम् **आ᳓गमिष्ठाः**। स्वधा᳓भिर् यज्ञ᳓म् प्र᳓यतञ् **जुषन्ताम्**।  
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/15_upahUtApH_pitaro.md">
-<details open><summary><h7>15 उपहूताᳶ पितरो ...{Loading}...</h7></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/15_upahUtApH_pitaro.md">
+
 <details><summary>मूलम्</summary>
 
 उप॑हूताᳶ पि॒तरो॒ ये म॒घासु॑ ।  
@@ -663,20 +808,24 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-15मघानां - उपहूता इति ॥ ये पितरः मघासु उपहूताः देवतात्वेन अनुज्ञाताः मनोजवसः मनसा तुल्यवेगाः सुकृतः सुष्ठुकर्तारः सुकृत्याः शोभनकर्तव्याः । ते नः हवं आगमिष्ठाः अतिशयेनागन्तारो भवन्तु । किमर्थम्? नक्षत्त्रे मघानक्षत्रनिमित्तं आत्मार्थं च । निमित्तात्सप्तमी । पितरः समघाः स्वधाभिः अन्नैः हविर्भिः प्रयतं शुद्धं संस्कृतं यज्ञं जुषन्तां सेवन्ताम् ॥
+ये पितरः मघासु उपहूताः देवतात्वेन अनुज्ञाताः मनोजवसः मनसा तुल्यवेगाः सुकृतः सुष्ठुकर्तारः सुकृत्याः शोभनकर्तव्याः । ते नः हवं आगमिष्ठाः अतिशयेनागन्तारो भवन्तु । किमर्थम्? नक्षत्त्रे मघानक्षत्रनिमित्तं आत्मार्थं च । निमित्तात्सप्तमी । पितरः समघाः स्वधाभिः अन्नैः हविर्भिः प्रयतं शुद्धं संस्कृतं यज्ञं जुषन्तां सेवन्ताम् ॥
 </details>
-</details>
-</div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/16_ye_agnidagdhA.md">
-<details open><summary><h7>16 ये अग्निदग्धा ...{Loading}...</h7></summary>
 
-ये अ॑ग्निद॒ग्धा ये ऽन॑ग्निदग्धाः। ये॒॑ ऽमुल्ँ लो॒कम् पि॒तरᳵ॑ **क्षि॒यन्ति॑**।  
-याँश् च॑ **वि॒द्म** याँ उ॑ च॒ **न प्र॑वि॒द्म**। म॒घासु॑ य॒ज्ञँ सुकृ॑तम् **जुषन्ताम्**॥  
+</div>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/16_ye_agnidagdhA.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+ये᳓ अग्निदग्धा᳓ ये᳓ ऽनग्निदग्धाः। ये᳙ ऽमुल्ँ᳓ लोक᳓म् पित᳓रᳵ **क्षिय᳓न्ति**।  
+याँ᳓श् च **विद्म᳓** याँ᳓ उ च **न᳓ प्रविद्म᳓**। मघा᳓सु यज्ञँ᳓ सु᳓कृतम् **जुषन्ताम्**॥  
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/16_ye_agnidagdhA.md">
-<details open><summary><h7>16 ये अग्निदग्धा ...{Loading}...</h7></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/16_ye_agnidagdhA.md">
+
 <details><summary>मूलम्</summary>
 
 ये अ॑ग्निद॒ग्धा येऽन॑ग्निदग्धाः ।  
@@ -691,18 +840,30 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 16ये अग्निदग्धा इति ॥ अग्निनैव दाह इति सामर्थ्याद्गम्यते ये संस्कृतेनाग्निया दग्धाः पितरः ये चानग्निदग्धाः मिथ्याग्निदग्धाः ये च पितरः अमुं लोकं, इमं लोकमित्युपलक्षणम् । क्षियन्ति अधिवसन्ति । यांश्च वयं विद्म जानीमः, यानपि च न प्रविद्म प्रकर्षेण न जानीमः ते सर्वे पितरः मघासु मघानिमित्तं अस्माकं सुकृतं यज्ञं जुषन्तां सेवन्ताम् ॥
 
 </details>
-</details>
-</div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/09_pitRbhyas_svAhA.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h9></summary>
 
-पि॒तृभ्य॒स् स्वाहा॑ म॒घाभ्य॒स् स्वाहा॑  
-ऽन॒घाभ्य॒स् स्वाहा॑ग॒दाभ्य॒स् स्वाहा॑  
-ऽरुन्ध॒तीभ्य॒स् स्वाहा॑ ॥34॥
-</details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/08_maghAH/">
-<details open><summary><h10>०८ मघाः ...{Loading}...</h10></summary>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+17फल्गुन्योः - वां पतिरिति ॥
+</details>
+</details>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/09_pitRbhyas_svAhA.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+पितृ᳓भ्यस् स्वा᳓हा मघा᳓भ्यस् स्वा᳓हा  
+ऽनघा᳓भ्यस् स्वा᳓हा गदा᳓भ्यस् स्वा᳓हा  
+ऽरुन्धती᳓भ्यस् स्वा᳓हा ॥34॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/08_maghAH/">
+
 <details open><summary>विश्वास-टिप्पनी</summary>
 
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/maghA.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/maghA.png)
@@ -715,23 +876,26 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 - "Atharvaveda Nakṣatra sūkta states that the summer solstice happened in this asterism pointing to a period of ~4400 YBP"
 </details>
-</details>
+
 </div>  
 
 ###### पूर्व-फल्गुन्यः  - अर्यमा
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/17_gavAmpatipH_phalgunInAmasi.md">
-<details open><summary><h7>17 गवाम्पतिᳶ फल्गुनीनामसि ...{Loading}...</h7></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/17_gavAmpatipH_phalgunInAmasi.md">
 
-गवा॒म् पतिः॒ फल्गु॑नीनाम् **असि॒** त्वम्।  
-तद् अ॑र्यमन् वरुण-मित्र॒ चारु॑।  
-तन् त्वा॑ व॒यँ स॑नि॒तारँ॑ +++(=दातारं)+++ सनी॒नाम् +++(=दातव्यानाम्)+++ +++(←नाम् अन्यतरस्याम् इत्य् अन्तोदात्तत्वात् स्वरः)+++।  
-जी॒वा जीव॑न्त॒म् उप॒ **सव्ँवि॑शेम**।  
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+ग᳓वाम्+++(→"न गोश्वन्…" इति स्वरः)+++ प᳓तिः फ᳓ल्गुनीनाम् **असि** त्व᳓म्।  
+त᳓द् अर्यमन् वरुण-मित्र चा᳓रु।  
+त᳓न् त्वा वयँ᳓ सनिता᳓रँ +++(=दातारं)+++ सनीना᳓म् +++(=दातव्यानाम्)+++ +++(←नाम् अन्यतरस्याम् इत्य् अन्तोदात्तत्वात् स्वरः)+++।  
+जीवा᳓ जी᳓वन्तम् उ᳓प **सव्ँ᳓विशेम**।  
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/17_gavAmpatipH_phalgunInAmasi.md">
-<details open><summary><h7>17 गवाम्पतिᳶ फल्गुनीनामसि ...{Loading}...</h7></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/17_gavAmpatipH_phalgunInAmasi.md">
+
 <details><summary>मूलम्</summary>
 
 गवा॒म्पति॒ᳶ फल्गु॑नीनामसि॒ त्वम् ।  
@@ -742,24 +906,28 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-17फल्गुन्योः - वां पतिरिति ॥ गवां गोमतीनां फल्गुनीनां फल्गुन्योश्च नक्षत्रस्य पतिः स्वामी त्वमसि । यद्वा - फल्पुन्योः देवताभूतः गवां उदकानां गवामेव वा पतिः पालयिता असि । 'फल्गुनीप्रोष्ठपदानां च नक्षत्रे' इति बडुवचनम् । यस्मादेवं तस्मात् हे अर्यमन्! वरुण! वारक! दुरितानां, हे मित्र! प्रमितेरपि त्रायक! तं तादृशं त्वां सनितारं संविभक्तारं सनीनां धनानां जीवन्तं नित्यजीविनं वयं जीवाः सम्यक् जीवन्तः चारु शोभनं उपसंविशेम उपसंप्राप्नुयाम ॥
+गवां गोमतीनां फल्गुनीनां फल्गुन्योश्च नक्षत्रस्य पतिः स्वामी त्वमसि । यद्वा - फल्पुन्योः देवताभूतः गवां उदकानां गवामेव वा पतिः पालयिता असि । 'फल्गुनीप्रोष्ठपदानां च नक्षत्रे' इति बडुवचनम् । यस्मादेवं तस्मात् हे अर्यमन्! वरुण! वारक! दुरितानां, हे मित्र! प्रमितेरपि त्रायक! तं तादृशं त्वां सनितारं संविभक्तारं सनीनां धनानां जीवन्तं नित्यजीविनं वयं जीवाः सम्यक् जीवन्तः चारु शोभनं उपसंविशेम उपसंप्राप्नुयाम ॥
 </details>
-</details>
-</div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/18_yenemA_vishvA.md">
-<details open><summary><h7>18 येनेमा विश्वा ...{Loading}...</h7></summary>
 
-येने॒मा विश्वा॒ भुव॑नानि॒ **सञ्जि॑ता**। यस्य॑ दे॒वा **अ॑नुसं॒यन्ति॒** चेतः॑।  
-अ॒र्य॒मा राजा॒ ऽजर॑स् **तुवि॑ष्मान्** +++(=वृद्धिमान्)+++। फल्गु॑नीनाम् ऋष॒भो **रो॑रवीति**॥  
+</div>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/18_yenemA_vishvA.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+ये᳓नेमा᳓ वि᳓श्वा भु᳓वनानि **स᳓ञ्जिता**। य᳓स्य देवा᳓ **अनुसंय᳓न्ति** चे᳓तः।  
+अर्यमा᳓ रा᳓जा ऽज᳓रस् **तु᳓विष्मान्** +++(=वृद्धिमान्)+++। फ᳓ल्गुनीनाम् ऋषभो᳓ **रोरवीति**॥  
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/18_yenemA_vishvA.md">
-<details open><summary><h7>18 येनेमा विश्वा ...{Loading}...</h7></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/18_yenemA_vishvA.md">
+
 <details><summary>मूलम्</summary>
 
 येने॒मा विश्वा॒ भुव॑नानि॒ सञ्जि॑ता ।  
-यस्य॑ दे॒वा अ॑नुस॒य्ँयन्ति॒ चेतः॑ ॥7॥  
+यस्य॑ दे॒वा अ॑नुसय्ँ॒यन्ति॒ चेतः॑ ॥7॥  
 अ॒र्य॒मा राजा॒ऽजर॒स्तुवि॑ष्मान् ।  
 फल्गु॑नीनामृष॒भो रो॑रवीति ।  
 
@@ -770,17 +938,29 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 18येनेमा इति ॥ इमानि विश्वानि भुवनानि येन संजिता सम्यक् जितानि सहैव वा जितानि । देवा अपि यस्य चेतः चित्तं अनुसंयन्ति संगच्छन्ति । सोऽर्यमा राजा दीप्तिमान् अजरः जरामरणरहितः तुविष्मान् वृद्धिमान् । फल्गुनीनां गोस्थानीयानां ऋषभः सेक्ता रोरवीति भृशं शब्दायते ख्यापयत्यात्मानमित्यर्थः ॥
 
 </details>
-</details>
-</div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/10_aryamNe_svAhA.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h9></summary>
 
-अ॒र्य॒म्णे स्वाहा॒ फल्गु॑नीभ्याँ॒ स्वाहा॑ ,  
-प॒शुभ्य॒स् स्वाहा॑ ॥35॥
-</details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/09_phAlgunyaH/">
-<details open><summary><h10>०९ फाल्गुन्यः ...{Loading}...</h10></summary>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+19उत्तरफल्गुन्योः - श्रेष्ठ इति ॥
+</details>
+</details>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/10_aryamNe_svAhA.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+अर्यम्णे᳓ स्वा᳓हा फ᳓ल्गुनीभ्याँ स्वा᳓हा ,  
+पशु᳓भ्यस् स्वा᳓हा ॥35॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/09_phAlgunyaH/">
+
 <details open><summary>विश्वास-टिप्पनी</summary>
 
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/maghA.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/maghA.png)
@@ -790,21 +970,24 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 - अत्र वै यदा चन्द्रमा ऽवर्तत ३००० BCE इति वर्षे, तदाभूद् वत्सरारम्भः।
   - विवरणानि सौर-चान्द्र-मान-पृष्ठे। 
 </details>
-</details>
+
 </div>  
 
 ###### उत्तर-फल्गुन्यः - भगः
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/19_shreShTho_devAnAmbhagavo.md">
-<details open><summary><h7>19 श्रेष्ठो देवानाम्भगवो ...{Loading}...</h7></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/19_shreShTho_devAnAmbhagavo.md">
 
-श्रेष्ठो॑ दे॒वाना॑म् भगवो **भगासि**।  तत् त्वा॑ **विदु॒ᳶ** फल्गु॑नी॒स्, तस्य॑ वित्तात् +++(=विद्धि)+++।  
-अ॒स्मभ्य॑ङ् क्ष॒त्रम् अ॒जरँ॑ सु॒वीर्य॑म्। गोम॒द् अश्व॑व॒द् उप॒ सन् **नु॑दे॒ह**।  
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+श्रे᳓ष्ठो देवा᳓नाम् भगवो **भगासि**।  त᳓त् त्वा **विदुᳶ** फ᳓ल्गुनीस्, त᳓स्य वित्तात् +++(=विद्धि)+++।  
+अस्म᳓भ्यङ् क्षत्र᳓म् अज᳓रँ सुवी᳓र्यम्। गो᳓मद् अ᳓श्ववद् उ᳓प स᳓न् **नुदेह᳓**।  
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/19_shreShTho_devAnAmbhagavo.md">
-<details open><summary><h7>19 श्रेष्ठो देवानाम्भगवो ...{Loading}...</h7></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/19_shreShTho_devAnAmbhagavo.md">
+
 <details><summary>मूलम्</summary>
 
 श्रेष्ठो॑ दे॒वाना॑म्भगवो भगासि ।  
@@ -816,21 +999,25 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-19उत्तरफल्गुन्योः - श्रेष्ठ इति ॥ देवानां मध्ये श्रेष्ठः प्रशस्यतमोसि हे भगवः! ऐश्वर्यादिमन्! 'मतुवसो रुः' इति रुत्वम् । हे भग! तत् तं, द्वितीया लुप्यते । तादृशं त्वां उत्तराः फल्गुन्यः विदुः जानन्ति । यद्वा - तत् तस्मात् त्वां फल्गुन्यः लभन्ते सेवन्ते । त्वमपि तस्य महिमानं वित्तात् जानीथाः । कर्मणि षष्ठी । ततः तादृशं आत्मनो माहात्म्यं विद्वान् तादृशीभिः फल्गुनीभिः सह त्वं अस्मभ्यं क्षत्त्रं बलं अजरं अनुपक्षयं सुवीर्यं शोभनवीरकर्मयुक्तं गोमत् बहुगु अश्ववत् प्रशस्तात् इह कर्मणि उपसंनुद अस्माकं समीपे प्रेरय । तिङन्तस्य उदात्तत्वाभावात् गत्योर्निघाताभावः ॥
+देवानां मध्ये श्रेष्ठः प्रशस्यतमोसि हे भगवः! ऐश्वर्यादिमन्! 'मतुवसो रुः' इति रुत्वम् । हे भग! तत् तं, द्वितीया लुप्यते । तादृशं त्वां उत्तराः फल्गुन्यः विदुः जानन्ति । यद्वा - तत् तस्मात् त्वां फल्गुन्यः लभन्ते सेवन्ते । त्वमपि तस्य महिमानं वित्तात् जानीथाः । कर्मणि षष्ठी । ततः तादृशं आत्मनो माहात्म्यं विद्वान् तादृशीभिः फल्गुनीभिः सह त्वं अस्मभ्यं क्षत्त्रं बलं अजरं अनुपक्षयं सुवीर्यं शोभनवीरकर्मयुक्तं गोमत् बहुगु अश्ववत् प्रशस्तात् इह कर्मणि उपसंनुद अस्माकं समीपे प्रेरय । तिङन्तस्य उदात्तत्वाभावात् गत्योर्निघाताभावः ॥
 
 </details>
-</details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/20_bhago_ha.md">
-<details open><summary><h7>20 भगो ह ...{Loading}...</h7></summary>
 
-भगो॑ ह दा॒ता भग॒ इत् प्र॑दा॒ता। भगो॑ दे॒वीᳶ फल्गु॑नी॒र् **आवि॑वेश**।  
-भग॒स्येत् तम् प्र॑स॒वङ् **ग॑मेम**। यत्र॑ दे॒वैस् स॑ध॒मादं॑ +++(=सहहर्षं)+++ **मदेम** +++(=प्राप्नुयाम)+++।॥  
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/20_bhago_ha.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+भ᳓गो ह दाता᳓ भ᳓ग इ᳓त् प्रदाता᳓। भ᳓गो देवीᳶ᳓ फ᳓ल्गुनीर् **आ᳓विवेश**।  
+भ᳓गस्ये᳓त् त᳓म् प्रसव᳓ङ् **गमेम**। य᳓त्र देवै᳓स् सधमा᳓दं +++(=सहहर्षं)+++ **मदेम** +++(=प्राप्नुयाम)+++।॥  
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/20_bhago_ha.md">
-<details open><summary><h7>20 भगो ह ...{Loading}...</h7></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/20_bhago_ha.md">
+
 <details><summary>मूलम्</summary>
 
 भगो॑ ह दा॒ता भग॒ इत्प्र॑दा॒ता ।  
@@ -845,16 +1032,28 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 20भगो हेति ॥ भगो दाता भग एव प्रदाता प्रकर्षेण दाता भग एव देवीः देवनस्वभावाः फल्गुनीः उत्तराः आविवेश अनुप्रविश्य तिष्ठति । तस्मात् भगस्येत् । इदित्यव्ययम् । भगस्यैव तं प्रसवं अनुज्ञां गमेम गम्यास्म । 'लिङ्याशिष्यङ्' । कम्? यत्र प्रसवे सति देवैः सधमादं सहमादं मदेम माद्येम तं प्रसवं गमेमहि ॥
 
 </details>
-</details>
-</div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/11_bhagAya_svAhA.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h9></summary>
 
-भगा॑य॒ स्वाहा॒ फल्गु॑नीभ्याँ॒ स्वाहा॑ । श्रैष्ठ्या॑य॒ स्वाहा॑ ॥36॥
-</details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/10_phAlgunyaH/">
-<details open><summary><h10>१० फाल्गुन्यः ...{Loading}...</h10></summary>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+21हस्तस्य - आयात्विति ॥
+</details>
+</details>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/11_bhagAya_svAhA.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+भ᳓गाय स्वा᳓हा फ᳓ल्गुनीभ्याँ स्वा᳓हा । श्रै᳓ष्ठ्याय स्वा᳓हा ॥36॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/10_phAlgunyaH/">
+
 <details open><summary>विश्वास-टिप्पनी</summary>
 
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/maghA.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/maghA.png)
@@ -862,53 +1061,60 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 Denebola - β, 93 Leonis
 </details>
-</details>
+
 </div>  
 
 ###### हस्तः - सविता
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/21_AyAtu_devassavitopayAtu.md">
-<details open><summary><h7>21 आयातु देवस्सवितोपयातु ...{Loading}...</h7></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/21_AyAtu_devassavitopayAtu.md">
 
-आया॑तु दे॒वस् **स॑वि॒तोप॑यातु**।  
-हि॒र॒ण्यये॑न सु॒वृता॒ रथे॑न।  
-**वह॒न्** हस्तँ॑ सु॒भग॑व्ँ विद्म॒नाप॑सम् +++(=विदितकर्मणा युक्तम्)+++।  
-**प्र॒यच्छ॑न्त॒म्** पपु॑रि॒म् +++(=पूरयितारम्)+++ पुण्य॒म् अच्छ॑ +++(=अभिमुखं वर्तमानम्)+++।
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+आ᳓यातु देव᳓स् **सवितो᳓पयातु**।  
+हिरण्य᳓येन सुवृ᳓ता र᳓थेन।  
+**व᳓हन्** ह᳓स्तँ सुभ᳓गव्ँ विद्मना᳓पसम् +++(=विदितकर्मणा युक्तम्)+++।  
+**प्रय᳓च्छन्तम्** प᳓पुरिम् +++(=पूरयितारम्)+++ पु᳓ण्यम् अ᳓च्छ +++(=अभिमुखं वर्तमानम्)+++।
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/21_AyAtu_devassavitopayAtu.md">
-<details open><summary><h7>21 आयातु देवस्सवितोपयातु ...{Loading}...</h7></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/21_AyAtu_devassavitopayAtu.md">
+
 <details><summary>मूलम्</summary>
 
 आया॑तु दे॒वस्स॑वि॒तोप॑यातु ।  
 हि॒र॒ण्यये॑न सु॒वृता॒ रथे॑न ।  
-वह॒न् हस्तँ॑ सु॒भग॑व्ँविद्म॒नाप॑सम् ।  
+वह॒न् हस्तँ॑ सु॒भगव्ँ॑विद्म॒नाप॑सम् ।  
 प्र॒यच्छ॑न्त॒म्पपु॑रि॒म्पुण्य॒मच्छ॑ ।    
 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-21हस्तस्य - आयात्विति ॥ देवस्सविता आयातु आगच्छतु अस्मान् प्रति उपयातु च उपगच्छतु चास्मत्पार्श्वम् । हिरण्ययेन हिरण्यविकारेण सुवृता सुवृत्तिकेन । त्रिचक्रादित्वादुत्तरपदान्तोदात्तत्वम् । ईदृशेन रथेनायातु । हस्तं नक्षत्रं सुभगं शोभनधनं विद्मनापसं विद्मनं विदितं विख्यातं अपसं कर्म यस्य तादृशम् । विदेर्लुटि धातोर्मुमागमः । प्रयच्छन्तं अभिमतानि ददतं पपुरिं पूरयितारं कामानाम् । 'आदृगमहन' इति किन् प्रत्ययः । पुण्यं पावनं लोकस्य ईदृशं हस्तं रथेन आत्मीयेन वहन् अच्छ अस्मदाभिमुख्येन आयातु ॥
+देवस्सविता आयातु आगच्छतु अस्मान् प्रति उपयातु च उपगच्छतु चास्मत्पार्श्वम् । हिरण्ययेन हिरण्यविकारेण सुवृता सुवृत्तिकेन । त्रिचक्रादित्वादुत्तरपदान्तोदात्तत्वम् । ईदृशेन रथेनायातु । हस्तं नक्षत्रं सुभगं शोभनधनं विद्मनापसं विद्मनं विदितं विख्यातं अपसं कर्म यस्य तादृशम् । विदेर्लुटि धातोर्मुमागमः । प्रयच्छन्तं अभिमतानि ददतं पपुरिं पूरयितारं कामानाम् । 'आदृगमहन' इति किन् प्रत्ययः । पुण्यं पावनं लोकस्य ईदृशं हस्तं रथेन आत्मीयेन वहन् अच्छ अस्मदाभिमुख्येन आयातु ॥
 
 </details>
-</details>
-</div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/22_hastapH.md">
-<details open><summary><h7>22 हस्तᳶ ...{Loading}...</h7></summary>
 
-हस्तᳶ॒ **प्रय॑च्छत्व्** अ॒मृत॒व्ँ वसी॑यः।  
-दक्षि॑णेन॒ **प्रति॑गृभ्णीम** एनत्।  
-दा॒तार॑म् अ॒द्य +++([यः])+++ स॑वि॒ता **वि॑देय** +++(=लभेय)+++।  
-यो नो॒ हस्ता॑य **प्रसु॒वाति॑** य॒ज्ञम्॥  
-</details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/22_hastapH.md">
-<details open><summary><h7>22 हस्तᳶ ...{Loading}...</h7></summary>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/22_hastapH.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+ह᳓स्तᳶ **प्र᳓यच्छत्व्** अमृ᳓तव्ँ व᳓सीयः।  
+द᳓क्षिणेन **प्र᳓तिगृभ्णीम** एनत्।  
+दाता᳓रम् अद्य᳓ +++([यः])+++ सविता᳓ **विदेय** +++(=लभेय)+++।  
+यो᳓ नो ह᳓स्ताय **प्रसुवा᳓ति** यज्ञ᳓म्॥  
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/22_hastapH.md">
+
 <details><summary>मूलम्</summary>
 
-हस्त॒ᳶ प्रय॑च्छत्व॒मृत॒व्ँवसी॑यः ।   
+हस्त॒ᳶ प्रय॑च्छत्व॒मृतव्ँ॒वसी॑यः ।   
 दक्षि॑णेन॒ प्रति॑गृभ्णीम एनत् ।  
 दा॒तार॑म॒द्य स॑वि॒ता वि॑देय ।  
 यो नो॒ हस्ता॑य प्रसु॒वाति॑ य॒ज्ञम् ।
@@ -920,41 +1126,56 @@ Denebola - β, 93 Leonis
 22हस्तः प्रयच्छत्विति ॥ हस्तः नक्षत्रं प्रयच्छतु ददातु अमृतं अमरणहेतुं धनं वसीयः प्रशस्ततरम् । एनत् धनं दक्षिणेन हस्तेन वयं पूजितं **प्रति गृभ्णीमः** । **एनत्** इत्यन्वादेशो धनवाची । 'हृग्रहोर्भः' इति भत्वम् ।  
 अद्य अस्मिन्नहनि तमपि दातारं विदेय जानीयां लभेय वा । लिङ्याशिष्यङ् । तस्य दातृत्वमद्योपलप्सीय । यः सविता हस्ताय नक्षत्राय नः यज्ञं प्रसुवाति अनुजानाति । लेट्याडागमः ॥
 </details>
-</details>
-</div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/12_savitre_svAhA.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h9></summary>
 
-स॒वि॒त्रे स्वाहा॒ हस्ता॑य॒ स्वाहा॑  
-दद॒ते स्वाहा॑ पृण॒ते स्वाहा॑  
-प्र॒यच्छ॑ते॒ स्वाहा॑  प्रतिगृभ्ण॒ते स्वाहा॑ ॥37 ॥
-</details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/11_hastaH/">
-<details open><summary><h10>११ हस्तः ...{Loading}...</h10></summary>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+23चित्रायाः - त्वष्टेति ॥
+</details>
+</details>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/12_savitre_svAhA.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+सवित्रे᳓ स्वा᳓हा ह᳓स्ताय स्वा᳓हा  
+ददते᳓ स्वा᳓हा पृणते᳓ स्वा᳓हा  
+प्रय᳓च्छते स्वा᳓हा  प्रतिगृभ्णते᳓ स्वा᳓हा ॥37 ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/11_hastaH/">
+
 <details open><summary>विश्वास-टिप्पनी</summary>
 
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/hasta.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/hasta.png)
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/stellarium/hastaH.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/stellarium/hastaH.png)
 Corvus- α , β , γ , δ , ε Corvi.
 </details>
-</details>
+
 </div>  
 
 ###### चित्रा - त्वष्टा
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/23_tvaShTA_nakhShatramabhyeti.md">
-<details open><summary><h7>23 त्वष्टा नक्षत्रमभ्येति ...{Loading}...</h7></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/23_tvaShTA_nakhShatramabhyeti.md">
 
-त्वष्टा॒ नक्ष॑त्रम् **अ॒भ्ये॑ति** चि॒त्राम् +++(=Spica)+++।  
-सु॒भँस॑सय्ँ +++(=सुजघनां)+++ युव॒तिँ **रोच॑मानाम्**।  
-**नि॒वे॒शय॑न्न्** अ॒मृता॒न् मर्त्याँ॑श् च।  
-रू॒पाणि॑ **पिँ॒शन्** +++(=निरूपयन्)+++ भुव॑नानि॒ विश्वा॑।  
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+त्व᳓ष्टा न᳓क्षत्रम् **अभ्ये᳙ति** चित्रा᳓म् +++(=Spica)+++।  
+सुभँ᳓ससय्ँ +++(=सुजघनां)+++ युवतिँ᳓ **रो᳓चमानाम्**।  
+**निवेश᳓यन्न्** अमृ᳓तान् म᳓र्त्याँश् च।  
+रूपा᳓णि **पिँश᳓न्** +++(=निरूपयन्)+++ भु᳓वनानि वि᳓श्वा।  
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/23_tvaShTA_nakhShatramabhyeti.md">
-<details open><summary><h7>23 त्वष्टा नक्षत्रमभ्येति ...{Loading}...</h7></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/23_tvaShTA_nakhShatramabhyeti.md">
+
 <details><summary>मूलम्</summary>
 
 त्वष्टा॒ नक्ष॑त्रम॒भ्ये॑ति चि॒त्राम् ।  
@@ -966,23 +1187,27 @@ Corvus- α , β , γ , δ , ε Corvi.
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-23चित्रायाः - त्वष्टेति ॥ त्वष्टा चित्रा नक्षत्रं अभ्येति आभिमुख्येन गच्छति । तया एकीभवति । सुभंससं शोभनदीप्तिं 'भस भर्त्सनदीप्त्योः' असुनि अनुस्वारोपजनः छान्दसः । यद्वा - सुभसत् शोभनजघना । छान्दसो विकारः । पर्यायान्तरं वा भसदः । युवतिं मिश्रिणीं रोचमानां दीप्यमानां त्वष्ट्रे वा रोचमानाम् । किं कुर्वन्नभ्येति? अमृतान् देवान् मर्त्यान् मनुजान् । चकारस्सर्वसमुच्चये । निवेशयन् यथास्वरूपं स्थापयन् । किञ्च - रूपाणि रूपवन्ति रूपणीयानि वा विश्वानि भुवनानि भूतानि पिंशन् अवयववन्ति रूपयन् । पिश अवयवे, व्यत्ययेन श्नम् ॥
+त्वष्टा चित्रा नक्षत्रं अभ्येति आभिमुख्येन गच्छति । तया एकीभवति । सुभंससं शोभनदीप्तिं 'भस भर्त्सनदीप्त्योः' असुनि अनुस्वारोपजनः छान्दसः । यद्वा - सुभसत् शोभनजघना । छान्दसो विकारः । पर्यायान्तरं वा भसदः । युवतिं मिश्रिणीं रोचमानां दीप्यमानां त्वष्ट्रे वा रोचमानाम् । किं कुर्वन्नभ्येति? अमृतान् देवान् मर्त्यान् मनुजान् । चकारस्सर्वसमुच्चये । निवेशयन् यथास्वरूपं स्थापयन् । किञ्च - रूपाणि रूपवन्ति रूपणीयानि वा विश्वानि भुवनानि भूतानि पिंशन् अवयववन्ति रूपयन् । पिश अवयवे, व्यत्ययेन श्नम् ॥
 
 </details>
-</details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/24_tannastvaShTA_tadu.md">
-<details open><summary><h7>24 तन्नस्त्वष्टा तदु ...{Loading}...</h7></summary>
 
-तन् न॒स् त्वष्टा॒ तद् उ॑ चि॒त्रा **विच॑ष्टाम्** +++(=वीक्षताम्)+++।  
-तन् नक्ष॑त्रम् **भूरि॒दा अ॑स्तु॒** मह्य॑म्।  
-तन्नᳶ॑ प्र॒जाव्ँ वी॒रव॑तीँ **सनोतु** +++(=ददातु)+++।  
-गोभि॑र् नो॒ अश्वै॒स् **सम॑नक्तु** य॒ज्ञम्॥  
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/24_tannastvaShTA_tadu.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+त᳓न् नस् त्व᳓ष्टा त᳓द् उ चित्रा᳓ **वि᳓चष्टाम्** +++(=वीक्षताम्)+++।  
+त᳓न् न᳓क्षत्रम् **भूरिदा᳓ अस्तु** म᳓ह्यम्।  
+त᳓न्नᳶ प्रजाव्ँ᳓ वीर᳓वतीँ **सनोतु** +++(=ददातु)+++।  
+गो᳓भिर् नो अ᳓श्वैस् **स᳓मनक्तु** यज्ञ᳓म्॥  
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/24_tannastvaShTA_tadu.md">
-<details open><summary><h7>24 तन्नस्त्वष्टा तदु ...{Loading}...</h7></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/24_tannastvaShTA_tadu.md">
+
 <details><summary>मूलम्</summary>
 
 तन्न॒स्त्वष्टा॒ तदु॑ चि॒त्रा विच॑ष्टाम् ।  
@@ -997,17 +1222,29 @@ Corvus- α , β , γ , δ , ε Corvi.
 24तन्न इति ॥ त्वष्टा चित्रा च नः अभिमतं विचष्टां व्यक्तं वदतु, उत्पादयत्विति यावत् । किं च - तत् चित्राख्यं नक्षत्रं मह्यं भूरिदा बहुनो धनस्य दातृ अस्तु । लिङ्गव्यत्ययः, चित्राभिप्रायं वा स्त्रीत्वम् । तत् देवता नक्षत्रं च तद्द्वयं नः वीरवतीं विक्रान्तपुरुषवतीं प्रजां सन्ततिं सनोतु ददातु । षणु दाने । गोभिरश्वैश्च नः यज्ञं समनकु समृद्धं करोतु ॥
 
 </details>
-</details>
-</div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/13_tvaShTre_svAhA.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h9></summary>
 
-त्वष्ट्रे॒ स्वाहा॑ चि॒त्रायै॒ स्वाहा॑ ।  
-चैत्रा॑य॒ स्वाहा॑ प्र॒जायै॒ स्वाहा॑ ॥38॥
-</details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/12_chitrA/">
-<details open><summary><h10>१२ चित्रा ...{Loading}...</h10></summary>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+25स्वातेः - वायुरिति ॥
+</details>
+</details>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/13_tvaShTre_svAhA.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+त्व᳓ष्ट्रे स्वा᳓हा चित्रा᳓यै स्वा᳓हा ।  
+चै᳓त्राय स्वा᳓हा प्रजा᳓यै स्वा᳓हा ॥38॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/12_chitrA/">
+
 <details open><summary>विश्वास-टिप्पनी</summary>
 
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/chitrA.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/chitrA.png)
@@ -1021,23 +1258,26 @@ Corvus- α , β , γ , δ , ε Corvi.
 - "Whereas the taittirIya brAhmaNa & other traditions recognize tvaShTR^i as the god of the asterism, the other taittirIya saMhitA, assigns 3 nakShatra-s to indra at intervals of 7 centered in Antares; chitra is the first of them. This might relate to the timing of ancient aindra rituals along the early satra."
 - "this constellation offers a window, with a relatively small telescope 6-10in, of both the vastness & higher order structure of the universe. 1st we can start with M 104 or the Sombrero galaxy at the border with Corvus. It is probably the brightest galaxy in our local group& has a gigantic black hole at its center. I have routinely seen it with my 50x70 binocs on good nights. Moving from the Local group we go to the upper part of Virgo. The galaxies M 100,M 49,M 58,M 59,M 60,M 61,M 84,M 85,M 86,M 87,M 88,M 89,M 90,M 91,M 98,M 99 can be seen as part of this cluster with a small telescope. This cluster with our own local group and many others forms the Virgo supercluster. A lot of what we know of the universe is from this cluster."
 </details>
-</details>
+
 </div>  
 
 ###### निष्ट्या, स्वातिः - वायुः
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/25_vAyurnakhShattramabhyeti.md">
-<details open><summary><h7>25 वायुर्नक्षत्त्रमभ्येति ...{Loading}...</h7></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/25_vAyurnakhShattramabhyeti.md">
 
-वा॒युर् नक्ष॑त्रम् **अ॒भ्ये॑ति॒** निष्ट्या॑म्+++(=Arctrus)+++।  
-ति॒ग्मशृ॑ङ्गो वृष॒भो **रोरु॑वाणः**।  
-**स॒मी॒रय॒न्** भुव॑ना मात॒रिश्वा॑ +++(←मातरि आकाशे श्वयति वर्द्धते)+++।  
-**अप॒** द्वेषाँ॑सि **नुदता॒म्** अरा॑तीः।  
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+वायु᳓र् न᳓क्षत्रम् **अभ्ये᳙ति** नि᳓ष्ट्याम्+++(=Arctrus)+++।  
+तिग्म᳓शृङ्गो वृषभो᳓ **रो᳓रुवाणः**।  
+**समीर᳓यन्** भु᳓वना मातरि᳓श्वा +++(←मातरि आकाशे श्वयति वर्द्धते)+++।  
+**अ᳓प** द्वे᳓षाँसि **नुदताम्** अ᳓रातीः।  
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/25_vAyurnakhShattramabhyeti.md">
-<details open><summary><h7>25 वायुर्नक्षत्त्रमभ्येति ...{Loading}...</h7></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/25_vAyurnakhShattramabhyeti.md">
+
 <details><summary>मूलम्</summary>
 
 वा॒युर्नक्ष॑त्त्रम॒भ्ये॑ति॒ निष्ट्या॑म् ।  
@@ -1049,23 +1289,27 @@ Corvus- α , β , γ , δ , ε Corvi.
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-25स्वातेः - वायुरिति ॥ निष्ट्या स्वातीनक्षत्रं वायुः अभ्येति अभिगच्छति । तिग्मगृङ्गः तीक्ष्णातेजाः वृषभः वर्षिता रोरुवाणः शब्दायमानः । यङ्लुगन्ताद्व्यत्ययेनात्मनेपदम् । भुवनानि भूतजातानि समीरयन् समन्तात् प्रेरयन् मातरिश्वा विश्वं मातीति विश्वमातर्याकाशे श्रयति वर्धते नः द्वेषांसि द्वेष्याणि अरातीः अदातॄंश्च । लिङ्गव्यत्ययः । अपनुदतां नाशयतु ॥
+निष्ट्या स्वातीनक्षत्रं वायुः अभ्येति अभिगच्छति । तिग्मगृङ्गः तीक्ष्णातेजाः वृषभः वर्षिता रोरुवाणः शब्दायमानः । यङ्लुगन्ताद्व्यत्ययेनात्मनेपदम् । भुवनानि भूतजातानि समीरयन् समन्तात् प्रेरयन् मातरिश्वा विश्वं मातीति विश्वमातर्याकाशे श्रयति वर्धते नः द्वेषांसि द्वेष्याणि अरातीः अदातॄंश्च । लिङ्गव्यत्ययः । अपनुदतां नाशयतु ॥
 
 </details>
-</details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/26_tanno_vAyustadu.md">
-<details open><summary><h7>26 तन्नो वायुस्तदु ...{Loading}...</h7></summary>
 
-तन् नो॑ वा॒युस् तद् उ॒ निष्ट्या॑ **शृणोतु**।  
-तन् नक्ष॑त्रम् **भूरि॒दा अ॑स्तु॒** मह्य॑म्।  
-तन् नो॑ दे॒वासो॒ **अनु॑जानन्तु॒** काम॑म्।  
-यथा॒ **तरे॑म** दुरि॒तानि॒ विश्वा॑॥  
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/26_tanno_vAyustadu.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+त᳓न् नो वायु᳓स् त᳓द् उ नि᳓ष्ट्या **शृणोतु**।  
+त᳓न् न᳓क्षत्रम् **भूरिदा᳓ अस्तु** म᳓ह्यम्।  
+त᳓न् नो देवा᳓सो **अ᳓नुजानन्तु** का᳓मम्।  
+य᳓था **त᳓रेम** दुरिता᳓नि वि᳓श्वा॥  
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/26_tanno_vAyustadu.md">
-<details open><summary><h7>26 तन्नो वायुस्तदु ...{Loading}...</h7></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/26_tanno_vAyustadu.md">
+
 <details><summary>मूलम्</summary>
 
 तन्नो॑ वा॒युस्तदु॒ निष्ट्या॑ शृणोतु ।   
@@ -1080,40 +1324,55 @@ Corvus- α , β , γ , δ , ε Corvi.
 26तन्न इति । । तत् नः अस्मदभिमतं वायुः शृणोतु यथाप्रार्थनं ददात्विति यावत् । निष्ट्या स्वाती च तच्छृणोतु । तत् नक्षत्रं भूरिदा अस्तु मह्यं तं अस्माकं कामं इष्टं देवा अनुजानन्तु । कः पुनस्स इत्याह - यथा वयं दुरितानि विश्वानि तरेम, तथाऽनुजानन्तु ॥
 
 </details>
-</details>
-</div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/14_vAyave_svAhA.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h9></summary>
 
-वा॒यवे॒ स्वाहा॒ निष्ट्या॑यै॒ स्वाहा॑ ।  
-का॒म॒चारा॑य॒ स्वाहा॒  
-ऽभिजि॑त्यै॒ स्वाहा॑ ॥39॥
-</details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/13_svAtiH/">
-<details open><summary><h10>१३ स्वातिः ...{Loading}...</h10></summary>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+27विशाखयोः - दूरमिति ।
+</details>
+</details>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/14_vAyave_svAhA.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+वाय᳓वे स्वा᳓हा नि᳓ष्ट्यायै स्वा᳓हा ।  
+कामचा᳓राय स्वा᳓हा  
+ऽभि᳓जित्यै स्वा᳓हा ॥39॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/13_svAtiH/">
+
 <details open><summary>विश्वास-टिप्पनी</summary>
 
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/niShTyA.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/niShTyA.png)
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/stellarium/niShTyA_svAtiH.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/stellarium/niShTyA_svAtiH.png)
 </details>
-</details>
+
 </div>  
 
 ###### विशाखे - इन्द्राग्नी
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/27_dUramasmachChatravo_yantu.md">
-<details open><summary><h7>27 दूरमस्मच्छत्रवो यन्तु ...{Loading}...</h7></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/27_dUramasmachChatravo_yantu.md">
 
-दू॒रम् अ॒स्मच्-छत्र॑वो **यन्तु** भी॒ताः।  
-तद् इ॑न्द्रा॒ग्नी **कृ॑णुता॒म्** तद् विशा॑खे।  
-तन् नो॑ दे॒वा **अनु॑मदन्तु** य॒ज्ञम्।  
-प॒श्चात् पु॒रस्ता॒द् अभ॑यन् नो **अस्तु**।  
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+दूर᳓म् अस्म᳓च्-छ᳓त्रवो **यन्तु** भीताः᳓।  
+त᳓द् इन्द्राग्नी᳓ **कृणुताम्** त᳓द् वि᳓शाखे।  
+त᳓न् नो देवा᳓ **अ᳓नुमदन्तु** यज्ञ᳓म्।  
+पश्चा᳓त् पुर᳓स्ताद् अ᳓भयन् नो **अस्तु**।  
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/27_dUramasmachChatravo_yantu.md">
-<details open><summary><h7>27 दूरमस्मच्छत्रवो यन्तु ...{Loading}...</h7></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/27_dUramasmachChatravo_yantu.md">
+
 <details><summary>मूलम्</summary>
 
 दू॒रम॒स्मच्छत्र॑वो यन्तु भी॒ताः ।   
@@ -1125,23 +1384,27 @@ Corvus- α , β , γ , δ , ε Corvi.
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-27विशाखयोः - दूरमिति । । अस्मत् अस्मत्तः भीताश्शत्रवो दूरं यन्तु पलायन्ताम् । तदभिमतं इन्द्राग्नी कृणुतां कुरुतां, विशाखे च नक्षत्रं तत्कृणुतामित्येव, तत्तत्साधनमस्माकं यज्ञं देवाः अनुमदन्तु अनुमोदनां फलनिष्पत्तिमनुजानन्तु । ततश्चास्माकं पश्चात्पुरस्ताच्च सर्वास्ववस्थासु अस्माकमभयमस्तु ॥
+। अस्मत् अस्मत्तः भीताश्शत्रवो दूरं यन्तु पलायन्ताम् । तदभिमतं इन्द्राग्नी कृणुतां कुरुतां, विशाखे च नक्षत्रं तत्कृणुतामित्येव, तत्तत्साधनमस्माकं यज्ञं देवाः अनुमदन्तु अनुमोदनां फलनिष्पत्तिमनुजानन्तु । ततश्चास्माकं पश्चात्पुरस्ताच्च सर्वास्ववस्थासु अस्माकमभयमस्तु ॥
 
 </details>
-</details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/28_nakhShatrANAmadhipatnI.md">
-<details open><summary><h7>28 नक्षत्राणामधिपत्नी ...{Loading}...</h7></summary>
 
-नक्ष॑त्राणा॒म् अधि॑पत्नी॒ विशा॑खे।  
-श्रेष्ठा॑व् इ्द्रा॒ग्नी भुव॑नस्य गो॒पौ।  
-विषू॑च॒श् +++(=विभिन्नगतीन्)+++ शत्रू॑न् **अप॒ बाध॑मानौ**।  
-अप॒ क्षुध॑न् **नुदता॒म्** अरा॑तिम्।॥  
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/28_nakhShatrANAmadhipatnI.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+न᳓क्षत्राणाम् अ᳓धिपत्नी वि᳓शाखे।  
+श्रे᳓ष्ठाव् इ्द्राग्नी᳓ भु᳓वनस्य गोपौ᳓।  
+वि᳓षूचश् +++(=विभिन्नगतीन्)+++ श᳓त्रून् **अप बा᳓धमानौ**।  
+अ᳓प क्षु᳓धन् **नुदताम्** अ᳓रातिम्।॥  
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/28_nakhShatrANAmadhipatnI.md">
-<details open><summary><h7>28 नक्षत्राणामधिपत्नी ...{Loading}...</h7></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/28_nakhShatrANAmadhipatnI.md">
+
 <details><summary>मूलम्</summary>
 
 नक्ष॑त्राणा॒मधि॑पत्नी॒ विशा॑खे ।   
@@ -1156,17 +1419,29 @@ Corvus- α , β , γ , δ , ε Corvi.
 28नक्षत्राणामिति ॥ नक्षत्राणां मध्ये अधिपत्नी अधिकं पालयित्र्यौ विशाखे नक्षत्रं, तद्देवते इन्द्राग्नी श्रेष्ठौ प्रशस्यतमौ भुवनस्य भूतजातस्य गोपौ गोपयितारौ अतोऽस्माकं विषूचः विष्वग्गतान् इतश्चेतश्च पलायितान् अपबाधमानौ पीडयन्तौ अस्माकं क्षुधं अरातिं शत्रुस्थानीयाम् । यद्वा - क्षुधं अरातिं चापनुदताम् ॥
 
 </details>
-</details>
-</div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/15_indrAgnibhyAM_svAhA.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h9></summary>
 
-इ॒न्द्रा॒ग्निभ्याँ॒ स्वाहा॒ विशा॑खाभ्याँ॒ स्वाहा॑ ।  
-श्रैष्ठ्या॑य॒ स्वाहा॒ ऽभिजि॑त्यै॒ स्वाहा॑ ॥40॥
-</details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/14_vishAkhe/">
-<details open><summary><h10>१४ विशाखे ...{Loading}...</h10></summary>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+29पौर्णमास्याः - पूर्णा पश्चादिति ॥
+</details>
+</details>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/15_indrAgnibhyAM_svAhA.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+इन्द्राग्नि᳓भ्याँ स्वा᳓हा वि᳓शाखाभ्याँ स्वा᳓हा ।  
+श्रै᳓ष्ठ्याय स्वा᳓हा ऽभि᳓जित्यै स्वा᳓हा ॥40॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/14_vishAkhe/">
+
 <details open><summary>विश्वास-टिप्पनी</summary>
 
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/vishAkhA.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/vishAkhA.png)
@@ -1180,28 +1455,31 @@ Corvus- α , β , γ , δ , ε Corvi.
 - "The constellation of the Ikṣvāku-s according to the Rāmāyaṇa."
 - "Observationally, one may attempt to see if 1 perceives beta Librae as having a green hue. Some people say so making it the only naked eye star with a greenness to it."
 </details>
-</details>
+
 </div>  
 
 ###### पूर्णिमा
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/29_pUrNA_pashchAduta.md">
-<details open><summary><h7>29 पूर्णा पश्चादुत ...{Loading}...</h7></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/29_pUrNA_pashchAduta.md">
 
-पू॒र्णा प॒श्चाद् उ॒त पू॒र्णा पु॒रस्ता॑त्।  
-उन् म॑ध्य॒तᳶ पौ॑र्णमा॒सी **जि॑गाय** +++(शत्रून्)+++।  
-तस्या॑न् दे॒वा अधि॑ **स॒व्ँवस॑न्तः**।  
-उ॒त्त॒मे नाक॑ इ॒ह **मा॑दयन्ताम्**।  
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+पूर्णा᳓ पश्चा᳓द् उत᳓ पूर्णा᳓ पुर᳓स्तात्।  
+उ᳓न् मध्यतᳶ᳓ पौर्णमासी᳓ **जिगाय** +++(शत्रून्)+++।  
+त᳓स्यान् देवा᳓ अ᳓धि **सव्ँव᳓सन्तः**।  
+उत्तमे᳓ ना᳓क इह᳓ **मादयन्ताम्**।  
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/29_pUrNA_pashchAduta.md">
-<details open><summary><h7>29 पूर्णा पश्चादुत ...{Loading}...</h7></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/29_pUrNA_pashchAduta.md">
+
 <details><summary>मूलम्</summary>
 
 पू॒र्णा प॒श्चादु॒त पू॒र्णा पु॒रस्ता॑त् ।   
 उन्म॑ध्य॒तᳶ पौ॑र्णमा॒सी जि॑गाय ।  
-तस्या॑न्दे॒वा अधि॑ स॒व्ँवस॑न्तः ।  
+तस्या॑न्दे॒वा अधि॑ सव्ँ॒वस॑न्तः ।  
 उ॒त्त॒मे नाक॑ इ॒ह मा॑दयन्ताम् ।
 </details>
 
@@ -1214,28 +1492,32 @@ _________________
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-29पौर्णमास्याः - पूर्णा पश्चादिति ॥ व्याख्याता पञ्चमाद्ये ॥
+व्याख्याता पञ्चमाद्ये ॥
 </details>
-</details>
-</div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/30_pRthvI_suvarchA.md">
-<details open><summary><h7>30 पृथ्वी सुवर्चा ...{Loading}...</h7></summary>
 
-पृ॒थ्वी +++(=विस्तीर्णा)+++ सु॒वर्चा॑ युव॒तिः स॒जोषाः॑।  
-पौ॒र्ण॒मा॒स्य् **उद॑गा॒च्** छोभ॑माना।  
-+++(दुर्गतिपरिहारेण)+++ **आ॒प्या॒यय॑न्ती** दुरि॒तानि॒ विश्वा॑।  
-उ॒रुन्+++(=विस्तीर्णाम्)+++ दुहा॒य्ँ +++(लिङ्गव्यत्ययः विभिक्तिव्यत्ययो वा)+++ यज॑मानाय य॒ज्ञम्।  
+</div>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/30_pRthvI_suvarchA.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+पृथ्वी᳓ +++(=विस्तीर्णा)+++ सुव᳓र्चा युवतिः᳓ सजो᳓षाः।  
+पौर्णमास्य् **उ᳓दगाच्** छो᳓भमाना।  
++++(दुर्गतिपरिहारेण)+++ **आप्याय᳓यन्ती** दुरिता᳓नि वि᳓श्वा।  
+उरु᳓न्+++(=विस्तीर्णाम्)+++ दु᳓हाय्ँ +++(लिङ्गव्यत्ययः विभिक्तिव्यत्ययो वा)+++ य᳓जमानाय यज्ञ᳓म्।  
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/30_pRthvI_suvarchA.md">
-<details open><summary><h7>30 पृथ्वी सुवर्चा ...{Loading}...</h7></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/30_pRthvI_suvarchA.md">
+
 <details><summary>मूलम्</summary>
 
 पृ॒थ्वी सु॒वर्चा॑ युव॒तिस्स॒जोषाः॑ ।  
 पौ॒र्ण॒मा॒स्युद॑गा॒च्छोभ॑माना ।  
 आ॒प्या॒यय॑न्ती दुरि॒तानि॒ विश्वा॑ ।  
-उ॒रुन्दुहा॒य्ँयज॑मानाय य॒ज्ञम् ॥12॥  
+उ॒रुन्दुहाय्ँ॒यज॑मानाय य॒ज्ञम् ॥12॥  
 
 </details>
 
@@ -1245,13 +1527,16 @@ _________________
 
 इति तैत्तिरीयब्राह्मणे तृतीयाष्टके प्रथमप्रपाठके प्रथमोऽनुवाकः ॥  
 </details>
-</details>
-</div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/16_paurNamAsyai_svAhA.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h9></summary>
 
-पौ॒र्ण॒मा॒स्यै स्वाहा॒ कामा॑य॒ स्वाहा ऽऽग॑त्यै॒ स्वाहा॑ ॥41॥
+</div>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/16_paurNamAsyai_svAhA.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+पौर्णमास्यै᳓ स्वा᳓हा का᳓माय स्वा᳓हा᳓ ऽऽगत्यै स्वा᳓हा ॥41॥
 </details>
+
 </div>
 </details>
 </div>
@@ -1260,18 +1545,28 @@ _________________
 
 ###### अनूराधाः - मित्रः
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/01_RddhyAsma.md">
-<details open><summary><h7>01 ऋद्ध्यास्म ...{Loading}...</h7></summary>
+<details><summary>सर्वा अवतारिकाः</summary>
 
-**ऋ॒द्ध्यास्म॑** ह॒व्यैर् **नम॑सोप॒सद्य॑**,,
-मि॒त्रन् दे॒वं+++(।)+++, मि॑त्र॒धेय॑न् +++(=मित्रेण सम्पाद्यन्)+++ नो **अस्तु**।  
-अ॒नू॒रा॒धान् ह॒विषा॑ **व॒र्धय॑न्तः**।  
-श॒तञ् **जी॑वेम॒** श॒रदः॒ सवी॑राः।  
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+1अनूराधानां - ऋध्यास्येति ॥
+</details>
+</details>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/01_RddhyAsma.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+**ऋद्ध्या᳓स्म** हव्यै᳓र् **न᳓मसोपस᳓द्य**,,
+मित्र᳓न् देवं᳓+++(।)+++, मित्रधे᳓यन् +++(=मित्रेण सम्पाद्यन्)+++ नो **अस्तु**।  
+अनूराधा᳓न् हवि᳓षा **वर्ध᳓यन्तः**।  
+शत᳓ञ् **जीवेम** शर᳓दः स᳓वीराः।  
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/01_RddhyAsma.md">
-<details open><summary><h7>01 ऋद्ध्यास्म ...{Loading}...</h7></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/01_RddhyAsma.md">
 <details><summary>मूलम्</summary>
 
 ऋ॒द्ध्यास्म॑ ह॒व्यैर्नम॑सोप॒सद्य॑ ।  
@@ -1279,27 +1574,32 @@ _________________
 अ॒नू॒रा॒धान् ह॒विषा॑ व॒र्धय॑न्तः ।  
 श॒तञ्जी॑वेम श॒रद॒स्सवी॑राः ।  
 
+
+
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-1अनूराधानां - ऋध्यास्येति ॥ ऋध्यास्म समृद्धा भूयास्म हव्यैः हविर्भिः नमसा प्रणिपातेन च मित्रं देवं उपसद्य उपसङ्गम्य ऋध्यास्म स च देवोऽस्माकं मित्रधेयं मित्रमस्तु । स्वार्थिको धेयप्रत्ययः । यद्वा - मित्रेण यत् धेयं देयं तन्नोऽस्तु । वयं च अनूराधान् नक्षत्रं हविषा तदीयेन वर्धयन्तः शतं जीवेम शरदः सवीराः गतम् ॥
+ऋध्यास्म समृद्धा भूयास्म हव्यैः हविर्भिः नमसा प्रणिपातेन च मित्रं देवं उपसद्य उपसङ्गम्य ऋध्यास्म स च देवोऽस्माकं मित्रधेयं मित्रमस्तु । स्वार्थिको धेयप्रत्ययः । यद्वा - मित्रेण यत् धेयं देयं तन्नोऽस्तु । वयं च अनूराधान् नक्षत्रं हविषा तदीयेन वर्धयन्तः शतं जीवेम शरदः सवीराः गतम् ॥
 
-</details>
-</details>
-</div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/02_chitrannakhShatramudagAtpurastAt.md">
-<details open><summary><h7>02 चित्रन्नक्षत्रमुदगात्पुरस्तात् ...{Loading}...</h7></summary>
-
-चि॒त्रम् नक्ष॑त्र॒म् **उद॑गात्** पु॒रस्ता॑त्।  
-अ॒नू॒रा॒धास॒ इति॒ यद् **वद॑न्ति**।  
-तन् मि॒त्र **ए॑ति** प॒थिभि॑र् देव॒यानैः॑।  
-हि॒र॒ण्ययै॒र् वित॑तैर् अ॒न्तरि॑क्षे॥  
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/02_chitrannakhShatramudagAtpurastAt.md">
-<details open><summary><h7>02 चित्रन्नक्षत्रमुदगात्पुरस्तात् ...{Loading}...</h7></summary>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/02_chitrannakhShatramudagAtpurastAt.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+चित्र᳓म् न᳓क्षत्रम् **उ᳓दगात्** पुर᳓स्तात्।  
+अनूराधा᳓स इ᳓ति य᳓द् **व᳓दन्ति**।  
+त᳓न् मित्र᳓ **एति** पथि᳓भिर् देवया᳓नैः।  
+हिरण्य᳓यैर् वि᳓ततैर् अन्त᳓रिक्षे॥  
+
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/02_chitrannakhShatramudagAtpurastAt.md">
 <details><summary>मूलम्</summary>
 
 चि॒त्रन्नक्ष॑त्र॒मुद॑गात्पु॒रस्ता॑त् ।  
@@ -1307,24 +1607,37 @@ _________________
 तन्मि॒त्र ए॑ति प॒थिभि॑र्देव॒यानैः॑ ।  
 हि॒र॒ण्ययै॒र्वित॑तैर॒न्तरि॑क्षे ।  
 
+
+
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 2चित्रमिति ॥ चित्रं चाथनीयं इदं नक्षत्रं पुरस्तात् उदगात् उदेति । अनूराधास इति यन्नक्षत्रं वदन्ति लौकिका अपि । तत नक्षत्रं मित्रः एति पथिभिः देवयानैः देवा यैर्गच्छन्ति । हिरण्ययैः हितरमणीयैः अन्तरिक्षे विततैः ॥
 
-</details>
-</details>
-</div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/17_mitrAya_svAhA.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h9></summary>
 
-मि॒त्राय॒ स्वाहा॑ ऽनूरा॒धेभ्य॒स् स्वाहा॑ ।  
-मि॒त्र॒धेया॑य॒ स्वाहा॒ ऽभिजि॑त्यै॒ स्वाहा॑ ॥42॥
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/15_anurAdhAH/">
-<details open><summary><h10>१५ अनुराधाः ...{Loading}...</h10></summary>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+3ज्येष्ठायाः - इन्द्र इति ॥
+</details>
+</details>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/17_mitrAya_svAhA.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+मित्रा᳓य स्वा᳓हा ऽनूराधे᳓भ्यस् स्वा᳓हा ।  
+मित्रधे᳓याय स्वा᳓हा ऽभि᳓जित्यै स्वा᳓हा ॥42॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/15_anurAdhAH/">
 <details open><summary>विश्वास-टिप्पनी</summary>
 
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/anUrAdhAH.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/anUrAdhAH.png)
@@ -1332,23 +1645,24 @@ _________________
 
 β, δ, η, ρ Scorpionis
 </details>
-</details>
 </div>  
 
 ###### ज्येष्ठा - इन्द्रः
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/03_indro_jyeShThAmanu.md">
-<details open><summary><h7>03 इन्द्रो ज्येष्ठामनु ...{Loading}...</h7></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/03_indro_jyeShThAmanu.md">
 
-इन्द्रो॑ ज्ये॒ष्ठाम् अनु॒ नक्ष॑त्रम् **एति**।  
-यस्मि॑न् वृ॒त्रव्ँ वृ॑त्र॒तूर्ये॑ +++(=वृत्रवधे)+++ **त॒तार॑**।  
-तस्मि॑न् व॒यम् अ॒मृत॒न् **दुहा॑नाः**।  
-क्षुध॑न् **तरेम॒** दुरि॑ति॒न् दुरि॑ष्टिम्।  
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+इ᳓न्द्रो ज्येष्ठा᳓म् अ᳓नु न᳓क्षत्रम् **एति**।  
+य᳓स्मिन् वृत्रव्ँ᳓ वृत्रतू᳓र्ये +++(=वृत्रवधे)+++ **तता᳓र**।  
+त᳓स्मिन् वय᳓म् अमृ᳓तन् **दु᳓हानाः**।  
+क्षु᳓धन् **तरेम** दु᳓रितिन् दु᳓रिष्टिम्।  
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/03_indro_jyeShThAmanu.md">
-<details open><summary><h7>03 इन्द्रो ज्येष्ठामनु ...{Loading}...</h7></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/03_indro_jyeShThAmanu.md">
 <details><summary>मूलम्</summary>
 
 इन्द्रो॑ ज्ये॒ष्ठामनु॒ नक्ष॑त्रमेति ।   
@@ -1356,27 +1670,32 @@ _________________
 तस्मि॑न्व॒यम॒मृत॒न्दुहा॑नाः ।  
 क्षुध॑न्तरेम॒ दुरि॑ति॒न्दुरि॑ष्टिम् ।  
 
+
+
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-3ज्येष्ठायाः - इन्द्र इति ॥ ज्येष्ठां नक्षत्रं इन्द्रोऽन्वेति अनुगच्छति । यस्मिन् नक्षत्रे निमित्तभूते वृत्रतुर्ये वृत्रवधार्थे संङ्ग्रामे वृत्रं इन्द्रः ततार आक्रम्य हतवान् । वयमपि तस्मिन् नक्षत्रे निमित्ते अमृतं दुहानाः क्षुधं तरेम नाशयेम । दुरितिं दुरिष्टिं च दुर्यागफलम् ॥
+ज्येष्ठां नक्षत्रं इन्द्रोऽन्वेति अनुगच्छति । यस्मिन् नक्षत्रे निमित्तभूते वृत्रतुर्ये वृत्रवधार्थे संङ्ग्रामे वृत्रं इन्द्रः ततार आक्रम्य हतवान् । वयमपि तस्मिन् नक्षत्रे निमित्ते अमृतं दुहानाः क्षुधं तरेम नाशयेम । दुरितिं दुरिष्टिं च दुर्यागफलम् ॥
 
-</details>
-</details>
-</div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/04_purandarAya_vRShabhAya.md">
-<details open><summary><h7>04 पुरन्दराय वृषभाय ...{Loading}...</h7></summary>
-
-पु॒र॒न्द॒राय॑ वृष॒भाय॑ धृ॒ष्णवे॑।  
-अषा॑ढाय॒ +++(=अपरिभूताय)+++ सह॑मानाय मी॒ढुषे॑ +++(=सेचकाय {वृष्ट्या})+++।  
-इन्द्रा॑य ज्ये॒ष्ठा मधु॑म॒द् **दुहा॑ना**।  
-**उ॒रुङ् कृ॑णोतु॒** यज॑मानस्य लो॒कम्।॥  
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/04_purandarAya_vRShabhAya.md">
-<details open><summary><h7>04 पुरन्दराय वृषभाय ...{Loading}...</h7></summary>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/04_purandarAya_vRShabhAya.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+पुरन्दरा᳓य वृषभा᳓य धृष्ण᳓वे।  
+अ᳓षाढाय +++(=अपरिभूताय)+++ स᳓हमानाय मीढु᳓षे +++(=सेचकाय {वृष्ट्या})+++।  
+इ᳓न्द्राय ज्येष्ठा᳓ म᳓धुमद् **दु᳓हाना**।  
+**उरु᳓ङ् कृणोतु** य᳓जमानस्य लोक᳓म्।॥  
+
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/04_purandarAya_vRShabhAya.md">
 <details><summary>मूलम्</summary>
 
 पु॒र॒न्द॒राय॑ वृष॒भाय॑ धृ॒ष्णवे॑ ।  
@@ -1384,24 +1703,37 @@ _________________
 इन्द्रा॑य ज्ये॒ष्ठा मधु॑म॒द्दुहा॑ना ।  
 उ॒रुङ्कृ॑णोतु॒ यज॑मानाय लो॒कम् ।   
 
+
+
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 4पुरंदरायेति ॥ पुरंदराय मेघानां दारयित्रे । 'वाचंयमपुरंदरौ' इति निपातः । वृषभाय वर्षयित्रे धृष्णवे धर्षणशीलाय शत्रूणाम् । अषाढाय केनचिदप्यनभिभूताय सहमानाय सर्वस्याभिभवित्रे मीढुषे सेक्त्रे ईदृशाय इन्द्राय मधुमत् मधुर हविः दुहाना क्षारयन्ती ज्येष्ठा नक्षत्रं यजमानाय उरुं लोकं स्थानं कृणोतु करोतु ॥
 
-</details>
-</details>
-</div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/18_indrAya_svAhA.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h9></summary>
 
-इन्द्रा॑य॒ स्वाहा॑ ज्ये॒ष्ठायै॒ स्वाहा॑ ।  
-ज्यैष्ठ्या॑य॒ स्वाहा॒ ऽभिजि॑त्यै॒ स्वाहा॑ ॥43॥
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/16_jyeShThA/">
-<details open><summary><h10>१६ ज्येष्ठा ...{Loading}...</h10></summary>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+5मूलस्य - मूलमिति ॥
+</details>
+</details>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/18_indrAya_svAhA.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+इ᳓न्द्राय स्वा᳓हा ज्येष्ठा᳓यै स्वा᳓हा ।  
+ज्यै᳓ष्ठ्याय स्वा᳓हा ऽभि᳓जित्यै स्वा᳓हा ॥43॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/16_jyeShThA/">
 <details open><summary>विश्वास-टिप्पनी</summary>
 
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/anUrAdhAH.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/anUrAdhAH.png)
@@ -1413,23 +1745,24 @@ _________________
 
 - "The TB describes this star as a second Rohiṇī keeping with the red color of the star."
 </details>
-</details>
 </div>  
 
 ###### मूलम् - निरृतिः
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/05_mUlamprajAv.N_vIravatIv.N.md">
-<details open><summary><h7>05 मूलम्प्रजाव्ँ वीरवतीव्ँ ...{Loading}...</h7></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/05_mUlamprajAv.N_vIravatIv.N.md">
 
-मूल॑म् प्र॒जाव्ँ वी॒रव॑तीव्ँ **विदेय**+++(=लभेय)+++।  
-परा॑च्य्+++(=पराङ्मुखा)+++ **एतु॒** निरृ॑तिᳶ परा॒चा +++(मार्गेण)+++।  
-गोभि॒र् नक्ष॑त्रम् +++(एव)+++ प॒शुभि॒स् **सम॑क्तम्**,  
-अह॑र् **भूया॒द्** यज॑मानाय॒ मह्य॑म्।  
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+मू᳓लम् प्रजाव्ँ᳓ वीर᳓वतीव्ँ **विदेय**+++(=लभेय)+++।  
+प᳓राच्य्+++(=पराङ्मुखा)+++ **एतु** नि᳓रृतिᳶ पराचा᳓ +++(मार्गेण)+++।  
+गो᳓भिर् न᳓क्षत्रम् +++(एव)+++ पशु᳓भिस् **स᳓मक्त᳓म्**,  
+अ᳓हर् **भूयाद्** य᳓जमानाय म᳓ह्यम्।  
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/05_mUlamprajAv.N_vIravatIv.N.md">
-<details open><summary><h7>05 मूलम्प्रजाव्ँ वीरवतीव्ँ ...{Loading}...</h7></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/05_mUlamprajAv.N_vIravatIv.N.md">
 <details><summary>मूलम्</summary>
 
 मूल॑म्प्र॒जाव्ँ वी॒रव॑तीव्ँ विदेय ।  
@@ -1437,26 +1770,30 @@ _________________
 गोभि॒र्नक्ष॑त्रम्प॒शुभि॒स्सम॑क्तम् ।  
 अह॑र्भूया॒द्यज॑मानाय॒ मह्य॑म् ॥14॥  
 
+
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-5मूलस्य - मूलमिति ॥ मूलं नक्षत्रं प्रजां वीरवतीं विक्रान्तपुरुषवतीं ईदृश्याः प्रजाया हेतुम् । तद्धेतुत्वात्ताच्छब्द्यम् । विदेय लप्सीय । मूलहेतुकां वा प्रजां विदेय । पराची परागता वैमुख्यं भजमाना निर्ऋतिः कृच्छ्रापत्तिः मूलस्य देवता एतु इतो गच्छतु पराचा अपुनरावृत्तिकेन मार्गेण । तथासति गोभिः पशुभिश्चान्यैः समक्तं सङ्गतं नक्षत्रं अहः मूलस्येयं संज्ञेत्येके । अहराख्यं नक्षत्रं अहरिव प्रकाशकं निर्ऋतिव्यपगमेनेत्यन्ये । तदीदृशं नक्षत्रं मह्यं यजमानाय गोभिः पशुभिः समक्तं भूयात् ॥
+मूलं नक्षत्रं प्रजां वीरवतीं विक्रान्तपुरुषवतीं ईदृश्याः प्रजाया हेतुम् । तद्धेतुत्वात्ताच्छब्द्यम् । विदेय लप्सीय । मूलहेतुकां वा प्रजां विदेय । पराची परागता वैमुख्यं भजमाना निर्ऋतिः कृच्छ्रापत्तिः मूलस्य देवता एतु इतो गच्छतु पराचा अपुनरावृत्तिकेन मार्गेण । तथासति गोभिः पशुभिश्चान्यैः समक्तं सङ्गतं नक्षत्रं अहः मूलस्येयं संज्ञेत्येके । अहराख्यं नक्षत्रं अहरिव प्रकाशकं निर्ऋतिव्यपगमेनेत्यन्ये । तदीदृशं नक्षत्रं मह्यं यजमानाय गोभिः पशुभिः समक्तं भूयात् ॥
 
-</details>
-</details>
-</div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/06_aharno_adya.md">
-<details open><summary><h7>06 अहर्नो अद्य ...{Loading}...</h7></summary>
-
-अह॑र् नो अ॒द्य सु॑वि॒ते +++(=सुप्राप्ते {कर्मफले})+++ **द॑धातु**। मूल॒न् नक्ष॑त्र॒म् इति॒ यद् **वद॑न्ति**।  
-परा॑चीव्ँ वा॒चा निरृ॑तिन् **नुदामि**।  
-शि॒वम् प्र॒जायै॑ शि॒वम् **अ॑स्तु॒** मह्य॑म्॥  
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/06_aharno_adya.md">
-<details open><summary><h7>06 अहर्नो अद्य ...{Loading}...</h7></summary>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/06_aharno_adya.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+अ᳓हर् नो अद्य᳓ सुविते᳓ +++(=सुप्राप्ते {कर्मफले})+++ **दधातु**। मू᳓लन् न᳓क्षत्रम् इ᳓ति य᳓द् **व᳓दन्ति**।  
+प᳓राचीव्ँ वाचा᳓ नि᳓रृतिन् **नुदामि**।  
+शिव᳓म् प्रजा᳓यै शिव᳓म् **अस्तु** म᳓ह्यम्॥  
+
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/06_aharno_adya.md">
 <details><summary>मूलम्</summary>
 
 अह॑र्नो अ॒द्य सु॑वि॒ते द॑धातु ।   
@@ -1464,23 +1801,27 @@ _________________
 परा॑चीव्ँ वा॒चा निर्ऋ॑तिन्नुदामि ।  
 शि॒वम्प्र॒जायै॑ शि॒वम॑स्तु॒ मह्य॑म् ।  
 
+
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 6अहर्न इति ॥ अहराख्यं नक्षत्रं अहरिव प्रकाशतां गतं वा अद्य अस्मिन्कर्मणि नः सुविते सुष्ठु गन्तव्ये फले दधातु । मूलं नक्षत्रमिति यद्वदन्ति लोकेऽपि, अथ तद्देवतां निर्ऋतिं वाचा मन्त्रेण पराचीं अपुनरावृतां नुदामि । यत इतो गमयामि, ततश्च शिवं कल्याणं प्रजायै मदीयायै मह्यं चास्तु ॥
 
-</details>
-</details>
-</div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/19_prajApataye_svAhA.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h9></summary>
 
-प्र॒जाप॑तये॒ स्वाहा॒ मूला॑य॒ स्वाहा॑ । प्र॒जायै॒ स्वाहा॑ ॥44॥
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/17_mUlam/">
-<details open><summary><h10>१७ मूलम् ...{Loading}...</h10></summary>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/19_prajApataye_svAhA.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+प्रजा᳓पतये स्वा᳓हा मू᳓लाय स्वा᳓हा । प्रजा᳓यै स्वा᳓हा ॥44॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/17_mUlam/">
 <details open><summary>विश्वास-टिप्पनी</summary>
 
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/anUrAdhAH.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/anUrAdhAH.png)
@@ -1493,23 +1834,24 @@ _________________
 
 "In the Rāmāyaṇa it is associated with Rākṣasa-s who are supposed to have emanated from Nirṛtti."
 </details>
-</details>
 </div>  
 
 ###### अषाढाः पूर्वाः - आपः
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/07_yA_divyA.md">
-<details open><summary><h7>07 या दिव्या ...{Loading}...</h7></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/07_yA_divyA.md">
 
-या दि॒व्या आपᳶ॒ पय॑सा **सम्बभू॒वुः**+++(=आकाशगङ्गा पार्श्वे वर्तमाना)+++।  
-+++(मेघादिरूपा)+++ या अ॒न्तरि॑क्ष उ॒त +++(नद्यादिषु)+++ पार्थि॑वी॒र् याः।  
-यासा॑म् अषा॒ढा **अ॑नु॒यन्ति॒** काम॑म्।  
-ता न॒ आपः॒ शँ स्यो॒ना +++(=सुखहेतवः)+++ **भ॑वन्तु**।  
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+या᳓ दिव्या᳓ आ᳓पᳶ प᳓यसा **सम्बभूवुः᳓**+++(=आकाशगङ्गा पार्श्वे वर्तमाना)+++।  
++++(मेघादिरूपा)+++ या᳓ अन्त᳓रिक्ष उत᳓ +++(नद्यादिषु)+++ पा᳓र्थिवीर् याः᳓।  
+या᳓साम् अषाढा᳓ **अनुय᳓न्ति** का᳓मम्।  
+ता᳓ न आ᳓पः शँ᳓ स्योना᳓ +++(=सुखहेतवः)+++ **भवन्तु**।  
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/07_yA_divyA.md">
-<details open><summary><h7>07 या दिव्या ...{Loading}...</h7></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/07_yA_divyA.md">
 <details><summary>मूलम्</summary>
 
 या दि॒व्या आप॒ᳶ पय॑सा सम्बभू॒वुः ।   
@@ -1517,33 +1859,39 @@ _________________
 यासा॑मषा॒ढा अ॑नु॒यन्ति॒ काम॑म् ।   
 ता न॒ आप॒श्शँ स्यो॒ना भ॑वन्तु ।  
 
+
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 7अषाढानाम् - या दिव्या हति ॥ याः दिव्याः दिवि भवाः वर्ष्या आपः पयसा अन्नहेतुना पेयत्नेन वा इत्थंभूताः सम्बभूवुः सम्भवन्ति पयसा मह भवन्ति उत्पद्यन्ते । याः च अन्तरिक्षे सम्भवन्ति । अपि च पार्थिवीः पार्थिव्यश्च । 'पृथिव्या ञाञौ' इत्यञ्प्रत्ययः 'वा छन्दसि' इति पूर्वसवर्णदीर्घत्वम् । यासां अपां कामं इच्छां अषाढाः नक्षत्त्रं अनुयन्ति अनुगच्छन्ति ता आपः स्योनाः सुखरूपाः नः शं सुखहेतवो भवन्तु ॥
 
-</details>
-</details>
-</div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/08_yAshcha_kUpyA.md">
-<details open><summary><h7>08 याश्च कूप्या ...{Loading}...</h7></summary>
-
-याश् च॒ कूप्या॒ याश् च॑ ना॒द्या॑स् समु॒द्रियाः॑।  
-याश् च॑ वैश॒न्तीर् +++(=पल्वलभवाः)+++ उ॒त प्रा॑स॒चीर् +++(=प्रागता)+++ याः।  
-यासा॑म् अषा॒ढा मधु॑ **भ॒क्षय॑न्ति**।  
-ता न॒ आपः॒ शँ स्यो॒ना +++(=सुखहेतवः)+++ **भ॑वन्तु**॥  
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/08_yAshcha_kUpyA.md">
-<details open><summary><h7>08 याश्च कूप्या ...{Loading}...</h7></summary>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/08_yAshcha_kUpyA.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+या᳓श् च कू᳓प्या या᳓श् च नाद्या᳙स् समुद्रि᳓याः।  
+या᳓श् च वैशन्ती᳓र् +++(=पल्वलभवाः)+++ उत᳓ प्रासची᳓र् +++(=प्रागता)+++ याः᳓।  
+या᳓साम् अषाढा᳓ म᳓धु **भक्ष᳓यन्ति**।  
+ता᳓ न आ᳓पः शँ᳓ स्योना᳓ +++(=सुखहेतवः)+++ **भवन्तु**॥  
+
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/08_yAshcha_kUpyA.md">
 <details><summary>मूलम्</summary>
 
 याश्च॒ कूप्या॒ याश्च॑ ना॒द्या॑स्समु॒द्रियाः॑ ।   
 याश्च॑ वैश॒न्तीरु॒त प्रा॑स॒चीर्याः ॥15॥   
 यासा॑मषा॒ढा मधु॑ भ॒क्षय॑न्ति॒ ।  
 ता न॒ आप॒श्शँ स्यो॒ना भ॑वन्तु ।
+
+
 
 </details>
 
@@ -1553,19 +1901,30 @@ _________________
 
 - ता आपः स्योनाः सुखरूपाः नः शं सुखहेतवो भवन्तु ॥
 
-</details>
-</details>
-</div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/20_adbhyas_svAhA.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h9></summary>
 
-अ॒द्भ्यस् स्वाहा॑ ऽषा॒ढाभ्य॒स् स्वाहा॑ ।  
-स॒मु॒द्राय॒ स्वाहा॒ कामा॑य॒ स्वाहा॑ ।  
-अ॒भिजि॑त्यै॒  स्वाहा॑ ॥45॥
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/18_aShADhAH/">
-<details open><summary><h10>१८ अषाढाः ...{Loading}...</h10></summary>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+9उत्तराषाढानाम् - तन्न इति ॥
+</details>
+</details>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/20_adbhyas_svAhA.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+अद्भ्य᳓स् स्वा᳓हा ऽषाढा᳓भ्यस् स्वा᳓हा ।  
+समुद्रा᳓य स्वा᳓हा का᳓माय स्वा᳓हा ।  
+अभि᳓जित्यै  स्वा᳓हा ॥45॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/18_aShADhAH/">
 <details open><summary>विश्वास-टिप्पनी</summary>
 
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/aShADhAH.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/aShADhAH.png)
@@ -1573,23 +1932,24 @@ _________________
 
 +++(δ, γ, η and ε Sagittarii। जलरूपाया आकाशङ्गङ्गायाः केन्द्रम् अस्य पार्श्वे।)+++
 </details>
-</details>
 </div>  
 
 ###### अषाढाः उत्तराः - विश्वे देवाः
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/09_tanno_vishve.md">
-<details open><summary><h7>09 तन्नो विश्वे ...{Loading}...</h7></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/09_tanno_vishve.md">
 
-तन् नो॒ विश्वे॒ उप॑ **शृण्वन्तु** दे॒वाः।  
-तद् अ॑षा॒ढा **अ॒भिसंय॑न्तु** य॒ज्ञम्।  
-तन् नक्ष॑त्रम् **प्रथताम्** प॒शुभ्यः॑।  
-कृ॒षिर् वृ॒ष्टिर् यज॑मानाय **कल्पताम्**।  
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+त᳓न् नो वि᳓श्वे उ᳓प **शृण्वन्तु** देवाः᳓।  
+त᳓द् अषाढा᳓ **अभि᳓सं᳓यन्तु** यज्ञ᳓म्।  
+त᳓न् न᳓क्षत्रम् **प्रथताम्** पशु᳓भ्यः।  
+कृषि᳓र् वृष्टि᳓र् य᳓जमानाय **कल्पताम्**।  
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/09_tanno_vishve.md">
-<details open><summary><h7>09 तन्नो विश्वे ...{Loading}...</h7></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/09_tanno_vishve.md">
 <details><summary>मूलम्</summary>
 
 तन्नो॒ विश्वे॒ उप॑शृण्वन्तु दे॒वाः ।  
@@ -1597,27 +1957,31 @@ _________________
 तन्नक्ष॑त्त्रम्प्रथताम्प॒शुभ्यः॑ ।   
 कृ॒षिर्वृ॒ष्टिर्यज॑मानाय कल्पताम् ।
 
+
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-9उत्तराषाढानाम् - तन्न इति ॥ तत् अस्मदभिमतं विश्वे देवाः उपशृण्वन्तु अस्मत्सकाशमागत्य शृण्वन्तु तत् साधनं यज्ञं अषाढा अभिसंयन्तु आभिमुख्येन प्राप्नुवन्तु । तत् अषाढारव्यं नक्षत्रं अस्माकं पशुभ्यः पश्वर्थं प्रथतां पृथूभवतां, तथा सति कृषिः वृष्टिर्यजमानाय कल्पतां संपद्यताम् ॥
+तत् अस्मदभिमतं विश्वे देवाः उपशृण्वन्तु अस्मत्सकाशमागत्य शृण्वन्तु तत् साधनं यज्ञं अषाढा अभिसंयन्तु आभिमुख्येन प्राप्नुवन्तु । तत् अषाढारव्यं नक्षत्रं अस्माकं पशुभ्यः पश्वर्थं प्रथतां पृथूभवतां, तथा सति कृषिः वृष्टिर्यजमानाय कल्पतां संपद्यताम् ॥
 
-</details>
-</details>
-</div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/10_shubhrAkH_kanyA.md">
-<details open><summary><h7>10 शुभ्राᳵ कन्या ...{Loading}...</h7></summary>
-
-शु॒भ्राᳵ क॒न्या॑ युव॒तय॑स् सु॒पेश॑सः।  
-क॒र्म॒कृत॑स् सु॒कृतो॑ वी॒र्या॑वतीः।  
-विश्वा॑न् दे॒वान् ह॒विषा॑ **व॒र्धय॑न्तीः**।  
-अ॒षा॒ढाᳵ काम॒म् **उपा॑यन्तु** य॒ज्ञम्॥  
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/10_shubhrAkH_kanyA.md">
-<details open><summary><h7>10 शुभ्राᳵ कन्या ...{Loading}...</h7></summary>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/10_shubhrAkH_kanyA.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+शुभ्राᳵ᳓ कन्या᳙ युवत᳓यस् सुपे᳓शसः।  
+कर्मकृ᳓तस् सुकृ᳓तो वीर्या᳙वतीः।  
+वि᳓श्वान् देवा᳓न् हवि᳓षा **वर्ध᳓यन्तीः**।  
+अषाढाᳵ᳓ का᳓मम् **उ᳓पायन्तु** यज्ञ᳓म्॥  
+
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/10_shubhrAkH_kanyA.md">
 <details><summary>मूलम्</summary>
 
 शु॒भ्राᳵ क॒न्या॑ युव॒तय॑स्सु॒पेश॑सः ।   
@@ -1625,46 +1989,60 @@ _________________
 विश्वा॑न्दे॒वान् ह॒विषा॑ व॒र्धय॑न्तीः ।     
 अ॒षा॒ढाᳵ काम॒मुप॑ यान्तु य॒ज्ञम् ॥16॥  
 
+
+
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 10शुभ्रा इति ॥ शुभ्राः शोभनाः कन्याः तरुण्यः दीप्तिमत्यो वा । कन दीप्तौ । युवतयः मिश्रिण्थः सुपेशसः सुरूपाः कर्मकृतः कर्मकरणकुशलाः शोभनकारिण्यः वीर्यावतीः प्रसवसामर्थ्यवत्यः विश्वान् देवाननेन हविषा वर्धयन्त्योऽषाढाः अस्मद्यज्ञं उपयान्तु कामं यथायथा कामयामहे तदनुरूपमुपयान्तु ॥
 
-</details>
-</details>
-</div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/21_vishvebhyo_devebhyas.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h9></summary>
 
-विश्वे॑भ्यो दे॒वेभ्य॒स् स्वाहा॑ ऽषा॒ढाभ्य॒स् स्वाहा॑ । अ॒न॒प॒ज॒य्याय॒ स्वाहा॒ जित्यै॒ स्वाहा॑ ॥46॥
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/19_aShADhAH/">
-<details open><summary><h10>१९ अषाढाः ...{Loading}...</h10></summary>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+11अभिजितः - यस्मिन्निति ॥
+</details>
+</details>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/21_vishvebhyo_devebhyas.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+वि᳓श्वेभ्यो देवे᳓भ्यस् स्वा᳓हा ऽषाढा᳓भ्यस् स्वा᳓हा । अनपजय्या᳓य स्वा᳓हा जि᳓त्यै स्वा᳓हा ॥46॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/19_aShADhAH/">
 <details open><summary>विश्वास-टिप्पनी</summary>
 
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/aShADhAH.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/aShADhAH.png)
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/stellarium/uttara-aShADhAH.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/stellarium/uttara-aShADhAH.png)
 +++(φ, ζ, tau and σ Sagittarii)+++
 </details>
-</details>
 </div>  
 
 ###### अभिजित्
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/11_yasminbrahmA-bhyajayathsarvametat.md">
-<details open><summary><h7>11 यस्मिन्ब्रह्माऽभ्यजयत्सर्वमेतत् ...{Loading}...</h7></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/11_yasminbrahmA-bhyajayathsarvametat.md">
 
-यस्मि॒न् **ब्रह्मा॒भ्यज॑य॒त्** सर्व॑म् ए॒तत्।  
-अ॒मुञ् च॑ लो॒कम् इ॒दम् ऊ॑ च॒ सर्व॑म्।  
-तन् नो॒ नक्ष॑त्रम् अभि॒जिद् **वि॒जित्य॑**।  
-श्रिय॑न् **दधा॒त्व्** अहृ॑णीयमानम्।  
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+य᳓स्मिन् **ब्र᳓ह्माभ्य᳓जयत्** स᳓र्वम् एत᳓त्।  
+अमु᳓ञ् च लोक᳓म् इद᳓म् ऊ च स᳓र्वम्।  
+त᳓न् नो न᳓क्षत्रम् अभिजि᳓द् **विजि᳓त्य**।  
+श्रि᳓यन् **दधात्व्** अ᳓हृणीयमानम्।  
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/11_yasminbrahmA-bhyajayathsarvametat.md">
-<details open><summary><h7>11 यस्मिन्ब्रह्माऽभ्यजयत्सर्वमेतत् ...{Loading}...</h7></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/11_yasminbrahmA-bhyajayathsarvametat.md">
 <details><summary>मूलम्</summary>
 
 यस्मि॒न्ब्रह्मा॒ऽभ्यज॑य॒त्सर्व॑मे॒तत् ।   
@@ -1672,27 +2050,32 @@ _________________
 तन्नो॒ नक्ष॑त्रमभि॒जिद्वि॒जित्य॑ ।  
 श्रिय॑न्दधा॒त्वहृ॑णीयमानम् ।  
 
+
+
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-11अभिजितः - यस्मिन्निति ॥ यस्मिन् अभिजिदाख्ये पुण्येनक्षत्रे ब्रह्मा अभ्यजयत् अभितः कार्त्स्येनाजयत् । अमुं च लोकं दिवं इदं च सर्वं पृथिव्यादिकं, ऊ इति निपातोऽनर्थकः पादपूरणार्थः । तत् अभिजिदाख्यं नक्षत्रं अस्मभ्यं विजित्य श्रियं दधातु ददातु । विजयपूर्विकां श्रियमित्यर्थः । यद्वा - जेतव्यान् जित्वा तत आदाय श्रियमस्यभ्यं ददातु । अहृणीयमानं अहीयमानं कुतश्चिदपि । हृणीङ् कण्ड्वादियगन्तः ॥
+यस्मिन् अभिजिदाख्ये पुण्येनक्षत्रे ब्रह्मा अभ्यजयत् अभितः कार्त्स्येनाजयत् । अमुं च लोकं दिवं इदं च सर्वं पृथिव्यादिकं, ऊ इति निपातोऽनर्थकः पादपूरणार्थः । तत् अभिजिदाख्यं नक्षत्रं अस्मभ्यं विजित्य श्रियं दधातु ददातु । विजयपूर्विकां श्रियमित्यर्थः । यद्वा - जेतव्यान् जित्वा तत आदाय श्रियमस्यभ्यं ददातु । अहृणीयमानं अहीयमानं कुतश्चिदपि । हृणीङ् कण्ड्वादियगन्तः ॥
 
-</details>
-</details>
-</div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/12_ubhau_lokau.md">
-<details open><summary><h7>12 उभौ लोकौ ...{Loading}...</h7></summary>
-
-उ॒भौ लो॒कौ ब्रह्म॑णा॒ **सञ्जि॑ते॒मौ**।  
-तन् नो॒ नक्ष॑त्रम् अभि॒जिद् **विच॑ष्टाम्** +++(=विख्यापयतु)+++।  
-तस्मि॑न् व॒यम् पृत॑ना॒स् **सञ्ज॑येम**।  
-तन् नो॑ दे॒वासो॒ **अनु॑जानन्तु॒** काम॑म्॥  
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/12_ubhau_lokau.md">
-<details open><summary><h7>12 उभौ लोकौ ...{Loading}...</h7></summary>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/12_ubhau_lokau.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+उभौ᳓ लोकौ᳓ ब्र᳓ह्मणा **स᳓ञ्जितेमौ᳓**।  
+त᳓न् नो न᳓क्षत्रम् अभिजि᳓द् **वि᳓चष्टाम्** +++(=विख्यापयतु)+++।  
+त᳓स्मिन् वय᳓म् पृ᳓तनास् **स᳓ञ्जयेम**।  
+त᳓न् नो देवा᳓सो **अ᳓नुजानन्तु** का᳓मम्॥  
+
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/12_ubhau_lokau.md">
 <details><summary>मूलम्</summary>
 
 उ॒भौ लो॒कौ ब्रह्म॑णा॒ सञ्जि॑ते॒मौ ।  
@@ -1705,17 +2088,28 @@ _________________
 
 12उभौ लोकाविति ॥ इमौ उभौ लोकौ ब्रह्मणा संजिता सहजितौ अभिजिन्महिम्ना । तदभिजित् नक्षत्रं आत्मीयं महिमानं अस्मदर्थं विचष्टां पश्यतु प्रकटयतु । यद्वा - उभौ लोकौ ब्रह्मणा संजितौ यस्मिन्नक्षत्रे, तदभिजिन्नक्षत्रं अस्मान् विचष्टां सानुग्रहं पश्यतु । तस्मात् वयमपि तस्मिन् नक्षत्रे पृतनाः सङ्ग्रामान् संजयेम, तस्माच्च तत् अभिप्रेतं देवा अनुजानन्तु कामं यथेष्टम् ॥
 
-</details>
-</details>
-</div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/22_brahmaNe_svAhA.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h9></summary>
 
-ब्रह्म॑णे॒ स्वाहा॑ ऽभि॒जिते॒ स्वाहा॑ । ब्र॒ह्म॒लो॒काय॒ स्वाहा॒ ऽभिजि॑त्यै॒ स्वाहा॑ ॥47॥
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/20_abhijit/">
-<details open><summary><h10>२० अभिजित् ...{Loading}...</h10></summary>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+13श्रोणायाः - शृण्वन्त्विति ॥
+</details>
+</details>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/22_brahmaNe_svAhA.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+ब्र᳓ह्मणे स्वा᳓हा ऽभिजि᳓ते स्वा᳓हा । ब्रह्मलोका᳓य स्वा᳓हा ऽभि᳓जित्यै स्वा᳓हा ॥47॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/20_abhijit/">
 <details open><summary>विश्वास-टिप्पनी</summary>
 
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/abhijit.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/abhijit.png)
@@ -1730,23 +2124,24 @@ _________________
 - "It is far away from the ecliptic and has been dropped even by the time of the mahAbhArata where indra mentions this to skanda in a cryptic legend. This probably was due to precession making it no longer suitable for marking the days for the specific abhijit ritual in the annual sattra. Since this was recorded in the bhArata itself, I believe it is evidence for the actual coeval use of the kRttikAdi system in early history before its precession by the time of the bhArata."
 - " we have the great Ring Nebula M 57 which is one of the best planetary nebulae for a small scope. I have even managed it with my 20 x 70 binocs on good nights. The double-double (Epsilon Lyrae) NW of abhijit is a good wide multiple system for beginners. The globular cluster of M 56 is also a good sight at the lower part of the constellation."
 </details>
-</details>
 </div>  
 
 ###### श्रोणा / श्रवणम् - विष्णुः
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/13_shRNvanti_shroNAmamRtasya.md">
-<details open><summary><h7>13 शृण्वन्ति श्रोणाममृतस्य ...{Loading}...</h7></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/13_shRNvanti_shroNAmamRtasya.md">
 
-**शृ॒ण्वन्ति॑** श्रो॒णाम् अ॒मृत॑स्य गो॒पाम्।  
-पुण्या॑म् अस्या॒ **उप॑शृणोमि॒** वाच॑म्।  
-म॒हीन् दे॒वीव्ँ विष्णु॑-पत्नीम् अजू॒र्याम्+++(=अज्वराम्)+++।  
-प्र॒तीची॑म् एनाँ ह॒विषा॑ **यजामः**।  
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+**शृण्व᳓न्ति** श्रोणा᳓म् अमृ᳓तस्य गोपा᳓म्।  
+पु᳓ण्याम् अस्या **उ᳓पशृणोमि** वा᳓चम्।  
+मही᳓न् देवीव्ँ᳓ वि᳓ष्णु-पत्नीम् अजूर्या᳓म्+++(=अज्वराम्)+++।  
+प्रती᳓चीम् एनाँ हवि᳓षा **यजामः**।  
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/13_shRNvanti_shroNAmamRtasya.md">
-<details open><summary><h7>13 शृण्वन्ति श्रोणाममृतस्य ...{Loading}...</h7></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/13_shRNvanti_shroNAmamRtasya.md">
 <details><summary>मूलम्</summary>
 
 शृ॒ण्वन्ति॑ श्रो॒णाम॒मृत॑स्य गो॒पाम् ।  
@@ -1754,33 +2149,39 @@ _________________
 म॒हीन्दे॒वीव्ँ विष्णु॑पत्नीमजू॒र्याम् ।  
 प्र॒तीची॑मेनाँ ह॒विषा॑ यजामः ।  
 
+
+
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-13श्रोणायाः - शृण्वन्त्विति ॥ श्रोणां नक्षत्रं शृण्वन्तीति सर्वे, सर्वत्र ख्यातेति यावत् । शृण्वन्ति वा एतां वदन्तीं सर्वे, वदितुं कुशलेति यावत् । अमृतस्य अमृतत्वस्य गोपां गोप्त्रीम् । आयप्रत्ययान्तात् क्विप्यतो लोपः । तादृशीं अस्याः पुण्यां वाचं अमृतत्वकरीं अहं उपशृणोमि समीपतः शृणोमि । तामिमां महीं महतीं देवीं विष्णुपत्नीं विष्णुदेवत्यां अजूर्यां केनचिदप्यहिंस्यां एनां प्रतीचीं अस्मदाभिमुख्येनाञ्चतीं हविषा यजामः ॥
+श्रोणां नक्षत्रं शृण्वन्तीति सर्वे, सर्वत्र ख्यातेति यावत् । शृण्वन्ति वा एतां वदन्तीं सर्वे, वदितुं कुशलेति यावत् । अमृतस्य अमृतत्वस्य गोपां गोप्त्रीम् । आयप्रत्ययान्तात् क्विप्यतो लोपः । तादृशीं अस्याः पुण्यां वाचं अमृतत्वकरीं अहं उपशृणोमि समीपतः शृणोमि । तामिमां महीं महतीं देवीं विष्णुपत्नीं विष्णुदेवत्यां अजूर्यां केनचिदप्यहिंस्यां एनां प्रतीचीं अस्मदाभिमुख्येनाञ्चतीं हविषा यजामः ॥
 
-</details>
-</details>
-</div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/14_tredhA_viShNururugAyo.md">
-<details open><summary><h7>14 त्रेधा विष्णुरुरुगायो ...{Loading}...</h7></summary>
-
-त्रे॒धा विष्णु॑र् उरु-गा॒यो+++(गेयो)+++ **विच॑क्रमे**।  
-म॒हीन् दिव॑म् पृथि॒वीम् अ॒न्तरि॑क्षम्।  
-तच् **छ्रो॒णैति॒** +++(अत्र)+++ श्रव॑+++(=कीर्तिम्)+++ **इ॒च्छमा॑ना**।  
-पुण्यँ॒ श्लोक॒य्ँ यज॑मानाय **कृण्व॒ती**॥  
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/14_tredhA_viShNururugAyo.md">
-<details open><summary><h7>14 त्रेधा विष्णुरुरुगायो ...{Loading}...</h7></summary>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/14_tredhA_viShNururugAyo.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+त्रेधा᳓ वि᳓ष्णुर् उरु-गायो᳓+++(गेयो)+++ **वि᳓चक्रमे**।  
+मही᳓न् दि᳓वम् पृथिवी᳓म् अन्त᳓रिक्षम्।  
+त᳓च् **छ्रोणै᳓ति** +++(अत्र)+++ श्र᳓व+++(=कीर्तिम्)+++ **इच्छ᳓माना**।  
+पु᳓ण्यँ श्लो᳓कय्ँ य᳓जमानाय **कृण्वती᳓**॥  
+
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/14_tredhA_viShNururugAyo.md">
 <details><summary>मूलम्</summary>
 
 त्रे॒धा विष्णु॑रुरुगा॒यो विच॑क्रमे ।   
 म॒हीन्दिव॑म्पृथि॒वीम॒न्तरि॑क्षम् ।  
 तच्छ्रो॒णैति॒ श्रव॑ इ॒च्छमा॑ना ।  
-पुण्यँ॒ श्लोक॒य्ँयज॑मानाय कृण्व॒ती ।
+पुण्यँ॒ श्लोकय्ँ॒यज॑मानाय कृण्व॒ती ।
+
 
 </details>
 
@@ -1788,18 +2189,29 @@ _________________
 
 14त्रेधेति ॥ विष्णुरुरुगायः उरुभिः महात्मभिः गातव्यः स्तोतव्यः त्रेधा विचक्रमे विक्रान्तवान् । महीं महतीं दिवं पृथिवीं अन्तरिक्षं च श्रोणायां, तस्मादियं श्रोणा श्रवः अन्नं यशो वा इच्छमाना उत्पादयन्ती यजमानाय एति गच्छति ॥ कर्मणः संप्रदानत्वात् चतुर्थी । यजमानाय च पुण्यं श्लोकं स्तोत्रं कृण्वती कुर्वती - अहो सम्यगिष्टमनेनेति । यद्वा - पुण्यं श्लोकं यजमानाय प्रजाभिः कुर्वती कारयन्ती ॥
 
-</details>
-</details>
-</div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/23_viShNave_svAhA.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h9></summary>
 
-विष्ण॑वे॒ स्वाहा॑ श्रो॒णायै॒ स्वाहा॑ ।  
-श्लोका॑य॒ स्वाहा॑ श्रु॒ताय॒ स्वाहा॑ ॥48॥
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/20_shroNA/">
-<details open><summary><h10>२० श्रोणा ...{Loading}...</h10></summary>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+15श्रविष्ठानाम् - अष्टाविति ॥
+</details>
+</details>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/23_viShNave_svAhA.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+वि᳓ष्णवे स्वा᳓हा श्रोणा᳓यै स्वा᳓हा ।  
+श्लो᳓काय स्वा᳓हा श्रुता᳓य स्वा᳓हा ॥48॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/20_shroNA/">
 <details open><summary>विश्वास-टिप्पनी</summary>
 
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/shroNA.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/shroNA.png)
@@ -1809,53 +2221,58 @@ _________________
 
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
-- " A dense part of the Milky Way with excellent sights of star fields, with globular NGC 6760 eta Aquilae in the wing of the Eagle is a Cepheid variable that varies clearly enough to be perceived by the naked eye under good skies over a period of ~ 1 week. .. This star is &lt; 30 Myr old"
-</details>
+- " A dense part of the Milky Way with excellent sights of star fields, with globular NGC 6760 eta Aquilae in the wing of the Eagle is a Cepheid variable that varies clearly enough to be perceived by the naked eye under good skies over a period of ~ 1 week. .. This star is < 30 Myr old"
 </details>
 </div>  
 
 ###### धनिष्ठाः/ श्रविष्ठाः - वसवः
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/15_aShTau_devA.md">
-<details open><summary><h7>15 अष्टौ देवा ...{Loading}...</h7></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/15_aShTau_devA.md">
 
-अ॒ष्टौ दे॒वा वस॑वस् सो॒म्यासः॑।  
-चत॑स्रो दे॒वीर् अ॒जराः॒ श्रवि॑ष्ठाः।  
-ते य॒ज्ञम् **पा॑न्तु॒** रज॑सᳶ पु॒रस्ता॑त्।  
-स॒व्ँव॒त्स॒रीण॑म् अ॒मृतँ॑ स्व॒स्ति।  
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+अष्टौ᳓ देवा᳓ व᳓सवस् सोम्या᳓सः।  
+च᳓तस्रो देवी᳓र् अज᳓राः श्र᳓विष्ठाः।  
+ते᳓ यज्ञ᳓म् **पान्तु** र᳓जसᳶ पुर᳓स्तात्।  
+सव्ँवत्सरी᳓णम् अमृ᳓तँ स्वस्ति᳓।  
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/15_aShTau_devA.md">
-<details open><summary><h7>15 अष्टौ देवा ...{Loading}...</h7></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/15_aShTau_devA.md">
 <details><summary>मूलम्</summary>
 
 अ॒ष्टौ दे॒वा वस॑वस्सो॒म्यासः॑ ।  
 चत॑स्रो दे॒वीर॒जरा॒श्श्रवि॑ष्ठाः ।  
 ते य॒ज्ञम्पा॑न्तु॒ रज॑सᳶ प॒रस्ता॑त् ।  
-स॒व्ँव॒त्स॒रीण॑म॒मृतँ॑ स्व॒स्ति ॥18॥  
+सव्ँ॒व॒त्स॒रीण॑म॒मृतँ॑ स्व॒स्ति ॥18॥  
+
 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-15श्रविष्ठानाम् - अष्टाविति ॥ अष्टो वसुनामानः देवाः सोम्याः सोमार्हाः, चतस्रश्च देव्यः श्रविष्ठाः नक्षत्रं, तारकापेक्षं चतुष्ट्वम् । अजराः अविनाशाः । ते वसवः श्रविष्ठाश्च । ते च ता श्च ते, पुंस एकशेषः । यज्ञं इममास्माकीनं पान्तु । रजसः अन्तरिक्षस्य परस्तात् उपरि स्थिताः रजोगुणतो वा रजोगुणापगमादनन्तरमित्यर्थः । संवत्सरीणं संवत्सरभाविनं 'संपरिपूर्वात्ख च' इति खः । अमृतं अमृतत्वं स्वस्ति अविघ्नेन यथा भवति तथा यज्ञं पान्तु ॥
+अष्टो वसुनामानः देवाः सोम्याः सोमार्हाः, चतस्रश्च देव्यः श्रविष्ठाः नक्षत्रं, तारकापेक्षं चतुष्ट्वम् । अजराः अविनाशाः । ते वसवः श्रविष्ठाश्च । ते च ता श्च ते, पुंस एकशेषः । यज्ञं इममास्माकीनं पान्तु । रजसः अन्तरिक्षस्य परस्तात् उपरि स्थिताः रजोगुणतो वा रजोगुणापगमादनन्तरमित्यर्थः । संवत्सरीणं संवत्सरभाविनं 'संपरिपूर्वात्ख च' इति खः । अमृतं अमृतत्वं स्वस्ति अविघ्नेन यथा भवति तथा यज्ञं पान्तु ॥
 
-</details>
-</details>
-</div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/16_yajnannapH_pAntu.md">
-<details open><summary><h7>16 यज्ञन्नᳶ पान्तु ...{Loading}...</h7></summary>
-
-य॒ज्ञन् नᳶ॑ **पान्तु॒** वस॑वᳶ पु॒रस्ता॑त्।  
-द॒क्षि॒ण॒तो॑ **ऽभिय॑न्तु॒** श्रवि॑ष्ठाः।  
-पुण्य॒न् नक्ष॑त्रम् **अ॒भि सव्ँवि॑शाम**।  
-मा नो॒ अरा॑तिर् अ॒घशँ॒सा **ऽग॑न्न्**॥  
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/16_yajnannapH_pAntu.md">
-<details open><summary><h7>16 यज्ञन्नᳶ पान्तु ...{Loading}...</h7></summary>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/16_yajnannapH_pAntu.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+यज्ञ᳓न् नᳶ **पान्तु** व᳓सवᳶ पुर᳓स्तात्।  
+दक्षिणतो᳙ **ऽभि᳓यन्तु** श्र᳓विष्ठाः।  
+पु᳓ण्यन् न᳓क्षत्रम् **अभि᳓ सव्ँ᳓विशाम**।  
+मा᳓ नो अ᳓रातिर् अघ᳓शँसा᳓ **ऽगन्न्**॥  
+
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/16_yajnannapH_pAntu.md">
 <details><summary>मूलम्</summary>
 
 य॒ज्ञन्न॑ᳶ पान्तु॒ वस॑वᳶ पु॒रस्ता॑त् ।  
@@ -1863,24 +2280,36 @@ _________________
 पुण्य॒न्नक्ष॑त्रम॒भिसव्ँ वि॑शाम ।  
 मा नो॒ अरा॑तिर॒घशँ॒साऽग॑न् ।  
 
+
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 16यज्ञं न इति ॥ अस्माकं यज्ञं वसवः पुरस्तात् पूर्वस्यां दिशि पान्तु । श्रविष्ठाश्च दक्षिणतः दक्षिणस्यां दिश्यभियन्तु आभिमुख्येन प्राप्नुवन्तु । श्रविष्ठाः पुनः पितृसम्भवाः दक्षप्रजापतेः पितृत्वमप्यस्ति, ततस्तासां दक्षिणतोऽभिगमनं युक्तम् । वयमपीदं पुण्यं नक्षत्रं अभिसंविशाम आभिमुख्येन परिचरामः ततः अघशंसा पापरुचिः अरातिः नः माऽगन् मागमत् । अरात्यपेक्षं स्त्रीत्वम् । गमेर्लुडिः 'मन्त्रे घस' इति च्लेर्लुक् ॥
 
-</details>
-</details>
-</div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/24_vasubhyas_svAhA.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h9></summary>
 
-वसु॑भ्य॒स् स्वाहा॒ श्रवि॑ष्ठाभ्य॒स् स्वाहा॑ ।  
-अग्रा॑य॒ स्वाहा॒ परी॑त्यै॒ स्वाहा॑ ॥49॥
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/21_shraviShThA/">
-<details open><summary><h10>२१ श्रविष्ठा ...{Loading}...</h10></summary>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+17शतभिषजः - क्षत्त्रस्येति ॥
+</details>
+</details>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/24_vasubhyas_svAhA.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+व᳓सुभ्यस् स्वा᳓हा श्र᳓विष्ठाभ्यस् स्वा᳓हा ।  
+अ᳓ग्राय स्वा᳓हा प᳓रीत्यै स्वा᳓हा ॥49॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/21_shraviShThA/">
 <details open><summary>विश्वास-टिप्पनी</summary>
 
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/dhaniShThA.svg" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/dhaniShThA.svg)
@@ -1893,23 +2322,24 @@ _________________
 - An ancient solstitial constellation.
 - "From an observer's viewpoint the Blue Flash Nebula NGC 6905 right at the top is a good challenge. ... NGC 6934 is a good globular."
 </details>
-</details>
 </div>  
 
 ###### शतभिषग् - वरुणः
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/17_khShatrasya_rAjA.md">
-<details open><summary><h7>17 क्षत्रस्य राजा ...{Loading}...</h7></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/17_khShatrasya_rAjA.md">
 
-क्ष॒त्रस्य॒ राजा॒ वरु॑णो ऽधिरा॒जः।  
-नक्ष॑त्राणाँ श॒तभि॑ष॒ग् वसि॑ष्ठः।  
-तौ दे॒वेभ्यᳵ॑ **कृणुतो** दी॒र्घम् आयुः॑।  
-श॒तँ स॒हस्रा॑ भेष॒जानि॑ **धत्तः**।  
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+क्षत्र᳓स्य रा᳓जा व᳓रुणो ऽधिराजः᳓।  
+न᳓क्षत्राणाँ शत᳓भिषग् व᳓सिष्ठः।  
+तौ᳓ देवे᳓भ्यᳵ **कृणुतो** दीर्घ᳓म् आ᳓युः।  
+शतँ᳓ सह᳓स्रा भेषजा᳓नि **धत्तः**।  
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/17_khShatrasya_rAjA.md">
-<details open><summary><h7>17 क्षत्रस्य राजा ...{Loading}...</h7></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/17_khShatrasya_rAjA.md">
 <details><summary>मूलम्</summary>
 
 क्ष॒त्रस्य॒ राजा॒ वरु॑णोऽधिरा॒जः ।  
@@ -1917,27 +2347,32 @@ _________________
 तौ दे॒वेभ्य॑ᳵ कृणुतो दी॒र्घमायुः॑ ।   
 श॒तँ स॒हस्रा॑ भेष॒जानि॑ धत्तः ।   
 
+
+
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-17शतभिषजः - क्षत्त्रस्येति ॥ क्षत्त्रस्य बलस्य क्षत्त्रजातेर्वा राजा स्वामी वरुणः अधिराजः अधिकदीप्तिः नक्षत्राणां मध्ये वसिष्ठः प्रशस्यतमः शतभिषङ्नक्षत्रं, तौ वरुणशतभिषजौ देवेभ्यः अग्न्यादिभ्यः । यद्वा - यजमानस्यापि देवत्वात् । 'एष वा एतर्हीन्द्रो यो यजते' इति । 'अग्निर्वै दीक्षितः तस्मादेनम्' इति च । ऋत्विजोपि देवाः 'एते वै देवाः प्रत्यक्षं यद्ब्राह्मणाः' इति । तेभ्यः दीर्घं आयुः कृणुत कृरुतम् । भेषजानि अनिष्टोपशमनानि शतं सहस्रा सहस्रसंख्यानि धत्तः धत्ताम् ॥
+क्षत्त्रस्य बलस्य क्षत्त्रजातेर्वा राजा स्वामी वरुणः अधिराजः अधिकदीप्तिः नक्षत्राणां मध्ये वसिष्ठः प्रशस्यतमः शतभिषङ्नक्षत्रं, तौ वरुणशतभिषजौ देवेभ्यः अग्न्यादिभ्यः । यद्वा - यजमानस्यापि देवत्वात् । 'एष वा एतर्हीन्द्रो यो यजते' इति । 'अग्निर्वै दीक्षितः तस्मादेनम्' इति च । ऋत्विजोपि देवाः 'एते वै देवाः प्रत्यक्षं यद्ब्राह्मणाः' इति । तेभ्यः दीर्घं आयुः कृणुत कृरुतम् । भेषजानि अनिष्टोपशमनानि शतं सहस्रा सहस्रसंख्यानि धत्तः धत्ताम् ॥
 
-</details>
-</details>
-</div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/18_yajnanno_rAjA.md">
-<details open><summary><h7>18 यज्ञन्नो राजा ...{Loading}...</h7></summary>
-
-य॒ज्ञन् नो॒ राजा॒ वरु॑ण॒ **उप॑यातु**।  
-तन् नो॒ विश्वे॑ **अ॒भि संय॑न्तु** दे॒वाः।  
-तन् नो॒ नक्ष॑त्रँ श॒तभि॑षग् **जुषा॒णम्**।  
-दी॒र्घम् आयुᳶ॒ **प्रति॑ रद्**+++(=दद्यात्)+++ भेष॒जानि॑॥  
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/18_yajnanno_rAjA.md">
-<details open><summary><h7>18 यज्ञन्नो राजा ...{Loading}...</h7></summary>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/18_yajnanno_rAjA.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+यज्ञ᳓न् नो रा᳓जा व᳓रुण **उ᳓पयातु**।  
+त᳓न् नो वि᳓श्वे **अभि᳓ सं᳓यन्तु** देवाः᳓।  
+त᳓न् नो न᳓क्षत्रँ शत᳓भिषग् **जुषाण᳓म्**।  
+दीर्घ᳓म् आ᳓युᳶ **प्र᳓ति रद्**+++(=दद्यात्)+++ भेषजा᳓नि॥  
+
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/18_yajnanno_rAjA.md">
 <details><summary>मूलम्</summary>
 
 य॒ज्ञन्नो॒ राजा॒ वरु॑ण॒ उप॑यातु ।   
@@ -1945,23 +2380,36 @@ _________________
 तन्नो॒ नक्ष॑त्रँ श॒तभि॑षग्जुषा॒णम् ।   
 दी॒र्घमायु॒ᳶ प्रति॑रद्भेष॒जानि॑ ।    
 
+
+
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 18यज्ञमिति ॥ वरुणो राजा अस्माकं यज्ञमुपयातु । तेनैव वरुणागमहेतुना वरुणराजानः विश्वे देवा अपि । अथ तच्छतभिषक् नक्षत्रं जुषाणं प्रीयमाणं अस्मान्वा प्रीणयितुं अस्मभ्यं दीर्घमायुः भेषजानि च प्रतिरत् वर्धतु ॥
 
-</details>
-</details>
-</div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/25_varuNAya_svAhA.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h9></summary>
 
-वरु॑णाय॒ स्वाहा॑ श॒तभि॑षजे॒ स्वाहा॑ । भे॒ष॒जेभ्य॒स् स्वाहा॑ ॥50॥
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/22_shatabhiShA/">
-<details open><summary><h10>२२ शतभिषा ...{Loading}...</h10></summary>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+19प्रोष्ठपदानाम् - अज इति ॥
+</details>
+</details>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/25_varuNAya_svAhA.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+व᳓रुणाय स्वा᳓हा शत᳓भिषजे स्वा᳓हा । भेषजे᳓भ्यस् स्वा᳓हा ॥50॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/22_shatabhiShA/">
 <details open><summary>विश्वास-टिप्पनी</summary>
 
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/shatabhiShaj.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/shatabhiShaj.png)
@@ -1976,23 +2424,24 @@ _________________
 - "It is believed to be the group of stars around Lambda Aquarii a slowly pulsating red giant. "
 - " First and foremost is the Helix Nebula NGC 7293 which was discovered by Karl Harding, while making his giant star atlas funded along with Gauss by Laplace and Lagrange. It is a glorious sight even with a mere 6in reflector. Then there is M2 which along with M 56 which we saw in the vicinity of abhijit remarkably is is part a former dwarf galaxy termed the Gaia sausage that was swallowed by the Milky Way well before the birth of the sun. Another great planetary is the Saturn Nebula NGC 7009 discovered by Herschel."
 </details>
-</details>
 </div>  
 
 ###### प्रोष्ठपदाः/ भाद्रपदाः पूर्वाः - अज एकपात्
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/19_aja_ekapAdudagAtpurastAt.md">
-<details open><summary><h7>19 अज एकपादुदगात्पुरस्तात् ...{Loading}...</h7></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/19_aja_ekapAdudagAtpurastAt.md">
 
-अ॒ज एक॑पा॒द् **उद॑गात्** पु॒रस्ता॑त्।  
-विश्वा॑ भू॒तानि॑ प्रति॒ मोद॑मानः।  
-तस्य॑ दे॒वाᳶ प्र॑स॒वय्ँ **य॑न्ति॒** सर्वे॑।  
-प्रो॒ष्ठ॒प॒दासो॑ अ॒मृत॑स्य गो॒पाः।  
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+अज᳓ ए᳓कपाद् **उ᳓दगात्** पुर᳓स्तात्।  
+वि᳓श्वा भूता᳓नि प्रति मो᳓दमानः।  
+त᳓स्य देवाᳶ᳓ प्रसवय्ँ᳓ **यन्ति** स᳓र्वे।  
+प्रोष्ठपदा᳓सो अमृ᳓तस्य गोपाः᳓।  
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/19_aja_ekapAdudagAtpurastAt.md">
-<details open><summary><h7>19 अज एकपादुदगात्पुरस्तात् ...{Loading}...</h7></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/19_aja_ekapAdudagAtpurastAt.md">
 <details><summary>मूलम्</summary>
 
 अ॒ज एक॑पा॒दुद॑गात्पु॒रस्ता॑त् ।  
@@ -2000,27 +2449,31 @@ _________________
 तस्य॑ दे॒वाᳶ प्र॑स॒वय्ँय॑न्ति॒ सर्वे॑ ।   
 प्रो॒ष्ठ॒प॒दासो॑ अ॒मृत॑स्य गो॒पाः ।  
 
+
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-19प्रोष्ठपदानाम् - अज इति ॥ अज एकपादिति पदद्वयमपि अग्निविशेषस्याख्या अजः अजनः सुष्ठु गन्ता एकः पादोऽस्येति एकपात् एकेन पादेन देवान् रक्षन् । 'संख्यासुपूर्वस्य' इति लोपस्समासान्तः । स पुरस्तादुदगात् उदेति भूतजातेषु प्रथममाविर्भवति । विश्वानि च भूतानि प्रति मोदमानः प्रत्येकमनुगृह्णन् । तस्य प्रसवं अनुज्ञां सर्वेऽपि देवाः यन्ति तस्य विधेयतां गच्छन्ति न कोपि लङ्घितुं शक्नोति । प्रोष्ठपदाश्च नक्षत्रं तस्य प्रसवं यन्तीत्येव । अमृतस्य अमृतत्वस्य गोपाः गोपायितारः ॥
+अज एकपादिति पदद्वयमपि अग्निविशेषस्याख्या अजः अजनः सुष्ठु गन्ता एकः पादोऽस्येति एकपात् एकेन पादेन देवान् रक्षन् । 'संख्यासुपूर्वस्य' इति लोपस्समासान्तः । स पुरस्तादुदगात् उदेति भूतजातेषु प्रथममाविर्भवति । विश्वानि च भूतानि प्रति मोदमानः प्रत्येकमनुगृह्णन् । तस्य प्रसवं अनुज्ञां सर्वेऽपि देवाः यन्ति तस्य विधेयतां गच्छन्ति न कोपि लङ्घितुं शक्नोति । प्रोष्ठपदाश्च नक्षत्रं तस्य प्रसवं यन्तीत्येव । अमृतस्य अमृतत्वस्य गोपाः गोपायितारः ॥
 
-</details>
-</details>
-</div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/20_vibhrAjamAnassamidhAna_ugraH.md">
-<details open><summary><h7>20 विभ्राजमानस्समिधान उग्रः ...{Loading}...</h7></summary>
-
-वि॒भ्राज॑मानस् समिधा॒न उ॒ग्रः।  
-आ ऽन्तरि॑क्षम् **अरुह॒द् अग॒न्**+++(=प्राप्नोत्)+++ द्याम्।  
-तँ सूर्य॑न् दे॒वम् अ॒जम् एक॑पादम्।  
-प्रो॒ष्ठ॒प॒दासो॒ **अनु॑यन्ति॒** सर्वे॑॥  
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/20_vibhrAjamAnassamidhAna_ugraH.md">
-<details open><summary><h7>20 विभ्राजमानस्समिधान उग्रः ...{Loading}...</h7></summary>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/20_vibhrAjamAnassamidhAna_ugraH.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+विभ्रा᳓जमानस् समिधान᳓ उग्रः᳓।  
+आ᳓ ऽन्त᳓रिक्षम् **अरुहद् अ᳓गन्**+++(=प्राप्नोत्)+++ द्या᳓म्।  
+तँ᳓ सू᳓र्यन् देव᳓म् अज᳓म् ए᳓कपादम्।  
+प्रोष्ठपदा᳓सो **अ᳓नुयन्ति** स᳓र्वे॥  
+
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/20_vibhrAjamAnassamidhAna_ugraH.md">
 <details><summary>मूलम्</summary>
 
 वि॒भ्राज॑मानस्समिधा॒न उ॒ग्रः ।   
@@ -2028,24 +2481,37 @@ _________________
 तँ सूर्य॑न्दे॒वम॒जमेक॑पादम् ।  
 प्रो॒ष्ठ॒प॒दासो॒ अनु॑यन्ति॒ सर्वे॑ ॥20॥  
 
+
+
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 20विभ्राजमान इति ॥ विभ्राजमानः विशेषेण दीप्यमानः समिधानः समिन्धयन् भावात् उग्रः उद्गूर्णतेजाः उदकस्य वा दाता ईदृशोऽयं अज एकपात् अन्तरिक्षमारुहत् आरोहति । 'कृमृदृरुहिभ्यः छन्दसि' इत्यञ्, द्यां च अगन् गच्छति 'मन्त्रे घस' इहि च्लेर्लुक् । तं अजं एकपादं देवं सूर्यं सावनं प्रेरकं वा सर्वे प्रोष्ठपदा अनुयन्ति अनुसरन्ति ॥
 
-</details>
-</details>
-</div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/26_ajAyaikapade_svAhA.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h9></summary>
 
-अ॒जायैक॑पदे॒ स्वाहा॑ प्रोष्ठप॒देभ्य॒स् स्वाहा॑ ।  
-तेज॑से॒ स्वाहा॑ ब्रह्मवर्च॒साय॒ स्वाहा॑ ॥51॥
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/23_proShThapadaH/">
-<details open><summary><h10>२३ प्रोष्ठपदः ...{Loading}...</h10></summary>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+21उत्तरप्तोष्ठपदानाम् - अहिर्बुध्निय इति ॥
+</details>
+</details>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/26_ajAyaikapade_svAhA.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+अजा᳓यै᳓कपदे स्वा᳓हा प्रोष्ठपदे᳓भ्यस् स्वा᳓हा ।  
+ते᳓जसे स्वा᳓हा ब्रह्मवर्चसा᳓य स्वा᳓हा ॥51॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/23_proShThapadaH/">
 <details open><summary>विश्वास-टिप्पनी</summary>
 
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/proShThapada.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/proShThapada.png)
@@ -2055,26 +2521,28 @@ _________________
 ![](/jyotiSham/history/images/zodiac_history/bce-3000_naxatra-chakra.jpg)
 {caption="" class="thumbnail"}
 
+
 - धिष्णियाभिस् तार्क्ष्य-सम्बन्धो ऽन्यत्र प्रपञ्चितः। सर्वम् एतद् [अन्यत्र](/jyotiSham/naxatram/tArAmaNDala) प्रपञ्चितम्।
 - ३००० BCE इति काले ऽत्र परिसरे ऽवर्तत +अयनवर्तन-स्थानम्।
-</details>
 </details>
 </div>  
 
 ###### प्रोष्ठपदाः/ भाद्रपदाः उत्तराः  - अहिर् बिध्नियः
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/21_ahirbudhniyapH_prathamAna.md">
-<details open><summary><h7>21 अहिर्बुध्नियᳶ प्रथमान ...{Loading}...</h7></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/21_ahirbudhniyapH_prathamAna.md">
 
-अहि॑र् बु॒ध्नियᳶ॒+++(=मूलस्थः)+++ **प्रथ॑मान एति**।  
-श्रेष्ठो॑ दे॒वाना॑म् उ॒त मानु॑षाणाम्।  
-तम् ब्रा॑ह्म॒णास् सो॑म॒पास् सो॒म्यासः॑+++(=रमणीयदेहाः)+++।  
-प्रो॒ष्ठ॒प॒दासो॑ **अ॒भिर॑क्षन्ति॒** सर्वे॑।  
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+अ᳓हिर् बुध्नि᳓यᳶ+++(=मूलस्थः)+++ **प्र᳓थमान एति**।  
+श्रे᳓ष्ठो देवा᳓नाम् उत᳓ मा᳓नुषाणाम्।  
+त᳓म् ब्राह्मणा᳓स् सोमपा᳓स् सोम्या᳓सः+++(=रमणीयदेहाः)+++।  
+प्रोष्ठपदा᳓सो **अभि᳓रक्षन्ति** स᳓र्वे।  
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/21_ahirbudhniyapH_prathamAna.md">
-<details open><summary><h7>21 अहिर्बुध्नियᳶ प्रथमान ...{Loading}...</h7></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/21_ahirbudhniyapH_prathamAna.md">
 <details><summary>मूलम्</summary>
 
 अहि॑र्बु॒ध्निय॒ᳶ प्रथ॑मान एति ।  
@@ -2082,27 +2550,31 @@ _________________
 तम्ब्रा॑ह्म॒णास्सो॑म॒पास्सो॒म्यासः॑ ।    
 प्रो॒ष्ठ॒प॒दासो॑ अ॒भिर॑क्षन्ति॒ सर्वे॑ ।
 
+
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-21उत्तरप्तोष्ठपदानाम् - अहिर्बुध्निय इति ॥ पदद्वयमग्नेरेव नामान्तरम् । पूर्वोत्तरप्रोष्ठपदनक्षत्रदेवतयोः सूर्याग्न्योः द्विनामत्वमन्यत्र सिद्धं 'अजोऽस्येकपादहिरसि बुध्नियः' इति । अस्त्येव ब्राह्मणे धिष्णियप्रकरणे 'द्वेद्वे नायनी कुरुध्वम्' इति । 'अहे बुध्निय मन्त्रं मे गोपाय' इत्युपस्थाने च । प्रथमानः विश्वं व्याप्नुवन् एति गच्छति । श्रेष्ठः प्रशस्यतमः देवानां मध्ये मानुषाणामपि पूज्यतमः । तं देवं अहिर्बुध्रियं ब्राह्मणाः सोमपाः सोमस्य पातारः सोम्याः सोमार्हाः प्रोष्ठपदाश्चाभिरक्षन्ति अभितः तर्पयन्ति ॥
+पदद्वयमग्नेरेव नामान्तरम् । पूर्वोत्तरप्रोष्ठपदनक्षत्रदेवतयोः सूर्याग्न्योः द्विनामत्वमन्यत्र सिद्धं 'अजोऽस्येकपादहिरसि बुध्नियः' इति । अस्त्येव ब्राह्मणे धिष्णियप्रकरणे 'द्वेद्वे नायनी कुरुध्वम्' इति । 'अहे बुध्निय मन्त्रं मे गोपाय' इत्युपस्थाने च । प्रथमानः विश्वं व्याप्नुवन् एति गच्छति । श्रेष्ठः प्रशस्यतमः देवानां मध्ये मानुषाणामपि पूज्यतमः । तं देवं अहिर्बुध्रियं ब्राह्मणाः सोमपाः सोमस्य पातारः सोम्याः सोमार्हाः प्रोष्ठपदाश्चाभिरक्षन्ति अभितः तर्पयन्ति ॥
 
-</details>
-</details>
-</div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/22_chatvAra_ekamabhikarma.md">
-<details open><summary><h7>22 चत्वार एकमभिकर्म ...{Loading}...</h7></summary>
-
-च॒त्वार॒ एक॑म् अ॒भि कर्म॑ दे॒वाः।  
-प्रो॒ष्ठ॒प॒दास॒ इति॒ यान् **वद॑न्ति**।  
-ते बु॒ध्निय॑म् परि॒षद्यँ॑ **स्तु॒वन्तः॑**।  
-अहिँ॑ **रक्षन्ति॒ नम॑सोप॒सद्य॑**॥  
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/22_chatvAra_ekamabhikarma.md">
-<details open><summary><h7>22 चत्वार एकमभिकर्म ...{Loading}...</h7></summary>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/22_chatvAra_ekamabhikarma.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+चत्वा᳓र ए᳓कम् अभि᳓ क᳓र्म देवाः᳓।  
+प्रोष्ठपदा᳓स इ᳓ति या᳓न् **व᳓दन्ति**।  
+ते᳓ बुध्नि᳓यम् परिष᳓द्यँ **स्तुव᳓न्तः**।  
+अ᳓हिँ **रक्षन्ति न᳓मसोपस᳓द्य**॥  
+
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/22_chatvAra_ekamabhikarma.md">
 <details><summary>मूलम्</summary>
 
 च॒त्वार॒ एक॑म॒भिकर्म॑ दे॒वाः ।   
@@ -2110,24 +2582,37 @@ _________________
 ते बु॒ध्निय॑म्परि॒षद्यँ॑ स्तु॒वन्तः॑ ।  
 अहिँ॑ रक्षन्ति॒ नम॑सोप॒सद्य॑ ।
 
+
+
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 22चत्वार इति ॥ चत्वारोपि देवाः एकं कर्माभिगभ्य संभूय साधयन्ति । यद्वा - कर्मदेवाः सुकृतातिशयेन देवत्वमाप्ताः 'ये कर्मणा देवानपियन्ति' इति । प्रोष्ठपदास इति यान्वदन्ति लोके ते चत्वारोपि संभूय कर्माणि साधयन्ति । ते पूर्वोक्तदेवाः प्रोष्ठपदाः बुध्नियं परिषद्यं परित उपास्यं उपरिं वा सीदन्तं अहिं च स्तुवन्तः नमसा नमस्कारादिना अन्नेन हविषा वा उपसद्य उपसङ्गम्य रक्षन्ति तर्पयन्ति । यद्वा - एकं किंचित् प्रशस्तं कर्म चत्वारस्ते अभिगच्छन्ति, ते तत्कर्मकारिणो जनाः बुध्नियं अहिं च स्तुवन्तः नमस्कारादिना उपसद्य रक्षन्ति तर्पयन्ति ॥
 
-</details>
-</details>
-</div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/27_ahaye_budhniyAya.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h9></summary>
 
-अह॑ये बु॒ध्निया॑य॒ स्वाहा॑  
-प्रोष्ठप॒देभ्य॒स् स्वाहा॑ । प्र॒ति॒ष्ठायै॒ स्वाहा॑ ॥52॥
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/24_proShThapadaH/">
-<details open><summary><h10>२४ प्रोष्ठपदः ...{Loading}...</h10></summary>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+23रेवत्याः - पूषेति ॥
+</details>
+</details>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/27_ahaye_budhniyAya.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+अ᳓हये बुध्नि᳓याय स्वा᳓हा  
+प्रोष्ठपदे᳓भ्यस् स्वा᳓हा । प्रतिष्ठा᳓यै स्वा᳓हा ॥52॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/24_proShThapadaH/">
 <details open><summary>विश्वास-टिप्पनी</summary>
 
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/proShThapada.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/proShThapada.png)
@@ -2146,23 +2631,24 @@ _________________
 - The yavana-s saw it representing the ancestress of themselves & the Iranics.
 - "Of course M 31 the great Andromeda galaxy & its satellite galaxies M 32 and M 110. Probably someone sitting on a planet there is writing likewise about the Milky Way & the Magellanic clouds."
 </details>
-</details>
 </div>  
 
 ###### रेवती - पूषा
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/23_pUShA_revatyanveti.md">
-<details open><summary><h7>23 पूषा रेवत्यन्वेति ...{Loading}...</h7></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/23_pUShA_revatyanveti.md">
 
-पू॒षा रे॒वत्य् **अन्वे॑ति॒** पन्था॑म्।  
-पु॒ष्टि॒पती॑ पशु॒पा वाज॑+++(=अन्न)+++बस्त्यौ+++(बलौ)+++।  
-इ॒मानि॑ ह॒व्या **प्रय॑ता जुषा॒णा**।  
-सु॒गैर् नो॒ यानै॒र् **उप॑याताय्ँ** य॒ज्ञम्।  
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+पूषा᳓ रेव᳓त्य् **अ᳓न्वेति** प᳓न्थाम्।  
+पुष्टिप᳓ती पशुपा᳓ वा᳓ज+++(=अन्न)+++बस्त्यौ+++(बलौ)+++।  
+इमा᳓नि हव्या᳓ **प्र᳓यता जुषाणा᳓**।  
+सुगै᳓र् नो या᳓नैर् **उ᳓पयाताय्ँ** यज्ञ᳓म्।  
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/23_pUShA_revatyanveti.md">
-<details open><summary><h7>23 पूषा रेवत्यन्वेति ...{Loading}...</h7></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/23_pUShA_revatyanveti.md">
 <details><summary>मूलम्</summary>
 
 पू॒षा रे॒वत्यन्वे॑ति॒ पन्था॑म् ।   
@@ -2170,50 +2656,65 @@ _________________
 इ॒मानि॑ ह॒व्या प्रय॑ता जुषा॒णा ।   
 सु॒गैर्नो॒ यानै॒रुप॑याताय्ँ य॒ज्ञम् ।  
 
+
+
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-23रेवत्याः - पूषेति ॥ पूषा रेवती च पन्थां एकं मार्गं अन्वेति अनुगच्छति संहत्यकारिणौ वर्तते । तौ कौ? पुष्टिपती पुष्टेः पातारौ पशुपा पशूनां पालयितारौ । 'सुपां सुलुक्' इत्याकारः । वाजबस्त्यौ वाजेन अन्नेन बस्त्यौ बलहेतू जगताम् । बले वा साधू । बस्तिशब्दः दासीभारादिषु द्रष्टव्यः । यद्वा - वाजो बस्त्यो ययोस्तादृशौ तौ इमानि अस्मदीयानि हव्यानि प्रयता प्रयतानि जुषाणा सेवमानौ सुगैः शोभनगमनसाधनैः यौनैर्वाहनैः नः यज्ञं उपयातां उपगच्छताम् ॥
-
-</details>
-</details>
-</div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/24_khShudrAnpashUnrakhShatu.md">
-<details open><summary><h7>24 क्षुद्रान्पशून्रक्षतु ...{Loading}...</h7></summary>
-
-क्षु॒द्रान् प॒शून् **र॑क्षतु** रे॒वती॑ नः।  
-गावो॑ नो॒ अश्वाँ॒ **अन्वे॑तु** पू॒षा।  
-अन्नँ॒ **रक्ष॑न्तौ** बहु॒दा विरू॑पम्।  
-वाजँ॑+++(=अन्नम्)+++ **सनुता॒य्ँ**+++(=दत्ताम्)+++ यज॑मानाय य॒ज्ञम्॥  
+पूषा रेवती च पन्थां एकं मार्गं अन्वेति अनुगच्छति संहत्यकारिणौ वर्तते । तौ कौ? पुष्टिपती पुष्टेः पातारौ पशुपा पशूनां पालयितारौ । 'सुपां सुलुक्' इत्याकारः । वाजबस्त्यौ वाजेन अन्नेन बस्त्यौ बलहेतू जगताम् । बले वा साधू । बस्तिशब्दः दासीभारादिषु द्रष्टव्यः । यद्वा - वाजो बस्त्यो ययोस्तादृशौ तौ इमानि अस्मदीयानि हव्यानि प्रयता प्रयतानि जुषाणा सेवमानौ सुगैः शोभनगमनसाधनैः यौनैर्वाहनैः नः यज्ञं उपयातां उपगच्छताम् ॥
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/24_khShudrAnpashUnrakhShatu.md">
-<details open><summary><h7>24 क्षुद्रान्पशून्रक्षतु ...{Loading}...</h7></summary>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/24_khShudrAnpashUnrakhShatu.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+क्षुद्रा᳓न् पशू᳓न् **रक्षतु** रेव᳓ती नः।  
+गा᳓वो नो अ᳓श्वाँ **अ᳓न्वेतु** पूषा᳓।  
+अ᳓न्नँ **र᳓क्षन्तौ** बहुदा᳓ वि᳓रूपम्।  
+वा᳓जँ+++(=अन्नम्)+++ **सनुताय्ँ**+++(=दत्ताम्)+++ य᳓जमानाय यज्ञ᳓म्॥  
+
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/24_khShudrAnpashUnrakhShatu.md">
 <details><summary>मूलम्</summary>
 
 क्षु॒द्रान्प॒शून्र॑क्षतु रे॒वती॑ नः ।    
 गावो॑ नो॒ अश्वाँ॒ अन्वे॑तु पू॒षा ।  
 अन्नँ॒ रक्ष॑न्तौ बहु॒धा विरू॑पम् ।  
-वाजँ॑ सनुता॒य्ँयज॑मानाय य॒ज्ञम् ।
+वाजँ॑ सनुताय्ँ॒यज॑मानाय य॒ज्ञम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 24क्षुद्रानिति ॥ नः क्षुद्रान् अजादीन् पशून् रेवती रक्षतु । नः गावः गाः । आत्वाभावः छान्दसः । अश्वांश्च पूषाऽन्वेतु रक्षतु । तौ द्वावपि अन्नं विरूपं विविधरूपं बहुधा रक्षन्तौ वाजं अन्नवन्तं यज्ञं यजमानाय सनुतां दत्ताम् । षणु दाने ॥
 
-</details>
-</details>
-</div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/28_pUShNe_svAhA.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h9></summary>
 
-पू॒ष्णे स्वाहा॑ रे॒वत्यै॒+++(=ζ Piscium)+++ स्वाहा॑ । प॒शुभ्य॒स् स्वाहा॑ ॥53॥
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/25_revatI/">
-<details open><summary><h10>२५ रेवती ...{Loading}...</h10></summary>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+25अश्वयुजोः - तदिति ॥
+</details>
+</details>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/28_pUShNe_svAhA.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+पूष्णे᳓ स्वा᳓हा रेव᳓त्यै+++(=ζ Piscium)+++ स्वा᳓हा । पशु᳓भ्यस् स्वा᳓हा ॥53॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/25_revatI/">
 <details open><summary>विश्वास-टिप्पनी</summary>
 
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/revatI.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/revatI.png)
@@ -2227,23 +2728,24 @@ _________________
 - "The constellation of Pisces while clearly discernable under dark skies is a dim one. This goes against the early H tendency to use bright asterisms to mark nakShatra-s even if they are far from the ecliptic. What were the stars defining revatI? The nakShatra-kalpa of the atharvan tradition holds say ekA revatI: hence, there was only one star in it. siddhAnta astronomy takes that to be zeta Piscium. While close to the ecliptic, at mag 5.2 that is really a faint start to have been the original. 2. We know that the preceding proShThapada literally meant the constellation of the feet of the stool. That makes it unambiguous that square of Pegasus was seen as a stool by the Arya-s, and revatI should be to the west of that. Hence, we suspect that originally revatI was probably beta Andromedae."
 - 2nd deity: "The next puzzling issue regarding revatI is the assignment of dual deities with it - puShTipatI pashupA. One of those is transparently named as pUShan. Who is the other one? Most likely it is the goddess pathyA revatI, whom the gopathabrAhmaNa of3 the AV holds to be the wide of the goat-riding pUShan, with the 2 being the guardians of paths, and in this case horses, cows and other domesticates+ food. ... The aitareya brAhmaNa mentions the sun following the path laid our out pathyA (revatI). Given the solar connections of puShan, this coupling is most likely."
 </details>
-</details>
 </div>  
 
 ###### अश्विनौ
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/25_tadashvinAvashvayujopayAtAm.md">
-<details open><summary><h7>25 तदश्विनावश्वयुजोपयाताम् ...{Loading}...</h7></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/25_tadashvinAvashvayujopayAtAm.md">
 
-तद् अ॒श्विना॑व् **अश्व॒युजोप॑याताम्**।  
-शुभ॒ङ् **गमि॑ष्ठौ** सु॒यमे॑भि॒र् अश्वैः॑।  
-स्वन् नक्ष॑त्रँ ह॒विषा॒ **यज॑न्तौ**।  
-मध्वा॒ **सम्पृ॑क्तौ॒** यजु॑षा॒ **सम॑क्तौ**।  
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+त᳓द् अश्वि᳓नाव् **अश्वयु᳓जो᳓पयाताम्**।  
+शु᳓भङ् **ग᳓मिष्ठौ** सुय᳓मेभिर् अ᳓श्वैः।  
+स्व᳓न् न᳓क्षत्रँ हवि᳓षा **य᳓जन्तौ**।  
+म᳓ध्वा **स᳓म्पृक्तौ** य᳓जुषा **स᳓मक्तौ**।  
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/25_tadashvinAvashvayujopayAtAm.md">
-<details open><summary><h7>25 तदश्विनावश्वयुजोपयाताम् ...{Loading}...</h7></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/25_tadashvinAvashvayujopayAtAm.md">
 <details><summary>मूलम्</summary>
 
 तद॒श्विना॑वश्व॒युजोप॑याताम् ।   
@@ -2251,27 +2753,32 @@ _________________
 स्वन्नक्ष॑त्रँ ह॒विषा॒ यज॑न्तौ ।     
 मध्वा॒ सम्पृ॑क्तौ॒ यजु॑षा॒ सम॑क्तौ ॥22॥  
 
+
+
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-25अश्वयुजोः - तदिति ॥ अश्विनौ देवते अश्वयुजा अश्वयुग्भ्यां सह । तृतीयाद्विवचनस्याकारः । तत् मदीयं कर्म उपयाताम् । शुभं गमिष्ठौ अतिशयेन शोभनं गन्तारौ । गन्तृशब्दात् 'तुच्छन्दसि' इति इष्ठनि 'तुरिष्ठेमेयस्सु' इति लोपः । सुयमेभिः सुदान्तैः अश्वैः, स्वं आत्मीयं नक्षत्रं अश्वयुगाख्यं हविषा यजन्तौ पूजयन्तौ, मध्या मधुरसेन हविषा संपृक्तौ यजुषा मन्त्रेण समक्तौ सम्यक् प्रकाशितौ ॥
+अश्विनौ देवते अश्वयुजा अश्वयुग्भ्यां सह । तृतीयाद्विवचनस्याकारः । तत् मदीयं कर्म उपयाताम् । शुभं गमिष्ठौ अतिशयेन शोभनं गन्तारौ । गन्तृशब्दात् 'तुच्छन्दसि' इति इष्ठनि 'तुरिष्ठेमेयस्सु' इति लोपः । सुयमेभिः सुदान्तैः अश्वैः, स्वं आत्मीयं नक्षत्रं अश्वयुगाख्यं हविषा यजन्तौ पूजयन्तौ, मध्या मधुरसेन हविषा संपृक्तौ यजुषा मन्त्रेण समक्तौ सम्यक् प्रकाशितौ ॥
 
-</details>
-</details>
-</div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/26_yau_devAnAmbhiShajau.md">
-<details open><summary><h7>26 यौ देवानाम्भिषजौ ...{Loading}...</h7></summary>
-
-यौ दे॒वाना॑म् भि॒षजौ॑ हव्यवा॒हौ।  
-विश्व॑स्य दू॒ताव् अ॒मृत॑स्य गो॒पौ।  
-तौ नक्ष॑त्रञ् **जुजुषा॒णोप॑याताम्**।  
-नमो॒ ऽश्विभ्या॑ङ् **कृणुमो** ऽश्व॒युग्भ्या॑म्॥  
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/26_yau_devAnAmbhiShajau.md">
-<details open><summary><h7>26 यौ देवानाम्भिषजौ ...{Loading}...</h7></summary>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/26_yau_devAnAmbhiShajau.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+यौ᳓ देवा᳓नाम् भिष᳓जौ हव्यवाहौ᳓।  
+वि᳓श्वस्य दूता᳓व् अमृ᳓तस्य गोपौ᳓।  
+तौ᳓ न᳓क्षत्रञ् **जुजुषाणो᳓पयाताम्**।  
+न᳓मो ऽश्वि᳓भ्याङ् **कृणुमो** ऽश्वयु᳓ग्भ्याम्॥  
+
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/26_yau_devAnAmbhiShajau.md">
 <details><summary>मूलम्</summary>
 
 यौ दे॒वाना॑म्भि॒षजौ॑ हव्यवा॒हौ ।  
@@ -2279,24 +2786,36 @@ _________________
 तौ नक्ष॑त्रञ्जुजुषा॒णोप॑याताम् ।  
 नमो॒ऽश्विभ्या॑ङ्कृणुमोऽश्व॒युग्भ्या॑म् ।
 
+
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 26यौ देवानामिति ॥ अश्विनौ देवानां भिषजौ हव्यवाहौ हविषां वोढारौ वृष्टिद्वारेण । विश्वस्य लोकस्य दूतौ दूतवद्धितकारिणौ अमृतस्य अमृतत्वस्य गोपौ गोपायितारौ । तौ नक्षत्रं आत्मीयं जुजुषाणा सेवमानौ । छान्दसस्य लिटः कानजादेशः । तावस्मद्यज्ञं उपयाताम् । ताभ्यां अश्विभ्यां अश्वयुग्भ्यां च नमः कृणुमः कुर्मः ॥
 
-</details>
-</details>
-</div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/29_ashvibhyAM_svAhA.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h9></summary>
 
-अ॒श्विभ्याँ॒ स्वाहा॑ ऽश्व॒युग्भ्याँ॒ स्वाहा॑ ।   
-श्रोत्रा॑य॒ स्वाहा॒ श्रुत्यै॒ स्वाहा॑ ॥54॥
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/26_ashvinI/">
-<details open><summary><h10>२६ अश्विनी ...{Loading}...</h10></summary>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+27भरणीनाम् - अपेति ॥
+</details>
+</details>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/29_ashvibhyAM_svAhA.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+अश्वि᳓भ्याँ स्वा᳓हा ऽश्वयु᳓ग्भ्याँ स्वा᳓हा ।   
+श्रो᳓त्राय स्वा᳓हा श्रु᳓त्यै स्वा᳓हा ॥54॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/26_ashvinI/">
 <details open><summary>विश्वास-टिप्पनी</summary>
 
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/ashvinau.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/ashvinau.png)
@@ -2306,23 +2825,24 @@ _________________
 - "अश्विनौ व्यात्तम्" इत्युत्तरनारयणे। भरणीविषुवकाले। विवरणानि [अत्र](/jyotiSham/naxatram/chAndra-naxatram/)।
 - पश्चाद् विशुवस्थानम् अत्र।
 </details>
-</details>
 </div>  
 
 ###### भरणी - यमः
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/27_apa_pApmAnambharaNIrbharantu.md">
-<details open><summary><h7>27 अप पाप्मानम्भरणीर्भरन्तु ...{Loading}...</h7></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/27_apa_pApmAnambharaNIrbharantu.md">
 
-अप॑ पा॒प्मान॒म् भर॑णीर् +++(=35, 39, 41 Arietis)+++ **भरन्तु**।  
-तद् य॒मो राजा॒ भग॑वा॒न् **विच॑ष्टाम्**।  
-लो॒कस्य॒ राजा॑ मह॒तो म॒हान् हि।  
-सु॒गन् नᳶ॒ पन्था॒म् अभ॑यङ् **कृणोतु**।  
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+अ᳓प पाप्मा᳓नम् भ᳓रणीर् +++(=35, 39, 41 Arietis)+++ **भरन्तु**।  
+त᳓द् यमो᳓ रा᳓जा भ᳓गवान् **वि᳓चष्टाम्**।  
+लोक᳓स्य रा᳓जा महतो᳓ महा᳓न् हि᳓।  
+सुग᳓न् नᳶ प᳓न्थाम् अ᳓भयङ् **कृणोतु**।  
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/27_apa_pApmAnambharaNIrbharantu.md">
-<details open><summary><h7>27 अप पाप्मानम्भरणीर्भरन्तु ...{Loading}...</h7></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/27_apa_pApmAnambharaNIrbharantu.md">
 <details><summary>मूलम्</summary>
 
 अप॑ पा॒प्मान॒म्भर॑णीर्भरन्तु ।   
@@ -2330,27 +2850,31 @@ _________________
 लो॒कस्य॒ राजा॑ मह॒तो म॒हान् हि ।    
 सु॒गन्नᳶ पन्था॒मभ॑यङ्कृणोतु ।
 
+
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-27भरणीनाम् - अपेति ॥ भरणीः नक्षत्रं नः पापं अपभरन्तु अपहरन्तु । 'हृग्रहोर्भः' इति भत्वम् । यमश्च राजा भगवान् ऐश्वर्यवान् तदस्मदभिमतं विचष्टां पश्यतु, यथा नः सिद्ध्यति तथेति । महतः लोकस्य राजा स्वामी स्वयमपि महान् । सुगं देशान्तरगमने शोभनगमनं नः पन्था पन्थानं कर्ममार्गं वा लोकान्तरगमने अभयं हिंसारहितं कृणोतु करोतु ॥
+भरणीः नक्षत्रं नः पापं अपभरन्तु अपहरन्तु । 'हृग्रहोर्भः' इति भत्वम् । यमश्च राजा भगवान् ऐश्वर्यवान् तदस्मदभिमतं विचष्टां पश्यतु, यथा नः सिद्ध्यति तथेति । महतः लोकस्य राजा स्वामी स्वयमपि महान् । सुगं देशान्तरगमने शोभनगमनं नः पन्था पन्थानं कर्ममार्गं वा लोकान्तरगमने अभयं हिंसारहितं कृणोतु करोतु ॥
 
-</details>
-</details>
-</div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/28_yasminnakhShatre_yama.md">
-<details open><summary><h7>28 यस्मिन्नक्षत्रे यम ...{Loading}...</h7></summary>
-
-यस्मि॒न् नक्ष॑त्रे य॒म **एति॒** राजा॑।  
-यस्मि॑न्न् एनम् **अ॒भ्यषि॑ञ्चन्त** दे॒वाः।  
-तद् अ॑स्य चि॒त्रँ ह॒विषा॑ **यजाम**।  
-अप॑ पा॒प्मान॒म् भर॑णीर् **भरन्तु**॥  
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/28_yasminnakhShatre_yama.md">
-<details open><summary><h7>28 यस्मिन्नक्षत्रे यम ...{Loading}...</h7></summary>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/28_yasminnakhShatre_yama.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+य᳓स्मिन् न᳓क्षत्रे यम᳓ **ए᳓ति** रा᳓जा।  
+य᳓स्मिन्न् एनम् **अभ्य᳓षिञ्चन्त** देवाः᳓।  
+त᳓द् अस्य चित्रँ᳓ हवि᳓षा **यजाम**।  
+अ᳓प पाप्मा᳓नम् भ᳓रणीर् **भरन्तु**॥  
+
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/28_yasminnakhShatre_yama.md">
 <details><summary>मूलम्</summary>
 
 यस्मि॒न्नक्ष॑त्रे य॒म एति॒ राजा॑ ।  
@@ -2372,87 +2896,148 @@ _________________
   लो॒कस्य॒ राजा॑ मह॒तो म॒हान् हि ।   
   सु॒गन्नᳶ पन्था॒मभ॑यङ्कृणोतु ।  
 
+
    -  27भरणीनाम् - अपेति ॥ भरणीः नक्षत्रं नः पापं अपभरन्तु अपहरन्तु । 'हृग्रहोर्भः' इति भत्वम् । यमश्च राजा भगवान् ऐश्वर्यवान् तदस्मदभिमतं विचष्टां पश्यतु, यथा नः सिद्ध्यति तथेति । महतः लोकस्य राजा स्वामी स्वयमपि महान् । सुगं देशान्तरगमने शोभनगमनं नः पन्था पन्थानं कर्ममार्गं वा लोकान्तरगमने अभयं हिंसारहितं कृणोतु करोतु ॥
 
-</details>
-</details>
-</div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/30_yamAya_svAhA.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h9></summary>
 
-य॒माय॒ स्वाहा॑ ऽप॒भर॑णीभ्य॒स् स्वाहा॑ ।  
-रा॒ज्याय॒ स्वाहा॒ ऽभिजि॑त्यै॒ स्वाहा॑ ॥55॥
+
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/27_bharaNI/">
-<details open><summary><h10>२७ भरणी ...{Loading}...</h10></summary>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+29-30अमावास्यायाः - 'निवेशनी, यत्ते देवा अदधुः' इति व्याख्याते चैते 'पूर्णा पश्चात्' इत्यत्र ॥
+</details>
+</details>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/30_yamAya_svAhA.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+यमा᳓य स्वा᳓हा ऽपभ᳓रणीभ्यस् स्वा᳓हा ।  
+राज्या᳓य स्वा᳓हा ऽभि᳓जित्यै स्वा᳓हा ॥55॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/27_bharaNI/">
 <details open><summary>विश्वास-टिप्पनी</summary>
 
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/bharaNI.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/bharaNI.png)
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/stellarium/bharaNI.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/stellarium/bharaNI.png)
 +++(35, 39, and 41 Arietis)+++
 </details>
-</details>
 </div>  
 
 ###### अमावास्या
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/29_niveshanI.md">
-<details open><summary><h7>29 निवेशनी ...{Loading}...</h7></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/29_niveshanI.md">
 
-नि॒वेश॑नी स॒ङ्गम॑नी॒ वसू॑ना॒व्ँ,  
-विश्वा॑ रू॒पाणि॒ वसू॑न्य् **आवे॒शय॑न्ती**।  
-स॒ह॒स्र॒पो॒षँ सु॒भगा॒ **ररा॑णा॒**  
-सा न॒ **आग॒न्** वर्च॑सा सव्ँविदा॒ना॥  
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+निवे᳓शनी सङ्ग᳓मनी व᳓सूनाव्ँ,  
+वि᳓श्वा रूपा᳓णि व᳓सून्य् **आवेश᳓यन्ती**।  
+सहस्रपोषँ᳓ सुभ᳓गा **र᳓राणा**  
+सा᳓ न **आ᳓गन्** व᳓र्चसा सव्ँविदाना᳓॥  
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/29_niveshanI.md">
-<details open><summary><h7>29 निवेशनी ...{Loading}...</h7></summary>
-<details><summary>मूलम्</summary>
 
-नि॒वेश॑नी स॒ङ्गम॑नी॒ वसू॑ना॒व्ँविश्वा॑ रू॒पाणि॒ वसू॑न्यावे॒शय॑न्ती ।  
-स॒ह॒स्र॒पो॒षँ सु॒भगा॒ ररा॑णा॒ सा न॒ आ ग॒न्वर्च॑सा सव्ँविदा॒ना ।
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/29_niveshanI.md">
+<details><summary>Keith</summary>
+
+Holder and gatherer of riches,  
+Clad in all rich forms,  
+Granting a thousandfold prosperity,  
+The fortunate one hath come to us with radiance accordant [1].
 </details>
 
 <details><summary>मूलम्</summary>
 
+नि॒वेश॑नी स॒ङ्गम॑नी॒ वसू॑नाव्ँ॒ विश्वा॑ रू॒पाणि॒ वसू॑न्यावे॒शय॑न्ती ।  
+स॒ह॒स्र॒पो॒षँ सु॒भगा॒ ररा॑णा॒ सा न॒ आ ग॒न्वर्च॑सा सव्ँविदा॒ना ।
+________________
 नि॒वेश॑नी॒   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नि॒वेश॒नीति॑ नि-वेश॑नी । स॒ङ्गम॒नीति॑ सं-गम॑नी । वसू॑नाम् । विश्वा॑ । रू॒पाणि॑ । वसू॑नि । आ॒वे॒शय॒न्तीत्या॑-वे॒शय॑न्ती ॥ स॒ह॒स्र॒पो॒षमिति॑ सहस्र-पो॒षम् । सु॒भगेति॑ सु-भगा॑ । ररा॑णा । सा । नः॒ । एति॑ । ग॒न् । वर्च॑सा । सव्ँ॒वि॒दा॒नेति॑ सं-वि॒दा॒ना ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 निवेशनी वसूनाम्, निविशते वसूनि यस्यां तादृशी, संगमनी संगच्छन्ती वसून्यनया तादृशशीलया विश्वानि च रूपाणि यानि रूपवन्ति वसूनि तानि आवेशयन्ती अस्मात्प्रत्युत्कर्षन्ती सहस्नपोषं सहस्रपुष्टियुक्तं यथा तथा रराण ददातु । रातेर्व्यत्ययेनात्मनेपदम्, शपः श्लुः । सुभगा शोभनधना सा तादृशी सती अमावास्या नो ऽस्मान् आगन् आगच्छतु वर्चसा दीप्त्या उपलक्षिता संविदाना सम्यग्जानती । 'समो गमृच्छि' इत्यात्मनेपदम्, गमेश्छान्दसे लङि शपो लुक्, 'मो नो धातोः' ॥
 </details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-29-30अमावास्यायाः - 'निवेशनी, यत्ते देवा अदधुः' इति व्याख्याते चैते 'पूर्णा पश्चात्' इत्यत्र ॥
-</details>
-</details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/30_yatte_devA.md">
-<details open><summary><h7>30 यत्ते देवा ...{Loading}...</h7></summary>
 
-यत् ते॑ दे॒वा **अद॑धुर्** भाग॒-धेय॒म्  
-अमा॑वास्ये **स॒व्ँवस॑न्तो** महि॒त्वा।  
-सा नो॑ य॒ज्ञम् **पि॑पृहि**+++(←पालनपूरणयोः)+++ विश्व-वारे+++(←वरणे?)+++  
-र॒यिन् नो॑ **धेहि** सुभगे सु॒वीर॑म्॥  
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/10_naxatreShTakopadhAnam/29_ya_tte_devA.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+य᳓त्ते देवा᳓ अ᳓दधुर्भागधे᳓यम᳓मावास्ये सव्ँव᳓सन्तो महित्वा᳓ । सा᳓ नो यज्ञ᳓म्पिपृहि विश्ववारे रयि᳓न्नो धेहि सुभगे सुवी᳓रम् ।  
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/30_yatte_devA.md">
-<details open><summary><h7>30 यत्ते देवा ...{Loading}...</h7></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/4/10_naxatreShTakopadhAnam/29_ya_tte_devA.md">
+<details><summary>Keith</summary>
+
+What the gods placed.
+</details>
+
+<details><summary>Keith (ब्राह्मणम्)</summary>
+
+The share that the gods dwelling together  
+In greatness bestowed on thee, O new moon,  
+(Therewith) do thou fill our sacrifice, O thou of every boon  
+Grant us wealth of good heroes, O fortunate one.
+</details>
+
 <details><summary>मूलम्</summary>
 
-यत्ते॑ दे॒वा अद॑धुर्भाग॒धेय॒ममा॑वास्ये स॒व्ँवस॑न्तो महि॒त्वा ।   
+यत्ते॑ दे॒वा अद॑धुः ॥   [28]
+</details>
+
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
+
+यत्ते॑ दे॒वा अद॑धुर्भाग॒धेय॒ममा॑वास्ये सव्ँ॒वस॑न्तो महि॒त्वा ।   
 सा नो॑ य॒ज्ञम्पि॑पृहि विश्ववारे र॒यिन्नो॑ धेहि सुभगे सु॒वीर॑म् ।
+________________
+यत्ते॑ दे॒वा अद॑धुः ॥23॥
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>पद-पाठः</summary>
 
-यत्ते॑ दे॒वा अद॑धुः ॥23॥
+यत् । ते॒ । दे॒वाः । अद॑धुः ॥
+</details>
 
+<details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
+
+यत् । ते॒ । दे॒वाः । अद॑धुः । भा॒ग॒धेय॒मिति॑ भाग-धेय॑म् । अमा॑वास्य॒ इत्यमा॑-वा॒स्ये॒ । सव्ँ॒वस॑न्त॒ इति॑ सं-वस॑न्तः । म॒हि॒त्वेति॑ महि-त्वा ॥ सा । नः॒ । य॒ज्ञम् । पि॒पृ॒हि॒ । वि॒श्व॒वा॒र॒ इति॑ विश्व-वा॒रे॒ । र॒यिम् । नः॒ । धे॒हि॒ । सु॒भ॒ग॒ इति॑ सु-भ॒गे॒ । सु॒वीर॒मिति॑ सु-वीर॑म् ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अथ द्वितीयस्य याज्या - यत्ते इति त्रिष्टुप् ॥ हे अमावास्ये ते तव देवाः भागधेयं इमं होमं यत् यस्मात् अदधुः दत्तवन्तः । अमा सह सूर्याचन्द्रमसावस्यां संवसत इत्यमावास्या । 'अमावस्यदन्यतरस्याम्' इति निपात्यते, पादादित्वादामन्त्रिताद्युदात्तत्वम् । देवा विशेष्यन्ते - संवसन्तः संभूयैकत्र वसन्तमहित्वा तव माहात्म्येन । यस्मात्तव भागमिमं होममदधुः, तस्मात् हे विश्ववारे विश्वकालवति विश्वैर्वा वरणीये सा तादृशी देवैर्दत्तभागा नोस्माकमिमं यज्ञं होमात्मकं पिपृहि पूरय कामैः, पालय वा । पॄ पालनपूर्णयोः, शपः श्लुः, धातोर्ह्रस्वत्वम्, अभ्यासस्य चेत्वम् । यद्वा - पृ प्रीतौ, प्रीत्या गृहाणेत्यर्थः । महित्वशब्दात्तृतीयैकवचनस्याजादेशः । किंच - हे सुभगे कल्याणधने अनेन हविषा प्रीता त्वं नः अस्मभ्यं रयिं धनं सुवीरं कल्याणवीरयुक्तं धेहि धनं देहीति । 'वीरवीर्यौ च` इत्युत्तर पदात्तत्वम् ॥
+
+एतैर्मन्त्रैःसाध्यमुपधानं विधत्ते– “नक्षत्रेष्टका उप दधात्येतानि वै दिवो ज्योतीँ षि तान्येवाव रुन्धे” [सं. का. ५ प्र. ४ अ. १] इति।  
+नक्षत्रशब्दोपेतैर्मन्त्रैरुपधेया इष्टका नक्षत्रेष्टकाः ।   यानि कृत्तिकादीनि द्युलोकसंबन्धीनि ज्योतींषि अतस्तदु(नेनो)पधानेन तान्येव प्राप्नोति ।   प्रकारान्तरेण प्रशंसति—
+ “सुकृतां वा एतानि ज्योतिँषि यन्नक्षत्राणि तान्येवाऽऽप्नोत्यथो अनूकाशमेवैतानि ज्योतीँषि कुरुते सुवर्गस्य लोकस्यानुख्यात्यै” [सं. का. ५ प्र. ४ अ. १] इति।  
+ये शोभनं शास्त्रविहितं पुण्यं कर्म कुर्वान्ति ते सुकृतिनः ।   तेषामेतानि दिविदृश्यमानानि नक्षत्ररूपाणि ज्योतींषि ।   ते हि पुण्यकृतः स्वर्गं गत्वा भासमानविग्रहास्तान्याप्नुवन्ति ।   अत एव तदुपधानेन तदीयानि ज्योतींषि प्राप्नुवन्ति ।   अपि चैतानि नक्षत्रज्योतींष्यनु तेनोपधानेन किंचित्प्रकाशं करोति ।   स च प्रकाशः स्वर्गलोकाविर्भावाय संपद्यते ।   
+अथोपधाने कंचिद्विशेषं विधत्ते– “यत्सँ स्पृष्टा उप दध्याद्वृष्ट्यै लोकमपि दध्यादवर्षुकः पर्जन्यः स्यादसँ स्पृष्टा उप दधाति वृष्ट्या एव लोकं करोति वर्षुकः पर्जन्यो भवति” [सं. का. ५ प्र. ४ अ. १] इति।  
+इष्टकानां परस्परं स्पर्शे सति वृष्टेः स्थानस्याऽऽच्छादितत्वात्पर्जन्यो वृष्टिरहितो भवति, असंस्पर्शे तु तच्छिद्रस्य वृष्टिस्थानत्वान्मेघो वर्षणशीलो भवति ।   
+
+उपधाने विशेषान्तरं विधत्ते— “पुरस्तादन्याः प्रतीचीरुप दधाति पश्चादन्याः प्राचीस्तस्मात्प्राचीनानि च प्रतीचीनानि च नक्षत्राण्या वर्तन्ते” [सं. का. ५ प्र. ४ अ. १] इति।  
+२०९३ स्वयमातृण्णाया दक्षिणभागे पूर्वां दिशमारभ्य प्रत्यगवसानाः कृत्तिकादिवशाखान्ता इष्टका उपध्यात् ।   अनूराधाद्यपभरण्यन्ता इष्टकाः स्वयमातृण्णायां उत्तरभागे प्रतीचीं दिशमारभ्य प्रागवसानान उपदध्यात् ।   स्वयमातृण्णाया दक्षिणोत्तरभागस्थितयोः पङ्क्त्योर्मध्ये पश्चिमायां दिशि समरूपेणामावास्याख्यामिष्ठकामुपदध्यात् ।   स्वयमातृण्णाया दक्षिणोत्तरभागस्थितयोः ।   पङ्क्त्योर्मध्ये पूर्वस्यां दिशि समरूपेण पौर्णमास्याख्यामिष्टकामुपदध्यात् ।   यस्मादेवं तस्माल्लोकेऽपिर्नक्षत्राणि गोलकस्यापि दक्षिणे भाके पश्चिमाभिमुखानि, उत्तरभागे तु प्राङ्मुखानीत्वेवमावर्तन्ते ।  
+अत्र विनियोगसंग्रहः—
+कृत्ति  नक्षत्रेष्टकाः स्युः सप्तविंशतिरीरिताः ।  
+ऋचे त्वा सर्वशेषः स्यात्पूर्णा यत्त इति द्वयम् ॥    
+इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयसंहिताभाष्ये चतुर्थकाण्डे चतुर्थप्रपाठके दशमोऽनुवाकः ॥     १०॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -2460,15 +3045,16 @@ _________________
 हे अमावास्ये ते तव देवाः भागधेयं इमं होमं यत् यस्मात् अदधुः दत्तवन्तः । अमा सह सूर्याचन्द्रमसावस्यां संवसत इत्यमावास्या । 'अमावस्यदन्यतरस्याम्' इति निपात्यते, पादादित्वादामन्त्रिताद्युदात्तत्वम् । देवा विशेष्यन्ते - संवसन्तः संभूयैकत्र वसन्तमहित्वा तव माहात्म्येन । यस्मात्तव भागमिमं होममदधुः, तस्मात् हे **विश्ववारे** विश्वकालवति विश्वैर्वा वरणीये सा तादृशी देवैर्दत्तभागा नोस्माकमिमं यज्ञं होमात्मकं पिपृहि पूरय कामैः, पालय वा । पॄ पालनपूरणयोः, शपः श्लुः, धातोर्ह्रस्वत्वम्, अभ्यासस्य चेत्वम् । यद्वा - पृ प्रीतौ, प्रीत्या गृहाणेत्यर्थः । महित्वशब्दात्तृतीयैकवचनस्याजादेशः । किंच - हे सुभगे कल्याणधने अनेन हविषा प्रीता त्वं नः अस्मभ्यं रयिं धनं सुवीरं कल्याणवीरयुक्तं धेहि धनं देहीति । 'वीरवीर्यौ च` इत्युत्तर पदात्तत्वम् ॥
 ________________
 अथ द्वितीया - हे अमावास्ये! तुभ्यं देवाः यस्माद्भागधेयमादधुः संवसन्तः सहासीना महिम्ना माहात्म्येन, सा त्वं हे विश्ववारे! विश्वकाले नोऽस्माकं यज्ञं पिपृहि पालय, हे सुभगे नोऽस्मभ्यं सुवीरं शोभनपुत्रादिकं धनं धेहि इति ॥
-
-</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/31_amAvAsyAyai_svAhA.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h9></summary>
 
-अ॒मा॒वा॒स्या॑यै॒ स्वाहा॒ कामा॑य॒ स्वाहा ऽऽग॑त्यै॒ स्वाहा॑ ॥56॥
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/31_amAvAsyAyai_svAhA.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+अमावास्या᳙यै स्वा᳓हा का᳓माय स्वा᳓हा᳓ ऽऽगत्यै स्वा᳓हा ॥56॥
 </details>
+
 </div>
 </details>
 </div> 

@@ -5,4 +5,4 @@ practice_weight = 0
 
 +++
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_sAma/jaiminIyam/brAhmaNam/jaiminiya-upaniShad-brAhmaNam/04/01/"></div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_sAma/jaiminIyam/AraNyakam/upaniShad-brAhmaNam/04/01"></div>

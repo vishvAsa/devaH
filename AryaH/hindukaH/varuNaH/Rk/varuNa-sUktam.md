@@ -387,22 +387,95 @@ O Varuna, lös' ab von uns die Stricke, den untersten, den mittelsten und höchs
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/08_anasi_sthApanam/astabhnAd_dyAm.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/042/01_astabhnAddyAmasuro_vishvavedA.md">
+<details><summary>अधिमन्त्रम् - sa</summary>
 
-<details><summary>Keith</summary>
-
-The bull hath stablished the sky, the atmosphere;  
-Hath meted the breadth of the earth;  
-Hath set him in all worlds as king.  
-All these are Varuna's ordinances.
+- देवता - वरुणः
+- ऋषिः - नाभाकः काण्वः अर्चनाना वा
+- छन्दः - त्रिष्टुप्
 </details>
 
-<details><summary>मूलम् (संयुक्तम्)</summary>
+<details><summary>Thomson & Solcum</summary>
 
-अस्त॑भ्ना॒द् द्यामृ॑ष॒भो अ॒न्तरि॑क्ष॒ममि॑मीत वरि॒माण॑म्पृथि॒व्या आसी॑द॒द्विश्वा॒ भुव॑नानि स॒म्राड्विश्वेत्तानि॒ वरु॑णस्य व्र॒तानि
+अ᳓स्तभ्नाद् द्या᳓म् अ᳓सुरो विश्व᳓वेदा  
+अ᳓मिमीत वरिमा᳓णम् पृथिव्याः᳓  
+आ᳓सीदद् वि᳓श्वा भु᳓वनानि सम्रा᳓ड्  
+वि᳓श्वे᳓त् ता᳓नि व᳓रुणस्य व्रता᳓नि
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Strophic
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M  
+genre M
+_________
+**Morph**  
+ástabhnāt ← √stambhⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ásuraḥ ← ásura- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśvávedāḥ ← viśvávedas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ámimīta ← √mā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+varimā́ṇam ← varimán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+asīdat ← √sad- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+bhúvanāni ← bhúvana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+samrā́ṭ ← samrā́j- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+tā́ni ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+váruṇasya ← váruṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vratā́ni ← vratá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+अस्त॑भ्ना॒द्द्यामसु॑रो वि॒श्ववे॑दा॒ अमि॑मीत वरि॒माणं॑ पृथि॒व्याः ।  
+आसी॑द॒द्विश्वा॒ भुव॑नानि स॒म्राड्विश्वेत्तानि॒ वरु॑णस्य व्र॒तानि॑ ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 अस्त॑भ्ना॒द्द्यामृ॑ष॒भो अ॒न्तरि॑क्ष॒म्   
 अमि॑मीत वरि॒माण॑म्पृथि॒व्याः ।   
@@ -412,8 +485,137 @@ All these are Varuna's ordinances.
 
 <details><summary>पद-पाठः</summary>
 
+अस्त॑भ्नात् । द्याम् । असु॑रः । वि॒श्वऽवे॑दाः । अमि॑मीत । व॒रि॒माण॑म् । पृ॒थि॒व्याः ।  
+आ । अ॒सी॒द॒त् । विश्वा॑ । भुव॑नानि । स॒म्ऽराट् । विश्वा॑ । इत् । तानि॑ । वरु॑णस्य । व्र॒तानि॑ ॥
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
 अस्त॑भ्नात् । द्याम् । ऋ॒ष॒भः । अ॒न्तरि॑क्षम् । अमि॑मीत । व॒रि॒माण॑म् । पृ॒थि॒व्याः ।   
-एति॑ । अ॒सी॒द॒त् । विश्वा॑ । भुव॑नानि । स॒म्राडिति॑ सम्-राट् । विश्वा॑ । इत् । तानि॑ । वरु॑णस्य । व्र॒तानि॑ । 
+एति॑ । अ॒सी॒द॒त् । विश्वा॑ । भुव॑नानि । स॒म्राडिति॑ सम्-राट् । विश्वा॑ । इत् । तानि॑ । वरु॑णस्य । व्र॒तानि॑ ।
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *astabhnād* ← *astabhnāt* ← *stambh*
+- \[verb\], singular, Imperfect
+- “paralyze; stiffen; fixate; fixate; stambh; rear; stop; strengthen;
+    constipate.”
+
+_________
+
+- *dyām* ← *div*
+- \[noun\], accusative, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+
+_________
+
+- *asuro* ← *asuraḥ* ← *asura*
+- \[noun\], nominative, singular, masculine
+- “Asura; lord; asura \[word\]; sulfur.”
+
+_________
+
+- *viśvavedā* ← *viśva*
+- \[noun\]
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+
+_________
+
+- *viśvavedā* ← *vedāḥ* ← *vedas*
+- \[noun\], nominative, singular, masculine
+- “knowledge.”
+
+_________
+
+- *amimīta* ← *mā*
+- \[verb\], singular, Imperfect
+- “weigh; measure; total; last; weigh; measure; give away; transform.”
+
+_________
+
+- *varimāṇam* ← *variman*
+- \[noun\], accusative, singular, masculine
+- “width; size.”
+
+_________
+
+- *pṛthivyāḥ* ← *pṛthivī*
+- \[noun\], genitive, singular, feminine
+- “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
+
+_________
+
+- *āsīdad* ← *āsīdat* ← *āsad* ← *√sad*
+- \[verb\], singular, Imperfect
+- “approach; attack; sit down; approach; find; arrive.”
+
+_________
+
+- *viśvā* ← *viśva*
+- \[noun\], accusative, plural, neuter
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+
+_________
+
+- *bhuvanāni* ← *bhuvana*
+- \[noun\], accusative, plural, neuter
+- “Earth; being; world; bhuvana \[word\].”
+
+_________
+
+- *samrāḍ* ← *samrāj*
+- \[noun\], nominative, singular, masculine
+- “sovereign; ruler.”
+
+_________
+
+- *viśvet* ← *viśvā* ← *viśva*
+- \[noun\], nominative, plural, neuter
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+
+_________
+
+- *viśvet* ← *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+
+_________
+
+- *tāni* ← *tad*
+- \[noun\], nominative, plural, neuter
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+
+_________
+
+- *varuṇasya* ← *varuṇa*
+- \[noun\], genitive, singular, masculine
+- “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
+    varuṇādi.”
+
+_________
+
+- *vratāni* ← *vrata*
+- \[noun\], nominative, plural, neuter
+- “vrata (vote); commandment; law; oath; command; rule; custom; vrata
+    \[word\]; rule; behavior.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+असुरः- प्राणदः। द्याम्- नभः। अस्तभ्नात्- स्तम्भनं कृतवान्। विश्ववेदाः- सर्वज्ञः। पृथिव्याः-  भूम्याः। वरिमाणम्- परिमाणम्। अमिमीत- निर्ममे। सम्राट्- स्वामी। विश्वा भुवनानि-  सर्वजगन्ति। आ असीदत्- अध्यतिष्ठत्। विश्वा- सर्वाणि। इत्- एव। तानि। वरुणस्य।  व्रतानि॥१॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**विश्ववेदाः** विश्वधनः **असुरः** बलवान् वरुणः **द्याम्** **अस्तभ्नात्** । तथा **पृथिव्याः** च **वरिमाणं** परिमाणम् **अमिमीत** चक्रे । एवं निर्मितानि **विश्वा** सर्वाणि **भुवनानि** **सम्राट्** भूत्वा **आसीदत्** च अध्यतिष्ठच्च । **वरुणस्य** **तानि** एतानि **व्रतानि** कर्माणि **विश्वेत्** विश्वान्येव । अतो वर्णयितुमशक्यानीत्यर्थः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -440,6 +642,74 @@ All these are Varuna's ordinances.
 उपनद्धः सोमो वरुणो यद्-विषये 'मित्रो न एहीति' मन्त्रं पठन् मैत्रं करोतीति यद् अस्ति, एतैनैनं सोमं व्य्-अर्धयति समृद्धि-हीनं करोति, वारुण्य् ऋचा तु समर्धयति।
 </details>
 
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“The possessor of all wealth, the powerful **Varuṇa**, has fixed the heaven; he has meted the measure ofthe earth; he presides as supreme monarch over all worlds; these all are the functions of Varuṇa”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+He propped up heaven—the lord who possesses all possessions—he  measured out the expanse of the earth;  
+the sovereign king made all the living worlds his seat. All these are the  commandments of Varuṇa.
+</details>
+
+<details><summary>Griffith</summary>
+
+LORD of all wealth, the Asura propped the heavens, and measured out the broad earth's wide expanses.  
+     He, King supreme, approached all living creatures. All these are Varuna's holy operations.
+</details>
+
+<details><summary>Keith</summary>
+
+The bull hath stablished the sky, the atmosphere;  
+Hath meted the breadth of the earth;  
+Hath set him in all worlds as king.  
+All these are Varuna's ordinances.
+</details>
+
+<details><summary>Geldner</summary>
+
+Der allwissende Asura hat den Himmel gestützt und die Ausdehnung der Erde abgemessen. Alle Welten nahm der Oberkönig in Besitz. All dies sind Varuna´s Obliegenheiten.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Der weise Gott befestigte den Himmel und mass rings aus der weiten Erde Umfang; In alle Wesen senkte sich der Allherr; das alles ist durch Varuna vollendet.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Он укрепил небо, (этот) всеведущий Асура,  
+Он измерил протяженность земли.  
+Он завладел всеми мирами как вседержитель.  
+Всё ведь это заветы Варуны.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- वरुणः
+- नाभाकः काण्वः
+- त्रिष्टुप्
+- धैवतः
+</details>
+
+<details><summary>शिव शंकर शर्मा - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  पुनः वरुण का वर्णन करते हैं, (सः) वह वरुण (समुद्रः) समुद्र है अर्थात् जिससे समस्त प्राणी उत्पन्न हों, वह समुद्र। यद्यपि सकल जगद्योगि वह है, तथापि प्रत्यक्ष नहीं, किन्तु (अपीच्यः) सबके मध्य में स्थित है, पुनः (तुरः) सर्व सूर्य्यादि देवों से शीघ्रगामी है पुनः (द्याम्+इव) जैसे सूर्य आकाश में क्रमशः चढ़ता है, तद्वत् वह सबके हृदय में आरूढ़ है। (यद्) जो वरुण (आसु) इन प्रजाओं में (यजुः) दान (नि+दधे) देता है और (सः) वह (मायाः) दुष्टों की कपटताओं को (अर्चिना) ज्वालायुक्त (पदा) पद से (अस्तृणात्) नष्ट कर देता है। वह भगवान् (नाकम्) सुखमय स्थान में (आरुहत्) रहता है ॥८॥
+</details>
+
+<details><summary>शिव शंकर शर्मा - भावार्थः</summary>
+
+भावार्थभाषाः -  जिस कारण वह कपटता नहीं चाहता, अतः निष्कपट होकर उसकी उपासना करो और उसको अपने-२ हृदय में देखो ॥८॥
+</details>
+
+<details><summary>शिव शंकर शर्मा - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  स वरुणः। समुद्रोऽस्ति=यस्मात् समभिद्रवन्ति भूतानि। तथापि सः। अपीच्यः=सर्वेषां पदार्थानामन्तर्हितोऽस्ति। पुनः। तुरः सर्वेभ्यः शीघ्रतरगामी। सूर्य्या द्यामिव। स सर्वत्र। रोहति। यद्=यश्च पुनः। आसु=प्रजासु। यजुर्दानम्। निदधे। पुनः। सः। माया दुष्टानां कापटानि। अर्चिना=अर्चिष्मता तेजस्विना। पदा=चरणेन। अस्तृणात्=हिनस्ति। स नाकं सुखमयस्थानम्। आरुहत्=प्राप्तोऽस्ति। व्याख्यातमन्यत् ॥८॥
+</details>
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -751,6 +1021,14 @@ because of that guilt, o god.
 
 O Varuna, whatever the offence may be which we as men commit against the heavenly host,  
      When through our want of thought we violate thy laws, punish us not, O God, for that iniquity.
+</details>
+
+<details><summary>Keith</summary>
+
+Whatever wrong we mortals here do  
+Against the host divine,
+Whatever breach of thy laws we make through lack of thought,  
+For that sin, O god, harm us not.
 </details>
 
 <details><summary>Geldner</summary>
@@ -1129,6 +1407,14 @@ unbind all these things (so they will be) like loose things, o god. Then  would 
 
 If we, as gamesters cheat at play, have cheated, done wrong unwittingly or sinned of purpose,  
      Cast all these sins away like loosened fetters, and, Varuna let us be thine own beloved.
+</details>
+
+<details><summary>Keith</summary>
+
+As gamesters cheat in dicing,  
+What we know in truth or what we know not,  
+All that do thou, O god, loosen as it were,  
+And may we be dear to thee, O Varuna.
 </details>
 
 <details><summary>Geldner</summary>
@@ -1675,10 +1961,43 @@ prá ← prá (invariable)
 अहे॑ळमानो वरुणे॒ह बो॒ध्युरु॑शंस॒ मा न॒ आयुः॒ प्र मो॑षीः ॥
 </details>
 
+<details><summary>मूलम् - माध्यन्दिनम्</summary>
+
+तत्त्वा॑ यामि॒ ब्रह्म॑णा॒ वन्द॑मान॒स्तदा शा॑स्ते॒ यज॑मानो ह॒विर्भिः॑।  
+अहे॑डमानो वरुणे॒ह बो॒ध्युरु॑शँस॒ मा न॒ऽआयुः॒ प्रमो॑षीः ॥४९ ॥
+</details>
+
+<details><summary>मूलम् - काण्वम्</summary>
+
+तत्त्वा॑ यामि॒ ब्रह्म॑णा॒ वन्द॑मान॒स्तदाशा॑स्ते॒ यज॑मानो ह॒विर्भिः॑ । 
+अहे॑ळमानो वरुणे॒ह बो॒ध्युरु॑शँस॒ मा न॒ आयुः॒ प्रमो॑षीः ॥१२॥ १९
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+तत्त्वा॑ यामि॒ ब्रह्म॑णा॒ वन्द॑मान॒स्तदाशा॑स्ते॒ यज॑मानो ह॒विर्भिः॑ ।  
+अहे॑डमानो वरुणे॒ह बो॒द्ध्युरु॑शँस॒ मा न॒ आयु॒ᳶ प्रमो॑षीः ॥ (65)
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 तत् । त्वा॒ । या॒मि॒ । ब्रह्म॑णा । वन्द॑मानः । तत् । आ । शा॒स्ते॒ । यज॑मानः । ह॒विःऽभिः॑ ।  
 अहे॑ळमानः । व॒रु॒ण॒ । इ॒ह । बो॒धि॒ । उरु॑ऽशंस । मा । नः॒ । आयुः॑ । प्र । मो॒षीः॒ ॥
+</details>
+
+<details><summary>पदपाठः - दयानन्दादि</summary>
+
+तत्। त्वा॒। या॒मि। ब्रह्म॑णा। वन्द॑मानः। तत्। आ। शा॒स्ते॒। यज॑मानः। ह॒विर्भि॒रिति ह॒विःऽभिः॑। अहे॑डमानः। व॒रु॒ण॒। इ॒ह। बो॒धि॒। उरु॑शँ॒सेत्युरु॑ऽशँस। मा। नः॒। आयुः॑। प्र। मो॒षीः॒। ४९।
+</details>
+
+<details><summary>पदपाठः - काण्वः</summary>
+
+तत्। त्वा॒। या॒मि॒। ब्रह्म॑णा। वन्द॑मानः। तत्। आ। शा॒स्ते॒। यज॑मानः। ह॒विर्भि॒रिति॑ ह॒विःऽभिः॑। अहे॑डमानः। व॒रु॒ण॒। इ॒ह। बो॒धि॒। उरु॑शँसेत्युरु॑ऽशँस। मा। नः॒। आयुः॑। प्र। मो॒षीः॒। १२।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+तत् । त्वा॒ । या॒मि॒ । ब्रह्म॑णा । वन्द॑मानः । तत् । एति॑ । शा॒स्ते॒ । यज॑मानः । ह॒विर्भि॒रिति॑ ह॒विः-भिः॒ ॥ अहे॑डमानः । व॒रु॒ण॒ । इ॒ह । बो॒धि॒ । उरु॑शँ॒सेत्युरु॑-शँ॒स॒ । मा॒ । नः॒ । आयुः॑ । प्रेति॑ । मो॒षीः॒ ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -1837,6 +2156,191 @@ _________
 हे **वरुण** मुमूर्षुरहं त्वां प्रति **तत्** आयुः **यामि** याचे । कीदृशः । **ब्रह्मणा** प्रौढेन स्तोत्रेण **वन्दमानः** स्तुवन् । सर्वत्र **यजमानः** अपि **हविर्भिः** **तत्** आयुः **आ** **शास्ते** प्रार्थयते। त्वं च **इह** कर्मणि **अहेळमानः** अनादरमकुर्वन् **बोधि** अस्मदपेक्षितं बुध्यस्व । हे **उरुशंस** बहुभिः स्तुत्य **नः** अस्मदीयम् **आयुः** **मा** **प्र** **मोषीः** प्रमुषितं मा कुरु । सप्तदशसंख्याकेषु याञ्चाकर्मसु ' ईमहे यामि ' ( नि. ३.१९. १) इति पठितम् । चाशब्दलोपश्छान्दसः ॥ अहेळमानः । ' हेडृ अनादरे ' । अदुपदेशात् लसार्वधातुकानुदात्तत्वे शपश्च पित्त्वादनुदात्तत्वे सति धातुस्वरः शिष्यते । ततो नञ्समासे अव्ययपूर्वपदप्रकृतिस्वरत्वम् । बोधि । ' बुध अवगमने ' । लोटः सेर्हिः । ' बहुलं छन्दसि ' इति विकरणस्य लुक् । ' वा छन्दसि ' ( पा सू ३.४. ८८) इति अपित्त्वाभावेन ङित्त्वाभावात् लघू- पधगुणः । ' हुझल्म्यो हेर्धिः ' इति हेर्धिरादेशः । धातोरन्त्यलोपश्छान्दसः । मोषीः । ' मुष स्तेये ' । लोडर्थे छान्दसो लुङ् । ' वदव्रज' ' ( पा. सू ७.२. ३) इति प्राप्ताया वृद्धेः ' नेटि ' ( पा. सू ७ २. ४) इति प्रतिषेधे सति लघूपधगुणः । ' बहुलं छन्दस्यमाङ्योगेऽपि ' इति अडभावः ॥
 </details>
 
+<details><summary>उवट-टीका</summary>
+
+तत्त्वा।
+
+तदाशास्त इति तदः श्रवणादिह यदः प्रयोगः।
+
+यत्प्रयोजनं त्वां यामि याचामि ब्रह्मणा त्रयीलक्षणेन वन्दमानः स्तुवन्।
+
+तदीयं यजमान आशीस्ते हविर्भिरभ्युद्यतैः।
+
+अतः अहेडमानः अक्रुध्यन् हे वरुण, इह कर्मणि वर्तमान।
+
+अस्माकं कं प्रयोजनं यज्ञसमाप्तिलक्षणम्।
+
+बोधि बुध्यस्व।
+
+बुद्ध्वा च हे उरुशंस बहुसंस्तव्यमान।
+
+आयुः मा प्रमोषीः मा अस्माकमायुः खण्डय॥ ४९॥
+
+तत्त्वा यामि॥ २॥
+</details>
+
+<details><summary>महीधर-टीका</summary>
+
+वरुणदेवत्या त्रिष्टुप् शुनःशेपदृष्टा।
+
+अत्र द्वौ तच्छन्दौ वर्तेते तत्रैकस्य यच्छब्दपरिणामः कार्यः।
+
+हे वरुण, यजमानः हविर्भिः दत्तैः यद्धनपुत्रादिकमाशास्ते इच्छति यत्कामस्तुभ्यं हविर्दत्ते तत् यजमानेष्टं त्वा त्वामहं यामि याचामि।
+
+तत् त्वया यजमानाय दीयतामित्यर्थः।
+
+यामीति यञ्चाकर्मसु पठितः।
+
+अथापि वर्णलोपो भवति तत्त्वा यामीति यास्कोक्तेराकारलोपः।
+
+कीदृशोऽहम्।
+
+ब्रह्मणा त्रयीलक्षणेन वेदेन वन्दमानः त्वां स्तुवानः।
+
+किंच हे उरुशंस, शंसनं शंसः स्तुतिः ‘शंसु स्तुतौ’ उरुर्महान् शंसः स्तुतिर्यस्य स उरुशंसः तत्संबुद्धौ हे बहुस्तुते, इहास्मिन् स्थाने अहेडमानः हेडते क्रुध्यति हेडमानः न हेडमानोऽहेडमानः अक्रुध्यन् सन् त्वं बोधि बुध्यस्व त्वम्।
+
+मत्प्रार्थनां जानीहीत्यर्थः।
+
+‘हुझल्भ्यो हेर्धिः’ ‘वा छन्दसि’ (पा० ३। ४। ८८) इति हेरपित्त्वाद्गुणः धलोपश्छान्दसः।
+
+किंच नोऽस्माकमायुर्जीवनं मा प्रमोषीः मा चोरय ‘मुष स्तेये’ लुङ् ‘न माङयोगे’ (पा० ६। ४। ७४) इत्यडभावः।
+
+पूर्णमायुश्च देहीत्यर्थः॥ ४९॥
+
+व्याख्याता (अ० १९। क० ४९)॥२॥
+</details>
+
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+पाठस् तु - ' तत् त्वा यामि ब्रह्मणा वन्दमानस्तदा शास्ते यजमानो हविर्भिः । अहे मानो वरुणेह बोध्युरुशरस मान आयुः प्र मोषीः ' इति ।
+
+हे श्री-भगवन्नने, यत् प्रयोजनम् उद्दिश्य वा स्वायामि ।
+
+"ब्रह्मणा वेदेन 'वन्दमानः नमस्कारं कुर्वाणः । यद्वा- वन्दमानः स्तुतिं कुर्वाणो ऽहं त्वां यामि शरणं जामि । हेलनं देवापराधनं तद् विपरीतमहेलनं यज्ञादि-कर्म । तत् कुर्वाणः 'अहेळमानः । भयं 'यजमानः 'हविर्भिः अभ्युद्यतै हविर्भिः 'तत् तद् एव प्रयोजनम् आशास् ते प्रार्थयते । हे वरुण, इह 'बोधि तत्-प्रयोजनं यज्ञ-समाप्ति-लक्षणं बुध्यस्व । हे "उरुस हे बहु-स्तुत्य, 'न: 'आयुः 'मा 'प्रमोषीः अस्मद्-आयुषो ऽवखण्डनं
+मा कुरुष्व ॥ १२ ॥
+
+ए
+हे वरुण, मे ऽस्मदीयम् इमं क्रियमाणम्, हवम् आह्वानम्, श्रधि शृणु ।
+
+किं च अद्य अस्मिन्न- हनि, मृडय मां सुखय ।
+
+अपि च अवस्युर् आत्मनो ऽवनं पालनमिच्छन् अहम्, त्वाम्, आचके कामये
+अथ द्वितीयाहे वरुण, त्वा त्वाम्, तद् अभिलषितम्, ब्रह्मणा वैदिक-मन्त्रेण, वन्दमानः स्तुवन्, यामि याचे ।
+
+यजमानो ऽपि त्वां हविभिस् तदा दीर्घम् आयुर् आशास् ते ।
+
+त्वम् अहेडमानः अक्रुध्यन्, इह अस्मिन् यजमाने, तद् दीर्घम् आयुः, बोधि बुध्यस्व ।
+
+हे उरुशंस बहुस्तोतव्य वरुण, नो ऽस्माकम् आयुर् मा प्रमोषी: प्रमुष्टं मा कुरु ।
+</details>
+
+<details><summary>आनन्दबोध-टीका</summary>
+
+' तत् त्वा यामि' इति ।
+
+ततः शेषः ।
+
+हे श्रीभगवन् वरुण, यत्-प्रयोजनम् उद्दिश्य वा त्वां यामि ब्रह्मणा वन्दमानः, ब्रह्मणा वेदेन वन्दमानः नमस्कारं कुर्वाणः ।
+
+यद् वा - वन्दमानः स्तुतिं कुर्वाणो ऽहं त्वां यामि त्वां शरणं यामि व्रजामि ।
+
+तदा शास्ते यजमानः ' । अभ्युद्यतैः 'हविर्भिः 'तत् एव प्रयोजनम् " आ "शास्ते प्रार्थयते । ' वरुणेs बोधि ' । हे वरुण, इह "बोधि तस्-प्रयोजनं बोधि बुध्यस्व । हे 'उरुशंस बहुस्तुत्य । ' मा न आयुः प्र मोषी : ' । 'नः अस्माकम् ' आयुः मा प्रमोत्री आयुषश् च खण्डनं मा कुरुष्व ॥ १९ ॥
+
+' तत् त्वा यामि ' ।
+
+वारुणी त्रिष्टुप् ।
+
+शुनःशेपः ।
+
+व्याख्यातो मन्त्रः ॥ २॥
+</details>
+
+<details><summary>अनन्ताचार्य-टीका</summary>
+
+तत् त्वा यामि ' । हे श्रीभगवन् 'वरुण ।
+
+यत्-तदोर् नित्य-संबन्धात् यद् इत्य् अध्याहार्यम् ।
+
+यत् प्रयोजनम् उद्दिश्य अहं स्वा स्वां यामि शरणं व्रजामि ।
+
+कीदृशो ऽहम् ?
+
+'ब्रह्मणा वेद-मन्त्रेण त्वां 'वन्दमानः स्तुवानः, वन्दते ऽसौ वन्दमानः ।
+
+वदि अभिवादन-स्तुत्यो: शानच् ।
+
+'तत् एव प्रयोजनं "यजमानः 'हविर्भिः हूयमानैः 'आशास् ते प्रार्थयते । आङ्पूर्वः शास्तिः प्रार्थन-कर्मा । शास् अनुशिष्टौ । प्रार्थनीये ऽर्थे भावयोर् न विसंवाद इत्य् अर्थः । कीदृशो यजमानः ? 'अहेळमानः, हेळनं देवापराधनम्, तद् विपरीतमहेळनम्, देवोद्देशेन यज्ञादि-करणम्, तच्छील: अहेळमानः, अत्यास्तिक इत्य् अर्थः । एवं सति हे 'उरुशश्स, उरुभिर् बहुभिर् वदैर् देवैश् च क्रियमाणः शंसः शंसनं यस्य स तथा । हे वरुण, इह यज्ञे स्वम् अपि तत् एव प्रयोजनं 'बोधि दातुं बुध्यस्व । बुध अवगमे । लकार-व्यस्ययः । अपि च- नः अस्माकम् 'आयुः मा 'प्रमोषीः अस्मद्-आयुषो ऽवखण्डनं मा कार्षीः ॥२॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+हे वरुण ब्रह्मणा मन्त्रेण त्वामेव वन्दमानः स्तुवन्नहं तत्तदर्थम् । चतुर्थ्या लुक् । तदर्थमेव त्वां यामि भजे । यद्वा - तदेव त्वां यामि याचे । छान्दसोन्त्यलोपः, परस्मैपदं च । यजमानोपि सर्वस्तदेवाशास्ते हविर्भिश्चरुपुरोडाशादिभिः हे उरुशंस महास्तुतिक त्वमपि तामस्मदीयां विज्ञापनां इह कर्माणि अहेडमानः अक्रुद्ध्यन् बोधि बुध्यस्व । पूर्ववद्विकरणस्य लुक्, 'हुझल्भ्यो हेर्धिः', 'वा छन्दसि' इत्यपित्त्वादेव ङित्त्वाभावाद्गुणः, अन्त्यलोपश्छान्दसः । किम्पुनस्तत्प्रार्थनीयमित्याह - नः अस्माकं आयुर्दीप्तिमन्नं वा मा प्रमोषीः मा छेत्सीः तदर्थं विशं च रा[राष्ट्रं चा]वगमयेति भावः ॥  
+
+ -  तत्रैव याज्या - तत्त्वा यामि ब्रह्मणा वन्दमान इति त्रिष्टुप् ॥ इयमपि तत्रैव व्याख्याता । हे वरुण अहं ब्रह्मणा मन्त्रेण हविषा त्वां वन्दमानः स्तुवन् अहं त्वामभियाचे यजमानोऽपि तदेव हविर्भिराशास्ते त्वमपि तत्? अहेडमानः अक्रुध्यन् इह कर्मणि बुद्ध्यस्व । किंपुनः तत्? हे वरुण उरु शंसमानः अस्माकमायुर्मा प्रमोषीरिति ॥ ]
+
+इति भट्टभास्करमिश्रविरचिते यजुवेर्दभाष्ये द्वितीये काण्डे प्रथमप्रपाठके एकादशोनुवाकः ॥
+
+समाप्तश्च प्रपाठकः ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं, मा.) - विषयः</summary>
+
+पुनस्तमेव विषयमाह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं, मा.) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे वरुण विद्वज्जन ! यथा यजमानो हविर्भिस्तदाशास्ते तथा ब्रह्मणा वन्दमानोऽहं तत्त्वा यामि। हे उरुशंस ! मयाऽहेडमानस्त्वमिह न आयुर्मा प्रमोषीः शास्त्रं बोधि ॥२ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं, मा.) - भावार्थः</summary>
+
+भावार्थभाषाः -  अत्र वाचकलुप्तोपमालङ्कारः। यो यस्माद्विद्यामाप्नुयात्स तं पूर्वमभिवादयेत्। यो यस्याध्यापकः स्यात्स तस्मै विद्यादानाय कपटं न कुर्यात्, कदाचित्केनचिदाचार्य्यो नाऽवमन्तव्यः ॥२ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
+
+मनुष्यों को विद्वानों के तुल्य आचरण करना चाहिये, इस विषय का उपदेश अगले मन्त्र में किया है ॥
+
+फिर उसी विषय को अगले मन्त्र में कहा है ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे (उरुशंस) बहुतों की प्रशंसा करनेहारे (वरुण) श्रेष्ठ विद्वन् ! (ब्रह्मणा) वेद से (वन्दमानः) स्तुति करता हुआ (यजमानः) यज्ञ करनेवाला (अहेडमानः) सत्कार को प्राप्त हुआ पुरुष (हविर्भिः) होम करने के योग्य अच्छे बनाये हुए पदार्थों से जो (आ, शास्ते) आशा करते हैं, (तत्) उसको मैं (यामि) प्राप्त होऊँ तथा जिस उत्तम (आयुः) सौ वर्ष की आयुर्दा को (त्वा) तेरा आश्रय करके मैं प्राप्त होऊँ (तत्) उस को तू भी प्राप्त हो, तू (इह) इस संसार में उक्त आयुर्दा को (बोधि) जान और तू (नः) हमारी उस आयुर्दा को (मा, प्र, मोषीः) मत चोर ॥४९ ॥
+
+पदार्थान्वयभाषाः -  हे (वरुण) अति उत्तम विद्वान् पुरुष ! जैसे (यजमानः) यजमान (हविर्भिः) देने योग्य पदार्थों से (तत्) उस की (आ, शास्ते) इच्छा करता है वैसे (ब्रह्मणा) वेद के विज्ञान से (वन्दमानः) स्तुति करता हुआ मैं (तत्) उस (त्वा) तुझ को (यासि) प्राप्त होता हूँ। हे (उरुशंस) बहुत लोगों से प्रशंसा किये हुए जन ! मुझ से (अहेडमानः) सत्कार को प्राप्त होता हुआ तू (इह) इस संसार में (नः) हमारे (आयुः) जीवन वा विज्ञान को (मा) मत (प्र, मोषीः) चुरा लेवे और शास्त्र का (बोधि) बोध कराया कर ॥२ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - भावार्थः</summary>
+
+भावार्थभाषाः -  सत्यवादी, शास्त्रवेत्ता, सज्जन, विद्वान् जो चाहे वही चाहना मनुष्यों को भी करनी चाहिये। किसी को किन्हीं विद्वानों का अनादर न करना चाहिये तथा स्त्री पुरुषों को ब्रह्मचर्यत्याग, अयोग्य आहार-विहार, व्यभिचार, अत्यन्त विषयासक्ति आदि खोटे कामों से आयुर्दा का नाश कभी न करना चाहिये ॥४९ ॥
+
+भावार्थभाषाः -  इस में वाचकलुप्तोपमालङ्कार है। जो मनुष्य जिससे विद्या को प्राप्त हो, वह उसको प्रथम नमस्कार करे। जो जिस का पढ़ानेवाला हो, वह उसको विद्या देने के लिए कपट न करे, कदापि किसी को आचार्य का अपमान न करना चाहिए ॥२ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
+
+मनुष्यैर्विद्वद्वदाचरणीयमित्याह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे उरुशंस वरुण ! ब्रह्मणा वन्दमानो यजमानोऽहेडमानो हविर्भिर्यदाशास्ते, तदहं यामि यदुत्तममायुस्त्वाश्रित्याहं यामि, तत्त्वमपि प्राप्नुहि, त्वमिह तद् बोधि त्वं नोऽस्माकं तदायुर्मा प्रमोषीः ॥४९ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
+
+भावार्थभाषाः -  आप्ता विद्वांसो यदिच्छेयुस्तदेव मनुष्यैरेषितव्यम्, न केनापि केषाञ्चिद् विदुषामनादरः कार्यः। न खलु स्त्रीपुरुषैरब्रह्मचर्य्यायुक्ताहारविहारव्यभिचारातिविषयासक्त्यादिभिरायुः कदापि ह्रसनीयम् ॥४९ ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  सत्यवादी शास्रवेत्ते, सज्जम, विद्वान लोक जशी कामना करतात तशा प्रकारच्या कामना माणसांनी कराव्यात. कोणीही कोणत्याही विद्वानांचा अनादर करू नये व स्री-पुरुषांनी ब्रह्मचर्याचा त्याग, अयोगय आहार-विहार, व्यभिचार, अत्यंत, विषयासक्ती इत्यादी खोट्या कर्माने आयुष्याचा नाश कधीही करू नये.
+
+भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जो माणूस ज्याच्याकडून विद्या प्राप्त करतो त्याला प्रथम त्याने नमस्कार करावा व जो विद्या शिकवितो त्यानेही विद्या देताना कपट करू नये, कधीही कुणा आचार्याचा अपमान करू नये.
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -1862,6 +2366,16 @@ I ask this of thee with my prayer adoring; thy worshipper craves this with his o
      Varuna, stay thou here and be not angry; steal not our life from us, O thou Wide-Ruler.
 </details>
 
+<details><summary>Keith</summary>
+
+I implore this of thee, praising thee with my hymn; The sacrificer seeketh this with his offerings; Be here, not angry, O Varuna; O wide ruler, strike not away our life.
+</details>
+
+<details><summary>Griffith (माध्यन्दिनम्)</summary>
+
+I ask this of thee with my prayer, etc., as in XVIII. 49.
+</details>
+
 <details><summary>Geldner</summary>
 
 Das erbitte ich, mit beschwörendem Worte freundlich zuredend, das wünscht sich der Opfernde mit seinen Opferspenden: Sei hier ohne Groll, Varuna! Du, dessen Worte weithin gelten, raub uns nicht das Leben!
@@ -1884,6 +2398,16 @@ Dies bitt' ich dich, verehrend mit Gebeten, und darum wirbt mit Opfertrank der O
 
 - वरुणः
 - शुनःशेप आजीगर्तिः स कृत्रिमो वैश्वामित्रो देवरातः
+- निचृत्त्रिष्टुप्
+- धैवतः
+
+- बृहस्पतिर्देवता
+- शुनःशेप ऋषिः
+- निचृच्छक्वरी त्रिष्टुप्
+- धैवतः
+
+- वरुणो देवता
+- शुनःशेप ऋषिः
 - निचृत्त्रिष्टुप्
 - धैवतः
 </details>
