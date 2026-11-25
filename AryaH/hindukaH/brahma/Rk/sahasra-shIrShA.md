@@ -189,6 +189,12 @@ daśāṅgulám ← daśāṅgulá- (nominal stem)
 {case:NOM, gender:N, number:SG}
 </details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒हस्र॑शीर्षा॒ पुरु॑षः सहस्रा॒क्षः स॒हस्र॑पात् ।  
+स भूमिं॑ वि॒श्वतो॑ वृ॒त्वात्य॑तिष्ठद्दशाङ्गु॒लम् ॥
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 स॒हस्र॑ऽशीर्षा । पुरु॑षः । स॒ह॒स्र॒ऽअ॒क्षः । स॒हस्र॑ऽपात् ।  
@@ -494,6 +500,12 @@ atiróhati ← √ruh- (root)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+पुरु॑ष ए॒वेदं सर्वं॒ यद्भू॒तं यच्च॒ भव्य॑म् ।  
+उ॒तामृ॑त॒त्वस्येशा॑नो॒ यदन्ने॑नाति॒रोह॑ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -804,6 +816,12 @@ tripā́t ← tripád- (nominal stem)
 {case:NOM, gender:M, number:SG}
 </details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒तावा॑नस्य महि॒मातो॒ ज्यायाँ॑श्च॒ पूरु॑षः ।  
+पादो॑ऽस्य॒ विश्वा॑ भू॒तानि॑ त्रि॒पाद॑स्या॒मृतं॑ दि॒वि ॥
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 ए॒तावा॑न् । अ॒स्य॒ । म॒हि॒मा । अतः॑ । ज्याया॑न् । च॒ । पुरु॑षः ।  
@@ -1100,6 +1118,12 @@ abhí ← abhí (invariable)
 
 sāśanānaśané ← sāśanānaśaná- (nominal stem)  
 {case:ACC, gender:N, number:DU}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्रि॒पादू॒र्ध्व उदै॒त्पुरु॑षः॒ पादो॑ऽस्ये॒हाभ॑व॒त्पुनः॑ ।  
+ततो॒ विष्व॒ङ्व्य॑क्रामत्साशनानश॒ने अ॒भि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1433,6 +1457,12 @@ u ← u (invariable)
 {}
 </details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तस्मा॑द्वि॒राळ॑जायत वि॒राजो॒ अधि॒ पूरु॑षः ।  
+स जा॒तो अत्य॑रिच्यत प॒श्चाद्भूमि॒मथो॑ पु॒रः ॥
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 तस्मा॑त् । वि॒राट् । अ॒जा॒य॒त॒ । वि॒ऽराजः॑ । अधि॑ । पुरु॑षः ।  
@@ -1743,6 +1773,12 @@ idhmáḥ ← idhmá- (nominal stem)
 {case:NOM, gender:F, number:SG}
 </details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यत्पुरु॑षेण ह॒विषा॑ दे॒वा य॒ज्ञमत॑न्वत ।  
+व॒स॒न्तो अ॑स्यासी॒दाज्यं॑ ग्री॒ष्म इ॒ध्मः श॒रद्ध॒विः ॥
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 यत् । पुरु॑षेण । ह॒विषा॑ । दे॒वाः । य॒ज्ञम् । अत॑न्वत ।  
@@ -2023,6 +2059,12 @@ sādhyā́ḥ ← sādhyá- (nominal stem)
 
 yé ← yá- (pronoun)  
 {}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒प्तास्या॑सन्परि॒धय॒स्त्रिः स॒प्त स॒मिधः॑ कृ॒ताः ।  
+दे॒वा यद्य॒ज्ञं त॑न्वा॒ना अब॑ध्न॒न्पुरु॑षं प॒शुम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -2313,10 +2355,22 @@ yé ← yá- (pronoun)
 {}
 </details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं य॒ज्ञं ब॒र्हिषि॒ प्रौक्ष॒न्पुरु॑षं जा॒तम॑ग्र॒तः ।  
+तेन॑ दे॒वा अ॑यजन्त सा॒ध्या ऋष॑यश्च॒ ये ॥
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 तम् । य॒ज्ञम् । ब॒र्हिषि॑ । प्र । औ॒क्ष॒न् । पुरु॑षम् । जा॒तम् । अ॒ग्र॒तः ।  
 तेन॑ । दे॒वाः । अ॒य॒ज॒न्त॒ । सा॒ध्याः । ऋष॑यः । च॒ । ये ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+यो दे॒वेभ्य॒ आत॑पति । यो दे॒वानां॑ पु॒रोहि॑तः ।
+पूर्वो॒ यो दे॒वेभ्यो॑ जा॒तः । नमो॑ रु॒चाय॒ ब्राह्म॑ये । ४
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -2603,6 +2657,12 @@ tásmāt ← sá- ~ tá- (pronoun)
 
 yájuḥ ← yájus- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+तस्मा॑द्य॒ज्ञात्स॑र्व॒हुतः॒ सम्भृ॑तं पृषदा॒ज्यम् ।  
+प॒शून्ताँश्च॑क्रे वाय॒व्या॑नार॒ण्यान्ग्रा॒म्याश्च॒ ये ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -2989,6 +3049,12 @@ tásmāt ← sá- ~ tá- (pronoun)
 {case:ABL, gender:M, number:SG}
 </details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तस्मा॑द्य॒ज्ञात्स॑र्व॒हुत॒ ऋचः॒ सामा॑नि जज्ञिरे ।  
+छन्दां॑सि जज्ञिरे॒ तस्मा॒द्यजु॒स्तस्मा॑दजायत ॥
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 तस्मा॑त् । य॒ज्ञात् । स॒र्व॒ऽहुतः॑ । ऋचः॑ । सामा॑नि । ज॒ज्ञि॒रे॒ ।  
@@ -3311,6 +3377,12 @@ ucyete ← √vac- (root)
 {case:NOM, gender:M, number:DU}
 </details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तस्मा॒दश्वा॑ अजायन्त॒ ये के चो॑भ॒याद॑तः ।  
+गावो॑ ह जज्ञिरे॒ तस्मा॒त्तस्मा॑ज्जा॒ता अ॑जा॒वयः॑ ॥
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 तस्मा॑त् । अश्वाः॑ । अ॒जा॒य॒न्त॒ । ये । के । च॒ । उ॒भ॒याद॑तः ।  
@@ -3441,6 +3513,8 @@ _________
 </details>
 
 <details><summary>Wilson</summary>
+
+
 </details>
 
 <details><summary>Jamison Brereton</summary>
@@ -3583,6 +3657,12 @@ padbhyā́m ← pád- (nominal stem)
 
 śūdráḥ ← śūdrá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+यत्पुरु॑षं॒ व्यद॑धुः कति॒धा व्य॑कल्पयन् ।  
+मुखं॒ किम॑स्य॒ कौ बा॒हू का ऊ॒रू पादा॑ उच्येते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -3859,6 +3939,12 @@ prāṇā́t ← prāṇá- (nominal stem)
 
 vāyúḥ ← vāyú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+ब्रा॒ह्म॒णो॑ऽस्य॒ मुख॑मासीद्बा॒हू रा॑ज॒न्यः॑ कृ॒तः ।  
+ऊ॒रू तद॑स्य॒ यद्वैश्यः॑ प॒द्भ्यां शू॒द्रो अ॑जायत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -4153,6 +4239,12 @@ táthā ← táthā (invariable)
 {}
 </details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+च॒न्द्रमा॒ मन॑सो जा॒तश्चक्षोः॒ सूर्यो॑ अजायत ।  
+मुखा॒दिन्द्र॑श्चा॒ग्निश्च॑ प्रा॒णाद्वा॒युर॑जायत ॥
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 च॒न्द्रमाः॑ । मन॑सः । जा॒तः । चक्षोः॑ । सूर्यः॑ । अ॒जा॒य॒त॒ ।  
@@ -4439,6 +4531,12 @@ paśúm ← paśú- (nominal stem)
 
 púruṣam ← púruṣa- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+नाभ्या॑ आसीद॒न्तरि॑क्षं शी॒र्ष्णो द्यौः सम॑वर्तत ।  
+प॒द्भ्यां भूमि॒र्दिशः॒ श्रोत्रा॒त्तथा॑ लो॒काँ अ॑कल्पयन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -4953,6 +5051,12 @@ sánti ← √as- 1 (root)
 
 yátra ← yátra (invariable)  
 {}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+य॒ज्ञेन॑ य॒ज्ञम॑यजन्त दे॒वास्तानि॒ धर्मा॑णि प्रथ॒मान्या॑सन् ।  
+ते ह॒ नाकं॑ महि॒मानः॑ सचन्त॒ यत्र॒ पूर्वे॑ सा॒ध्याः सन्ति॑ दे॒वाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>

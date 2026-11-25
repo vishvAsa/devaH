@@ -114,7 +114,12 @@ samudrám ← samudrá- (nominal stem)
 
 savitā́ ← savitár- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒वि॒ता य॒न्त्रैः पृ॑थि॒वीम॑रम्णादस्कम्भ॒ने स॑वि॒ता द्याम॑दृंहत् ।  
+अश्व॑मिवाधुक्ष॒द्धुनि॑म॒न्तरि॑क्षम॒तूर्ते॑ ब॒द्धं स॑वि॒ता स॑मु॒द्रम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +234,11 @@ _________
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 
 _________
+</details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सविता- सूर्यः। आत्मसूर्य इत्याध्यात्मिके। यन्त्रैः- यमनसाधनैः। नियमैरित्याध्यात्मिके।  पृथिवीम्- भूमिम्। उपासकशरीरमित्याध्यात्मिके। अरम्णात्- अरमयत्। अस्कम्भने-  च्युतिरहिते। द्याम्- नभः। चित्तमित्याध्यात्मिके। अदृंहत्- अस्थापयत्। अतूर्ते- अत्वरमाणे  मेघे। बद्धम्- निरुद्धम्। अन्तरिक्षम्- अन्तरिक्षस्थम्। धुनिम्- कम्पयितव्यं प्रेरितव्यम्। समुद्रम्-  उदकसङ्घम्। आवरणबद्धमूलशक्तिधारामित्यध्यात्मिके। अश्वम्- तुरगम्। इव। अधुक्षत्-  दोग्धि॥१॥
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -242,7 +251,7 @@ _________
 Savitṛ fastened the earth with a restrainer device;  
 in the supportless \[realm\] Savitṛ held firm the heaven.  
 Savitṛ has milked the roaring atmosphere like a horse  
-\[and\] bound the sea in unfathomable \[depths\].  
+\[and\] bound the sea in unfathomable \[depths\].
 </details>
 
 <details><summary>Wilson</summary>
@@ -306,7 +315,7 @@ Fest hielt mit Bändern Savitar die Erde, den Himmel fest im balkenlosen Raume, 
 
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (सविता) उत्पन्न करनेवाला परमात्मा या प्रेरित करनेवाला सूर्य (यन्त्रैः) नियन्त्रणसामर्थ्यों से (पृथिवीम्) पृथ्वी को (अस्कम्भने) निरालम्बन अन्तरिक्ष में (अरम्णात्) अवलम्बित करता है-सम्भालता है, जैसे गेंद को डोरियों से सम्भालता है (सविता) परमात्मा या सूर्य (द्याम्) द्युलोक को (अदृंहत्) दृढ़रूप में ऊपर तानता है (अतूर्ते-अन्तरिक्षम्) अच्छेद्यसूक्ष्म अचल अन्तरिक्ष में (बद्धम्) अवरुद्ध (समुद्रम्) सम्यक्भिगोनेवाले (धुनिम्) मेघ को (अश्वम्-इव) घोड़े को जैसे (अधुक्षत्) अश्वारोही-घुड़सवार जैसे उत्तेजित करता है-क्लेशित करता है याकम्पाता है ॥१॥
+पदार्थान्वयभाषाः -  (सविता) उत्पन्न करनेवाला परमात्मा या प्रेरित करनेवाला सूर्य (यन्त्रैः) नियन्त्रणसामर्थ्यों से (पृथिवीम्) पृथ्वी को (अस्कम्भने) निरालम्बन अन्तरिक्ष में (अरम्णात्) अवलम्बित करता है-सम्भालता है, जैसे गेंद को डोरियों से सम्भालता है (सविता) परमात्मा या सूर्य (द्याम्) द्युलोक को (अदृंहत्) दृढ़रूप में ऊपर तानता है (अतूर्ते-अन्तरिक्षम्) अच्छेद्यसूक्ष्म अचल अन्तरिक्ष में (बद्धम्) अवरुद्ध (समुद्रम्) सम्यक्भिगोनेवाले (धुनिम्) मेघ को (अश्वम्-इव) घोड़े को जैसे (अधुक्षत्) अश्वारोही-घुड़सवार जैसे उत्तेजित करता है-क्लेशित करता है याकम्पाता है ॥१॥
 </details>
 
 <details><summary>ब्रह्ममुनि - भावार्थः</summary>
@@ -425,7 +434,12 @@ návā ← náva- 2 (nominal stem)
 
 vásanā ← vásana- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उद्यं॑यमीति सवि॒तेव॑ बा॒हू उ॒भे सिचौ॑ यतते भी॒म ऋ॒ञ्जन् ।  
+उच्छु॒क्रमत्क॑मजते सि॒मस्मा॒न्नवा॑ मा॒तृभ्यो॒ वस॑ना जहाति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -550,7 +564,11 @@ _________
     foreswear; pour away; withdraw; depart; reduce.”
 
 _________
+</details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सविता- सूर्यः। बाहू- स्वरश्मीन्। उद्यंयमीति- उद्गमयति। इव। भीमः- भयङ्करोग्निः। उभे सिचौ-  उभे द्यावापृथिव्यौ क्षरणवत्यौ। ऋञ्जन्- अलङ्कुर्वन्। यतते- प्रयतते। सिमस्मात्- सर्वस्मात्।  अत्कम्- सारम्। शुक्रम्- दीप्तिमन्तम्। उत् अजते- ऊर्ध्वमादत्ते। मातृभ्यः- सिन्धुभ्यः। नवा  वसना- अभिनवानि आच्छादकानि तेजांसि। जहाति- सृजति॥७॥
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -563,12 +581,12 @@ _________
 He (Agni) repeatedly raises up, like Savitṛ,  
 his two arms, he stretches himself to the two horizons \[of the sky\], the fierce straight-goer.  
 He impels his shining armor from his own self;  
-he leaves new clothes for the mothers.  
+he leaves new clothes for the mothers.
 </details>
 
 <details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
 
-The first hemistich compares the rising Agni with the arms of Savitṛ and specifically their stretching from horizon to horizon. So what is the foundation of this shining manifestation of Savitṛ in the night sky that stretches from horizon to horizon? It is the Milky Way.+++(5)+++ Thus, this signal feature of Savitṛ, which repeatedly finds mention in ritual incantations relates this great stellar band of light of the night sky. 
+The first hemistich compares the rising Agni with the arms of Savitṛ and specifically their stretching from horizon to horizon. So what is the foundation of this shining manifestation of Savitṛ in the night sky that stretches from horizon to horizon? It is the Milky Way.+++(5)+++ Thus, this signal feature of Savitṛ, which repeatedly finds mention in ritual incantations relates this great stellar band of light of the night sky.
 </details>
 
 <details><summary>Wilson</summary>

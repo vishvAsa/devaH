@@ -11,8 +11,8 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/36/12_shanno_devIrabhiShTaya-Apo.md">
 <details open><summary><h5>१२ शन्नो देवीरभिष्टयऽआपो ...{Loading}...</h5></summary>
 
-शन् नो॑ दे॒वीर् अ॒भिष्ट॑य॒  
-आपो॑ भवन्तु पी॒तये॑।  
-शं योर् अ॒भि स्र॑वन्तु नः ॥१२ ॥
+श᳓न् नो देवी᳓र् अभि᳓ष्टय  
+आ᳓पो भवन्तु पीत᳓ये।  
+शं᳓ यो᳓र् अभि᳓ स्रवन्तु नः ॥१२ ॥
 </details>
 </div>

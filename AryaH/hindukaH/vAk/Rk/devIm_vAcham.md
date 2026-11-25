@@ -39,7 +39,6 @@ unicode_script: devanagari
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/100/11_devIM_vAchamajanayanta.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वाक्
@@ -131,7 +130,12 @@ súṣṭutā ← súṣṭuta- (nominal stem)
 
 vā́k ← vā́c- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दे॒वीं वाच॑मजनयन्त दे॒वास्तां वि॒श्वरू॑पाः प॒शवो॑ वदन्ति ।  
+सा नो॑ म॒न्द्रेष॒मूर्जं॒ दुहा॑ना धे॒नुर्वाग॒स्मानुप॒ सुष्टु॒तैतु॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -282,7 +286,6 @@ _________
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -296,7 +299,6 @@ _________
 
 ______________
 देवास्सर्वे वाचं देवीमजनयन्त । तां वाचं विश्वरूपाः द्विपाच्चतुष्पात्तदवान्तरभेदेन बहुविधाः पशवः स्वस्वभाषारूपेण वदन्ति । सा वाग्रूपा धेनुः नः अस्मदर्थमिषमन्नं ऊर्जं क्षीरादिरसं दुहाना संपादयन्ती सुष्टुता अस्माभिः सुष्ठु वैदिकैः स्तोत्रैः 'स्तुता मन्द्रा हृष्टा सती अस्मान्प्रत्यागच्छतु ॥
-
 </details>
 
 <details><summary>Wilson</summary>
@@ -318,16 +320,13 @@ The gods begat goddess Speech. The beasts of all forms speak her. Gladdening, mi
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/100/10-11.md">
-<details open><summary><h7>10-11 …{Loading}…</h7></summary>
-<details><summary>Jamison Brereton Notes</summary>
+<details><summary><h2>10-11 ...{Loading}...</h2></summary>
 
 For the possible mythological background of these verses, as adumbrated by Oldenberg, see the published introduction.
-</details>
+
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 
@@ -361,7 +360,6 @@ Die Göttin Vāk haben die Götter erzeugt, die vielgestaltigen Thieren reden si
 - निचृत्त्रिष्टुप्
 - धैवतः
 </details>
-
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/100/10_yadvAgvadantyavichetanAni_rAShTrI.md">
@@ -388,7 +386,6 @@ Die Göttin Vāk haben die Götter erzeugt, die vielgestaltigen Thieren reden si
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/100/10_yadvAgvadantyavichetanAni_rAShTrI.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वाक्
@@ -468,7 +465,12 @@ paramám ← paramá- (nominal stem)
 
 svit ← svit (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद्वाग्वद॑न्त्यविचेत॒नानि॒ राष्ट्री॑ दे॒वानां॑ निष॒साद॑ म॒न्द्रा ।  
+चत॑स्र॒ ऊर्जं॑ दुदुहे॒ पयां॑सि॒ क्व॑ स्विदस्याः पर॒मं ज॑गाम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -594,7 +596,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -606,8 +607,7 @@ _________
 
 **राष्ट्री** राजनशीला **देवानां** **मन्द्रा** मादयित्री' वा **यत्** यदा **वाक्** **अविचेतनानि** विज्ञानरहितानप्रज्ञातानर्थान् **वदन्ती** प्रज्ञापयन्ती **निषसाद** यज्ञे निषीदति तदा **चतस्रः** दिशः प्रति **ऊर्जम्** अन्नं **पयांसि** तत्कारणभूतानि उदकानि **दुदुहे**। **अस्याः** माध्यमिकाया वाचः स्वभूतं यत् **परमं** श्रेष्ठं तत् **क्व** **जगाम** क्व गच्छतीति न दृश्यत इत्यर्थः । तथा च यास्कः - ‘ यद्वाग्वदन्त्यविचेतनान्यविज्ञातानि राष्ट्री देवानां निषसाद मन्द्रा मदना चतस्रोऽनु दिश अर्जं दुदुहे पयांसि क्व स्विदस्याः परमं जगामेति यत्पृथिवीं गच्छतीति वा यदादित्यरश्मयो हरन्तीति वा ' (निरु. ११. २८) इति ॥
 _________________
-यद्वाक् या वाग्देवता अविचेतनाति अचेतनसदृशान्मूकान्प्राणिनो वदन्ती अभिवदनक्षमान्कुर्वती । देवानां सर्वेषां राष्ट्री राष्ट्रपदा मन्द्रा हृष्टा सती निषसाद अस्मदीये कर्मण्युपविष्टा । यस्या वाग्देव्याः प्रसादात् चतस्रो दिग्देवता ऊर्जं क्षीरादिरसद्रव्यं पयांसि जलानि च दुदुहे दुहन्ति संपादयन्ति । अस्या वाग्देव्याः परमं पदं मनुष्यः क्व स्वित् जगाम, कुत्र वा प्राप्तवान् तदीयस्थानं प्राप्तुं न कोऽपि क्षम इत्यर्थः । 
-
+यद्वाक् या वाग्देवता अविचेतनाति अचेतनसदृशान्मूकान्प्राणिनो वदन्ती अभिवदनक्षमान्कुर्वती । देवानां सर्वेषां राष्ट्री राष्ट्रपदा मन्द्रा हृष्टा सती निषसाद अस्मदीये कर्मण्युपविष्टा । यस्या वाग्देव्याः प्रसादात् चतस्रो दिग्देवता ऊर्जं क्षीरादिरसद्रव्यं पयांसि जलानि च दुदुहे दुहन्ति संपादयन्ति । अस्या वाग्देव्याः परमं पदं मनुष्यः क्व स्वित् जगाम, कुत्र वा प्राप्तवान् तदीयस्थानं प्राप्तुं न कोऽपि क्षम इत्यर्थः ।
 </details>
 
 <details><summary>Wilson</summary>
@@ -629,19 +629,13 @@ When Speech, saying indistinguishable things, sat down as gladdening  ruler of t
 she milked out in four (streams) nourishment and milk drinks. Where  indeed did the highest of hers go?
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Geldner is understandably reluctant to construe avicetanā́ni with vádantī, since this attributes unintelligible speech to Speech herself, but his solution, to construe the neut. pl. loosely with niṣasā́da (“… sich bei den unvernünftigen (Geschöpfen) niederliess”), does not work syntactically. Oldenberg’s mythological explanation is preferable.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/100/10-11.md">
-<details open><summary><h7>10-11 …{Loading}…</h7></summary>
-<details><summary>Jamison Brereton Notes</summary>
+<details><summary><h2>10-11 ...{Loading}...</h2></summary>
 
 For the possible mythological background of these verses, as adumbrated by Oldenberg, see the published introduction.
-</details>
+
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 
@@ -674,7 +668,6 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 - विराट्त्रिष्टुप्
 - धैवतः
 </details>
-
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -935,7 +928,12 @@ vācáḥ ← vā́c- (nominal stem)
 
 vadanti ← √vadⁱ- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+च॒त्वारि॒ वाक्परि॑मिता प॒दानि॒ तानि॑ विदुर्ब्राह्म॒णा ये म॑नी॒षिणः॑ ।  
+गुहा॒ त्रीणि॒ निहि॑ता॒ नेङ्ग॑यन्ति तु॒रीयं॑ वा॒चो म॑नु॒ष्या॑ वदन्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1064,7 +1062,6 @@ _________
     diagnose; address; say; pronounce; express; instruct; order.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

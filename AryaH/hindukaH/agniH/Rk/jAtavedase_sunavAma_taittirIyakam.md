@@ -15,15 +15,13 @@ unicode_script = "devanagari"
 
 +++(एकैव ऋग् अत्र।)+++
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/099/01_jAtavedase_sunavAma.md">
-<details open><summary><h6>०१ जातवेदसे सुनवाम ...{Loading}...</h6></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/099/01_jAtavedase_sunavAma.md">
 
 जात᳓वेदसे+++(=जातज्ञानाय)+++ **सुनवाम** सो᳓मम्  
 अरातीयतो᳓+++(=शत्रुकामाय)+++ **नि᳓दहाति** वे᳓दः+++(=वेत्तीति)+++।  
 स᳓ नः **पर्षद्**+++(=अपारयत्)+++ अ᳓ति दुर्गा᳓णि वि᳓श्वा  
 नावे᳓व सि᳓न्धुं दुरिता᳓ऽत्यग्निः᳓॥
 
-</details>
 </div>
 </details>
 </div>
@@ -63,7 +61,7 @@ unicode_script = "devanagari"
 
 वि᳓श्वानि नो दुर्ग᳓हा जातवेदः  
 सि᳓न्धुं न᳓ नावा᳓ दुरिता᳓ति पर्षि  
-अ᳓ग्ने अत्रिव᳓न् न᳓मसा गृणानो᳓  
+अ᳓ग्ने अत्रिव᳓न् न᳓मसा+++(→म᳓नसा तैत्तिरीये)+++ गृणानो᳓  
 अस्मा᳓कम् बोधि अविता᳓ तनू᳓नाम्
 </details>
 </div>
@@ -82,6 +80,12 @@ unicode_script = "devanagari"
 सि᳓न्धुं न᳓ नावा᳓ दुरिता᳓ति पर्षि  
 अ᳓ग्ने अत्रिव᳓न् न᳓मसा गृणानो᳓  
 अस्मा᳓कम् बोधि अविता᳓ तनू᳓नाम्
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+विश्वा॑नि नो दु॒र्गहा॑ जातवेद॒स्सिन्धुं॒ न ना॒वा दु॑रि॒ताऽति॑पर्षि ।  
+अग्ने॑ अत्रि॒वन्मन॑सा गृणा॒नो॑ऽस्माकं॑ बोध्यवि॒ता त॒नूना॑म् ।
 </details>
 
 <details><summary>Vedaweb annotation</summary>
@@ -151,7 +155,12 @@ bodhi ← √bhū- (root)
 
 tanū́nām ← tanū́- (nominal stem)  
 {case:GEN, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वा॑नि नो दु॒र्गहा॑ जातवेदः॒ सिन्धुं॒ न ना॒वा दु॑रि॒ताति॑ पर्षि ।  
+अग्ने॑ अत्रि॒वन्नम॑सा गृणा॒नो॒३॒॑ऽस्माकं॑ बोध्यवि॒ता त॒नूना॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -281,12 +290,21 @@ _________
 - “body; self; own(a); person; form.”
 
 _________
+</details>
 
+<details><summary>रङ्गनाथः</summary>
+
+जातवेदः- जातविद्य। सिन्धुम्- अर्णवम्। नावा- प्लवेन। न- इव। नः- अस्मान्। विश्वानि-  सर्वेभ्यः। दुर्गहा- दुर्गहनेभ्यः। दुरिता- अघेभ्यः। अति पर्षि- अति पारय। अग्ने- पावक क्रतो।  अत्रिवत्- अत्रेर्यथा तथा। नमसा- नमस्कारेण। गृणानः- स्तुतः सन्। अस्माकम्- नः। तनूनाम्-  देहानाम्। अविता- रक्षिता सन्। बोधि- बुध्यस्व॥९॥
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **जातवेदः** **नः** अस्माकं **दुर्गहा** दुःखेन गाह्यानि दुःखेन भोग्यानि **विश्वानि** **दुरितानि** **अति** **पर्षि** अतिपारय । **सिन्धुं** **न** **नावा** नदीं नाविको यथा तद्वत् । हे **अग्ने** **अत्रिवत्** अत्रेर्यथा तथा अस्माकं **नमसा** स्तोत्रेण **गृणानः** स्तूयमानः सन् **अस्माकं** **तनूनाम्** **अविता** रक्षकः **बोधि** बुध्यस्व ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+विश्वानि न इति 'जुष्टो दमूनाः' इत्यत्र व्याख्याता ॥
 </details>
 
 <details><summary>Wilson</summary>
@@ -312,6 +330,11 @@ Over all woes and dangers, Jatavedas, bear us as in a boat across a river.
 <details><summary>Oldenberg</summary>
 
 Bring us across all difficulties and dangers,
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+O fire, destroyer of the sorrows, you make us across all the sins as one crosses the sea by the boat; O fire, like Atri, become the waking protector of our bodies uttering (protective Mantras) by mind.
 </details>
 
 <details><summary>Geldner</summary>
