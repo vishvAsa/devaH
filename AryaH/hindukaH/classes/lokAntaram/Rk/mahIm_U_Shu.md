@@ -245,7 +245,7 @@ of mighty rule, unaging, broad, giving good shelter, Aditi, guiding well.
 
 सुप्रणीतिं शोभना प्रणीतिः प्रणयनं भजनं यस्यास्ताम्।
 
-‘अदितिरदीना देवमाता’ (निरु० ४। २२) इति॥ ५॥
+‘अदितिरदीना देवमाता’ (निरु॰ ४। २२) इति॥ ५॥
 </details>
 
 <details><summary>आनन्दबोध-टीका</summary>
