@@ -16,7 +16,8 @@ unicode_script: devanagari
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/041/01_prAtaragniM_prAtarindraM.md">
+<div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/041/01_prAtaragniM_prAtarindraM.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - लिङ्गोक्तदेवताः
@@ -363,6 +364,7 @@ Frühmorgens laden Agni wir und Indra ein, frühmorgens Mitra-Varuna, die Ritter
 
 भावार्थभाषाः -  माणसांनी रात्रीच्या प्रहरी उठून आवश्यक कार्य करून ध्यानपूर्वक शरीरातील किंवा ब्रह्मांडातील विद्युत, प्राण, उदान, मित्र, सूर्य, चंद्र, ऐश्वर्याची पुष्टी, परमेश्वर, औषधी व जीव हे विचारपूर्वक जाणावेत. नंतर अग्निहोत्र इत्यादी कार्य करून सर्व जगावर उपकार करून कृतकृत्य व्हावे. ॥ १ ॥
 </details>
+</details>
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/02_prAtarjitaM_bhagamugraM.md">
@@ -376,7 +378,8 @@ Frühmorgens laden Agni wir und Indra ein, frühmorgens Mitra-Varuna, die Ritter
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/041/02_prAtarjitaM_bhagamugraM.md">
+<div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/041/02_prAtarjitaM_bhagamugraM.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - भगः
@@ -760,25 +763,25 @@ _______________
 
 <details><summary>सायण-टीका (काण्वी)</summary>
 
-तृतीय:-
+तृतीयः —  
+अथ उषसः अनन्तरम् उद्यन्तं सूर्यम् आह —  
+अदितेः देव-मातुः पुत्रं प्रातर्जितं प्रातः असुरान् जयतीति प्रातर्जितम् ।  
+उदय-काले असुराः सूर्यम् आवृण्वन्ति इति प्रसिद्धम् ।  
+उग्रम् उद्गूर्ण-बलम् अति तेजस्विनं भगम्,  
+> ऐश्वर्यस्य समग्रस्य धर्मस्य यशसः श्रियः ।  
+> ज्ञान-वैराग्ययोश् चैव षण्णां भग इतीरणा  
+इति ।  
+एतेषु अर्थेषु प्रसिद्धः अत्र ऐश्वर्याधिक्याद् वा सूर्य एव उच्यते ।  
+भगम् ऐश्वर्यवन्तं ज्ञानवन्तं वा, ऐश्वर्य-प्रदातृत्वेन वा भगः सूर्यः, तं सूर्यं वयं हुवेम आह्वयेम स्तूयाम इत्य् अर्थः ।  
+यः विधर्ता विशेषेण जगतः धारयिता, उदिते हि सूर्ये सर्वे प्राणिनः तत्तत्-कार्येषु व्याप्रियन्ते इति प्रसिद्धम् ।  
+आध्रश्चित् [[दारिद्रयेण|दारिद्र्येण]] पीडितः पुरुषः अपि मन्यमानः मन्यतिः अर्चति-कर्मा, पूजयन्, यं भगं भक्षि, [[छान्दसः लुप्|छान्दसो लुक्]], दारिद्र्य-नाशाय भज इत्याह ।  
+"उद्यन्तम् अस्तं यान्तम् आदित्यम् अभिध्यायन् [[स्तुति|स्तुतिं]] कुर्वन् ब्राह्मणो विद्वान् सकलं भद्रम् अश्नुते" इति आम्नानात् ।  
+तुरश्चित् आतुरः व्याधि-पीडितः अपि पुरुषः यं देवं तन्-निवृत्तये भजते इत्य् आह ।  
+राजापि ऐश्वर्य-स्थितये जन्मान्तरे ऽपि राजत्वं प्राप्तुं भजते इत्य् आह ।  
+एतद् उपलक्षणम् ।  
+सर्वैः अपि तत्तत्-फल-प्राप्तये आदित्य एव सेव्यते इत्य् अर्थः ।
 
-अथ उषसः अनन्तरम् उद्यन्तं सूर्यम् आह - अदितेः देवम् आतुः पुत्रं प्रातर्जितं प्रातः असुरान् जयतीति प्रातजितम् ।
-
-उदय-काले असुराः सूर्यम् आवृण्वन्ति इति प्रसिद्धम् ।
-
-उग्रम् उद्गूर्ण-बलम् अति तेजस्विनं भगम्, “ऐश्वर्यस्य समग्रस्य धर्मस्य यशसः श्रियः । ज्ञान–वैराग्ययोश्चैव षण्णां भग इतीरणा” इति ।
-
-एतेषु अर्थेषु प्रसिद्धः अत्र ऐश्वर्याधिक्याद् वा सूर्य एव उच्यते ।
-
-भगम् ऐश्वर्यवन्तं ज्ञानवन्तं वा, ऐश्वर्य-प्रदातृत्वेन वा भगः सूर्यः, तं सूर्यं वयं हु वेम आह्वयेम स्तूयाम इत्य् अर्थः ।
-
-यः विधर्ता विशेषेण
-जगतः धारयिता, उदिते हि सूर्ये सर्वे प्राणिनः तत्तत् कार्येषु व्याप्रियन्ते इति प्रसिद्धम् ।
-
-आध्रश्चित् दारिद्रयेण पीडितः पुरुषः अपि मन्यमानः मन्यतिः अर्चतिकर्मा, पूजयन्, यं भगं भक्षि, छान्दसः लुप्, दारिद्र्यनाशाय भज इत्याह ।
-
-“उद्यन्तम् अस्तं यान्तम् आदित्यम् अभिध्यायन् स्तुति कुर्वन् ब्राह्मणो विद्वान् सकलं भद्रम् अश्नुते" इति आम्नानात् । तुरश्चित् आतुरः व्याधिपीडितः अपि पुरुषः यं देवं तन्-निवृत्तये भजते इत्य् आह । राजापि ऐश्वर्य-स्थितये जन्मान्तरे ऽपि राजत्वं प्राप्तु ं भजते इत्य् आह । एतत् उप- लक्षणम् । सर्वैः अपि तत् तत् फल-प्राप्तये आदित्य एव सेव्यते इत्य् अर्थः ।
-चतुर्थः-
+चतुर्थः —
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
@@ -933,6 +936,7 @@ Wir wollen den, der früh gewinnt und austheilt, den mächt'gen Bhaga, den Aditj
 
 भावार्थभाषाः -  या मंत्रात उपमा व वाचकलुप्तोपमालंकार आहेत. माणसांनी प्रातःकाळी उठून सर्वांचा आधार असलेला परमेश्वराचे ध्यान करून व करण्यायोग्य काम करून विविध प्रकारचे चिंतन करून धर्म व पुरुषार्थाने प्राप्त झालेले ऐश्वर्य भोगावे व भोगवावे. हा ईश्वराचा उपदेश आहे. ॥ २ ॥
 </details>
+</details>
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/03_bhaga_praNetarbhaga.md">
@@ -946,7 +950,8 @@ Wir wollen den, der früh gewinnt und austheilt, den mächt'gen Bhaga, den Aditj
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/041/03_bhaga_praNetarbhaga.md">
+<div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/041/03_bhaga_praNetarbhaga.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - भगः
@@ -1426,6 +1431,7 @@ O Bhaga, Führer, Bhaga, wahrhaft reicher, begünst'ge, Bhaga, dieses Lied, uns 
 
 भावार्थभाषाः -  जी माणसे ईश्वराची आज्ञा, प्रार्थना, ध्यान व उपासना प्रथम करून नंतर पुरुषार्थ करतात ती धर्मात्मा बनून साह्यकर्ती होतात व संपूर्ण ऐश्वर्य प्राप्त करतात. ॥ ३ ॥
 </details>
+</details>
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/04_utedAnIM_bhagavantaH.md">
@@ -1439,7 +1445,8 @@ O Bhaga, Führer, Bhaga, wahrhaft reicher, begünst'ge, Bhaga, dieses Lied, uns 
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/041/04_utedAnIM_bhagavantaH.md">
+<div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/041/04_utedAnIM_bhagavantaH.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - भगः
@@ -1769,6 +1776,7 @@ Auch jetzt versorge uns mit reichem Antheil beim Tages Anbruch und in Tages Mitt
 
 भावार्थभाषाः -  जी माणसे जगदीश्वराचा आश्रय घेऊन आज्ञा पालन करून विद्वानांच्या संगतीने पुरुषार्थी बनतात व धर्म, अर्थ, काम मोक्षाच्या सिद्धीसाठी प्रयत्न करतात ती संपूर्ण ऐश्वर्ययुक्त होतात व भूत, भविष्य, वर्तमान या तिन्ही काळी सुखी होतात. ॥ ४ ॥
 </details>
+</details>
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_15/05_bhaga_eva.md">
@@ -1784,7 +1792,8 @@ Auch jetzt versorge uns mit reichem Antheil beim Tages Anbruch und in Tages Mitt
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/041/05_bhaga_eva.md">
+<div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/041/05_bhaga_eva.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - भगः
@@ -2299,6 +2308,7 @@ Ja reich an Gaben sei, o Götter, Bhaga, durch ihn auch mögen wir an Gaben reic
 
 भावार्थभाषाः -  हे जगदीश्वरा ! तू संपूर्ण ऐश्वर्यवान असून सर्वांना सर्व ऐश्वर्य देतोस, त्या साह्यामुळे सर्व माणसे धनवान व्हावीत. ॥ ५ ॥
 </details>
+</details>
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/06_samadhvarAyoShaso_namanta.md">
@@ -2314,7 +2324,8 @@ Ja reich an Gaben sei, o Götter, Bhaga, durch ihn auch mögen wir an Gaben reic
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/041/06_samadhvarAyoShaso_namanta.md">
+<div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/041/06_samadhvarAyoShaso_namanta.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - भगः
@@ -2755,6 +2766,7 @@ Zum Opfer mögen sich die Morgenröthen, wie Dadhikra zum hellen Orte wenden; Si
 
 भावार्थभाषाः -  या मंत्रात उपमालंकार आहे. जी माणसे आळस सोडून प्रातःकाळी उठून वेगयुक्त घोड्याप्रमाणे शीघ्र जाणे-येणे करून ऐश्वर्य प्राप्त करतात व नम्र असतात तीच पवित्र परमात्म्याला प्राप्त करू शकतात. ॥ ६ ॥
 </details>
+</details>
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/07_ashvAvatIrgomatIrna_uShAso.md">
@@ -2768,7 +2780,8 @@ Zum Opfer mögen sich die Morgenröthen, wie Dadhikra zum hellen Orte wenden; Si
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/041/07_ashvAvatIrgomatIrna_uShAso.md">
+<div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/041/07_ashvAvatIrgomatIrna_uShAso.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -3082,6 +3095,7 @@ Stets mögen uns die Morgenröthen leuchten die schönen, reich an Rossen, Rinde
 <details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
 
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. प्रभातवेळही झोपेत असलेल्या व जीवन्मृत असणाऱ्यांमध्ये चैतन्य निर्माण करून कार्यात प्रवृत्त करते तसेच विदुषी स्त्रियांनी सर्व अविद्यायुक्त स्त्रियांना अध्यापन व उपदेश करून चांगल्या कार्यात प्रवृत्त करावे. ॥ ७ ॥
+</details>
 </details>
 </div>
 </details>

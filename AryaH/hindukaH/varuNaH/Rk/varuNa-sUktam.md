@@ -38,7 +38,8 @@ title = "वरुण-सूक्तम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/024/15_uduttamaM_varuNa.md">
+<div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/024/15_uduttamaM_varuNa.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -372,6 +373,7 @@ O Varuna, lös' ab von uns die Stricke, den untersten, den mittelsten und höchs
 
 भावार्थभाषाः -  जे ईश्वराची आज्ञा यथायोग्य नित्य पाळतात, तेच पवित्र असतात व सर्व दुःखबंधनांतून पृथक होऊन निरंतर सुख प्राप्त करतात.
 </details>
+</details>
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/astabhnAd_dyAm.md">
@@ -387,7 +389,8 @@ O Varuna, lös' ab von uns die Stricke, den untersten, den mittelsten und höchs
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/042/01_astabhnAddyAmasuro_vishvavedA.md">
+<div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/042/01_astabhnAddyAmasuro_vishvavedA.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -787,6 +790,7 @@ Der weise Gott befestigte den Himmel und mass rings aus der weiten Erde Umfang; 
 
 पदार्थान्वयभाषाः -  स वरुणः। समुद्रोऽस्ति=यस्मात् समभिद्रवन्ति भूतानि। तथापि सः। अपीच्यः=सर्वेषां पदार्थानामन्तर्हितोऽस्ति। पुनः। तुरः सर्वेभ्यः शीघ्रतरगामी। सूर्य्या द्यामिव। स सर्वत्र। रोहति। यद्=यश्च पुनः। आसु=प्रजासु। यजुर्दानम्। निदधे। पुनः। सः। माया दुष्टानां कापटानि। अर्चिना=अर्चिष्मता तेजस्विना। पदा=चरणेन। अस्तृणात्=हिनस्ति। स नाकं सुखमयस्थानम्। आरुहत्=प्राप्तोऽस्ति। व्याख्यातमन्यत् ॥८॥
 </details>
+</details>
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -823,7 +827,8 @@ Der weise Gott befestigte den Himmel und mass rings aus der weiten Erde Umfang; 
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/089/05_yatkiM_chedaM.md">
+<div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/089/05_yatkiM_chedaM.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -1172,6 +1177,7 @@ Was wir auch hier, o Varuna, nach Menschen Art für Unrecht üben am Geschlecht 
 
 पदार्थान्वयभाषाः -  (वरुण) हे परमात्मन् ! (दैव्ये, जने) सतां समुदाये (यत्, किञ्च) यत् किञ्चिदपि (इदम्) एतत् (अभि, द्रोहम्) द्वेषभावं (मनुष्याः) वयं नरः (चरामसि) कुर्मः, तथा (अचित्ती) ज्ञानरहितः सन् (यत्) यत्किञ्चित् (तव) ते (धर्मा) धर्मं (युयोपिम) त्यजामि (तस्मात्, एनसः) ततोऽपराधात् (देव) हे दिव्यात्मन् ! (नः) अस्मान् (मा, रीरिषः) मा हिंसीः ॥५॥ एकोननवतितमं सूक्तं पञ्चमोऽनुवाक एकादशो वर्गश्च समाप्तः।
 </details>
+</details>
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/085/08_kitavAso_yadriripurna.md">
@@ -1187,7 +1193,8 @@ Was wir auch hier, o Varuna, nach Menschen Art für Unrecht üben am Geschlecht 
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/085/08_kitavAso_yadriripurna.md">
+<div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/085/08_kitavAso_yadriripurna.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -1633,6 +1640,7 @@ Wenn wir getäuscht beim Spiel wie falsche Spieler, wenn wir gefehlt, unwissend 
 
 भावार्थभाषाः -  हे माणसांनो! छळ कपट करणाऱ्या माणसांनी द्युत वगैरे कर्म केल्यास ती ताडना करण्यायोग्य असतात व जी सत्याचरण करतात ती सत्कार करण्यायोग्य असतात. ॥ ८ ॥
 </details>
+</details>
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -1669,7 +1677,8 @@ Wenn wir getäuscht beim Spiel wie falsche Spieler, wenn wir gefehlt, unwissend 
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/024/14_ava_te.md">
+<div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/024/14_ava_te.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -2074,6 +2083,7 @@ O Varuna, wir wenden deinen Zorn ab, durch Opfer, durch Gebet, durch Trankesspen
 
 भावार्थभाषाः -  माणसांनी परमेश्वरनिर्मित संसारात निर्माण केलेले पदार्थ पाहून पापकर्माचे फल शिथिल होईल असे अनुष्ठान करावे. जसे अज्ञानी पुरुषाला पापफळ दुःखी करतात, तसेच ज्ञानी पुरुषाला दुःख देत नाहीत. ॥ १४ ॥
 </details>
+</details>
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/11_tattvA_yAmi.md">
@@ -2089,7 +2099,8 @@ O Varuna, wir wenden deinen Zorn ab, durch Opfer, durch Gebet, durch Trankesspen
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/024/11_tattvA_yAmi.md">
+<div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/024/11_tattvA_yAmi.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -2498,26 +2509,27 @@ _________
 
 <details><summary>सायण-टीका (काण्वी)</summary>
 
-पाठस् तु - ' तत् त्वा यामि ब्रह्मणा वन्दमानस्तदा शास्ते यजमानो हविर्भिः । अहे मानो वरुणेह बोध्युरुशरस मान आयुः प्र मोषीः ' इति ।
+पाठस् तु —  
+> तत् त्वा यामि ब्रह्मणा वन्दमानस् तद् आशास्ते यजमानो हविर्भिः ।  
+> [[अहे मानो|अहेळमानो]] वरुणेह [[बोध्युरुशरस मान|बोध्युरुशँस मा न]] आयुः प्र मोषीः
 
-हे श्री-भगवन्नने, यत् प्रयोजनम् उद्दिश्य वा स्वायामि ।
+इति ।  
+हे [[श्री भगवन्नने|श्री-भगवन्नग्ने]], यत् प्रयोजनम् उद्दिश्य [[वा स्वायामि|त्त्वा यामि]] ।  
+'ब्रह्मणा वेदेन 'वन्दमानः नमस्कारं कुर्वाणः ।  
+यद् वा — वन्दमानः स्तुतिं कुर्वाणो ऽहं त्वां यामि शरणं [[जामि|गामि]] ।  
+हेलनं देवापराधनं तद्-विपरीतमहेलनं यज्ञादि-कर्म ।  
+तत्-कुर्वाणः 'अहेळमानः ।  
+[[भयं|अयं]] 'यजमानः 'हविर्भिः [[अभ्युद्यतै|अभ्युद्यतैः]] हविर्भिः 'तत्-तद् एव प्रयोजनम् आशास्ते प्रार्थयते ।  
+हे वरुण, इह 'बोधि तत्-प्रयोजनं यज्ञ-समाप्ति-लक्षणं बुध्यस्व ।  
+हे [[उरुस|उरुशँस]] हे बहु-स्तुत्य, 'नः 'आयुः 'मा 'प्रमोषीः अस्मद्-आयुषो ऽवखण्डनं मा कुरुष्व ॥ १२ ॥
 
-"ब्रह्मणा वेदेन 'वन्दमानः नमस्कारं कुर्वाणः । यद्वा- वन्दमानः स्तुतिं कुर्वाणो ऽहं त्वां यामि शरणं जामि । हेलनं देवापराधनं तद् विपरीतमहेलनं यज्ञादि-कर्म । तत् कुर्वाणः 'अहेळमानः । भयं 'यजमानः 'हविर्भिः अभ्युद्यतै हविर्भिः 'तत् तद् एव प्रयोजनम् आशास् ते प्रार्थयते । हे वरुण, इह 'बोधि तत्-प्रयोजनं यज्ञ-समाप्ति-लक्षणं बुध्यस्व । हे "उरुस हे बहु-स्तुत्य, 'न: 'आयुः 'मा 'प्रमोषीः अस्मद्-आयुषो ऽवखण्डनं
-मा कुरुष्व ॥ १२ ॥
-
-ए
-हे वरुण, मे ऽस्मदीयम् इमं क्रियमाणम्, हवम् आह्वानम्, श्रधि शृणु ।
-
-किं च अद्य अस्मिन्न- हनि, मृडय मां सुखय ।
-
-अपि च अवस्युर् आत्मनो ऽवनं पालनमिच्छन् अहम्, त्वाम्, आचके कामये
-अथ द्वितीयाहे वरुण, त्वा त्वाम्, तद् अभिलषितम्, ब्रह्मणा वैदिक-मन्त्रेण, वन्दमानः स्तुवन्, यामि याचे ।
-
-यजमानो ऽपि त्वां हविभिस् तदा दीर्घम् आयुर् आशास् ते ।
-
-त्वम् अहेडमानः अक्रुध्यन्, इह अस्मिन् यजमाने, तद् दीर्घम् आयुः, बोधि बुध्यस्व ।
-
-हे उरुशंस बहुस्तोतव्य वरुण, नो ऽस्माकम् आयुर् मा प्रमोषी: प्रमुष्टं मा कुरु ।
+ए हे वरुण, मे ऽस्मदीयम् इमं क्रियमाणम्, हवम् आह्वानम्, [[श्रधि|श्रुधि]] शृणु ।  
+किं च अद्य अस्मिन्नहनि, मृडय मां सुखय ।  
+अपि च अवस्युर् आत्मनो ऽवनं पालनम् इच्छन् अहम्, त्वाम्, आचके कामये ।  
+अथ द्वितीया — हे वरुण, त्वा त्वाम्, तद् अभिलषितम्, ब्रह्मणा वैदिक-मन्त्रेण, वन्दमानः स्तुवन्, यामि याचे ।  
+यजमानो ऽपि त्वां [[हविभिस्|हविर्भिस्]] तदा दीर्घम् आयुर् आशास्ते ।  
+त्वम् [[अहेडमानः|अहेळमानः]] अक्रुध्यन्, इह अस्मिन् यजमाने, तद् दीर्घम् आयुः, बोधि बुध्यस्व ।  
+हे उरुशंस बहु-स्तोतव्य वरुण, नो ऽस्माकम् आयुर् मा प्रमोषीः प्रमुष्टं मा कुरु ।
 </details>
 
 <details><summary>आनन्दबोध-टीका</summary>
@@ -2758,6 +2770,7 @@ Dies bitt' ich dich, verehrend mit Gebeten, und darum wirbt mit Opfertrank der O
 <details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
 
 भावार्थभाषाः -  या मंत्रात श्लेषालंकार आहे. माणसांनी वेदोक्त रीतीने परमेश्वर व सूर्याला जाणून सुख प्राप्त करून घ्यावे. कोणत्याही माणसाने परमेश्वर व सूर्यविद्येचा अनादर करू नये. सदैव ईश्वराच्या आज्ञेचे पालन करून त्याने निर्माण केलेल्या सूर्य इत्यादी पदार्थांना त्यांच्या गुणांसह जाणून त्यांचा उपयोग करून घ्यावा व आपले आयुष्य निरंतर वाढवावे. ॥ ११ ॥
+</details>
 </details>
 </div>
 </details>

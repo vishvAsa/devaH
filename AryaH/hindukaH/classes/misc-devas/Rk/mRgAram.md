@@ -1487,9 +1487,8 @@ May they free us from evil.
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="6" title="सर्वाष्टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/34/09_anu_no-dyAnumatiryajnam.md">
-
-<details><summary><h5>सर्वाष्टीकाः …{Loading}…</h5></summary>
+<div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/34/09_anu_no-dyAnumatiryajnam.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>Griffith</summary>
 
 Anumati this day approve our sacrifice among the Gods! Oblation-bearing Agni be, and thou, bliss to the worshipper!
@@ -1616,7 +1615,6 @@ A joy to the giver.
 भावार्थभाषाः -  जी माणसे सत्कर्माच्या अनुष्ठानाला मान्यता देतात व वाईट कर्माच्या अनुष्ठानाचा निषेध करतात त्यांनी अग्नी वगैरे विद्येद्वारे सर्वांना सुख द्यावे.
 </details>
 </details>
-
 </div>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/24_anv_id.md">
@@ -1632,9 +1630,8 @@ A joy to the giver.
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="6" title="सर्वाष्टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/34/08_anvidanumate_tvam.md">
-
-<details><summary><h5>सर्वाष्टीकाः …{Loading}…</h5></summary>
+<div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/34/08_anvidanumate_tvam.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>Griffith</summary>
 
 Do thou, in truth, Anumati, assent and grant us happiness. Urge us to strength and energy: prolong the days we have to live.
@@ -1761,7 +1758,14 @@ Impel us to purpose, to skill; may he prolong our lifespans.
 
 <details><summary>सायण-टीका (काण्वी)</summary>
 
-हे अनुमते, “कलाहीने सानुमतिः पूर्णे राका निशाकरे" ( अमर०, का० १, कालव० ८ ) इति । एक-कलाहीना पौर्णमासी अनुमतिरित्युच्यते । एतन्-नामिके देवते । त्वम् ' इत् शब्दः एवार्थः । अनुमन्यासै एव, अनुमते पूजितैव भवेः । किं च नः अस्माकं शं सुखं कुरु । तथा दक्षाय, स्व-फल-प्रदाने समर्थाय क्रत्वे यज्ञकर्मणे दक्षाय, 'दक्ष वृद्धौ' अभिवृद्धये च नः अस्मान् हिनु, 'हि गतौ वृद्धौ च' गमय । तथा नः अस्माकम्, आयूँषि देहावस्थित-हेतु-भूतानि कालावयव-लक्षणानि प्रतारिषत्, पुरुष-व्यत्ययः ।
+हे अनुमते, “कलाहीने सानुमतिः पूर्णे राका निशाकरे" ( अमर०, का० १, कालव० ८ ) इति ।  
+एक-कला-हीना पौर्णमासी अनुमतिर् इत्य् उच्यते ।  
+एतन्-नामिके देवते ।  
+त्वम् ' इत्-शब्दः एवार्थः ।  
+अनुमन्यासै एव, अनुमते पूजितैव भवेः ।  
+किं च नः अस्माकं शं सुखं कुरु ।  
+तथा दक्षाय, स्व-फल-प्रदाने समर्थाय क्रत्वे यज्ञ-कर्मणे दक्षाय, 'दक्ष वृद्धौ' अभिवृद्धये च नः अस्मान् हिनु, 'हि गतौ वृद्धौ च' गमय ।  
+तथा नः अस्माकम्, आयूँषि देहावस्थित-हेतु-भूतानि कालावयव-लक्षणानि प्रतारिषत्, पुरुष-व्यत्ययः ।
 </details>
 
 <details><summary>आनन्दबोध-टीका</summary>
@@ -1846,7 +1850,6 @@ Impel us to purpose, to skill; may he prolong our lifespans.
 भावार्थभाषाः -  माणूस स्वतःच्या स्वार्थसिद्धीसाठी जसा प्रयत्न करतो तसा इतरांसाठीही करावा. आपल्या कल्याणाची जशी इच्छा बाळगतो तशी इतरांसाठीही बाळगावी. याप्रमाणे सर्वांची आयुष्ये परिपूर्ण करावीत.
 </details>
 </details>
-
 </div>
 
 ### वैश्वानरः
@@ -1950,7 +1953,8 @@ From you the inspired poet is born, full of prizes, O Agni;
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/098/02_pRShTo_divi.md">
+<div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/098/02_pRShTo_divi.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निरग्निर्वैश्वानरो वा
@@ -2330,22 +2334,17 @@ _________
 
 <details><summary>सायण-टीका (काण्वी)</summary>
 
-अथ षष्ठः पृष्टो दिवि पृष्टो अग्निः पृथिव्यां पृष्टो विश्वा ओषधीरा विवेश ।
-
-वैश्वानरः सहसा पृष्टो अभिः स नो दिवा स रिषस्पातु नक्तम्' इति । यः 'अभिः वैश्वानरः दिवि धुमण्डले मुमुक्षुभिः कोऽयमिति पृष्टः ।
-
-तत्र ह्येवं श्रूयते - " यम् एतम् आदित्ये पुरुषं वेदयन्ते स इन्द्रः स प्रजापति। स्तद्ब्रह्म " (शांबा ८.३ ) इति ।
-
-यश् च वैश्वानरः 'अग्निः विद्युद् आत्मना प्रावृषि स्थितः पृथिव्याम् अन्तरिक्षलोके ।
-
-पृथिवीत्यन्तरिक्षनाम् असु पठितम् ।
-
-उदकार्थिभिः को ऽयं किंनामायम् इति पृष्टः ।
-
-य च 'वैश्वानरः अस्मिन् लोके व्यवस्थितः पृष्टः अग्निः होतृ-प्रभृतिभिर् लेच्छ पर्यन्तैर् जनैः को ऽयं ताप-प्रकाशादिभिः विश्वा " ओषधी: "आविवेश ।
-
-मथ्यमानः कोऽयमिति दिक्षुभिः पृष्टः सः 'नः सो ऽस्मान् दिवा अहनि "नक्तं रात्रौ अस्मान् पातु रक्षतु । 'रिषः । रिषतिहिंसार्थः । हिंसाव्यापारात् न: दिवा नक्तं सततम्
-अनवच्छिन्नं चिरं पावित्याशीर् इति ॥६॥
+अथ षष्ठः- "पृष्टो दिवि पृष्टो अग्निः पृथिव्यां पृष्टो विश्वा ओषधीर् आ विवेश।  
+वैश्वानरः सहसा पृष्टो [[अभिः|अग्निः]] स नो दिवा स रिषस् पातु नक्तम्" इति।  
+यः [[अभिः|अग्निः]] वैश्वानरः दिवि [[धुमण्डले|द्यु-मण्डले]] मुमुक्षुभिः "[[कोऽयमिति|कोऽयम्" इति]] पृष्टः।  
+तत्र ह्येवं श्रूयते- "यम् एतम् आदित्ये पुरुषं वेदयन्ते स इन्द्रः स [[प्रजापति स्तद्ब्रह्म शांबा|प्रजापतिस् तद् ब्रह्म" (शांब्न]] ८.३) इति।  
+यश् च वैश्वानरः अग्निः विद्युद्-आत्मना प्रावृषि स्थितः पृथिव्याम् अन्तरिक्ष-लोके।  
+[[पृथिवीत्यन्तरिक्षनाम् असु|पृथिवीत्य् अन्तरिक्ष-नाम्नसु]] पठितम्।  
+उदकार्थिभिः "को ऽयं किंनामायम्" इति पृष्टः।  
+[[य|यश्]] च वैश्वानरः अस्मिन् लोके व्यवस्थितः पृष्टः अग्निः होतृ-प्रभृतिभिर् [[लेच्छ|म्लेच्छ]]-पर्यन्तैर् जनैः "को ऽयं ताप-प्रकाशादिभिः विश्वा ओषधीः आविवेश"।  
+मथ्यमानः "[[कोऽयमिति|कोऽयम्" इति]] [[दिक्षुभिः|दिदृक्षुभिः]] पृष्टः सः नः सो ऽस्मान् दिवा अहनि नक्तं रात्रौ अस्मान् पातु रक्षतु।  
+"रिषः"। [[रिषतिहिंसार्थः|रिषतिर् हिंसार्थः]]।  
+हिंसा-व्यापारात् नः दिवा नक्तं सततम् अनवच्छिन्नं चिरं [[पावित्याशीर्|पात्व् इत्याशीर्]] इति ॥ ६ ॥
 </details>
 
 <details><summary>आनन्दबोध-टीका</summary>
@@ -2547,6 +2546,7 @@ Begehrt im Himmel Agni und auf Erden, begehrt auch ging er ein in alle Pflanzen,
 <details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
 
 भावार्थभाषाः -  या मंत्रात श्लेषालंकार आहे. माणसांनी विद्वानांजवळ जाऊन ईश्वर व विद्युत इत्यादी अग्नीच्या गुणांना जाणून ईश्वराची उपासना व अग्नीपासून उपयोग करून घ्यावा तसेच हिंसा करू नये. ॥ २ ॥
+</details>
 </details>
 </div>  
 

@@ -432,25 +432,25 @@ _________
 
 <details><summary>सायण-टीका (काण्वी)</summary>
 
-" निषसादेत्युरोऽस्यालभते " (काश्रौ १७०४०७ ) इति ।
+"[[निषसादेत्युरोऽस्यालभते|निषसादेत्युरो ऽस्यालभते]]" ([[काश्रौ १७०४०७|काश्रौ १७.४.७]]) इति ।  
+अस्य यजमानस्योरः संस्पृशेत् ।  
+पाठस्तु —  
+> निषसाद [[घृत-वृतो|घृत-व्रतो]] वरुणः पस्त्यास्वा ।  
+> साम्राज्याय सुक्रतुः
 
-अस्य यजमानस्योरः संस्पृशेत् ।
+इति ।  
+असौ यजमानः [[घृतवतः|घृत-व्रतः]] स्वीकृत-यज्ञः वरुणो ऽनिष्ट-निवारको भूत्वा निषसाद [[अस्यामासन्दधामुपविवेश|अस्याम् आसन्द्याम् उपविवेश]] ।  
+[[पस्स्यासु|पस्त्यासु]] बहुषु वैरि-गृहेषु [[भागत्य|आगत्य]] तत्र साम्राज्यं कर्तुं 'सुक्रतुः शोभन-संकल्पो भवतु ॥ २ ॥
 
-पाठस्तु- ' निषसाद घृत-वृतो वरुणः पस्त्यास्वा । साम्राज्याय सुक्रतुः' इति ।
+आ यजमानस्य उरो ऽभिमृश्य जपति — '[[निषसाद|निषसाद]]' इति ।  
+शुनःशेपो वारुणी गायत्री ।  
+'निषसाद धृत-व्रतो वरुणः [[परस्यास्त्रा|पस्त्यास्वा]]' ।  
+धृतं व्रतं कर्म येन सः धृत-व्रतः ।  
+यजमान-लक्षणः वरुणः ।  
+पस्त्यासु विक्षु प्रजासु आ आधिपत्येन साम्राज्यार्थाय सुक्रतुः सुकर्मा शोभन-प्रज्ञो भव ॥ २ ॥
 
-असौ यजमानः घृतवत: स्वीकृत-यज्ञः वरुणो ऽनिष्ट-निवारको भूत्वा निषसाद अस्यामासन्दधामुपविवेश ।
-
-पस्स्यासु बहुषु वैरिगृहेषु भागत्य तत्र साम्राज्यं कर्तुं 'सुक्रतुः शोभन-संकल्पो भवतु ॥ २ ॥
-आ यजमानस्य उरोऽभिमृश्य जपति - ' निषसाद ' इति । शुनःशेपो वारुणी गायत्री । ' निषसाद धृत-व्रतो वरुणः परस्यास्त्रा' ।
-
-धृतं व्रतं कर्म येन सः धृत-व्रतः ।
-
-यजमान-लक्षणः
-वरुणः ।
-
-"पस्त्यासु विक्षु प्रजासु आ आधिपत्येन साम्राज्यार्थाय सुक्रतुः सुकर्मा शोभन-प्रज्ञो भव ॥ २ ॥
-निषसाद निषण्णः । साम्राज्याय
-सायणाचार्य - आनन्दबोध- माध्य-समेता
+निषसाद निषण्णः ।  
+साम्राज्याय — [[सायणाचार्य आनन्दबोध माध्य समेता|सायणाचार्य-आनन्दबोध-भाष्य-समेता]]
 </details>
 
 <details><summary>आनन्दबोध-टीका</summary>
@@ -651,7 +651,9 @@ In seinem Palast sitzet er, Gesetz beschirmend Varuna, Zur Herrschaft der allmä
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जसा परमेश्वर सर्व प्राण्यांचा उत्तम राजा आहे तसे ईश्वराच्या आज्ञेत असणारी धार्मिक, शरीर व बुद्धीने बलयुक्त माणसेच उत्तम राज्य करण्यायोग्य असतात. ॥ १० ॥
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -1318,14 +1320,52 @@ In seinem Palast sitzet er, Gesetz beschirmend Varuna, Zur Herrschaft der allmä
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/2/6_sautrAmaNiH_kaukilI_hotram/05_abhiShekaH/29_prati_xatre_pratitiShThAmi.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
-<details><summary>मूलम्</summary>
+<details><summary>Eggeling</summary>
+
+22. [He descends [^egg_642], with Vāj. S. XX, 10,] 'Firmly [^egg_643] I establish myself in the Kshatra (lordship), in royal sway,'--in lordship and royal sway he thus establishes himself so as not to lose lordship and royal sway;
+
+[^egg_642]: 254:4 That is, when the throne-seat has been lowered again, he rises from it and stands on the deer-skin.
+
+[^egg_643]: 254:5 The function of 'prati' here seems to be to strengthen the preposition in the verb 'prati-tishṭḥāmi.'
+</details>
+
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 प्रति॑ क्ष॒त्रे प्रति॑तिष्ठामि रा॒ष्ट्रे ।
+</details>
+
+<details><summary>मूलम् - श्रीधरादि</summary>
+
+प्प्र᳘ति क्षत्त्रे प्प्र᳘तितिष्ठामि राष्ट्र ऽइ᳘ति॥
+</details>
+
+<details><summary>मूलम् - Weber</summary>
+
+प्र᳘ति क्षत्रे प्र᳘ति तिष्ठामि राष्ट्रऽइ᳘ति ॥
+</details>
+
+<details><summary>मूलम् - विस्वरम् (माध्यन्दिन-ब्राह्मणम्)</summary>
+
+**"प्रति क्षत्त्रे प्रतितिष्ठामि राष्ट्रे"**- इति ।
+</details>
+
+<details><summary>मूलम् - Makoto</summary>
+
+प्र᳓ति क्षत्रे᳓ प्र᳓ति तिष्ठा᳓मि रा᳓ष्ट्र᳓ इ᳓ति ।
 </details>
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 प्र᳓ति । क्षत्रे᳓ । प्र᳓ति । तिष्ठामि । राष्ट्रे᳓ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - माध्यन्दिन-ब्राह्मणम्)</summary>
+
+- प्र᳓ति (*TS*-334, *RV*-247, *AV*-196, *VS-M*-1, *TB*-230, *TK*-11, *KS*-58, *MS*-265)
+- क्षत्रे᳓ (*TS*-2/74, *RV*-0/43, *TB*-3/47, *TK*-0/1, *AV*-1/33, *SB-K*-9/306, *VS-M*-1/45, *VS-K*-0/40, *KS*-0/41, *MS*-4/122)
+- प्र᳓ति (*TS*-334, *RV*-247, *AV*-196, *VS-M*-1, *TB*-230, *TK*-11, *KS*-58, *MS*-265)
+- तिष्ठामि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TB*-8, *AV*-1, *MS*-5)
+- राष्ट्रइ᳓ति (*TS*, *RV*, *TB*, *AV*, *VS-M*)
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -1337,8 +1377,15 @@ In seinem Palast sitzet er, Gesetz beschirmend Varuna, Zur Herrschaft der allmä
 
 संवेशनमन्त्राः - प्रतिक्षत्र इति ॥ नवस्वस्तरे संविशन् अहं क्षत्रादिष्वेव प्रति तिष्ठामीत्यर्थः ।
 </details>
+
+<details><summary>हरिस्वामी</summary>
+
+[व्याख्यानं नवदशे]
 </details>
-</div><div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/2/6_sautrAmaNiH_kaukilI_hotram/05_abhiShekaH/30_pratyashveShu_pratitiShThAmi_goShu.md">
+</details>
+</div>
+
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/2/6_sautrAmaNiH_kaukilI_hotram/05_abhiShekaH/30_pratyashveShu_pratitiShThAmi_goShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 प्र᳓त्य᳓श्वेषु प्र᳓तितिष्ठामि गो᳓षु ।
 </details>
@@ -1361,7 +1408,9 @@ In seinem Palast sitzet er, Gesetz beschirmend Varuna, Zur Herrschaft der allmä
 अश्वादयः प्रसिद्धाः ।
 </details>
 </details>
-</div><details open><summary>विश्वास-प्रस्तुतिः</summary>
+</div>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓त्य᳓ङ्गेषु प्र᳓तितिष्ठाम्यात्म᳓न् ।  
 </details>
