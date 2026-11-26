@@ -51,6 +51,21 @@ Aditi, who giveth good protection and good guidance.
 We call to succour us the mighty Mother of those whose sway is just, the Queen of Order, Strong-ruler, far-expanding, ne’er decaying, Aditi gracious guide and good protectress.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Truly we would invoke for aid the great mother of those of good vows, the wife of truth,  
+having abundant dominion, unaging, wide, well-sheltering, Aditi of good guidance.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+"The great mother of those of good vows, the wife of truth, we would invoke for aid,  
+of mighty rule, unaging, widespread, affording good shelter, Aditi of good guidance."
+
+The great mother of those of good vows, the wife of truth, we would invoke for aid,  
+of mighty rule, unaging, broad, giving good shelter, Aditi, guiding well.
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 म॒हीमू॒ षु मा॒तरं॑ सुव्र॒ताना॑मृ॒तस्य॒ पत्नी॒मव॑से हवामहे।  
@@ -75,6 +90,18 @@ We call to succour us the mighty Mother of those whose sway is just, the Queen o
 तु॒वि॒क्ष॒त्त्राम॒जर॑न्तीमुरू॒चीँ सु॒शर्मा॑ण॒मदि॑तिँ सु॒प्रणी॑तिम्  ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+मही᳓म् ऊ षु᳓ मात᳓रँ सुव्रता᳓नाम् ऋत᳓स्य प᳓त्नीम् अ᳓वसे हुवेम  
+तुविक्षत्रा᳓म् अज᳓रन्तीम् उरूचीँ᳓ सुश᳓र्माणम् अ᳓दितिँ सुप्र᳓णीतिम्
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+महीमू षु मातरँ सुव्रतानामृतस्य पत्नीमवसे हुवेम।  
+तुविक्षत्रामजरन्तीमुरूचीँ सुशर्माणमदितिँ सुप्रणीतिम्
+</details>
+
 <details><summary>पदपाठः</summary>
 
 म॒हीम्। ऊं॒ इति॑। सु। मा॒तर॑म्। सु॒ऽव्र॒ताना॑म्। ऋ॒तस्य॑। पत्नी॑म्। अव॑से। ह॒वा॒म॒हे॒। तु॒वि॒ऽक्ष॒त्राम्। अ॒जर॑न्तीम्। ऊ॒रू॒चीम्। सु॒ऽशर्मा॑णम्। अदि॑तिम्। सु॒ऽप्रनी॑तिम्। ६.२।
@@ -93,6 +120,43 @@ We call to succour us the mighty Mother of those whose sway is just, the Queen o
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 म॒हीम् । उ॒ । स्विति॑ । मा॒तर॑म् । सु॒व्र॒ताना॒मिति॑ सु-व्र॒ताना॑म् । ऋ॒तस्य॑ । पत्नी॑म् । अव॑से । हु॒वे॒म॒ ॥ तु॒वि॒क्ष॒त्रामिति॑ तुवि-क्ष॒त्राम् । अ॒जर॑न्तीम् । उ॒रू॒चीम् । सु॒शर्मा॑ण॒मिति॑ सु-शर्मा॑णम् । अदि॑तिम् । सु॒प्रणी॑ति॒मिति॑ सु-प्रणी॑तिम् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- मही᳓म् (*TS*-8/24, *RV*-28/131, *TB*-2/8, *TK*-0/1, *AV*-9/47, *SB-M*-6/19, *SB-K*-6/19, *VS-M*-10/26, *VS-K*-12/27, *KS*-3/10)
+- ऊ (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-8, *SB-M*-2, *SB-K*-3, *VS-K*-1, *KS*-2)
+- षु᳓ (*TS*-8, *TB*-0/1, *SB-M*-1, *SB-K*-4, *VS-K*-3/4, *KS*-5/6)
+- मात᳓रम् (*TS*-9/44, *RV*-27/165, *TB*-5/28, *TK*-0/2, *AV*-20/77, *SB-M*-16/79, *SB-K*-17/72, *VS-M*-9/34, *VS-K*-11/35, *KS*-2/21)
+- सु-व्रता᳓नाम् (*TS*-1, *RV*-0/5, *AV*-1, *VS-M*-1, *VS-K*-1)
+- ऋत᳓स्य (*TS*-45/80, *RV*-195/361, *TB*-13/62, *TK*-1/2, *AV*-39/107, *SB-M*-12/72, *SB-K*-13/74, *VS-M*-18/41, *VS-K*-18/41, *KS*-9/25)
+- प᳓त्नीम् (*TS*-7/39, *RV*-1/25, *TB*-7/21, *TK*-0/3, *AV*-4/20, *SB-M*-25/123, *SB-K*-25/116, *VS-M*-1/13, *VS-K*-1/14, *KS*-0/8)
+- अ᳓वसे (*TS*-9/22, *RV*-111/279, *TB*-5/15, *AV*-14/24, *SB-M*-4/9, *SB-K*-1/6, *VS-M*-12/23, *VS-K*-7/15, *KS*-4/12)
+- हुवेम (*TS*-5, *RV*-41, *TB*-4, *AV*-5, *SB-M*-2, *VS-M*-8, *VS-K*-5, *KS*-4)
+- तुवि-क्षत्रा᳓म् (*TS*-1, *AV*-1, *VS-M*-1, *VS-K*-1)
+- अज᳓रन्तीम् (*TS*-1, *AV*-1, *VS-M*-1, *VS-K*-1)
+- उरूची᳓म् (*TS*-1, *RV*-1/7, *TB*-1, *AV*-0/2, *VS-M*-1, *VS-K*-1)
+- सु-श᳓र्माणम् (*TS*-2/6, *RV*-2/6, *AV*-2/3, *SB-M*-0/3, *SB-K*-0/3, *VS-M*-2/4, *VS-K*-2/5, *KS*-0/1)
+- अ᳓दितिम् (*TS*-10/95, *RV*-34/155, *TB*-0/43, *TK*-1/2, *AV*-5/48, *SB-M*-8/100, *SB-K*-9/87, *VS-M*-8/63, *VS-K*-10/75, *KS*-2/29)
+- सु-प्र᳓णीतिम् (*TS*-2, *RV*-1/7, *AV*-1, *VS-M*-2, *VS-K*-1)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- मही᳓मू (*VS-K*-1)
+- षु᳓ (*MS*-11/14, *TS*-7, *TB*-0/1, *SB-M*-1, *SB-K*-4, *VS-K*-3/4)
+- मात᳓रम् (*MS*-13/61, *TS*-9/44, *RV*-27/165, *TB*-5/28, *TK*-0/2, *AV*-20/77, *SB-M*-16/79, *SB-K*-17/72, *VS-M*-9/34, *VS-K*-12/38)
+- सु-व्रता᳓नाम् (*MS*-1, *TS*-1, *RV*-0/5, *AV*-1, *VS-M*-1, *VS-K*-1)
+- ऋत᳓स्य (*MS*-29/93, *TS*-45/80, *RV*-195/361, *TB*-13/62, *TK*-1/2, *AV*-39/107, *SB-M*-12/72, *SB-K*-13/74, *VS-M*-18/41, *VS-K*-21/45)
+- प᳓त्नीम् (*MS*-3/73, *TS*-7/39, *RV*-1/25, *TB*-7/21, *TK*-0/3, *AV*-4/20, *SB-M*-25/123, *SB-K*-25/116, *VS-M*-1/13, *VS-K*-2/15)
+- अ᳓वसे (*MS*-9/27, *TS*-9/22, *RV*-111/279, *TB*-5/15, *AV*-14/24, *SB-M*-4/9, *SB-K*-1/6, *VS-M*-12/24, *VS-K*-8/18)
+- हुवेम (समानान्तर-पाठः (MS), *MS*-5, *TS*-5, *RV*-41, *TB*-4, *AV*-5, *SB-M*-2, *VS-M*-8, *VS-K*-5)
+- तुवि-क्षत्रा᳓म् (*MS*-1, *TS*-1, *AV*-1, *VS-M*-1, *VS-K*-2)
+- अज᳓रन्तीम् (*MS*-1, *TS*-1, *AV*-1, *VS-M*-1, *VS-K*-2)
+- उरूची᳓म् (*MS*-2/3, *TS*-1, *RV*-1/7, *TB*-1, *AV*-0/2, *VS-M*-1, *VS-K*-1)
+- सु-श᳓र्माणम् (*MS*-2/5, *TS*-2/6, *RV*-2/6, *AV*-2/3, *SB-M*-0/3, *SB-K*-0/3, *VS-M*-2/4, *VS-K*-2/5)
+- अ᳓दितिम् (*MS*-13/128, *TS*-10/95, *RV*-34/155, *TB*-0/43, *TK*-1/2, *AV*-5/48, *SB-M*-8/100, *SB-K*-9/87, *VS-M*-8/63, *VS-K*-12/79)
+- सु-प्र᳓णीतिम् (*MS*-2/3, *TS*-2, *RV*-1/7, *AV*-1, *VS-M*-2, *VS-K*-2)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -128,7 +192,7 @@ We call to succour us the mighty Mother of those whose sway is just, the Queen o
 टिप्पणी:   २−(महीम्) महतीम् (उ) अवधारणे (सु) सुष्ठु। सत्कारेण (मातरम्) मातृसमानहिताम् (सुव्रतानाम्) शोभनकर्मवताम् (ऋतस्य) सत्यधर्मस्य (पत्नीम्) पालयित्रीम् (अवसे) रक्षणाय (हवामहे) आह्वयामः (तुविक्षत्राम्) बहुबलां बहुधनाम् (अजरन्तीम्) अजराम् (उरूचीम्) अ० ३।३।१। बहुविस्तारगताम् (सुशर्म्माणम्) उत्तमगृहयुक्ताम्। बहुसुखवतीम् (अदितिम्) अ० २।२८।४। अदीनां पृथिवीम्-निघ० १।१। (सुप्रणीतिम्) सुष्ठु प्रकृष्टनीतियुक्ताम् ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/006_aditiH/02_mahImU_Shu.md"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="3" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/006_aditiH/02_mahImU_Shu.md"> </div>
 
 <details><summary>उवट-टीका</summary>
 
@@ -265,6 +329,11 @@ We call to succour us the mighty Mother of those whose sway is just, the Queen o
 **अदितिम्** अखण्डनीयां **सुप्रणीतिं** सुखेन शर्मणां प्रणेत्रीम् । कृदुत्तरपदप्रकृतिस्वरत्वम् । तत्र च 'तादौ च' इति गतेः प्रकृतिस्वरत्वम् ।
 
 ईदृशीं महीं देवीम् **अवसे** रक्षणाय तस्यास्तर्पणाय वा **हुवेम** सुष्ठु आह्वयामः । व्यत्ययेन शः । पूर्ववत्सम्प्रसारणम्, 'सुञः' इति सोस्संहितायां षत्वम् । **उ** इति पादपूरणे । 'अन्येषामपि दृश्यते' इति तस्य संहितायां दीर्घत्वम् ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[461_5]** So corr. Ch ष; Kap. S. 46, 7 = Corr.; cf. Mâtr. S. 4, 10, 1 (Thus emended; Ch ष; Kap. S. 46, 7 agrees with the emendation; cf. Mâtr. p. 4, 10, 1)
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>

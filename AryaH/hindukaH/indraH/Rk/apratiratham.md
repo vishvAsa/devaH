@@ -16,7 +16,7 @@ unicode_script: devanagari
 चतुर्थकाण्डे षष्ठप्रपाठके चतुर्थोऽनुवाकः
 ###### 01 आशुः शिशानो - त्रिष्टुप्
 
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/01_AshuH_shishAno.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/01_AshuH_shishAno.md">
 
 <details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 
@@ -29,9 +29,16 @@ unicode_script: devanagari
 
 </div>
 
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/01_AshuH_shishAno.md">
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/01_AshuH_shishAno.md">
 
 <details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
+devataa : इन्द्रः
+
+RShiH : अप्रतिरथ ऐन्द्रः
+
+ChandaH : त्रिष्टुप्
+
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -116,10 +123,36 @@ sénāḥ ← sénā- (nominal stem)
 सं॒क्रन्द॑नोऽनिमि॒ष ए॑कवी॒रः श॒तं सेना॑ अजयत्सा॒कमिन्द्रः॑ ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+आशु᳓श्शि᳓शानो वृषभो᳓ न᳓ युध्मो᳓ घनाघनः᳓ क्षो᳓भणश्चर्षणीना᳓म्।  
+सङ्क्रन्दनोऽनिमिष᳓ एकवीर᳓श्शतँ से᳓ना अजयत्साक᳓मि᳓न्द्रः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 आ॒शुः । शिशा॑नः । वृ॒ष॒भः । न । भी॒मः । घ॒ना॒घ॒नः । क्षोभ॑णः । च॒र्ष॒णी॒नाम् ।  
 स॒म्ऽक्रन्द॑नः । अ॒नि॒ऽमि॒षः । ए॒क॒ऽवी॒रः । श॒तम् । सेनाः॑ । अ॒ज॒य॒त् । सा॒कम् । इन्द्रः॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- आशुः᳓ (*MS*-8/15, *TS*-8/15, *RV*-8/76, *TB*-4/8, *TK*-1/2, *AV*-3/18, *SB-M*-9/13, *SB-K*-8/13, *VS-M*-7/11, *VS-K*-7/11)
+- शि᳓शानः (*MS*-1, *TS*-2, *RV*-11, *AV*-6, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-2)
+- वृषभः᳓ (*MS*-15/25, *TS*-7/15, *RV*-80/149, *TB*-6/17, *AV*-20/37, *SB-M*-6/11, *SB-K*-3/7, *VS-M*-6/12, *VS-K*-7/11)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- युध्मः᳓ (*MS*-1/2, *TS*-1, *RV*-5/8)
+- घनाघनः᳓ (*MS*-1, *TS*-1, *RV*-1, *AV*-1, *VS-M*-1, *VS-K*-2)
+- क्षो᳓भणः (*MS*-0/1, *TS*-1, *RV*-1, *AV*-1, *VS-M*-1, *VS-K*-2/3)
+- चर्षणीना᳓म् (*MS*-7/11, *TS*-3/5, *RV*-35/58, *TB*-5/7, *AV*-10, *VS-M*-1, *VS-K*-2)
+- सम्-क्रन्दनः (मूल-पाठः)
+- अनि-मिषः᳓ (*TS*-1/2, *RV*-1/4, *AV*-1/2, *VS-M*-0/1, *VS-K*-1/2, *MS*-1/2)
+- एक-वीरः᳓ (*MS*-1, *TS*-1, *RV*-1, *AV*-2, *VS-M*-1, *VS-K*-2)
+- शतम् (*MS*-7, *TB*-1, *SB-M*-2, *SB-K*-2, *VS-K*-1)
+- से᳓नाः (*MS*-6/13, *TS*-6/12, *RV*-7/13, *TB*-0/5, *AV*-8/41, *SB-M*-1/5, *SB-K*-1/5, *VS-M*-4/6, *VS-K*-5/9)
+- अजयत् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-39, *TS*-19, *RV*-5, *TB*-16, *TK*-3, *AV*-9, *SB-M*-10, *SB-K*-9, *VS-M*-14, *VS-K*-6)
+- साक᳓म् (*MS*-19, *TS*-9, *RV*-56, *TB*-6, *AV*-30, *SB-K*-3, *VS-M*-6, *VS-K*-6)
+- इ᳓न्द्रः (*MS*-305/711, *TS*-179/497, *RV*-564/1345, *TB*-131/363, *TK*-5/8, *AV*-306/606, *SB-M*-291/535, *SB-K*-292/509, *VS-M*-97/392, *VS-K*-98/380)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -249,6 +282,11 @@ _______________
 अनिमिषः कदाचिदपि निमेषं न करोत्यत्यन्तसावधान इत्यर्थः एकवीरः परानपेक्षेण ( क्षः ) स्वयमेक एव जेतुं समर्थः शूरः।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[266_10]** Dies Kap. collat. auch mit St, T1, Brl fol. 105, W1; accentuirt nach St, T1, Brl. (This chap. is also collated with St, T1, Brl fol. 105, W1; accented according to St, T1, Brl.)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -275,6 +313,12 @@ Swift, like a bull sharpening his horns, the warrior
 Fond of slaughter, disturber of the people,  
 Bellowing, unwinking, sole hero,  
 Indra at once conquered a hundred hosts.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Swift, whetting himself, like a fighting bull, a smiter, shaker of the peoples,  
+roaring, unblinking, the sole hero,
 </details>
 
 <details><summary>Geldner</summary>
@@ -333,7 +377,7 @@ Der schnelle, der gleich wildem Stier erregt ist, der starke Kämpfer, der die M
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/02_saMkrandanenAnimiSheNa_jiShNunA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/02_saMkrandanenAnimiSheNa_jiShNunA.md">
 
 <details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 
@@ -346,9 +390,16 @@ Der schnelle, der gleich wildem Stier erregt ist, der starke Kämpfer, der die M
 
 </div>
 
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/02_saMkrandanenAnimiSheNa_jiShNunA.md">
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/02_saMkrandanenAnimiSheNa_jiShNunA.md">
 
 <details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
+devataa : इन्द्रः
+
+RShiH : अप्रतिरथ ऐन्द्रः
+
+ChandaH : त्रिष्टुप्
+
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -442,6 +493,12 @@ yúdhaḥ ← yúdh- (nominal stem)
 तदिन्द्रे॑ण जयत॒ तत्स॑हध्वं॒ युधो॑ नर॒ इषु॑हस्तेन॒ वृष्णा॑ ॥२॥ ३४
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+सङ्क्र᳓न्द᳓नेनानिमिषे᳓ण जिष्णु᳓ना युत्कारे᳓ण दुश्च्यवने᳓न धृष्णु᳓ना।  
+त᳓दि᳓न्द्रेण जयत त᳓त्सहध्वं यु᳓धो नर इ᳓षुहस्तेन वृ᳓ष्णा
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 स॒म्ऽक्रन्द॑नेन । अ॒नि॒ऽमि॒षेण॑ । जि॒ष्णुना॑ । यु॒त्ऽका॒रेण॑ । दुः॒ऽच्य॒व॒नेन॑ । धृ॒ष्णुना॑ ।  
@@ -456,6 +513,25 @@ yúdhaḥ ← yúdh- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 सं॒क्रन्द॑ने॒नेति॑ स॒म्ऽक्रन्द॑नेन। अ॒निमि॒षेणेत्य॑निऽमि॒षेण॑। जि॒ष्णुना॑। यु॒त्का॒रेणेति॑ युत्ऽका॒रेण॑। दु॒श्च्य॒व॒नेनेति॑ दुःऽच्यव॒नेन॑। धृ॒ष्णुना॑। तत्। इन्द्रे॑ण। ज॒य॒त॒। तत्। स॒ह॒ध्व॒म्। युधः॑। नरः॑। इषु॑हस्ते॒नेतीषु॑ऽहस्तेन। वृष्णा॑। २।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- सम्-क्र᳓न्द᳓नेन → **सम्-क्र᳓न्दनेन** (अनेकोदात्त-दोषः पा॰ ६.१.१५८, *TS*-1/2, *RV*-1/2, *AV*-1/3, *VS-M*-1/2, *VS-K*-1/3, *MS*-1/2)
+- अनि-मिषे᳓ण (*TS*-1/2, *RV*-1/4, *AV*-1/2, *VS-M*-1, *VS-K*-1/2, *MS*-1/2)
+- जिष्णु᳓ना (*MS*-1/8, *TS*-1/8, *RV*-1/9, *TB*-0/3, *AV*-1/12, *SB-M*-0/4, *SB-K*-0/4, *VS-M*-1/4, *VS-K*-1/5)
+- युत्-कारे᳓ण (*MS*-1, *TS*-1, *RV*-1, *VS-M*-1, *VS-K*-1)
+- दुः-च्यवने᳓न (*TS*-1/2, *RV*-1/2, *AV*-1/3, *VS-M*-1/2, *VS-K*-1/2, *MS*-1/2)
+- धृष्णु᳓ना (*MS*-1/4, *TS*-1/4, *RV*-4/23, *TB*-0/1, *AV*-1/12, *SB-M*-0/2, *SB-K*-0/1, *VS-M*-1/5, *VS-K*-1/5)
+- त᳓त् (*MS*-1125/5550, *TS*-687/4761, *RV*-552/3136, *TB*-612/2709, *TK*-43/363, *AV*-391/3165, *SB-M*-6428/20457, *SB-K*-6056/20018, *VS-M*-120/780, *VS-K*-90/660)
+- इ᳓न्द्रेण (*MS*-11/711, *TS*-11/497, *RV*-35/1345, *TB*-7/363, *TK*-0/8, *AV*-31/606, *SB-M*-14/535, *SB-K*-15/509, *VS-M*-7/392, *VS-K*-7/380)
+- जयत (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-2, *TS*-2, *RV*-1, *AV*-3, *SB-K*-2, *VS-M*-1, *VS-K*-2)
+- त᳓त् (*MS*-1125/5550, *TS*-687/4761, *RV*-552/3136, *TB*-612/2709, *TK*-43/363, *AV*-391/3165, *SB-M*-6428/20457, *SB-K*-6056/20018, *VS-M*-120/780, *VS-K*-90/660)
+- सहध्वम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1, *TS*-1, *RV*-1, *AV*-1, *VS-M*-1, *VS-K*-1)
+- यु᳓धः (*MS*-2/9, *TS*-2/6, *RV*-2/33, *TB*-0/5, *TK*-0/1, *AV*-3/17, *SB-M*-2/3, *SB-K*-1/5, *VS-M*-2/5, *VS-K*-3/6)
+- नरः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-1, *TS*-4, *RV*-36, *TB*-2, *AV*-7, *VS-M*-2, *VS-K*-2)
+- इ᳓षु-हस्तेन (*MS*-1/2, *TS*-1/2, *RV*-1/2, *AV*-1/2, *VS-M*-1/2, *VS-K*-1/3)
+- वृ᳓ष्णा (*MS*-1/16, *TS*-2/16, *RV*-2/82, *TB*-0/4, *AV*-2/15, *SB-M*-3/7, *SB-K*-3/9, *VS-M*-1/14, *VS-K*-1/13)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -682,6 +758,13 @@ _______________
 वृष्णा प्रधानेन शर-वृष्टिकारिणा इन्द्रेण यत् तत् सहध्वं सहनं कुरुध्वम् ॥ ३४ ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[266_11]** D युत्करेण दुःश्यवनेन
+
+- **[266_12]** Ch उत्सहध्वं
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -708,6 +791,13 @@ With the bellowing, unwinking, conquering,
 Fighter, hard to overthrow, and daring Indra,  
 With Indra do ye conquer, do ye withstand  
 The foe, O heroes, with the strong one who holdeth the arrow in his hands.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indra conquered a hundred armies at once.  
+With the roaring, unblinking, victorious, battle-making, immovable, daring one,  
+with Indra conquer that, overcome that, O men, fighters, with the arrow-handed bull.
 </details>
 
 <details><summary>Geldner</summary>
@@ -753,7 +843,7 @@ Mit ihm, dem Donnrer, der nicht schlummernd Sieg gewinnt, der Schlacht erregt vo
 
 ###### 03 स इषुहस्तैः - त्रिष्टुप्
 
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/03_sa_iShuhastaiH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/03_sa_iShuhastaiH.md">
 
 <details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 
@@ -766,7 +856,7 @@ Mit ihm, dem Donnrer, der nicht schlummernd Sieg gewinnt, der Schlacht erregt vo
 
 </div>
 
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/03_sa_iShuhastaiH.md">
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/03_sa_iShuhastaiH.md">
 
 <details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -1078,7 +1168,7 @@ Mit seiner Schar, die Pfeile trägt und Köcher, theilt seine Kämpfe der gewalt
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/04_bRhaspate_pari.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/04_bRhaspate_pari.md">
 
 <details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 
@@ -1091,9 +1181,16 @@ Mit seiner Schar, die Pfeile trägt und Köcher, theilt seine Kämpfe der gewalt
 
 </div>
 
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/04_bRhaspate_pari.md">
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/04_bRhaspate_pari.md">
 
 <details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
+devataa : बृहस्पतिः
+
+RShiH : अप्रतिरथ ऐन्द्रः
+
+ChandaH : त्रिष्टुप्
+
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -1190,6 +1287,12 @@ ráthānām ← rátha- (nominal stem)
 प्र॒भ॒ञ्जन्त्सेनाः॑ प्रमृ॒णो यु॒धा जय॑न्न॒स्माक॑मेध्यवि॒ता रथा॑नाम् ॥४॥ ३६
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+बृ᳓हस्पते प᳓रिदीया र᳓थेन रक्षोहा᳓मि᳓त्राँ अपबा᳓धमानः।  
+प्रभञ्ज᳓न्से᳓नाः प्रमृणो᳓ युधा᳓ ज᳓यन्नस्मा᳓कमेध्यविता᳓ र᳓थानाम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 बृह॑स्पते । परि॑ । दी॒य॒ । रथे॑न । र॒क्षः॒ऽहा । अ॒मित्रा॑न् । अ॒प॒ऽबाध॑मानः ।  
@@ -1204,6 +1307,26 @@ ráthānām ← rátha- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 बृह॑स्पते। परि॑। दी॒य॒। रथे॑न। र॒क्षा॒हेति॑ रक्षः॒ऽहा। अ॒मित्रा॑न्। अ॒प॒बाध॑मान॒। इत्य॑प॒ऽबाध॑मानः। प्र॒भ॒ञ्जन्निति॑ प्रऽभ॒ञ्जन्। सेनाः॑। प्र॒मृ॒ण इति॑ प्रऽमृ॒णः। यु॒धा। जय॑न्। अ॒स्माक॑म्। ए॒धि। अ॒विता। रथा॑नाम्। ४।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- बृ᳓हस्पते (*MS*-10, *TS*-9, *RV*-33, *TB*-2, *TK*-1, *AV*-12, *SB-M*-8, *SB-K*-7/8, *VS-M*-6, *VS-K*-6)
+- प᳓रि (*MS*-238, *TS*-222, *RV*-506, *TB*-117, *TK*-1, *AV*-297, *SB-M*-446, *SB-K*-390, *VS-M*-84, *VS-K*-77)
+- दीया (*TS*-1, *MS*-1)
+- र᳓थेन (*MS*-4, *TS*-5, *RV*-58, *TB*-1, *AV*-4, *SB-M*-2, *SB-K*-5, *VS-M*-5, *VS-K*-4)
+- रक्षः-हा᳓ (*TS*-5/18, *RV*-8/12, *TB*-1, *AV*-6/8, *SB-K*-2/6, *VS-M*-4/10, *VS-K*-3/4, *MS*-6/17)
+- अमि᳓त्रान् (*MS*-3/6, *TS*-6/9, *RV*-24/35, *TB*-2/7, *AV*-29/70, *SB-M*-2/9, *SB-K*-2/6, *VS-M*-6/7, *VS-K*-2/3)
+- अप-बा᳓धमानः (*MS*-1/2, *TS*-1, *RV*-1, *AV*-2, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-1, *VS-K*-1)
+- प्र-भञ्ज᳓न् (*TS*-1, *RV*-1, *AV*-1, *VS-M*-1, *VS-K*-1, *MS*-1)
+- से᳓नाः (*MS*-6/13, *TS*-6/12, *RV*-7/13, *TB*-0/5, *AV*-8/41, *SB-M*-1/5, *SB-K*-1/5, *VS-M*-4/6, *VS-K*-5/9)
+- प्र-मृणः᳓ (*MS*-1, *TS*-1, *RV*-1/3, *AV*-0/8, *VS-M*-1, *VS-K*-1)
+- युधा᳓ (*MS*-3, *TS*-2, *RV*-19, *TB*-1, *AV*-7, *VS-M*-1, *VS-K*-1)
+- ज᳓यन् (*MS*-2, *TS*-1, *RV*-6, *TB*-2, *TK*-1, *AV*-2, *SB-M*-2, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- अस्मा᳓कम् (*MS*-44/641, *TS*-18/565, *RV*-106/1308, *TB*-6/270, *TK*-0/66, *AV*-310/1252, *SB-M*-31/723, *SB-K*-49/728, *VS-M*-15/315, *VS-K*-16/274)
+- एधि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-24, *TS*-12, *RV*-16, *TB*-7, *AV*-19, *SB-M*-21, *SB-K*-5, *VS-M*-12, *VS-K*-7)
+- अविता᳓ (*MS*-6/8, *TS*-2/3, *RV*-38/42, *AV*-7/10, *SB-M*-1, *SB-K*-1, *VS-M*-5/6, *VS-K*-5/6)
+- र᳓थानाम् (*MS*-1/57, *TS*-2/37, *RV*-19/394, *TB*-0/36, *TK*-0/3, *AV*-1/57, *SB-M*-1/54, *SB-K*-1/53, *VS-M*-2/16, *VS-K*-2/13)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -1469,6 +1592,12 @@ Defeating hosts, destroyer, victor in battle,
 Be thou protector of our chariots.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Bṛhaspati, fly around with your chariot, slaying the rakṣases, driving away enemies;  
+shattering armies, crushing them in battle, conquering, be the protector of our chariots.
+</details>
+
 <details><summary>Geldner</summary>
 
 Brihaspati, fliege mit deinem Wagen umher, die Unholde tötend, die Feinde vertreibend, die Heere durchbrechend, zerschmetternd, im Kampfe siegend sei du der Helfer unserer Wagen!
@@ -1520,7 +1649,7 @@ Brihaspati, flieg' her mit deinem Wagen, Gespenster tödtend, jeden Feind verjag
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/06_gotrabhidaM_govidaM.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/06_gotrabhidaM_govidaM.md">
 
 <details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 
@@ -1533,7 +1662,7 @@ Brihaspati, flieg' her mit deinem Wagen, Gespenster tödtend, jeden Feind verjag
 
 </div>
 
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/06_gotrabhidaM_govidaM.md">
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/06_gotrabhidaM_govidaM.md">
 
 <details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -2004,7 +2133,7 @@ Der blitzbewehrt den Stall erschliesst, die Kühe erringt und Bahn sich bricht m
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/05_balavijnAyaH_sthaviraH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/05_balavijnAyaH_sthaviraH.md">
 
 <details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 
@@ -2017,7 +2146,7 @@ Der blitzbewehrt den Stall erschliesst, die Kühe erringt und Bahn sich bricht m
 
 </div>
 
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/05_balavijnAyaH_sthaviraH.md">
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/05_balavijnAyaH_sthaviraH.md">
 
 <details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -2488,7 +2617,7 @@ Durch Stärke kenntlich, fest, der Helden kühnster, siegreich, gewaltig, stark 
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/07_abhi_gotrANi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/07_abhi_gotrANi.md">
 
 <details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 
@@ -2501,9 +2630,16 @@ Durch Stärke kenntlich, fest, der Helden kühnster, siegreich, gewaltig, stark 
 
 </div>
 
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/07_abhi_gotrANi.md">
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/07_abhi_gotrANi.md">
 
 <details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
+devataa : इन्द्रः
+
+RShiH : अप्रतिरथ ऐन्द्रः
+
+ChandaH : त्रिष्टुप्
+
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -2600,6 +2736,12 @@ yutsú ← yúdh- (nominal stem)
 दु॒श्च्य॒व॒नः पृ॑तना॒षाळ॑यु॒ध्यो॒ऽस्माकँ॒ सेना॑ अवतु॒ प्र यु॒त्सु ॥७॥ ३९
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+अभि᳓ गोत्रा᳓णि स᳓हसा गा᳓हमानोऽदयो᳓ वीर᳓श्शत᳓मन्युरि᳓न्द्रः।  
+दुश्च्यवनः᳓ पृतनाषा᳓डयुध्यो᳙ऽस्मा᳓कँ से᳓ना अवतु प्र᳓ युत्सु᳓
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अ॒भि । गो॒त्राणि॑ । सह॑सा । गाह॑मानः । अ॒द॒यः । वी॒रः । श॒तऽम॑न्युः । इन्द्रः॑ ।  
@@ -2614,6 +2756,26 @@ yutsú ← yúdh- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 अ॒भि। गो॒त्राणि॑। सह॑सा। गाह॑मानः। अ॒द॒यः। वी॒रः। श॒तम॑न्यु॒रिति॑ श॒तऽम॑न्युः। इन्द्रः॑। दु॒श्च्य॒व॒न इति॑ दुःऽच्यव॒नः। पृ॒त॒ना॒ऽषाट्। अ॒यु॒ध्यः᳙। अ॒स्माक॑म्। सेनाः॑। अ॒व॒तु॒। प्र। यु॒त्स्विति॑ यु॒त्सु। ७।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अभि᳓ (*MS*-346, *TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-97, *VS-K*-111)
+- गोत्रा᳓णि (*MS*-2/4, *TS*-1, *RV*-2/8, *AV*-1/2, *VS-M*-1, *VS-K*-1/2)
+- स᳓हसा (*MS*-8/43, *TS*-8/35, *RV*-29/122, *TB*-7/28, *TK*-1/4, *AV*-10/50, *SB-M*-5/21, *SB-K*-10/24, *VS-M*-3/28, *VS-K*-3/40)
+- गा᳓हमानः (*TS*-1, *RV*-1, *AV*-1, *VS-M*-1, *VS-K*-1, *MS*-1)
+- अदयः᳓ (*RV*-1, *VS-M*-1, *VS-K*-1)
+- वीरः᳓ (*MS*-11/36, *TS*-6/20, *RV*-27/119, *TB*-9/25, *AV*-10/66, *SB-M*-11/28, *SB-K*-12/32, *VS-M*-2/19, *VS-K*-1/17)
+- शत᳓-मन्युः (*MS*-1, *TS*-1, *RV*-1, *AV*-1, *VS-M*-1, *VS-K*-1/2)
+- इ᳓न्द्रः (*MS*-305/711, *TS*-179/497, *RV*-564/1345, *TB*-131/363, *TK*-5/8, *AV*-306/606, *SB-M*-291/535, *SB-K*-292/509, *VS-M*-97/392, *VS-K*-98/380)
+- दुः-च्यवनः᳓ (*TS*-1/2, *RV*-1/2, *AV*-2/3, *VS-M*-1/2, *VS-K*-1/2, *MS*-1/2)
+- पृतनाषा᳓ट् (*MS*-1, *TS*-4, *RV*-5, *AV*-2, *VS-M*-1, *VS-K*-1)
+- अयुध्यः᳓ (*TS*-1, *RV*-1, *VS-M*-1, *VS-K*-1/2)
+- अस्मा᳓कम् (*MS*-44/641, *TS*-18/565, *RV*-106/1308, *TB*-6/270, *TK*-0/66, *AV*-310/1252, *SB-M*-31/723, *SB-K*-49/728, *VS-M*-15/315, *VS-K*-16/274)
+- से᳓नाः (*MS*-6/13, *TS*-6/12, *RV*-7/13, *TB*-0/5, *AV*-8/41, *SB-M*-1/5, *SB-K*-1/5, *VS-M*-4/6, *VS-K*-5/9)
+- अवतु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-13, *TS*-14, *RV*-14, *TB*-6, *AV*-18, *SB-M*-10, *SB-K*-8, *VS-M*-11, *VS-K*-7)
+- प्र᳓ (*MS*-829, *TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-195)
+- युत्सु᳓ (*MS*-3, *TS*-1, *RV*-6, *TB*-3, *AV*-1, *VS-M*-2, *VS-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -2802,6 +2964,15 @@ ____________________
 [ "गोत्राणि ] असुर-कुलानि मेघ-वृन्दानि वा । ' गोत्राणि सहसा गाहमान: ' । बलेन अभि "गाहमानः अभिप्रविशन् । 'अदयः दयाशून्यः । वीरः स्व-पक्षस्योत्साह-वर्धनः विक्रान्तः । शतमन्युः बहु-क्रोधः शत-क्रतुर् इति वा । 'इन्द्रः शत्रूणां दारयिता । "दुश्यवनः अप्रच्याव्यः । पृतनां संग्रामं सहते अभिभवतीति पृतनाषाट् । 'अयुध्यः अविद्यमान- प्रतियोधः । एवं-गुण-विशिष्ट इन्द्र: 'युत्सु युद्धेषु 'अस्माकं "सेनाः 'प्रावतु रक्षतु ॥ ३९॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[267_1]** St गो᳓त्राणि
+
+- **[267_2]** St दुश्च्यवनाः᳓; desgl. W1, ohne Accent; D दुःश्यवनः (St दुश्च्यवनाः᳓; likewise W1, without accent; D दुःश्यवनः)
+
+- **[267_3]** Ch योध्यो; cf. Mâitr. S. 2, 10, 4.
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 फिर भी उसी विषय को अगले मन्त्र में कहा है ॥
@@ -2865,6 +3036,12 @@ Hard to resist, enduring in battle, unovercomable,
 May he aid our armies in the battles.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Plunging into the cattle-pens with might, pitiless, heroic, hundred-fury Indra,  
+immovable, conqueror of armies, unassailable, may he protect our armies in battles.
+</details>
+
 <details><summary>Geldner</summary>
 
 Der mit Gewalt in die Kuhställe eindringt, ohne Erbarmen, der Held Indra mit hundertfachem Eifer, unentwegt, die Kämpfe bestehend, nicht zu bekämpfen, der soll in den Schlachten unseren Heeren weiter helfen.
@@ -2908,7 +3085,7 @@ Der mit Gewalt sich in die Ställe eintaucht, Held Indra ohne Mitleid vielfach z
 
 ###### 08 इन्द्र आसाम् - त्रिष्टुप्
 
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/08_indra_AsAM.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/08_indra_AsAM.md">
 
 <details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 
@@ -2921,7 +3098,7 @@ Der mit Gewalt sich in die Ställe eintaucht, Held Indra ohne Mitleid vielfach z
 
 </div>
 
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/08_indra_AsAM.md">
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/08_indra_AsAM.md">
 
 <details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -3335,7 +3512,7 @@ Ihr Führer sei uns Indra und Brihaspati, vor dringe Opfer, Opferlohn und Soma, 
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/09_indrasya_vRShNo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/09_indrasya_vRShNo.md">
 
 <details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 
@@ -3348,9 +3525,16 @@ Ihr Führer sei uns Indra und Brihaspati, vor dringe Opfer, Opferlohn und Soma, 
 
 </div>
 
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/09_indrasya_vRShNo.md">
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/09_indrasya_vRShNo.md">
 
 <details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
+devataa : इन्द्रः
+
+RShiH : अप्रतिरथ ऐन्द्रः
+
+ChandaH : त्रिष्टुप्
+
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -3444,6 +3628,18 @@ jáyatām ← √ji- 1 (root)
 म॒हाम॑नसां भुवनच्य॒वानां॒ घोषो॑ दे॒वानां॒ जय॑ता॒मुद॑स्थात् ॥९॥ ४१
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+इ᳓न्द्रस्य वृ᳓ष्णो व᳓रुणस्य रा᳓ज्ञ आदित्या᳓नां मरु᳓ताँ शर्ध उग्र᳓म्  
+महा᳓मनसां भुवनच्यवा᳓नां घो᳓षो देवा᳓नां ज᳓यताम् उ᳓दस्थात्
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+इ᳓न्द्रस्य वृ᳓ष्णो व᳓रुणस्य रा᳓ज्ञ आदित्या᳓नां मरू᳓ताँ श᳓र्ध᳓ उग्र᳓म्।  
+महा᳓मनसां भुवनच्यवा᳓नां घो᳓षो देवा᳓नां ज᳓यतामु᳓दस्थात्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 इन्द्र॑स्य । वृष्णः॑ । वरु॑णस्य । राज्ञः॑ । आ॒दि॒त्याना॑म् । म॒रुता॑म् । शर्धः॑ । उ॒ग्रम् ।  
@@ -3458,6 +3654,45 @@ jáyatām ← √ji- 1 (root)
 <details><summary>पदपाठः - काण्वः</summary>
 
 इन्द्र॑स्य। वृष्णः॑। वरु॑णस्य। राज्ञः॑। आ॒दि॒त्याना॑म्। म॒रुता॑म्। शर्द्धः॑। उ॒ग्रम्। म॒हाम॑नसा॒मिति॑ म॒हाऽम॑नसाम्। भु॒व॒न॒च्य॒वाना॒मिति॑ भुवनऽच्य॒वाना॑म्। घोषः॑। दे॒वाना॑म्। जय॑ताम्। उत्। अ॒स्था॒त्। ९।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- इ᳓न्द्रस्य (*TS*-56/497, *RV*-136/1345, *TB*-34/363, *TK*-2/8, *AV*-91/606, *SB-M*-74/535, *SB-K*-72/509, *VS-M*-59/388, *VS-K*-53/358, *KS*-30/189)
+- वृ᳓ष्णः (*TS*-9/14, *RV*-44/78, *TB*-3/4, *AV*-7/13, *SB-M*-4, *SB-K*-4/6, *VS-M*-11/13, *VS-K*-10/12, *KS*-5/10)
+- व᳓रुणस्य (*TS*-33/118, *RV*-58/308, *TB*-20/85, *TK*-0/1, *AV*-42/113, *SB-M*-29/153, *SB-K*-26/152, *VS-M*-26/84, *VS-K*-25/82, *KS*-20/72)
+- रा᳓ज्ञः (*TS*-7/19, *RV*-10/13, *TB*-3/5, *TK*-0/3, *AV*-20/28, *SB-M*-19/22, *SB-K*-14/19, *VS-M*-1, *VS-K*-1, *KS*-3/5)
+- आदित्या᳓नाम् (*TS*-11/195, *RV*-12/91, *TB*-6/131, *TK*-0/21, *AV*-5/71, *SB-M*-8/445, *SB-K*-7/438, *VS-M*-6/44, *VS-K*-6/58, *KS*-4/53)
+- मरु᳓ताम् (*TS*-17/82, *RV*-35/227, *TB*-7/51, *TK*-0/1, *AV*-10/58, *SB-M*-10/95, *SB-K*-11/93, *VS-M*-9/46, *VS-K*-7/40, *KS*-3/29)
+- शर्धः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- उग्र᳓म् (*TS*-10/33, *RV*-61/153, *TB*-9/21, *TK*-0/2, *AV*-34/99, *SB-M*-6/10, *SB-K*-4/9, *VS-M*-11/23, *VS-K*-5/18, *KS*-6/12)
+- महा᳓-मनसाम् (*TS*-1, *RV*-1, *AV*-1, *VS-M*-1, *VS-K*-1, *KS*-1)
+- भुवन-च्यवा᳓नाम् (*TS*-1, *RV*-1, *AV*-1, *VS-M*-1, *VS-K*-1, *KS*-1)
+- घो᳓षः (*TS*-3/7, *RV*-7/25, *TB*-0/3, *AV*-5/14, *SB-M*-2/6, *SB-K*-3/7, *VS-M*-1/5, *VS-K*-1/4, *KS*-2)
+- देवा᳓नाम् (*TS*-184/1287, *RV*-188/1354, *TB*-124/582, *TK*-3/32, *AV*-111/708, *SB-M*-295/2032, *SB-K*-295/1945, *VS-M*-64/520, *VS-K*-63/507, *KS*-67/317)
+- ज᳓यताम् (*TS*-2/11, *RV*-2/7, *TB*-0/1, *AV*-3/4, *SB-M*-0/33, *SB-K*-0/34, *VS-M*-2, *VS-K*-2, *KS*-1/3)
+- उ᳓त् (*TS*-274, *RV*-293, *TB*-176, *TK*-6, *AV*-293, *SB-M*-684, *SB-K*-667, *VS-M*-114, *VS-K*-79, *KS*-81)
+- अस्थात् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-7, *RV*-36, *TB*-6, *AV*-6, *SB-M*-7, *SB-K*-6, *VS-M*-5, *VS-K*-4, *KS*-3)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- इ᳓न्द्रस्य (*MS*-84/711, *TS*-56/497, *RV*-136/1345, *TB*-34/363, *TK*-2/8, *AV*-91/606, *SB-M*-74/535, *SB-K*-72/509, *VS-M*-61/392, *VS-K*-57/380)
+- वृ᳓ष्णः (*MS*-8/15, *TS*-9/14, *RV*-44/78, *TB*-3/4, *AV*-7/13, *SB-M*-4, *SB-K*-4/6, *VS-M*-11/13, *VS-K*-10/12)
+- व᳓रुणस्य (*MS*-47/226, *TS*-33/118, *RV*-58/308, *TB*-20/85, *TK*-0/1, *AV*-42/113, *SB-M*-29/153, *SB-K*-26/152, *VS-M*-26/84, *VS-K*-25/84)
+- रा᳓ज्ञः (*MS*-6/10, *TS*-7/19, *RV*-10/13, *TB*-3/5, *TK*-0/3, *AV*-20/28, *SB-M*-19/22, *SB-K*-14/19, *VS-M*-1, *VS-K*-1)
+- आदित्या᳓नाम् (*MS*-16/229, *TS*-11/195, *RV*-12/91, *TB*-6/131, *TK*-0/21, *AV*-5/71, *SB-M*-8/445, *SB-K*-7/438, *VS-M*-6/44, *VS-K*-6/58)
+- मरू᳓ (*MW*, *Macdonell*, *Lanman*)
+- ताम् → **ता᳓म्** (स्वर-लोपः, *MS*-179/5550, *TS*-104/4761, *RV*-32/3136, *TB*-46/2709, *TK*-3/363, *AV*-149/3165, *SB-M*-405/20457, *SB-K*-394/20018, *VS-M*-15/780, *VS-K*-9/660)
+- श᳓र्धः᳓ → **श᳓र्धः** (अनेकोदात्त-दोषः पा॰ ६.१.१५८, समानान्तर-पाठः (MS), *MS*-1/2, *TS*-5/6, *RV*-31/53, *TK*-1, *AV*-4, *VS-M*-2/3, *VS-K*-1/4)
+- उग्र᳓म् (*MS*-9/40, *TS*-10/33, *RV*-61/153, *TB*-9/21, *TK*-0/2, *AV*-34/99, *SB-M*-6/10, *SB-K*-4/9, *VS-M*-11/23, *VS-K*-5/18)
+- महा᳓-मनसाम् (*MS*-1, *TS*-1, *RV*-1, *AV*-1, *VS-M*-1, *VS-K*-1)
+- भुवन-च्यवा᳓नाम् (*MS*-1, *TS*-1, *RV*-1, *AV*-1, *VS-M*-1, *VS-K*-1)
+- घो᳓षः (*MS*-2/6, *TS*-3/7, *RV*-7/25, *TB*-0/3, *AV*-5/14, *SB-M*-2/6, *SB-K*-3/7, *VS-M*-1/5, *VS-K*-1/4)
+- देवा᳓नाम् (*MS*-211/1218, *TS*-184/1282, *RV*-188/1354, *TB*-124/582, *TK*-3/32, *AV*-111/708, *SB-M*-295/2032, *SB-K*-295/1945, *VS-M*-64/531, *VS-K*-68/532)
+- ज᳓यताम् (*MS*-1/14, *TS*-2/11, *RV*-2/7, *TB*-0/1, *AV*-3/4, *SB-M*-0/33, *SB-K*-0/34, *VS-M*-2, *VS-K*-2)
+- उ᳓त् (*MS*-339, *TS*-274, *RV*-293, *TB*-176, *TK*-6, *AV*-293, *SB-M*-684, *SB-K*-667, *VS-M*-114, *VS-K*-85)
+- अस्थात् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-10, *TS*-7, *RV*-36, *TB*-6, *AV*-6, *SB-M*-7, *SB-K*-6, *VS-M*-5, *VS-K*-4)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -3627,6 +3862,15 @@ ________________
 तस्य वरुणस्य राज्ञः 'अदित्यानाम् अदिति-पुत्रानां मरुतां च "शर्षः बलं हस्त्यश्व-पदाति-लक्षणम् 'उग्रम् उद्गूर्ण, तच् च बलं 'महामनसां महा-संकल्प-युक्त-मनसां विजिगीषूणां भुवन-च्यवानां भुवनान्य् अपि व्यावयितुं समर्थानां जयतां शत्रून् विजयतां देवानां घोषः सिंहनादश् च उदस्थात् उत्तिष्ठतु ॥९॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[267_5]** Ch मरुतो
+
+- **[267_6]** St भुवनस्यमा᳓नां; Ch भुवनस्यवानां
+
+- **[267_7]** Ch गोषु
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 फिर भी उसी विषय को अगले मन्त्र में कहा है ॥
@@ -3690,6 +3934,12 @@ The voice hath ascended of the gods
 Great-hearted that shake the worlds as they conquer.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Of bull Indra, of King Varuṇa, of the Ādityas, of the Maruts, fierce is the host;  
+the roar of the great-minded, world-shaking, conquering gods has arisen!
+</details>
+
 <details><summary>Geldner</summary>
 
 Das Getöse des Bullen Indra, des Königs Varuna, der Aditya´s - der Marut gewaltige Heerschar - das Getöse der hochgemuten, welterschütternden siegenden Götter hat sich erhoben.
@@ -3733,7 +3983,7 @@ Des Königs Varuna, des Helden Indra, der Maruts, der Aditja's Schar ist mächti
 
 ###### 10 अस्माकमिन्द्रः समृतेषु - त्रिष्टुप्
 
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/11_asmAkamindraH_samRteShu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/11_asmAkamindraH_samRteShu.md">
 
 <details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 
@@ -3746,7 +3996,7 @@ Des Königs Varuna, des Helden Indra, der Maruts, der Aditja's Schar ist mächti
 
 </div>
 
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/11_asmAkamindraH_samRteShu.md">
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/11_asmAkamindraH_samRteShu.md">
 
 <details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -4054,7 +4304,7 @@ Es schirme unsre Kämpf' und Fahnen Indra; es seien unsre Pfeile, die da siegen,
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/10_uddharShaya_maghavannAyudhAnyutsatvanAM.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/10_uddharShaya_maghavannAyudhAnyutsatvanAM.md">
 
 <details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 
@@ -4067,7 +4317,7 @@ Es schirme unsre Kämpf' und Fahnen Indra; es seien unsre Pfeile, die da siegen,
 
 </div>
 
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/10_uddharShaya_maghavannAyudhAnyutsatvanAM.md">
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/10_uddharShaya_maghavannAyudhAnyutsatvanAM.md">
 
 <details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -4354,7 +4604,7 @@ Empor, o mächt'ger, richte unsre Waffen, empor die Geister meiner tapfern Helde
 
 ###### 12 उप प्रेत
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/6/04_agni-praNayanAngam_apratiratha-sUktam/201_upa_preta.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/6/04_agni-praNayanAngam_apratiratha-sUktam/201_upa_preta.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -4367,7 +4617,7 @@ Empor, o mächt'ger, richte unsre Waffen, empor die Geister meiner tapfern Helde
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/6/04_agni-praNayanAngam_apratiratha-sUktam/201_upa_preta.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/6/04_agni-praNayanAngam_apratiratha-sUktam/201_upa_preta.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
@@ -4402,7 +4652,7 @@ That ye may be unassailable.
 
 ###### 13 अव॑सृष्टा॒ परा॑ पत॒
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/6/04_agni-praNayanAngam_apratiratha-sUktam/204_avasRShTA_parA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/6/04_agni-praNayanAngam_apratiratha-sUktam/204_avasRShTA_parA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -4415,7 +4665,7 @@ That ye may be unassailable.
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/6/04_agni-praNayanAngam_apratiratha-sUktam/204_avasRShTA_parA.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/6/04_agni-praNayanAngam_apratiratha-sUktam/204_avasRShTA_parA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
@@ -4472,7 +4722,7 @@ Not one of them do thou spare.
 
 ###### 14 मर्मा॑णि ते॒
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/6/04_agni-praNayanAngam_apratiratha-sUktam/207_marmANi_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/6/04_agni-praNayanAngam_apratiratha-sUktam/207_marmANi_te.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -4485,7 +4735,7 @@ Not one of them do thou spare.
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/6/04_agni-praNayanAngam_apratiratha-sUktam/207_marmANi_te.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/6/04_agni-praNayanAngam_apratiratha-sUktam/207_marmANi_te.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>

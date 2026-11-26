@@ -68,7 +68,7 @@ unicode_script: devanagari
 </details>
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/18/182_RtAShA_DRta_dhAmAgni.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/18/182_RtAShA_DRta_dhAmAgni.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋताषा᳓डृत᳓-धामाग्नि᳓र् गन्धर्वः᳓
@@ -84,6 +84,11 @@ Maintainer of Law, true by nature, Agni is the Gandharva.
 <details><summary>Keith</summary>
 
 Supporting holy order, abounding in truth, Agni is the Gandharva;
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Conquering by truth, truth-aboded Agni is the Gandharva;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -482,7 +487,7 @@ his Apsarases are the Rc and Saman verses, (called) hymns, &c.
 </details>
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/18/41_iShiro_vishvavyachA_vAto.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/18/41_iShiro_vishvavyachA_vAto.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इषिरो᳓ विश्व᳓व्यचा वा᳓तो गन्धर्वः᳓
@@ -498,6 +503,11 @@ The Quick, All-reaching, Wind is the Gandharva.
 <details><summary>Keith</summary>
 
 The swift, all-pervading wind is the Gandharva;
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the vigorous, all-encompassing Wind is the Gandharva;
 </details>
 
 <details><summary>मूलम्</summary>

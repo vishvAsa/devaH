@@ -145,7 +145,7 @@ unicode_script: devanagari
 सा᳓म्राज्याय सुक्र᳓तुः ।
 </details>
 
-<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/025/10_ni_ShasAda.md">
+<div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/025/10_ni_ShasAda.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -231,6 +231,18 @@ sukrátuḥ ← sukrátu- (nominal stem)
 साम्रा॑ज्याय सु॒क्रतुः॑ ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+नि᳓षसाद धृत᳓व्रतो व᳓रुणः पस्त्या᳙स्व् आ᳓  
+सा᳓म्राज्याय सुक्र᳓तुः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+नि᳓षसाद धृत᳓व्रतो व᳓रुणः पस्त्या᳙स्वा᳓।  
+स᳓म्राज्याय सु॒क्र᳓तुः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 नि । स॒सा॒द॒ । धृ॒तऽव्र॑तः । वरु॑णः । प॒स्त्या॑सु । आ ।  
@@ -255,6 +267,31 @@ sukrátuḥ ← sukrátu- (nominal stem)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 नि᳓ । ससाद । धृत᳓-व्रतः । व᳓रुणः । पस्त्या᳙सु । आ । सा᳓म्-राज्याय । सु-क्र᳓तुः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- नि᳓ (*TS*-125, *RV*-482, *TB*-86, *TK*-2, *AV*-207, *SB-M*-414, *SB-K*-397, *VS-M*-47, *VS-K*-35, *KS*-78)
+- ससाद (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-6, *TB*-2, *SB-M*-6, *SB-K*-6, *VS-M*-2, *KS*-4)
+- धृत᳓-व्रतः (*TS*-2/3, *RV*-9/13, *TB*-2/4, *AV*-2, *SB-M*-4/6, *SB-K*-3/4, *VS-M*-2/3, *VS-K*-2/3, *KS*-6)
+- व᳓रुणः (*TS*-55/118, *RV*-169/308, *TB*-37/85, *TK*-0/1, *AV*-52/113, *SB-M*-97/153, *SB-K*-102/152, *VS-M*-42/84, *VS-K*-39/82, *KS*-41/72)
+- पस्त्या᳙सु (*TS*-2, *RV*-3, *TB*-2, *SB-M*-3, *SB-K*-3, *VS-K*-1, *KS*-2)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- सा᳓म्-राज्याय (*TS*-1/10, *RV*-3, *TB*-2/3, *AV*-0/1, *SB-M*-6/19, *SB-K*-5/18, *VS-M*-2/3, *VS-K*-4/5, *KS*-4)
+- सु-क्र᳓तुः (*TS*-3/4, *RV*-33/44, *TB*-3/6, *AV*-1/2, *SB-M*-5/7, *SB-K*-4/6, *VS-M*-3/4, *VS-K*-3/4, *KS*-5)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- नि᳓ (*MS*-193, *TS*-125, *RV*-482, *TB*-86, *TK*-2, *AV*-207, *SB-M*-414, *SB-K*-397, *VS-M*-46, *VS-K*-36)
+- ससाद (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-6, *TB*-2, *SB-M*-6, *SB-K*-6, *VS-M*-2, *MS*-5)
+- धृत᳓-व्रतः (*MS*-7/9, *TS*-2/3, *RV*-9/13, *TB*-2/4, *AV*-2, *SB-M*-4/6, *SB-K*-3/4, *VS-M*-2/3, *VS-K*-2/3)
+- व᳓रुणः (*MS*-107/226, *TS*-55/118, *RV*-169/308, *TB*-37/85, *TK*-0/1, *AV*-52/113, *SB-M*-97/153, *SB-K*-102/152, *VS-M*-42/84, *VS-K*-40/84)
+- पस्त्या᳙सु (*MS*-5, *TS*-2, *RV*-3, *TB*-2, *SB-M*-3, *SB-K*-3, *VS-K*-1)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- स᳓म् (*MS*-668, *TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-144)
+- राज्याय → **राज्या᳓य** (स्वर-लोपः, *MS*-3/12, *TS*-3/15, *RV*-0/1, *TB*-3/17, *AV*-1/4, *SB-M*-9/36, *SB-K*-5/28)
+- सु-क्र᳓तुः (*MS*-7/11, *TS*-3/4, *RV*-33/44, *TB*-3/6, *AV*-1/2, *SB-M*-5/7, *SB-K*-4/6, *VS-M*-3/4, *VS-K*-4/5)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -441,6 +478,11 @@ _________
 अयं यजमानो धृतव्रतः स्वीकृतनियमः वरुणः फलप्रतिबन्धकपापनिवारको भूत्वा साम्राज्यं कर्तुं सुक्रतुः शोभनसंकल्पस्सन् पस्त्यासु गृहसमानेषु आसन्दीस्थानेपु आनिषसाद सर्वत उपविष्टवान् ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[570_8]** Von hier ab accentuirt nach T1 und Brl fol. 120. 121. (From here on, accented after T1 and Brl fol. 120, 121.)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 राजा के समान राणी भी राजधर्म का आचरण करे, यह विषय अगले मन्त्र में कहा है ॥
@@ -512,6 +554,31 @@ In the waters, with keen insight, for lordship.
 Varuna, Law's maintainer, hath sat down among his people, he Most wise, for universal sway.
 
 Varuna, Law's maintainer, hath sat down, etc., as in X. 27.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Varuṇa of firm observance has sat down in his dwellings,  
+he of good purpose, for universal sovereignty.
+</details>
+
+<details><summary>Gemini 3.8 Flash (मैत्रायणीयम्)</summary>
+
+sit upon what is easy to sit upon!'
+
+the unshaken one in the place of meeting, in the seats;
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Varuṇa, whose ordinances are steadfast, has sat down among the homesteads,  
+of good insight,
+
+Varuṇa, his ordinance upheld, has sat down in the homesteads,  
+wise of purpose, for imperial sovereignty.
+
+Varuṇa, of firm resolve, has sat down  
+in the farmsteads, he of good insight, for universal rule.
 </details>
 
 <details><summary>Geldner</summary>
@@ -592,7 +659,7 @@ In seinem Palast sitzet er, Gesetz beschirmend Varuna, Zur Herrschaft der allmä
 </details>
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarva-prastutiH/2/6_sautrAmaNiH_kaukilI_hotram/05_abhiShekaH/devasya_tvA_tejo-vIrya-shrIbhyaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarva-prastutiH/2/6_sautrAmaNiH_kaukilI_hotram/05_abhiShekaH/devasya_tvA_tejo-vIrya-shrIbhyaH.md">
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
