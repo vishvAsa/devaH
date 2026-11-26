@@ -1310,16 +1310,17 @@ In seinem Palast sitzet er, Gesetz beschirmend Varuna, Zur Herrschaft der allmä
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-प्र᳓ति क्षत्रे᳓ प्र᳓तितिष्ठामि राष्ट्रे᳓ ।  
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/2/6_sautrAmaNiH_kaukilI_hotram/05_abhiShekaH/29_prati_xatre_pratitiShThAmi.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+प्र᳓ति क्षत्रे᳓ प्र᳓तितिष्ठामि राष्ट्रे᳓ ।
 </details>
+</div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
+<div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/2/6_sautrAmaNiH_kaukilI_hotram/05_abhiShekaH/29_prati_xatre_pratitiShThAmi.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>मूलम्</summary>
 
-प्रति॑ क्ष॒त्रे प्रति॑तिष्ठामि रा॒ष्ट्रे ।  
+प्रति॑ क्ष॒त्रे प्रति॑तिष्ठामि रा॒ष्ट्रे ।
 </details>
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
@@ -1329,20 +1330,25 @@ In seinem Palast sitzet er, Gesetz beschirmend Varuna, Zur Herrschaft der allmä
 
 <details><summary>सायण-टीका</summary>
 
-क्षत्त्रादिषु यज्ञान्तेषु प्रतितिष्ठामि स्थैर्येणावस्थितोऽस्मि । क्षत्त्रं बलं क्षत्त्रियादिर्वा । राष्ट्रं देशः ।  
-</details>
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-प्र᳓त्य᳓श्वेषु प्र᳓तितिष्ठामि गो᳓षु ।  
+क्षत्त्रादिषु यज्ञान्तेषु प्रतितिष्ठामि स्थैर्येणावस्थितोऽस्मि । क्षत्त्रं बलं क्षत्त्रियादिर्वा । राष्ट्रं देशः ।
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
+<details><summary>हरदत्तः</summary>
 
+संवेशनमन्त्राः - प्रतिक्षत्र इति ॥ नवस्वस्तरे संविशन् अहं क्षत्रादिष्वेव प्रति तिष्ठामीत्यर्थः ।
+</details>
+</details>
+</div><div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/2/6_sautrAmaNiH_kaukilI_hotram/05_abhiShekaH/30_pratyashveShu_pratitiShThAmi_goShu.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+प्र᳓त्य᳓श्वेषु प्र᳓तितिष्ठामि गो᳓षु ।
+</details>
+</div>
+
+<div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/2/6_sautrAmaNiH_kaukilI_hotram/05_abhiShekaH/30_pratyashveShu_pratitiShThAmi_goShu.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>मूलम्</summary>
 
-प्रत्यश्वे॑षु॒ प्रति॑तिष्ठामि॒ गोषु॑ ।  
+प्रत्यश्वे॑षु॒ प्रति॑तिष्ठामि॒ गोषु॑ ।
 </details>
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
@@ -1352,11 +1358,10 @@ In seinem Palast sitzet er, Gesetz beschirmend Varuna, Zur Herrschaft der allmä
 
 <details><summary>सायण-टीका</summary>
 
-अश्वादयः प्रसिद्धाः ।  
+अश्वादयः प्रसिद्धाः ।
 </details>
 </details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+</div><details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓त्य᳓ङ्गेषु प्र᳓तितिष्ठाम्यात्म᳓न् ।  
 </details>

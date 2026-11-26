@@ -68,7 +68,7 @@ unicode_script: devanagari
 </details>
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/18/182_RtAShA_DRta_dhAmAgni.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/18/182_RtAShADRta_dhAmAgnir_gandharvaH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋताषा᳓डृत᳓-धामाग्नि᳓र् गन्धर्वः᳓

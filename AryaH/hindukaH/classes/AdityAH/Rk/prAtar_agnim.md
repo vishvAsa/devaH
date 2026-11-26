@@ -5,7 +5,7 @@ unicode_script: devanagari
 ---
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/9_17_prAtar_agnim">
 <details open><summary><h5>९ १७ प्रातर् अग्निम् ...{Loading}...</h5></summary>
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/01_prAtaragniM_prAtarindraM.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/01_prAtaragniM_prAtarindraM.md">
 
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 प्रात᳓र् अग्नि᳓म् प्रात᳓र् इ᳓न्द्रं **हवामहे**  
@@ -16,7 +16,7 @@ unicode_script: devanagari
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/041/01_prAtaragniM_prAtarindraM.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/041/01_prAtaragniM_prAtarindraM.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - लिङ्गोक्तदेवताः
@@ -365,7 +365,7 @@ Frühmorgens laden Agni wir und Indra ein, frühmorgens Mitra-Varuna, die Ritter
 </details>
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/02_prAtarjitaM_bhagamugraM.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/02_prAtarjitaM_bhagamugraM.md">
 
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 प्रातर्-जि᳓तं +++(=जयशीलं)+++ भ᳓गम् उग्रं᳓ **हुवेम**  
@@ -376,7 +376,7 @@ Frühmorgens laden Agni wir und Indra ein, frühmorgens Mitra-Varuna, die Ritter
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/041/02_prAtarjitaM_bhagamugraM.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/041/02_prAtarjitaM_bhagamugraM.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - भगः
@@ -935,7 +935,7 @@ Wir wollen den, der früh gewinnt und austheilt, den mächt'gen Bhaga, den Aditj
 </details>
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/03_bhaga_praNetarbhaga.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/03_bhaga_praNetarbhaga.md">
 
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 भ᳓ग प्र᳓णेतर्, भ᳓ग स᳓त्य-राधो!  
@@ -946,7 +946,7 @@ Wir wollen den, der früh gewinnt und austheilt, den mächt'gen Bhaga, den Aditj
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/041/03_bhaga_praNetarbhaga.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/041/03_bhaga_praNetarbhaga.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - भगः
@@ -1339,7 +1339,7 @@ O Bhaga the leader, o Bhaga whose generosity is real, o Bhaga—promote  this po
 Bhaga, propagate us with cows and horses; Bhaga, might we, possessed  of superior men, be preeminent through our men.
 </details>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/041/03-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="6" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/041/03-05.md">
 <details><summary><h2>03-05 ...{Loading}...</h2></summary>
 
 <details><summary>Jamison Brereton Notes</summary>
@@ -1428,7 +1428,7 @@ O Bhaga, Führer, Bhaga, wahrhaft reicher, begünst'ge, Bhaga, dieses Lied, uns 
 </details>
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/04_utedAnIM_bhagavantaH.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/04_utedAnIM_bhagavantaH.md">
 
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 उते᳓दा᳓नीं **भ᳓गवन्तः स्याम**+  
@@ -1439,7 +1439,7 @@ O Bhaga, Führer, Bhaga, wahrhaft reicher, begünst'ge, Bhaga, dieses Lied, uns 
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/041/04_utedAnIM_bhagavantaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/041/04_utedAnIM_bhagavantaH.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - भगः
@@ -1690,7 +1690,7 @@ And just now might we be possessed of portion [/accompanied by  Bhaga], and at e
 and at the rising of the sun, o bounteous one, might we be in the good  grace of the gods.
 </details>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/041/03-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="6" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/041/03-05.md">
 <details><summary><h2>03-05 ...{Loading}...</h2></summary>
 
 The concatenation continues in the next vss. The ending of vs. 3, … nṛvántaḥ syāma, echoes in the following two vss. The 1st pl. opt. syāma is repeated at the end of 4a and d and 5b, while the -vant-stem adj. shifts from nṛvántaḥ (3d) to another punning bhágavantaḥ (both ‘possessing a portion’ and ‘accompanied by Bhaga’) in bhágavantaḥ syāma (4a, 5b; cf. bhágavān 5a). And bhágavān in 5a matches maghavan in the same metrical position in 4c.
@@ -1771,7 +1771,7 @@ Auch jetzt versorge uns mit reichem Antheil beim Tages Anbruch und in Tages Mitt
 </details>
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_15/05_bhaga_eva.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_15/05_bhaga_eva.md">
 
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
@@ -1784,40 +1784,7 @@ Auch jetzt versorge uns mit reichem Antheil beim Tages Anbruch und in Tages Mitt
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/1_15/05_bhaga_eva.md">
-<details><summary>मूलम्</summary>
-
-भग॑ ए॒व भग॑वाँ अस्तु देवा॒स्तेन॑ व॒यं भग॑वन्तस्स्याम ।  
-तन्त्वा॑ भग॒ सर्व॒ इज्जो॑हवीमि॒ स नो॑ भग पुरए॒ता भ॑वे॒ह ।  
-</details>
-
-<details><summary>पद-पाठः (यान्त्रिकः)</summary>
-
-- भ᳓गः (*TS*-4/13, *RV*-63/115, *TB*-3/15, *AV*-30/65, *SB-M*-0/7, *SB-K*-5/17, *VS-M*-6/19, *VS-K*-6/22)
-- एव᳓ (*TS*-3243, *RV*-173, *SB-K*-8573, *VS-K*-5)
-- भ᳓गवान् (*RV*-2/3, *AV*-2/9, *SB-M*-0/6, *SB-K*-5/14, *VS-M*-1)
-- अस्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
-- देवाः (अपादादौ आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *RV*-72 ७.४१.५; प्रथमाबहुवचने देवाः᳓ *TS*-376/1025, *RV*-238/1342, *TB*-38/242, *AV*-283/705, *SB-M*-106/567, *SB-K*-984/1945, *VS-M*-22/257, *VS-K*-19/350)
-- ते᳓न (*TS*-295/4763, *RV*-62/3136, *TB*-101/1327, *AV*-217/3163, *SB-M*-219/2303, *SB-K*-684/20018, *VS-M*-24/268, *VS-K*-25/395)
-- वय᳓म् (*TS*-88/565, *RV*-297/1306, *TB*-37/114, *AV*-196/1248, *SB-M*-50/174, *SB-K*-104/728, *VS-M*-56/127, *VS-K*-60/178)
-- भ᳓गवन्तः (*RV*-3, *AV*-4, *SB-K*-2/8, *VS-M*-2)
-- स्याम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
-- त᳓म् (*TS*-356/4763, *RV*-540/3136, *TB*-140/1327, *AV*-432/3163, *SB-M*-294/2303, *SB-K*-1304/20018, *VS-M*-50/268, *VS-K*-63/395)
-- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-814, *RV*-590, *SB-K*-675, *VS-K*-525)
-- भग (आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
-- स᳓र्वः (*TS*-10/281, *RV*-6/68, *TB*-1/109, *AV*-11/443, *SB-M*-28/1221, *SB-K*-95/2224, *VS-M*-0/39, *VS-K*-0/41)
-- इ᳓त् (*TS*-77, *SB-K*-94, *VS-K*-2)
-- जोहवीमि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
-- सः᳓ (*TS*-766/4763, *RV*-1037/3136, *TB*-28/1327, *AV*-689/3163, *SB-M*-25/2303, *SB-K*-4217/20018, *VS-M*-1/268, *VS-K*-8/395)
-- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *SB-K*-533, *VS-K*-111)
-- भग (आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
-- पुरः-एता᳓ (*RV*-8 ७.४१.५, *AV*-5, *SB-K*-2, तृच् पा॰ ६.२.१३९)
-- भव (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-52, *RV*-67, *SB-K*-19, *VS-K*-27)
-- इह᳓ (*TS*-100, *RV*-277, *SB-K*-166, *VS-K*-39)
-</details>
-
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/041/05_bhaga_eva.md">
-<details open><summary><h5>005 ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/041/05_bhaga_eva.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - भगः
@@ -1931,6 +1898,12 @@ sá ← sá- ~ tá- (pronoun)
 स नो॑ भग पुरए॒ता भ॑वे॒ह ।
 </details>
 
+<details><summary>मूलम् - एकाग्निकाण्डम्</summary>
+
+भग॑ ए॒व भग॑वाँ अस्तु देवा॒स्तेन॑ व॒यं भग॑वन्तस्स्याम ।  
+तन्त्वा॑ भग॒ सर्व॒ इज्जो॑हवीमि॒ स नो॑ भग पुरए॒ता भ॑वे॒ह ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 भगः॑ । ए॒व । भग॑ऽवान् । अ॒स्तु॒ । दे॒वाः॒ । तेन॑ । व॒यम् । भग॑ऽवन्तः । स्या॒म॒ ।  
@@ -1940,6 +1913,31 @@ sá ← sá- ~ tá- (pronoun)
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 भगः॑। ए॒व। भग॑वा॒निति॒ भग॑ऽवान्। अ॒स्तु॒। दे॒वाः॒। तेन॑। व॒यम्। भग॑वन्त॒ इति॒ भग॑ऽवन्तः। स्या॒म॒। तम्। त्वा॒। भ॒ग॒। सर्वः॑। इत्। जो॒ह॒वी॒ति॒। सः। नः॒। भ॒ग॒। पु॒र॒ऽए॒तेति॑ पुरःऽए॒ता। भ॒व॒। इ॒ह। ३८।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - एकाग्निकाण्डम्)</summary>
+
+- भ᳓गः (*TS*-4/13, *RV*-63/115, *TB*-3/15, *AV*-30/65, *SB-M*-0/7, *SB-K*-5/17, *VS-M*-6/19, *VS-K*-6/22, *KS*-7/11, *MS*-16/33)
+- एव᳓ (*TS*-3243, *RV*-173, *SB-K*-8573, *VS-K*-5, *KS*-434, *MS*-2376)
+- भ᳓गवान् (*RV*-2/3, *AV*-2/9, *SB-M*-0/6, *SB-K*-5/14, *VS-M*-1, *MS*-2)
+- अस्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *KS*-52, *MS*-111)
+- देवाः (अपादादौ आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *RV*-72 ७.४१.५, *KS*-24, *MS*-36; प्रथमाबहुवचने देवाः᳓ *TS*-376/1025, *RV*-238/1342, *TB*-38/242, *AV*-283/705, *SB-M*-106/567, *SB-K*-984/1945, *VS-M*-22/257, *VS-K*-19/350, *KS*-89/317, *MS*-453/1216)
+- ते᳓न (*TS*-295/4763, *RV*-62/3136, *TB*-101/1327, *AV*-217/3163, *SB-M*-219/2303, *SB-K*-684/20018, *VS-M*-24/268, *VS-K*-25/395, *KS*-80/1225, *MS*-494/5550)
+- वय᳓म् (*TS*-88/565, *RV*-297/1306, *TB*-37/114, *AV*-196/1248, *SB-M*-50/174, *SB-K*-104/728, *VS-M*-56/127, *VS-K*-60/178, *KS*-46/242, *MS*-120/641)
+- भ᳓गवन्तः (*RV*-3, *AV*-4, *SB-K*-2/8, *VS-M*-2)
+- स्याम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *KS*-20, *MS*-30)
+- त᳓म् (*TS*-356/4763, *RV*-540/3136, *TB*-140/1327, *AV*-432/3163, *SB-M*-294/2303, *SB-K*-1304/20018, *VS-M*-50/268, *VS-K*-63/395, *KS*-117/1225, *MS*-528/5550)
+- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-814, *RV*-590, *SB-K*-675, *VS-K*-525, *KS*-326, *MS*-812)
+- भग (आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- स᳓र्वः (*TS*-10/281, *RV*-6/68, *TB*-1/109, *AV*-11/443, *SB-M*-28/1221, *SB-K*-95/2224, *VS-M*-0/39, *VS-K*-0/41, *KS*-1/43, *MS*-28/419)
+- इ᳓त् (*TS*-77, *SB-K*-94, *VS-K*-2, *KS*-42, *MS*-88)
+- जोहवीमि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *KS*-1, *MS*-10)
+- सः᳓ (*TS*-766/4763, *RV*-1037/3136, *TB*-28/1327, *AV*-689/3163, *SB-M*-25/2303, *SB-K*-4217/20018, *VS-M*-1/268, *VS-K*-8/395, *KS*-225/1225, *MS*-784/5550)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *SB-K*-533, *VS-K*-111, *KS*-252, *MS*-616)
+- भग (आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- पुरः-एता᳓ (*RV*-8 ७.४१.५, *AV*-5, *SB-K*-2, *MS*-2/3, तृच् पा॰ ६.२.१३९)
+- भव (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-52, *RV*-67, *SB-K*-19, *VS-K*-27, *KS*-28, *MS*-63)
+- इह᳓ (*TS*-100, *RV*-277, *SB-K*-166, *VS-K*-39, *KS*-43, *MS*-103)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -2214,7 +2212,7 @@ Let Bhaga himself be possessed of portion, o gods. In this way might we  be poss
 Each and every one constantly calls on you, Bhaga. Become our guide  here, Bhaga.
 </details>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/041/03-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="6" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/041/03-05.md">
 <details><summary><h2>03-05 ...{Loading}...</h2></summary>
 
 <details><summary>Jamison Brereton Notes</summary>
@@ -2301,11 +2299,9 @@ Ja reich an Gaben sei, o Götter, Bhaga, durch ihn auch mögen wir an Gaben reic
 
 भावार्थभाषाः -  हे जगदीश्वरा ! तू संपूर्ण ऐश्वर्यवान असून सर्वांना सर्व ऐश्वर्य देतोस, त्या साह्यामुळे सर्व माणसे धनवान व्हावीत. ॥ ५ ॥
 </details>
-</details>
-</div>
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/06_samadhvarAyoShaso_namanta.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/06_samadhvarAyoShaso_namanta.md">
 
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 स᳓म् अध्वरा᳓योष᳓सो **नमन्त**,  
@@ -2318,7 +2314,7 @@ Ja reich an Gaben sei, o Götter, Bhaga, durch ihn auch mögen wir an Gaben reic
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/041/06_samadhvarAyoShaso_namanta.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/041/06_samadhvarAyoShaso_namanta.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - भगः
@@ -2761,7 +2757,7 @@ Zum Opfer mögen sich die Morgenröthen, wie Dadhikra zum hellen Orte wenden; Si
 </details>
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/07_ashvAvatIrgomatIrna_uShAso.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/07_ashvAvatIrgomatIrna_uShAso.md">
 
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 अ᳓श्वावतीर् गो᳓मतीर् न उषा᳓सो  
@@ -2772,7 +2768,7 @@ Zum Opfer mögen sich die Morgenröthen, wie Dadhikra zum hellen Orte wenden; Si
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/041/07_ashvAvatIrgomatIrna_uShAso.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/041/07_ashvAvatIrgomatIrna_uShAso.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः

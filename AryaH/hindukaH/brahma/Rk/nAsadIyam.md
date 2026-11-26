@@ -7,8 +7,8 @@ unicode_script: devanagari
 ---
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/9_08-16_nAsadIyam">
 <details open><summary><h5>९ ०८-१६ नासदीयम् ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarva-prastutiH/10/129_nAsadIyam/">
-<div class="js_include" newlevelforh1="2" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/_index.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarva-prastutiH/10/129_nAsadIyam/">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/_index.md">
 <details open><summary><h2>सर्वाष् टीकाः ...{Loading}...</h2></summary>
 <details><summary>सायण-भाष्यम्</summary>
 
@@ -40,7 +40,7 @@ But even if thought is the ultimate and primal creative act, the origin of the  
 </div>
 
 ###### 01 नासदासीन्नो सदासीत्तदानीम् - त्रिष्टुप्
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/01_nAsadAsInno_sadAsIttadAnIM.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/01_nAsadAsInno_sadAsIttadAnIM.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 ना᳓सद् आसीन्, नो᳓ स᳓द् आसीत् तदा᳓नीम् ।  
@@ -51,7 +51,7 @@ But even if thought is the ultimate and primal creative act, the origin of the  
 
 </details>
 </div>
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/01_nAsadAsInno_sadAsIttadAnIM.md">
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/01_nAsadAsInno_sadAsIttadAnIM.md">
 <details><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -440,7 +440,7 @@ Zu jener Zeit war weder Sein, noch Nichtsein, nicht war der Luftraum, noch der H
 </div>
 
 ###### 02 न मृत्युरासीदमृतम् - त्रिष्टुप्
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/02_na_mRtyurAsIdamRtaM.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/02_na_mRtyurAsIdamRtaM.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 न᳓ मृत्यु᳓र्, अमृ᳓तं त᳓र्हि न᳓ ।  
@@ -450,7 +450,7 @@ Zu jener Zeit war weder Sein, noch Nichtsein, nicht war der Luftraum, noch der H
 
 </details>
 </div>
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/02_na_mRtyurAsIdamRtaM.md">
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/02_na_mRtyurAsIdamRtaM.md">
 <details><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -820,7 +820,7 @@ Nicht Tod und nicht Unsterblichkeit war damals, nicht gab's des Tages noch der N
 </div>
 
 ###### 03 तम आसीत्तमसा - त्रिष्टुप्
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/03_tama_AsIttamasA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/03_tama_AsIttamasA.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 त᳓म +++(→नाम-रूप-विभागानर्ह- सूक्ष्म-चिद्-अचित्-पिण्डम्)+++ आसीत्, त᳓मसा गूढ᳓म् अ᳓ग्रे प्रकेत᳓म् +++(=रहस्यम्)+++।  
@@ -830,7 +830,7 @@ Nicht Tod und nicht Unsterblichkeit war damals, nicht gab's des Tages noch der N
 
 </details>
 </div>
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/03_tama_AsIttamasA.md">
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/03_tama_AsIttamasA.md">
 <details><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -1172,7 +1172,7 @@ Nur Dunkel war, verhüllt von Dunkel, anfangs und unerkennbar wogte dieses alles
 </div>
 
 ###### 04 कामस्तदग्रे समवर्तताधि - त्रिष्टुप्
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/04_kAmastadagre_samavartatAdhi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/04_kAmastadagre_samavartatAdhi.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 का᳓मस् त᳓द् अ᳓ग्रे स᳓मवर्तता᳓धि +++(=आधिक्ये)+++।  
@@ -1182,8 +1182,15 @@ Nur Dunkel war, verhüllt von Dunkel, anfangs und unerkennbar wogte dieses alles
 
 </details>
 </div>
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/04_kAmastadagre_samavartatAdhi.md">
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/04_kAmastadagre_samavartatAdhi.md">
 <details><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
+devataa : भाववृत्तं
+
+RShiH : प्रजापतिः परमेष्ठी
+
+ChandaH : त्रिष्टुप्
+
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - भाववृत्तं
@@ -1286,6 +1293,14 @@ pratī́ṣyā ← √iṣ- 2 (root)
 मन॑सो॒ रेत॑ᳶ प्रथ॒मय्ँयदासी॑त् ।
 स॒तो बन्धु॒मस॑ति॒ निर॑विन्दन् ।
 हृ॒दि प्र॒तीष्या॑ क॒वयो॑ मनी॒षा ।
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयारण्यकम्</summary>
+
+काम॒स्तदग्रे॒ सम॑वर्त॒ताधि॑ ।  
+मन॑सो॒ रेतः॑ प्रथ॒मय्ँयदासी॑त् । [89]  
+स॒तो बन्धु॒मस॑ति॒ निर॑विन्दन् ।  
+हृ॒ति प्र॒दीष्या॑ क॒वयो॑ मनी॒षेति॑ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1451,6 +1466,21 @@ _______________
 26कामस्तदिति त्रिष्टुभस्तिस्रः ॥ अग्रे मनसः पूर्वम् । प्रवृत्तिनिवृत्तिविशेषहेतुर्मनः । ततः पूर्वं काम इच्छाशक्तिमात्रं समवर्तत । ततः अधि अस्मादधि उपरि मनसोपि रेतः कारणं प्रथमं प्रधानं यदासीत् 'तदसदेव सन्मनोकुरुत स्यामिति' । सतः प्रपञ्चस्य भूतेन्द्रियात्मनः बन्धुं कारणं मनः असति प्रपञ्चरूपेण असति ब्रह्मणि निरविन्दन् निष्कृष्य अलभन्त । यद्वा - अग्रे सृष्ट्यादौ काम एव प्रथमं तस्मात्समवर्तत । पुनश्च कीदृशमित्याह - मनसो रेतः कार्यं यदासीद्भूतेन्द्रियादिकं तस्य सर्वस्य सतः स्थूलस्य प्रपञ्चस्य बन्धुं असति मूलकारणे निरविन्दन् । यथा 'असतस्सद्ये ततक्षुः' । इत्याहुः । मनः कामः इच्छेति पर्यायाः । कामः प्रथमं संकल्प्य आदौ समवर्तत । ततस्तस्य यद्रेत: कार्यभूतेन्द्रियादिकं तत्समवर्तत । तत्कथमित्याह - सतः प्रपञ्चस्य कारणं बन्धु असति निरविन्दन् कवयः । हृदि हृदये प्रतीष्य प्रतिलभ्य । संहितायां दीर्घत्वं छान्दसम् । यद्वा - प्रतीष्या बुद्ध्या संकल्पात्मिकया मनीषा मनीषया ज्ञानेन इन्द्रियात्मिकया बुद्ध्या निरविन्दन् ॥
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+2\. Kāma (Desire) came forth in the very beginning, which was the first (flow of) semen of the mind (1). The intelligent sages, deciding in their hearts, found the relation of the being (sat) in the non-being (asat).
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+कामस्तदग्र इति ॥ एतां च सङ्कल्पवतीमुपदधाति । व्याख्याता चेयं त्रिषटुप् - "जुष्टो दमूना" इत्यत्र । प्रजापतेर् अग्रे प्रथमं कामस्समवर्तत समपद्यत यन्मनसः प्रथमं रेतः कार्यभूतम् आसीत् सतो बन्धुं व्यक्तसम्बन्धिनं यं कामम् असत्य् अव्यक्ते निरविन्दन् निष्कृष्य लब्धवन्तः हृदये प्रार्थितं कवयः मेधाविनः प्रजापतयः प्राणा वा । मनीषा मनस ईशितार इति ॥२॥
+</details>
+
+<details><summary>सायण-टीका (आरण्यकी)</summary>
+
+तत्तदानीं सृष्टिकाले प्रजापतेः सकाशादग्रे प्रथमं कामः सर्वं सृजेयमित्यभिलाषः अधि समवर्तताऽऽधिक्येन सम्यगुत्पन्नः । यद्यदा मनसः प्रथमं रेतः कार्यमासीत् । तदेति पूर्वत्रान्वयः । पूर्वसृष्टौ लीनायामव्यक्ते जगत्कारणे स्रक्ष्यमाणप्राणिकर्मोद्भवे सति यदा प्रजापतेर्मानसं प्रथमं कार्यमुत्पन्नं तदा तत्कार्यं सृष्टिविषयेच्छारूपेण निष्पन्नमित्यर्थः । मनीषा मनस ईशितारः कवयो विद्वांसस्तत्तत्सृष्टिगताः प्रजापतयो हृदि स्वचित्ते प्रतीष्य प्रत्येकं निश्चित्य सतो विद्यमानस्य व्यक्तस्य जगतो बन्धुं बन्धकमुत्पत्तिहेतुं काममसत्यव्यक्ते कारणे निरविन्दन्निष्कृष्य लब्धवन्तः । न केवलमेतस्यामेव सृष्टौ किं तु सर्वास्वपि सृष्टिषु प्रवृत्ताः प्रजापतयः काममेव प्रथमं लभन्त इत्यर्थः । इतिशब्दो मन्त्रसमाप्तौ । अनेन मन्त्रेणैकामिष्टकामुपदधायात् । तथा च बौधायन आह - "कामस्तदग्र इति सङ्कल्पवतीम्" इति ।
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -1526,7 +1556,7 @@ Da regte sich zuerst in ihm Begierde, als sich des Geistes erster Same zeigte; E
 </div>
 
 ###### 05 तिरश्चीनो विततो - त्रिष्टुप्
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/05_tirashchIno_vitato.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/05_tirashchIno_vitato.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 तिरश्ची᳓नो वि᳓ततो रश्मि᳓र् एषाम् ।  
@@ -1536,7 +1566,7 @@ Da regte sich zuerst in ihm Begierde, als sich des Geistes erster Same zeigte; E
 
 </details>
 </div>
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/05_tirashchIno_vitato.md">
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/05_tirashchIno_vitato.md">
 <details><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -2069,7 +2099,7 @@ Und quer hindurch, war ihre Schnur gezogen, was war darunter? und was war darüb
 </div>
 
 ###### 06 को अद्धा - त्रिष्टुप्
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/06_ko_addhA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/06_ko_addhA.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 को᳓ अद्धा᳓ वेद क᳓ इह᳓ प्र᳓ वोचत्  
@@ -2078,7 +2108,7 @@ Und quer hindurch, war ihre Schnur gezogen, was war darunter? und was war darüb
 अ᳓था को᳓ वेद य᳓त आबभू᳓व
 </details>
 </div>
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/06_ko_addhA.md">
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/06_ko_addhA.md">
 <details><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -2415,7 +2445,7 @@ Wer weiss es recht? wer mag es hier verkünden? woher entstand, woher sie kam di
 </div>
 
 ###### 07 इयं विसृष्थिर्यत - त्रिष्टुप्
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/07_iyaM_visRShTiryata.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/07_iyaM_visRShTiryata.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 इयं᳓ वि᳓सृष्टिर् य᳓त आबभू᳓व ।  
@@ -2425,7 +2455,7 @@ Wer weiss es recht? wer mag es hier verkünden? woher entstand, woher sie kam di
 
 </details>
 </div>
-<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/07_iyaM_visRShTiryata.md">
+<div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/07_iyaM_visRShTiryata.md">
 <details><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -2765,7 +2795,7 @@ Von wannen diese Schöpfung sei gekommen, ob sie geschaffen oder unerschaffen, D
 </div>
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/081/04_kiM_svidvanaM.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/081/04_kiM_svidvanaM.md">
 
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
@@ -2778,7 +2808,7 @@ Von wannen diese Schöpfung sei gekommen, ob sie geschaffen oder unerschaffen, D
 
 </div>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/081/04_kiM_svidvanaM.md">
+<div class="js_include" includetitle="true" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/081/04_kiM_svidvanaM.md">
 
 <details open><summary><h2>004 …{Loading}…</h2></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -3276,7 +3306,7 @@ Was war der Wald, und was war jener Baum doch, aus dem sie Erd' und Himmel schö
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/9_08-16_nAsadIyam/24_brahma_vanam.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/9_08-16_nAsadIyam/24_brahma_vanam.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -3289,7 +3319,7 @@ Was war der Wald, und was war jener Baum doch, aus dem sie Erd' und Himmel schö
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/9_08-16_nAsadIyam/24_brahma_vanam.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/9_08-16_nAsadIyam/24_brahma_vanam.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
