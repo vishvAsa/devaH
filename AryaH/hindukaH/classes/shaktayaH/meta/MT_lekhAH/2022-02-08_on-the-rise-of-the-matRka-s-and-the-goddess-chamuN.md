@@ -22,7 +22,7 @@ Despite this relatively late arrival on the iconographic landscape, they have de
 
 Below we provide an Atharvavedic version of these incantations (the subset which is found in RV is effectively the equivalently).
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/atharva/paippalAdam/saMhitA/vishvAsa-prastutiH/20/011/10_yA_rAkA_yA.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/atharva/paippalAdam/saMhitA/Rk/vishvAsa-prastutiH/20/011/10_yA_rAkA_yA.md">
 <details open><summary><h5>१० या राका या ...{Loading}...</h5></summary>
 
 या᳓ राका᳓ या᳓ सिनीवाली᳓  

@@ -341,16 +341,46 @@ Des grossen Himmels Stütze in der Erde Schooss, in Wasserwogen, in den Strömen
 
 One may also consider the triShTubh incantation of our ancient clansman, the kAvya describing indra as the heart of the gods:
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/atharva/paippalAdam/saMhitA/vishvAsa-prastutiH/04/011/03_ahaM_satyena_sayujA.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/atharva/paippalAdam/saMhitA/Rk/vishvAsa-prastutiH/04/011/03_ahaM_satyena_sayujA.md">
 <details open><summary><h5>०३ अहं सत्येन सयुजा ...{Loading}...</h5></summary>
 
-अहं **सत्येन** सयुजा **चराम्य्**  
-अहं देवीम् **अनुमतिं प्र वेद** ।  
-**इन्द्रो** देवानां हृदयं वो **अस्तु**  
-**सध्रीचीनं**+++(←सध्र्यङ् = सहचरं)+++ वो **मनो** ऽस्तूग्रम् ॥
+अहं᳓ **सत्ये᳓न** सयु᳓जा **चराम्य्**  
+अहं᳓ देवी᳓म् **अ᳓नुमतिं प्र᳓ वे᳓द** ।  
+**इ᳓न्द्रो** देवा᳓नां हृ᳓दयं वो **अस्तु**  
+**सध्रीची᳓नं**+++(←सध्र्यङ् = सहचरं)+++ वो **म᳓नो** ऽस्तूग्र᳓म् ॥
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/atharva/paippalAdam/saMhitA/sarvASh_TIkAH/04/011/03_ahaM_satyena_sayujA.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/atharva/paippalAdam/saMhitA/Rk/sarvASh_TIkAH/04/011/03_ahaM_satyena_sayujA.md">
 <details open><summary><h5>०३ अहं सत्येन सयुजा ...{Loading}...</h5></summary>
+<details><summary>मूलम् (GR)</summary>
+
+अहं सत्येन सयुजा चराम्य्  
+अहं देवीम् अनुमतिं प्र वेद ।  
+इन्द्रो देवानां हृदयं वो अस्तु  
+सध्रीचीनं वो मनो ऽस्तूग्रम् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- अह᳓म् (*MW*, *TS*-162/566, *RV*-198/1308, *TB*-60/211, *TK*-30/66, *AV*-254/1252, *SB-M*-268/723, *SB-K*-256/758, *VS-M*-61/315, *VS-K*-39/274, *KS*-48/135, *MS*-156/587)
+- सत्ये᳓न (*TS*-4/77, *RV*-5/133, *TB*-9/58, *TK*-1/44, *AV*-7/71, *SB-M*-21/187, *SB-K*-21/184, *VS-M*-2/36, *VS-K*-2/47, *KS*-3/13, *MS*-12/98)
+- सयु᳓जा (*TS*-4/9, *RV*-1/4, *TB*-1/2, *TK*-0/1, *AV*-5/7, *SB-M*-2/21, *SB-K*-0/24, *VS-M*-3/4, *VS-K*-2, *KS*-0/1, *MS*-4/5)
+- चरामि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-5, *TB*-1, *AV*-2, *SB-M*-2, *SB-K*-2)
+- अह᳓म् (*MW*, *TS*-162/566, *RV*-198/1308, *TB*-60/211, *TK*-30/66, *AV*-254/1252, *SB-M*-268/723, *SB-K*-256/758, *VS-M*-61/315, *VS-K*-39/274, *KS*-48/135, *MS*-156/587)
+- देवी᳓म् (*TS*-1/38, *RV*-18/118, *TB*-1/42, *TK*-1/4, *AV*-6/61, *SB-M*-0/39, *SB-K*-0/29, *VS-M*-0/55, *VS-K*-1/64, *KS*-1/8, *MS*-2/81)
+- अ᳓नु-मतिम् (*TS*-1/13, *RV*-0/1, *TB*-0/5, *TK*-0/26, *AV*-1/7, *SB-M*-0/6, *SB-K*-0/6, *VS-M*-0/3, *VS-K*-0/4, *MS*-0/15)
+- प्र᳓ (*TS*-780, *RV*-1193, *TB*-368, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1608, *VS-M*-203, *VS-K*-195, *KS*-144, *MS*-798)
+- वे᳓द (*Whitney*, *Lanman*, *TS*-128, *RV*-26/31, *TB*-160, *TK*-73, *AV*-143/145, *SB-M*-328, *SB-K*-342, *VS-M*-8, *VS-K*-11, *KS*-17, *MS*-140)
+- इ᳓न्द्रः (*TS*-179/497, *RV*-564/1345, *TB*-103/287, *TK*-5/8, *AV*-306/606, *SB-M*-291/535, *SB-K*-292/509, *VS-M*-97/392, *VS-K*-98/380, *KS*-45/110, *MS*-286/657)
+- देवा᳓नाम् (*TS*-184/1287, *RV*-188/1354, *TB*-117/527, *TK*-3/31, *AV*-111/708, *SB-M*-296/2035, *SB-K*-296/1952, *VS-M*-64/531, *VS-K*-68/532, *KS*-46/201, *MS*-196/1097)
+- हृ᳓दयम् (*TS*-8/12, *RV*-4/14, *TB*-5/6, *TK*-14/25, *AV*-20/39, *SB-M*-58/87, *SB-K*-65/95, *VS-M*-4/8, *VS-K*-4/8, *KS*-5/6, *MS*-9/15)
+- वः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-190, *RV*-565, *TB*-39, *TK*-6, *AV*-273, *SB-M*-143, *SB-K*-148, *VS-M*-114, *VS-K*-70, *KS*-78, *MS*-201)
+- अस्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-65, *RV*-170, *TB*-30, *TK*-2, *AV*-211, *SB-M*-54, *SB-K*-62, *VS-M*-60, *VS-K*-39, *KS*-26, *MS*-98)
+- सध्रीची᳓नम् (*MW*, *Macdonell*, *AV*-0/2)
+- वः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-190, *RV*-565, *TB*-39, *TK*-6, *AV*-273, *SB-M*-143, *SB-K*-148, *VS-M*-114, *VS-K*-70, *KS*-78, *MS*-201)
+- म᳓नः (*Whitney*, *TS*-65/141, *RV*-90/238, *TB*-19/54, *TK*-11/17, *AV*-75/161, *SB-M*-198/343, *SB-K*-191/312, *VS-M*-41/86, *VS-K*-33/78, *KS*-15/28, *MS*-58/134)
+- अस्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-65, *RV*-170, *TB*-30, *TK*-2, *AV*-211, *SB-M*-54, *SB-K*-62, *VS-M*-60, *VS-K*-39, *KS*-26, *MS*-98)
+- उग्र᳓म् (*TS*-10/33, *RV*-61/153, *TB*-5/15, *TK*-0/2, *AV*-34/99, *SB-M*-6/10, *SB-K*-4/9, *VS-M*-11/23, *VS-K*-5/18, *KS*-4/8, *MS*-7/35)
+</details>
 </details>
 </div>

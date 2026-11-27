@@ -9,7 +9,7 @@ unicode_script: devanagari
 
 स्रोतो [ऽत्र](https://github.com/somasushma/tex-files/blob/master/AVdevIyAga/AV_devI_yAga.tex)।
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/atharva/paippalAdam/saMhitA/vishvAsa-prastutiH/20/011/10_yA_rAkA_yA.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/atharva/paippalAdam/saMhitA/Rk/vishvAsa-prastutiH/20/011/10_yA_rAkA_yA.md">
 <details open><summary><h5>१० या राका या ...{Loading}...</h5></summary>
 
 या᳓ राका᳓ या᳓ सिनीवाली᳓  
@@ -18,7 +18,7 @@ unicode_script: devanagari
 वरुणानीं᳓ स्वस्त᳓ये ॥  
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/atharva/paippalAdam/saMhitA/vishvAsa-prastutiH/11/001/06_sinIvAlIm_anumatiM_rAkAm.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/atharva/paippalAdam/saMhitA/Rk/vishvAsa-prastutiH/11/001/06_sinIvAlIm_anumatiM_rAkAm.md">
 <details open><summary><h5>०६ सिनीवालीम् अनुमतिं राकाम् ...{Loading}...</h5></summary>
 
 सिनीवाली᳓म् अ᳓नुमतीं  
@@ -27,7 +27,7 @@ unicode_script: devanagari
 इन्द्राणी᳓म् अ᳓वसे हुवे ॥
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/atharva/paippalAdam/saMhitA/vishvAsa-prastutiH/20/036/02_senAsi_pRthivI_dhananjay.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/atharva/paippalAdam/saMhitA/Rk/vishvAsa-prastutiH/20/036/02_senAsi_pRthivI_dhananjay.md">
 <details open><summary><h5>०२ सेनासि पृथिवी धनञ्जय् ...{Loading}...</h5></summary>
 
 सेना᳓सि पृथिवी᳓ धनञ्जया᳓  
